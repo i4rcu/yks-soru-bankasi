@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417355212_0",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Durgun hâlden aynı V potansiyel farkı altında hızlandırılan bir elektron ile bir protonun de Broglie dalga boyları sırasıyla λₑ ve λₚ'dir. Elektronun kütlesi mₑ, protonun kütlesi mₚ olduğuna göre (mₚ > mₑ), bu dalga boyları arasındaki ilişki aşağıdakilerden hangisidir?",
+    "options": [
+      "λₑ = λₚ",
+      "λₑ > λₚ",
+      "λₑ < λₚ",
+      "İlişki, V potansiyel farkının büyüklüğüne bağlıdır.",
+      "Kütleleri farklı olduğu için de Broglie dalga boyları karşılaştırılamaz."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir parçacık, V potansiyel farkı altında hızlandırıldığında kazandığı kinetik enerji (K), yükü (q) ile potansiyel farkın çarpımına eşittir: K = qV. Elektron ve protonun yük büyüklükleri eşit olduğundan (e), her ikisi de aynı kinetik enerjiyi kazanır: Kₑ = Kₚ = eV. \n\nDe Broglie dalga boyu formülü λ = h/p'dir, burada h Planck sabiti ve p parçacığın momentumudur. Kinetik enerji ile momentum arasındaki ilişki K = p²/(2m) veya p = √(2mK) şeklindedir. \n\nBu iki formülü birleştirirsek, de Broglie dalga boyu için λ = h/√(2mK) ifadesini elde ederiz. \n\nElektron ve proton için bu ifadeyi yazarsak:\nλₑ = h/√(2mₑK)\nλₚ = h/√(2mₚK)\n\nHer iki parçacığın kazandığı kinetik enerji (K) ve Planck sabiti (h) aynı olduğundan, dalga boyu kütlenin karekökü ile ters orantılıdır (λ ∝ 1/√m). Soruda protonun kütlesinin elektronun kütlesinden daha büyük olduğu (mₚ > mₑ) verilmiştir. Bu durumda, kütlesi daha küçük olan elektronun de Broglie dalga boyu, kütlesi daha büyük olan protonunkinden daha büyük olacaktır. Dolayısıyla, λₑ > λₚ ilişkisi doğrudur.",
+    "difficulty": 3
+  }
+]
