@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417514928_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "options": [
+      "Hava oldukça soğuktu ama yine de dışarı çıkmaktan vazgeçmedik.",
+      "Kitabı bitiremedim çünkü son bölümleri çok sıkıcıydı.",
+      "Uzun bir yolculuktan gelmişti, hemen yatağına uzanıp uyudu.",
+      "Ya bu işi bugün bitiririz ya da yarına ertelemek zorunda kalırız.",
+      "Çok çalıştı ve sonunda hedeflerine ulaşmayı başardı."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruda cümlelerin yapılarına göre sınıflandırılması istenmektedir. Cümle yapıları basit, birleşik, sıralı ve bağlı olarak dörde ayrılır. Seçenekleri incelediğimizde:\n\nA) \"Hava oldukça soğuktu\" ve \"yine de dışarı çıkmaktan vazgeçmedik\" cümleleri \"ama\" bağlacıyla birbirine bağlandığı için bu cümle **bağlı cümledir**.\n\nB) \"Kitabı bitiremedim\" ve \"son bölümleri çok sıkıcıydı\" cümleleri \"çünkü\" bağlacıyla birbirine bağlandığı için bu cümle **bağlı cümledir**.\n\nC) \"Uzun bir yolculuktan gelmişti\" ve \"hemen yatağına uzanıp uyudu\" cümleleri birbirine virgül (,) ile bağlandığı için bu cümle **sıralı cümledir**.\n\nD) İki yargı \"ya ... ya da\" bağlacıyla birbirine bağlandığı için bu cümle **bağlı cümledir**.\n\nE) \"Çok çalıştı\" ve \"sonunda hedeflerine ulaşmayı başardı\" cümleleri \"ve\" bağlacıyla birbirine bağlandığı için bu cümle **bağlı cümledir**.\n\nA, B, D ve E seçenekleri bağlı cümle iken, C seçeneğindeki cümle sıralı cümledir. Bu nedenle doğru cevap C'dir.",
+    "difficulty": 3
+  }
+]
