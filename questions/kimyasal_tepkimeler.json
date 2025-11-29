@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417398495_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında beyaz bir çökelti oluşmaktadır. Bu tepkime ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?",
+    "options": [
+      "Tepkime denklemi AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq) şeklindedir.",
+      "Çözünme-çökelme tepkimesi olarak sınıflandırılır.",
+      "Net iyon denklemi Ag⁺(aq) + Cl⁻(aq) → AgCl(k) şeklindedir.",
+      "Na⁺ ve NO₃⁻ iyonları seyirci (gözlemci) iyonlardır.",
+      "Tepkime sonucunda çözeltideki iyon derişimi artar."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tepkime, iki çözeltinin karıştırılmasıyla suda çözünmeyen katı bir maddenin (çökelti) oluştuğu bir çözünme-çökelme tepkimesidir. \n1. **Moleküler Denklem:** AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq). Gümüş klorür (AgCl) katı olarak çökerken, sodyum nitrat (NaNO₃) suda çözünmüş halde kalır. Bu nedenle A şıkkı doğrudur. \n2. **Tepkime Türü:** Bu olay bir çözünme-çökelme tepkimesidir. Aynı zamanda iyonların yer değiştirmesi nedeniyle bir yer değiştirme (metatez) tepkimesidir. B şıkkı doğrudur. \n3. **Net İyon Denklemi:** Tepkimede sadece çökelti oluşumuna katılan iyonlar net iyon denkleminde gösterilir. Gümüş (Ag⁺) ve klorür (Cl⁻) iyonları birleşerek gümüş klorür (AgCl) katısını oluşturur. Dolayısıyla net iyon denklemi Ag⁺(aq) + Cl⁻(aq) → AgCl(k) şeklindedir. C şıkkı doğrudur. \n4. **Seyirci İyonlar:** Tepkimeye girmeyen ve çözeltide serbest halde kalmaya devam eden iyonlar seyirci iyonlardır. Bunlar sodyum (Na⁺) ve nitrat (NO₃⁻) iyonlarıdır. D şıkkı doğrudur. \n5. **İyon Derişimi:** Tepkime başlangıcında çözeltide Ag⁺, NO₃⁻, Na⁺ ve Cl⁻ iyonları bulunmaktadır. Tepkime sonunda Ag⁺ ve Cl⁻ iyonları birleşerek katı oluşturduğu için çözeltideki toplam iyon sayısı ve dolayısıyla iyon derişimi azalır. Bu nedenle E şıkkındaki ifade yanlıştır.",
+    "difficulty": 3
+  }
+]
