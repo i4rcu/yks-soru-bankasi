@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417092434_0",
+    "subjectId": "mat",
+    "topic": "Limit",
+    "questionText": "lim (x → 2) [ (√(x + 7) - 3) / (x² - 4) ] ifadesinin değeri kaçtır?",
+    "options": [
+      "1/4",
+      "1/6",
+      "1/12",
+      "1/24",
+      "0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Verilen limit ifadesinde x yerine 2 yazdığımızda, pay ve paydanın değerlerini kontrol edelim:\nPay: √(2+7) - 3 = √9 - 3 = 3 - 3 = 0\nPayda: 2² - 4 = 4 - 4 = 0\nBu durumda 0/0 belirsizliği ile karşılaşırız.\n\nBelirsizliği gidermek için pay ve paydayı çarpanlarına ayırmalıyız. Paydaki köklü ifadeden kurtulmak için payı ve paydayı, payın eşleniği olan (√(x + 7) + 3) ile çarparız.\n\nlim (x → 2) [ (√(x + 7) - 3) * (√(x + 7) + 3) ] / [ (x² - 4) * (√(x + 7) + 3) ]\n\nPay kısmında iki kare farkı özdeşliği ((a-b)(a+b) = a²-b²) oluşur:\n(√(x + 7))² - 3² = (x + 7) - 9 = x - 2\n\nPayda kısmındaki (x² - 4) ifadesini de iki kare farkı olarak çarpanlarına ayırırız:\nx² - 4 = (x - 2)(x + 2)\n\nŞimdi limit ifadesini yeniden düzenleyelim:\nlim (x → 2) [ (x - 2) ] / [ (x - 2)(x + 2)(√(x + 7) + 3) ]\n\nPay ve paydadaki (x - 2) terimleri sadeleşir:\nlim (x → 2) [ 1 ] / [ (x + 2)(√(x + 7) + 3) ]\n\nArtık belirsizlik ortadan kalktığı için x yerine 2 yazarak limitin değerini bulabiliriz:\n= 1 / [ (2 + 2)(√(2 + 7) + 3) ]\n= 1 / [ 4 * (√9 + 3) ]\n= 1 / [ 4 * (3 + 3) ]\n= 1 / [ 4 * 6 ]\n= 1 / 24\n\nDolayısıyla, limitin değeri 1/24'tür.",
+    "difficulty": 3
+  }
+]
