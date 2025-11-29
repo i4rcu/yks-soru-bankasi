@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417543020_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "(I) Sanatçı, eserlerinde kullandığı dili sadeleştirerek daha geniş kitlelere ulaşmayı hedefliyordu. (II) Bu sayede, romanları farklı yaş ve eğitim seviyelerinden okurlar tarafından ilgiyle karşılandı.\n\nBu iki cümlede ifade edilenler arasındaki anlam ilişkisi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Birinci cümlede belirtilen durumun bir çelişkisinden söz edilmektedir.",
+      "B) İkinci cümlede, birinci cümlede ifade edilen eylemin amacı belirtilmektedir.",
+      "C) Birinci cümlede anlatılan eylemin yol açtığı bir sonuç ikinci cümlede verilmiştir.",
+      "D) Birinci cümledeki yargıyı desteklemek için ikinci cümlede bir örnek sunulmuştur.",
+      "E) İki cümlede de aynı konunun farklı yönleri karşılaştırılarak ele alınmıştır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruda iki cümle arasındaki anlam ilişkisini belirlememiz istenmektedir. Birinci cümlede, sanatçının bir eylemi (dilini sadeleştirmesi) ve bu eylemi yapma hedefi (geniş kitlelere ulaşmak) anlatılmaktadır. İkinci cümle ise 'Bu sayede' ifadesiyle başlayarak, birinci cümledeki eylemin ortaya çıkardığı bir neticeyi, yani gerçekleşmiş bir durumu (romanlarının farklı kesimlerce ilgi görmesini) ifade etmektedir. Dolayısıyla, birinci cümledeki eylem 'neden', ikinci cümledeki durum ise bu nedenin doğurduğu 'sonuç'tur. Bu nedenle doğru cevap C seçeneğidir. B seçeneği güçlü bir çeldiricidir; ancak amaç birinci cümlede belirtilmiştir, ikinci cümlede ise bu amacın gerçekleşmesiyle ortaya çıkan sonuç yer almaktadır. Diğer seçeneklerde belirtilen çelişki, örnekleme veya karşılaştırma anlamları cümleler arasında bulunmamaktadır.",
+    "difficulty": 3
+  }
+]
