@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ai_1764417423523_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Kapalı formülü C₄H₁₀O olan bileşiğin, primer (birincil) alkol olan yapı izomeri sayısı kaçtır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C₄H₁₀O kapalı formülüne sahip alkol izomerleri ve sınıflandırılması aşağıda verilmiştir:\n\n1.  **Butan-1-ol (CH₃-CH₂-CH₂-CH₂-OH):** -OH grubunun bağlı olduğu karbon atomu bir başka karbon atomuna bağlı olduğu için **primer (birincil)** alkoldür.\n2.  **Butan-2-ol (CH₃-CH₂-CH(OH)-CH₃):** -OH grubunun bağlı olduğu karbon atomu iki başka karbon atomuna bağlı olduğu için **sekonder (ikincil)** alkoldür.\n3.  **2-Metilpropan-1-ol ( (CH₃)₂CH-CH₂-OH ):** -OH grubunun bağlı olduğu karbon atomu bir başka karbon atomuna bağlı olduğu için **primer (birincil)** alkoldür.\n4.  **2-Metilpropan-2-ol ( (CH₃)₃C-OH ):** -OH grubunun bağlı olduğu karbon atomu üç başka karbon atomuna bağlı olduğu için **tersiyer (üçüncül)** alkoldür.\n\nBu izomerlerden Butan-1-ol ve 2-Metilpropan-1-ol olmak üzere toplam 2 tanesi primer alkoldür. Bu nedenle doğru cevap '2' dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764417423523_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Propanal ve propanon bileşikleri ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?",
+    "options": [
+      "Birbirlerinin fonksiyonel grup izomeridirler.",
+      "Propanal, Tollens ayıracı ile tepkime vererek gümüş aynası oluşturur.",
+      "Propanon, NaBH₄ ile indirgendiğinde 1-propanol (primer alkol) oluşur.",
+      "Her ikisinin de molekülleri arasında yoğun fazda hidrojen bağı bulunmaz.",
+      "Normal koşullarda propanal, bir C atomu daha az olan etil metil eterden daha yüksek kaynama noktasına sahiptir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Propanal bir aldehit (CH₃CH₂CHO), propanon ise bir ketondur (CH₃COCH₃). Her ikisinin de kapalı formülü C₃H₆O'dur.\n\nA) **Doğru.** Kapalı formülleri aynı (C₃H₆O) fakat fonksiyonel grupları (aldehit ve keton) farklı olduğu için birbirlerinin fonksiyonel grup izomeridirler.\n\nB) **Doğru.** Propanal bir aldehit olduğundan, Tollens ayıracı (amonyaklı gümüş nitrat çözeltisi) ile yükseltgenerek karboksilik aside dönüşürken, Ag⁺ iyonlarını metalik gümüşe (Ag) indirger ve gümüş aynası oluşturur. Ketonlar bu tepkimeyi vermez.\n\nC) **Yanlış.** Ketonların NaBH₄ (sodyum bor hidrür) gibi indirgenlerle indirgenmesi sonucu **sekonder (ikincil)** alkoller oluşur. Propanonun indirgenmesiyle 2-propanol (izopropil alkol) oluşur. Primer alkoller (1-propanol gibi), aldehitlerin indirgenmesiyle oluşur.\n\nD) **Doğru.** Her iki molekül de polar C=O bağı içerir ve molekülleri arasında dipol-dipol etkileşimleri bulunur. Ancak moleküllerinde oksijene bağlı hidrojen atomu (O-H) bulunmadığı için kendi molekülleri arasında hidrojen bağı kuramazlar.\n\nE) **Doğru.** Propanal (C₃H₆O) polar bir moleküldür ve dipol-dipol etkileşimleri vardır. Etil metil eter (C₃H₈O) ise daha az polardır. Polaritesi daha yüksek olan propanalın kaynama noktası daha düşüktür. (Propanal K.N: ~49°C, Etil metil eter K.N: ~7°C). Bu nedenle ifade doğrudur.",
+    "difficulty": 3
+  }
+]
