@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417235148_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Yatay ve sürtünmesiz bir düzlemin K noktasında durmakta olan 2 kg kütleli bir cisme, yola paralel 10 N büyüklüğünde sabit bir kuvvet uygulanıyor. Cisim, kuvvetin etkisinde 4 metre yol alarak L noktasına ulaşıyor ve bu noktada kuvvet kaldırılıyor. Cisim, L noktasından sonra sürtünmeli yatay bir yola girerek 5 metre daha ilerleyip M noktasında duruyor. Buna göre, LM yolu boyunca cisim ile yüzey arasındaki kinetik sürtünme katsayısı kaçtır? (g = 10 m/s² alınacaktır.)",
+    "options": [
+      "0,1",
+      "0,2",
+      "0,4",
+      "0,5",
+      "0,8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu problemi çözmek için İş-Enerji Teoremi'ni kullanabiliriz. Teorem, bir cisme etki eden net kuvvetin yaptığı işin, cismin kinetik enerjisindeki değişime eşit olduğunu söyler (W_net = ΔKE).\n\n1. Adım: K-L arası enerji değişimi:\nCisim K noktasında durduğu için ilk kinetik enerjisi (KE_K) sıfırdır. K'dan L'ye giderken cisme sadece F = 10 N'luk kuvvet iş yapar (yüzey sürtünmesizdir).\nF kuvvetinin yaptığı iş: W_F = F × Δx_KL = 10 N × 4 m = 40 J.\nİş-Enerji Teoremi'ne göre, bu iş cismin L noktasındaki kinetik enerjisine eşittir.\nΔKE = KE_L - KE_K  =>  40 J = KE_L - 0  =>  KE_L = 40 J.\n\n2. Adım: L-M arası enerji değişimi:\nL noktasında F kuvveti kaldırılıyor ve cisim sürtünmeli yola giriyor. Cisim M noktasında durduğuna göre son kinetik enerjisi (KE_M) sıfırdır.\nBu aralıkta iş yapan tek kuvvet sürtünme kuvvetidir ve enerjiyi azaltır. Sürtünme kuvvetinin yaptığı iş (W_s), cismin L'deki kinetik enerjisini tamamen tüketmelidir.\nΔKE = KE_M - KE_L  =>  W_s = 0 - 40 J  =>  W_s = -40 J.\nSürtünme kuvvetinin yaptığı işin formülü: W_s = -f_s × Δx_LM'dir.\nSürtünme kuvveti (f_s) ise f_s = μ_k × N = μ_k × m × g ile bulunur.\nf_s = μ_k × 2 kg × 10 m/s² = 20μ_k.\nBu değeri iş formülünde yerine koyalım:\nW_s = -(20μ_k) × 5 m = -100μ_k.\nBulduğumuz iki iş değerini eşitleyelim:\n-40 J = -100μ_k\nμ_k = 40 / 100 = 0,4.\n\nSonuç olarak, LM yolu boyunca kinetik sürtünme katsayısı 0,4'tür.",
+    "difficulty": 3
+  }
+]
