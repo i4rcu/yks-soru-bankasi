@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417495750_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Vücut dokularında üretilen karbondioksitin kan yoluyla akciğerlere taşınması sırasında gerçekleşen olaylarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Taşınmanın büyük bir kısmı, CO2'nin doğrudan kan plazmasında çözünmesiyle gerçekleşir.",
+      "Doku kılcallarında pH'ın düşmesi, hemoglobinin oksijene olan ilgisini artırır.",
+      "Karbondioksitin tamamı, alyuvarlar içinde karbominohemoglobin şeklinde taşınır.",
+      "Karbondioksitin büyük bir kısmı, plazmada bikarbonat iyonları (HCO3-) şeklinde taşınır.",
+      "Karbonik anhidraz enzimi, alyuvarlarda bikarbonat iyonlarını hemoglobine bağlar."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vücut dokularında oluşan karbondioksitin kanda taşınması üç temel yolla gerçekleşir: %7'si plazmada çözünmüş halde, %23'ü alyuvarlarda hemoglobine bağlanarak (karbominohemoglobin), ve en büyük kısmı olan yaklaşık %70'i bikarbonat iyonları (HCO3−) şeklinde plazmada taşınır. Bu süreçte, CO2 doku kılcallarında alyuvarların içine girer ve karbonik anhidraz enzimi aracılığıyla su ile birleşerek karbonik asit (H2CO3) oluşturur. Karbonik asit daha sonra H+ ve bikarbonat (HCO3−) iyonlarına ayrışır. Oluşan bikarbonat iyonları alyuvardan plazmaya çıkarak akciğerlere kadar taşınır. Bu nedenle D şıkkı doğrudur. \n\nA şıkkı yanlıştır, çünkü plazmada çözünen miktar en azdır. \nB şıkkı yanlıştır, çünkü doku kılcallarında artan CO2 miktarı pH'ı düşürür (asitliği artırır) ve bu durum (Bohr etkisi) hemoglobinin oksijene olan ilgisini azaltarak oksijenin dokulara daha kolay bırakılmasını sağlar. \nC şıkkı yanlıştır, çünkü CO2'nin sadece bir kısmı karbominohemoglobin şeklinde taşınır. \nE şıkkı yanlıştır, çünkü karbonik anhidraz enzimi CO2 ve suyu birleştirerek karbonik asit oluşumunu katalizler, bikarbonat iyonlarını hemoglobine bağlamaz.",
+    "difficulty": 3
+  }
+]
