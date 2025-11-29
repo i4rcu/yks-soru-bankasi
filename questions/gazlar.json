@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417449231_0",
+    "subjectId": "kim",
+    "topic": "Gazlar",
+    "questionText": "Sürtünmesiz hareketli piston içeren bir kapta T Kelvin sıcaklığında 2V hacim kaplayan bir miktar N₂O₄ gazı bulunmaktadır. Gazın %50'si, N₂O₄(g) → 2NO₂(g) denklemine göre ayrıştığında sistemin son sıcaklığı 2T Kelvin'e çıkarılıyor. Buna göre, kabın son hacmi kaç V olur?",
+    "options": [
+      "3V",
+      "4V",
+      "5V",
+      "6V",
+      "8V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu soruyu çözmek için İdeal Gaz Yasası (PV=nRT) ve mol kavramını birleştirmeliyiz. Sürtünmesiz hareketli pistonlu kaplarda iç basınç, dış basınca eşit olduğu için basınç (P) sabittir. Bu durumda V₁/(n₁T₁) = V₂/(n₂T₂) formülünü kullanabiliriz.\n\n1. **Başlangıç Durumu (Durum 1):**\n   - Hacim: V₁ = 2V\n   - Sıcaklık: T₁ = T\n   - Mol sayısı: Başlangıçtaki N₂O₄ mol sayısına 'n' diyelim. n₁ = n\n\n2. **Tepkime ve Mol Sayısındaki Değişim:**\n   - Tepkime: N₂O₄(g) → 2NO₂(g)\n   - Başlangıçta n mol N₂O₄ vardı. %50'si ayrıştığı için n * 0.5 = 0.5n mol N₂O₄ tepkimeye girer.\n   - Harcanan N₂O₄: 0.5n mol\n   - Oluşan NO₂: Katsayı oranına göre (1'e 2), 2 * 0.5n = n mol NO₂ oluşur.\n   - Kapta kalan N₂O₄: n - 0.5n = 0.5n mol\n   - Kaptaki toplam mol sayısı (n₂): 0.5n (N₂O₄) + n (NO₂) = 1.5n mol olur.\n\n3. **Son Durum (Durum 2):**\n   - Toplam mol sayısı: n₂ = 1.5n\n   - Son sıcaklık: T₂ = 2T\n   - Son hacim: V₂ = ?\n\n4. **Hesaplama:**\n   - V₁/(n₁T₁) = V₂/(n₂T₂) formülünde değerleri yerine yazalım:\n   - (2V) / (n * T) = V₂ / (1.5n * 2T)\n   - (2V) / (nT) = V₂ / (3nT)\n   - 'n' ve 'T' terimleri her iki taraftan sadeleşir:\n   - 2V = V₂ / 3\n   - V₂ = 2V * 3\n   - V₂ = 6V\n\nSonuç olarak, kabın son hacmi 6V olur.",
+    "difficulty": 3
+  }
+]
