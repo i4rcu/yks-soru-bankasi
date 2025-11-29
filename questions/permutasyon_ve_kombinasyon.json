@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417206772_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "5'i doktor ve 6'sı hemşire olan 11 kişilik bir sağlık ekibinden, içinde en az 2 doktorun bulunduğu 4 kişilik bir nöbet ekibi kaç farklı şekilde oluşturulabilir?",
+    "options": [
+      "150",
+      "185",
+      "215",
+      "275",
+      "330"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruyu çözmek için iki farklı yöntem kullanabiliriz. İstenen durum, ekipte en az 2 doktor olmasıdır. Bu, ekipte 2, 3 veya 4 doktor olabileceği anlamına gelir.\n\n**Yöntem 1: Durumları Ayrı Ayrı Hesaplama**\n\nOluşturulacak 4 kişilik ekipteki doktor ve hemşire sayılarına göre durumları inceleriz:\n\n*   **Durum 1: 2 Doktor ve 2 Hemşire seçilmesi**\n    5 doktordan 2'si C(5, 2) şekilde, 6 hemşireden 2'si C(6, 2) şekilde seçilir.\n    C(5, 2) = (5 * 4) / (2 * 1) = 10\n    C(6, 2) = (6 * 5) / (2 * 1) = 15\n    Bu durum için toplam kombinasyon: 10 * 15 = 150\n\n*   **Durum 2: 3 Doktor ve 1 Hemşire seçilmesi**\n    5 doktordan 3'ü C(5, 3) şekilde, 6 hemşireden 1'i C(6, 1) şekilde seçilir.\n    C(5, 3) = (5 * 4 * 3) / (3 * 2 * 1) = 10\n    C(6, 1) = 6\n    Bu durum için toplam kombinasyon: 10 * 6 = 60\n\n*   **Durum 3: 4 Doktor ve 0 Hemşire seçilmesi**\n    5 doktordan 4'ü C(5, 4) şekilde seçilir.\n    C(5, 4) = 5\n    Bu durum için toplam kombinasyon: 5 * 1 = 5\n\nBu üç durumun toplamı, istenen sonucu verir:\nToplam = 150 + 60 + 5 = 215\n\n**Yöntem 2: Tüm Durumdan İstenmeyen Durumları Çıkarma**\n\n*   **Tüm Durum:** 11 kişiden 4 kişilik bir ekibin kaç farklı şekilde seçilebileceğidir.\n    C(11, 4) = (11 * 10 * 9 * 8) / (4 * 3 * 2 * 1) = 11 * 10 * 3 = 330\n\n*   **İstenmeyen Durumlar:** İçinde 2'den az doktor bulunan ekiplerdir (yani 0 veya 1 doktorlu ekipler).\n    *   **0 Doktor, 4 Hemşire:** C(5, 0) * C(6, 4) = 1 * 15 = 15\n    *   **1 Doktor, 3 Hemşire:** C(5, 1) * C(6, 3) = 5 * 20 = 100\n    Toplam istenmeyen durum sayısı: 15 + 100 = 115\n\n*   **Sonuç:** Tüm Durum - İstenmeyen Durumlar\n    330 - 115 = 215\n\nHer iki yöntem de aynı sonuca ulaşır. Doğru cevap 215'tir.",
+    "difficulty": 3
+  }
+]
