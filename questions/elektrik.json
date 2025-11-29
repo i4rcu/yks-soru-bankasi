@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417262437_0",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "İç direnci önemsiz bir üreteç ve özdeş K, L, M lambaları ile bir elektrik devresi kurulmuştur. Devrede K lambası, birbirine paralel bağlı olan L ve M lambalarına seri olarak bağlanmıştır. Başlangıçta tüm lambalar ışık verirken, bir süre sonra M lambasının filamanı koparak devreyi açık hale getiriyor. Bu durumda K ve L lambalarının parlaklıkları ilk duruma göre nasıl değişir?",
+    "options": [
+      "K: Artar, L: Azalır",
+      "K: Değişmez, L: Artar",
+      "K: Azalır, L: Artar",
+      "K: Artar, L: Artar",
+      "K: Azalır, L: Azalır"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lambaların parlaklığı, üzerinden geçen akımın karesiyle (veya gücüyle) doğru orantılıdır. Her bir lambanın direncine R diyelim.\n\n**İlk Durum:**\nL ve M lambaları paralel bağlı olduğu için bu kolun eşdeğer direnci R_LM = (R * R) / (R + R) = R/2 olur. K lambası bu kola seri bağlı olduğu için devrenin toplam eşdeğer direnci R_eş1 = R_K + R_LM = R + R/2 = 3R/2'dir. Üretecin gerilimi V ise, ana koldan geçen akım (yani K'nin akımı) I_ana1 = V / R_eş1 = V / (3R/2) = 2V/3R olur. Bu akım L ve M kollarına eşit olarak (lambalar özdeş olduğu için) paylaşılır. Dolayısıyla L'nin üzerinden geçen akım I_L1 = I_ana1 / 2 = (2V/3R) / 2 = V/3R'dir.\n\n**Son Durum (M'nin filamanı koptuktan sonra):**\nM lambasının olduğu kol açık devre olur ve o koldan akım geçmez. Devre, sadece birbirine seri bağlı K ve L lambalarından oluşur. Yeni toplam eşdeğer direnç R_eş2 = R_K + R_L = R + R = 2R olur. Devreden geçen yeni ana kol akımı I_ana2 = V / R_eş2 = V/2R olur. Bu akım hem K'nin hem de L'nin üzerinden geçer. Yani I_K2 = V/2R ve I_L2 = V/2R'dir.\n\n**Karşılaştırma:**\n*   **K Lambası:** İlk akım I_K1 = 2V/3R ≈ 0.67(V/R) iken, son akım I_K2 = V/2R = 0.5(V/R) oldu. Akım azaldığı için K'nin parlaklığı **azalır**.\n*   **L Lambası:** İlk akım I_L1 = V/3R ≈ 0.33(V/R) iken, son akım I_L2 = V/2R = 0.5(V/R) oldu. Akım arttığı için L'nin parlaklığı **artar**.\n\nSonuç olarak, K'nin parlaklığı azalır, L'nin parlaklığı artar.",
+    "difficulty": 3
+  }
+]
