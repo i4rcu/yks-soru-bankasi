@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417373439_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aynı sıcaklıkta ve eşit derişimde hazırlanan aşağıdaki sulu çözeltilerden hangisinin pH değeri en büyüktür?",
+    "options": [
+      "HCl (Hidroklorik asit)",
+      "H₂SO₄ (Sülfürik asit)",
+      "CH₃COOH (Asetik asit)",
+      "NH₃ (Amonyak)",
+      "NaOH (Sodyum hidroksit)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Soruda verilen maddelerin asitlik ve bazlık kuvvetlerini değerlendirmemiz gerekmektedir. pH değeri, bir çözeltinin asitlik veya bazlık derecesini gösteren bir ölçüttür. pH ölçeği 0-14 arasındadır; 7 nötr, 7'den küçükse asidik, 7'den büyükse baziktir. Bir çözeltinin bazlığı ne kadar kuvvetli ise pH değeri o kadar büyük olur.\n\nVerilen şıkları inceleyelim:\n- HCl (Hidroklorik asit): Kuvvetli bir asittir. Suda %100'e yakın iyonlaşır ve pH değeri çok düşüktür.\n- H₂SO₄ (Sülfürik asit): Kuvvetli bir asittir. Suda %100'e yakın iyonlaşır ve pH değeri çok düşüktür.\n- CH₃COOH (Asetik asit): Zayıf bir asittir. Suda kısmen iyonlaşır. pH değeri kuvvetli asitlerden daha büyük ancak 7'den küçüktür.\n- NH₃ (Amonyak): Zayıf bir bazdır. Suda kısmen iyonlaşarak OH⁻ iyonu oluşturur. pH değeri 7'den büyüktür.\n- NaOH (Sodyum hidroksit): Kuvvetli bir bazdır. Suda %100'e yakın iyonlaşarak OH⁻ iyonu oluşturur. pH değeri zayıf bazlardan çok daha yüksektir ve 14'e yakındır.\n\nEşit derişimde, en kuvvetli baz olan çözeltinin pH değeri en büyük olacaktır. Bu nedenle doğru cevap NaOH'dır.",
+    "difficulty": 3
+  }
+]
