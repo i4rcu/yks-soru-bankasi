@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417471152_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronda aksiyon potansiyeli oluşumu sırasında gerçekleşen repolarizasyon evresi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Hücre zarının iç kısmı, dış kısmına göre pozitif yüklü hale gelir.",
+      "Voltaj kapılı sodyum (Na+) kanalları açılarak hücre içine sodyum iyonu girişi hızlanır.",
+      "Voltaj kapılı potasyum (K+) kanalları açılır ve potasyum iyonları hücre dışına çıkar.",
+      "Sodyum-potasyum pompası bu evrede aktifleşerek iyon derişimini aniden eski haline getirir.",
+      "Miyelinli aksonlarda bu olay sadece Ranvier boğumlarında gerçekleşir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aksiyon potansiyeli, bir nöronun uyarılmasıyla zar potansiyelinde meydana gelen ani ve geçici bir değişikliktir. Bu süreç üç ana evreden oluşur: depolarizasyon, repolarizasyon ve hiperpolarizasyon.\n\n1.  **Depolarizasyon:** Uyarı eşik değeri aştığında voltaj kapılı Na+ kanalları açılır. Hücre içine hızla Na+ iyonu girer ve hücre içinin pozitif (+40 mV) yüklenmesine neden olur. (A ve B şıkları bu evreyi tanımlar.)\n2.  **Repolarizasyon:** Zar potansiyeli tepe noktasına ulaştığında, voltaj kapılı Na+ kanalları inaktive olur (kapanır) ve voltaj kapılı K+ kanalları açılır. Bu durum, pozitif yüklü K+ iyonlarının hücre dışına çıkmasına neden olur. Pozitif yük kaybı, zar potansiyelinin tekrar negatif değerlere düşmesini sağlar. Bu olaya repolarizasyon denir. (C şıkkı doğrudur.)\n3.  **Hiperpolarizasyon:** K+ kanallarının yavaş kapanması nedeniyle zar potansiyeli, dinlenme potansiyelinin (-70 mV) altına düşebilir.\n\n**Şıkların Değerlendirilmesi:**\n*   A ve B şıkları, depolarizasyon evresini açıklar.\n*   C şıkkı, repolarizasyonun temel mekanizması olan K+ iyonlarının hücre dışına çıkışını doğru bir şekilde ifade eder.\n*   D şıkkı yanlıştır. Sodyum-potasyum pompası her zaman aktiftir ancak iyon derişimini düzenlemesi, aksiyon potansiyelinin hızlı evrelerinden daha yavaş bir süreçtir. Repolarizasyonun ana nedeni K+ çıkışıdır.\n*   E şıkkı yanlıştır. Aksiyon potansiyelinin kendisi (depolarizasyon ve repolarizasyon olayları) Ranvier boğumlarında gerçekleşirken, bu şık repolarizasyonun tanımını değil, yerini belirtmektedir. Soru, olayın kendisiyle ilgilidir.",
+    "difficulty": 3
+  }
+]
