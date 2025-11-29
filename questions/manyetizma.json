@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417303425_0",
+    "subjectId": "fiz",
+    "topic": "Manyetizma",
+    "questionText": "x-y düzlemine yerleştirilmiş, L noktasında dik olarak bükülmüş iletken bir telden I akımı geçmektedir. Telin KL kısmı y ekseni boyunca +y yönünde, LM kısmı ise x ekseni boyunca +x yönünde akım taşımaktadır. Bu tel, sayfa düzlemine dik ve içeri doğru yönelmiş düzgün bir B manyetik alanının içerisindedir. |KL| = |LM| = L olduğuna göre, telin KLM kısmına etki eden bileşke manyetik kuvvetin yönü nedir?",
+    "options": [
+      "+x yönü",
+      "-y yönü",
+      "+y yönü ile -x yönü arasında",
+      "+x yönü ile +y yönü arasında",
+      "-x yönü ile -y yönü arasında"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manyetik alan içindeki akım taşıyan bir tele etki eden kuvvet, F = I.(L x B) vektörel çarpımı ile bulunur. Yönü ise sağ el kuralı ile belirlenir. Sağ elin baş parmağı akım (I) yönünü, işaret parmağı manyetik alan (B) yönünü gösterecek şekilde tutulduğunda, avuç içine dik olan yön manyetik kuvvetin (F) yönünü verir.\n\n1. **KL teline etki eden kuvvet (F_KL):**\n   - Akım yönü: +y\n   - Manyetik alan yönü: Sayfa düzleminden içeri (-z yönü)\n   - Sağ el kuralı uygulandığında, baş parmak +y yönünü, işaret parmağı içeri yönü gösterir. Bu durumda avuç içi -x yönünü gösterir. Dolayısıyla F_KL, -x yönündedir.\n   - Büyüklüğü: F_KL = B.I.L\n\n2. **LM teline etki eden kuvvet (F_LM):**\n   - Akım yönü: +x\n   - Manyetik alan yönü: Sayfa düzleminden içeri (-z yönü)\n   - Sağ el kuralı uygulandığında, baş parmak +x yönünü, işaret parmağı içeri yönü gösterir. Bu durumda avuç içi +y yönünü gösterir. Dolayısıyla F_LM, +y yönündedir.\n   - Büyüklüğü: F_LM = B.I.L\n\n3. **Bileşke Kuvvet (F_net):**\n   - Tele etki eden net kuvvet, bu iki kuvvetin vektörel toplamıdır: F_net = F_KL + F_LM.\n   - Biri -x yönünde (F_KL), diğeri +y yönünde (F_LM) olan iki vektörün bileşkesi, bu iki yönün arasında bir yönde olacaktır. Yani bileşke kuvvet, koordinat sisteminin ikinci bölgesinde, +y yönü ile -x yönü arasındadır.\n\nBu nedenle doğru cevap C seçeneğidir.",
+    "difficulty": 3
+  }
+]
