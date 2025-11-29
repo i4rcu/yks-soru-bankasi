@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_1764417328363_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hava ortamında bulunan bir cam prizmaya, yüzey normali ile belirli bir açı yapacak şekilde beyaz ışık demeti gönderiliyor. Işık prizmadan geçtikten sonra renklere ayrışıyor (kırınım). Bu olayla ilgili olarak, aşağıdaki ifadelerden hangisi **yanlıştır**?",
+    "options": [
+      "Prizmanın yapıldığı camın kırıcılık indisi, ışığın rengine göre değişir.",
+      "Kırmızı renkli ışık, mor renkli ışıktan daha az sapmaya uğrar.",
+      "Prizma içerisinde mor ışığın ortalama sürati, kırmızı ışığın ortalama süratinden daha fazladır.",
+      "Tüm renkler için ışığın prizmaya girerken ve prizmadan çıkarken frekansı değişmez.",
+      "Prizmadan en çok sapan ışık mor, en az sapan ışık ise kırmızıdır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyaz ışığın bir prizmadan geçerken renklerine ayrışması olayına 'dispersiyon' veya 'renklerine ayrılma' denir. Bu olayın temel sebebi, saydam ortamın (cam) kırıcılık indisinin (n) ışığın dalga boyuna (rengine) bağlı olmasıdır. Kırmızı ışığın dalga boyu en büyük, mor ışığın dalga boyu ise en küçüktür. Kırıcılık indisi, dalga boyu ile ters orantılıdır. Bu nedenle, camın kırıcılık indisi mor ışık için en büyük (n_mor), kırmızı ışık için ise en küçüktür (n_kırmızı). \n\n- A ve E seçeneği: Kırıcılık indisi en büyük olan mor ışık en çok sapmaya uğrar, kırıcılık indisi en küçük olan kırmızı ışık ise en az sapmaya uğrar. Bu nedenle A, B ve E seçenekleri doğrudur.\n\n- D seçeneği: Işığın frekansı kaynağa bağlıdır ve ortam değiştirirken değişmez. Bu nedenle D seçeneği doğrudur.\n\n- C seçeneği: Işığın bir ortamdaki ortalama sürati v = c/n formülü ile hesaplanır (c: ışığın boşluktaki hızı, n: ortamın kırıcılık indisi). n_mor > n_kırmızı olduğundan, v_mor < v_kırmızı olur. Yani, mor ışığın prizma içindeki ortalama sürati, kırmızı ışığınkinden daha **düşüktür**. Bu sebeple C seçeneğindeki ifade yanlıştır.",
+    "difficulty": 3
+  }
+]
