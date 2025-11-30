@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764521052829_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
+    "options": [
+      "Öyküleme",
+      "Betimleme",
+      "Açıklama",
+      "Eleştiri",
+      "Tanımlama"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Eleştiri, bir anlatım tekniği olarak kabul edilmez; daha çok bir değerlendirme veya yorumlama biçimidir. Diğer şıklar ise anlatım tekniklerindendir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764521052829_2",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Betimleme, bir nesne, olay veya durumu ayrıntılı bir şekilde anlatma amacı güder. 'Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.' cümlesi bu tanıma uymaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521052829_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
-    "options": [
-      "Öyküleme",
-      "Betimleme",
-      "Açıklama",
-      "Eleştiri",
-      "Tanımlama"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Eleştiri, bir anlatım tekniği olarak kabul edilmez; daha çok bir değerlendirme veya yorumlama biçimidir. Diğer şıklar ise anlatım tekniklerindendir.",
     "difficulty": 3
   },
   {
