@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520282734_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
-    "options": [
-      "NaOH",
-      "HCl",
-      "K2CO3",
-      "Ca(OH)2",
-      "MgO"
-    ],
-    "correctAnswer": 1,
-    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520282734_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 0,
     "explanation": "2Na + Cl2 → 2NaCl tepkimesi bir redoks tepkimesidir çünkü sodyum elektron vererek oksitlenirken, klor elektron alarak indirgenir. Diğer seçenekler ya redoks değil ya da farklı bir mekanizma içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520282734_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
+    "options": [
+      "NaOH",
+      "HCl",
+      "K2CO3",
+      "Ca(OH)2",
+      "MgO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
     "difficulty": 3
   },
   {
