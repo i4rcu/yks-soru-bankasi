@@ -1,18 +1,18 @@
 [
   {
-    "id": "ai_1764520136350_1",
+    "id": "ai_1764520136350_2",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 3 ise, dizinin 5. terimi nedir?",
+    "questionText": "1, 4, 9, 16, 25,... dizisi hangi terim dizisidir?",
     "options": [
-      "54",
-      "162",
-      "486",
-      "1458",
-      "4374"
+      "Aritmetik Dizi",
+      "Geometrik Dizi",
+      "Kare Sayılar Dizisi",
+      "Fibonacci Dizisi",
+      "Üslü Dizi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile bulunur. Burada a_1 = 2, r = 3 ve n = 5. Yani a_{5} = 2 * 3^(5-1) = 2 * 81 = 162.",
+    "correctAnswer": 2,
+    "explanation": "Verilen dizi, her terimin sırasıyla 1'in karesi, 2'nin karesi, 3'ün karesi gibi geliştiği bir dizidir. Yani bu bir kare sayılar dizisidir.",
     "difficulty": 3
   },
   {
@@ -32,19 +32,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520136350_2",
+    "id": "ai_1764520136350_1",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "1, 4, 9, 16, 25,... dizisi hangi terim dizisidir?",
+    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 3 ise, dizinin 5. terimi nedir?",
     "options": [
-      "Aritmetik Dizi",
-      "Geometrik Dizi",
-      "Kare Sayılar Dizisi",
-      "Fibonacci Dizisi",
-      "Üslü Dizi"
+      "54",
+      "162",
+      "486",
+      "1458",
+      "4374"
     ],
-    "correctAnswer": 2,
-    "explanation": "Verilen dizi, her terimin sırasıyla 1'in karesi, 2'nin karesi, 3'ün karesi gibi geliştiği bir dizidir. Yani bu bir kare sayılar dizisidir.",
+    "correctAnswer": 3,
+    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile bulunur. Burada a_1 = 2, r = 3 ve n = 5. Yani a_{5} = 2 * 3^(5-1) = 2 * 81 = 162.",
     "difficulty": 3
   },
   {
