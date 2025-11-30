@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520349824_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks arc'inin temel işlevi nedir?",
-    "options": [
-      "Hormon üretmek",
-      "Duyusal bilgiyi işlemek",
-      "İstemli hareketleri başlatmak",
-      "Hızlı yanıt vermek",
-      "Duyusal algıları artırmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520349823_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -29,6 +13,22 @@
     ],
     "correctAnswer": 1,
     "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520349824_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks arc'inin temel işlevi nedir?",
+    "options": [
+      "Hormon üretmek",
+      "Duyusal bilgiyi işlemek",
+      "İstemli hareketleri başlatmak",
+      "Hızlı yanıt vermek",
+      "Duyusal algıları artırmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
     "difficulty": 3
   },
   {
