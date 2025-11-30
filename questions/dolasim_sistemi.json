@@ -1,517 +1,5 @@
 [
   {
-    "id": "ai_1764522783282_8",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp atışları arasındaki süreyi belirleyen yapı hangisidir?",
-    "options": [
-      "Sinüs düğümü",
-      "Atrioventriküler düğüm",
-      "Kalp kası",
-      "Kardiyovasküler sistem",
-      "Damarlar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinüs düğümü, kalp atışlarını başlatan ve düzenleyen doğal pacemaker'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_8",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp döngüsünde sistol aşaması neyi ifade eder?",
-    "options": [
-      "Kalbin gevşemesi",
-      "Kalbin kasılması",
-      "Kan akışının durması",
-      "Kalp kapakçıklarının kapanması",
-      "Kan basıncının düşmesi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sistol, kalp kaslarının kasıldığı ve kanın kalpten dışarı pompalandığı aşamadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500200762_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Sağlıklı bir insanda, sol karıncıktan pompalanan ve oksijence zengin kanın, böbreklere ulaştıktan sonra tekrar sağ kulakçığa dönene kadar izlediği yolda aşağıdaki yapılardan hangisinden geçmesi beklenmez?",
-    "options": [
-      "Aort atardamarı",
-      "Böbrek toplardamarı",
-      "Akciğer atardamarı",
-      "Alt ana toplardamar",
-      "Böbrek kılcalları"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soru, büyük kan dolaşımının (sistemik dolaşım) yolunu sormaktadır. Sol karıncıktan pompalanan kan şu yolu izler: Sol karıncık → Aort atardamarı → Böbrek atardamarı → Böbrek kılcalları → Böbrek toplardamarı → Alt ana toplardamar → Sağ kulakçık. Bu yolculuk sırasında kan, vücut dokularını (bu örnekte böbrekleri) dolaşır ve oksijenini bırakıp karbondioksit alır. Akciğer atardamarı ise küçük kan dolaşımının (pulmoner dolaşım) bir parçasıdır. Küçük kan dolaşımı, sağ karıncıktan başlar, kirli kanı akciğer atardamarı ile akciğerlere taşır, kanın temizlenmesini sağlar ve akciğer toplardamarı ile temiz kanı sol kulakçığa geri getirir. Dolayısıyla, sol karıncıktan başlayıp sağ kulakçıkta biten büyük dolaşım sırasında kan akciğer atardamarından geçmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498820887_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Starling hipotezine göre, kılcal damarlardan doku sıvısına madde geçişini artıran ve ödem oluşumuna neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
-    "options": [
-      "Kan basıncının normalden yüksek olması",
-      "Kan proteinlerinin (albümin vb.) azalması sonucu kanın osmotik basıncının düşmesi",
-      "Lenf damarlarının tıkanması",
-      "Doku sıvısının osmotik basıncının artması",
-      "Kanın osmotik basıncının normalden yüksek olması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Starling hipotezine göre, kılcal damarlardaki kan basıncı, kanı damar dışına iten temel kuvvettir. Kanın osmotik basıncı (protein osmotik basıncı) ise doku sıvısını damar içine çeken kuvvettir. Ödem, doku sıvısının artması durumudur. A, B, C ve D şıklarındaki durumlar, damardan doku sıvısına madde geçişini artırır veya doku sıvısının geri emilimini azaltarak ödeme yol açar. Kan basıncının artması (A) itici gücü artırır. Kanın osmotik basıncının düşmesi (B) çekici gücü azaltır. Lenf damarlarının tıkanması (C) biriken doku sıvısının dolaşıma katılmasını engeller. Doku sıvısı osmotik basıncının artması (D) doku sıvısının suyu tutma gücünü artırır. Ancak kanın osmotik basıncının normalden yüksek olması (E), damar içine daha fazla sıvı çekilmesine neden olacağından ödem oluşumunu engeller veya azaltır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522783281_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damarlardan hangisi oksijenlenmiş kan taşır?",
-    "options": [
-      "Venöz damarlar",
-      "Arterler",
-      "Kapiller damarlar",
-      "Lenf damarları",
-      "Damarcılar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Arterler, kalpten çıkan ve oksijenlenmiş kanı vücuda taşıyan damarlardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520359327_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
-    "options": [
-      "Düz kas",
-      "İskelet kası",
-      "Kalp kası",
-      "Epitelyal doku",
-      "Bağ doku"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_14",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kanın pH seviyesinin normal aralığı nedir?",
-    "options": [
-      "6.8 - 7.2",
-      "7.2 - 7.4",
-      "7.35 - 7.45",
-      "7.45 - 7.55",
-      "7.5 - 7.8"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sağlıklı bir insanın kan pH seviyesi genellikle 7.35 ile 7.45 arasında olmalıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_12",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Damar sertleşmesi (ateroskleroz) hangi durumda oluşur?",
-    "options": [
-      "Damar duvarlarında yağ birikimi",
-      "Damar duvarlarının incelmesi",
-      "Damarların genişlemesi",
-      "Kan akışının hızlanması",
-      "Kan basıncının düşmesi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ateroskleroz, damar duvarlarında yağ birikimi ve plak oluşumu ile karakterize edilen bir durumdur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519392436_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminde kanın kalpten vücuda pompalanması hangi damar aracılığıyla gerçekleşir?",
-    "options": [
-      "Pulmoner Arter",
-      "Aort",
-      "Vena Kava",
-      "Pulmoner Ven",
-      "Koroner Damarlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kalpten vücuda kanın pompalanması aort damarından gerçekleşir. Aort, kalpten çıkan en büyük atardamardır ve oksijen bakımından zengin kanı vücuda dağıtır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526212727_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp döngüsünde, kalbin kasılma evresine ne ad verilir?",
-    "options": [
-      "Diastol",
-      "Sistol",
-      "Ekokardiogram",
-      "Atriyum",
-      "Ventrikül"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kalp döngüsünde kalbin kasıldığı evreye 'sistol' denir. Bu evrede kalp kasılarak kanı pompalarken, diastol evresinde kalp gevşer ve kan dolar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522783282_13",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp hangi yapılar tarafından beslenir?",
-    "options": [
-      "Koroner damarlar",
-      "Pulmoner damarlar",
-      "Beyin damarları",
-      "Karaciğer damarları",
-      "Bacak damarları"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kalp, koroner damarlar tarafından beslenir ve bu damarlar kalp kasına oksijen taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498820887_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "İnsan kalbinin çalışmasını düzenleyen elektriksel uyarı sisteminde, uyartının izlediği yol aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
-    "options": [
-      "Atriyoventriküler Düğüm → Sinoatriyal Düğüm → His Demetleri → Purkinje Lifleri",
-      "Sinoatriyal Düğüm → His Demetleri → Atriyoventriküler Düğüm → Purkinje Lifleri",
-      "His Demetleri → Purkinje Lifleri → Sinoatriyal Düğüm → Atriyoventriküler Düğüm",
-      "Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri",
-      "Atriyoventriküler Düğüm → Purkinje Lifleri → His Demetleri → Sinoatriyal Düğüm"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kalbin çalışmasını başlatan ve düzenleyen elektriksel uyarılar belirli bir yol izler. İlk uyarı, kalbin doğal pili olan sağ kulakçık duvarındaki Sinoatriyal (SA) Düğüm'den çıkar ve kulakçıkların kasılmasını sağlar. Bu uyarı daha sonra kulakçıklar ile karıncıklar arasındaki Atriyoventriküler (AV) Düğüm'e ulaşır. Burada kısa bir süre bekletilen uyartı, karıncıkların duvarlarına yayılan His Demetleri'ne ve ardından daha küçük dallar olan Purkinje Lifleri'ne iletilir. Bu son aşama, karıncıkların aynı anda ve güçlü bir şekilde kasılmasını sağlar. Dolayısıyla doğru sıralama: Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522783282_5",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalpteki kapakçıkların ana işlevi nedir?",
-    "options": [
-      "Kan akışını yönlendirmek",
-      "Kanı temizlemek",
-      "Kalp kasını beslemek",
-      "Kalp ritmini ayarlamak",
-      "Oksijen taşımak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kalpteki kapakçıklar, kanın doğru yönde akmasını sağlayarak geri akışını önler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_15",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp krizinin en yaygın nedeni nedir?",
-    "options": [
-      "Yüksek tansiyon",
-      "Diyabet",
-      "Ateroskleroz",
-      "Obezite",
-      "Stres"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ateroskleroz, kalp krizine yol açan en yaygın nedenlerden biridir, çünkü damarları daraltarak kan akışını azaltır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501480375_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "İnsan kalbinin çalışmasını düzenleyen faktörlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Kandaki karbondioksit miktarının artması, kan pH'ını düşürerek omurilik soğanını uyarır ve kalp atışını hızlandırır.",
-      "Sempatik sinirlerden salgılanan noradrenalin, kalp atış hızını artıran bir etki gösterir.",
-      "Vücut sıcaklığının normalin üzerine çıkması, sinoatriyal düğümün uyarılmasını yavaşlatarak kalp atışını düşürür.",
-      "Parasempatik sinirlerden olan vagus sinirinden salgılanan asetilkolin, kalp atışını yavaşlatır.",
-      "Adrenalin ve tiroksin gibi hormonlar, metabolizmayı hızlandırarak kalbin çalışma hızını artırır."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kalp atış hızı, otonom sinir sistemi ve hormonal faktörler tarafından kontrol edilir. Vücut sıcaklığının yükselmesi (ateş gibi durumlarda), metabolizmayı ve sinirsel iletimi hızlandırır. Bu durum, kalbin pacemaker'ı olan sinoatriyal (SA) düğümün daha sık uyarılmasına neden olarak kalp atış hızını artırır, yavaşlatmaz. Diğer seçenekler doğrudur: Yüksek CO2 (düşük pH) kalp atışını hızlandırır. Sempatik sistem (noradrenalin ile) 'savaş ya da kaç' tepkisiyle kalbi hızlandırır. Parasempatik sistem (asetilkolin ile) ise 'dinlen ve sindir' durumuyla kalbi yavaşlatır. Adrenalin ve tiroksin hormonları da metabolizmayı ve dolayısıyla kalp atışını hızlandırır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_18",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kan akışının en yüksek olduğu yer neresidir?",
-    "options": [
-      "Arterler",
-      "Kılcal damarlar",
-      "Venler",
-      "Kapakçıklar",
-      "Kalp"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Arterler, kanın kalpten vücuda pompalanması sırasında en yüksek akış hızına sahip olan damarlardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522783282_2",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalbin sağ ventrikülü hangi damara kan pompalar?",
-    "options": [
-      "Pulmoner arter",
-      "Aort",
-      "Koroner arter",
-      "Pulmoner ven",
-      "Brahiyosefalik arter"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sağ ventrikül, kanı pulmoner artere pompalar, bu damarda kan akciğerlere gider.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_9",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangi damar, kalpten oksijensiz kanı akciğerlere taşır?",
-    "options": [
-      "Aort",
-      "Pulmoner ven",
-      "Pulmoner arter",
-      "Koroner arter",
-      "Arteriyel sistem"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pulmoner arter, kalpten akciğerlere oksijensiz kan taşıyan damardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_24",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi durumda kalp atış hızı artar?",
-    "options": [
-      "Dinlenme",
-      "Egzersiz",
-      "Uyku",
-      "Meditasyon",
-      "Yavaş nefes alma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Egzersiz yapıldığında, vücut daha fazla oksijen ve besin maddesine ihtiyaç duyar, bu da kalp atış hızının artmasına neden olur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki yapıların hangisi kanın kalpten vücuda pompalanmasında yer almaz?",
-    "options": [
-      "Sol ventrikül",
-      "Sağ atriyum",
-      "Sağ ventrikül",
-      "Pulmoner arter",
-      "Aort"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sağ atriyum, kanı kalpten dışarı pompalamaz; aksine, vücuttan gelen kanı toplar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526212727_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından en zengin kanı taşır?",
-    "options": [
-      "Aort",
-      "Pulmoner arter",
-      "Venler",
-      "Kapillerler",
-      "Pulmoner venler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Pulmoner venler, akciğerlerden oksijenlenmiş kanı kalbe taşıyan damarlardır. Diğer damar tipleri genellikle oksijen açısından daha düşük kan taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522783282_3",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kan basıncını düzenleyen en önemli yapı hangisidir?",
-    "options": [
-      "Böbrekler",
-      "Kalp",
-      "Damarlar",
-      "Karaciğer",
-      "Spleen"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Damarlar, kan basıncını düzenleyen en önemli yapılardır; damar genişliği ve direnci kan basıncını etkiler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_20",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi kapak, kalbin sol tarafında bulunur?",
-    "options": [
-      "Triküspit kapak",
-      "Pulmoner kapak",
-      "Mitral kapak",
-      "Aort kapak",
-      "Bicuspid kapak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Mitral kapak, kalbin sol atriyum ile sol ventrikül arasında bulunur ve kan akışını kontrol eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522783281_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminin ana işlevi nedir?",
-    "options": [
-      "Besin maddelerini taşımak",
-      "Hücreleri korumak",
-      "Vücut ısısını düzenlemek",
-      "Atık maddeleri temizlemek",
-      "Oksijen taşımak"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Dolaşım sistemi, vücutta oksijen ve besin maddelerini hücrelere taşırken, aynı zamanda atık maddeleri de uzaklaştırır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522783282_12",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Damarların duvar yapısı hangi özellikte olmalıdır?",
-    "options": [
-      "Gevşek",
-      "Kalın ve elastik",
-      "İnce",
-      "Sert",
-      "Düz"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Damarların duvarları, kan basıncını karşılayabilmek için kalın ve elastik olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_5",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kanın pıhtılaşma sürecinde hangi hücreler rol oynar?",
-    "options": [
-      "Alyuvarlar",
-      "Akyuvarlar",
-      "Trombositler",
-      "Plazma hücreleri",
-      "Eritrositler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Trombositler, kan pıhtılaşma sürecinde kritik bir rol oynar ve yaralanma durumlarında pıhtı oluşumunu başlatır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498820887_2",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damarlardan hangisindeki kanın oksijen derişiminin diğerlerinden farklı olması beklenir?",
-    "options": [
-      "Aort atardamarı",
-      "Böbrek atardamarı",
-      "Akciğer atardamarı",
-      "Karaciğer atardamarı",
-      "Şah damarı (Karotis arteri)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dolaşım sisteminde atardamarlar genellikle oksijence zengin (temiz) kan taşırken, toplardamarlar oksijence fakir (kirli) kan taşır. Ancak bu kuralın iki önemli istisnası vardır. Akciğer atardamarı, kalbin sağ karıncığından çıkan ve oksijence fakir kanı temizlenmesi için akciğerlere götüren damardır. Akciğer toplardamarı ise akciğerlerde temizlenen oksijence zengin kanı kalbin sol kulakçığına getirir. Soruda verilen şıklardan Aort, Böbrek atardamarı, Karaciğer atardamarı ve Şah damarı sistemik dolaşıma ait atardamarlardır ve hepsi kalbin sol karıncığından pompalanan oksijence zengin kanı taşır. Akciğer atardamarı ise pulmoner (küçük) dolaşıma aittir ve oksijence fakir kan taşıdığı için diğerlerinden farklıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_17",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi damar, kalpten beyne giden oksijenli kanı taşır?",
-    "options": [
-      "Karotid arter",
-      "Pulmoner ven",
-      "Aort",
-      "Vertebral arter",
-      "Koroner arter"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Karotid arter, kalpten beyne giden oksijenli kanı taşıyan ana damardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_16",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kan hücreleri arasında hangisi en fazla sayıda bulunur?",
-    "options": [
-      "Alyuvarlar",
-      "Akyuvarlar",
-      "Trombositler",
-      "Plazma hücreleri",
-      "Eritrositler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Eritrositler, kan hücreleri arasında en fazla sayıda bulunan ve oksijen taşıyan hücrelerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_6",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damarlardan hangisi en az oksijen içeriğine sahiptir?",
-    "options": [
-      "Aort",
-      "Pulmoner arter",
-      "Pulmoner ven",
-      "Koroner arter",
-      "Arteriyel sistem"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pulmoner arter, kalpten akciğerlere kan taşıyan ve oksijence fakir kanı taşır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519392436_2",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hücrelerinin özelliği olan otomatikite, hangi özellik ile sağlanır?",
-    "options": [
-      "Sinir hücreleri",
-      "Özel hücreler",
-      "Kan akışı",
-      "Hormonlar",
-      "Dışsal uyarılar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kalp kası hücreleri, otomatikite özelliğine sahip özel hücreler (özellikle sinoatriyal düğüm hücreleri) sayesinde kendi kendine uyarılarak kasılma yeteneğine sahiptir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_13",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp atışını düzenleyen sinir sistemi kısmı hangisidir?",
-    "options": [
-      "Somatik sinir sistemi",
-      "Otonom sinir sistemi",
-      "Merkezi sinir sistemi",
-      "Periferik sinir sistemi",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Otonom sinir sistemi, kalp atışını düzenleyen ve kontrol eden sinir sistemi bölümüdür.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764524942225_7",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
@@ -528,116 +16,36 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524942225_21",
+    "id": "ai_1764528712970_30",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi yapı kanın vücutta döngüsünü tamamlamasına yardımcı olur?",
+    "questionText": "Kalp kasında hücreler arası iletişimi sağlayan yapı hangisidir?",
     "options": [
-      "Kalp",
-      "Arterler",
-      "Venler",
-      "Kılcal damarlar",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Kalp, arterler, venler ve kılcal damarlar birlikte kanın vücutta döngüsünü tamamlamasına yardımcı olur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_22",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi kan hücresi enfeksiyonla savaşmak için role sahiptir?",
-    "options": [
-      "Alyuvarlar",
-      "Akyuvarlar",
-      "Trombositler",
-      "Plazma hücreleri",
-      "Eritrositler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Akyuvarlar, bağışıklık sisteminin bir parçası olarak enfeksiyonla savaşan hücrelerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_23",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalbin sağ tarafı hangi kanı alır?",
-    "options": [
-      "Oksijenli kan",
-      "Oksijen fakir kan",
-      "Karbonmonoksitli kan",
-      "Doymuş kan",
-      "Asidik kan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kalbin sağ tarafı, vücuttan gelen oksijen fakir kanı alır ve akciğerlere gönderir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522783282_11",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminin en büyük damarı hangisidir?",
-    "options": [
-      "Aort",
-      "Pulmoner arter",
-      "Venöz sistem",
-      "Koroner arter",
-      "Kapiller damarlar"
+      "Gap junctions",
+      "Desmozomlar",
+      "Tight junctions",
+      "Sıkı bağlantılar",
+      "Hücre zarları"
     ],
     "correctAnswer": 0,
-    "explanation": "Aort, kalpten çıkan en büyük damardır ve vücuda oksijenli kan taşır.",
-    "difficulty": 3
+    "explanation": "Gap junctions, kalp kası hücreleri arasında elektriksel iletişimi sağlar.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764524942225_10",
+    "id": "ai_1764524942225_0",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi yapı kanın akış yönünü kontrol eder?",
+    "questionText": "Kalp kası hücrelerinin elektriksel aktivitesinin temel kaynağı nedir?",
     "options": [
-      "Kapakçıklar",
-      "Damarlar",
-      "Arterler",
-      "Vena cava",
-      "Kalp"
+      "Sinüs düğümü",
+      "Atrioventriküler düğüm",
+      "His demeti",
+      "Purkinje lifleri",
+      "Kalp kapağı"
     ],
     "correctAnswer": 0,
-    "explanation": "Kalpte bulunan kapakçıklar, kanın akış yönünü kontrol ederek geri akışını engeller.",
+    "explanation": "Sinüs düğümü, kalp kası hücrelerinin elektriksel aktivitesini başlatan ve düzenleyen doğal pacemaker'dır.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_4",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki yapılar hangisi kanın dolaşımını düzenleyen kapakçıkları içermez?",
-    "options": [
-      "Sağ atriyum",
-      "Sol ventrikül",
-      "Sağ ventrikül",
-      "Büyük damarlar",
-      "Sol atriyum"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Sol atriyum, kapakçık içermez; ancak atriyumlar arası kan akışını düzenleyen mitral kapakçığı vardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522783282_9",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminin ana iki kısmı nelerdir?",
-    "options": [
-      "Açık ve kapalı sistemler",
-      "Oksijenli ve oksijensiz kan",
-      "Büyük ve küçük dolaşım",
-      "Venöz ve arteriyel sistem",
-      "Kan ve lenf sistemi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Büyük dolaşım, kalpten vücuda kan taşırken, küçük dolaşım akciğerlere kan taşır.",
-    "difficulty": 3
   },
   {
     "id": "ai_1764524942225_2",
@@ -656,243 +64,35 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524942225_11",
+    "id": "ai_1764524942225_9",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi yapı kalbin elektriksel iletim sisteminin bir parçası değildir?",
-    "options": [
-      "Sinüs düğümü",
-      "Atrioventriküler düğüm",
-      "His demeti",
-      "Purkinje lifleri",
-      "Karaciğer"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Karaciğer, kalbin elektriksel iletim sistemi ile ilgili bir yapı değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500200762_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "İnsanın dolaşım sisteminde yer alan damarlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Atardamarların duvarları, toplardamarlara göre daha kalın ve elastik lifler bakımından daha zengindir.",
-      "Vücudun alt kısımlarındaki toplardamarlarda kanın geri akışını engelleyen tek yönlü kapakçıklar bulunur.",
-      "Kan akış hızının en yavaş olduğu damarlar, madde alışverişinin gerçekleştiği kılcal damarlardır.",
-      "Bir organa giren atardamar ile o organdan çıkan toplardamar arasındaki kanın alyuvar sayısı yaklaşık olarak aynıdır.",
-      "Vücuttaki toplam kan hacminin en büyük kısmı, yüksek basınç nedeniyle atardamarlarda depolanır."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Vücuttaki toplam kan hacminin en büyük kısmı (%60-70 civarı) atardamarlarda değil, toplardamarlarda bulunur. Toplardamarların duvarları daha az elastik ve daha geniştir, bu da onların daha fazla kan depolamasına olanak tanır. Atardamarlar ise kanı yüksek basınçla taşıdıkları için duvarları kalındır ancak kanı depolama kapasiteleri toplardamarlara göre daha azdır. Diğer şıklar doğrudur: A) Atardamarlar yüksek basınca dayanıklı olmalıdır. B) Yerçekimine karşı kanın taşınmasına kapakçıklar yardım eder. C) Toplam kesit alanı en fazla olan kılcal damarlarda kan akışı yavaşlayarak madde alışverişine imkan tanır. D) Sağlıklı bir bireyde kan üretimi ve yıkımı dengede olduğu için, bir organdan geçen kanda alyuvar sayısı önemli ölçüde değişmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520359327_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdakilerden hangisi insan dolaşım sisteminin ana işlevlerinden biri değildir?",
-    "options": [
-      "Oksijen taşımak",
-      "Karbon dioksit taşımak",
-      "Besin maddelerini taşımak",
-      "Hormonları taşımak",
-      "Sıcaklık düzenlemek"
-    ],
-    "correctAnswer": 4,
-    "explanation": "İnsan dolaşım sistemi, oksijen, karbon dioksit, besin maddeleri ve hormonların taşınmasında önemli rol oynar. Ancak sıcaklık düzenlemek dolaşım sisteminin birincil işlevi değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942226_25",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Damarların içinde kanın akışını sağlayan faktör nedir?",
-    "options": [
-      "Damar tonusu",
-      "Damar çapı",
-      "Kan basıncı",
-      "Damar elastikiyeti",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Kan akışını sağlayan tüm bu faktörler, damarların içindeki kanın hareket etmesine katkıda bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522783282_6",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminde yer alan lenf sistemi ne işe yarar?",
-    "options": [
-      "Kan basıncını düzenler",
-      "Bağışıklık sistemine yardımcı olur",
-      "Oksijen taşır",
-      "Gıda taşır",
-      "Vücut ısısını artırır"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Lenf sistemi, bağışıklık sisteminin bir parçası olup, enfeksiyonla savaşan hücreleri taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942226_27",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp sağlığını korumak için en önemli yaşam tarzı değişikliği hangisidir?",
-    "options": [
-      "Sigara içmek",
-      "Dengeli beslenmek",
-      "Stres yönetimi",
-      "Düzenli egzersiz",
-      "Alkol tüketimini artırmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Düzenli egzersiz yapmak, kalp sağlığını korumak için en etkili yöntemlerden biridir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522783282_10",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kan hücreleri arasında en fazla bulunan hücre türü hangisidir?",
-    "options": [
-      "Akyuvarlar",
-      "Kırmızı kan hücreleri",
-      "Trombositler",
-      "Beyaz kan hücreleri",
-      "Plazma hücreleri"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kırmızı kan hücreleri, kanın %45'ini oluşturarak en fazla bulunan hücre türüdür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942226_26",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminin temel işlevlerinden biri nedir?",
-    "options": [
-      "Besin maddelerini taşımak",
-      "Karbon dioksidi atmak",
-      "Ateşi düşürmek",
-      "Ağrıyı hafifletmek",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Dolaşım sistemi, besin maddelerini taşımak, karbon dioksidi atmak ve birçok diğer işlevi yerine getirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519392436_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi insan dolaşım sisteminde yer alan bir kan damarı türü değildir?",
-    "options": [
-      "Atardamar",
-      "Toplar damar",
-      "Kılcal damar",
-      "Lenf damarı",
-      "Karbondioksit damarı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "İnsan dolaşım sisteminde atardamarlar, toplar damarlar ve kılcal damarlar yer alırken, karbondioksit damarı olarak bilinen bir damar türü yoktur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522783282_14",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kanın pH değeri genellikle hangi aralıktadır?",
-    "options": [
-      "6.5 - 7.0",
-      "7.0 - 7.5",
-      "7.35 - 7.45",
-      "7.5 - 8.0",
-      "8.0 - 8.5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kan pH değeri genellikle 7.35 ile 7.45 arasında olmalıdır, bu aralıkta sağlıklı bir denge sağlanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524942225_3",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi damarda oksijenli kan taşınır?",
-    "options": [
-      "Pulmoner ven",
-      "Pulmoner arter",
-      "Süperior vena cava",
-      "İnferior vena cava",
-      "Azygos ven"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pulmoner ven, akciğerlerden kalbe oksijenli kan taşıyan damardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942226_28",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi yapı kalbin kasılmasını başlatan elektriksel uyarıyı üretir?",
-    "options": [
-      "Atrioventriküler düğüm",
-      "Sinüs düğümü",
-      "His demeti",
-      "Purkinje lifleri",
-      "Kalp kası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinüs düğümü, kalbin kasılmasını başlatan elektriksel uyarıyı üreten yapıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520359327_2",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
+    "questionText": "Hangi damar, kalpten oksijensiz kanı akciğerlere taşır?",
     "options": [
       "Aort",
-      "Venöz sistem",
-      "Kapiller damarlar",
+      "Pulmoner ven",
       "Pulmoner arter",
-      "Vena kava"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522783282_4",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdakilerden hangisi kanın görevlerinden biridir?",
-    "options": [
-      "Hücreleri bölmek",
-      "Vücut sıcaklığını artırmak",
-      "Hormon taşımak",
-      "Kas hareketini sağlamak",
-      "Vücudu korumak"
+      "Koroner arter",
+      "Arteriyel sistem"
     ],
     "correctAnswer": 2,
-    "explanation": "Kan, hormonları taşıyarak vücut içinde iletişimi sağlar.",
-    "difficulty": 3
+    "explanation": "Pulmoner arter, kalpten akciğerlere oksijensiz kan taşıyan damardır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764522783282_7",
+    "id": "ai_1764522783281_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Damar sertliği (ateroskleroz) hangi duruma yol açabilir?",
+    "questionText": "Aşağıdaki damarlardan hangisi oksijenlenmiş kan taşır?",
     "options": [
-      "Kalp krizi",
-      "Grip",
-      "Baş ağrısı",
-      "Diyabet",
-      "Astım"
+      "Venöz damarlar",
+      "Arterler",
+      "Kapiller damarlar",
+      "Lenf damarları",
+      "Damarcılar"
     ],
-    "correctAnswer": 0,
-    "explanation": "Damar sertliği, kalbin kan pompalamasını zorlaştırarak kalp krizine yol açabilir.",
+    "correctAnswer": 1,
+    "explanation": "Arterler, kalpten çıkan ve oksijenlenmiş kanı vücuda taşıyan damarlardır.",
     "difficulty": 3
   },
   {
@@ -912,70 +112,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764524942225_19",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki hangi durum, kalp yetmezliğine yol açabilir?",
-    "options": [
-      "Düzenli egzersiz",
-      "Yüksek tansiyon",
-      "Dengeli beslenme",
-      "Sigara içmek",
-      "Alkol tüketimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yüksek tansiyon, kalp kasının aşırı çalışmasına neden olarak zamanla kalp yetmezliğine yol açabilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524942225_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hücrelerinin elektriksel aktivitesinin temel kaynağı nedir?",
-    "options": [
-      "Sinüs düğümü",
-      "Atrioventriküler düğüm",
-      "His demeti",
-      "Purkinje lifleri",
-      "Kalp kapağı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinüs düğümü, kalp kası hücrelerinin elektriksel aktivitesini başlatan ve düzenleyen doğal pacemaker'dır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528712968_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hücrelerinin elektriksel uyarılara nasıl tepki verdiğini tanımlayan mekanizma hangisidir?",
-    "options": [
-      "Sodyum-potasyum pompası",
-      "Kalsiyum kanalları",
-      "Potasyum kanalları",
-      "Aksiyon potansiyeli",
-      "İnterstisyel sıvı"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Aksiyon potansiyeli, kalp kası hücrelerinin elektriksel uyarılara verdiği tepkidir ve kasılma sürecini başlatır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712968_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kanın pıhtılaşma sürecinde rol oynamayan bir faktördür?",
-    "options": [
-      "Trombositler",
-      "Fibrin",
-      "Kalsiyum iyonları",
-      "Antikorlar",
-      "Pıhtılaşma faktörleri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Antikorlar, bağışıklık sistemi ile ilgili olup pıhtılaşma sürecinde doğrudan rol oynamazlar.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764528712968_2",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
@@ -992,180 +128,36 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528712969_3",
+    "id": "ai_1764524942225_15",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kalbin sağ atriyumu hangi damar ile kan alır?",
+    "questionText": "Kalp krizinin en yaygın nedeni nedir?",
     "options": [
-      "Aort",
-      "Pulmoner arter",
-      "Vena kava süperior",
-      "Pulmoner ven",
-      "Vena kava inferior"
+      "Yüksek tansiyon",
+      "Diyabet",
+      "Ateroskleroz",
+      "Obezite",
+      "Stres"
     ],
     "correctAnswer": 2,
-    "explanation": "Sağ atriyum, venous kanı Vena kava süperior ve Vena kava inferior damarları aracılığıyla alır.",
-    "difficulty": 4
+    "explanation": "Ateroskleroz, kalp krizine yol açan en yaygın nedenlerden biridir, çünkü damarları daraltarak kan akışını azaltır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528712969_4",
+    "id": "ai_1764524942225_20",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Hangi damar, vücutta en geniş çaplı damardır?",
+    "questionText": "Aşağıdaki hangi kapak, kalbin sol tarafında bulunur?",
     "options": [
-      "Arterler",
-      "Venler",
-      "Kapillerler",
-      "Aort",
-      "Pulmoner arter"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Venler, kanı kalbe geri döndürmek için en geniş çaplı damarlardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_5",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kan basıncını artıran faktörlerden biri hangisidir?",
-    "options": [
-      "Düşük tuz alımı",
-      "Düşük sıvı alımı",
-      "Stres",
-      "Yüksek fiziksel aktivite",
-      "Düşük kolesterol"
+      "Triküspit kapak",
+      "Pulmoner kapak",
+      "Mitral kapak",
+      "Aort kapak",
+      "Bicuspid kapak"
     ],
     "correctAnswer": 2,
-    "explanation": "Stres, vücutta adrenalin salgılar ve bu da kan basıncını artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_6",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kalbin sol ventrikülünden çıkan damardır?",
-    "options": [
-      "Pulmoner arter",
-      "Aort",
-      "Vena kava inferior",
-      "Vena kava süperior",
-      "Pulmoner ven"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sol ventrikülden çıkan damar Aort'tur ve vücuda oksijenli kan taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_7",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminde hangi yapı, kanın akışını kontrol eden valfleri içerir?",
-    "options": [
-      "Arterler",
-      "Kapillerler",
-      "Venler",
-      "Kılcal damarlar",
-      "Aort"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Venler, kanın kalbe geri dönüşünü sağlarken valfleri sayesinde kanın geri akışını önler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_8",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp atış hızını etkileyen hormon hangisidir?",
-    "options": [
-      "Aldosteron",
-      "Adrenalin",
-      "Insülin",
-      "Glukagon",
-      "Östrojen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Adrenalin, kalp atış hızını artıran bir hormondur ve stres durumlarında salınır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_9",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kan damarlarının genişlemesini sağlayan bir mekanizmadır?",
-    "options": [
-      "Vazodilatasyon",
-      "Vazokonstriksiyon",
-      "Trombüs oluşumu",
-      "Aksiyom potansiyeli",
-      "Hipertermi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Vazodilatasyon, kan damarlarının genişlemesi anlamına gelir ve kan akışını artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_10",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalpteki sağ ventrikül, hangi damara kan pompalamaktadır?",
-    "options": [
-      "Aort",
-      "Pulmoner arter",
-      "Pulmoner ven",
-      "Vena kava inferior",
-      "Vena kava süperior"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sağ ventrikül, kanı pulmoner artere pompalayarak akciğerlere gönderir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_11",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangi durum, kanın pıhtılaşmasını artıran bir faktördür?",
-    "options": [
-      "Yüksek sıvı alımı",
-      "Düşük kolesterol",
-      "Hareketsizlik",
-      "Yüksek fiziksel aktivite",
-      "Düşük tuz alımı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hareketsizlik, kan akışını yavaşlatır ve pıhtılaşma riskini artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_12",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kanın kılcal damarlardan geçerken oksijen ve besin maddelerini dokulara iletmesini sağlar?",
-    "options": [
-      "Difüzyon",
-      "Osmoz",
-      "Aktif taşınma",
-      "Filtrasyon",
-      "Evaporasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Difüzyon, kılcal damarlarda oksijen ve besin maddelerinin dokulara geçişini sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_13",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalbin sağ ve sol yarım kürelerinin ayrılmasını sağlayan yapı hangisidir?",
-    "options": [
-      "Septum",
-      "Valf",
-      "Perikard",
-      "Aort",
-      "Vena kava"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Septum, kalbin sağ ve sol yarım kürelerini ayırarak iki ayrı pompa işlevi görmesini sağlar.",
-    "difficulty": 4
+    "explanation": "Mitral kapak, kalbin sol atriyum ile sol ventrikül arasında bulunur ve kan akışını kontrol eder.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764528712969_14",
@@ -1184,148 +176,68 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528712969_15",
+    "id": "ai_1764524942225_12",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kanın pH seviyesinin düzenlenmesinde hangi organ önemli bir rol oynar?",
+    "questionText": "Damar sertleşmesi (ateroskleroz) hangi durumda oluşur?",
     "options": [
-      "Karaciğer",
-      "Böbrek",
-      "Akciğer",
-      "Kalp",
-      "Dalak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Böbrekler, kanın pH seviyesinin düzenlenmesinde önemli bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_16",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kalp kasının oksijen ihtiyacını artıran bir faktördür?",
-    "options": [
-      "Dinlenme",
-      "Hareketsizlik",
-      "Yüksek fiziksel aktivite",
-      "Düşük sıcaklık",
-      "Düşük besin alımı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüksek fiziksel aktivite, kalp kasının oksijen ihtiyacını artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_17",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kan akışını yavaşlatan bir faktördür?",
-    "options": [
-      "Yüksek tuz alımı",
-      "Yüksek sıvı alımı",
-      "Stres",
-      "Obezite",
-      "Yüksek fiziksel aktivite"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Obezite, damarları daraltarak kan akışını yavaşlatabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_18",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangi damar, akciğerlere oksijenli kan taşıyan damardır?",
-    "options": [
-      "Aort",
-      "Pulmoner arter",
-      "Pulmoner ven",
-      "Vena kava inferior",
-      "Vena kava süperior"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pulmoner ven, akciğerlere oksijenlenmiş kanı taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_19",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kapakçıkları hangi işlevi yerine getirir?",
-    "options": [
-      "Kan akışını yönlendirmek",
-      "Kanı pompalamak",
-      "Oksijen taşımak",
-      "Hücreleri beslemek",
-      "Kanı pıhtılaştırmak"
+      "Damar duvarlarında yağ birikimi",
+      "Damar duvarlarının incelmesi",
+      "Damarların genişlemesi",
+      "Kan akışının hızlanması",
+      "Kan basıncının düşmesi"
     ],
     "correctAnswer": 0,
-    "explanation": "Kalp kapakçıkları, kan akışını yönlendirmek için açılıp kapanır.",
-    "difficulty": 4
+    "explanation": "Ateroskleroz, damar duvarlarında yağ birikimi ve plak oluşumu ile karakterize edilen bir durumdur.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528712969_20",
+    "id": "ai_1764524942225_16",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kan dolaşımını etkileyen risk faktörlerinden biri değildir?",
+    "questionText": "Kan hücreleri arasında hangisi en fazla sayıda bulunur?",
     "options": [
-      "Sigara içmek",
-      "Obezite",
-      "Düşük tuz alımı",
-      "Yetersiz fiziksel aktivite",
-      "Yüksek kolesterol"
+      "Alyuvarlar",
+      "Akyuvarlar",
+      "Trombositler",
+      "Plazma hücreleri",
+      "Eritrositler"
     ],
-    "correctAnswer": 2,
-    "explanation": "Düşük tuz alımı, genellikle kan dolaşımını olumlu yönde etkiler.",
-    "difficulty": 4
+    "correctAnswer": 4,
+    "explanation": "Eritrositler, kan hücreleri arasında en fazla sayıda bulunan ve oksijen taşıyan hücrelerdir.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528712969_21",
+    "id": "ai_1764524942225_13",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kılcal damarlarda gerçekleşen madde alışverişi için en önemli faktördür?",
+    "questionText": "Kalp atışını düzenleyen sinir sistemi kısmı hangisidir?",
     "options": [
-      "Kan basıncı",
-      "Venöz geri dönüş",
-      "Damar direnci",
-      "Hücre metabolizması",
-      "Sıcaklık"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kan basıncı, kılcal damarlarda madde alışverişini etkileyen en önemli faktördür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712969_22",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp atışlarının hızını arttıran etkenlerden biri hangisidir?",
-    "options": [
-      "Uyku",
-      "Stres",
-      "Dinlenme",
-      "Düşük sıcaklık",
-      "Yüksek sıvı alımı"
+      "Somatik sinir sistemi",
+      "Otonom sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Beyin sapı"
     ],
     "correctAnswer": 1,
-    "explanation": "Stres, vücutta adrenalin salgılarak kalp atış hızını artırır.",
-    "difficulty": 4
+    "explanation": "Otonom sinir sistemi, kalp atışını düzenleyen ve kontrol eden sinir sistemi bölümüdür.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528712970_23",
+    "id": "ai_1764524942225_4",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kanın pH dengesini etkileyen bir faktördür?",
+    "questionText": "Aşağıdaki yapılar hangisi kanın dolaşımını düzenleyen kapakçıkları içermez?",
     "options": [
-      "Yüksek tuz alımı",
-      "Karbon dioksit seviyeleri",
-      "Yüksek protein alımı",
-      "Düşük sıvı alımı",
-      "Düşük kolesterol"
+      "Sağ atriyum",
+      "Sol ventrikül",
+      "Sağ ventrikül",
+      "Büyük damarlar",
+      "Sol atriyum"
     ],
-    "correctAnswer": 1,
-    "explanation": "Karbon dioksit seviyeleri, kanın pH dengesini etkileyen önemli bir faktördür.",
-    "difficulty": 4
+    "correctAnswer": 4,
+    "explanation": "Sol atriyum, kapakçık içermez; ancak atriyumlar arası kan akışını düzenleyen mitral kapakçığı vardır.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764528712970_24",
@@ -1344,115 +256,35 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528712970_25",
+    "id": "ai_1764524942225_6",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kapakçıkları hangi durumu önler?",
+    "questionText": "Aşağıdaki damarlardan hangisi en az oksijen içeriğine sahiptir?",
     "options": [
-      "Kanın geri akışını",
-      "Kan pıhtılaşmasını",
-      "Hücre ölümü",
-      "Aksiyom potansiyelini",
-      "Kan akışını artırmayı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kalp kapakçıkları, kanın geri akışını önleyerek düzgün bir kan akışı sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712970_26",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kan dolaşımında yer alan bir hormon değildir?",
-    "options": [
-      "Adrenalin",
-      "Aldosteron",
-      "Insülin",
-      "Serotonin",
-      "Testosteron"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Serotonin, genellikle sinir sistemi ile ilişkilidir ve kan dolaşımında doğrudan etkili olan bir hormon değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712970_27",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kalp kasının kan akışını etkileyen bir durumdur?",
-    "options": [
-      "Anemi",
-      "Yüksek kolesterol",
-      "Yüksek tansiyon",
-      "Stres",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Anemi, yüksek kolesterol, ve yüksek tansiyon gibi durumlar kalp kasının kan akışını etkileyebilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712970_28",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, venöz geri dönüşü artıran bir faktördür?",
-    "options": [
-      "Yüksek tansiyon",
-      "Kas pompası",
-      "Düşük sıvı alımı",
-      "Pasif duruş",
-      "Obezite"
+      "Aort",
+      "Pulmoner arter",
+      "Pulmoner ven",
+      "Koroner arter",
+      "Arteriyel sistem"
     ],
     "correctAnswer": 1,
-    "explanation": "Kas pompası, bacak kaslarının kasılması ile venöz geri dönüşü artırır.",
-    "difficulty": 4
+    "explanation": "Pulmoner arter, kalpten akciğerlere kan taşıyan ve oksijence fakir kanı taşır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528712970_29",
+    "id": "ai_1764528712969_9",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Hangi damar, oksijenlenmiş kanı kalbe taşır?",
+    "questionText": "Hangisi, kan damarlarının genişlemesini sağlayan bir mekanizmadır?",
     "options": [
-      "Pulmoner ven",
-      "Aort",
-      "Vena kava inferior",
-      "Vena kava süperior",
-      "Pulmoner arter"
+      "Vazodilatasyon",
+      "Vazokonstriksiyon",
+      "Trombüs oluşumu",
+      "Aksiyom potansiyeli",
+      "Hipertermi"
     ],
     "correctAnswer": 0,
-    "explanation": "Pulmoner ven, oksijenlenmiş kanı akciğlerden kalbe taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712970_30",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kasında hücreler arası iletişimi sağlayan yapı hangisidir?",
-    "options": [
-      "Gap junctions",
-      "Desmozomlar",
-      "Tight junctions",
-      "Sıkı bağlantılar",
-      "Hücre zarları"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Gap junctions, kalp kası hücreleri arasında elektriksel iletişimi sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528712970_31",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kanın hacmini artıran bir durum değildir?",
-    "options": [
-      "Dehidrasyon",
-      "Yüksek tuz alımı",
-      "Yüksek sıvı alımı",
-      "Hormonal değişiklikler",
-      "Kan transfüzyonu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dehidrasyon, kan hacmini azaltır.",
+    "explanation": "Vazodilatasyon, kan damarlarının genişlemesi anlamına gelir ve kan akışını artırır.",
     "difficulty": 4
   },
   {
@@ -1472,20 +304,244 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528712970_33",
+    "id": "ai_1764522783282_2",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi, kanın viskozitesini artıran bir faktördür?",
+    "questionText": "Kalbin sağ ventrikülü hangi damara kan pompalar?",
     "options": [
-      "Yüksek sıvı alımı",
+      "Pulmoner arter",
+      "Aort",
+      "Koroner arter",
+      "Pulmoner ven",
+      "Brahiyosefalik arter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sağ ventrikül, kanı pulmoner artere pompalar, bu damarda kan akciğerlere gider.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712969_22",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp atışlarının hızını arttıran etkenlerden biri hangisidir?",
+    "options": [
+      "Uyku",
+      "Stres",
+      "Dinlenme",
+      "Düşük sıcaklık",
+      "Yüksek sıvı alımı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stres, vücutta adrenalin salgılarak kalp atış hızını artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524942225_8",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp döngüsünde sistol aşaması neyi ifade eder?",
+    "options": [
+      "Kalbin gevşemesi",
+      "Kalbin kasılması",
+      "Kan akışının durması",
+      "Kalp kapakçıklarının kapanması",
+      "Kan basıncının düşmesi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sistol, kalp kaslarının kasıldığı ve kanın kalpten dışarı pompalandığı aşamadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_24",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi durumda kalp atış hızı artar?",
+    "options": [
+      "Dinlenme",
+      "Egzersiz",
+      "Uyku",
+      "Meditasyon",
+      "Yavaş nefes alma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Egzersiz yapıldığında, vücut daha fazla oksijen ve besin maddesine ihtiyaç duyar, bu da kalp atış hızının artmasına neden olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528712969_20",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kan dolaşımını etkileyen risk faktörlerinden biri değildir?",
+    "options": [
+      "Sigara içmek",
+      "Obezite",
       "Düşük tuz alımı",
-      "Yüksek kolesterol",
-      "Yüksek protein",
-      "Düşük aktivite"
+      "Yetersiz fiziksel aktivite",
+      "Yüksek kolesterol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Düşük tuz alımı, genellikle kan dolaşımını olumlu yönde etkiler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498820887_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "İnsan kalbinin çalışmasını düzenleyen elektriksel uyarı sisteminde, uyartının izlediği yol aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+    "options": [
+      "Atriyoventriküler Düğüm → Sinoatriyal Düğüm → His Demetleri → Purkinje Lifleri",
+      "Sinoatriyal Düğüm → His Demetleri → Atriyoventriküler Düğüm → Purkinje Lifleri",
+      "His Demetleri → Purkinje Lifleri → Sinoatriyal Düğüm → Atriyoventriküler Düğüm",
+      "Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri",
+      "Atriyoventriküler Düğüm → Purkinje Lifleri → His Demetleri → Sinoatriyal Düğüm"
     ],
     "correctAnswer": 3,
-    "explanation": "Yüksek protein içeriği, kanın viskozitesini artırabilir.",
+    "explanation": "Kalbin çalışmasını başlatan ve düzenleyen elektriksel uyarılar belirli bir yol izler. İlk uyarı, kalbin doğal pili olan sağ kulakçık duvarındaki Sinoatriyal (SA) Düğüm'den çıkar ve kulakçıkların kasılmasını sağlar. Bu uyarı daha sonra kulakçıklar ile karıncıklar arasındaki Atriyoventriküler (AV) Düğüm'e ulaşır. Burada kısa bir süre bekletilen uyartı, karıncıkların duvarlarına yayılan His Demetleri'ne ve ardından daha küçük dallar olan Purkinje Lifleri'ne iletilir. Bu son aşama, karıncıkların aynı anda ve güçlü bir şekilde kasılmasını sağlar. Dolayısıyla doğru sıralama: Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri şeklindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522783282_4",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdakilerden hangisi kanın görevlerinden biridir?",
+    "options": [
+      "Hücreleri bölmek",
+      "Vücut sıcaklığını artırmak",
+      "Hormon taşımak",
+      "Kas hareketini sağlamak",
+      "Vücudu korumak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kan, hormonları taşıyarak vücut içinde iletişimi sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519392436_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi insan dolaşım sisteminde yer alan bir kan damarı türü değildir?",
+    "options": [
+      "Atardamar",
+      "Toplar damar",
+      "Kılcal damar",
+      "Lenf damarı",
+      "Karbondioksit damarı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "İnsan dolaşım sisteminde atardamarlar, toplar damarlar ve kılcal damarlar yer alırken, karbondioksit damarı olarak bilinen bir damar türü yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712969_15",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kanın pH seviyesinin düzenlenmesinde hangi organ önemli bir rol oynar?",
+    "options": [
+      "Karaciğer",
+      "Böbrek",
+      "Akciğer",
+      "Kalp",
+      "Dalak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Böbrekler, kanın pH seviyesinin düzenlenmesinde önemli bir rol oynar.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764524942226_25",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Damarların içinde kanın akışını sağlayan faktör nedir?",
+    "options": [
+      "Damar tonusu",
+      "Damar çapı",
+      "Kan basıncı",
+      "Damar elastikiyeti",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kan akışını sağlayan tüm bu faktörler, damarların içindeki kanın hareket etmesine katkıda bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522783282_3",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kan basıncını düzenleyen en önemli yapı hangisidir?",
+    "options": [
+      "Böbrekler",
+      "Kalp",
+      "Damarlar",
+      "Karaciğer",
+      "Spleen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Damarlar, kan basıncını düzenleyen en önemli yapılardır; damar genişliği ve direnci kan basıncını etkiler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498820887_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Starling hipotezine göre, kılcal damarlardan doku sıvısına madde geçişini artıran ve ödem oluşumuna neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kan basıncının normalden yüksek olması",
+      "Kan proteinlerinin (albümin vb.) azalması sonucu kanın osmotik basıncının düşmesi",
+      "Lenf damarlarının tıkanması",
+      "Doku sıvısının osmotik basıncının artması",
+      "Kanın osmotik basıncının normalden yüksek olması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Starling hipotezine göre, kılcal damarlardaki kan basıncı, kanı damar dışına iten temel kuvvettir. Kanın osmotik basıncı (protein osmotik basıncı) ise doku sıvısını damar içine çeken kuvvettir. Ödem, doku sıvısının artması durumudur. A, B, C ve D şıklarındaki durumlar, damardan doku sıvısına madde geçişini artırır veya doku sıvısının geri emilimini azaltarak ödeme yol açar. Kan basıncının artması (A) itici gücü artırır. Kanın osmotik basıncının düşmesi (B) çekici gücü azaltır. Lenf damarlarının tıkanması (C) biriken doku sıvısının dolaşıma katılmasını engeller. Doku sıvısı osmotik basıncının artması (D) doku sıvısının suyu tutma gücünü artırır. Ancak kanın osmotik basıncının normalden yüksek olması (E), damar içine daha fazla sıvı çekilmesine neden olacağından ödem oluşumunu engeller veya azaltır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522783281_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminin ana işlevi nedir?",
+    "options": [
+      "Besin maddelerini taşımak",
+      "Hücreleri korumak",
+      "Vücut ısısını düzenlemek",
+      "Atık maddeleri temizlemek",
+      "Oksijen taşımak"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Dolaşım sistemi, vücutta oksijen ve besin maddelerini hücrelere taşırken, aynı zamanda atık maddeleri de uzaklaştırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712970_25",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp kapakçıkları hangi durumu önler?",
+    "options": [
+      "Kanın geri akışını",
+      "Kan pıhtılaşmasını",
+      "Hücre ölümü",
+      "Aksiyom potansiyelini",
+      "Kan akışını artırmayı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalp kapakçıkları, kanın geri akışını önleyerek düzgün bir kan akışı sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522783282_7",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Damar sertliği (ateroskleroz) hangi duruma yol açabilir?",
+    "options": [
+      "Kalp krizi",
+      "Grip",
+      "Baş ağrısı",
+      "Diyabet",
+      "Astım"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Damar sertliği, kalbin kan pompalamasını zorlaştırarak kalp krizine yol açabilir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764528712970_34",
@@ -1502,5 +558,949 @@
     "correctAnswer": 1,
     "explanation": "Kalp yetmezliği, sıklıkla nefes darlığına neden olur.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764524942225_3",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi damarda oksijenli kan taşınır?",
+    "options": [
+      "Pulmoner ven",
+      "Pulmoner arter",
+      "Süperior vena cava",
+      "İnferior vena cava",
+      "Azygos ven"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pulmoner ven, akciğerlerden kalbe oksijenli kan taşıyan damardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_11",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi yapı kalbin elektriksel iletim sisteminin bir parçası değildir?",
+    "options": [
+      "Sinüs düğümü",
+      "Atrioventriküler düğüm",
+      "His demeti",
+      "Purkinje lifleri",
+      "Karaciğer"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Karaciğer, kalbin elektriksel iletim sistemi ile ilgili bir yapı değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_23",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalbin sağ tarafı hangi kanı alır?",
+    "options": [
+      "Oksijenli kan",
+      "Oksijen fakir kan",
+      "Karbonmonoksitli kan",
+      "Doymuş kan",
+      "Asidik kan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kalbin sağ tarafı, vücuttan gelen oksijen fakir kanı alır ve akciğerlere gönderir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_21",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi yapı kanın vücutta döngüsünü tamamlamasına yardımcı olur?",
+    "options": [
+      "Kalp",
+      "Arterler",
+      "Venler",
+      "Kılcal damarlar",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kalp, arterler, venler ve kılcal damarlar birlikte kanın vücutta döngüsünü tamamlamasına yardımcı olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528712969_6",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kalbin sol ventrikülünden çıkan damardır?",
+    "options": [
+      "Pulmoner arter",
+      "Aort",
+      "Vena kava inferior",
+      "Vena kava süperior",
+      "Pulmoner ven"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sol ventrikülden çıkan damar Aort'tur ve vücuda oksijenli kan taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519392436_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminde kanın kalpten vücuda pompalanması hangi damar aracılığıyla gerçekleşir?",
+    "options": [
+      "Pulmoner Arter",
+      "Aort",
+      "Vena Kava",
+      "Pulmoner Ven",
+      "Koroner Damarlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kalpten vücuda kanın pompalanması aort damarından gerçekleşir. Aort, kalpten çıkan en büyük atardamardır ve oksijen bakımından zengin kanı vücuda dağıtır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526212727_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından en zengin kanı taşır?",
+    "options": [
+      "Aort",
+      "Pulmoner arter",
+      "Venler",
+      "Kapillerler",
+      "Pulmoner venler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Pulmoner venler, akciğerlerden oksijenlenmiş kanı kalbe taşıyan damarlardır. Diğer damar tipleri genellikle oksijen açısından daha düşük kan taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524942226_27",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp sağlığını korumak için en önemli yaşam tarzı değişikliği hangisidir?",
+    "options": [
+      "Sigara içmek",
+      "Dengeli beslenmek",
+      "Stres yönetimi",
+      "Düzenli egzersiz",
+      "Alkol tüketimini artırmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Düzenli egzersiz yapmak, kalp sağlığını korumak için en etkili yöntemlerden biridir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522783282_5",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalpteki kapakçıkların ana işlevi nedir?",
+    "options": [
+      "Kan akışını yönlendirmek",
+      "Kanı temizlemek",
+      "Kalp kasını beslemek",
+      "Kalp ritmini ayarlamak",
+      "Oksijen taşımak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalpteki kapakçıklar, kanın doğru yönde akmasını sağlayarak geri akışını önler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712968_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kanın pıhtılaşma sürecinde rol oynamayan bir faktördür?",
+    "options": [
+      "Trombositler",
+      "Fibrin",
+      "Kalsiyum iyonları",
+      "Antikorlar",
+      "Pıhtılaşma faktörleri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Antikorlar, bağışıklık sistemi ile ilgili olup pıhtılaşma sürecinde doğrudan rol oynamazlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712970_29",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangi damar, oksijenlenmiş kanı kalbe taşır?",
+    "options": [
+      "Pulmoner ven",
+      "Aort",
+      "Vena kava inferior",
+      "Vena kava süperior",
+      "Pulmoner arter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pulmoner ven, oksijenlenmiş kanı akciğlerden kalbe taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520359327_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdakilerden hangisi insan dolaşım sisteminin ana işlevlerinden biri değildir?",
+    "options": [
+      "Oksijen taşımak",
+      "Karbon dioksit taşımak",
+      "Besin maddelerini taşımak",
+      "Hormonları taşımak",
+      "Sıcaklık düzenlemek"
+    ],
+    "correctAnswer": 4,
+    "explanation": "İnsan dolaşım sistemi, oksijen, karbon dioksit, besin maddeleri ve hormonların taşınmasında önemli rol oynar. Ancak sıcaklık düzenlemek dolaşım sisteminin birincil işlevi değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522783282_6",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminde yer alan lenf sistemi ne işe yarar?",
+    "options": [
+      "Kan basıncını düzenler",
+      "Bağışıklık sistemine yardımcı olur",
+      "Oksijen taşır",
+      "Gıda taşır",
+      "Vücut ısısını artırır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lenf sistemi, bağışıklık sisteminin bir parçası olup, enfeksiyonla savaşan hücreleri taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522783282_13",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp hangi yapılar tarafından beslenir?",
+    "options": [
+      "Koroner damarlar",
+      "Pulmoner damarlar",
+      "Beyin damarları",
+      "Karaciğer damarları",
+      "Bacak damarları"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalp, koroner damarlar tarafından beslenir ve bu damarlar kalp kasına oksijen taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522783282_12",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Damarların duvar yapısı hangi özellikte olmalıdır?",
+    "options": [
+      "Gevşek",
+      "Kalın ve elastik",
+      "İnce",
+      "Sert",
+      "Düz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Damarların duvarları, kan basıncını karşılayabilmek için kalın ve elastik olmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712970_26",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kan dolaşımında yer alan bir hormon değildir?",
+    "options": [
+      "Adrenalin",
+      "Aldosteron",
+      "Insülin",
+      "Serotonin",
+      "Testosteron"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Serotonin, genellikle sinir sistemi ile ilişkilidir ve kan dolaşımında doğrudan etkili olan bir hormon değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_5",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kan basıncını artıran faktörlerden biri hangisidir?",
+    "options": [
+      "Düşük tuz alımı",
+      "Düşük sıvı alımı",
+      "Stres",
+      "Yüksek fiziksel aktivite",
+      "Düşük kolesterol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stres, vücutta adrenalin salgılar ve bu da kan basıncını artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_11",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangi durum, kanın pıhtılaşmasını artıran bir faktördür?",
+    "options": [
+      "Yüksek sıvı alımı",
+      "Düşük kolesterol",
+      "Hareketsizlik",
+      "Yüksek fiziksel aktivite",
+      "Düşük tuz alımı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hareketsizlik, kan akışını yavaşlatır ve pıhtılaşma riskini artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_8",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp atış hızını etkileyen hormon hangisidir?",
+    "options": [
+      "Aldosteron",
+      "Adrenalin",
+      "Insülin",
+      "Glukagon",
+      "Östrojen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adrenalin, kalp atış hızını artıran bir hormondur ve stres durumlarında salınır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498820887_2",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki damarlardan hangisindeki kanın oksijen derişiminin diğerlerinden farklı olması beklenir?",
+    "options": [
+      "Aort atardamarı",
+      "Böbrek atardamarı",
+      "Akciğer atardamarı",
+      "Karaciğer atardamarı",
+      "Şah damarı (Karotis arteri)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaşım sisteminde atardamarlar genellikle oksijence zengin (temiz) kan taşırken, toplardamarlar oksijence fakir (kirli) kan taşır. Ancak bu kuralın iki önemli istisnası vardır. Akciğer atardamarı, kalbin sağ karıncığından çıkan ve oksijence fakir kanı temizlenmesi için akciğerlere götüren damardır. Akciğer toplardamarı ise akciğerlerde temizlenen oksijence zengin kanı kalbin sol kulakçığına getirir. Soruda verilen şıklardan Aort, Böbrek atardamarı, Karaciğer atardamarı ve Şah damarı sistemik dolaşıma ait atardamarlardır ve hepsi kalbin sol karıncığından pompalanan oksijence zengin kanı taşır. Akciğer atardamarı ise pulmoner (küçük) dolaşıma aittir ve oksijence fakir kan taşıdığı için diğerlerinden farklıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712970_27",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kalp kasının kan akışını etkileyen bir durumdur?",
+    "options": [
+      "Anemi",
+      "Yüksek kolesterol",
+      "Yüksek tansiyon",
+      "Stres",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Anemi, yüksek kolesterol, ve yüksek tansiyon gibi durumlar kalp kasının kan akışını etkileyebilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_17",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kan akışını yavaşlatan bir faktördür?",
+    "options": [
+      "Yüksek tuz alımı",
+      "Yüksek sıvı alımı",
+      "Stres",
+      "Obezite",
+      "Yüksek fiziksel aktivite"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Obezite, damarları daraltarak kan akışını yavaşlatabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519392436_2",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp kası hücrelerinin özelliği olan otomatikite, hangi özellik ile sağlanır?",
+    "options": [
+      "Sinir hücreleri",
+      "Özel hücreler",
+      "Kan akışı",
+      "Hormonlar",
+      "Dışsal uyarılar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kalp kası hücreleri, otomatikite özelliğine sahip özel hücreler (özellikle sinoatriyal düğüm hücreleri) sayesinde kendi kendine uyarılarak kasılma yeteneğine sahiptir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712969_21",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kılcal damarlarda gerçekleşen madde alışverişi için en önemli faktördür?",
+    "options": [
+      "Kan basıncı",
+      "Venöz geri dönüş",
+      "Damar direnci",
+      "Hücre metabolizması",
+      "Sıcaklık"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kan basıncı, kılcal damarlarda madde alışverişini etkileyen en önemli faktördür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526212727_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp döngüsünde, kalbin kasılma evresine ne ad verilir?",
+    "options": [
+      "Diastol",
+      "Sistol",
+      "Ekokardiogram",
+      "Atriyum",
+      "Ventrikül"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kalp döngüsünde kalbin kasıldığı evreye 'sistol' denir. Bu evrede kalp kasılarak kanı pompalarken, diastol evresinde kalp gevşer ve kan dolar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_12",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kanın kılcal damarlardan geçerken oksijen ve besin maddelerini dokulara iletmesini sağlar?",
+    "options": [
+      "Difüzyon",
+      "Osmoz",
+      "Aktif taşınma",
+      "Filtrasyon",
+      "Evaporasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Difüzyon, kılcal damarlarda oksijen ve besin maddelerinin dokulara geçişini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_10",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalpteki sağ ventrikül, hangi damara kan pompalamaktadır?",
+    "options": [
+      "Aort",
+      "Pulmoner arter",
+      "Pulmoner ven",
+      "Vena kava inferior",
+      "Vena kava süperior"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sağ ventrikül, kanı pulmoner artere pompalayarak akciğerlere gönderir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712970_33",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kanın viskozitesini artıran bir faktördür?",
+    "options": [
+      "Yüksek sıvı alımı",
+      "Düşük tuz alımı",
+      "Yüksek kolesterol",
+      "Yüksek protein",
+      "Düşük aktivite"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yüksek protein içeriği, kanın viskozitesini artırabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764500200762_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Sağlıklı bir insanda, sol karıncıktan pompalanan ve oksijence zengin kanın, böbreklere ulaştıktan sonra tekrar sağ kulakçığa dönene kadar izlediği yolda aşağıdaki yapılardan hangisinden geçmesi beklenmez?",
+    "options": [
+      "Aort atardamarı",
+      "Böbrek toplardamarı",
+      "Akciğer atardamarı",
+      "Alt ana toplardamar",
+      "Böbrek kılcalları"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soru, büyük kan dolaşımının (sistemik dolaşım) yolunu sormaktadır. Sol karıncıktan pompalanan kan şu yolu izler: Sol karıncık → Aort atardamarı → Böbrek atardamarı → Böbrek kılcalları → Böbrek toplardamarı → Alt ana toplardamar → Sağ kulakçık. Bu yolculuk sırasında kan, vücut dokularını (bu örnekte böbrekleri) dolaşır ve oksijenini bırakıp karbondioksit alır. Akciğer atardamarı ise küçük kan dolaşımının (pulmoner dolaşım) bir parçasıdır. Küçük kan dolaşımı, sağ karıncıktan başlar, kirli kanı akciğer atardamarı ile akciğerlere taşır, kanın temizlenmesini sağlar ve akciğer toplardamarı ile temiz kanı sol kulakçığa geri getirir. Dolayısıyla, sol karıncıktan başlayıp sağ kulakçıkta biten büyük dolaşım sırasında kan akciğer atardamarından geçmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522783282_10",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kan hücreleri arasında en fazla bulunan hücre türü hangisidir?",
+    "options": [
+      "Akyuvarlar",
+      "Kırmızı kan hücreleri",
+      "Trombositler",
+      "Beyaz kan hücreleri",
+      "Plazma hücreleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kırmızı kan hücreleri, kanın %45'ini oluşturarak en fazla bulunan hücre türüdür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520359327_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
+    "options": [
+      "Düz kas",
+      "İskelet kası",
+      "Kalp kası",
+      "Epitelyal doku",
+      "Bağ doku"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520359327_2",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
+    "options": [
+      "Aort",
+      "Venöz sistem",
+      "Kapiller damarlar",
+      "Pulmoner arter",
+      "Vena kava"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712969_4",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangi damar, vücutta en geniş çaplı damardır?",
+    "options": [
+      "Arterler",
+      "Venler",
+      "Kapillerler",
+      "Aort",
+      "Pulmoner arter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Venler, kanı kalbe geri döndürmek için en geniş çaplı damarlardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522783282_8",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp atışları arasındaki süreyi belirleyen yapı hangisidir?",
+    "options": [
+      "Sinüs düğümü",
+      "Atrioventriküler düğüm",
+      "Kalp kası",
+      "Kardiyovasküler sistem",
+      "Damarlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinüs düğümü, kalp atışlarını başlatan ve düzenleyen doğal pacemaker'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524942225_19",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi durum, kalp yetmezliğine yol açabilir?",
+    "options": [
+      "Düzenli egzersiz",
+      "Yüksek tansiyon",
+      "Dengeli beslenme",
+      "Sigara içmek",
+      "Alkol tüketimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yüksek tansiyon, kalp kasının aşırı çalışmasına neden olarak zamanla kalp yetmezliğine yol açabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528712969_13",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalbin sağ ve sol yarım kürelerinin ayrılmasını sağlayan yapı hangisidir?",
+    "options": [
+      "Septum",
+      "Valf",
+      "Perikard",
+      "Aort",
+      "Vena kava"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Septum, kalbin sağ ve sol yarım kürelerini ayırarak iki ayrı pompa işlevi görmesini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_7",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminde hangi yapı, kanın akışını kontrol eden valfleri içerir?",
+    "options": [
+      "Arterler",
+      "Kapillerler",
+      "Venler",
+      "Kılcal damarlar",
+      "Aort"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Venler, kanın kalbe geri dönüşünü sağlarken valfleri sayesinde kanın geri akışını önler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712968_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp kası hücrelerinin elektriksel uyarılara nasıl tepki verdiğini tanımlayan mekanizma hangisidir?",
+    "options": [
+      "Sodyum-potasyum pompası",
+      "Kalsiyum kanalları",
+      "Potasyum kanalları",
+      "Aksiyon potansiyeli",
+      "İnterstisyel sıvı"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aksiyon potansiyeli, kalp kası hücrelerinin elektriksel uyarılara verdiği tepkidir ve kasılma sürecini başlatır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522783282_9",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminin ana iki kısmı nelerdir?",
+    "options": [
+      "Açık ve kapalı sistemler",
+      "Oksijenli ve oksijensiz kan",
+      "Büyük ve küçük dolaşım",
+      "Venöz ve arteriyel sistem",
+      "Kan ve lenf sistemi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Büyük dolaşım, kalpten vücuda kan taşırken, küçük dolaşım akciğerlere kan taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528712969_16",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kalp kasının oksijen ihtiyacını artıran bir faktördür?",
+    "options": [
+      "Dinlenme",
+      "Hareketsizlik",
+      "Yüksek fiziksel aktivite",
+      "Düşük sıcaklık",
+      "Düşük besin alımı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüksek fiziksel aktivite, kalp kasının oksijen ihtiyacını artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712970_28",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, venöz geri dönüşü artıran bir faktördür?",
+    "options": [
+      "Yüksek tansiyon",
+      "Kas pompası",
+      "Düşük sıvı alımı",
+      "Pasif duruş",
+      "Obezite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kas pompası, bacak kaslarının kasılması ile venöz geri dönüşü artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712970_31",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kanın hacmini artıran bir durum değildir?",
+    "options": [
+      "Dehidrasyon",
+      "Yüksek tuz alımı",
+      "Yüksek sıvı alımı",
+      "Hormonal değişiklikler",
+      "Kan transfüzyonu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dehidrasyon, kan hacmini azaltır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_18",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangi damar, akciğerlere oksijenli kan taşıyan damardır?",
+    "options": [
+      "Aort",
+      "Pulmoner arter",
+      "Pulmoner ven",
+      "Vena kava inferior",
+      "Vena kava süperior"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pulmoner ven, akciğerlere oksijenlenmiş kanı taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528712969_3",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalbin sağ atriyumu hangi damar ile kan alır?",
+    "options": [
+      "Aort",
+      "Pulmoner arter",
+      "Vena kava süperior",
+      "Pulmoner ven",
+      "Vena kava inferior"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sağ atriyum, venous kanı Vena kava süperior ve Vena kava inferior damarları aracılığıyla alır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524942225_18",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kan akışının en yüksek olduğu yer neresidir?",
+    "options": [
+      "Arterler",
+      "Kılcal damarlar",
+      "Venler",
+      "Kapakçıklar",
+      "Kalp"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arterler, kanın kalpten vücuda pompalanması sırasında en yüksek akış hızına sahip olan damarlardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528712970_23",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Hangisi, kanın pH dengesini etkileyen bir faktördür?",
+    "options": [
+      "Yüksek tuz alımı",
+      "Karbon dioksit seviyeleri",
+      "Yüksek protein alımı",
+      "Düşük sıvı alımı",
+      "Düşük kolesterol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Karbon dioksit seviyeleri, kanın pH dengesini etkileyen önemli bir faktördür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522783282_14",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kanın pH değeri genellikle hangi aralıktadır?",
+    "options": [
+      "6.5 - 7.0",
+      "7.0 - 7.5",
+      "7.35 - 7.45",
+      "7.5 - 8.0",
+      "8.0 - 8.5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kan pH değeri genellikle 7.35 ile 7.45 arasında olmalıdır, bu aralıkta sağlıklı bir denge sağlanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524942226_26",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminin temel işlevlerinden biri nedir?",
+    "options": [
+      "Besin maddelerini taşımak",
+      "Karbon dioksidi atmak",
+      "Ateşi düşürmek",
+      "Ağrıyı hafifletmek",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Dolaşım sistemi, besin maddelerini taşımak, karbon dioksidi atmak ve birçok diğer işlevi yerine getirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_22",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi kan hücresi enfeksiyonla savaşmak için role sahiptir?",
+    "options": [
+      "Alyuvarlar",
+      "Akyuvarlar",
+      "Trombositler",
+      "Plazma hücreleri",
+      "Eritrositler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Akyuvarlar, bağışıklık sisteminin bir parçası olarak enfeksiyonla savaşan hücrelerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_5",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kanın pıhtılaşma sürecinde hangi hücreler rol oynar?",
+    "options": [
+      "Alyuvarlar",
+      "Akyuvarlar",
+      "Trombositler",
+      "Plazma hücreleri",
+      "Eritrositler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trombositler, kan pıhtılaşma sürecinde kritik bir rol oynar ve yaralanma durumlarında pıhtı oluşumunu başlatır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528712969_19",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp kapakçıkları hangi işlevi yerine getirir?",
+    "options": [
+      "Kan akışını yönlendirmek",
+      "Kanı pompalamak",
+      "Oksijen taşımak",
+      "Hücreleri beslemek",
+      "Kanı pıhtılaştırmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalp kapakçıkları, kan akışını yönlendirmek için açılıp kapanır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524942225_17",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi damar, kalpten beyne giden oksijenli kanı taşır?",
+    "options": [
+      "Karotid arter",
+      "Pulmoner ven",
+      "Aort",
+      "Vertebral arter",
+      "Koroner arter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karotid arter, kalpten beyne giden oksijenli kanı taşıyan ana damardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_14",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kanın pH seviyesinin normal aralığı nedir?",
+    "options": [
+      "6.8 - 7.2",
+      "7.2 - 7.4",
+      "7.35 - 7.45",
+      "7.45 - 7.55",
+      "7.5 - 7.8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sağlıklı bir insanın kan pH seviyesi genellikle 7.35 ile 7.45 arasında olmalıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522783282_11",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminin en büyük damarı hangisidir?",
+    "options": [
+      "Aort",
+      "Pulmoner arter",
+      "Venöz sistem",
+      "Koroner arter",
+      "Kapiller damarlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aort, kalpten çıkan en büyük damardır ve vücuda oksijenli kan taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501480375_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "İnsan kalbinin çalışmasını düzenleyen faktörlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Kandaki karbondioksit miktarının artması, kan pH'ını düşürerek omurilik soğanını uyarır ve kalp atışını hızlandırır.",
+      "Sempatik sinirlerden salgılanan noradrenalin, kalp atış hızını artıran bir etki gösterir.",
+      "Vücut sıcaklığının normalin üzerine çıkması, sinoatriyal düğümün uyarılmasını yavaşlatarak kalp atışını düşürür.",
+      "Parasempatik sinirlerden olan vagus sinirinden salgılanan asetilkolin, kalp atışını yavaşlatır.",
+      "Adrenalin ve tiroksin gibi hormonlar, metabolizmayı hızlandırarak kalbin çalışma hızını artırır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kalp atış hızı, otonom sinir sistemi ve hormonal faktörler tarafından kontrol edilir. Vücut sıcaklığının yükselmesi (ateş gibi durumlarda), metabolizmayı ve sinirsel iletimi hızlandırır. Bu durum, kalbin pacemaker'ı olan sinoatriyal (SA) düğümün daha sık uyarılmasına neden olarak kalp atış hızını artırır, yavaşlatmaz. Diğer seçenekler doğrudur: Yüksek CO2 (düşük pH) kalp atışını hızlandırır. Sempatik sistem (noradrenalin ile) 'savaş ya da kaç' tepkisiyle kalbi hızlandırır. Parasempatik sistem (asetilkolin ile) ise 'dinlen ve sindir' durumuyla kalbi yavaşlatır. Adrenalin ve tiroksin hormonları da metabolizmayı ve dolayısıyla kalp atışını hızlandırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524942226_28",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi yapı kalbin kasılmasını başlatan elektriksel uyarıyı üretir?",
+    "options": [
+      "Atrioventriküler düğüm",
+      "Sinüs düğümü",
+      "His demeti",
+      "Purkinje lifleri",
+      "Kalp kası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinüs düğümü, kalbin kasılmasını başlatan elektriksel uyarıyı üreten yapıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500200762_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "İnsanın dolaşım sisteminde yer alan damarlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Atardamarların duvarları, toplardamarlara göre daha kalın ve elastik lifler bakımından daha zengindir.",
+      "Vücudun alt kısımlarındaki toplardamarlarda kanın geri akışını engelleyen tek yönlü kapakçıklar bulunur.",
+      "Kan akış hızının en yavaş olduğu damarlar, madde alışverişinin gerçekleştiği kılcal damarlardır.",
+      "Bir organa giren atardamar ile o organdan çıkan toplardamar arasındaki kanın alyuvar sayısı yaklaşık olarak aynıdır.",
+      "Vücuttaki toplam kan hacminin en büyük kısmı, yüksek basınç nedeniyle atardamarlarda depolanır."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Vücuttaki toplam kan hacminin en büyük kısmı (%60-70 civarı) atardamarlarda değil, toplardamarlarda bulunur. Toplardamarların duvarları daha az elastik ve daha geniştir, bu da onların daha fazla kan depolamasına olanak tanır. Atardamarlar ise kanı yüksek basınçla taşıdıkları için duvarları kalındır ancak kanı depolama kapasiteleri toplardamarlara göre daha azdır. Diğer şıklar doğrudur: A) Atardamarlar yüksek basınca dayanıklı olmalıdır. B) Yerçekimine karşı kanın taşınmasına kapakçıklar yardım eder. C) Toplam kesit alanı en fazla olan kılcal damarlarda kan akışı yavaşlayarak madde alışverişine imkan tanır. D) Sağlıklı bir bireyde kan üretimi ve yıkımı dengede olduğu için, bir organdan geçen kanda alyuvar sayısı önemli ölçüde değişmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524942225_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki yapıların hangisi kanın kalpten vücuda pompalanmasında yer almaz?",
+    "options": [
+      "Sol ventrikül",
+      "Sağ atriyum",
+      "Sağ ventrikül",
+      "Pulmoner arter",
+      "Aort"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sağ atriyum, kanı kalpten dışarı pompalamaz; aksine, vücuttan gelen kanı toplar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524942225_10",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki hangi yapı kanın akış yönünü kontrol eder?",
+    "options": [
+      "Kapakçıklar",
+      "Damarlar",
+      "Arterler",
+      "Vena cava",
+      "Kalp"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kalpte bulunan kapakçıklar, kanın akış yönünü kontrol ederek geri akışını engeller.",
+    "difficulty": 5
   }
 ]
