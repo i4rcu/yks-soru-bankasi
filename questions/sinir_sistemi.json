@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501455383_0",
+    "id": "ai_1764519384777_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
+    "questionText": "Sinir sisteminin temel birimi nedir?",
     "options": [
-      "Aksiyon potansiyelinin şiddetinin artması",
-      "İmpuls iletim hızının artması",
-      "İmpuls iletimi için harcanan ATP miktarının artması",
-      "Uyarılma için gerekli eşik değerinin düşmesi",
-      "Repolarizasyon süresinin kısalması"
+      "Nöron",
+      "Glial hücre",
+      "Sinaps",
+      "Akson",
+      "Dendrit"
     ],
-    "correctAnswer": 2,
-    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
+    "correctAnswer": 0,
+    "explanation": "Sinir sisteminin temel işlevsel birimi nörondur. Nöronlar elektriksel sinyalleri iletmek ve bilgi işlemek için özelleşmiştir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501455383_1",
+    "id": "ai_1764519384777_1",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "questionText": "Otonom sinir sistemi hangi işlevleri kontrol eder?",
     "options": [
-      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
-      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
-      "Acı ve sıcaklık gibi duyuların algılanamaması",
-      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
-      "Konuşulanları anlama fakat konuşarak cevap verememe"
+      "Gönüllü hareketler",
+      "Duyusal algılar",
+      "İç organların otomatik işlevleri",
+      "Düşünme ve hafıza",
+      "Göz hareketleri"
     ],
-    "correctAnswer": 3,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
+    "correctAnswer": 2,
+    "explanation": "Otonom sinir sistemi, kalp atışı, sindirim ve solunum gibi iç organların otomatik işlevlerini kontrol eder ve bilinçli irade ile yönetilmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519384777_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Merkezi sinir sistemi hangi yapıdan oluşur?",
+    "options": [
+      "Beyin ve omurilik",
+      "Sinirler ve ganglionlar",
+      "Duyu organları",
+      "Kaslar",
+      "Bağ dokusu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merkezi sinir sistemi, beyin ve omurilikten oluşur. Bu yapı, vücutta bilgi işleme ve yönlendirme görevlerini üstlenir.",
     "difficulty": 3
   }
 ]
