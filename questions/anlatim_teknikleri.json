@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764497577916_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Köyün girişindeki yaşlı çınar, asırlardır dimdik ayakta duruyordu. Kollarını iki yana açmış, yorgun yolcuları gölgesine çağıran bir bilge gibiydi. Her bir yaprağı, geçmişten bir anı fısıldıyordu rüzgâra. Çocukluğum bu ağacın gölgesinde geçti. Onun dallarında sallanır, kovuklarında saklambaç oynardık. Şimdi ise o anılar, solgun bir fotoğraf gibi zihnimde asılı duruyor.",
+    "options": [
+      "Kişileştirme",
+      "Öyküleme",
+      "Betimleme",
+      "Benzetme",
+      "Tartışma"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Parçada yazar, bir varlığı veya durumu okuyucunun zihninde canlandırmayı amaçlayan 'betimleme'ye ('yaşlı çınar', 'dimdik ayakta'), olayları bir akış içinde anlatan 'öyküleme'ye ('dallarında sallanır, saklambaç oynardık'), insan dışı bir varlığa insani özellikler yükleyen 'kişileştirme'ye ('kollarını açmış', 'anı fısıldıyordu') ve bir kavramı başka bir varlığın özellikleriyle anlatan 'benzetme'ye ('bilge gibiydi', 'fotoğraf gibi') başvurmuştur. Ancak, bir düşünceyi savunmak veya bir tezi çürütmek amacıyla kullanılan 'tartışma' tekniğine yer verilmemiştir. Bu nedenle doğru cevap E seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497577916_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Bazı eleştirmenler, romanın temel işlevinin topluma ayna tutmak olduğunu öne sürer. Onlara göre yazar, bir sosyolog titizliğiyle çevresini gözlemlemeli ve eserine yansıtmalıdır. Ancak bu görüş, sanatın yaratıcı ve öznel doğasını göz ardı etmektedir. Roman, bir toplumun fotoğrafı olmak zorunda değildir; aksine, yazarın hayal gücünün ve üslubunun bir ürünü olarak bambaşka dünyalar da sunabilir. Sanatı salt bir yansıtma aracına indirgemek, onun ruhunu öldürmektir.",
+    "options": [
+      "Açıklama",
+      "Öyküleme",
+      "Tartışma",
+      "Tanık gösterme",
+      "Betimleme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada yazar, önce genel kabul gören bir görüşü ('romanın topluma ayna tutması') ortaya koymaktadır. Ardından 'Ancak bu görüş...' ifadesiyle bu teze karşı çıkarak kendi düşüncesini ('sanatın yaratıcı ve öznel doğası') savunmaya başlamaktadır. Yazar, iki farklı düşünceyi karşılaştırıp kendi tezini kanıtlamaya çalıştığı için parçada ağır basan anlatım tekniği 'tartışma'dır. Açıklama, bilgi vermeyi amaçlarken tartışma, bir fikri savunmayı veya çürütmeyi hedefler. Bu metinde yazarın amacı bilgi vermek değil, bir görüşe karşı kendi fikrini savunmaktır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497577916_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "İnsanın en temel arayışlarından biri de mutluluktur. Ancak mutluluk, dış koşullardan çok, içsel bir bakış açısıyla ilgilidir. Epiktetos'un da dediği gibi: 'İnsanları üzen, olayların kendisi değil, olaylar hakkındaki görüşleridir.' Bu söz, asırlar öncesinden bugüne ışık tutuyor. Gerçekten de başımıza gelenleri kontrol edemesek de onlara vereceğimiz tepkiyi ve anlamı kontrol edebiliriz. Bu da mutluluğun anahtarını kendi içimizde arama sorumluluğunu bize yükler.",
+    "options": [
+      "Örnekleme",
+      "Tanık gösterme",
+      "Sayısal verilerden yararlanma",
+      "Karşılaştırma",
+      "Tanımlama"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yazar, mutluluğun içsel bir bakış açısıyla ilgili olduğu yönündeki düşüncesini daha inandırıcı kılmak için konuyla ilgili sözü olan bir kişinin, yani filozof Epiktetos'un ismini ve sözünü doğrudan alıntılayarak kullanmıştır. Düşünceyi desteklemek amacıyla alanında uzman veya tanınmış bir kişinin ismini ve sözünü kullanma tekniğine 'tanık gösterme' denir. Parçada Epiktetos ve onun sözü, yazarın tezine tanıklık etmektedir. Bu nedenle doğru cevap B seçeneğidir.",
+    "difficulty": 3
+  }
+]
