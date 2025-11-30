@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520167024_0",
+    "id": "ai_1764521102712_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Bir cismin hızı, 10 m/s'den 20 m/s'ye çıkıyorsa, bu cismin ivmesi nedir?",
+    "questionText": "Bir aracın saatteki hızı 72 km/s'dir. Bu araç, 2 saat boyunca sabit hızla ilerlediğine göre toplamda ne kadar mesafe alır?",
     "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
+      "120 km",
+      "144 km",
+      "160 km",
+      "180 km",
+      "200 km"
     ],
     "correctAnswer": 1,
-    "explanation": "İvme, hız değişiminin zamanla oranıdır. Eğer hız 10 m/s'den 20 m/s'ye çıkıyorsa, hız değişimi 20 m/s - 10 m/s = 10 m/s'dir. Eğer bu değişim 5 saniyede gerçekleşiyorsa, ivme = 10 m/s / 5 s = 2 m/s² olur.",
+    "explanation": "Hız = Mesafe / Zaman formülünü kullanarak, mesafe = hız x zaman. Burada: 72 km/saat x 2 saat = 144 km.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520167024_1",
+    "id": "ai_1764521102712_1",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Bir cismin hareketi sırasında aldığı mesafe 100 m, geçen süre ise 5 saniye ise cismin ortalama hızı nedir?",
+    "questionText": "Bir cisim, 5 saniye boyunca 10 m/s²'lik bir ivme ile hareket ediyor. Başlangıç hızı 0 m/s olduğuna göre, 5 saniye sonunda cisim ne kadar mesafe alır?",
     "options": [
-      "15 m/s",
-      "20 m/s",
-      "25 m/s",
-      "30 m/s",
-      "35 m/s"
+      "25 m",
+      "50 m",
+      "75 m",
+      "100 m",
+      "125 m"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mesafe = başlangıç hızı x zaman + (1/2) x ivme x zaman². Burada: 0 x 5 + (1/2) x 10 x 5² = 0 + 125 = 125 m.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521102712_2",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir top, 20 m/s hızla yukarı doğru fırlatıldığında, yer çekimi ivmesi 10 m/s² olarak alındığında, topun en yüksek noktaya çıkma süresi ne kadardır?",
+    "options": [
+      "1 s",
+      "2 s",
+      "3 s",
+      "4 s",
+      "5 s"
     ],
     "correctAnswer": 2,
-    "explanation": "Ortalama hız, alınan mesafenin geçen süreye bölünmesiyle hesaplanır. Ortalama hız = Mesafe / Zaman = 100 m / 5 s = 20 m/s.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520167024_2",
-    "subjectId": "fiz",
-    "topic": "Hareket",
-    "questionText": "Bir cisim, sabit bir hızla hareket ediyorsa, bu cisim için hangi ifade doğrudur?",
-    "options": [
-      "İvmesi sıfırdır.",
-      "İvmesi pozitiftir.",
-      "İvmesi negatiftir.",
-      "Hızı sürekli değişir.",
-      "Hiçbir bilgi verilemez."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sabit hızla hareket eden bir cismin hızı zamanla değişmediği için ivmesi de sıfırdır. Bu durumda cisim düzgün hareket etmektedir.",
+    "explanation": "En yüksek noktada hız 0 olur. Formül: v = u - gt. Burada: 0 = 20 - 10t, 10t = 20, t = 2s.",
     "difficulty": 3
   }
 ]
