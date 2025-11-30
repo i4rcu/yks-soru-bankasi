@@ -1,25 +1,73 @@
 [
   {
-    "id": "ai_1764497605988_0",
+    "id": "ai_1764498940786_0",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Sanılanın aksine, yaratıcılık yalnızca sanatçılara özgü bir ilham anı değildir. Aksine, farklı alanlardaki bilgileri birleştirme, alışılmışın dışında bağlantılar kurma ve problemlere yeni çözüm yolları bulma becerisidir. Bir mühendisin daha verimli bir motor tasarlaması da bir aşçının daha önce denenmemiş malzemelerle harika bir lezzet yaratması da bu becerinin bir ürünüdür. Dolayısıyla yaratıcılığı, dar kalıplara sıkıştırmak yerine onu hayatın her alanında karşılaşılabilecek bir zihinsel esneklik olarak görmek gerekir.",
+    "questionText": "Sanatçı, eserini ortaya koyarken toplumdan ve içinde yaşadığı çağdan bağımsız hareket edemez. En soyut görünen bir resimde, en kişisel olduğu düşünülen bir şiirde bile çağının ruhu, toplumsal çalkantılar veya sessiz bir umut bir şekilde kendine yer bulur. Sanat, bir ayna gibi, çoğu zaman farkında bile olmadan ait olduğu dönemin izlerini taşır. Bu yüzden, bir sanat eserini tam olarak anlayabilmek için onun yaratıldığı tarihsel ve sosyal koşulları bilmek, esere bakış açımızı derinleştirir ve bize yeni anlam katmanları sunar. \n\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
     "options": [
-      "Sanatsal faaliyetler, yaratıcılığın en saf halidir.",
-      "Yaratıcı olabilmek için belirli bir alanda uzmanlaşmak şarttır.",
-      "Yaratıcılık, farklı disiplinlerde ortaya çıkabilen genel bir problem çözme yeteneğidir.",
-      "İnsanlar doğuştan gelen yaratıcılık potansiyellerini zamanla kaybederler.",
-      "Teknolojik gelişmeler, insanın yaratıcı düşünme becerisini köreltmektedir."
+      "Sanat eserleri, yaratıcısının kişisel dünyasının bir yansımasıdır.",
+      "Sanatın toplumsal olayları doğrudan şekillendirme gücü vardır.",
+      "Bir sanat eserini anlamak, onun üretildiği dönemin koşullarını bilmekle yakından ilişkilidir.",
+      "Her sanatçı, eserlerinde toplumsal mesajlar verme kaygısı taşır.",
+      "Soyut sanat, somut sanata göre yorumlanması daha zor bir alandır."
     ],
     "correctAnswer": 2,
-    "explanation": "Parçada yaratıcılığın sadece sanatla sınırlı olmadığı, mühendislik ve aşçılık gibi farklı alanlarda da ortaya çıkabilen, bilgileri birleştirme ve yeni çözümler üretme becerisi olduğu vurgulanmaktadır. Bu durum, yaratıcılığın genel bir zihinsel esneklik ve problem çözme yeteneği olduğu anlamına gelir. A şıkkı, parçanın \"sanatçılara özgü değildir\" fikriyle çelişir. B şıkkı, uzmanlaşmaktan değil, farklı bilgileri birleştirmekten bahsedildiği için yanlıştır. D ve E şıkları ise parçada hiç değinilmeyen konulardır. Bu nedenle en kapsayıcı ve doğru ifade C şıkkında verilmiştir.",
+    "explanation": "Paragrafta sanatçının ve eserinin içinde bulunduğu çağdan ve toplumdan bağımsız olamayacağı vurgulanmaktadır. Metnin son cümlesi olan \"Bu yüzden, bir sanat eserini tam olarak anlayabilmek için onun yaratıldığı tarihsel ve sosyal koşulları bilmek, esere bakış açımızı derinleştirir...\" ifadesi, parçanın ana fikrini özetlemektedir. Eseri anlamak ile üretildiği dönemin koşulları arasında doğrudan bir bağ kurulmuştur. Diğer şıklar ya parçanın bir detayıdır (A) ya da parçada değinilmeyen farklı bir konudur (B, D, E).",
     "difficulty": 3
   },
   {
-    "id": "ai_1764497605988_1",
+    "id": "ai_1764498940786_1",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "(I) Eleştirel düşünme, bireyin bilgiyi pasif bir şekilde kabul etmek yerine onu aktif olarak analiz etme, sorgulama ve değerlendirme sürecidir. (II) Bu beceri, özellikle bilgi kirliliğinin yoğun olduğu günümüz dünyasında doğruyu yanlıştan ayırmak için hayati bir önem taşır. (III) Eğitim sistemleri, öğrencilere erken yaşlardan itibaren ezbercilik yerine bu yeteneği kazandırmayı hedeflemelidir. (IV) Okullarda yapılan münazara etkinlikleri de bu becerinin gelişimine katkı sağlar. (V) Sorgulanmadan kabul edilen her bilgi, bireyin düşünsel bağımsızlığını zedeler ve onu manipülasyona açık hale getirir.",
+    "questionText": "Önyargı, zihinsel bir kısa yol gibidir. Beynimiz, karşılaştığı her yeni durumu veya kişiyi en baştan analiz etmek yerine, daha önceki deneyimlerine veya kalıp düşüncelere dayanarak hızlı bir sonuca varır. Bu, enerji tasarrufu sağlayan bir mekanizma olsa da çoğu zaman bizi hatalı yargılara sürükler. İnsanları, grupları veya olayları yeterince tanımadan, eksik bilgiyle etiketlemek, hem bireysel ilişkilerimizde hem de toplumsal barışta onarılması güç yaralar açar. Önyargının panzehiri ise merak etmek, sorgulamak ve anlamaya çalışmaktır. \n\nBu parçadan önyargı ile ilgili olarak aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Zihnin daha az çaba harcamasına yönelik bir eğilimden kaynaklandığına",
+      "Kalıp düşüncelere ve geçmiş tecrübelere dayandığına",
+      "Toplumsal ve bireysel ilişkilere zarar verebileceğine",
+      "Eleştirel düşünce ve merak duygusuyla aşılabileceğine",
+      "Sadece olumsuz durumlar karşısında ortaya çıktığına"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Parçada önyargının zihinsel bir kısa yol olduğu (A), kalıp düşüncelere dayandığı (B), ilişkilere zarar verdiği (C) ve merak ve sorgulama ile aşılabileceği (D) belirtilmiştir. Ancak önyargının sadece olumsuz durumlar karşısında ortaya çıktığına dair bir bilgi metinde yer almamaktadır. Önyargı, hem olumlu hem de olumsuz olabilir; fakat metin bu ayrıma girmemiştir ve sadece olumsuz durumlara özgü olduğunu söylememiştir. Dolayısıyla E şıkkındaki ifadeye ulaşılamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Eleştiri, bir sanat eserini ya da düşünceyi körü körüne yüceltmek veya yermek değildir. (II) Aksine, eserin güçlü ve zayıf yönlerini nesnel ölçütlerle ortaya koyma çabasıdır. (III) Gerçek bir eleştirmen, kişisel beğenilerini bir kenara bırakarak eseri kendi iç tutarlılığı ve sanatsal değeri üzerinden değerlendirir. (IV) Eleştirmenin amacı, okura veya izleyiciye eseri daha iyi anlaması için bir yol haritası sunmaktır. (V) Sanat eserlerinin fiyatları, son yıllarda koleksiyonerler yüzünden oldukça artmıştır. (VI) Bu yol haritası sayesinde alımlayıcı, eserin daha önce fark etmediği katmanlarını keşfedebilir. \n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?",
+    "options": [
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parçanın ilk dört cümlesi (I, II, III, IV) eleştirinin ve eleştirmenin ne olduğunu, amacını ve nasıl olması gerektiğini tanımlamaktadır. Ancak V. cümlede konu tamamen değişerek sanat eserlerinin fiyatları ve koleksiyonerlerden bahsedilmeye başlanmıştır. VI. cümle ise tekrar IV. cümlenin devamı niteliğindedir. Bu durumda V. cümle, parçanın anlam bütünlüğünü bozmaktadır. Ancak soru, akışı bozan cümleyi değil, parçanın ikiye bölünmesi gereken yeri sormaktadır. İlk dört cümle eleştirinin tanımını ve amacını anlatırken, V. cümle alakasız bir konuya geçiş yapmıştır. VI. cümle ise IV. cümlenin devamıdır. Bu durumda akışı bozan cümle V'tir. Fakat soru formatı iki paragrafa ayırma olduğu için, V. cümlenin konuyu tamamen değiştirdiği ve yeni bir paragrafa (her ne kadar alakasız da olsa) başlattığı kabul edilir. Dolayısıyla ikinci paragraf V numaralı cümleyle başlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Popüler bilim kitapları, karmaşık bilimsel konuları herkesin anlayabileceği bir dille sunmayı hedefler. Bu kitaplar sayesinde, alanın uzmanı olmayan okurlar da evrenin sırlarından insan beyninin işleyişine kadar pek çok konuda fikir sahibi olur. Bilimsel terminolojiyi en aza indirerek ve bolca örnek ve benzetme kullanarak bilimi daha ulaşılabilir kılarlar. Bu yönüyle, bilimin toplumla buluşmasında ve bilimsel okuryazarlığın artmasında önemli bir köprü görevi görürler. ______. \n\nBu parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "Ancak bu kitaplar akademik makalelerin yerini asla tutamaz.",
+      "Bu yüzden bilim insanları bu tür eserlere pek sıcak bakmazlar.",
+      "Kısacası, bilimi seçkin bir zümrenin tekelinden çıkarıp halka mal ederler.",
+      "Zaten bilimsel gelişmeleri takip etmek oldukça zordur.",
+      "Okullardaki fen dersleri bu nedenle daha ilgi çekici hâle getirilmelidir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta popüler bilim kitaplarının bilimi halkın anlayacağı bir dille anlattığı, bilimi ulaşılabilir kıldığı ve toplumla bilim arasında köprü kurduğu anlatılmaktadır. Bu fikirleri en iyi özetleyen ve parçanın ana düşüncesini pekiştiren cümle C şıkkındadır. Bu kitapların bilimi \"seçkin bir zümrenin tekelinden çıkarıp halka mal etmesi\" ifadesi, paragrafın genelinde anlatılanlarla tam bir uyum içindedir. A şıkkı bir karşılaştırma yapar ama parçanın ana odağı bu değildir. B şıkkı parçadaki olumlu havayla çelişir. D ve E şıkları ise konuyu farklı yönlere çekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_4",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Sessizlik, günümüzün gürültülü dünyasında en çok özlemini çektiğimiz şeylerden biri haline geldi. (II) Sürekli bir bilgi akışı, bildirim sesleri ve şehir uğultusu zihnimizi hiç durmadan meşgul ediyor. (III) Oysa zihinsel berraklık ve yaratıcılık için ara sıra sessizliğe çekilmek bir lüksten öte, bir ihtiyaçtır. (IV) Sessizlik üzerine yapılan birçok araştırma bulunmaktadır. (V) Dış dünyadan gelen uyaranlar azaldığında, beynimiz düşünceleri organize etmek ve yeni bağlantılar kurmak için fırsat bulur. \n\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
     "options": [
       "I",
       "II",
@@ -28,23 +76,55 @@
       "V"
     ],
     "correctAnswer": 3,
-    "explanation": "Paragrafın genelinde eleştirel düşünmenin tanımı, önemi ve bu düşünce biçiminden yoksun olmanın getireceği tehlikeler üzerinde durulmaktadır. I, II, III ve V numaralı cümleler bu genel konsept etrafında bir bütünlük oluşturur. I. cümlede tanım yapılır, II. cümlede günümüzdeki önemi vurgulanır, III. cümlede eğitimdeki rolüne değinilir ve V. cümlede ise eksikliğinin sonuçları belirtilir. Ancak IV. cümle, konunun genel akışından saparak çok daha spesifik bir örnek olan \"münazara etkinlikleri\" konusuna girer. Parçanın genel felsefi ve teorik havasından ayrılarak somut bir uygulama örneği verdiği için düşüncenin akışını bozmaktadır.",
+    "explanation": "Parça, modern dünyada sessizliğe duyulan ihtiyacı ve sessizliğin zihinsel faydalarını anlatmaktadır. I, II, III ve V numaralı cümleler bu tema etrafında bir bütünlük oluşturur. II. cümle gürültüyü, III. cümle sessizliğin bir ihtiyaç olduğunu, V. cümle ise bu ihtiyacın nedenini (beynin düşünceleri organize etmesi) açıklar. Ancak IV. cümlede, \"Sessizlik üzerine yapılan birçok araştırma bulunmaktadır\" denilerek konunun kendisinden çok, konuyla ilgili yapılan çalışmalardan bahsedilmiştir. Bu cümle, paragrafın ana fikrinin akışını kesintiye uğratan genel ve dışarıdan bir bilgidir. Diğer cümleler doğrudan sessizliğin etkilerini ve önemini işlerken, bu cümle konunun kendisine değil, hakkındaki araştırmalara gönderme yapmaktadır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764497605988_2",
+    "id": "ai_1764498940786_5",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Dijital minimalizm, teknolojiyle daha bilinçli ve amaç odaklı bir ilişki kurmayı savunan bir felsefedir. Bu yaklaşıma göre, her yeni uygulamayı indirmek veya her sosyal medya platformunda yer almak yerine, dijital araçları yalnızca hayatımıza gerçekten değer katanları seçerek kullanmalıyız. Amaç, teknolojiyi tamamen reddetmek değil, onun hayatımızdaki rolünü kontrol altına alarak dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır. Bu sayede kazanılan zaman ve enerji, daha anlamlı ve derinlikli faaliyetlere yönlendirilebilir. Böylece teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür.",
+    "questionText": "Kentlerin ruhu olduğuna inanırım. Her sokağın, her eski binanın, hatta her meydanın bir hafızası vardır. Ancak günümüzde bu ruh, yerini tek tip bir mimariye ve kimliksiz yapılara bırakıyor. Tarihî bir konağın yanına dikilen zevksiz bir gökdelen, o sokağın yıllardır biriktirdiği tüm anıları bir anda silip atabiliyor. \"Kentsel dönüşüm\" adı altında yapılan bu müdahaleler, şehirlerin belleğini yok ederek onları birbirinin kopyası, ruhsuz mekanlara çeviriyor. Bu durum karşısında insanın içi sızlamıyor değil. \n\nBu parçada yazarın yakındığı asıl durum aşağıdakilerden hangisidir?",
     "options": [
-      "Teknolojik araçların seçici bir şekilde kullanılması gerektiğini öne sürdüğüne",
-      "Zihinsel odaklanmayı ve verimliliği artırmayı hedeflediğine",
-      "Teknolojinin tamamen hayattan çıkarılması gerektiğini savunduğuna",
-      "Kişinin teknoloji üzerindeki kontrolünü artırmayı amaçladığına",
-      "Dijital araçların bir amaç değil, araç olarak görülmesini teşvik ettiğine"
+      "Şehirlerdeki nüfus yoğunluğunun artması",
+      "Modern mimarinin estetikten yoksun olması",
+      "Kentsel dönüşüm projelerinin yavaş ilerlemesi",
+      "Şehirlerin tarihsel ve özgün kimliklerini kaybetmesi",
+      "Eski binaların yeterince sağlam olmaması"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yazar, paragraf boyunca şehirlerin \"ruhundan\", \"hafızasından\" ve \"belleğinden\" bahsetmektedir. Onu asıl endişelendiren ve üzen durum, yapılan yeni binaların ve kentsel dönüşüm projelerinin bu tarihsel dokuyu ve özgün kimliği yok etmesidir. \"Şehirlerin belleğini yok ederek onları birbirinin kopyası, ruhsuz mekanlara çeviriyor\" ifadesi yazarın temel şikayetini açıkça ortaya koymaktadır. Diğer şıklar ya hiç değinilmemiş (A, C, E) ya da asıl konunun sadece bir parçasıdır (B).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Minimalizm, sadece eşyalardan kurtulmak anlamına gelen bir akım değildir. Bu, felsefenin görünen yüzüdür sadece. Özünde minimalizm, hayatımızdaki fazlalıklardan arınarak gerçekten değerli olan şeylere odaklanmaktır. Bu fazlalıklar; gereksiz eşyalar olabileceği gibi, bize zaman kaybettiren anlamsız uğraşlar, enerjimizi tüketen toksik ilişkiler veya zihnimizi bulandıran lüzumsuz bilgiler de olabilir. Amaç, daha azla daha çok 'olmak', daha bilinçli ve anlamlı bir yaşam sürmektir. \n\nBu parçaya göre aşağıdakilerden hangisi minimalist bir yaşam tarzına uygun bir davranış değildir?",
+    "options": [
+      "Kullanmadığı kıyafetleri ihtiyaç sahiplerine vermek",
+      "Sosyal medyada geçirdiği zamanı bilinçli olarak azaltmak",
+      "Yeni çıkan her teknolojik ürünü takip edip satın almak",
+      "Kendisine iyi gelmeyen bir arkadaşıyla arasına mesafe koymak",
+      "Hafta sonunu alışveriş merkezinde geçirmek yerine doğa yürüyüşü yapmak"
     ],
     "correctAnswer": 2,
-    "explanation": "Parçada dijital minimalizmin teknolojiyi \"tamamen reddetmek değil\", aksine \"bilinçli ve amaç odaklı\" kullanarak kontrol altına almak olduğu açıkça belirtilmektedir. A şıkkına \"gerçekten değer katanları seçerek kullanmalıyız\" ifadesinden, B şıkkına \"dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır\" ifadesinden, D şıkkına \"onun hayatımızdaki rolünü kontrol altına alarak\" ifadesinden ve E şıkkına \"teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür\" ifadesinden ulaşılabilir. Ancak C şıkkındaki \"teknolojinin tamamen hayattan çıkarılması gerektiği\" ifadesi, parçadaki \"teknolojiyi tamamen reddetmek değil\" yargısıyla doğrudan çelişmektedir. Bu nedenle bu yargıya parçadan ulaşılamaz.",
+    "explanation": "Paragrafta minimalizm, hayattaki fazlalıklardan kurtularak anlamlı ve değerli olanlara odaklanmak olarak tanımlanmıştır. Bu fazlalıklar sadece eşya değil, aynı zamanda zaman ve enerji tüketen şeyler de olabilir. A, B, D ve E şıkları bu felsefeye uygun, fazlalıklardan kurtulmayı ve anlamlı yaşama odaklanmayı içeren davranışlardır. Ancak C şıkkında belirtilen \"Yeni çıkan her teknolojik ürünü takip edip satın almak\", sürekli bir tüketim döngüsünü ifade eder ve bu durum, parçada anlatılan \"gereksiz eşyalardan arınma\" ve \"daha azla yetinme\" felsefesiyle tamamen çelişir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940787_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Mizah, hayatın zorlukları karşısında güçlü bir kalkandır. En karanlık anlarda bile küçük bir tebessüm, olaylara farklı bir pencereden bakmamızı sağlayabilir. Sorunların içinde boğulmak yerine onlarla alay edebilmek, psikolojik olarak büyük bir esneklik ve başa çıkma becerisi göstergesidir. Mizah, stresi azaltır, insanlar arasındaki bağı güçlendirir ve en önemlisi, umudu canlı tutar. Karşısındaki devasa sorunu bir karikatüre dönüştürebilen insan, o sorunu çözmeye bir adım daha yaklaşmış demektir. \n\nBu parçaya verilebilecek en uygun başlık aşağıdakilerden hangisidir?",
+    "options": [
+      "Mizah ve Toplum",
+      "Gülmenin Fizyolojisi",
+      "Zorluklar Karşısında Mizahın Gücü",
+      "Karikatür Sanatının Önemi",
+      "Stresle Başa Çıkma Yöntemleri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragraf, baştan sona mizahın özellikle \"hayatın zorlukları\", \"en karanlık anlar\" ve \"sorunlar\" karşısındaki rolünü ve gücünü anlatmaktadır. Metin, mizahın bu zorluklarla başa çıkmada bir \"kalkan\" olduğunu, stresi azalttığını ve umudu canlı tuttuğunu vurgulamaktadır. Bu nedenle \"Zorluklar Karşısında Mizahın Gücü\" başlığı, parçanın ana temasını tam olarak kapsamaktadır. \"Mizah ve Toplum\" çok genel, \"Gülmenin Fizyolojisi\" bilimsel bir detaya giriyor ki parçada bu yok, \"Karikatür Sanatının Önemi\" sadece bir örnek, \"Stresle Başa Çıkma Yöntemleri\" ise çok geniş bir başlık olurdu çünkü parça sadece bir yönteme (mizaha) odaklanmış.",
     "difficulty": 3
   }
 ]
