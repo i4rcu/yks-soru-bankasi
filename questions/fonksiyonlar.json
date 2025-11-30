@@ -1,6 +1,6 @@
 [
   {
-    "id": "ai_1764519185860_0",
+    "id": "ai_1764520089167_0",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
     "questionText": "f(x) = 2x + 3 fonksiyonunun x = 4 için değeri nedir?",
@@ -12,39 +12,55 @@
       "14"
     ],
     "correctAnswer": 2,
-    "explanation": "f(4) = 2*4 + 3 = 8 + 3 = 11. Bu nedenle doğru cevap C şıkkıdır.",
+    "explanation": "Fonksiyonu x = 4 için yerine koyarsak: f(4) = 2(4) + 3 = 8 + 3 = 11.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519185860_1",
+    "id": "ai_1764520089167_1",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) = x² - 5x + 6 fonksiyonunun kökleri nelerdir?",
+    "questionText": "f(x) = x^2 - 5x + 6 fonksiyonunun kökleri nedir?",
     "options": [
-      "2 ve 3",
       "1 ve 6",
-      "0 ve 5",
-      "3 ve 4",
-      "2 ve 4"
+      "2 ve 3",
+      "3 ve 5",
+      "0 ve 6",
+      "2 ve 5"
     ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = 0 için x² - 5x + 6 = 0 denklemini çözeriz. (x-2)(x-3)=0 olduğundan kökler 2 ve 3'tür. Doğru cevap A şıkkıdır.",
+    "correctAnswer": 1,
+    "explanation": "Kökleri bulmak için denklemi sıfıra eşitleriz: x^2 - 5x + 6 = 0. Bu denklemin çarpanlarına ayrılması: (x-2)(x-3) = 0, dolayısıyla kökler 2 ve 3'tür.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519185860_2",
+    "id": "ai_1764520089167_2",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) = 3x - 1 fonksiyonunun tersini bulunuz.",
+    "questionText": "f(x) = 3x - 4 ve g(x) = x^2 + 2 fonksiyonları için (f ∘ g)(2) işleminin sonucu nedir?",
     "options": [
-      "f⁻¹(x) = (x + 1)/3",
-      "f⁻¹(x) = (x - 1)/3",
-      "f⁻¹(x) = 3x + 1",
-      "f⁻¹(x) = (x - 3)/3",
-      "f⁻¹(x) = (x + 3)/3"
+      "-2",
+      "2",
+      "4",
+      "6",
+      "8"
     ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = y denklemini x cinsinden çözüyoruz: y = 3x - 1 => 3x = y + 1 => x = (y + 1)/3. Ters fonksiyon f⁻¹(x) = (x + 1)/3 şeklindedir. Doğru cevap A şıkkıdır.",
+    "correctAnswer": 3,
+    "explanation": "Önce g(2) hesaplanır: g(2) = 2^2 + 2 = 4 + 2 = 6. Sonra f(6) hesaplanır: f(6) = 3(6) - 4 = 18 - 4 = 14.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520089167_3",
+    "subjectId": "mat",
+    "topic": "Fonksiyonlar",
+    "questionText": "f(x) = -x^2 + 4x - 3 fonksiyonunun maksimum değerini bulunuz.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu bir parabol ve tepe noktası en yüksek değeri verir. Tepe noktası x = -b/(2a) formülü ile bulunur: x = 4/(2*(-1)) = 2. f(2) = -(2^2) + 4(2) - 3 = -4 + 8 - 3 = 1. Maksimum değer 1'dir.",
     "difficulty": 3
   }
 ]
