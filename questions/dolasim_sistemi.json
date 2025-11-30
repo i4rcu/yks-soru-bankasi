@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764498820887_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Starling hipotezine göre, kılcal damarlardan doku sıvısına madde geçişini artıran ve ödem oluşumuna neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "Kan basıncının normalden yüksek olması",
+      "Kan proteinlerinin (albümin vb.) azalması sonucu kanın osmotik basıncının düşmesi",
+      "Lenf damarlarının tıkanması",
+      "Doku sıvısının osmotik basıncının artması",
+      "Kanın osmotik basıncının normalden yüksek olması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Starling hipotezine göre, kılcal damarlardaki kan basıncı, kanı damar dışına iten temel kuvvettir. Kanın osmotik basıncı (protein osmotik basıncı) ise doku sıvısını damar içine çeken kuvvettir. Ödem, doku sıvısının artması durumudur. A, B, C ve D şıklarındaki durumlar, damardan doku sıvısına madde geçişini artırır veya doku sıvısının geri emilimini azaltarak ödeme yol açar. Kan basıncının artması (A) itici gücü artırır. Kanın osmotik basıncının düşmesi (B) çekici gücü azaltır. Lenf damarlarının tıkanması (C) biriken doku sıvısının dolaşıma katılmasını engeller. Doku sıvısı osmotik basıncının artması (D) doku sıvısının suyu tutma gücünü artırır. Ancak kanın osmotik basıncının normalden yüksek olması (E), damar içine daha fazla sıvı çekilmesine neden olacağından ödem oluşumunu engeller veya azaltır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498820887_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "İnsan kalbinin çalışmasını düzenleyen elektriksel uyarı sisteminde, uyartının izlediği yol aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
+    "options": [
+      "Atriyoventriküler Düğüm → Sinoatriyal Düğüm → His Demetleri → Purkinje Lifleri",
+      "Sinoatriyal Düğüm → His Demetleri → Atriyoventriküler Düğüm → Purkinje Lifleri",
+      "His Demetleri → Purkinje Lifleri → Sinoatriyal Düğüm → Atriyoventriküler Düğüm",
+      "Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri",
+      "Atriyoventriküler Düğüm → Purkinje Lifleri → His Demetleri → Sinoatriyal Düğüm"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kalbin çalışmasını başlatan ve düzenleyen elektriksel uyarılar belirli bir yol izler. İlk uyarı, kalbin doğal pili olan sağ kulakçık duvarındaki Sinoatriyal (SA) Düğüm'den çıkar ve kulakçıkların kasılmasını sağlar. Bu uyarı daha sonra kulakçıklar ile karıncıklar arasındaki Atriyoventriküler (AV) Düğüm'e ulaşır. Burada kısa bir süre bekletilen uyartı, karıncıkların duvarlarına yayılan His Demetleri'ne ve ardından daha küçük dallar olan Purkinje Lifleri'ne iletilir. Bu son aşama, karıncıkların aynı anda ve güçlü bir şekilde kasılmasını sağlar. Dolayısıyla doğru sıralama: Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri şeklindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498820887_2",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki damarlardan hangisindeki kanın oksijen derişiminin diğerlerinden farklı olması beklenir?",
+    "options": [
+      "Aort atardamarı",
+      "Böbrek atardamarı",
+      "Akciğer atardamarı",
+      "Karaciğer atardamarı",
+      "Şah damarı (Karotis arteri)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaşım sisteminde atardamarlar genellikle oksijence zengin (temiz) kan taşırken, toplardamarlar oksijence fakir (kirli) kan taşır. Ancak bu kuralın iki önemli istisnası vardır. Akciğer atardamarı, kalbin sağ karıncığından çıkan ve oksijence fakir kanı temizlenmesi için akciğerlere götüren damardır. Akciğer toplardamarı ise akciğerlerde temizlenen oksijence zengin kanı kalbin sol kulakçığına getirir. Soruda verilen şıklardan Aort, Böbrek atardamarı, Karaciğer atardamarı ve Şah damarı sistemik dolaşıma ait atardamarlardır ve hepsi kalbin sol karıncığından pompalanan oksijence zengin kanı taşır. Akciğer atardamarı ise pulmoner (küçük) dolaşıma aittir ve oksijence fakir kan taşıdığı için diğerlerinden farklıdır.",
+    "difficulty": 3
+  }
+]
