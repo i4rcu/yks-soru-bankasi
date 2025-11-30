@@ -1,18 +1,18 @@
 [
   {
-    "id": "ai_1764520408939_1",
+    "id": "ai_1764498972829_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
+    "questionText": "(I) Sabahın erken saatlerinde uyanıp pencereden dışarıya baktı. (II) Gökyüzü, pamuk tarlalarını andıran bulutlarla kaplıydı. (III) Uzaklardan gelen bir motor sesi, sessizliği bozuyordu. (IV) Her şey derin bir sessizliğin içindeydi. (V) Birazdan başlayacak olan koşuşturmacanın habercisiydi bu anlar.\n\nBu parçadaki numaralanmış cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
     "options": [
-      "Güzel",
-      "Koşuyor",
-      "Çiçek",
-      "Hızla",
-      "Kedi"
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
     ],
-    "correctAnswer": 1,
-    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
+    "correctAnswer": 3,
+    "explanation": "Cümlelerin yapılarını incelediğimizde:\nI. cümlede 'uyanıp' zarf-fiili bulunduğu için girişik birleşik cümledir.\nII. cümlede 'andıran' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIII. cümlede 'gelen' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIV. cümlede tek bir yüklem ('içindeydi') vardır ve içinde fiilimsi bulunmaz. Bu nedenle yapıca basit bir cümledir.\nV. cümlede 'başlayacak olan' sıfat-fiil grubu bulunduğu için girişik birleşik cümledir.\nDört cümle girişik birleşik yapıdayken IV. cümle basit yapıda olduğu için diğerlerinden farklıdır. Bu nedenle doğru cevap D şıkkıdır.",
     "difficulty": 3
   },
   {
@@ -32,51 +32,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498972829_0",
+    "id": "ai_1764519434741_1",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "(I) Sabahın erken saatlerinde uyanıp pencereden dışarıya baktı. (II) Gökyüzü, pamuk tarlalarını andıran bulutlarla kaplıydı. (III) Uzaklardan gelen bir motor sesi, sessizliği bozuyordu. (IV) Her şey derin bir sessizliğin içindeydi. (V) Birazdan başlayacak olan koşuşturmacanın habercisiydi bu anlar.\n\nBu parçadaki numaralanmış cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi tam cümle değildir?",
     "options": [
-      "A) I",
-      "B) II",
-      "C) III",
-      "D) IV",
-      "E) V"
+      "Hava çok sıcak.",
+      "Sinemaya gitmeyi düşünüyorum.",
+      "Yemek yapmayı seviyorum",
+      "Yarın hava yağmurlu olacak.",
+      "Elma ve armut."
     ],
-    "correctAnswer": 3,
-    "explanation": "Cümlelerin yapılarını incelediğimizde:\nI. cümlede 'uyanıp' zarf-fiili bulunduğu için girişik birleşik cümledir.\nII. cümlede 'andıran' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIII. cümlede 'gelen' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIV. cümlede tek bir yüklem ('içindeydi') vardır ve içinde fiilimsi bulunmaz. Bu nedenle yapıca basit bir cümledir.\nV. cümlede 'başlayacak olan' sıfat-fiil grubu bulunduğu için girişik birleşik cümledir.\nDört cümle girişik birleşik yapıdayken IV. cümle basit yapıda olduğu için diğerlerinden farklıdır. Bu nedenle doğru cevap D şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498972830_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerin hangisi yapıca sıralı, yükleminin türüne göre fiil, anlamına göre olumlu ve öge dizilişine göre kurallı bir cümledir?",
-    "options": [
-      "A) Hava çok güzeldi, herkes mutluydu.",
-      "B) Uzun süre bekledi ama kimse gelmedi.",
-      "C) Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.",
-      "D) Annesini görünce çok sevindi çocuk.",
-      "E) Ne arayan vardı ne de soran."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Soruda bir cümlenin dört özelliğe sahip olması istenmektedir: sıralı, fiil, olumlu, kurallı.\nA) 'Hava çok güzeldi, herkes mutluydu.' cümlesi sıralı, olumlu ve kurallıdır fakat yüklemleri ('güzeldi', 'mutluydu') isim soylu olduğu için isim cümlesidir.\nB) 'Uzun süre bekledi ama kimse gelmedi.' cümlesi 'ama' bağlacıyla bağlandığı için bağlı cümledir, sıralı değil. Ayrıca 'gelmedi' yüklemi olumsuzdur.\nC) 'Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.' cümlesi, birden çok yüklemi virgülle ayrıldığı için yapıca sıralıdır. Tüm yüklemleri ('kalktı', 'yıkadı', 'yaptı') fiil olduğu için fiil cümlesidir. Yargılar olumlu olduğu için anlamca olumludur. Tüm yüklemler sonda olduğu için öge dizilişine göre kurallıdır. Bu şık, istenen bütün özellikleri taşımaktadır.\nD) 'Annesini görünce çok sevindi çocuk.' cümlesi tek yüklemli olduğu için sıralı değildir ve yüklem sonda olmadığı için devriktir.\nE) 'Ne arayan vardı ne de soran.' cümlesi 'ne... ne...' bağlacıyla kurulduğu için bağlı cümledir. Anlamca olumsuzdur ('arayan ve soran yoktu' anlamı taşır) ve yüklemi ('vardı') isim soylu olduğu için isim cümlesidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500335419_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Güneşin batışını izlerken, gökyüzünün kızıla boyanmasıyla birlikte içimde tarifsiz bir hüzün belirdi.\n\nBu cümlenin yapısı aşağıdakilerden hangisidir?",
-    "options": [
-      "Basit Cümle",
-      "Sıralı Cümle",
-      "Girişik Birleşik Cümle",
-      "Bağlı Cümle",
-      "Şartlı Birleşik Cümle"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu cümle, tek bir temel yargı (yüklem: belirdi) içerdiği ve bu temel yargıya bağlı fiilimsi (zarf-fiil: izlerken) barındırdığı için yapıca \"Girişik Birleşik Cümle\"dir. Cümlenin tek bir yüklemi vardır, bu nedenle basit cümle değildir. Birden fazla cümlenin virgül veya noktalı virgülle bağlanmaması nedeniyle sıralı cümle, bağlaçla bağlanmaması nedeniyle de bağlı cümle değildir. İçinde şart anlamı taşıyan bir ek (-se/-sa) bulunmadığı için şartlı birleşik cümle de olamaz. Cümledeki \"izlerken\" zarf-fiili, yan cümlecik kurarak cümleyi birleşik yapılı hale getirmiştir.",
+    "correctAnswer": 4,
+    "explanation": "Cümle 'Elma ve armut' sadece iki isimden oluşmakta ve yüklem içermemektedir. Bu nedenle tam bir cümle değildir.",
     "difficulty": 3
   },
   {
@@ -96,38 +64,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519434741_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinin yapısı doğrudur?",
-    "options": [
-      "Ali evde kitap okuyor.",
-      "Ayşe ve Fatma sinemaya gitmek istemiyor.",
-      "Kedim bahçede oynuyor.",
-      "Bizim köpek çok havlıyor.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Verilen tüm cümleler doğru yapıda olup, özne ile yüklem arasında uyum vardır. Bu nedenle 'Hepsi doğrudur.' şıkkı doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519434741_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinde özne ve yüklem arasında bir uyumsuzluk bulunmaktadır?",
-    "options": [
-      "Çocuklar parka gitti.",
-      "Kediler bahçede oynuyor.",
-      "Kitaplar masanın üzerinde duruyor.",
-      "Ali ve Ayşe sinemaya gitmek istiyorlar.",
-      "Araba hızlı gidiyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede 'Kitaplar' (çoğul özne) ile 'duruyor' (tekil yüklem) arasında uyumsuzluk vardır. Doğru yüklem 'duruyorlar' olmalıdır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764501620898_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
@@ -141,6 +77,22 @@
     ],
     "correctAnswer": 1,
     "explanation": "Cümleler yapılarına göre basit, birleşik, sıralı ve bağlı olmak üzere dörde ayrılır. Bir cümlenin yapısını belirlerken temel olarak yüklem sayısına ve cümle içinde fiilimsi bulunup bulunmadığına bakılır.\n\n*   **A seçeneğinde;** \"başladı\" tek yüklemdir. Cümlede \"görmediği\", \"karşılaşınca\", \"etmeye\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **C seçeneğinde;** \"hedefliyordu\" tek yüklemdir. Cümlede \"aralayan\" ve \"almayı\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **D seçeneğinde;** \"uçtu\" tek yüklemdir. Cümlede \"açıklandığında\", \"istediği\", \"kazandığını\", \"öğrenen\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **E seçeneğinde;** \"biliyoruz\" tek yüklemdir. Cümlede \"gelerek\" ve \"varılamayacağını\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **B seçeneğinde ise;** \"kalktı\" ve \"yürüdü\" olmak üzere iki ayrı yüklem bulunmaktadır. Bu iki yargı (cümle) birbirine virgülle bağlanmıştır. Birden fazla yüklemi olan ve bu yüklemlerin birbirine virgül veya noktalı virgülle bağlandığı cümlelere \"sıralı cümle\" denir. \n\nDolayısıyla A, C, D ve E seçenekleri yapıca \"birleşik\" iken, B seçeneği \"sıralı\" bir cümledir. Bu nedenle doğru cevap B'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498972830_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerin hangisi yapıca sıralı, yükleminin türüne göre fiil, anlamına göre olumlu ve öge dizilişine göre kurallı bir cümledir?",
+    "options": [
+      "A) Hava çok güzeldi, herkes mutluydu.",
+      "B) Uzun süre bekledi ama kimse gelmedi.",
+      "C) Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.",
+      "D) Annesini görünce çok sevindi çocuk.",
+      "E) Ne arayan vardı ne de soran."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soruda bir cümlenin dört özelliğe sahip olması istenmektedir: sıralı, fiil, olumlu, kurallı.\nA) 'Hava çok güzeldi, herkes mutluydu.' cümlesi sıralı, olumlu ve kurallıdır fakat yüklemleri ('güzeldi', 'mutluydu') isim soylu olduğu için isim cümlesidir.\nB) 'Uzun süre bekledi ama kimse gelmedi.' cümlesi 'ama' bağlacıyla bağlandığı için bağlı cümledir, sıralı değil. Ayrıca 'gelmedi' yüklemi olumsuzdur.\nC) 'Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.' cümlesi, birden çok yüklemi virgülle ayrıldığı için yapıca sıralıdır. Tüm yüklemleri ('kalktı', 'yıkadı', 'yaptı') fiil olduğu için fiil cümlesidir. Yargılar olumlu olduğu için anlamca olumludur. Tüm yüklemler sonda olduğu için öge dizilişine göre kurallıdır. Bu şık, istenen bütün özellikleri taşımaktadır.\nD) 'Annesini görünce çok sevindi çocuk.' cümlesi tek yüklemli olduğu için sıralı değildir ve yüklem sonda olmadığı için devriktir.\nE) 'Ne arayan vardı ne de soran.' cümlesi 'ne... ne...' bağlacıyla kurulduğu için bağlı cümledir. Anlamca olumsuzdur ('arayan ve soran yoktu' anlamı taşır) ve yüklemi ('vardı') isim soylu olduğu için isim cümlesidir.",
     "difficulty": 3
   },
   {
@@ -160,19 +112,387 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519434741_1",
+    "id": "ai_1764519434741_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi tam cümle değildir?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde özne ve yüklem arasında bir uyumsuzluk bulunmaktadır?",
     "options": [
-      "Hava çok sıcak.",
-      "Sinemaya gitmeyi düşünüyorum.",
-      "Yemek yapmayı seviyorum",
-      "Yarın hava yağmurlu olacak.",
-      "Elma ve armut."
+      "Çocuklar parka gitti.",
+      "Kediler bahçede oynuyor.",
+      "Kitaplar masanın üzerinde duruyor.",
+      "Ali ve Ayşe sinemaya gitmek istiyorlar.",
+      "Araba hızlı gidiyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede 'Kitaplar' (çoğul özne) ile 'duruyor' (tekil yüklem) arasında uyumsuzluk vardır. Doğru yüklem 'duruyorlar' olmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500335419_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Güneşin batışını izlerken, gökyüzünün kızıla boyanmasıyla birlikte içimde tarifsiz bir hüzün belirdi.\n\nBu cümlenin yapısı aşağıdakilerden hangisidir?",
+    "options": [
+      "Basit Cümle",
+      "Sıralı Cümle",
+      "Girişik Birleşik Cümle",
+      "Bağlı Cümle",
+      "Şartlı Birleşik Cümle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu cümle, tek bir temel yargı (yüklem: belirdi) içerdiği ve bu temel yargıya bağlı fiilimsi (zarf-fiil: izlerken) barındırdığı için yapıca \"Girişik Birleşik Cümle\"dir. Cümlenin tek bir yüklemi vardır, bu nedenle basit cümle değildir. Birden fazla cümlenin virgül veya noktalı virgülle bağlanmaması nedeniyle sıralı cümle, bağlaçla bağlanmaması nedeniyle de bağlı cümle değildir. İçinde şart anlamı taşıyan bir ek (-se/-sa) bulunmadığı için şartlı birleşik cümle de olamaz. Cümledeki \"izlerken\" zarf-fiili, yan cümlecik kurarak cümleyi birleşik yapılı hale getirmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519434741_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisinin yapısı doğrudur?",
+    "options": [
+      "Ali evde kitap okuyor.",
+      "Ayşe ve Fatma sinemaya gitmek istemiyor.",
+      "Kedim bahçede oynuyor.",
+      "Bizim köpek çok havlıyor.",
+      "Hepsi doğrudur."
     ],
     "correctAnswer": 4,
-    "explanation": "Cümle 'Elma ve armut' sadece iki isimden oluşmakta ve yüklem içermemektedir. Bu nedenle tam bir cümle değildir.",
+    "explanation": "Verilen tüm cümleler doğru yapıda olup, özne ile yüklem arasında uyum vardır. Bu nedenle 'Hepsi doğrudur.' şıkkı doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520408939_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
+    "options": [
+      "Güzel",
+      "Koşuyor",
+      "Çiçek",
+      "Hızla",
+      "Kedi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi nesne bakımından eksik bir cümledir?",
+    "options": [
+      "Ali elmayı yedi.",
+      "Ayşe kitap okuyor.",
+      "Merve sinemaya gitti.",
+      "Ahmet koştu.",
+      "Selin yazı yazdı."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ahmet koştu cümlesinde nesne yoktur. Diğer cümlelerde nesne bulunmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre olumlu bir cümledir?",
+    "options": [
+      "Ali gelmedi.",
+      "Ayşe üzgün.",
+      "Merve gülüyor.",
+      "Ahmet gitmedi.",
+      "Selin yormadı."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve gülüyor cümlesi olumlu bir yükleme sahiptir. Diğerleri olumsuz yüklemelidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
+    "options": [
+      "Hızla",
+      "Dikkatlice",
+      "Yavaşça",
+      "Dün",
+      "Her zaman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dün kelimesi zaman zarfıdır. Diğerleri durum zarfıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi birleşik cümledir?",
+    "options": [
+      "Ali dışarı çıktı.",
+      "Ayşe evde kaldı.",
+      "Merve sinemaya gitti ve film izledi.",
+      "Ahmet kitap okuyor.",
+      "Selin çalışıyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve sinemaya gitti ve film izledi cümlesi iki bağımsız cümleden oluşan birleşik bir cümledir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne görevindedir?",
+    "options": [
+      "Kedi",
+      "Evin",
+      "Kapısı",
+      "Açık",
+      "Güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kedi kelimesi özne görevindedir. Diğerleri cümlede özne olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi sıfat tamlaması içermektedir?",
+    "options": [
+      "Güzel bir gün.",
+      "Ali koştu.",
+      "Ayşe üzgün.",
+      "Merve çalışıyor.",
+      "Ahmet geldi."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güzel bir gün cümlesinde sıfat tamlaması vardır. Diğer cümlelerde yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarfıdır?",
+    "options": [
+      "Hızlı",
+      "Kısa",
+      "Hemen",
+      "Güzel",
+      "Büyük"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hemen kelimesi zarf olarak kullanılmıştır. Diğerleri sıfatlardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe gidecek.",
+      "Merve sinemaya gitmedi.",
+      "Ahmet çalışıyor.",
+      "Selin yazar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve sinemaya gitmedi cümlesi olumsuz bir cümledir. Diğerleri olumlu cümlelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi soru cümlesidir?",
+    "options": [
+      "Ali nerede?",
+      "Ayşe evde.",
+      "Merve gitti.",
+      "Ahmet geldi.",
+      "Selin çalışıyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali nerede? cümlesi soru cümlesidir. Diğerleri değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_9",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime tamamlayıcıdır?",
+    "options": [
+      "Eve",
+      "Gideceğim",
+      "Seni",
+      "Görmek",
+      "Zaman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Görmek kelimesi cümlede tamamlayıcıdır. Diğerleri tamamlayıcı değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_10",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi basit cümledir?",
+    "options": [
+      "Ali geldi ve gitti.",
+      "Merve kitap okudu.",
+      "Ayşe sinemaya gitti ve film izledi.",
+      "Ahmet koştu, Selin yürüdü.",
+      "Hepsi bir arada."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Merve kitap okudu cümlesi basit bir cümledir. Diğerleri birleşik veya karmaşık cümlelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_11",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "okuyor",
+      "kitap",
+      "ve",
+      "sınıf"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Okuyor kelimesi cümlede yüklem görevindedir. Diğerleri yüklem olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_12",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi bağlaç içermektedir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe gitti.",
+      "Merve sinemaya gitti ve film izledi.",
+      "Ahmet çalışıyor.",
+      "Selin uyuyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve sinemaya gitti ve film izledi cümlesinde 've' bağlacı kullanılmıştır. Diğerlerinde bağlaç yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_13",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne görevindedir?",
+    "options": [
+      "Ali",
+      "elma",
+      "yedi",
+      "gitti",
+      "geliyor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elma kelimesi nesne görevindedir. Diğerleri nesne olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı tümleç içermektedir?",
+    "options": [
+      "Ali evde.",
+      "Ayşe ona gitti.",
+      "Merve kitap okuyor.",
+      "Ahmet çalışıyor.",
+      "Selin gel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayşe ona gitti cümlesinde 'ona' kelimesi dolaylı tümleçtir. Diğerleri dolaylı tümleç içermez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne ile yüklem arasında ilişki kurmaktadır?",
+    "options": [
+      "ve",
+      "ama",
+      "çünkü",
+      "yada",
+      "fakat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ve bağlacı özne ile yüklem arasında ilişki kurar. Diğerleri de bağlaçtır ama farklı anlamlar taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_16",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi karmaşık cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe elma yiyor.",
+      "Merve sinemaya gitti ve film izledi.",
+      "Ahmet, Selin uyuduğu için dışarı çıkmadı.",
+      "Selin çalışıyor."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ahmet, Selin uyuduğu için dışarı çıkmadı cümlesi karmaşık bir cümledir. Diğerleri ya basit ya da birleşiktir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_17",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "elma",
+      "yemek",
+      "ve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Güzel kelimesi sıfattır. Diğerleri sıfat olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmaktadır?",
+    "options": [
+      "Ali",
+      "elmayı",
+      "yedi",
+      "gitti",
+      "geliyor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elmayı kelimesi nesne olarak kullanılmıştır. Diğerleri nesne olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi geniş zaman kipinde değildir?",
+    "options": [
+      "Ali kitap okur.",
+      "Ayşe çalışıyor.",
+      "Merve sinemaya gidiyor.",
+      "Ahmet ders çalışır.",
+      "Selin yemek yapar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayşe çalışıyor cümlesi geniş zaman kipi değil, şimdiki zaman kipindedir. Diğerleri geniş zamandadır.",
     "difficulty": 3
   }
 ]
