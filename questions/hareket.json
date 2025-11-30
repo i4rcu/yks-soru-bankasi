@@ -16,22 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764521102712_1",
-    "subjectId": "fiz",
-    "topic": "Hareket",
-    "questionText": "Bir cisim, 5 saniye boyunca 10 m/s²'lik bir ivme ile hareket ediyor. Başlangıç hızı 0 m/s olduğuna göre, 5 saniye sonunda cisim ne kadar mesafe alır?",
-    "options": [
-      "25 m",
-      "50 m",
-      "75 m",
-      "100 m",
-      "125 m"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Mesafe = başlangıç hızı x zaman + (1/2) x ivme x zaman². Burada: 0 x 5 + (1/2) x 10 x 5² = 0 + 125 = 125 m.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521102712_0",
     "subjectId": "fiz",
     "topic": "Hareket",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 1,
     "explanation": "Hız = Mesafe / Zaman formülünü kullanarak, mesafe = hız x zaman. Burada: 72 km/saat x 2 saat = 144 km.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521102712_1",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 5 saniye boyunca 10 m/s²'lik bir ivme ile hareket ediyor. Başlangıç hızı 0 m/s olduğuna göre, 5 saniye sonunda cisim ne kadar mesafe alır?",
+    "options": [
+      "25 m",
+      "50 m",
+      "75 m",
+      "100 m",
+      "125 m"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mesafe = başlangıç hızı x zaman + (1/2) x ivme x zaman². Burada: 0 x 5 + (1/2) x 10 x 5² = 0 + 125 = 125 m.",
     "difficulty": 3
   },
   {
