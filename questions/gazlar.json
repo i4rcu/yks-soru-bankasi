@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519346832_0",
+    "id": "ai_1764520305848_0",
     "subjectId": "kim",
     "topic": "Gazlar",
-    "questionText": "Bir gazın sıcaklığı artırıldığında, hacminin sabit kalması durumunda basıncının nasıl değişeceğini gösteren yasa hangisidir?",
+    "questionText": "Bir gazın hacminin sabit kalması için, sıcaklığında bir artış olduğunda, gazın basıncında ne olmalıdır?",
     "options": [
-      "Boyle Yasası",
-      "Charles Yasası",
-      "Avogadro Yasası",
-      "Gay-Lussac Yasası",
-      "Dalton Yasası"
+      "Artmalıdır",
+      "Azalmalıdır",
+      "Değişmez",
+      "Yükselir ve düşer",
+      "Sadece sıvı fazda geçerlidir"
     ],
-    "correctAnswer": 3,
-    "explanation": "Gay-Lussac Yasası, sabit hacimdeki bir gazın sıcaklığının artması durumunda basıncının da artacağını belirtir. Bu yasa, P1/T1 = P2/T2 şeklinde ifade edilir.",
+    "correctAnswer": 0,
+    "explanation": "Gazların hacmi sabit tutulduğunda, sıcaklık arttıkça basınç artar. Bu durum, ideal gaz yasasıyla açıklanabilir: P ∝ T (Hacim sabitken).",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519346832_1",
+    "id": "ai_1764520305848_1",
     "subjectId": "kim",
     "topic": "Gazlar",
-    "questionText": "Bir gazın ideal gaz olarak kabul edilebilmesi için hangi koşul sağlanmalıdır?",
+    "questionText": "Bir gazın moleküllerinin ortalama kinetik enerjisi, gazın sıcaklığı ile nasıl bir ilişkiye sahiptir?",
     "options": [
-      "Düşük sıcaklık ve yüksek basınç",
-      "Yüksek sıcaklık ve düşük basınç",
-      "Düşük sıcaklık ve düşük basınç",
-      "Yüksek sıcaklık ve yüksek basınç",
-      "Sadece düşük hacim"
+      "Sıcaklıkla ters orantılıdır",
+      "Sıcaklıkla doğru orantılıdır",
+      "Sıcaklıkla bağımsızdır",
+      "Sıcaklıkla sabit kalır",
+      "Sadece gaz yoğunluğuna bağlıdır"
     ],
     "correctAnswer": 1,
-    "explanation": "İdeal gazlar, yüksek sıcaklık ve düşük basınç koşullarında davranışlarını ideal gaz yasalarına uygun olarak gösterir. Bu koşullar altında gaz molekülleri arasındaki etkileşimler ihmal edilebilir.",
+    "explanation": "Gazın sıcaklığı arttıkça, moleküllerin ortalama kinetik enerjisi de artar. Bu, sıcaklığın bir ölçüsü olan Kelvin cinsinden ifade edilir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519346832_2",
+    "id": "ai_1764520305849_2",
     "subjectId": "kim",
     "topic": "Gazlar",
-    "questionText": "Aynı sıcaklık ve basınçta, farklı gazların hacimlerinin oranı neyi ifade eder?",
+    "questionText": "Bir gazın basıncı, gazın sıcaklığı ve hacmi ile nasıl bir ilişkiye sahiptir?",
     "options": [
-      "Molekül sayısını",
-      "Gazların yoğunluğunu",
-      "Gazların mol sayısını",
-      "Gazların sıcaklığını",
-      "Gazların basıncını"
+      "Basınç sıcaklıkla artar, hacimle azalır",
+      "Basınç hacimle artar, sıcaklıkla azalır",
+      "Basınç sıcaklık ve hacimle bağımsızdır",
+      "Basınç hacimle artar, sıcaklıkla artar",
+      "Basınç sıcaklıkla azalır, hacimle artar"
     ],
-    "correctAnswer": 2,
-    "explanation": "Avogadro Yasası'na göre, aynı sıcaklık ve basınç altında eşit hacimdeki gazlar, molekül sayısı bakımından eşittir. Bu nedenle, hacim oranı gazların mol sayısını ifade eder.",
+    "correctAnswer": 0,
+    "explanation": "Ideal gaz yasasına göre, hacim sabit olduğunda sıcaklık artarsa basınç artar. V sabitken P ∝ T ilişkisi geçerlidir.",
     "difficulty": 3
   }
 ]
