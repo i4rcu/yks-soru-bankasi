@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764519266459_0",
+    "id": "ai_1764520212561_0",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "Bir tel üzerinden elektrik akımı geçtiğinde, telin etrafında oluşan manyetik alanın yönü hangi kural ile belirlenir?",
+    "questionText": "Bir tel üzerinden geçen elektrik akımının oluşturduğu manyetik alanın yönü, hangi kural ile belirlenir?",
     "options": [
-      "Sol El Kuralı",
       "Sağ El Kuralı",
-      "Ampere Yasası",
-      "Faraday Yasası",
-      "Lenz Yasası"
+      "Sol El Kuralı",
+      "Ampere Kuralı",
+      "Faraday Kuralı",
+      "Lenz Kuralı"
     ],
-    "correctAnswer": 1,
-    "explanation": "Elektrik akımının yönü ve telin etrafındaki manyetik alanın yönü, Sağ El Kuralı ile belirlenir. Sağ elin baş parmağı akımın yönünü, diğer parmaklar ise manyetik alanın yönünü gösterir.",
+    "correctAnswer": 0,
+    "explanation": "Bir tel üzerinden geçen elektrik akımının oluşturduğu manyetik alanın yönü, sağ el kuralı kullanılarak belirlenir. Sağ elin parmakları akım yönünde, baş parmak ise manyetik alanın yönünü gösterir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519266459_1",
+    "id": "ai_1764520212561_1",
     "subjectId": "fiz",
     "topic": "Manyetizma",
     "questionText": "Bir mıknatısın kutupları hakkında hangi ifade doğrudur?",
     "options": [
-      "İki N kutbu bir araya gelirse çekilir.",
-      "İki S kutbu bir araya gelirse itilir.",
-      "N ve S kutbu birbirini iter.",
-      "N kutbu S kutbuna çekilir.",
-      "Kutuplar arasında enerji transferi gerçekleşmez."
+      "İki farklı kutup her zaman birbirini çeker",
+      "İki aynı kutup her zaman birbirini çeker",
+      "Kutup sayısı sınırsızdır",
+      "Kutup ayrımı yoktur",
+      "Kutuplar yalnızca elektrik akımı ile oluşur"
     ],
-    "correctAnswer": 3,
-    "explanation": "Mıknatısların kutupları arasında etkileşim vardır. N kutbu S kutbuna çekilirken, iki N veya iki S kutbu birbirini iter. Bu, mıknatısların temel özelliklerindendir.",
+    "correctAnswer": 0,
+    "explanation": "Mıknatısların iki kutbu vardır: kuzey ve güney. Farklı kutuplar birbirini çekerken, aynı kutuplar birbirini iter. Bu, manyetizmanın temel prensiplerinden biridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520212561_2",
+    "subjectId": "fiz",
+    "topic": "Manyetizma",
+    "questionText": "Bir parçacığın manyetik alanda hareket ederken maruz kaldığı kuvvet hangi yasaya göre hesaplanır?",
+    "options": [
+      "Newton'un Hareket Yasası",
+      "Lorentz Kuvvet Yasası",
+      "Faraday Yasası",
+      "Ampere Yasası",
+      "Ohm Yasası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir parçacığın manyetik alanda hareket ederken maruz kaldığı kuvvet, Lorentz kuvvet yasası ile hesaplanır. Bu yasa, elektrik yükü taşıyan bir parçacığın manyetik alandaki hareketi sırasında üzerine etki eden kuvveti tanımlar.",
     "difficulty": 3
   }
 ]
