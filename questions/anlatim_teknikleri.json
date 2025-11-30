@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519413805_0",
+    "id": "ai_1764520377792_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın, durumun veya kişinin yalnızca olumlu yönlerini öne çıkararak anlatılmasını ifade eder?",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın neden-sonuç ilişkisini açıklamak amacıyla kullanılır?",
     "options": [
-      "Betimleme",
-      "Soyutlama",
-      "Yüceltme",
-      "Öyküleme",
-      "İroni"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüceltme, bir olayın ya da durumun olumlu yönlerini abartarak ya da sadece bu yönleri vurgulayarak anlatma tekniğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519413805_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi bir metinde okuyucuya bir durumu algılatmak için kullanılan, mecaz anlam içeren ifadeleri tanımlar?",
-    "options": [
-      "Açıklama",
       "Tanımlama",
-      "Betimleme",
-      "İmaj",
-      "Sembolizm"
+      "Örnekleme",
+      "Karşılaştırma",
+      "Açıklama",
+      "Betimleme"
     ],
-    "correctAnswer": 4,
-    "explanation": "Sembolizm, bir durumu ya da duyguyu ifade etmek için mecaz anlam taşıyan sembollerin kullanılmasıdır.",
+    "correctAnswer": 3,
+    "explanation": "Açıklama, bir olayın neden-sonuç ilişkisini net bir şekilde ortaya koymak için kullanılan anlatım tekniğidir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519413805_2",
+    "id": "ai_1764520377795_1",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Hangi anlatım tekniği, bir konuyu daha anlaşılır hale getirmek için örnekler ve benzetmeler kullanarak açıklama yapmayı ifade eder?",
+    "questionText": "Yazarın bir nesneyi, olayı ya da durumu tüm ayrıntılarıyla, okuyucunun zihninde canlandıracak şekilde anlatmasına ne denir?",
     "options": [
-      "Öyküleme",
-      "Açıklama",
       "Betimleme",
-      "Yorumlama",
-      "İroni"
+      "Tanımlama",
+      "Örnekleme",
+      "İkna etme",
+      "Eleştiri"
     ],
-    "correctAnswer": 1,
-    "explanation": "Açıklama, bir konuyu detaylandırmak için örnekler ve benzetmeler kullanarak daha anlaşılır hale getirme tekniğidir.",
+    "correctAnswer": 0,
+    "explanation": "Betimleme, bir nesne veya durumu ayrıntılı bir şekilde tasvir ederek okuyucunun zihninde canlandırmayı amaçlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520377795_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi örnekleme anlatım tekniğinin bir örneğidir?",
+    "options": [
+      "Kediler genelde evcil hayvanlardır.",
+      "Bütün öğrenciler derse zamanında gelmelidir.",
+      "İstanbul, Türkiye'nin en büyük şehridir.",
+      "Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.",
+      "Yaz mevsiminde hava sıcak olur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Örnekleme, bir durumu veya olayı desteklemek için spesifik örnekler vermek anlamına gelir. 'Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.' cümlesi bu tekniği kullanmaktadır.",
     "difficulty": 3
   }
 ]
