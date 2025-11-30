@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519405524_0",
+    "id": "ai_1764520366754_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "İnsanlarda solunum sırasında oksijenin akciğerlerden kana geçişi hangi yapı aracılığıyla gerçekleşir?",
+    "questionText": "İnsan solunum sisteminde gaz değişiminin gerçekleştiği ana yapı hangisidir?",
     "options": [
       "Bronşlar",
       "Alveoller",
       "Trakea",
-      "Yutak",
-      "Gırtlak"
+      "Burun",
+      "Yutak"
     ],
     "correctAnswer": 1,
-    "explanation": "Oksijen, alveoller aracılığıyla akciğerlerden kana geçer. Alveoller, gaz alışverişinin gerçekleştiği hava kesecikleridir.",
+    "explanation": "Alveoller, akciğerlerin içinde bulunan küçük hava kesecikleridir ve burada oksijen ve karbondioksit gazlarının kan ile değişimi gerçekleşir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519405524_1",
+    "id": "ai_1764520366755_1",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
+    "questionText": "Aşağıdakilerden hangisi solunum sisteminin görevlerinden biri değildir?",
     "options": [
-      "Üst solunum yolu - Alt solunum yolu",
-      "Akciğerler - Kalp",
-      "Bronşlar - Trakea",
-      "Yutak - Gırtlak",
-      "Alveoller - Bronşlar"
+      "Oksijen alımı",
+      "Karbondioksit atımı",
+      "Ses üretimi",
+      "Sindirim",
+      "Isı düzenlemesi"
     ],
-    "correctAnswer": 0,
-    "explanation": "Solunum sistemi, üst solunum yolu (burnu, yutak ve gırtlak) ve alt solunum yolu (trakea ve akciğerler) olmak üzere iki ana bölümden oluşur.",
+    "correctAnswer": 3,
+    "explanation": "Sindirim, sindirim sistemi tarafından gerçekleştirilen bir işlem olup, solunum sisteminin görevleri arasında yer almaz.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519405524_2",
+    "id": "ai_1764520366755_2",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Hangi gaz, solunum sırasında vücut hücrelerine oksijen sağlarken, aynı zamanda karbondioksitin atılmasını sağlar?",
+    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
     "options": [
-      "Azot",
-      "Oksijen",
-      "Karbonmonoksit",
-      "Hidrojen",
-      "Karbondioksit"
+      "Faranks",
+      "Larenks",
+      "Trakea",
+      "Bronş",
+      "Alveol"
     ],
-    "correctAnswer": 1,
-    "explanation": "Oksijen, solunum sürecinde önemli bir gazdır. Vücut hücrelerine enerji üretiminde gerekli olan oksijen sağlarken, karbondioksit atılmasını sağlar.",
+    "correctAnswer": 2,
+    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
     "difficulty": 3
   }
 ]
