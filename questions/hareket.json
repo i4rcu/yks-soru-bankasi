@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764497514798_0",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Doğrusal bir yolda 90 km/h sabit hızla ilerleyen 120 metre uzunluğundaki bir tren, aynı yönde 72 km/h sabit hızla gitmekte olan 5 metre uzunluğundaki bir otomobili geçmeye başlıyor. Trenin otomobili tamamen geçmesi için kaç saniye gerekir?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bu bir bağıl hareket problemidir. İlk olarak hızları m/s cinsine çevirmeliyiz.\n- Trenin hızı: 90 km/h = 90 * (1000m / 3600s) = 25 m/s\n- Otomobilin hızı: 72 km/h = 72 * (1000m / 3600s) = 20 m/s\n\nAraçlar aynı yönde hareket ettiği için bağıl hız, hızların farkına eşittir:\n- V_bağıl = V_tren - V_otomobil = 25 m/s - 20 m/s = 5 m/s\n\nTrenin otomobili tamamen geçmesi için alması gereken toplam yol, kendi uzunluğu ile otomobilin uzunluğunun toplamıdır:\n- x_toplam = L_tren + L_otomobil = 120 m + 5 m = 125 m\n\nGeçiş süresini (t) bulmak için x = v * t formülünü kullanırız:\n- t = x_toplam / V_bağıl = 125 m / 5 m/s = 25 saniye.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497514800_1",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Durgun halden harekete başlayan bir cismin ivme-zaman grafiği şekildeki gibidir. Cismin 0-2 saniye aralığında ivmesi 4 m/s², 2-4 saniye aralığında ivmesi 0 ve 4-6 saniye aralığında ivmesi -2 m/s²'dir. Bu cismin 6. saniye sonundaki hızı kaç m/s'dir?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hızdaki değişim (Δv), ivme-zaman (a-t) grafiğinin altında kalan alana eşittir. Cisim durgun halden başladığı için ilk hızı (v₀) sıfırdır.\n\n1. Bölge (0-2 s): Hızdaki değişim, Δv₁ = Alan₁ = 4 m/s² * 2 s = 8 m/s. Cismin 2. saniyedeki hızı v₂ = v₀ + Δv₁ = 0 + 8 = 8 m/s olur.\n\n2. Bölge (2-4 s): İvme sıfır olduğu için hız sabittir. Hızdaki değişim Δv₂ = 0'dır. Cismin 4. saniyedeki hızı v₄ = v₂ = 8 m/s'dir.\n\n3. Bölge (4-6 s): Hızdaki değişim, Δv₃ = Alan₃ = (-2 m/s²) * (6-4) s = -4 m/s. Bu bölgedeki hız değişimi negatif olduğu için cisim yavaşlamaktadır.\n\n6. saniye sonundaki toplam hızı bulmak için 4. saniyedeki hıza bu değişimi ekleriz: v₆ = v₄ + Δv₃ = 8 m/s + (-4 m/s) = 4 m/s. \n\nAlternatif olarak, toplam hız değişimi grafiğin altındaki toplam alandır: Δv_toplam = 8 + 0 + (-4) = 4 m/s. İlk hız sıfır olduğu için son hız 4 m/s olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497514800_2",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Doğrusal bir yolda hareket eden bir aracın konum-zaman (x-t) grafiği şekildeki gibidir. Araç t=0 anında x=0 konumundan başlayarak parabolik bir yörünge izleyerek 2. saniyede x=20m konumuna ulaşıyor, daha sonra 2. ve 4. saniyeler arasında doğrusal olarak hareket ederek x=40m konumuna geliyor. Buna göre, aracın 0-4 saniye aralığındaki ortalama hızı kaç m/s'dir?",
+    "options": [
+      "5",
+      "7.5",
+      "10",
+      "12.5",
+      "15"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ortalama hız, toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Ortalama hız formülü: V_ort = Δx / Δt.\n\nBu soruda, aracın ara anlardaki hareketi (parabolik veya doğrusal olması) ortalama hızı bulmak için doğrudan kullanılmaz. Sadece başlangıç ve bitiş konumları ile toplam süre önemlidir.\n\n- Başlangıç konumu (t=0 anında): x_ilk = 0 m\n- Bitiş konumu (t=4 s anında): x_son = 40 m\n- Toplam yer değiştirme (Δx): x_son - x_ilk = 40 m - 0 m = 40 m\n- Toplam geçen süre (Δt): 4 s - 0 s = 4 s\n\nŞimdi ortalama hızı hesaplayabiliriz:\n- V_ort = Δx / Δt = 40 m / 4 s = 10 m/s.",
+    "difficulty": 3
+  }
+]
