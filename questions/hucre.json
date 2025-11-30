@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764500061240_0",
+    "id": "ai_1764501369437_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Bir bilim insanı, mikroskop altında incelediği bir hücrede hücre duvarı, ribozom ve zarsız bir kalıtım materyali (nükleoid) bulunduğunu gözlemliyor. Bu hücrede aşağıdaki organellerden hangisinin bulunması **beklenmez**?",
+    "questionText": "Prokaryot ve ökaryot hücreler, yaşamsal faaliyetlerini sürdürebilmek için çeşitli yapılara sahiptir. Bu iki hücre tipi arasındaki temel farklardan biri, zarla çevrili organellerin varlığı veya yokluğudur. Buna göre, aşağıdakilerden hangisi hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunan bir yapıdır?",
     "options": [
-      "Hücre zarı",
-      "Sitoplazma",
+      "Mitokondri",
+      "Golgi cisimciği",
       "Lizozom",
       "Ribozom",
-      "Kamçı"
+      "Endoplazmik retikulum"
     ],
-    "correctAnswer": 2,
-    "explanation": "Soruda tarif edilen hücre; hücre duvarı, ribozom içermesi ve en önemlisi kalıtım materyalinin zarla çevrili bir çekirdek içinde olmaması (nükleoid bölgesi) nedeniyle bir prokaryot hücredir (örneğin bakteri). Prokaryot hücrelerde zarlı organeller bulunmaz. A, B ve D şıklarındaki yapılar (Hücre zarı, Sitoplazma, Ribozom) tüm canlı hücrelerde ortakken, E şıkkındaki kamçı bazı prokaryotlarda bulunabilir. Ancak C şıkkındaki lizozom, tek zarlı bir organel olup sadece ökaryot hücrelerde (özellikle hayvan hücrelerinde) bulunur. Bu nedenle prokaryot bir hücrede lizozomun bulunması beklenmez.",
+    "correctAnswer": 3,
+    "explanation": "Prokaryot hücreler, zarla çevrili organellere (mitokondri, golgi, lizozom, endoplazmik retikulum vb.) ve çekirdeğe sahip değildir. Ökaryot hücreler ise bu yapılara sahiptir. Ancak, protein sentezinin gerçekleştiği ribozomlar zarsız yapılardır ve bu nedenle hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunur. Ribozom, bu özelliğiyle evrensel bir organel olarak kabul edilir. Diğer şıklarda verilen organeller ise sadece ökaryot hücrelerde bulunan zarlı organellerdir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500061240_1",
+    "id": "ai_1764501369437_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir polipeptit hormonun (örneğin insülin) sentezlenip salgılanması sürecinde aşağıdaki olaylardan hangisi **en son** gerçekleşir?",
+    "questionText": "Hücre zarından madde geçişleriyle ilgili olarak, aktif taşıma mekanizması için aşağıdakilerden hangisi söylenemez?",
     "options": [
-      "Ribozomda amino asitler arasında peptit bağlarının kurulması.",
-      "DNA'daki genetik bilginin mRNA'ya aktarılması.",
-      "Endoplazmik retikulumda proteinin üç boyutlu yapı kazanması.",
-      "Golgi aygıtında proteinin paketlenerek salgı kofulu oluşturulması.",
-      "Salgı kofulunun hücre zarı ile birleşerek içeriğini ekzositozla dışarı vermesi."
+      "Madde geçişi az yoğun ortamdan çok yoğun ortama doğru gerçekleşir.",
+      "Taşıyıcı proteinler ve enzimler görev yapar.",
+      "Sadece canlı hücrelerde gözlemlenir.",
+      "Gerçekleşmesi için ATP enerjisi harcanır.",
+      "Hücredeki yoğunluk farkını ortadan kaldırarak dengeyi sağlar."
     ],
     "correctAnswer": 4,
-    "explanation": "Hücre dışına salgılanacak bir proteinin üretim ve salgılanma süreci belirli bir sıra izler (endomembran sistemi). Bu süreç şu adımlardan oluşur: 1. (B) Çekirdekte DNA'dan mRNA sentezi (transkripsiyon). 2. (A) mRNA'nın sitoplazmaya geçerek granüllü endoplazmik retikulum üzerindeki ribozomlarda polipeptit zincirine çevrilmesi (translasyon). 3. (C) Sentezlenen polipeptitin endoplazmik retikulum lümenine girerek katlanması ve üç boyutlu yapı kazanması. 4. (D) Proteinlerin taşıma kofullarıyla Golgi aygıtına taşınması, burada son değişikliklerin yapılması ve salgı kofullarına paketlenmesi. 5. (E) Salgı kofulunun hücre zarına hareket edip zarla kaynaşarak içeriğini ekzositoz yoluyla hücre dışına bırakması. Bu sıralamaya göre en son gerçekleşen olay ekzositozdur.",
+    "explanation": "Aktif taşıma, maddelerin derişimlerinin (yoğunluklarının) az olduğu ortamdan çok olduğu ortama doğru, yani derişim gradyanının tersine taşınmasıdır. Bu işlem için metabolik enerji (ATP) harcanır ve taşıyıcı proteinler ile enzimler görev alır. Enerji gerektirdiği için sadece canlı hücrelerde gerçekleşebilir. Aktif taşımanın amacı, hücre içi ve dışı arasındaki yoğunluk farkını korumak veya artırmaktır; yoğunluk farkını ortadan kaldırarak denge durumunu (izotonik ortam) sağlayan mekanizma ise pasif taşıma (örneğin, difüzyon) yöntemleridir. Bu nedenle E şıkkındaki ifade aktif taşıma için yanlıştır.",
     "difficulty": 3
   }
 ]
