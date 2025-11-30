@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764499019123_0",
+    "id": "ai_1764500388936_0",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Genç şairin şiirlerinde üç temel duygu öne çıkıyordu (I) umut, hüzün ve yalnızlık (II) romanlarında ise bambaşka bir dünya vardı (III) macera ve keşif arzusu (IV)",
+    "questionText": "Aşağıdaki cümlede ayraçla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\n\"At ölür ( ) meydan kalır ( ) yiğit ölür ( ) şan kalır ( ) derler atalarımız.\"",
     "options": [
-      "(:) (,) (:) (.)",
-      "(:) (;) (:) (.)",
-      "(;) (,) (,) (...)",
-      "(:) (;) (,) (...)",
-      "(...) (,) (:) (.)"
+      "(,) (;) (,) (,)",
+      "(;) (,) (;) (,)",
+      "(,) (,) (,) (;)",
+      "(,) (;) (;) (,)",
+      "(;) (,) (,) (;)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Bu cümlede parantezlerle belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şunlardır: (I) Kendisinden sonra örnek verilecek veya açıklama yapılacak cümlenin sonuna iki nokta (:) konur. Burada 'üç temel duygu' açıklanmaktadır. (II) Cümle içinde virgüllerle ayrılmış tür veya takımları birbirinden ayırmak için noktalı virgül (;) kullanılır. İlk cümle ('Genç şairin... yalnızlık') içinde virgül kullanılarak bir liste verilmiştir. Bu cümlenin, yine anlamca bağlantılı olan ikinci cümleye ('romanlarında ise...') bağlanması için noktalı virgül gereklidir. (III) Yine kendisinden sonra örnek verileceği için iki nokta (:) kullanılmalıdır. Burada 'bambaşka bir dünya'nın ne olduğu açıklanmaktadır. (IV) 'Macera ve keşif arzusu' ifadesiyle cümle tamamlandığı için sonuna nokta (.) konulmalıdır. Bu sıralama B şıkkında doğru olarak verilmiştir.",
+    "correctAnswer": 0,
+    "explanation": "Bu atasözü, kendi içinde virgül bulunan sıralı cümlelerden oluşmuş iki ayrı grubu barındırır. Birinci grup \"At ölür, meydan kalır\" ve ikinci grup \"yiğit ölür, şan kalır\" şeklindedir. Türk Dil Kurumu'nun kurallarına göre, ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için noktalı virgül (;) kullanılır. Bu nedenle \"meydan kalır\" ifadesinden sonra noktalı virgül getirilmelidir. Grupların kendi içindeki sıralı cümleleri ayırmak için ise virgül (,) kullanılır. Cümlenin sonundaki virgül ise, alıntı cümlenin bitip ana cümlenin yükleminin (\"derler\") başladığını belirtmek için konulmuştur. Bu durumda doğru sıralama virgül, noktalı virgül, virgül, virgül şeklinde olmalıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499019123_1",
+    "id": "ai_1764500388936_1",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlelerin hangisinde kesme işaretinin (') kullanımıyla ilgili bir yanlışlık yapılmıştır?",
+    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
     "options": [
-      "TBMM'nin bu yılki çalışmaları hakkında bir rapor hazırlandı.",
-      "Bu akşamki davete Ali Bey'in de katılacağını öğrendik.",
-      "Türkçenin zenginliklerini anlatan bu eser, başucu kitabım oldu.",
-      "İzmir'den yola çıkan otobüsümüz yaklaşık 2'de mola verecekmiş.",
-      "Kurtuluş Savaşı'nın en çetin mücadeleleri bu topraklarda yaşanmıştır."
+      "Desem ki vakitlerden bir nisan akşamıdır; rüzgârların en ferahlatıcısı senden esiyor...",
+      "Bu karar, Meclisin 17'nci birleşiminin 2'nci oturumunda oy birliğiyle alındı.",
+      "Ankara'ya -doğup büyüdüğüm o güzel şehre- yıllar sonra tekrar dönmüştüm.",
+      "Eve geldi mi, hemen televizyonu açar, saatlerce kanallar arasında gezinirdi.",
+      "Bu projeyi ya yarın bitireceğiz, ya da sunuma yetiştiremeyeceğiz."
     ],
-    "correctAnswer": 2,
-    "explanation": "Kesme işaretinin kullanımıyla ilgili kurallara göre, özel adlara getirilen yapım ekleri ve bu eklerden sonra gelen diğer ekler kesme işaretiyle ayrılmaz. C seçeneğindeki 'Türkçenin' kelimesi bu kurala örnektir. 'Türk' özel ismine '-çe' yapım eki getirilerek yeni bir kelime (bir dil adı) türetilmiştir. Bu yapım ekinin üzerine gelen '-nin' iyelik eki de kesme işaretiyle ayrılmaz. Kelimenin doğru yazımı 'Türkçenin' şeklindedir ve cümlede doğru kullanılmıştır. Ancak soruda 'yanlışlık yapılmıştır' deniliyor, bu durumda seçeneklerde bir yanlışlık olmalı. Seçenekleri tekrar inceleyelim. A, B, D ve E şıklarındaki kullanımlar doğrudur. A'da kısaltmaya, B'de unvana, D'de sayıya, E'de özel bir döneme gelen ekler doğru ayrılmıştır. C şıkkındaki 'Türkçenin' kelimesinin yazımı doğrudur ve bu bir istisnadır. Ancak soruyu TDK'nin temel kuralına göre değerlendirirsek, özel ada gelen yapım eki ayrılmaz. Yapım ekinden sonra gelen çekim eki de ayrılmaz. Dolayısıyla 'Türkçenin' yazımı doğrudur. Soruyu yeniden kuralım: Eğer C şıkkı 'Türkçe'nin' şeklinde yazılsaydı yanlış olurdu. Cümledeki kullanım doğrudur, bu nedenle sorunun kurgusunda bir hata var. Soruyu doğru bir yanlış içeren şekilde düzeltelim: C şıkkını 'İzmirli'lerin bu konudaki hassasiyetini biliyoruz.' yapalım. Bu durumda 'İzmirli' kelimesi '-li' yapım ekini aldığı için türemiş bir kelimedir ve sonrasına gelen çekim eki kesme işaretiyle ayrılmaz. Doğrusu 'İzmirli­lerin' olmalıdır. Düzeltilmiş soruya göre açıklama: C seçeneğindeki 'Türkçenin' kelimesi doğru yazılmıştır. Özel ad olan 'Türk' kelimesine '-çe' yapım eki getirildiğinde kesme işareti kullanılmaz ve bu yapım ekinden sonra gelen çekim ekleri de ('-nin') bitişik yazılır. Diğer şıklardaki kullanımlar da doğrudur. Bu haliyle soruda yanlış bir seçenek yoktur. Soruyu, öğrencilerin sık düştüğü bir hatayı içerecek şekilde yeniden oluşturalım: **Doğru Soru ve Cevap:** C şıkkı: **'Bu yasa tasarısı Bakanlar Kurulu'nda uzun uzun tartışıldı.'** olsun. **Açıklama:** TDK'nin güncel kuralına göre 'kurum, kuruluş, kurul, birleşim, otu­rum ve iş yeri adlarına gelen ekler kesmeyle ayrılmaz.' Bu kurala göre 'Bakanlar Kurulunun' veya 'Bakanlar Kurulunda' gibi ifadeler kesme işareti olmadan yazılmalıdır. Dolayısıyla bu şıktaki 'Bakanlar Kurulu'nda' kullanımı yanlıştır. Diğer şıklardaki kullanımlar doğrudur.",
+    "correctAnswer": 4,
+    "explanation": "Türkçede tekrarlı bağlaçlardan (hem... hem..., ne... ne..., ya... ya...) önce veya sonra virgül kullanılmaz. E şıkkındaki cümlede \"ya... ya da...\" tekrarlı bağlacı kullanılmıştır ve bu bağlaçların arasına virgül konulması bir noktalama hatasıdır. Cümlenin doğru yazımı \"Bu projeyi ya yarın bitireceğiz ya da sunuma yetiştiremeyeceğiz.\" şeklinde olmalıdır. Diğer şıklardaki noktalama işaretlerinin kullanımları doğrudur: A'da sıralı cümleleri ayırmak için noktalı virgül ve bitmemiş cümle sonunda üç nokta; B'de sıra bildiren sayılardan sonra nokta; C'de ara sözü belirtmek için kısa çizgi; D'de zarf-fiil eki yerine kullanılan \"mi\" edatından sonra virgül doğru kullanılmıştır.",
     "difficulty": 3
   }
 ]
