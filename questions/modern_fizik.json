@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764417355212_0",
+    "id": "ai_1764498447597_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Durgun hâlden aynı V potansiyel farkı altında hızlandırılan bir elektron ile bir protonun de Broglie dalga boyları sırasıyla λₑ ve λₚ'dir. Elektronun kütlesi mₑ, protonun kütlesi mₚ olduğuna göre (mₚ > mₑ), bu dalga boyları arasındaki ilişki aşağıdakilerden hangisidir?",
+    "questionText": "Bir metal yüzeye, bağlanma enerjisi (eşik enerjisi) E olan fotonlar gönderildiğinde sökülen elektronların maksimum kinetik enerjisi 2E oluyor. Bu metal yüzeye gönderilen ışığın sadece şiddeti iki katına çıkarılırsa, sökülen elektronların maksimum kinetik enerjisi ve birim zamanda sökülen fotoelektron sayısı nasıl değişir?",
     "options": [
-      "λₑ = λₚ",
-      "λₑ > λₚ",
-      "λₑ < λₚ",
-      "İlişki, V potansiyel farkının büyüklüğüne bağlıdır.",
-      "Kütleleri farklı olduğu için de Broglie dalga boyları karşılaştırılamaz."
+      "Kinetik enerji değişmez, fotoelektron sayısı iki katına çıkar.",
+      "Kinetik enerji iki katına çıkar, fotoelektron sayısı değişmez.",
+      "Kinetik enerji değişmez, fotoelektron sayısı değişmez.",
+      "Kinetik enerji yarıya iner, fotoelektron sayısı iki katına çıkar.",
+      "Kinetik enerji iki katına çıkar, fotoelektron sayısı da iki katına çıkar."
     ],
-    "correctAnswer": 1,
-    "explanation": "Bir parçacık, V potansiyel farkı altında hızlandırıldığında kazandığı kinetik enerji (K), yükü (q) ile potansiyel farkın çarpımına eşittir: K = qV. Elektron ve protonun yük büyüklükleri eşit olduğundan (e), her ikisi de aynı kinetik enerjiyi kazanır: Kₑ = Kₚ = eV. \n\nDe Broglie dalga boyu formülü λ = h/p'dir, burada h Planck sabiti ve p parçacığın momentumudur. Kinetik enerji ile momentum arasındaki ilişki K = p²/(2m) veya p = √(2mK) şeklindedir. \n\nBu iki formülü birleştirirsek, de Broglie dalga boyu için λ = h/√(2mK) ifadesini elde ederiz. \n\nElektron ve proton için bu ifadeyi yazarsak:\nλₑ = h/√(2mₑK)\nλₚ = h/√(2mₚK)\n\nHer iki parçacığın kazandığı kinetik enerji (K) ve Planck sabiti (h) aynı olduğundan, dalga boyu kütlenin karekökü ile ters orantılıdır (λ ∝ 1/√m). Soruda protonun kütlesinin elektronun kütlesinden daha büyük olduğu (mₚ > mₑ) verilmiştir. Bu durumda, kütlesi daha küçük olan elektronun de Broglie dalga boyu, kütlesi daha büyük olan protonunkinden daha büyük olacaktır. Dolayısıyla, λₑ > λₚ ilişkisi doğrudur.",
+    "correctAnswer": 0,
+    "explanation": "Fotoelektrik olayda, sökülen bir elektronun maksimum kinetik enerjisi, gelen fotonun enerjisi (hf) ile metalin bağlanma enerjisi (E_bağlanma) arasındaki farka eşittir: KE_max = hf - E_bağlanma. Soruda KE_max = 2E ve E_bağlanma = E olarak verilmiş. Buradan gelen fotonun enerjisi hf = 3E bulunur. Işığın şiddeti, birim zamanda yüzeye düşen foton sayısıyla ilgilidir. Fotonun enerjisi ise frekansına bağlıdır. Işığın şiddetini iki katına çıkarmak, foton sayısını iki katına çıkarır ancak her bir fotonun enerjisini (yani frekansını) değiştirmez. Fotonun enerjisi değişmediği için, sökülen elektronların maksimum kinetik enerjisi de (KE_max = 3E - E = 2E) değişmez. Ancak birim zamanda yüzeye çarpan foton sayısı iki katına çıktığı için, birim zamanda sökülen fotoelektron sayısı da iki katına çıkar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498447597_1",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Durgun bir gözlemciye göre 0,6c hızıyla hareket eden bir uzay mekiğinin içindeki astronot, mekiğin boyunu L₀ olarak ve kendi kol saatinin 60 saniye ilerlediğini ölçüyor. Durgun gözlemci, uzay mekiğinin boyunu L ve astronotun saatindeki bu 60 saniyelik süreyi t olarak ölçtüğüne göre, L ve t için aşağıdakilerden hangisi doğrudur? (c: ışık hızı)",
+    "options": [
+      "L = L₀ , t = 60 s",
+      "L > L₀ , t < 60 s",
+      "L < L₀ , t > 60 s",
+      "L > L₀ , t > 60 s",
+      "L < L₀ , t < 60 s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Özel görelilik teorisinin iki temel postülası vardır: zaman genişlemesi ve uzunluk büzülmesi. 1) Uzunluk Büzülmesi: Bir cismin hızı arttıkça, hareket doğrultusundaki boyu, durgun bir gözlemci tarafından daha kısa ölçülür. Astronot, mekikle aynı referans sisteminde olduğu için mekiğin 'durgun boyu' olan L₀'ı ölçer. Durgun gözlemci ise hareketli mekiğin boyunu daha kısa, yani L < L₀ olarak ölçer. 2) Zaman Genişlemesi: Hareketli bir sistemdeki zaman, durgun bir gözlemciye göre daha yavaş akar. Astronotun saatinde geçen 60 saniye, onun için 'durgun zaman'dır. Durgun gözlemci, hareket halindeki astronotun saatine baktığında zamanın daha yavaş aktığını, yani aynı olay için kendi saatinde daha fazla süre geçtiğini görür. Dolayısıyla, durgun gözlemcinin ölçtüğü süre t > 60 saniye olacaktır. Sonuç olarak, L < L₀ ve t > 60 s olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498447597_2",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Compton saçılması deneyinde, durgun haldeki bir elektrona gönderilen X-ışını fotonu, elektrona çarparak şekildeki gibi saçılıyor. Gelen fotonun dalga boyu λ₁, enerjisi E₁ ve momentumu P₁ iken; saçılan fotonun dalga boyu λ₂, enerjisi E₂ ve momentumu P₂'dir. Buna göre, aşağıdaki yargılardan hangisi yanlıştır?",
+    "options": [
+      "λ₂ > λ₁",
+      "E₁ > E₂",
+      "Sistemin toplam momentumu korunur.",
+      "Sistemin toplam kinetik enerjisi korunur.",
+      "Fotonun frekansı azalır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Compton saçılması, bir fotonun serbest bir elektrona çarpıp enerjisinin bir kısmını elektrona aktararak saçılması olayıdır. Bu olayda enerji ve momentum korunur. A) Foton enerjisinin bir kısmını elektrona aktardığı için enerjisi azalır. Enerji ile dalga boyu ters orantılı olduğundan (E = hc/λ), saçılan fotonun dalga boyu gelen fotonunkinden büyük olur (λ₂ > λ₁). Bu ifade doğrudur. B) Enerjinin bir kısmı elektrona aktarıldığı için E₁ > E₂ olur. Bu ifade doğrudur. C) Compton saçılması bir çarpışma olayıdır ve tüm çarpışmalarda olduğu gibi sistemin (foton + elektron) toplam momentumu korunur. Bu ifade doğrudur. D) Bu çarpışma esnek bir çarpışma değildir. Foton enerjisinin bir kısmı, elektronun kinetik enerjisine dönüşür. Sistemin toplam enerjisi korunur, ancak toplam kinetik enerji korunmaz. Çarpışmadan önce elektronun kinetik enerjisi sıfırken, çarpışmadan sonra hem saçılan fotonun hem de elektronun enerjisi vardır. Bu ifade yanlıştır. E) Fotonun enerjisi azaldığı için (E = hf), frekansı da azalır. Bu ifade doğrudur.",
     "difficulty": 3
   }
 ]
