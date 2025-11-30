@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520144916_1",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir torbada 5 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
-    "options": [
-      "1/10",
-      "1/5",
-      "3/10",
-      "3/5",
-      "1/2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Topların toplam sayısı 5 + 3 + 2 = 10'dur. Mavi topların sayısı 3 olduğuna göre, mavi top seçme olasılığı 3/10'dur.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520144916_2",
     "subjectId": "mat",
     "topic": "Olasılık",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 3,
     "explanation": "Zarın atılması sonucu elde edilebilecek sayılar 1, 2, 3, 4, 5, 6'dır. 3'ten büyük sayılar 4, 5 ve 6'dır. Bu durumda 3'ten büyük sayı gelme olasılığı 3/6 = 1/2'dir. Yani doğru cevap 2/3 değil, 1/2'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520144916_1",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 5 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
+    "options": [
+      "1/10",
+      "1/5",
+      "3/10",
+      "3/5",
+      "1/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Topların toplam sayısı 5 + 3 + 2 = 10'dur. Mavi topların sayısı 3 olduğuna göre, mavi top seçme olasılığı 3/10'dur.",
     "difficulty": 3
   },
   {
