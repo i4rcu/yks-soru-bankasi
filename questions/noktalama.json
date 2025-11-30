@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519453790_0",
+    "id": "ai_1764520420819_0",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam sinemaya gideceğiz ___ çok güzel bir film var.'",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
     "options": [
-      "A) ;",
-      "B) :",
-      "C) ,",
-      "D) .",
-      "E) ?"
+      "A. ;",
+      "B. ,",
+      "C. .",
+      "D. :",
+      "E. ?"
     ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede iki bağımsız cümle arasında bir ilişki kurmak için iki nokta üst üste (:) kullanılmalıdır. Bu şekilde ilk cümlenin nedenini belirten ikinci cümle vurgulanır.",
+    "correctAnswer": 2,
+    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519453790_1",
+    "id": "ai_1764520420819_1",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümledeki noktalama işareti hatası hangisidir? 'Ali, kitabını masaya koydu ve, hemen dışarı çıktı.'",
+    "questionText": "Hangi cümlede virgül yanlış kullanılmıştır?",
     "options": [
-      "A) '",
-      "B) ,",
-      "C) .",
-      "D) ve",
-      "E) masaya"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 've' bağlacından sonra virgül gereksiz bir kullanım oluşturur. Doğru kullanımda virgül kullanılmamalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519453791_2",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? 'Ahmet çok çalıştı ___ bu sınavı geçecektir.'",
-    "options": [
-      "A) ,",
-      "B) .",
-      "C) ;",
-      "D) :",
-      "E) ?"
+      "A. Bugün hava çok sıcak, dışarı çıkmak istemiyorum.",
+      "B. Ahmet, sinema biletlerini almayı unuttu.",
+      "C. Elma, armut, muz ve çilek aldım.",
+      "D. Sabah erken kalktım, kahvaltı yaptım.",
+      "E. Kitap okuyorum, müzik dinliyorum."
     ],
     "correctAnswer": 0,
-    "explanation": "Cümlede neden-sonuç ilişkisi kurmak için virgül (,) kullanılmalıdır. Ahmet'in çok çalışması, sınavı geçmesinin sebebidir.",
+    "explanation": "İlk cümlede virgül kullanılmamalıdır çünkü 'çok sıcak' ifadesi bir bütün olarak düşünülmelidir ve cümledeki akışı kesmemelidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520420819_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlış kullanılmıştır? 'Bütün gün çalıştım; ama sonuç aldım.'",
+    "options": [
+      "A. ;",
+      "B. ,",
+      "C. .",
+      "D. :",
+      "E. ?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede bağlaç olan 'ama' öncesinde noktalı virgül yerine virgül kullanılması gerekmektedir. Doğru kullanım: 'Bütün gün çalıştım, ama sonuç aldım.'",
     "difficulty": 3
   }
 ]
