@@ -1,50 +1,18 @@
 [
   {
-    "id": "ai_1764501189834_0",
+    "id": "ai_1764519294727_0",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
-    "questionText": "X²⁺ iyonunun 18 elektronu ve 20 nötronu bulunmaktadır. Buna göre, nötr X atomu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "Bir atomun çekirdeğinde bulunan proton sayısı, atomun hangi özelliğini belirler?",
     "options": [
-      "Atom numarası 20'dir.",
-      "Kütle numarası 40'tır.",
-      "Periyodik sistemin 4. periyot 2A grubunda yer alır.",
-      "Toprak alkali metalidir.",
-      "Değerlik elektronları 3d orbitalindedir."
+      "Atom numarası",
+      "Kütle numarası",
+      "İzotop sayısı",
+      "Elektron sayısı",
+      "Periyodik grup"
     ],
-    "correctAnswer": 4,
-    "explanation": "X²⁺ iyonu 2 elektron verdiğinde 18 elektronu kalıyorsa, nötr halinin elektron sayısı 18 + 2 = 20'dir. Nötr atomda proton sayısı elektron sayısına eşit olduğu için atom numarası 20'dir (A şıkkı doğru). Kütle numarası, proton ve nötron sayılarının toplamıdır: 20 (proton) + 20 (nötron) = 40'tır (B şıkkı doğru). Atom numarası 20 olan elementin elektron dizilimi 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² şeklindedir. En yüksek baş kuantum sayısı 4 olduğu için 4. periyotta, son orbitali s² ile bittiği için 2A grubunda yer alır (C şıkkı doğru). 2A grubu elementleri toprak alkali metaller olarak adlandırılır (D şıkkı doğru). Değerlik elektronları en dış kabuktaki elektronlardır ve bu atom için 4s orbitalindeki 2 elektrondur. Bu nedenle E şıkkındaki ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501189834_1",
-    "subjectId": "kim",
-    "topic": "Atom ve Periyodik Sistem",
-    "questionText": "₁₂Mg, ₁₃Al ve ₁₅P elementlerinin birinci iyonlaşma enerjilerinin (İE₁) büyükten küçüğe doğru karşılaştırılması aşağıdakilerden hangisinde doğru olarak verilmiştir?",
-    "options": [
-      "Mg > Al > P",
-      "P > Mg > Al",
-      "P > Al > Mg",
-      "Al > Mg > P",
-      "Mg > P > Al"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Birinci iyonlaşma enerjisi, periyodik cetvelde aynı periyotta genellikle soldan sağa doğru artar. Ancak, küresel simetri özelliği nedeniyle bu sıralamada istisnalar bulunur. Elementlerin grup numaraları: ₁₂Mg (2A), ₁₃Al (3A), ₁₅P (5A). Küresel simetri nedeniyle, elektron dizilimi s² ile biten 2A grubu elementlerinin iyonlaşma enerjisi, p¹ ile biten 3A grubu elementlerinden daha yüksektir. Bu duruma '3 aşağı 5 yukarı' kuralı denir. Dolayısıyla İE₁(Mg) > İE₁(Al) olmalıdır. 5A grubundaki P elementi ise yarı dolu p orbitali (p³) sayesinde küresel simetri gösterir ve iyonlaşma enerjisi hem 2A hem de 3A grubundan daha yüksektir. Bu bilgilere göre doğru sıralama P > Mg > Al şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501189834_2",
-    "subjectId": "kim",
-    "topic": "Atom ve Periyodik Sistem",
-    "questionText": "Nötr Kükürt (₁₆S) atomunun en yüksek enerjili orbitalinde bulunan bir elektron için aşağıdaki kuantum sayısı setlerinden hangisi mümkündür?",
-    "options": [
-      "n=3, l=0, mₗ=0, mₛ=+1/2",
-      "n=3, l=1, mₗ=-1, mₛ=+1/2",
-      "n=3, l=2, mₗ=-1, mₛ=+1/2",
-      "n=4, l=0, mₗ=0, mₛ=-1/2",
-      "n=3, l=1, mₗ=+2, mₛ=-1/2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İlk olarak Kükürt (₁₆S) atomunun temel hal elektron dizilimi yazılır: 1s² 2s² 2p⁶ 3s² 3p⁴. Bu dizilime göre, en yüksek enerjili orbital 3p orbitalidir. Bu orbitaldeki bir elektronun kuantum sayıları şu şekilde olmalıdır: Baş kuantum sayısı (n) = 3. Açısal momentum kuantum sayısı (l) 'p' orbitali için 1'dir. Manyetik kuantum sayısı (mₗ) ise -l'den +l'ye kadar değerler alabilir, yani -1, 0, +1 olabilir. Spin kuantum sayısı (mₛ) ise +1/2 veya -1/2 olabilir. Şıkları incelersek: A şıkkı 3s orbitalini, C şıkkı 3d orbitalini, D şıkkı 4s orbitalini tanımlar. E şıkkında ise mₗ değeri +2 olarak verilmiştir ki l=1 için bu imkansızdır. B şıkkındaki (n=3, l=1, mₗ=-1, mₛ=+1/2) kuantum sayıları seti, 3p orbitalindeki bir elektron için tüm kurallara uymaktadır.",
+    "correctAnswer": 0,
+    "explanation": "Proton sayısı, atomun atom numarasını belirler. Atom numarası, elementin kimliğini belirleyen en önemli özelliklerden biridir ve periyodik tabloda elementlerin sıralanmasında kullanılır.",
     "difficulty": 3
   }
 ]
