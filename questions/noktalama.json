@@ -1,209 +1,5 @@
 [
   {
-    "id": "ai_1764501665344_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede ayraçlarla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\nO konuşmasında edebiyatın iki ana damarından bahsetti ( ) roman ve şiir. Sevdiği romancılar şunlardı ( ) Tolstoy, Dostoyevski, Stendhal ( ) vazgeçemediği şairler ise Rilke, Baudelaire ve Pessoa'ydı ( )",
-    "options": [
-      "( : ) ( , ) ( , ) ( . )",
-      "( ; ) ( : ) ( , ) ( ... )",
-      "( : ) ( : ) ( ; ) ( . )",
-      "( . ) ( ; ) ( : ) ( . )",
-      "( : ) ( : ) ( , ) ( . )"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede ayraçlarla belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şöyledir:\n1. İlk ayraç: Cümlede \"iki ana damar\" ifadesinden sonra bir açıklama yapılacağı için kendisinden sonra açıklama yapılacak cümlenin sonuna iki nokta (:) konur.\n2. İkinci ayraç: \"şunlardı\" ifadesi, kendisinden sonra bir liste veya örnekleme yapılacağını belirtir. Bu nedenle iki nokta (:) kullanılmalıdır.\n3. Üçüncü ayraç: Cümle, kendi içinde virgüllerle ayrılmış farklı grupları (romancılar ve şairler) sıralamaktadır. Bu tür durumlarda, anlam karışıklığını önlemek ve grupları birbirinden ayırmak için noktalı virgül (;) kullanılır. \"Tolstoy, Dostoyevski, Stendhal\" bir grup, \"Rilke, Baudelaire ve Pessoa\" ise diğer gruptur. Bu iki farklı öğe grubunu barındıran cümleler noktalı virgülle ayrılır.\n4. Dördüncü ayraç: Cümlenin sonuna, yargı tamamlandığı için nokta (.) konulmalıdır.\nBu kurallara göre doğru sıralama \":, :, ;, .\" şeklinde olmalıdır. Dolayısıyla doğru cevap C seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_10",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Deniz, güneş, kum ___ tatil çok güzeldi.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Deniz, güneş, kum; tatil çok güzeldi.' şeklinde noktalı virgül kullanılması gerekmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349419_5",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti kullanılmalıdır? \"Biliyor musun ___ sınav sonuçları açıklandı!\"",
-    "options": [
-      ";",
-      ":",
-      ",",
-      "!",
-      "."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede bir heyecan ifadesi olduğu için ünlem işareti kullanılması gerekmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_20",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Sınıf çok kalabalık, çok gürültülü.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 'Sınıf çok kalabalık çok gürültülü.' şeklinde bir virgül gereksizdir; cümle akışını bozar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_4",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Ahmet, evet, seninle gelmek istiyorum.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 'Ahmet, seninle gelmek istiyorum.' şeklinde virgül gereksizdir; bağlamı bozar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_5",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu kitabı ben yazdım ___ sen de okuyabilirsin.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Bu kitabı ben yazdım. Sen de okuyabilirsin.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_22",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Ali, Ahmet, ve Mehmet sinemaya gitti.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_8",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam sinemaya gideceğiz ___ sen de gel.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Bu akşam sinemaya gideceğiz. Sen de gel.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349419_14",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Yarın, pikniğe gideceğiz ___ hava güzel olursa.\"",
-    "options": [
-      "!",
-      ".",
-      ",",
-      ":",
-      ";"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede bir tamamlanmamış düşünce var ve cümle bitmediği için nokta kullanılmamalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519453790_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam sinemaya gideceğiz ___ çok güzel bir film var.'",
-    "options": [
-      "A) ;",
-      "B) :",
-      "C) ,",
-      "D) .",
-      "E) ?"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede iki bağımsız cümle arasında bir ilişki kurmak için iki nokta üst üste (:) kullanılmalıdır. Bu şekilde ilk cümlenin nedenini belirten ikinci cümle vurgulanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522349418_1",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? \"Bu akşam sinemaya gideceğiz ___ sen de bizimle gelmek ister misin?\"",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede bir soru ifadesi olduğu için virgül kullanmak, akışın devamını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_21",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Sana bir şey anlatacağım ___ çok önemli.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Sana bir şey anlatacağım. Çok önemli.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_7",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Aşçı, yemekleri hazırladı, servis etti.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764499019123_1",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -220,51 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764525246839_14",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Çocuklar, bahçede oynuyor.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_2",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Kitap, defter, kalem almayı unutma!'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "!"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 'kitap, defter, kalem' ifadeleri arasında virgül kullanılması doğrudur ancak cümle sonundaki ünlem işareti doğru yerleştirilmiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_1",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Ali, okula gitmedi çünkü yağmur yağıyordu.'",
-    "options": [
-      "?",
-      "!",
-      ",",
-      "."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede '?' işareti kullanılmaz; 'Yağmur yağıyordu.' ifadesi bir soru cümlesi değildir.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764522349419_11",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -278,498 +29,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "Cümlede bir şart ifadesi olduğu için virgül kullanılması gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_27",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu yaz çok seyahat ettim ___ yeni yerler keşfettim.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Bu yaz çok seyahat ettim. Yeni yerler keşfettim.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349418_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Ahmet, bu kitabı çok beğendi ___ yeni bir kitap daha aldı.\"",
-    "options": [
-      ".",
-      ",",
-      "!",
-      "?",
-      ";"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümle bir tamamlanmamış düşünceyi ifade ediyor ve sonuna bir noktalamaya ihtiyaç duyuyor.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522349419_6",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Kedim çok sevimli ___ onunla oynamayı seviyorum.\"",
-    "options": [
-      "!",
-      ".",
-      ",",
-      ":",
-      ";"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümle tamamlandığı için nokta kullanılması gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500388936_1",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
-    "options": [
-      "Desem ki vakitlerden bir nisan akşamıdır; rüzgârların en ferahlatıcısı senden esiyor...",
-      "Bu karar, Meclisin 17'nci birleşiminin 2'nci oturumunda oy birliğiyle alındı.",
-      "Ankara'ya -doğup büyüdüğüm o güzel şehre- yıllar sonra tekrar dönmüştüm.",
-      "Eve geldi mi, hemen televizyonu açar, saatlerce kanallar arasında gezinirdi.",
-      "Bu projeyi ya yarın bitireceğiz, ya da sunuma yetiştiremeyeceğiz."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Türkçede tekrarlı bağlaçlardan (hem... hem..., ne... ne..., ya... ya...) önce veya sonra virgül kullanılmaz. E şıkkındaki cümlede \"ya... ya da...\" tekrarlı bağlacı kullanılmıştır ve bu bağlaçların arasına virgül konulması bir noktalama hatasıdır. Cümlenin doğru yazımı \"Bu projeyi ya yarın bitireceğiz ya da sunuma yetiştiremeyeceğiz.\" şeklinde olmalıdır. Diğer şıklardaki noktalama işaretlerinin kullanımları doğrudur: A'da sıralı cümleleri ayırmak için noktalı virgül ve bitmemiş cümle sonunda üç nokta; B'de sıra bildiren sayılardan sonra nokta; C'de ara sözü belirtmek için kısa çizgi; D'de zarf-fiil eki yerine kullanılan \"mi\" edatından sonra virgül doğru kullanılmıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520420819_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
-    "options": [
-      "A. ;",
-      "B. ,",
-      "C. .",
-      "D. :",
-      "E. ?"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_17",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Yemeğin sıcak olması gerek ___ soğuk olursa yenmez.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede 'Yemeğin sıcak olması gerek; soğuk olursa yenmez.' şeklinde noktalı virgül kullanılması gerekmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519453791_2",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? 'Ahmet çok çalıştı ___ bu sınavı geçecektir.'",
-    "options": [
-      "A) ,",
-      "B) .",
-      "C) ;",
-      "D) :",
-      "E) ?"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede neden-sonuç ilişkisi kurmak için virgül (,) kullanılmalıdır. Ahmet'in çok çalışması, sınavı geçmesinin sebebidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_3",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Öğrenciler sınavdan başarılı oldular ___ öğretmenleri çok mutlu oldu.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Öğrenciler sınavdan başarılı oldular. Öğretmenleri çok mutlu oldu.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_15",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Öğrenciler sınavdan başarılı oldular ___ öğretmenleri mutlu oldu.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Öğrenciler sınavdan başarılı oldular. Öğretmenleri mutlu oldu.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_23",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam bir film izlemek istiyorum ___ sen de gel.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Bu akşam bir film izlemek istiyorum. Sen de gel.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349419_13",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Öğrenciler, sınavdan yüksek not almak için çok çalıştılar ___ bu yüzden başarılı oldular.\"",
-    "options": [
-      "!",
-      ".",
-      ",",
-      ":",
-      ";"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümle tamamlandığı için nokta kullanılmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522349419_10",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Bütün gün çalıştım ___ şimdi çok yoruldum.\"",
-    "options": [
-      ".",
-      "!",
-      ",",
-      ":",
-      ";"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümle tamamlandığı için nokta kullanılmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522349419_8",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti uygun değildir? \"Bugün hava çok sıcak ___ dışarı çıkmayı düşünmüyorum!\"",
-    "options": [
-      "!",
-      ".",
-      "?",
-      ",",
-      ";"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede bir heyecan ifadesi olduğu için ünlem işareti kullanılmalıdır, nokta uygun değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_19",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ankara, Türkiye'nin başkenti ___ İstanbul en büyük şehirdir.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 'Ankara, Türkiye'nin başkenti: İstanbul en büyük şehirdir.' şeklinde iki bağımsız cümle olduğu için iki nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349418_2",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti kullanılmalıdır? \"Ali, çok çalışkan bir öğrenci ___ derslerinde hep başarılı olur.\"",
-    "options": [
-      ".",
-      ",",
-      ":",
-      ";",
-      "!"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümle tamamlandığı için nokta kullanılması gerekir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522349419_7",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Ahmet, Elif ve Ayşe sinemaya gitmek istiyorlar ___ sen de gelmek ister misin?\"",
-    "options": [
-      ".",
-      "!",
-      ",",
-      "?",
-      ";"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede bir soru var, bu nedenle soru işareti kullanılması gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_12",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Sana bir şey söylemek istiyorum ___ dinler misin?'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cümlede 'Sana bir şey söylemek istiyorum! Dinler misin?' ifadesinde ünlem işareti gereklidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_9",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Kütüphanede, sessiz olmalısın.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 'Kütüphanede sessiz olmalısın.' şeklinde bir virgül gereksizdir; anlamı bozmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_25",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ödevini yapmayı unutma ___ öğretmen çok kızacak.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Ödevini yapmayı unutma. Öğretmen çok kızacak.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349419_9",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"İstanbul, Türkiye'nin en kalabalık şehri ___ tarihi ve kültürel zenginlikleriyle ünlüdür.\"",
-    "options": [
-      "!",
-      ".",
-      ",",
-      ":",
-      ";"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede bir açıklama yapıldığı için iki nokta kullanılması gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_6",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Yarın toplantı var ___ lütfen zamanında gel.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede 'Yarın toplantı var; lütfen zamanında gel.' şeklinde bağlaç kullanılması gerektiği için nokta yerine noktalı virgül eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519453790_1",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümledeki noktalama işareti hatası hangisidir? 'Ali, kitabını masaya koydu ve, hemen dışarı çıktı.'",
-    "options": [
-      "A) '",
-      "B) ,",
-      "C) .",
-      "D) ve",
-      "E) masaya"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 've' bağlacından sonra virgül gereksiz bir kullanım oluşturur. Doğru kullanımda virgül kullanılmamalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522349418_3",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Elmayı, armutu, muzları çok seviyorum ___ özellikle de yazın.\"",
-    "options": [
-      ";",
-      ",",
-      ":",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Listeleme yapıldığı için virgül kullanılması gerekmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_26",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Bugün sinemaya gideceğiz değil mi?'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede ';' kullanılması gereksizdir; '?' işareti yeterlidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_24",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Hava çok sıcak, dışarı çıkmak istemiyorum.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede 'Hava çok sıcak dışarı çıkmak istemiyorum.' şeklinde bir virgül gereksizdir; cümle akışını bozar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500388936_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede ayraçla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\n\"At ölür ( ) meydan kalır ( ) yiğit ölür ( ) şan kalır ( ) derler atalarımız.\"",
-    "options": [
-      "(,) (;) (,) (,)",
-      "(;) (,) (;) (,)",
-      "(,) (,) (,) (;)",
-      "(,) (;) (;) (,)",
-      "(;) (,) (,) (;)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu atasözü, kendi içinde virgül bulunan sıralı cümlelerden oluşmuş iki ayrı grubu barındırır. Birinci grup \"At ölür, meydan kalır\" ve ikinci grup \"yiğit ölür, şan kalır\" şeklindedir. Türk Dil Kurumu'nun kurallarına göre, ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için noktalı virgül (;) kullanılır. Bu nedenle \"meydan kalır\" ifadesinden sonra noktalı virgül getirilmelidir. Grupların kendi içindeki sıralı cümleleri ayırmak için ise virgül (,) kullanılır. Cümlenin sonundaki virgül ise, alıntı cümlenin bitip ana cümlenin yükleminin (\"derler\") başladığını belirtmek için konulmuştur. Bu durumda doğru sıralama virgül, noktalı virgül, virgül, virgül şeklinde olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525246839_13",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu yaz çok seyahat ettim ___ yeni yerler keşfettim.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede 'Bu yaz çok seyahat ettim. Yeni yerler keşfettim.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_11",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Dışarıda yağmur yağıyor, şemsiyeni almayı unutma.'",
-    "options": [
-      ";",
-      ",",
-      ":",
-      "."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525246839_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bugün hava çok güzel ___ parka gitmek istiyorum.'",
-    "options": [
-      ";",
-      ":",
-      ",",
-      ".",
-      "!"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede 'Bugün hava çok güzel, parka gitmek istiyorum.' şeklinde bir bağlaç kullanılması gerektiği için virgül eksiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522349419_12",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Bir gün, seninle tatile çıkmak istiyorum ___ nereye gideceğimizi düşünelim.\"",
-    "options": [
-      "!",
-      ".",
-      ",",
-      ":",
-      ";"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede bir öneri veya plan ifadesi olduğu için iki nokta kullanılması gerekmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499019123_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Genç şairin şiirlerinde üç temel duygu öne çıkıyordu (I) umut, hüzün ve yalnızlık (II) romanlarında ise bambaşka bir dünya vardı (III) macera ve keşif arzusu (IV)",
-    "options": [
-      "(:) (,) (:) (.)",
-      "(:) (;) (:) (.)",
-      "(;) (,) (,) (...)",
-      "(:) (;) (,) (...)",
-      "(...) (,) (:) (.)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu cümlede parantezlerle belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şunlardır: (I) Kendisinden sonra örnek verilecek veya açıklama yapılacak cümlenin sonuna iki nokta (:) konur. Burada 'üç temel duygu' açıklanmaktadır. (II) Cümle içinde virgüllerle ayrılmış tür veya takımları birbirinden ayırmak için noktalı virgül (;) kullanılır. İlk cümle ('Genç şairin... yalnızlık') içinde virgül kullanılarak bir liste verilmiştir. Bu cümlenin, yine anlamca bağlantılı olan ikinci cümleye ('romanlarında ise...') bağlanması için noktalı virgül gereklidir. (III) Yine kendisinden sonra örnek verileceği için iki nokta (:) kullanılmalıdır. Burada 'bambaşka bir dünya'nın ne olduğu açıklanmaktadır. (IV) 'Macera ve keşif arzusu' ifadesiyle cümle tamamlandığı için sonuna nokta (.) konulmalıdır. Bu sıralama B şıkkında doğru olarak verilmiştir.",
     "difficulty": 3
   },
   {
@@ -789,18 +48,129 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764525246839_16",
+    "id": "ai_1764525246839_8",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Bu kitabı çok seviyorum, gerçekten.'",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam sinemaya gideceğiz ___ sen de gel.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Bu akşam sinemaya gideceğiz. Sen de gel.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520420819_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
+    "options": [
+      "A. ;",
+      "B. ,",
+      "C. .",
+      "D. :",
+      "E. ?"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522349418_1",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? \"Bu akşam sinemaya gideceğiz ___ sen de bizimle gelmek ister misin?\"",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede bir soru ifadesi olduğu için virgül kullanmak, akışın devamını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522349419_5",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti kullanılmalıdır? \"Biliyor musun ___ sınav sonuçları açıklandı!\"",
+    "options": [
+      ";",
+      ":",
+      ",",
+      "!",
+      "."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede bir heyecan ifadesi olduğu için ünlem işareti kullanılması gerekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_7",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Aşçı, yemekleri hazırladı, servis etti.'",
     "options": [
       ";",
       ",",
       ":",
       "."
     ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_19",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ankara, Türkiye'nin başkenti ___ İstanbul en büyük şehirdir.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
     "correctAnswer": 1,
-    "explanation": "Cümlede 'Bu kitabı çok seviyorum gerçekten.' şeklinde bir virgül gereksizdir; cümle akışını bozar.",
+    "explanation": "Cümlede 'Ankara, Türkiye'nin başkenti: İstanbul en büyük şehirdir.' şeklinde iki bağımsız cümle olduğu için iki nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Kitap, defter, kalem almayı unutma!'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 'kitap, defter, kalem' ifadeleri arasında virgül kullanılması doğrudur ancak cümle sonundaki ünlem işareti doğru yerleştirilmiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_12",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Sana bir şey söylemek istiyorum ___ dinler misin?'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cümlede 'Sana bir şey söylemek istiyorum! Dinler misin?' ifadesinde ünlem işareti gereklidir.",
     "difficulty": 5
   },
   {
@@ -820,6 +190,241 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764500388936_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede ayraçla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\n\"At ölür ( ) meydan kalır ( ) yiğit ölür ( ) şan kalır ( ) derler atalarımız.\"",
+    "options": [
+      "(,) (;) (,) (,)",
+      "(;) (,) (;) (,)",
+      "(,) (,) (,) (;)",
+      "(,) (;) (;) (,)",
+      "(;) (,) (,) (;)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu atasözü, kendi içinde virgül bulunan sıralı cümlelerden oluşmuş iki ayrı grubu barındırır. Birinci grup \"At ölür, meydan kalır\" ve ikinci grup \"yiğit ölür, şan kalır\" şeklindedir. Türk Dil Kurumu'nun kurallarına göre, ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için noktalı virgül (;) kullanılır. Bu nedenle \"meydan kalır\" ifadesinden sonra noktalı virgül getirilmelidir. Grupların kendi içindeki sıralı cümleleri ayırmak için ise virgül (,) kullanılır. Cümlenin sonundaki virgül ise, alıntı cümlenin bitip ana cümlenin yükleminin (\"derler\") başladığını belirtmek için konulmuştur. Bu durumda doğru sıralama virgül, noktalı virgül, virgül, virgül şeklinde olmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522349419_12",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Bir gün, seninle tatile çıkmak istiyorum ___ nereye gideceğimizi düşünelim.\"",
+    "options": [
+      "!",
+      ".",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede bir öneri veya plan ifadesi olduğu için iki nokta kullanılması gerekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_6",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Yarın toplantı var ___ lütfen zamanında gel.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede 'Yarın toplantı var; lütfen zamanında gel.' şeklinde bağlaç kullanılması gerektiği için nokta yerine noktalı virgül eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_4",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Ahmet, evet, seninle gelmek istiyorum.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 'Ahmet, seninle gelmek istiyorum.' şeklinde virgül gereksizdir; bağlamı bozar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_26",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Bugün sinemaya gideceğiz değil mi?'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede ';' kullanılması gereksizdir; '?' işareti yeterlidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_17",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Yemeğin sıcak olması gerek ___ soğuk olursa yenmez.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede 'Yemeğin sıcak olması gerek; soğuk olursa yenmez.' şeklinde noktalı virgül kullanılması gerekmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bugün hava çok güzel ___ parka gitmek istiyorum.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede 'Bugün hava çok güzel, parka gitmek istiyorum.' şeklinde bir bağlaç kullanılması gerektiği için virgül eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522349419_9",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"İstanbul, Türkiye'nin en kalabalık şehri ___ tarihi ve kültürel zenginlikleriyle ünlüdür.\"",
+    "options": [
+      "!",
+      ".",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede bir açıklama yapıldığı için iki nokta kullanılması gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_14",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Çocuklar, bahçede oynuyor.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_11",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Dışarıda yağmur yağıyor, şemsiyeni almayı unutma.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_15",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Öğrenciler sınavdan başarılı oldular ___ öğretmenleri mutlu oldu.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Öğrenciler sınavdan başarılı oldular. Öğretmenleri mutlu oldu.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_22",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Ali, Ahmet, ve Mehmet sinemaya gitti.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_10",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Deniz, güneş, kum ___ tatil çok güzeldi.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Deniz, güneş, kum; tatil çok güzeldi.' şeklinde noktalı virgül kullanılması gerekmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522349419_7",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Ahmet, Elif ve Ayşe sinemaya gitmek istiyorlar ___ sen de gelmek ister misin?\"",
+    "options": [
+      ".",
+      "!",
+      ",",
+      "?",
+      ";"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede bir soru var, bu nedenle soru işareti kullanılması gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_5",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu kitabı ben yazdım ___ sen de okuyabilirsin.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Bu kitabı ben yazdım. Sen de okuyabilirsin.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764525246839_18",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -833,6 +438,180 @@
     "correctAnswer": 0,
     "explanation": "Cümlede ';' kullanılması gereksizdir; virgül doğru bir bağlaçtır.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_25",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ödevini yapmayı unutma ___ öğretmen çok kızacak.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Ödevini yapmayı unutma. Öğretmen çok kızacak.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519453790_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam sinemaya gideceğiz ___ çok güzel bir film var.'",
+    "options": [
+      "A) ;",
+      "B) :",
+      "C) ,",
+      "D) .",
+      "E) ?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede iki bağımsız cümle arasında bir ilişki kurmak için iki nokta üst üste (:) kullanılmalıdır. Bu şekilde ilk cümlenin nedenini belirten ikinci cümle vurgulanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526258167_1",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir?",
+    "options": [
+      "Dün, yağmur yağdı ve hava soğudu",
+      "Kedim çok sevimli, değil mi?",
+      "Sınıfta çok gürültü vardı, öğretmen sinirlendi",
+      "Ali'nin kitabı masanın üzerinde, Ahmet'in ise yerdeydi",
+      "Bugün okulda; çok eğlenceliydi."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dördüncü cümlede noktalama işareti olarak virgül kullanılmalıdır. 'Ali'nin kitabı masanın üzerinde' ifadesi ile 'Ahmet'in ise yerdeydi' ifadesi arasında bağlayıcı bir noktalama gerekir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525246839_21",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Sana bir şey anlatacağım ___ çok önemli.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Sana bir şey anlatacağım. Çok önemli.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500388936_1",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
+    "options": [
+      "Desem ki vakitlerden bir nisan akşamıdır; rüzgârların en ferahlatıcısı senden esiyor...",
+      "Bu karar, Meclisin 17'nci birleşiminin 2'nci oturumunda oy birliğiyle alındı.",
+      "Ankara'ya -doğup büyüdüğüm o güzel şehre- yıllar sonra tekrar dönmüştüm.",
+      "Eve geldi mi, hemen televizyonu açar, saatlerce kanallar arasında gezinirdi.",
+      "Bu projeyi ya yarın bitireceğiz, ya da sunuma yetiştiremeyeceğiz."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Türkçede tekrarlı bağlaçlardan (hem... hem..., ne... ne..., ya... ya...) önce veya sonra virgül kullanılmaz. E şıkkındaki cümlede \"ya... ya da...\" tekrarlı bağlacı kullanılmıştır ve bu bağlaçların arasına virgül konulması bir noktalama hatasıdır. Cümlenin doğru yazımı \"Bu projeyi ya yarın bitireceğiz ya da sunuma yetiştiremeyeceğiz.\" şeklinde olmalıdır. Diğer şıklardaki noktalama işaretlerinin kullanımları doğrudur: A'da sıralı cümleleri ayırmak için noktalı virgül ve bitmemiş cümle sonunda üç nokta; B'de sıra bildiren sayılardan sonra nokta; C'de ara sözü belirtmek için kısa çizgi; D'de zarf-fiil eki yerine kullanılan \"mi\" edatından sonra virgül doğru kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519453791_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? 'Ahmet çok çalıştı ___ bu sınavı geçecektir.'",
+    "options": [
+      "A) ,",
+      "B) .",
+      "C) ;",
+      "D) :",
+      "E) ?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede neden-sonuç ilişkisi kurmak için virgül (,) kullanılmalıdır. Ahmet'in çok çalışması, sınavı geçmesinin sebebidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_1",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlıştır? 'Ali, okula gitmedi çünkü yağmur yağıyordu.'",
+    "options": [
+      "?",
+      "!",
+      ",",
+      "."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede '?' işareti kullanılmaz; 'Yağmur yağıyordu.' ifadesi bir soru cümlesi değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522349418_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti kullanılmalıdır? \"Ali, çok çalışkan bir öğrenci ___ derslerinde hep başarılı olur.\"",
+    "options": [
+      ".",
+      ",",
+      ":",
+      ";",
+      "!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümle tamamlandığı için nokta kullanılması gerekir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_9",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Kütüphanede, sessiz olmalısın.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 'Kütüphanede sessiz olmalısın.' şeklinde bir virgül gereksizdir; anlamı bozmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499019123_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Genç şairin şiirlerinde üç temel duygu öne çıkıyordu (I) umut, hüzün ve yalnızlık (II) romanlarında ise bambaşka bir dünya vardı (III) macera ve keşif arzusu (IV)",
+    "options": [
+      "(:) (,) (:) (.)",
+      "(:) (;) (:) (.)",
+      "(;) (,) (,) (...)",
+      "(:) (;) (,) (...)",
+      "(...) (,) (:) (.)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu cümlede parantezlerle belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şunlardır: (I) Kendisinden sonra örnek verilecek veya açıklama yapılacak cümlenin sonuna iki nokta (:) konur. Burada 'üç temel duygu' açıklanmaktadır. (II) Cümle içinde virgüllerle ayrılmış tür veya takımları birbirinden ayırmak için noktalı virgül (;) kullanılır. İlk cümle ('Genç şairin... yalnızlık') içinde virgül kullanılarak bir liste verilmiştir. Bu cümlenin, yine anlamca bağlantılı olan ikinci cümleye ('romanlarında ise...') bağlanması için noktalı virgül gereklidir. (III) Yine kendisinden sonra örnek verileceği için iki nokta (:) kullanılmalıdır. Burada 'bambaşka bir dünya'nın ne olduğu açıklanmaktadır. (IV) 'Macera ve keşif arzusu' ifadesiyle cümle tamamlandığı için sonuna nokta (.) konulmalıdır. Bu sıralama B şıkkında doğru olarak verilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522349418_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Ahmet, bu kitabı çok beğendi ___ yeni bir kitap daha aldı.\"",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?",
+      ";"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümle bir tamamlanmamış düşünceyi ifade ediyor ve sonuna bir noktalamaya ihtiyaç duyuyor.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764522349418_4",
@@ -851,6 +630,54 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764522349419_14",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Yarın, pikniğe gideceğiz ___ hava güzel olursa.\"",
+    "options": [
+      "!",
+      ".",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede bir tamamlanmamış düşünce var ve cümle bitmediği için nokta kullanılmamalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_13",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu yaz çok seyahat ettim ___ yeni yerler keşfettim.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Bu yaz çok seyahat ettim. Yeni yerler keşfettim.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_3",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Öğrenciler sınavdan başarılı oldular ___ öğretmenleri çok mutlu oldu.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Öğrenciler sınavdan başarılı oldular. Öğretmenleri çok mutlu oldu.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764526258167_0",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -867,20 +694,193 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526258167_1",
+    "id": "ai_1764522349418_3",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir?",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Elmayı, armutu, muzları çok seviyorum ___ özellikle de yazın.\"",
     "options": [
-      "Dün, yağmur yağdı ve hava soğudu",
-      "Kedim çok sevimli, değil mi?",
-      "Sınıfta çok gürültü vardı, öğretmen sinirlendi",
-      "Ali'nin kitabı masanın üzerinde, Ahmet'in ise yerdeydi",
-      "Bugün okulda; çok eğlenceliydi."
+      ";",
+      ",",
+      ":",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Listeleme yapıldığı için virgül kullanılması gerekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_16",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Bu kitabı çok seviyorum, gerçekten.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 'Bu kitabı çok seviyorum gerçekten.' şeklinde bir virgül gereksizdir; cümle akışını bozar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522349419_8",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti uygun değildir? \"Bugün hava çok sıcak ___ dışarı çıkmayı düşünmüyorum!\"",
+    "options": [
+      "!",
+      ".",
+      "?",
+      ",",
+      ";"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede bir heyecan ifadesi olduğu için ünlem işareti kullanılmalıdır, nokta uygun değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522349419_13",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Öğrenciler, sınavdan yüksek not almak için çok çalıştılar ___ bu yüzden başarılı oldular.\"",
+    "options": [
+      "!",
+      ".",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümle tamamlandığı için nokta kullanılmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519453790_1",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümledeki noktalama işareti hatası hangisidir? 'Ali, kitabını masaya koydu ve, hemen dışarı çıktı.'",
+    "options": [
+      "A) '",
+      "B) ,",
+      "C) .",
+      "D) ve",
+      "E) masaya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 've' bağlacından sonra virgül gereksiz bir kullanım oluşturur. Doğru kullanımda virgül kullanılmamalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_27",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu yaz çok seyahat ettim ___ yeni yerler keşfettim.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
     ],
     "correctAnswer": 3,
-    "explanation": "Dördüncü cümlede noktalama işareti olarak virgül kullanılmalıdır. 'Ali'nin kitabı masanın üzerinde' ifadesi ile 'Ahmet'in ise yerdeydi' ifadesi arasında bağlayıcı bir noktalama gerekir.",
-    "difficulty": 4
+    "explanation": "Cümlede 'Bu yaz çok seyahat ettim. Yeni yerler keşfettim.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522349419_6",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Kedim çok sevimli ___ onunla oynamayı seviyorum.\"",
+    "options": [
+      "!",
+      ".",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümle tamamlandığı için nokta kullanılması gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522349419_10",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? \"Bütün gün çalıştım ___ şimdi çok yoruldum.\"",
+    "options": [
+      ".",
+      "!",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümle tamamlandığı için nokta kullanılmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501665344_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede ayraçlarla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\nO konuşmasında edebiyatın iki ana damarından bahsetti ( ) roman ve şiir. Sevdiği romancılar şunlardı ( ) Tolstoy, Dostoyevski, Stendhal ( ) vazgeçemediği şairler ise Rilke, Baudelaire ve Pessoa'ydı ( )",
+    "options": [
+      "( : ) ( , ) ( , ) ( . )",
+      "( ; ) ( : ) ( , ) ( ... )",
+      "( : ) ( : ) ( ; ) ( . )",
+      "( . ) ( ; ) ( : ) ( . )",
+      "( : ) ( : ) ( , ) ( . )"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede ayraçlarla belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şöyledir:\n1. İlk ayraç: Cümlede \"iki ana damar\" ifadesinden sonra bir açıklama yapılacağı için kendisinden sonra açıklama yapılacak cümlenin sonuna iki nokta (:) konur.\n2. İkinci ayraç: \"şunlardı\" ifadesi, kendisinden sonra bir liste veya örnekleme yapılacağını belirtir. Bu nedenle iki nokta (:) kullanılmalıdır.\n3. Üçüncü ayraç: Cümle, kendi içinde virgüllerle ayrılmış farklı grupları (romancılar ve şairler) sıralamaktadır. Bu tür durumlarda, anlam karışıklığını önlemek ve grupları birbirinden ayırmak için noktalı virgül (;) kullanılır. \"Tolstoy, Dostoyevski, Stendhal\" bir grup, \"Rilke, Baudelaire ve Pessoa\" ise diğer gruptur. Bu iki farklı öğe grubunu barındıran cümleler noktalı virgülle ayrılır.\n4. Dördüncü ayraç: Cümlenin sonuna, yargı tamamlandığı için nokta (.) konulmalıdır.\nBu kurallara göre doğru sıralama \":, :, ;, .\" şeklinde olmalıdır. Dolayısıyla doğru cevap C seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525246839_20",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Sınıf çok kalabalık, çok gürültülü.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 'Sınıf çok kalabalık çok gürültülü.' şeklinde bir virgül gereksizdir; cümle akışını bozar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_24",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereksizdir? 'Hava çok sıcak, dışarı çıkmak istemiyorum.'",
+    "options": [
+      ";",
+      ",",
+      ":",
+      "."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 'Hava çok sıcak dışarı çıkmak istemiyorum.' şeklinde bir virgül gereksizdir; cümle akışını bozar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525246839_23",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam bir film izlemek istiyorum ___ sen de gel.'",
+    "options": [
+      ";",
+      ":",
+      ",",
+      ".",
+      "!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede 'Bu akşam bir film izlemek istiyorum. Sen de gel.' şeklinde iki bağımsız cümle olduğu için nokta eksiktir.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764526258167_2",
