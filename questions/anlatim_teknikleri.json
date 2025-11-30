@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501540019_0",
+    "id": "ai_1764519413805_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Karlı bir kış sabahıydı. Pencereden dışarı baktığımda her yerin bembeyaz bir örtüyle kaplandığını gördüm. Ağaçların dalları karın ağırlığıyla eğilmiş, sanki yorgun savaşçılar gibi duruyorlardı. Uzaklardaki dağların zirveleri, pamuktan bir yorganla örtülmüş gibiydi. Soğuk hava, camda buğu yapmıştı. Sonra sıcak kahvemden bir yudum aldım ve günü planlamaya başladım. \n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın, durumun veya kişinin yalnızca olumlu yönlerini öne çıkararak anlatılmasını ifade eder?",
     "options": [
-      "Öyküleme",
-      "Tartışma",
       "Betimleme",
-      "Açıklama",
-      "Tanık Gösterme"
+      "Soyutlama",
+      "Yüceltme",
+      "Öyküleme",
+      "İroni"
     ],
     "correctAnswer": 2,
-    "explanation": "Parçada yazar, bir kış sabahı gördüğü manzarayı okuyucunun zihninde canlandırmayı amaçlamaktadır. 'Bembeyaz örtü', 'yorgun savaşçılar gibi duran ağaçlar', 'pamuktan yorgan gibi dağlar' gibi ifadelerle varlıkların ve ortamın nitelikleri, görsel özellikleriyle aktarılmıştır. Metinde 'baktım', 'aldım', 'başladım' gibi eylemler bulunsa da bunlar, asıl amaç olan manzarayı tasvir etmeye hizmet eden yan unsurlardır. Anlatımın temel amacı bir olayı anlatmak (öyküleme) değil, bir durumu veya manzarayı kelimelerle resmetmektir (betimleme). Bu nedenle ağır basan anlatım tekniği betimlemedir.",
+    "explanation": "Yüceltme, bir olayın ya da durumun olumlu yönlerini abartarak ya da sadece bu yönleri vurgulayarak anlatma tekniğidir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501540020_1",
+    "id": "ai_1764519413805_1",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Okyanuslar, Dünya yüzeyinin yaklaşık %71'ini kaplar ve gezegenimizdeki yaşamın temelini oluşturur. Ortalama derinliği 3.700 metre olan bu devasa su kütleleri, bilinen yaşam formlarının %80'ine ev sahipliği yapar. Buna karşılık, insanlığın detaylı olarak haritalandırdığı okyanus tabanı oranı ise sadece %20 civarındadır. Bu durum, uzayın derinlikleri hakkında okyanusların dibinden daha fazla bilgiye sahip olduğumuzu göstermesi açısından oldukça düşündürücüdür. Mars'ın yüzeyi bile okyanus tabanından daha iyi bilinmektedir.\n\nBu parçanın anlatımında aşağıdaki düşünceyi geliştirme yollarından hangilerine başvurulmuştur?",
+    "questionText": "Aşağıdakilerden hangisi bir metinde okuyucuya bir durumu algılatmak için kullanılan, mecaz anlam içeren ifadeleri tanımlar?",
     "options": [
-      "Tanımlama - Örnekleme",
-      "Benzetme - Tanık Gösterme",
-      "Betimleme - Öyküleme",
-      "Açıklama - Tartışma",
-      "Sayısal Verilerden Yararlanma - Karşılaştırma"
+      "Açıklama",
+      "Tanımlama",
+      "Betimleme",
+      "İmaj",
+      "Sembolizm"
     ],
     "correctAnswer": 4,
-    "explanation": "Parçada okyanuslar hakkında bilgi verilirken istatistiksel veriler kullanılmıştır. '%71', '3.700 metre', '%80', '%20' gibi ifadeler 'sayısal verilerden yararlanma' yönteminin kullanıldığını gösterir. Ayrıca, okyanus tabanı hakkındaki bilgimiz ile uzay ve Mars hakkındaki bilgimiz arasında bir kıyaslama yapılmıştır ('...okyanusların dibinden daha fazla bilgiye sahip olduğumuz...', 'Mars'ın yüzeyi bile ... daha iyi bilinmektedir'). Bu da 'karşılaştırma' yöntemine başvurulduğunu kanıtlar. Parçanın genel amacı bilgi vermek olduğu için ana anlatım biçimi 'açıklama'dır ve bu anlatım biçimi 'sayısal verilerden yararlanma' ve 'karşılaştırma' yollarıyla desteklenmiştir. Seçenekler arasında bu iki yöntemi bir arada sunan E şıkkı doğru cevaptır.",
+    "explanation": "Sembolizm, bir durumu ya da duyguyu ifade etmek için mecaz anlam taşıyan sembollerin kullanılmasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519413805_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Hangi anlatım tekniği, bir konuyu daha anlaşılır hale getirmek için örnekler ve benzetmeler kullanarak açıklama yapmayı ifade eder?",
+    "options": [
+      "Öyküleme",
+      "Açıklama",
+      "Betimleme",
+      "Yorumlama",
+      "İroni"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Açıklama, bir konuyu detaylandırmak için örnekler ve benzetmeler kullanarak daha anlaşılır hale getirme tekniğidir.",
     "difficulty": 3
   }
 ]
