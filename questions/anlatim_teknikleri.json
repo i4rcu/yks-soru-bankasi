@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520377792_0",
+    "id": "ai_1764521052829_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın neden-sonuç ilişkisini açıklamak amacıyla kullanılır?",
+    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
     "options": [
-      "Tanımlama",
-      "Örnekleme",
-      "Karşılaştırma",
-      "Açıklama",
-      "Betimleme"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Açıklama, bir olayın neden-sonuç ilişkisini net bir şekilde ortaya koymak için kullanılan anlatım tekniğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520377795_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Yazarın bir nesneyi, olayı ya da durumu tüm ayrıntılarıyla, okuyucunun zihninde canlandıracak şekilde anlatmasına ne denir?",
-    "options": [
+      "Öyküleme",
       "Betimleme",
-      "Tanımlama",
-      "Örnekleme",
-      "İkna etme",
-      "Eleştiri"
+      "Açıklama",
+      "Eleştiri",
+      "Tanımlama"
     ],
-    "correctAnswer": 0,
-    "explanation": "Betimleme, bir nesne veya durumu ayrıntılı bir şekilde tasvir ederek okuyucunun zihninde canlandırmayı amaçlar.",
+    "correctAnswer": 3,
+    "explanation": "Eleştiri, bir anlatım tekniği olarak kabul edilmez; daha çok bir değerlendirme veya yorumlama biçimidir. Diğer şıklar ise anlatım tekniklerindendir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520377795_2",
+    "id": "ai_1764521052829_1",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi örnekleme anlatım tekniğinin bir örneğidir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi betimleme tekniği ile yazılmıştır?",
     "options": [
-      "Kediler genelde evcil hayvanlardır.",
-      "Bütün öğrenciler derse zamanında gelmelidir.",
-      "İstanbul, Türkiye'nin en büyük şehridir.",
-      "Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.",
-      "Yaz mevsiminde hava sıcak olur."
+      "Gözlerim doldu, onu her düşündüğümde bir şeyler eksik kalıyor.",
+      "Elindeki kalemle sayfanın köşelerini karaladı.",
+      "Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.",
+      "Onunla konuşmak her zaman keyif veriyor.",
+      "Yürürken etraftaki sesleri duymuyordu."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Betimleme, bir nesne, olay veya durumu ayrıntılı bir şekilde anlatma amacı güder. 'Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.' cümlesi bu tanıma uymaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521052829_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi açıklayıcı anlatımın bir örneğidir?",
+    "options": [
+      "Yüzümdeki gülümseme, içimdeki mutluluğun bir yansıması.",
+      "O, her zaman en doğru kararı veren kişiydi.",
+      "Bir ağaç, kökleriyle toprağa sıkı sıkı bağlıdır.",
+      "Bu roman, insan ilişkilerini derinlemesine ele alıyor.",
+      "Zaman, durmaksızın akmaktadır."
     ],
     "correctAnswer": 3,
-    "explanation": "Örnekleme, bir durumu veya olayı desteklemek için spesifik örnekler vermek anlamına gelir. 'Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.' cümlesi bu tekniği kullanmaktadır.",
+    "explanation": "Açıklayıcı anlatım, bir olayı, durumu veya kavramı açıklamak için kullanılır. 'Bir ağaç, kökleriyle toprağa sıkı sıkı bağlıdır.' cümlesi, ağaçların yapısını açıklamaktadır.",
     "difficulty": 3
   }
 ]
