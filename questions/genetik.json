@@ -1,146 +1,18 @@
 [
   {
-    "id": "ai_1764498742130_1",
+    "id": "ai_1764521061445_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba (XʳY) ile taşıyıcı bir annenin (XᴿXʳ) doğacak çocukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "DNA'daki adenine (A) bazının karşısındaki baz hangisidir?",
     "options": [
-      "Erkek çocuklarının yarısı renk körü olur.",
-      "Kız çocuklarının yarısı taşıyıcı olur.",
-      "Renk körü kız çocuklarının doğma ihtimali vardır.",
-      "Sağlam fenotipli kız çocukları doğamaz.",
-      "Kız çocuklarının yarısı renk körü olur."
+      "Timin (T)",
+      "Sitozin (C)",
+      "Guanin (G)",
+      "Urasil (U)",
+      "Adenin (A)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Çaprazlama (XʳY x XᴿXʳ) yapıldığında oluşabilecek genotipler şunlardır: XᴿXʳ (taşıyıcı kız), XʳXʳ (renk körü kız), XᴿY (sağlam erkek) ve XʳY (renk körü erkek). Her bir genotipin oluşma olasılığı 1/4'tür. \n- A) Erkek çocukların (XᴿY, XʳY) yarısı renk körüdür. Doğru.\n- B) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı taşıyıcıdır. Doğru.\n- C) Renk körü kız çocuğu (XʳXʳ) doğma ihtimali 1/4'tür. Doğru.\n- D) Sağlam fenotipli (renkleri normal gören) kız çocuğu doğabilir. Bu çocuk XᴿXʳ genotipinde olup taşıyıcıdır, ancak baskın alel (R) nedeniyle fenotipi sağlıklıdır. Bu nedenle bu ifade yanlıştır.\n- E) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı renk körü (XʳXʳ) olur. Doğru.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498742130_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler farklı kromozomlar üzerinde bulunmaktadır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, yeşil ve düzgün tohumlu bir bezelyenin oluşma olasılığı nedir?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "1/4",
-      "3/8"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız dağıldığı için her bir özellik için olasılıklar ayrı ayrı hesaplanıp çarpılır. \n1. Tohum rengi için çaprazlama: Ss x Ss -> 1/4 SS, 2/4 Ss, 1/4 ss. Yeşil tohumlu (ss) olma olasılığı 1/4'tür. \n2. Tohum şekli için çaprazlama: Dd x Dd -> 1/4 DD, 2/4 Dd, 1/4 dd. Düzgün tohumlu (DD veya Dd) olma olasılığı (1/4 + 2/4) = 3/4'tür. \n3. Yeşil ve düzgün tohumlu (ssD_) bir bezelyenin oluşma olasılığı, bu iki bağımsız olayın olasılıklarının çarpımına eşittir: P(ss) * P(D_) = (1/4) * (3/4) = 3/16.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501416919_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s); düzgün tohum şekli aleli (D) ise buruşuk tohum şekli aleline (d) baskındır. Genleri bağımsız olan ve her iki karakter bakımından da heterozigot olan iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, fenotipinde sarı renkli ve buruşuk tohumlu bir bezelyenin oluşma olasılığı nedir?",
-    "options": [
-      "1/16",
-      "9/16",
-      "3/16",
-      "1/4",
-      "3/4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız olduğu için her bir karakterin kalıtımı ayrı ayrı incelenmelidir. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Sarı (S_) ve 1/4 Yeşil (ss)'dir.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Düzgün (D_) ve 1/4 Buruşuk (dd)'tur.\nSoruda istenen 'sarı renkli' VE 'buruşuk tohumlu' fenotiptir. Bağımsız olayların birlikte gerçekleşme olasılığı, bu olayların ayrı ayrı gerçekleşme olasılıklarının çarpımı ile bulunur (Çarpma Kuralı).\nOlasılık = P(Sarı) x P(Buruşuk) = (3/4) x (1/4) = 3/16. Bu nedenle doğru cevap 3/16'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501416919_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba ile bu özellik bakımından taşıyıcı (heterozigot) bir annenin, renk körü bir kız çocuğuna sahip olma olasılığı kaçtır?",
-    "options": [
-      "1/8",
-      "1/4",
-      "1/2",
-      "3/4",
-      "0"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Babanın genotipi X^rY, annenin genotipi ise X^RX^r'dir. Bu ebeveynlerin çocuklarının olası genotiplerini bulmak için Punnett karesi kullanılır:\n- X^R X^r: Taşıyıcı kız çocuğu\n- X^r X^r: Renk körü kız çocuğu\n- X^R Y: Sağlam erkek çocuğu\n- X^r Y: Renk körü erkek çocuğu\nToplamda dört olası ve eşit ihtimalli genotip vardır. Bu olasılıklar arasında 'renk körü bir kız çocuğu'nun (X^rX^r) ortaya çıkma olasılığı 1/4'tür. Bu oran %25'e karşılık gelir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500111662_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Kan grubu A olan bir anne ile kan grubu B olan bir babanın ilk çocukları 0 kan grubuna sahip olarak dünyaya gelmiştir. Bu ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
-    "options": [
-      "0",
-      "1/8",
-      "1/4",
-      "1/2",
-      "3/4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çocuğun 0 kan grubuna (genotipi 00) sahip olması, hem anneden hem de babadan 0 alelini aldığını gösterir. Annenin fenotipi A olduğuna göre genotipi A0'dır. Babanın fenotipi B olduğuna göre genotipi B0'dır. Bu iki ebeveynin (A0 x B0) çaprazlanması sonucunda oluşabilecek genotipler ve olasılıkları şöyledir:\n- AB (AB kan grubu): 1/4 olasılık\n- A0 (A kan grubu): 1/4 olasılık\n- B0 (B kan grubu): 1/4 olasılık\n- 00 (0 kan grubu): 1/4 olasılık\nBu nedenle, ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı 1/4'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500111662_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Kırmızı-yeşil renk körlüğü, X kromozomuna bağlı çekinik bir genle kalıtılır. Taşıyıcı bir anne ile sağlam bir babanın çocukları ile ilgili aşağıdakilerden hangisi söylenemez?",
-    "options": [
-      "Kız çocuklarının renk körü olma olasılığı yoktur.",
-      "Erkek çocuklarının yarısı renk körü olur.",
-      "Doğacak çocuğun renk körü olma olasılığı 1/4'tür.",
-      "Kız çocuklarının tamamı sağlam fenotiplidir.",
-      "Baba, kız çocuklarına renk körlüğü alelini aktarır."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu çaprazlamada anne taşıyıcı (X^R X^r) ve baba sağlamdır (X^R Y). Çaprazlama sonucunda oluşabilecek genotipler: X^R X^R (sağlam kız), X^R X^r (taşıyıcı kız), X^R Y (sağlam erkek), X^r Y (renk körü erkek).\nA) Kız çocukları babalarından daima X^R alelini alacağı için renk körü (X^r X^r) olamazlar. Doğrudur.\nB) Erkek çocukları annelerinden 1/2 olasılıkla X^r alelini alacağı için yarısı renk körü olur. Doğrudur.\nC) Dört olası genotipten sadece biri (X^r Y) renk körü fenotipini gösterir. Olasılık 1/4'tür. Doğrudur.\nD) Kız çocukları X^R X^R veya X^R X^r genotipinde olabilir. Her iki durumda da baskın X^R aleli bulunduğundan fenotipleri sağlam olur. Doğrudur.\nE) Baba sağlam (X^R Y) olduğu için renk körlüğü alelini (X^r) taşımaz. Dolayısıyla kız çocuklarına bu aleli aktaramaz. Bu ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498742130_3",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik materyalde meydana gelen değişimlere mutasyon denir. Aşağıdakilerden hangisi bir kromozomun yapısında meydana gelen bir mutasyon (yapısal kromozomal anomali) örneğidir?",
-    "options": [
-      "Orak hücreli anemiye neden olan, hemoglobin genindeki bir nükleotidin değişmesi.",
-      "Bir genin kodladığı proteinin erken sonlanmasına neden olan bir kodonun, durdurma kodonuna dönüşmesi.",
-      "Kromozomun bir parçasının kopup 180 derece ters dönerek aynı yere tekrar bağlanması (inversiyon).",
-      "DNA replikasyonu sırasında bir nükleotidin yanlış eşlenmesi.",
-      "Down sendromuna neden olan 21. kromozomdan üç tane bulunması (trizomi)."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Mutasyonlar gen düzeyinde veya kromozom düzeyinde olabilir. Kromozom mutasyonları da yapısal veya sayısal olarak ikiye ayrılır. Soru, kromozomun yapısındaki bir değişimi sormaktadır.\n- A, B ve D seçenekleri, DNA dizisindeki tek veya birkaç nükleotidi etkileyen gen mutasyonlarıdır.\n- E seçeneği (Down sendromu), bir kromozomun sayısının değişmesiyle ortaya çıkan sayısal bir kromozom anomalisidir, yapısal değildir.\n- C seçeneğindeki inversiyon ise, bir kromozom parçasının kopup ters dönerek tekrar aynı yere yapışmasıdır. Bu durum kromozomun gen dizilimini, yani yapısını değiştiren bir mutasyon olduğundan doğru cevaptır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521061445_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki kavramlardan hangisi genetik bilginin bireyler arasında aktarımını tanımlar?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Mendel Genetik Kuralları",
-      "Kalıtım",
-      "Hibridizasyon"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kalıtım, genetik bilginin bireyler arasında aktarımını tanımlayan bir süreçtir. Bu süreç, genlerin nesilden nesile geçişini sağlar ve bireylerin özelliklerini belirler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519363571_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hücre bölünmesi sırasında homolog kromozomların birbirine yaklaşarak genetik materyal alışverişinde bulunduğu olay hangisidir?",
-    "options": [
-      "Meiosis",
-      "Mitoz",
-      "Krossing over",
-      "Transkripsiyon",
-      "Translasyon"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Krossing over, homolog kromozomlar arasında genetik materyal değişimi gerçekleştiği bir süreçtir. Bu olay, özellikle mayoz bölünme sırasında görülür ve genetik çeşitliliği artırır.",
+    "correctAnswer": 0,
+    "explanation": "DNA molekülünde adenine (A) bazının karşısında her zaman timin (T) bulunur. Bu baz eşleşmesi, DNA'nın yapısal bütünlüğünü korur ve genetik bilginin doğru bir şekilde kopyalanmasını sağlar.",
     "difficulty": 3
   },
   {
@@ -160,19 +32,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520322576_0",
+    "id": "ai_1764501416919_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "DNA'nın yapısında bulunan temel birim nedir?",
+    "questionText": "İnsanlarda görülen bazı genetik hastalıklar, mayoz bölünme sırasında meydana gelen ayrılmama olayları sonucu ortaya çıkan kromozom sayısı anormalliklerinden kaynaklanır.\n I. Down Sendromu - 45 + XX\n II. Turner Sendromu - 44 + X\n III. Klinefelter Sendromu - 44 + XXY\nYukarıda verilen sendromlar ve bu sendromlara sahip bireylerin kromozom formülleri eşleştirmelerinden hangileri doğrudur?",
     "options": [
-      "Amino asit",
-      "Nükleotid",
-      "Karbonhidrat",
-      "Lipid",
-      "Protein"
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
     ],
-    "correctAnswer": 1,
-    "explanation": "DNA, nükleotid adı verilen temel birimlerden oluşur. Her nükleotid, bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
+    "correctAnswer": 4,
+    "explanation": "Verilen kromozom formülleri 'otozom sayısı + gonozomlar' şeklinde ifade edilmiştir. Sağlıklı bir insanda 44 otozom + XX (dişi) veya 44 otozom + XY (erkek) kromozomu bulunur.\nI. Down Sendromu (Trizomi 21): Otozomal bir kromozom olan 21. kromozomdan üç tane bulunmasıdır. Yani normaldeki 44 otozoma bir tane eklenir. Dişi bir birey için formül 45 otozom + XX gonozom şeklinde yazılabilir ve bu toplam 47 kromozom anlamına gelir. Bu ifade doğrudur.\nII. Turner Sendromu: Gonozomlardan birinin eksik olması durumudur (45, X0). Birey 44 otozom ve tek bir X gonozomu taşır. Formülü 44 + X şeklindedir. Bu ifade doğrudur.\nIII. Klinefelter Sendromu: Erkek bireyde fazladan bir X gonozomu bulunması durumudur (47, XXY). Birey 44 otozom ve XXY gonozomlarını taşır. Formülü 44 + XXY şeklindedir. Bu ifade de doğrudur.\nBu nedenle her üç eşleştirme de doğrudur.",
     "difficulty": 3
   },
   {
@@ -192,51 +64,67 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764521061445_2",
+    "id": "ai_1764521061445_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "DNA'daki adenine (A) bazının karşısındaki baz hangisidir?",
+    "questionText": "Aşağıdaki kavramlardan hangisi genetik bilginin bireyler arasında aktarımını tanımlar?",
     "options": [
-      "Timin (T)",
-      "Sitozin (C)",
-      "Guanin (G)",
-      "Urasil (U)",
-      "Adenin (A)"
+      "Fenotip",
+      "Genotip",
+      "Mendel Genetik Kuralları",
+      "Kalıtım",
+      "Hibridizasyon"
     ],
-    "correctAnswer": 0,
-    "explanation": "DNA molekülünde adenine (A) bazının karşısında her zaman timin (T) bulunur. Bu baz eşleşmesi, DNA'nın yapısal bütünlüğünü korur ve genetik bilginin doğru bir şekilde kopyalanmasını sağlar.",
+    "correctAnswer": 3,
+    "explanation": "Kalıtım, genetik bilginin bireyler arasında aktarımını tanımlayan bir süreçtir. Bu süreç, genlerin nesilden nesile geçişini sağlar ve bireylerin özelliklerini belirler.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500111662_0",
+    "id": "ai_1764501416919_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler bağımsızdır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, F1 dölünde fenotipi yeşil ve düzgün olan bir bezelyenin oluşma olasılığı nedir?",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s); düzgün tohum şekli aleli (D) ise buruşuk tohum şekli aleline (d) baskındır. Genleri bağımsız olan ve her iki karakter bakımından da heterozigot olan iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, fenotipinde sarı renkli ve buruşuk tohumlu bir bezelyenin oluşma olasılığı nedir?",
     "options": [
       "1/16",
-      "3/16",
       "9/16",
+      "3/16",
       "1/4",
       "3/4"
     ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir dihibrit çaprazlamadır. Her bir karakter için ayrı ayrı olasılık hesaplaması yapılıp sonuçlar çarpılır. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan ss genotipli (yeşil fenotipli) birey oluşma olasılığı 1/4'tür.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan D_ genotipli (Düzgün fenotipli) birey oluşma olasılığı 3/4'tür (DD ve Dd genotipleri bu fenotipi verir).\n3. Genler bağımsız olduğundan, iki olayın birlikte gerçekleşme olasılığı, bu iki olayın ayrı ayrı gerçekleşme olasılıklarının çarpımına eşittir.\n4. Sonuç olarak, yeşil ve düzgün fenotipli bir bezelyenin oluşma olasılığı: (1/4) * (3/4) = 3/16'dır.",
+    "correctAnswer": 2,
+    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız olduğu için her bir karakterin kalıtımı ayrı ayrı incelenmelidir. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Sarı (S_) ve 1/4 Yeşil (ss)'dir.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Düzgün (D_) ve 1/4 Buruşuk (dd)'tur.\nSoruda istenen 'sarı renkli' VE 'buruşuk tohumlu' fenotiptir. Bağımsız olayların birlikte gerçekleşme olasılığı, bu olayların ayrı ayrı gerçekleşme olasılıklarının çarpımı ile bulunur (Çarpma Kuralı).\nOlasılık = P(Sarı) x P(Buruşuk) = (3/4) x (1/4) = 3/16. Bu nedenle doğru cevap 3/16'dır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520322576_2",
+    "id": "ai_1764519363571_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik olaylardan hangisi, genlerin yeni kombinasyonlarının oluşmasına neden olur?",
+    "questionText": "Hücre bölünmesi sırasında homolog kromozomların birbirine yaklaşarak genetik materyal alışverişinde bulunduğu olay hangisidir?",
     "options": [
-      "Mutasyon",
       "Meiosis",
-      "Fertilizasyon",
+      "Mitoz",
+      "Krossing over",
       "Transkripsiyon",
       "Translasyon"
     ],
+    "correctAnswer": 2,
+    "explanation": "Krossing over, homolog kromozomlar arasında genetik materyal değişimi gerçekleştiği bir süreçtir. Bu olay, özellikle mayoz bölünme sırasında görülür ve genetik çeşitliliği artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501416919_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba ile bu özellik bakımından taşıyıcı (heterozigot) bir annenin, renk körü bir kız çocuğuna sahip olma olasılığı kaçtır?",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4",
+      "0"
+    ],
     "correctAnswer": 1,
-    "explanation": "Meiosis, hücre bölünmesi sırasında genetik materyalin yeniden düzenlenmesiyle yeni gen kombinasyonlarının oluşmasına olanak tanır.",
+    "explanation": "Babanın genotipi X^rY, annenin genotipi ise X^RX^r'dir. Bu ebeveynlerin çocuklarının olası genotiplerini bulmak için Punnett karesi kullanılır:\n- X^R X^r: Taşıyıcı kız çocuğu\n- X^r X^r: Renk körü kız çocuğu\n- X^R Y: Sağlam erkek çocuğu\n- X^r Y: Renk körü erkek çocuğu\nToplamda dört olası ve eşit ihtimalli genotip vardır. Bu olasılıklar arasında 'renk körü bir kız çocuğu'nun (X^rX^r) ortaya çıkma olasılığı 1/4'tür. Bu oran %25'e karşılık gelir.",
     "difficulty": 3
   },
   {
@@ -256,6 +144,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764500111662_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler bağımsızdır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, F1 dölünde fenotipi yeşil ve düzgün olan bir bezelyenin oluşma olasılığı nedir?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu bir dihibrit çaprazlamadır. Her bir karakter için ayrı ayrı olasılık hesaplaması yapılıp sonuçlar çarpılır. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan ss genotipli (yeşil fenotipli) birey oluşma olasılığı 1/4'tür.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan D_ genotipli (Düzgün fenotipli) birey oluşma olasılığı 3/4'tür (DD ve Dd genotipleri bu fenotipi verir).\n3. Genler bağımsız olduğundan, iki olayın birlikte gerçekleşme olasılığı, bu iki olayın ayrı ayrı gerçekleşme olasılıklarının çarpımına eşittir.\n4. Sonuç olarak, yeşil ve düzgün fenotipli bir bezelyenin oluşma olasılığı: (1/4) * (3/4) = 3/16'dır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764521061445_0",
     "subjectId": "biy",
     "topic": "Genetik",
@@ -269,6 +173,70 @@
     ],
     "correctAnswer": 2,
     "explanation": "Eşeysel üreme, genetik çeşitliliğin artmasına katkıda bulunan önemli bir mekanizmadır. Bu süreç, genetik materyalin farklı bireylerden bir araya gelmesiyle yeni kombinasyonların oluşmasına olanak tanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498742130_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik materyalde meydana gelen değişimlere mutasyon denir. Aşağıdakilerden hangisi bir kromozomun yapısında meydana gelen bir mutasyon (yapısal kromozomal anomali) örneğidir?",
+    "options": [
+      "Orak hücreli anemiye neden olan, hemoglobin genindeki bir nükleotidin değişmesi.",
+      "Bir genin kodladığı proteinin erken sonlanmasına neden olan bir kodonun, durdurma kodonuna dönüşmesi.",
+      "Kromozomun bir parçasının kopup 180 derece ters dönerek aynı yere tekrar bağlanması (inversiyon).",
+      "DNA replikasyonu sırasında bir nükleotidin yanlış eşlenmesi.",
+      "Down sendromuna neden olan 21. kromozomdan üç tane bulunması (trizomi)."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mutasyonlar gen düzeyinde veya kromozom düzeyinde olabilir. Kromozom mutasyonları da yapısal veya sayısal olarak ikiye ayrılır. Soru, kromozomun yapısındaki bir değişimi sormaktadır.\n- A, B ve D seçenekleri, DNA dizisindeki tek veya birkaç nükleotidi etkileyen gen mutasyonlarıdır.\n- E seçeneği (Down sendromu), bir kromozomun sayısının değişmesiyle ortaya çıkan sayısal bir kromozom anomalisidir, yapısal değildir.\n- C seçeneğindeki inversiyon ise, bir kromozom parçasının kopup ters dönerek tekrar aynı yere yapışmasıdır. Bu durum kromozomun gen dizilimini, yani yapısını değiştiren bir mutasyon olduğundan doğru cevaptır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498742130_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba (XʳY) ile taşıyıcı bir annenin (XᴿXʳ) doğacak çocukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Erkek çocuklarının yarısı renk körü olur.",
+      "Kız çocuklarının yarısı taşıyıcı olur.",
+      "Renk körü kız çocuklarının doğma ihtimali vardır.",
+      "Sağlam fenotipli kız çocukları doğamaz.",
+      "Kız çocuklarının yarısı renk körü olur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Çaprazlama (XʳY x XᴿXʳ) yapıldığında oluşabilecek genotipler şunlardır: XᴿXʳ (taşıyıcı kız), XʳXʳ (renk körü kız), XᴿY (sağlam erkek) ve XʳY (renk körü erkek). Her bir genotipin oluşma olasılığı 1/4'tür. \n- A) Erkek çocukların (XᴿY, XʳY) yarısı renk körüdür. Doğru.\n- B) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı taşıyıcıdır. Doğru.\n- C) Renk körü kız çocuğu (XʳXʳ) doğma ihtimali 1/4'tür. Doğru.\n- D) Sağlam fenotipli (renkleri normal gören) kız çocuğu doğabilir. Bu çocuk XᴿXʳ genotipinde olup taşıyıcıdır, ancak baskın alel (R) nedeniyle fenotipi sağlıklıdır. Bu nedenle bu ifade yanlıştır.\n- E) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı renk körü (XʳXʳ) olur. Doğru.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520322576_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik olaylardan hangisi, genlerin yeni kombinasyonlarının oluşmasına neden olur?",
+    "options": [
+      "Mutasyon",
+      "Meiosis",
+      "Fertilizasyon",
+      "Transkripsiyon",
+      "Translasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meiosis, hücre bölünmesi sırasında genetik materyalin yeniden düzenlenmesiyle yeni gen kombinasyonlarının oluşmasına olanak tanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500111662_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Kan grubu A olan bir anne ile kan grubu B olan bir babanın ilk çocukları 0 kan grubuna sahip olarak dünyaya gelmiştir. Bu ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
+    "options": [
+      "0",
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çocuğun 0 kan grubuna (genotipi 00) sahip olması, hem anneden hem de babadan 0 alelini aldığını gösterir. Annenin fenotipi A olduğuna göre genotipi A0'dır. Babanın fenotipi B olduğuna göre genotipi B0'dır. Bu iki ebeveynin (A0 x B0) çaprazlanması sonucunda oluşabilecek genotipler ve olasılıkları şöyledir:\n- AB (AB kan grubu): 1/4 olasılık\n- A0 (A kan grubu): 1/4 olasılık\n- B0 (B kan grubu): 1/4 olasılık\n- 00 (0 kan grubu): 1/4 olasılık\nBu nedenle, ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı 1/4'tür.",
     "difficulty": 3
   },
   {
@@ -288,19 +256,275 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501416919_2",
+    "id": "ai_1764500111662_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "İnsanlarda görülen bazı genetik hastalıklar, mayoz bölünme sırasında meydana gelen ayrılmama olayları sonucu ortaya çıkan kromozom sayısı anormalliklerinden kaynaklanır.\n I. Down Sendromu - 45 + XX\n II. Turner Sendromu - 44 + X\n III. Klinefelter Sendromu - 44 + XXY\nYukarıda verilen sendromlar ve bu sendromlara sahip bireylerin kromozom formülleri eşleştirmelerinden hangileri doğrudur?",
+    "questionText": "Kırmızı-yeşil renk körlüğü, X kromozomuna bağlı çekinik bir genle kalıtılır. Taşıyıcı bir anne ile sağlam bir babanın çocukları ile ilgili aşağıdakilerden hangisi söylenemez?",
     "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "II ve III",
-      "I, II ve III"
+      "Kız çocuklarının renk körü olma olasılığı yoktur.",
+      "Erkek çocuklarının yarısı renk körü olur.",
+      "Doğacak çocuğun renk körü olma olasılığı 1/4'tür.",
+      "Kız çocuklarının tamamı sağlam fenotiplidir.",
+      "Baba, kız çocuklarına renk körlüğü alelini aktarır."
     ],
     "correctAnswer": 4,
-    "explanation": "Verilen kromozom formülleri 'otozom sayısı + gonozomlar' şeklinde ifade edilmiştir. Sağlıklı bir insanda 44 otozom + XX (dişi) veya 44 otozom + XY (erkek) kromozomu bulunur.\nI. Down Sendromu (Trizomi 21): Otozomal bir kromozom olan 21. kromozomdan üç tane bulunmasıdır. Yani normaldeki 44 otozoma bir tane eklenir. Dişi bir birey için formül 45 otozom + XX gonozom şeklinde yazılabilir ve bu toplam 47 kromozom anlamına gelir. Bu ifade doğrudur.\nII. Turner Sendromu: Gonozomlardan birinin eksik olması durumudur (45, X0). Birey 44 otozom ve tek bir X gonozomu taşır. Formülü 44 + X şeklindedir. Bu ifade doğrudur.\nIII. Klinefelter Sendromu: Erkek bireyde fazladan bir X gonozomu bulunması durumudur (47, XXY). Birey 44 otozom ve XXY gonozomlarını taşır. Formülü 44 + XXY şeklindedir. Bu ifade de doğrudur.\nBu nedenle her üç eşleştirme de doğrudur.",
+    "explanation": "Bu çaprazlamada anne taşıyıcı (X^R X^r) ve baba sağlamdır (X^R Y). Çaprazlama sonucunda oluşabilecek genotipler: X^R X^R (sağlam kız), X^R X^r (taşıyıcı kız), X^R Y (sağlam erkek), X^r Y (renk körü erkek).\nA) Kız çocukları babalarından daima X^R alelini alacağı için renk körü (X^r X^r) olamazlar. Doğrudur.\nB) Erkek çocukları annelerinden 1/2 olasılıkla X^r alelini alacağı için yarısı renk körü olur. Doğrudur.\nC) Dört olası genotipten sadece biri (X^r Y) renk körü fenotipini gösterir. Olasılık 1/4'tür. Doğrudur.\nD) Kız çocukları X^R X^R veya X^R X^r genotipinde olabilir. Her iki durumda da baskın X^R aleli bulunduğundan fenotipleri sağlam olur. Doğrudur.\nE) Baba sağlam (X^R Y) olduğu için renk körlüğü alelini (X^r) taşımaz. Dolayısıyla kız çocuklarına bu aleli aktaramaz. Bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520322576_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın yapısında bulunan temel birim nedir?",
+    "options": [
+      "Amino asit",
+      "Nükleotid",
+      "Karbonhidrat",
+      "Lipid",
+      "Protein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA, nükleotid adı verilen temel birimlerden oluşur. Her nükleotid, bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498742130_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler farklı kromozomlar üzerinde bulunmaktadır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, yeşil ve düzgün tohumlu bir bezelyenin oluşma olasılığı nedir?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4",
+      "3/8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız dağıldığı için her bir özellik için olasılıklar ayrı ayrı hesaplanıp çarpılır. \n1. Tohum rengi için çaprazlama: Ss x Ss -> 1/4 SS, 2/4 Ss, 1/4 ss. Yeşil tohumlu (ss) olma olasılığı 1/4'tür. \n2. Tohum şekli için çaprazlama: Dd x Dd -> 1/4 DD, 2/4 Dd, 1/4 dd. Düzgün tohumlu (DD veya Dd) olma olasılığı (1/4 + 2/4) = 3/4'tür. \n3. Yeşil ve düzgün tohumlu (ssD_) bir bezelyenin oluşma olasılığı, bu iki bağımsız olayın olasılıklarının çarpımına eşittir: P(ss) * P(D_) = (1/4) * (3/4) = 3/16.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetikteki temel birim nedir?",
+    "options": [
+      "Protein",
+      "DNA",
+      "RNA",
+      "Chromozom",
+      "Amino Asit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetikteki temel birim DNA'dır. DNA, genetik bilgiyi taşıyan ve nesilden nesile aktaran moleküldür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliği artıran bir faktördür?",
+    "options": [
+      "Mutasyonlar",
+      "Seçilim",
+      "Hibridizasyon",
+      "Klonlama",
+      "Aynı gen havuzu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutasyonlar, genetik çeşitliliği artıran önemli bir faktördür çünkü yeni gen varyantlarının ortaya çıkmasına neden olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Mendel'in kalıtım yasaları hangi organizmalarda ilk kez keşfedilmiştir?",
+    "options": [
+      "Meyve Flies",
+      "Bezelye Bitkileri",
+      "Domates",
+      "Zeytin",
+      "Sarımsak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mendel'in kalıtım yasaları, bezelye bitkileri üzerinde yapılan deneylerle keşfedilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi genetik mühendisliğinde sıklıkla kullanılan bir tekniktir?",
+    "options": [
+      "Klonlama",
+      "Döllenme",
+      "Meiosis",
+      "Sentez",
+      "Fertilizasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Klonlama, genetik mühendisliğinde belirli bir organizmanın genetik kopyasının oluşturulmasında sıkça kullanılan bir tekniktir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_4",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hangi yapı genetik bilginin transkripte edilmesinde rol oynar?",
+    "options": [
+      "Ribozom",
+      "Nükleus",
+      "Mitoz",
+      "Kromozom",
+      "Sentrozom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetik bilginin transkripte edilmesi, nükleusta gerçekleşir; DNA'nın RNA'ya kopyalanması bu yapıda gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_5",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik kodun özelliklerinden biri değildir?",
+    "options": [
+      "Üçlü kodlar içerir",
+      "Düzensizdir",
+      "Evrenseldir",
+      "Hiyerarşiktir",
+      "Redundant'tır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetik kod, üçlü kodlar içerir, evrenseldir ve redundant'tır; ancak düzensiz değildir, belirli bir düzen ve yapı içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik hastalıklara örnek olarak verilmez?",
+    "options": [
+      "Kistik Fibrozis",
+      "Hemofili",
+      "Diyabet",
+      "Orak Hücre Anemisi",
+      "Huntington Hastalığı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diyabet genetik bir hastalık olarak sınıflandırılmamaktadır; çevresel ve yaşam tarzı faktörleri ile ilişkilidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_7",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hangi genetik terim, bireylerin fenotipik özelliklerini belirleyen genetik bilgi bütününü ifade eder?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Homozygot",
+      "Heterozygot",
+      "Alelleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genotip, bir bireyin genetik yapısını ifade ederken, fenotip ise bu genetik yapının çevresel etmenlerle birleşerek oluşturduğu özelliklerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_8",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın yapı taşları nelerdir?",
+    "options": [
+      "Amino Asitler",
+      "Nükleotidler",
+      "Karbonhidratlar",
+      "Lipitler",
+      "Proteinler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA'nın yapı taşları nükleotidlerdir; her nükleotid bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_9",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Meiosis sürecinde meydana gelen genetik çeşitliliğin kaynağı nedir?",
+    "options": [
+      "Bağımsız dağılım",
+      "Klonlama",
+      "Döllenme",
+      "Mutasyon",
+      "Aynı gen havuzu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meiosis sırasında bağımsız dağılım, homolog kromozomların rastgele dağılımı ile genetik çeşitliliği artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_10",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik mühendisliğinde kullanılan 'CRISPR' teknolojisi neyi ifade eder?",
+    "options": [
+      "Gen dizilimi",
+      "Gen düzenleme",
+      "Klonlama",
+      "DNA sentezi",
+      "RNA transkripti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRISPR, gen düzenleme teknolojisi olarak bilinir ve belirli genleri değiştirmek veya silmek için kullanılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_11",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik olarak belirlenen bir özelliğin, iki farklı alel içeren bireylerde nasıl ifade edildiği nedir?",
+    "options": [
+      "Homozygot",
+      "Heterozygot",
+      "Fenotip",
+      "Genotip",
+      "Kromozom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İki farklı alel içeren bireyler heterozygot olarak tanımlanır; bu durum genetik çeşitliliği artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_12",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi kalıtsal bir hastalık değildir?",
+    "options": [
+      "Alzheimer",
+      "Kistik Fibrozis",
+      "Serebral Palsi",
+      "Huntington",
+      "Hemofili"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Serebral palsi, genetik değil çevresel faktörlerden kaynaklanan bir durumdur, diğerleri ise kalıtsal hastalıklardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_13",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın çift sarmal yapısını kim keşfetmiştir?",
+    "options": [
+      "James Watson",
+      "Francis Crick",
+      "Rosalind Franklin",
+      "Linus Pauling",
+      "Gregor Mendel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Watson ve Crick, DNA'nın çift sarmal yapısını keşfettikleri için bu alanda en çok bilinen bilim insanlarıdır.",
     "difficulty": 3
   }
 ]
