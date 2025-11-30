@@ -1,5 +1,53 @@
 [
   {
+    "id": "ai_1764500220717_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi, kan ile doku hücreleri arasında gerçekleşen gaz alışverişi sırasında karbondioksitin taşınma yollarından biri değildir?",
+    "options": [
+      "Kan plazmasında çözünmüş olarak taşınması",
+      "Alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin şeklinde taşınması",
+      "Alyuvarlarda karbonik anhidraz enzimiyle su ile birleştirilip plazmaya oksihemoglobin olarak verilmesi",
+      "Kan plazmasında bikarbonat (HCO₃⁻) iyonları şeklinde taşınması",
+      "Alyuvarların sitoplazmasında bikarbonat iyonlarına dönüştürülmesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karbondioksitin kanda taşınmasının üç temel yolu vardır: 1) Çok küçük bir kısmı (%7) kan plazmasında çözünmüş halde. 2) Bir kısmı (%23) alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin (HbCO₂) şeklinde. 3) En büyük kısmı (%70) ise alyuvarlarda karbonik anhidraz enzimi sayesinde su ile birleşerek karbonik aside (H₂CO₃) dönüşür, bu asit de bikarbonat (HCO₃⁻) ve H⁺ iyonlarına ayrışır. Oluşan bikarbonat iyonları plazmaya geçerek taşınır. C şıkkında belirtilen \"oksihemoglobin\" ise hemoglobinin oksijen bağlamış halidir ve oksijenin taşınmasıyla ilgilidir, karbondioksit taşınmasıyla doğrudan bir ilişkisi bu şekilde yoktur. Bu nedenle C şıkkı yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520366754_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "İnsan solunum sisteminde gaz değişiminin gerçekleştiği ana yapı hangisidir?",
+    "options": [
+      "Bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Burun",
+      "Yutak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alveoller, akciğerlerin içinde bulunan küçük hava kesecikleridir ve burada oksijen ve karbondioksit gazlarının kan ile değişimi gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520366755_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
+    "options": [
+      "Faranks",
+      "Larenks",
+      "Trakea",
+      "Bronş",
+      "Alveol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764501512467_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
@@ -32,19 +80,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519405524_1",
+    "id": "ai_1764498848935_2",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
+    "questionText": "Kanda karbondioksit taşınması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Üst solunum yolu - Alt solunum yolu",
-      "Akciğerler - Kalp",
-      "Bronşlar - Trakea",
-      "Yutak - Gırtlak",
-      "Alveoller - Bronşlar"
+      "Karbondioksitin büyük bir bölümü, alyuvarlarda karbonik anhidraz enzimi aracılığıyla bikarbonat iyonlarına dönüştürülerek kan plazmasında taşınır.",
+      "Alyuvarlarda oluşan bikarbonat iyonları, klor iyonları ile yer değiştirerek plazmaya geçer.",
+      "Karbondioksitin bir kısmı doğrudan hemoglobinin amino grubuna bağlanarak karbominohemoglobin şeklinde taşınır.",
+      "Kan plazmasında çözünmüş halde de bir miktar karbondioksit taşınır.",
+      "Karbonik anhidraz enzimi hem doku kılcallarında hem de akciğer kılcallarında sadece tek yönlü reaksiyon gerçekleştirir."
     ],
-    "correctAnswer": 0,
-    "explanation": "Solunum sistemi, üst solunum yolu (burnu, yutak ve gırtlak) ve alt solunum yolu (trakea ve akciğerler) olmak üzere iki ana bölümden oluşur.",
+    "correctAnswer": 4,
+    "explanation": "Karbondioksit kanda üç şekilde taşınır: 1) Kan plazmasında çözünmüş halde (en az), 2) Hemoglobine bağlanarak (karbominohemoglobin), 3) Bikarbonat iyonları (HCO3-) şeklinde (en fazla). Doku kılcallarında, CO2 alyuvarlara girer ve karbonik anhidraz enzimi ile suyla birleşerek karbonik asit (H2CO3) oluşturur. Karbonik asit daha sonra H+ ve bikarbonat (HCO3-) iyonlarına ayrışır. HCO3-, \"klor kayması\" adı verilen bir olayla plazmaya çıkar. Akciğer kılcallarında ise bu reaksiyonlar tersine işler. Plazmadaki HCO3- tekrar alyuvara girer, H+ ile birleşerek H2CO3'ü oluşturur ve aynı karbonik anhidraz enzimi bu sefer H2CO3'ü CO2 ve H2O'ya parçalar. Dolayısıyla karbonik anhidraz enzimi çift yönlü (tersinir) çalışan bir enzimdir. Bu nedenle E şıkkı yanlıştır.",
     "difficulty": 3
   },
   {
@@ -80,19 +128,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500220717_1",
+    "id": "ai_1764498848935_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi, kan ile doku hücreleri arasında gerçekleşen gaz alışverişi sırasında karbondioksitin taşınma yollarından biri değildir?",
+    "questionText": "Sağlıklı bir insanda, doku kılcallarından geçmekte olan kanda oksijenin hemoglobinden ayrılma eğiliminin artmasında aşağıdakilerden hangisi etkili olmaz?",
     "options": [
-      "Kan plazmasında çözünmüş olarak taşınması",
-      "Alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin şeklinde taşınması",
-      "Alyuvarlarda karbonik anhidraz enzimiyle su ile birleştirilip plazmaya oksihemoglobin olarak verilmesi",
-      "Kan plazmasında bikarbonat (HCO₃⁻) iyonları şeklinde taşınması",
-      "Alyuvarların sitoplazmasında bikarbonat iyonlarına dönüştürülmesi"
+      "Kan pH değerinin düşmesi",
+      "Kandaki karbondioksit kısmi basıncının artması",
+      "Vücut sıcaklığının artması",
+      "Alveollerdeki oksijen kısmi basıncının yüksek olması",
+      "Kanda laktik asit miktarının artması"
     ],
-    "correctAnswer": 2,
-    "explanation": "Karbondioksitin kanda taşınmasının üç temel yolu vardır: 1) Çok küçük bir kısmı (%7) kan plazmasında çözünmüş halde. 2) Bir kısmı (%23) alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin (HbCO₂) şeklinde. 3) En büyük kısmı (%70) ise alyuvarlarda karbonik anhidraz enzimi sayesinde su ile birleşerek karbonik aside (H₂CO₃) dönüşür, bu asit de bikarbonat (HCO₃⁻) ve H⁺ iyonlarına ayrışır. Oluşan bikarbonat iyonları plazmaya geçerek taşınır. C şıkkında belirtilen \"oksihemoglobin\" ise hemoglobinin oksijen bağlamış halidir ve oksijenin taşınmasıyla ilgilidir, karbondioksit taşınmasıyla doğrudan bir ilişkisi bu şekilde yoktur. Bu nedenle C şıkkı yanlıştır.",
+    "correctAnswer": 3,
+    "explanation": "Hemoglobinin oksijeni bağlama veya serbest bırakma eğilimi çeşitli faktörlere bağlıdır. Bu duruma Bohr etkisi denir. Doku kılcallarında hücresel solunum sonucu CO2 artar. CO2'nin artması kan pH'sını düşürür (asitliği artırır). Ayrıca egzersiz gibi durumlarda vücut sıcaklığı ve laktik asit miktarı artar. Bu üç faktör (düşük pH, yüksek CO2, yüksek sıcaklık) hemoglobinin oksijene olan ilgisini azaltır ve oksijenin dokulara daha kolay bırakılmasını sağlar. Ancak, alveollerdeki oksijen kısmi basıncının yüksek olması, oksijenin hemoglobinden ayrılmasını değil, tam tersine hemoglobine bağlanmasını kolaylaştıran bir faktördür. Bu olay akciğer kılcallarında gerçekleşir.",
     "difficulty": 3
   },
   {
@@ -112,19 +160,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498848935_2",
+    "id": "ai_1764519405524_1",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Kanda karbondioksit taşınması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
     "options": [
-      "Karbondioksitin büyük bir bölümü, alyuvarlarda karbonik anhidraz enzimi aracılığıyla bikarbonat iyonlarına dönüştürülerek kan plazmasında taşınır.",
-      "Alyuvarlarda oluşan bikarbonat iyonları, klor iyonları ile yer değiştirerek plazmaya geçer.",
-      "Karbondioksitin bir kısmı doğrudan hemoglobinin amino grubuna bağlanarak karbominohemoglobin şeklinde taşınır.",
-      "Kan plazmasında çözünmüş halde de bir miktar karbondioksit taşınır.",
-      "Karbonik anhidraz enzimi hem doku kılcallarında hem de akciğer kılcallarında sadece tek yönlü reaksiyon gerçekleştirir."
+      "Üst solunum yolu - Alt solunum yolu",
+      "Akciğerler - Kalp",
+      "Bronşlar - Trakea",
+      "Yutak - Gırtlak",
+      "Alveoller - Bronşlar"
     ],
-    "correctAnswer": 4,
-    "explanation": "Karbondioksit kanda üç şekilde taşınır: 1) Kan plazmasında çözünmüş halde (en az), 2) Hemoglobine bağlanarak (karbominohemoglobin), 3) Bikarbonat iyonları (HCO3-) şeklinde (en fazla). Doku kılcallarında, CO2 alyuvarlara girer ve karbonik anhidraz enzimi ile suyla birleşerek karbonik asit (H2CO3) oluşturur. Karbonik asit daha sonra H+ ve bikarbonat (HCO3-) iyonlarına ayrışır. HCO3-, \"klor kayması\" adı verilen bir olayla plazmaya çıkar. Akciğer kılcallarında ise bu reaksiyonlar tersine işler. Plazmadaki HCO3- tekrar alyuvara girer, H+ ile birleşerek H2CO3'ü oluşturur ve aynı karbonik anhidraz enzimi bu sefer H2CO3'ü CO2 ve H2O'ya parçalar. Dolayısıyla karbonik anhidraz enzimi çift yönlü (tersinir) çalışan bir enzimdir. Bu nedenle E şıkkı yanlıştır.",
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi, üst solunum yolu (burnu, yutak ve gırtlak) ve alt solunum yolu (trakea ve akciğerler) olmak üzere iki ana bölümden oluşur.",
     "difficulty": 3
   },
   {
@@ -160,51 +208,243 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520366755_2",
+    "id": "ai_1764522821892_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
+    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
     "options": [
-      "Faranks",
-      "Larenks",
-      "Trakea",
-      "Bronş",
-      "Alveol"
+      "Üst solunum yolları ve alt solunum yolları",
+      "Ağız ve burun",
+      "Akciğerler ve diafram",
+      "Kan damarları ve kalp",
+      "Sinir sistemi ve solunum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi, üst solunum yolları (burun, farinks, larinks) ve alt solunum yolları (trake, bronşlar, akciğerler) olmak üzere iki ana bölümden oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821892_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerde gaz değişimi hangi yapı aracılığıyla gerçekleşir?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Trake",
+      "Pleura",
+      "Kapillerler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gaz değişimi akciğerlerde bulunan alveoller aracılığıyla gerçekleşir. Alveoller, oksijenin kana geçişini ve karbondioksitin atılmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821892_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sırasında diyaframın rolü nedir?",
+    "options": [
+      "Hava akışını yönlendirmek",
+      "Hava basıncını artırmak",
+      "Akciğerleri genişletmek ve daraltmak",
+      "Karbondioksiti dışarı atmak",
+      "Oksijeni emmek"
     ],
     "correctAnswer": 2,
-    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
+    "explanation": "Diyafram, kasıldığında akciğerlerin hacmini artırarak içeri hava girmesini sağlar; gevşediğinde ise akciğerlerin hacmini azaltarak havanın dışarı çıkmasını sağlar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520366754_0",
+    "id": "ai_1764522821892_3",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "İnsan solunum sisteminde gaz değişiminin gerçekleştiği ana yapı hangisidir?",
+    "questionText": "İnsanlarda normal solunum hızı dakikada kaç kezdir?",
     "options": [
-      "Bronşlar",
-      "Alveoller",
-      "Trakea",
-      "Burun",
-      "Yutak"
+      "10-15",
+      "12-20",
+      "20-25",
+      "25-30",
+      "30-35"
     ],
     "correctAnswer": 1,
-    "explanation": "Alveoller, akciğerlerin içinde bulunan küçük hava kesecikleridir ve burada oksijen ve karbondioksit gazlarının kan ile değişimi gerçekleşir.",
+    "explanation": "İnsanlarda normal solunum hızı genellikle dakikada 12-20 kezdir. Bu, bireylerin yaşına, sağlık durumuna ve aktivite seviyesine bağlı olarak değişebilir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498848935_0",
+    "id": "ai_1764522821892_4",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Sağlıklı bir insanda, doku kılcallarından geçmekte olan kanda oksijenin hemoglobinden ayrılma eğiliminin artmasında aşağıdakilerden hangisi etkili olmaz?",
+    "questionText": "Hangi durum solunum sistemini olumsuz etkileyebilir?",
     "options": [
-      "Kan pH değerinin düşmesi",
-      "Kandaki karbondioksit kısmi basıncının artması",
-      "Vücut sıcaklığının artması",
-      "Alveollerdeki oksijen kısmi basıncının yüksek olması",
-      "Kanda laktik asit miktarının artması"
+      "Düzenli egzersiz",
+      "Yüksek nem",
+      "Sigara içmek",
+      "Temiz hava",
+      "Yeterli uyku"
     ],
-    "correctAnswer": 3,
-    "explanation": "Hemoglobinin oksijeni bağlama veya serbest bırakma eğilimi çeşitli faktörlere bağlıdır. Bu duruma Bohr etkisi denir. Doku kılcallarında hücresel solunum sonucu CO2 artar. CO2'nin artması kan pH'sını düşürür (asitliği artırır). Ayrıca egzersiz gibi durumlarda vücut sıcaklığı ve laktik asit miktarı artar. Bu üç faktör (düşük pH, yüksek CO2, yüksek sıcaklık) hemoglobinin oksijene olan ilgisini azaltır ve oksijenin dokulara daha kolay bırakılmasını sağlar. Ancak, alveollerdeki oksijen kısmi basıncının yüksek olması, oksijenin hemoglobinden ayrılmasını değil, tam tersine hemoglobine bağlanmasını kolaylaştıran bir faktördür. Bu olay akciğer kılcallarında gerçekleşir.",
+    "correctAnswer": 2,
+    "explanation": "Sigara içmek, solunum sistemi üzerinde ciddi olumsuz etkilere yol açar; akciğer kanseri, kronik obstrüktif akciğer hastalığı gibi birçok hastalığın riskini artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821892_5",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi gaz solunum sırasında alınır?",
+    "options": [
+      "Karbon dioksit",
+      "Oksijen",
+      "Amonyak",
+      "Nitrik oksit",
+      "Metan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sırasında oksijen alınır. Hücreler, enerji üretimi için oksijeni kullanırken, karbondioksit yan ürün olarak üretilir ve dışarı atılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821892_6",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin enfeksiyonlarına ne ad verilir?",
+    "options": [
+      "Solunum yolu enfeksiyonları",
+      "Sindirim yolu enfeksiyonları",
+      "Bağışıklık yetmezliği",
+      "Kardiyovasküler hastalıklar",
+      "Diyabet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi enfeksiyonları, genellikle virüsler veya bakteriler tarafından meydana gelir ve soğuk algınlığı, grip, bronşit gibi hastalıkları içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821893_7",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerdeki hava keseciklerine ne ad verilir?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Trake",
+      "Pulmoner arter",
+      "Diğerleri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akciğerlerde bulunan hava keseciklerine alveol denir. Bu kesecikler, gaz değişiminin gerçekleştiği temel yapılardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821893_8",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Bronşların görevi nedir?",
+    "options": [
+      "Havayı filtrelemek",
+      "Kanı pompalamak",
+      "Hava yollarını oluşturmak",
+      "Gaz değişimi yapmak",
+      "Oksijeni depolamak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bronşlar, trake ile akciğerler arasında hava taşıyan tüplerdir ve hava yollarını oluştururlar. Hava, bronşlar aracılığıyla akciğerlere ulaşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821893_9",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerler hangi iki ana bölümden oluşur?",
+    "options": [
+      "Sağ ve sol loblar",
+      "Üst ve alt loblar",
+      "Ön ve arka loblar",
+      "Yüksek ve düşük loblar",
+      "Dış ve iç loblar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akciğerler, sağ ve sol loblar olarak iki ana bölümden oluşur. Sağ akciğer üç lobdan, sol akciğer ise iki lobdan oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821893_10",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin temel işlevlerinden biri nedir?",
+    "options": [
+      "Sindirim",
+      "Hücre bölünmesi",
+      "Gaz değişimi",
+      "Besin depolama",
+      "Duyusal algılama"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Solunum sisteminin en temel işlevi, oksijen alıp karbondioksit atarak gaz değişimini sağlamaktır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821893_11",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi hastalık, solunum yollarının daralmasına ve nefes darlığına yol açar?",
+    "options": [
+      "Astım",
+      "Şeker hastalığı",
+      "Kalp yetmezliği",
+      "Böbrek yetmezliği",
+      "Kanser"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Astım, solunum yollarının iltihaplanması ve daralması ile karakterize bir hastalıktır, bu da nefes darlığına yol açar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821894_12",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, solunum sisteminin üst kısmında yer alır ve sesin oluşumunda rol oynar?",
+    "options": [
+      "Larinks",
+      "Trake",
+      "Bronş",
+      "Alveol",
+      "Diyafram"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Larinks, ses tellerinin bulunduğu yapıdır ve sesin oluşumunda önemli bir rol oynar. Ayrıca, hava ile gıda yollarını ayırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821894_13",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Karbondioksit, vücutta hangi organ tarafından atılır?",
+    "options": [
+      "Böbrekler",
+      "Karaciğer",
+      "Akciğerler",
+      "Bağırsaklar",
+      "Deri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karbondioksit, akciğerler aracılığıyla dışarı atılır. Oksijenin alınmasıyla birlikte karbondioksit atılması, solunumun temel bir parçasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821894_14",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sırasında vücut hangi iki temel gazı değiştirir?",
+    "options": [
+      "Amonyak ve oksijen",
+      "Oksijen ve karbondioksit",
+      "Hidrojen ve azot",
+      "Oksijen ve metan",
+      "Karbon dioksit ve azot"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sırasında vücut oksijen alırken, karbondioksit atar. Bu temel gaz değişimi, hücresel solunum için gereklidir.",
     "difficulty": 3
   }
 ]
