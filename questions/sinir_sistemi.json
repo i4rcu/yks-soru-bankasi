@@ -1,18 +1,34 @@
 [
   {
-    "id": "ai_1764500179499_1",
+    "id": "ai_1764520349823_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beyinciği hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
     "options": [
-      "Solunum ve dolaşım gibi hayati faaliyetlerin durması",
-      "Hafıza kaybı ve öğrenme güçlüğü yaşanması",
-      "Vücut sıcaklığı ve kan basıncının düzenlenememesi",
-      "Refleks hareketlerinin kontrol edilememesi",
-      "Denge kaybı ve hareketlerde koordinasyon bozukluğu yaşanması"
+      "Otonom sinir sistemi",
+      "Somatik sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Duyusal sinir sistemi"
     ],
-    "correctAnswer": 4,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
+    "correctAnswer": 1,
+    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520349824_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
+    "options": [
+      "Dendrit",
+      "Akson",
+      "Soma",
+      "Sinaps",
+      "Nükleoz"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
     "difficulty": 3
   },
   {
@@ -32,19 +48,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520349824_1",
+    "id": "ai_1764498792328_2",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
+    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
     "options": [
-      "Dendrit",
-      "Akson",
-      "Soma",
-      "Sinaps",
-      "Nükleoz"
+      "Miyelin kılıfın varlığı",
+      "Akson çapının genişliği",
+      "Ranvier boğum sayısı",
+      "Uyarının şiddeti",
+      "Sıcaklık"
     ],
     "correctAnswer": 3,
-    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
+    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
     "difficulty": 3
   },
   {
@@ -80,22 +96,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520349824_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks arc'inin temel işlevi nedir?",
-    "options": [
-      "Hormon üretmek",
-      "Duyusal bilgiyi işlemek",
-      "İstemli hareketleri başlatmak",
-      "Hızlı yanıt vermek",
-      "Duyusal algıları artırmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764500179499_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -112,19 +112,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520349823_0",
+    "id": "ai_1764520349824_2",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
+    "questionText": "Refleks arc'inin temel işlevi nedir?",
     "options": [
-      "Otonom sinir sistemi",
-      "Somatik sinir sistemi",
-      "Merkezi sinir sistemi",
-      "Periferik sinir sistemi",
-      "Duyusal sinir sistemi"
+      "Hormon üretmek",
+      "Duyusal bilgiyi işlemek",
+      "İstemli hareketleri başlatmak",
+      "Hızlı yanıt vermek",
+      "Duyusal algıları artırmak"
     ],
-    "correctAnswer": 1,
-    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
+    "correctAnswer": 3,
+    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
     "difficulty": 3
   },
   {
@@ -144,19 +144,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501455383_1",
+    "id": "ai_1764501455383_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
     "options": [
-      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
-      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
-      "Acı ve sıcaklık gibi duyuların algılanamaması",
-      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
-      "Konuşulanları anlama fakat konuşarak cevap verememe"
+      "Aksiyon potansiyelinin şiddetinin artması",
+      "İmpuls iletim hızının artması",
+      "İmpuls iletimi için harcanan ATP miktarının artması",
+      "Uyarılma için gerekli eşik değerinin düşmesi",
+      "Repolarizasyon süresinin kısalması"
     ],
-    "correctAnswer": 3,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
+    "correctAnswer": 2,
+    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
     "difficulty": 3
   },
   {
@@ -176,35 +176,355 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498792328_2",
+    "id": "ai_1764500179499_1",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
+    "questionText": "Bir kaza sonucu beyinciği hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
     "options": [
-      "Miyelin kılıfın varlığı",
-      "Akson çapının genişliği",
-      "Ranvier boğum sayısı",
-      "Uyarının şiddeti",
-      "Sıcaklık"
+      "Solunum ve dolaşım gibi hayati faaliyetlerin durması",
+      "Hafıza kaybı ve öğrenme güçlüğü yaşanması",
+      "Vücut sıcaklığı ve kan basıncının düzenlenememesi",
+      "Refleks hareketlerinin kontrol edilememesi",
+      "Denge kaybı ve hareketlerde koordinasyon bozukluğu yaşanması"
     ],
-    "correctAnswer": 3,
-    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
+    "correctAnswer": 4,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501455383_0",
+    "id": "ai_1764501455383_1",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
+    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
     "options": [
-      "Aksiyon potansiyelinin şiddetinin artması",
-      "İmpuls iletim hızının artması",
-      "İmpuls iletimi için harcanan ATP miktarının artması",
-      "Uyarılma için gerekli eşik değerinin düşmesi",
-      "Repolarizasyon süresinin kısalması"
+      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
+      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
+      "Acı ve sıcaklık gibi duyuların algılanamaması",
+      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
+      "Konuşulanları anlama fakat konuşarak cevap verememe"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin temel birimi nedir?",
+    "options": [
+      "Nöron",
+      "Glia",
+      "Dendrit",
+      "Akson",
+      "Sinaps"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinir sisteminin temel birimi nörondur. Nöronlar, sinyalleri ileten ve işleyen hücrelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Merkezi sinir sisteminin iki ana bileşeni nedir?",
+    "options": [
+      "Beyin ve omurilik",
+      "Sinirler ve gangliyonlar",
+      "Beyincik ve talamus",
+      "Beyin sapı ve serebellum",
+      "Otonom ve somatik sistem"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merkezi sinir sistemi beyin ve omurilikten oluşur. Bu iki yapı, sinir sisteminin kontrol merkezi işlevini görür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Otonom sinir sistemi hangi işlevleri yönetir?",
+    "options": [
+      "Gönüllü hareketler",
+      "Dış ortam algısı",
+      "Duyusal bilgi iletimi",
+      "İç organların otomatik işlevleri",
+      "Duygusal tepkiler"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Otonom sinir sistemi, iç organların otomatik işlevlerini yönetir. Bu sistem bilinçli kontrol altında değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_3",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Dendritler nöronun hangi işlevine katkıda bulunur?",
+    "options": [
+      "Sinyal iletimi",
+      "Sinyal alma",
+      "Yalıtım sağlama",
+      "Enerji üretimi",
+      "Hücre bölünmesi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dendritler, nöronların diğer nöronlardan veya çevreden sinyalleri aldığı yapılardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_4",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinaps nedir?",
+    "options": [
+      "Nöronların birleşim yeri",
+      "Nöronların enerji kaynağı",
+      "Akson ile dendrit arasındaki boşluk",
+      "Sinir hücrelerinin organeli",
+      "Beyin bölgesi"
     ],
     "correctAnswer": 2,
-    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
+    "explanation": "Sinaps, bir nöronun aksonu ile bir başka nöronun dendriti arasındaki boşluktur. Burada kimyasal sinyaller iletilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_5",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi nöron tipi motor işlevleri kontrol eder?",
+    "options": [
+      "Afferent nöronlar",
+      "Efferent nöronlar",
+      "Interneuronlar",
+      "Sensory nöronlar",
+      "Glial hücreler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Efferent nöronlar, merkezi sinir sisteminden kaslara ve bezlere sinyal göndererek motor işlevleri kontrol eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_6",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin sapı hangi işlevleri yönetir?",
+    "options": [
+      "Duyusal algı",
+      "İstemli hareketler",
+      "Otonom işlevler",
+      "Hafıza ve öğrenme",
+      "Duygusal tepkiler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyin sapı, nefes alma, kalp atışı gibi temel otonom işlevleri yönetir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_7",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelere ne denir?",
+    "options": [
+      "Hormonlar",
+      "Nörotransmitterler",
+      "Enzimler",
+      "Elektrolitler",
+      "Proteinler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelere nörotransmitterler denir. Örnek olarak serotonin ve dopamin verilebilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_8",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi beyin bölgesi hafızayı ve öğrenmeyi yönetir?",
+    "options": [
+      "Serebellum",
+      "Hipokampus",
+      "Talamus",
+      "Amigdala",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hipokampus, hafıza oluşumu ve öğrenme süreçlerinde önemli bir rol oynamaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_9",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasında iletimi hızlandıran yapı hangisidir?",
+    "options": [
+      "Akson",
+      "Myelin kılıfı",
+      "Dendrit",
+      "Soma",
+      "Sinaps"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Myelin kılıfı, akson üzerinde bulunan yağlı bir yapıdır ve sinyallerin iletim hızını artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_10",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi nöron tipi çevreden gelen duyusal bilgileri iletir?",
+    "options": [
+      "Motor nöronlar",
+      "Afferent nöronlar",
+      "Efferent nöronlar",
+      "Interneuronlar",
+      "Glial hücreler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Afferent nöronlar, çevreden gelen duyusal bilgileri merkezi sinir sistemine ileten nöronlardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_11",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin yarım kürelerinin en büyük bağlantı yolları hangisidir?",
+    "options": [
+      "Korpus kallozum",
+      "Beyin sapı",
+      "Talamus",
+      "Hipotalamus",
+      "Serebellum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Korpus kallozum, sağ ve sol beyin yarım küreleri arasında bağlantı sağlayan en büyük sinir lifidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_12",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi beyin bölgesi duygusal tepkileri yönetir?",
+    "options": [
+      "Amigdala",
+      "Serebellum",
+      "Hipokampus",
+      "Thalamus",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Amigdala, duygusal tepkilerin işlenmesinde kritik bir rol oynar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_13",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminde hangi hücreler destekleyici ve koruyucu rol oynar?",
+    "options": [
+      "Nöronlar",
+      "Glia hücreleri",
+      "Afferent nöronlar",
+      "Efferent nöronlar",
+      "Interneuronlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glia hücreleri, nöronlara destek sağlayan ve onlara koruyucu işlevler üstlenen hücrelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_14",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks hareketlerinin en hızlı şekilde gerçekleşmesini sağlayan yapı hangisidir?",
+    "options": [
+      "Beyin",
+      "Omurilik",
+      "Serebellum",
+      "Hipokampus",
+      "Dendrit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Refleks hareketleri, omurilik düzeyinde gerçekleştiği için en hızlı şekilde burada gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_15",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronun elektriksel uyarı ile tetiklenmesi için ne gereklidir?",
+    "options": [
+      "Hücre bölünmesi",
+      "Sodyum ve potasyum iyonlarının hareketi",
+      "Dendritlerin büyümesi",
+      "Nörotransmitterlerin salınması",
+      "Aksonun uzaması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir nöronun elektriksel uyarı ile tetiklenmesi için sodyum ve potasyum iyonlarının hücre zarında hareket etmesi gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_16",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin hangi bölümü istemli hareketleri kontrol eder?",
+    "options": [
+      "Otonom sinir sistemi",
+      "Somatik sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Refleks arc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi bölümüdür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_17",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasında iletişimde hangi süreç önemlidir?",
+    "options": [
+      "Mitotik bölünme",
+      "Nörotransmitter salınımı",
+      "Apoptoz",
+      "Hücre çatlaması",
+      "Baskı vesikülleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir hücreleri arasındaki iletişimde nörotransmitterlerin salınımı kritik bir öneme sahiptir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_18",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin ve omuriliği koruyan zarların adı nedir?",
+    "options": [
+      "Meninges",
+      "Glia",
+      "Neurolemma",
+      "Cortex",
+      "Fascia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beyin ve omuriliği koruyan zarlar meninksler (meninges) olarak adlandırılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_19",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerinin elektriksel uyarılara verdiği yanıt ne olarak adlandırılır?",
+    "options": [
+      "Potansiyel farklılığı",
+      "Aksiyon potansiyeli",
+      "Hücre zarı geçirgenliği",
+      "Sinaps aktivasyonu",
+      "Dendrit uyarımı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir hücrelerinin elektriksel uyarılara verdiği yanıt aksiyon potansiyeli olarak adlandırılır.",
     "difficulty": 3
   }
 ]
