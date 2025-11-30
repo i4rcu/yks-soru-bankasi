@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519373123_0",
+    "id": "ai_1764520335971_0",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde enerji akışı hangi aşamada başlar?",
+    "questionText": "Bir ekosistemdeki canlıların ve cansızların etkileşimleri sonucunda oluşan dengeye ne ad verilir?",
     "options": [
-      "Tüketiciler",
-      "Üreticiler",
-      "Çürükçüler",
-      "Avcılar",
-      "Parazitler"
+      "Biyom",
+      "Biyolojik çeşitlilik",
+      "Ekolojik denge",
+      "Habitat",
+      "Niş"
     ],
-    "correctAnswer": 1,
-    "explanation": "Bir ekosistemde enerji akışı, üreticilerin fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürmesi ile başlar. Üreticiler, ekosistemlerin temel enerji kaynağıdır.",
+    "correctAnswer": 2,
+    "explanation": "Ekolojik denge, bir ekosistemdeki canlılar ve cansızlar arasındaki etkileşimlerin sonucunda oluşan denge durumunu ifade eder. Bu denge, ekosistemin sağlıklı bir şekilde işleyebilmesi için kritik öneme sahiptir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519373123_1",
+    "id": "ai_1764520335971_1",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde besin zincirinin en üst seviyesindeki canlılar hangileridir?",
+    "questionText": "Aşağıdaki seçeneklerden hangisi bir ekosistemde enerji akışını en iyi şekilde temsil eder?",
     "options": [
-      "Birincil tüketiciler",
-      "İkincil tüketiciler",
-      "Üreticiler",
-      "Tercil tüketiciler",
-      "Detritivorlar"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Besin zincirinde en üst seviyedeki canlılar, genellikle avcı olarak tanımlanan tercil tüketicilerdir. Bu canlılar, ikincil tüketicileri avlayarak enerji alırlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519373124_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki biyoçeşitlilik neden önemlidir?",
-    "options": [
-      "Enerji verimliliğini artırır",
-      "Sadece bitkileri etkiler",
-      "Hava kirliliğini artırır",
-      "Su döngüsünü etkiler",
-      "Tüm canlıların varlığını tehdit eder"
+      "Üreticiler -> Tüketiciler -> Ayrıştırıcılar",
+      "Tüketiciler -> Üreticiler -> Ayrıştırıcılar",
+      "Ayrıştırıcılar -> Üreticiler -> Tüketiciler",
+      "Tüketiciler -> Ayrıştırıcılar -> Üreticiler",
+      "Üreticiler -> Ayrıştırıcılar -> Tüketiciler"
     ],
     "correctAnswer": 0,
-    "explanation": "Biyoçeşitlilik, ekosistemlerin enerji verimliliğini artırır ve dayanıklılığını sağlar. Çeşitli türler, ekosistemin işleyişini ve dengenin korunmasını sağlar.",
+    "explanation": "Ekosistemlerde enerji akışı, üreticilerden (bitkiler) başlayarak tüketicilere (hayvanlar) ve sonunda ayrıştırıcılara (bakteri ve mantarlar) doğru ilerler. Bu süreç, enerji dönüşümünü ve madde döngüsünü sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520335971_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi bir ekosistemin bileşenlerinden biri değildir?",
+    "options": [
+      "Canlılar",
+      "Cansızlar",
+      "Enerji",
+      "İklim",
+      "Süreklilik"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistemler, canlılar, cansızlar ve enerji gibi bileşenlerden oluşur. İklim de ekosistemin önemli bir parçasıdır. Ancak 'süreklilik' bir bileşen değil, ekosistemin işleyişini etkileyen bir kavramdır.",
     "difficulty": 3
   }
 ]
