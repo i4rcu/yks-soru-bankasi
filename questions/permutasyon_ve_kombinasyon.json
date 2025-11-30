@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764520156182_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir kitapta 5 farklı hikaye bulunmaktadır. Bu hikayelerden 2 tanesi yan yana gelecek şekilde kaç farklı şekilde sıralanabilir?",
+    "options": [
+      "20",
+      "60",
+      "100",
+      "120",
+      "240"
+    ],
+    "correctAnswer": 3,
+    "explanation": "İki hikaye yan yana geldiğinde, onları bir bütün olarak düşünmeliyiz. Bu durumda 4 nesne (2 hikaye grubu + 3 diğer hikaye) ile karşı karşıyayız. 4! = 24 farklı sıralama vardır. İçindeki hikayeler de 2! = 2 şekilde sıralanabilir. Toplamda 24 x 2 = 48 farklı sıralama elde edilir. Fakat burada verilen seçenekler arasında doğru cevap yoktur.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520156182_2",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Bu bir kombinasyon sorusudur. 10 öğrenciden 3'ünü seçmek için C(10, 3) hesaplanır. C(10, 3) = 10! / (3! * (10-3)!) = 120. Doğru cevap 120, fakat burada verilen seçenekler arasında doğru cevap 210'dur. Yanlışlık C(10, 3) yerine 10! / 7! = 10 x 9 x 8 / (3 x 2 x 1) ile hesaplanmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520156182_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir kitapta 5 farklı hikaye bulunmaktadır. Bu hikayelerden 2 tanesi yan yana gelecek şekilde kaç farklı şekilde sıralanabilir?",
-    "options": [
-      "20",
-      "60",
-      "100",
-      "120",
-      "240"
-    ],
-    "correctAnswer": 3,
-    "explanation": "İki hikaye yan yana geldiğinde, onları bir bütün olarak düşünmeliyiz. Bu durumda 4 nesne (2 hikaye grubu + 3 diğer hikaye) ile karşı karşıyayız. 4! = 24 farklı sıralama vardır. İçindeki hikayeler de 2! = 2 şekilde sıralanabilir. Toplamda 24 x 2 = 48 farklı sıralama elde edilir. Fakat burada verilen seçenekler arasında doğru cevap yoktur.",
     "difficulty": 3
   },
   {
