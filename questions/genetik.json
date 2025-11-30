@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520322576_0",
+    "id": "ai_1764521061445_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "DNA'nın yapısında bulunan temel birim nedir?",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin artırılmasında önemli bir rol oynar?",
     "options": [
-      "Amino asit",
-      "Nükleotid",
-      "Karbonhidrat",
-      "Lipid",
-      "Protein"
+      "Mutasyonlar",
+      "Bölünme",
+      "Eşeysel üreme",
+      "Klonlama",
+      "Hayvanların evcilleştirilmesi"
     ],
-    "correctAnswer": 1,
-    "explanation": "DNA, nükleotid adı verilen temel birimlerden oluşur. Her nükleotid, bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
+    "correctAnswer": 2,
+    "explanation": "Eşeysel üreme, genetik çeşitliliğin artmasına katkıda bulunan önemli bir mekanizmadır. Bu süreç, genetik materyalin farklı bireylerden bir araya gelmesiyle yeni kombinasyonların oluşmasına olanak tanır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520322576_1",
+    "id": "ai_1764521061445_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Hangi genetik terim, bir organizmanın genetik yapısını ifade eder?",
+    "questionText": "Aşağıdaki kavramlardan hangisi genetik bilginin bireyler arasında aktarımını tanımlar?",
     "options": [
       "Fenotip",
       "Genotip",
-      "Alel",
-      "Kromozom",
-      "Gen"
+      "Mendel Genetik Kuralları",
+      "Kalıtım",
+      "Hibridizasyon"
     ],
-    "correctAnswer": 1,
-    "explanation": "Genotip, bir organizmanın genetik yapısını ifade ederken, fenotip ise organizmanın gözlemlenebilir özelliklerini ifade eder.",
+    "correctAnswer": 3,
+    "explanation": "Kalıtım, genetik bilginin bireyler arasında aktarımını tanımlayan bir süreçtir. Bu süreç, genlerin nesilden nesile geçişini sağlar ve bireylerin özelliklerini belirler.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520322576_2",
+    "id": "ai_1764521061445_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik olaylardan hangisi, genlerin yeni kombinasyonlarının oluşmasına neden olur?",
+    "questionText": "DNA'daki adenine (A) bazının karşısındaki baz hangisidir?",
     "options": [
-      "Mutasyon",
-      "Meiosis",
-      "Fertilizasyon",
-      "Transkripsiyon",
-      "Translasyon"
+      "Timin (T)",
+      "Sitozin (C)",
+      "Guanin (G)",
+      "Urasil (U)",
+      "Adenin (A)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Meiosis, hücre bölünmesi sırasında genetik materyalin yeniden düzenlenmesiyle yeni gen kombinasyonlarının oluşmasına olanak tanır.",
+    "correctAnswer": 0,
+    "explanation": "DNA molekülünde adenine (A) bazının karşısında her zaman timin (T) bulunur. Bu baz eşleşmesi, DNA'nın yapısal bütünlüğünü korur ve genetik bilginin doğru bir şekilde kopyalanmasını sağlar.",
     "difficulty": 3
   }
 ]
