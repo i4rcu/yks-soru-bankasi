@@ -16,35 +16,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519463628_2",
+    "id": "ai_1764519463628_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerde hangisinde 'sebep-sonuç' ilişkisi vardır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'eş anlam' ilişkisi vardır?",
     "options": [
-      "Yarın hava yağmurlu olacak, şemsiyemi alacağım.",
-      "Deniz kenarında yürüyüş yapmayı seviyorum.",
-      "Sınavdan yüksek not aldım, çok çalıştım.",
-      "Bugün hava çok sıcak, denize gireceğim.",
-      "Film çok güzeldi, arkadaşım tavsiye etti."
+      "Çocuklar parka gitti, oyun oynuyorlar.",
+      "Bu kitap çok ilginç, mutlaka okumalısın.",
+      "Köpekler havladı, herkes rahatsız oldu.",
+      "Güzel bir film izledik, çok beğendim.",
+      "Ateş çok sıcak, dikkat et."
     ],
-    "correctAnswer": 2,
-    "explanation": "'Çok çalıştım' ifadesi 'yüksek not aldım' sonucuna sebep olmuştur. Bu sebeple 'Sınavdan yüksek not aldım, çok çalıştım.' cümlesinde sebep-sonuç ilişkisi vardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520435528_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
-    "options": [
-      "Hava çok sıcak olduğu için denize girmek istiyorum.",
-      "Ders çalışmak zorundayım, ama çok yorgunum.",
-      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
-      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
-      "Okuldan sonra sinemaya gitmeyi planlıyorum."
-    ],
-    "correctAnswer": 1,
-    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
+    "correctAnswer": 3,
+    "explanation": "'Güzel' ve 'hoş' kelimeleri eş anlamlıdır. 'Güzel bir film izledik, çok beğendim.' cümlesinde bu eş anlam ilişkisi bulunmaktadır.",
     "difficulty": 3
   },
   {
@@ -64,6 +48,54 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764500415115_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerin hangisinde yargılar arasında diğerlerinden farklı bir anlam ilişkisi vardır?",
+    "options": [
+      "Yollar buzlandığı için trafik akışı yavaşladı.",
+      "İyi bir üniversite kazanmak amacıyla gece gündüz ders çalışıyordu.",
+      "Annesini çok özlediğinden ilk uçakla memleketine gitti.",
+      "Uykusunu alamadığından gün boyu kendini yorgun hissetti.",
+      "Gürültüden rahatsız olunca pencereyi kapattı."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu soruda cümlelerdeki anlam ilişkileri incelenmelidir. A, C, D ve E şıklarında neden-sonuç (sebep-sonuç) ilişkisi varken, B şıkkında amaç-sonuç ilişkisi vardır. Neden-sonuç cümlelerinde eylemin gerçekleşme nedeni belirtilirken ('Neden yavaşladı?' -> 'Yollar buzlandığı için'), amaç-sonuç cümlelerinde eylemin hangi hedefle yapıldığı belirtilir ('Hangi amaçla ders çalışıyordu?' -> 'İyi bir üniversite kazanmak amacıyla'). B seçeneğindeki 'kazanmak' eylemi henüz gerçekleşmemiş bir hedeftir, bu da cümleyi diğerlerinden ayırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499051452_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir koşula bağlanmamıştır?",
+    "options": [
+      "Ödevlerini bitirirsen dışarı çıkıp arkadaşlarınla oynayabilirsin.",
+      "İstediği üniversiteyi kazandı mı, ona hayalindeki arabayı alacaklar.",
+      "Yarın hava güzel olursa hep birlikte pikniğe gideceğiz.",
+      "Onu gördüm diye bütün planlarımı değiştirecek değilim.",
+      "Akşam yemeğine yetişmek üzere toplantıdan erken ayrıldı."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bu soruda, seçeneklerdeki cümlelerde bulunan anlam ilişkileri incelenmelidir. A, B, C ve D seçeneklerinde koşul-sonuç ilişkisi varken, E seçeneğinde amaç-sonuç ilişkisi bulunmaktadır.\nA) Dışarı çıkıp oynamanın koşulu, ödevlerin bitirilmesidir. (-se şart eki)\nB) Araba alınmasının koşulu, istediği üniversiteyi kazanmasıdır. (mı soru eki ile sağlanmış)\nC) Pikniğe gidilmesinin koşulu, yarın havanın güzel olmasıdır. (-se şart eki)\nD) \"Onu gördüm diye\" ifadesi \"onu gördüğüm için\" anlamında bir neden belirtir gibi görünse de cümlenin bütününe bakıldığında, \"Onu görsem bile planlarımı değiştirmem\" anlamı çıkar, bu da örtük bir koşul ifadesidir.\nE) Toplantıdan erken ayrılmasının amacı, akşam yemeğine yetişmektir. Henüz yemeğe yetişip yetişmediği belli değildir, bir hedef söz konusudur. Bu nedenle bu cümlede eylemin gerçekleşmesi bir koşula değil, bir amaca bağlanmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519463628_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerde hangisinde 'sebep-sonuç' ilişkisi vardır?",
+    "options": [
+      "Yarın hava yağmurlu olacak, şemsiyemi alacağım.",
+      "Deniz kenarında yürüyüş yapmayı seviyorum.",
+      "Sınavdan yüksek not aldım, çok çalıştım.",
+      "Bugün hava çok sıcak, denize gireceğim.",
+      "Film çok güzeldi, arkadaşım tavsiye etti."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çok çalıştım' ifadesi 'yüksek not aldım' sonucuna sebep olmuştur. Bu sebeple 'Sınavdan yüksek not aldım, çok çalıştım.' cümlesinde sebep-sonuç ilişkisi vardır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520435528_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
@@ -80,19 +112,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519463628_1",
+    "id": "ai_1764520435528_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'eş anlam' ilişkisi vardır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
     "options": [
-      "Çocuklar parka gitti, oyun oynuyorlar.",
-      "Bu kitap çok ilginç, mutlaka okumalısın.",
-      "Köpekler havladı, herkes rahatsız oldu.",
-      "Güzel bir film izledik, çok beğendim.",
-      "Ateş çok sıcak, dikkat et."
+      "Hava çok sıcak olduğu için denize girmek istiyorum.",
+      "Ders çalışmak zorundayım, ama çok yorgunum.",
+      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
+      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
+      "Okuldan sonra sinemaya gitmeyi planlıyorum."
     ],
-    "correctAnswer": 3,
-    "explanation": "'Güzel' ve 'hoş' kelimeleri eş anlamlıdır. 'Güzel bir film izledik, çok beğendim.' cümlesinde bu eş anlam ilişkisi bulunmaktadır.",
+    "correctAnswer": 1,
+    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
     "difficulty": 3
   },
   {
@@ -144,35 +176,307 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500415115_0",
+    "id": "ai_1764522406566_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde yargılar arasında diğerlerinden farklı bir anlam ilişkisi vardır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, diğerlerine göre anlamca farklıdır?",
     "options": [
-      "Yollar buzlandığı için trafik akışı yavaşladı.",
-      "İyi bir üniversite kazanmak amacıyla gece gündüz ders çalışıyordu.",
-      "Annesini çok özlediğinden ilk uçakla memleketine gitti.",
-      "Uykusunu alamadığından gün boyu kendini yorgun hissetti.",
-      "Gürültüden rahatsız olunca pencereyi kapattı."
+      "Köpeğim bahçede oynuyor.",
+      "Kedim uyuyor.",
+      "Kuşlar gökyüzünde uçuyor.",
+      "Ağaçlar rüzgarda sallanıyor.",
+      "Hayvanlar ormanda dolaşıyor."
     ],
-    "correctAnswer": 1,
-    "explanation": "Bu soruda cümlelerdeki anlam ilişkileri incelenmelidir. A, C, D ve E şıklarında neden-sonuç (sebep-sonuç) ilişkisi varken, B şıkkında amaç-sonuç ilişkisi vardır. Neden-sonuç cümlelerinde eylemin gerçekleşme nedeni belirtilirken ('Neden yavaşladı?' -> 'Yollar buzlandığı için'), amaç-sonuç cümlelerinde eylemin hangi hedefle yapıldığı belirtilir ('Hangi amaçla ders çalışıyordu?' -> 'İyi bir üniversite kazanmak amacıyla'). B seçeneğindeki 'kazanmak' eylemi henüz gerçekleşmemiş bir hedeftir, bu da cümleyi diğerlerinden ayırır.",
+    "correctAnswer": 0,
+    "explanation": "Diğer şıklar hayvanların belirli bir eylem yaptığı durumları ifade ederken, 'Köpeğim bahçede oynuyor.' cümlesinde bahçe özel bir yer belirtmektedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499051452_0",
+    "id": "ai_1764522406566_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir koşula bağlanmamıştır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini en iyi ifade eder?",
     "options": [
-      "Ödevlerini bitirirsen dışarı çıkıp arkadaşlarınla oynayabilirsin.",
-      "İstediği üniversiteyi kazandı mı, ona hayalindeki arabayı alacaklar.",
-      "Yarın hava güzel olursa hep birlikte pikniğe gideceğiz.",
-      "Onu gördüm diye bütün planlarımı değiştirecek değilim.",
-      "Akşam yemeğine yetişmek üzere toplantıdan erken ayrıldı."
+      "Hava sıcak olduğu için denize gireceğim.",
+      "Yürüyüşe çıktım.",
+      "Kitap okuyorum.",
+      "Kahvaltı yaptım.",
+      "Sinema biletimi aldım."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede 'hava sıcak olduğu için' ifadesi, denize girme eyleminin nedenini açıkça belirtmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406566_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde zıt anlam ilişkisi vardır?",
+    "options": [
+      "Sıcak günlerde serinlemek güzel.",
+      "Soğuk kış ayları zor geçer.",
+      "Güneş doğmadan önce karanlık olur.",
+      "Çiçekler açmaya başladı.",
+      "Hava çok güzel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Soğuk kış ayları' ifadesinde 'soğuk' ve 'zor' kelimeleri bir zıtlık ilişkisi kurmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Güzel bir manzara gördüm.",
+      "Mükemmel bir manzara gördüm.",
+      "Harika bir manzara gördüm.",
+      "Çirkin bir manzara gördüm.",
+      "Kötü bir manzara gördüm."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Güzel' kelimesi, 'mükemmel' ve 'harika' ile eş anlamlıdır, diğerleri zıt anlamlıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde benzerlik ilişkisi vardır?",
+    "options": [
+      "Elma ve armut farklı meyvelerdir.",
+      "Kedi ve köpek dost hayvanlardır.",
+      "Kış ve yaz mevsimleri zıttır.",
+      "Küçük çocuklar oyun oynar.",
+      "Yağmur ve kar suyun halleri."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kedi ve köpek ifadeleri, dost hayvanlar olarak benzerlik ilişkisi kurar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_5",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde neden-sonuç ilişkisi yoktur?",
+    "options": [
+      "Yağmur yağdığı için sokaklar ıslak.",
+      "Sınavdan yüksek not aldım, çok çalıştım.",
+      "Kütüphaneye gittiğimde kitap bulamadım.",
+      "Kahvaltı yapmadım, aç kaldım.",
+      "Hava soğuk olduğu için mont giydim."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kütüphaneye gitmek ve kitap bulamamak arasında doğrudan bir neden-sonuç ilişkisi yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlısı ile değiştirilirse anlam değişir?",
+    "options": [
+      "Büyük bir evde yaşıyorum.",
+      "Küçük bir evde yaşıyorum.",
+      "Geniş bir bahçem var.",
+      "Dar bir bahçem var.",
+      "Yüksek bir dairede oturuyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Büyük' kelimesinin 'küçük' ile değiştirilmesi cümlenin anlamını tamamen değiştirir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_7",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma içerir?",
+    "options": [
+      "Ali, Ayşe'den daha hızlı koşuyor.",
+      "Ali çok çalışkan bir öğrencidir.",
+      "Ayşe ders çalışıyor.",
+      "Ali ve Ayşe birlikte sinemaya gidecek.",
+      "Hava çok sıcak."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali'nin Ayşe ile karşılaştırılması, cümlede bir karşılaştırma ilişkisi kurmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Güzel bir gün geçirdim.",
+      "Hoş bir gün geçirdim.",
+      "Kötü bir gün geçirdim.",
+      "Sıkıcı bir gün geçirdim.",
+      "Çirkin bir gün geçirdim."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Güzel' kelimesi, 'hoş' ile eş anlamlıdır; diğerleri ise zıt anlamlar içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_9",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Hızlı bir araba sürdüm.",
+      "Yavaş bir araba sürdüm.",
+      "Yeni bir araba aldım.",
+      "Eski bir araba aldım.",
+      "Büyük bir araba kullanıyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hızlı' kelimesinin 'yavaş' ile değiştirilmesi cümlenin anlamını değiştirir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_10",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir sebep-sonuç ilişkisi içerir?",
+    "options": [
+      "Dışarıda yağmur yağıyor.",
+      "Hava soğuk olduğu için mont giydim.",
+      "Yemek yapmayı seviyorum.",
+      "Kitap okumayı düşünüyorum.",
+      "Sinemaya gitmeye karar verdim."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hava soğuk olduğu için mont giymek, sebep-sonuç ilişkisini açıkça belirtmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_11",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ifade eder?",
+    "options": [
+      "Ali çalışkan, Ayşe de öyle.",
+      "Ayşe çok çalışkan değil.",
+      "Ali çalışıyor, Ayşe de ders çalışıyor.",
+      "Ali sporda başarılıdır, Ayşe de.",
+      "Ali'nin kitabı, Ayşe'nin kitabı."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ali ve Ayşe'nin sporda başarılı olma durumu benzerlik ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_12",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi zaman ilişkisi içerir?",
+    "options": [
+      "Ders çalışıyorum, sonra sinemaya gideceğim.",
+      "Hava çok güzeldi.",
+      "Yemek pişiriyorum.",
+      "Güzel bir gün geçirdim.",
+      "Sinema biletimi aldım."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Sonra' ifadesi, zaman ilişkisini belirtmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_13",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde zıt anlam ilişkisi bulunur?",
+    "options": [
+      "Güzel bir gün geçti.",
+      "Karanlık ve aydınlık bir arada.",
+      "Hava çok sıcak.",
+      "Kış ayları soğuk geçer.",
+      "Parlak bir yıldız."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Karanlık' ve 'aydınlık' kelimeleri zıt anlamlıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_14",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi içerir?",
+    "options": [
+      "Kediler ve köpekler evcil hayvanlardır.",
+      "Yaz ve kış mevsimleri zıttır.",
+      "Hava çok sıcak.",
+      "Köpekler havlar.",
+      "Kediler mırlamaktadır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kediler ve köpekler arasındaki ortak özellik, benzerlik ilişkisini ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_15",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde neden-sonuç ilişkisi yoktur?",
+    "options": [
+      "Çok çalıştım, başarılı oldum.",
+      "Yağmur yağdığı için yollar ıslak.",
+      "Yemek yemedim, aç kaldım.",
+      "Sınavdan düşük not aldım, çalışmadım.",
+      "Kütüphaneye gittim, kitap okudum."
     ],
     "correctAnswer": 4,
-    "explanation": "Bu soruda, seçeneklerdeki cümlelerde bulunan anlam ilişkileri incelenmelidir. A, B, C ve D seçeneklerinde koşul-sonuç ilişkisi varken, E seçeneğinde amaç-sonuç ilişkisi bulunmaktadır.\nA) Dışarı çıkıp oynamanın koşulu, ödevlerin bitirilmesidir. (-se şart eki)\nB) Araba alınmasının koşulu, istediği üniversiteyi kazanmasıdır. (mı soru eki ile sağlanmış)\nC) Pikniğe gidilmesinin koşulu, yarın havanın güzel olmasıdır. (-se şart eki)\nD) \"Onu gördüm diye\" ifadesi \"onu gördüğüm için\" anlamında bir neden belirtir gibi görünse de cümlenin bütününe bakıldığında, \"Onu görsem bile planlarımı değiştirmem\" anlamı çıkar, bu da örtük bir koşul ifadesidir.\nE) Toplantıdan erken ayrılmasının amacı, akşam yemeğine yetişmektir. Henüz yemeğe yetişip yetişmediği belli değildir, bir hedef söz konusudur. Bu nedenle bu cümlede eylemin gerçekleşmesi bir koşula değil, bir amaca bağlanmıştır.",
+    "explanation": "Kütüphaneye gitmek ile kitap okumak arasında doğrudan bir neden-sonuç ilişkisi yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_16",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Küçük bir evde yaşıyorum.",
+      "Büyük bir evde yaşıyorum.",
+      "Dar bir sokakta oturuyorum.",
+      "Geniş bir sokakta yaşıyorum.",
+      "Uzun bir yolda yürüyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Küçük' kelimesinin 'dar' ile değiştirilmesi cümlede anlam değişikliğine yol açar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_17",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma içerir?",
+    "options": [
+      "Ali, Ayşe'den daha çalışkan.",
+      "Ali çalışkan bir öğrencidir.",
+      "Ayşe ders çalışıyor.",
+      "Ali ve Ayşe birlikte sinemaya gidecek.",
+      "Hava çok sıcak."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali'nin Ayşe ile karşılaştırılması, cümlede bir karşılaştırma ilişkisi kurmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_18",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi içerir?",
+    "options": [
+      "Hava çok sıcak.",
+      "Bugün dışarı çıkmadım.",
+      "Yağmur yağdığı için sokaklar ıslak.",
+      "Sınavdan yüksek not aldım.",
+      "Kitap okuyorum."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yağmurun etkisiyle sokakların ıslak olması, neden-sonuç ilişkisini ifade eder.",
     "difficulty": 3
   }
 ]
