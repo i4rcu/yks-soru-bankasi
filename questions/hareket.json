@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764497514798_0",
+    "id": "ai_1764498209902_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda 90 km/h sabit hızla ilerleyen 120 metre uzunluğundaki bir tren, aynı yönde 72 km/h sabit hızla gitmekte olan 5 metre uzunluğundaki bir otomobili geçmeye başlıyor. Trenin otomobili tamamen geçmesi için kaç saniye gerekir?",
+    "questionText": "Durgun halden harekete başlayan ve doğrusal bir yolda sabit 4 m/s² ivme ile hızlanan bir aracın, hareketinin 3. saniyesi içindeki yer değiştirmesi kaç metredir?",
     "options": [
-      "5",
-      "10",
-      "15",
-      "20",
-      "25"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu bir bağıl hareket problemidir. İlk olarak hızları m/s cinsine çevirmeliyiz.\n- Trenin hızı: 90 km/h = 90 * (1000m / 3600s) = 25 m/s\n- Otomobilin hızı: 72 km/h = 72 * (1000m / 3600s) = 20 m/s\n\nAraçlar aynı yönde hareket ettiği için bağıl hız, hızların farkına eşittir:\n- V_bağıl = V_tren - V_otomobil = 25 m/s - 20 m/s = 5 m/s\n\nTrenin otomobili tamamen geçmesi için alması gereken toplam yol, kendi uzunluğu ile otomobilin uzunluğunun toplamıdır:\n- x_toplam = L_tren + L_otomobil = 120 m + 5 m = 125 m\n\nGeçiş süresini (t) bulmak için x = v * t formülünü kullanırız:\n- t = x_toplam / V_bağıl = 125 m / 5 m/s = 25 saniye.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497514800_1",
-    "subjectId": "fiz",
-    "topic": "Hareket",
-    "questionText": "Durgun halden harekete başlayan bir cismin ivme-zaman grafiği şekildeki gibidir. Cismin 0-2 saniye aralığında ivmesi 4 m/s², 2-4 saniye aralığında ivmesi 0 ve 4-6 saniye aralığında ivmesi -2 m/s²'dir. Bu cismin 6. saniye sonundaki hızı kaç m/s'dir?",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "10",
-      "12"
+      "8 m",
+      "10 m",
+      "12 m",
+      "18 m",
+      "36 m"
     ],
     "correctAnswer": 1,
-    "explanation": "Hızdaki değişim (Δv), ivme-zaman (a-t) grafiğinin altında kalan alana eşittir. Cisim durgun halden başladığı için ilk hızı (v₀) sıfırdır.\n\n1. Bölge (0-2 s): Hızdaki değişim, Δv₁ = Alan₁ = 4 m/s² * 2 s = 8 m/s. Cismin 2. saniyedeki hızı v₂ = v₀ + Δv₁ = 0 + 8 = 8 m/s olur.\n\n2. Bölge (2-4 s): İvme sıfır olduğu için hız sabittir. Hızdaki değişim Δv₂ = 0'dır. Cismin 4. saniyedeki hızı v₄ = v₂ = 8 m/s'dir.\n\n3. Bölge (4-6 s): Hızdaki değişim, Δv₃ = Alan₃ = (-2 m/s²) * (6-4) s = -4 m/s. Bu bölgedeki hız değişimi negatif olduğu için cisim yavaşlamaktadır.\n\n6. saniye sonundaki toplam hızı bulmak için 4. saniyedeki hıza bu değişimi ekleriz: v₆ = v₄ + Δv₃ = 8 m/s + (-4 m/s) = 4 m/s. \n\nAlternatif olarak, toplam hız değişimi grafiğin altındaki toplam alandır: Δv_toplam = 8 + 0 + (-4) = 4 m/s. İlk hız sıfır olduğu için son hız 4 m/s olur.",
+    "explanation": "Bir cismin belirli bir zaman aralığındaki (örneğin 3. saniye) yer değiştirmesini bulmak için, o saniyenin sonundaki toplam yer değiştirmesinden bir önceki saniyenin sonundaki toplam yer değiştirmesini çıkarmalıyız. Sabit ivmeli harekette yer değiştirme formülü x = v₀t + (1/2)at²'dir. Araç durgun halden başladığı için v₀ = 0'dır.\n\n1. İlk 3 saniyedeki toplam yer değiştirme (x₃):\nx₃ = (1/2) * a * t² = (1/2) * 4 * (3)² = 2 * 9 = 18 m.\n\n2. İlk 2 saniyedeki toplam yer değiştirme (x₂):\nx₂ = (1/2) * a * t² = (1/2) * 4 * (2)² = 2 * 4 = 8 m.\n\n3. Hareketin 3. saniyesi içindeki yer değiştirme (Δx):\nΔx = x₃ - x₂ = 18 m - 8 m = 10 m.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764497514800_2",
+    "id": "ai_1764498209902_1",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda hareket eden bir aracın konum-zaman (x-t) grafiği şekildeki gibidir. Araç t=0 anında x=0 konumundan başlayarak parabolik bir yörünge izleyerek 2. saniyede x=20m konumuna ulaşıyor, daha sonra 2. ve 4. saniyeler arasında doğrusal olarak hareket ederek x=40m konumuna geliyor. Buna göre, aracın 0-4 saniye aralığındaki ortalama hızı kaç m/s'dir?",
+    "questionText": "Yere göre doğu yönünde 80 km/h sabit süratle giden bir K aracı ile yere göre kuzey yönünde 60 km/h sabit süratle giden bir L aracı aynı anda bir kavşaktan geçiyor. Buna göre, K aracının sürücüsüne göre L aracının hızının büyüklüğü kaç km/h'dir?",
     "options": [
-      "5",
-      "7.5",
-      "10",
-      "12.5",
-      "15"
+      "20",
+      "70",
+      "100",
+      "120",
+      "140"
     ],
     "correctAnswer": 2,
-    "explanation": "Ortalama hız, toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Ortalama hız formülü: V_ort = Δx / Δt.\n\nBu soruda, aracın ara anlardaki hareketi (parabolik veya doğrusal olması) ortalama hızı bulmak için doğrudan kullanılmaz. Sadece başlangıç ve bitiş konumları ile toplam süre önemlidir.\n\n- Başlangıç konumu (t=0 anında): x_ilk = 0 m\n- Bitiş konumu (t=4 s anında): x_son = 40 m\n- Toplam yer değiştirme (Δx): x_son - x_ilk = 40 m - 0 m = 40 m\n- Toplam geçen süre (Δt): 4 s - 0 s = 4 s\n\nŞimdi ortalama hızı hesaplayabiliriz:\n- V_ort = Δx / Δt = 40 m / 4 s = 10 m/s.",
+    "explanation": "Bağıl hız, vektörel bir çıkarma işlemiyle bulunur. K aracına göre L'nin hızı (V_LK) = V_L - V_K formülü ile hesaplanır. Burada V_L gözlenen, V_K ise gözlemcidir.\n\n1. Hız vektörlerini tanımlayalım: Doğu yönünü +x, kuzey yönünü +y olarak alalım.\n   - K aracının hızı: V_K = 80î km/h\n   - L aracının hızı: V_L = 60ĵ km/h\n\n2. Vektörel çıkarma işlemini yapalım:\n   V_LK = V_L - V_K = 60ĵ - 80î km/h\n\n3. Bu bağıl hız vektörünün büyüklüğünü Pisagor teoremi ile bulalım:\n   |V_LK| = √((-80)² + 60²) \n   |V_LK| = √(6400 + 3600) \n   |V_LK| = √10000 \n   |V_LK| = 100 km/h.\n\nSonuç olarak, K aracının sürücüsü, L aracını kendisinden kuzeybatı yönünde 100 km/h hızla uzaklaşıyormuş gibi görür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498209902_2",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Doğrusal bir yolda hareket eden bir cismin hız-zaman grafiği verilmiştir. Cismin hızı t=0 anında 0 iken, t=2 s anında 10 m/s'ye düzgün olarak artmakta, 2s-4s aralığında 10 m/s sabit hızla hareket etmekte ve 4s-6s aralığında ise hızı düzgün olarak azalarak 0 olmaktadır. Buna göre, cismin 0-6 saniye aralığındaki toplam yer değiştirmesi kaç metredir?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hız-zaman grafiğinin altında kalan alan, cismin yer değiştirmesini verir. Verilen grafiğin altındaki alanı hesaplamak için, grafiği üç geometrik bölgeye ayırabiliriz: bir üçgen (0-2s), bir dikdörtgen (2-4s) ve bir başka üçgen (4-6s).\n\n1. 0-2 saniye aralığındaki yer değiştirme (birinci üçgenin alanı):\n   Alan₁ = (taban × yükseklik) / 2 = (2 s × 10 m/s) / 2 = 10 m.\n\n2. 2-4 saniye aralığındaki yer değiştirme (dikdörtgenin alanı):\n   Alan₂ = taban × yükseklik = (4-2) s × 10 m/s = 2 s × 10 m/s = 20 m.\n\n3. 4-6 saniye aralığındaki yer değiştirme (ikinci üçgenin alanı):\n   Alan₃ = (taban × yükseklik) / 2 = ((6-4) s × 10 m/s) / 2 = (2 s × 10 m/s) / 2 = 10 m.\n\nToplam yer değiştirme, bu alanların toplamıdır:\nΔx_toplam = Alan₁ + Alan₂ + Alan₃ = 10 m + 20 m + 10 m = 40 m.",
     "difficulty": 3
   }
 ]
