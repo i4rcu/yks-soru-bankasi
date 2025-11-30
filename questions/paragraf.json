@@ -1,25 +1,41 @@
 [
   {
-    "id": "ai_1764500304092_0",
+    "id": "ai_1764501591113_0",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Başarısızlık korkusu, pek çok insanın potansiyelini ortaya koymasının önündeki en büyük engeldir. Yeni bir şey denerken hata yapmaktan çekinir, eleştirilmekten korkarız. Oysa öğrenme süreci, deneme yanılma üzerine kuruludur. Tarihteki büyük buluşların ve icatların arkasında sayısız başarısız deneme yatar. Bu yüzden, ----.",
+    "questionText": "Sanat, yalnızca estetik bir haz aracı değildir; aynı zamanda toplumun vicdanı ve belleğidir. Tarih boyunca sanatçılar, eserleri aracılığıyla toplumsal adaletsizliklere, siyasi baskılara ve unutulmaya yüz tutmuş acılara dikkat çekmişlerdir. Bir ressamın tuvalindeki fırça darbesi, bir yazarın kaleminden dökülen kelimeler ya da bir müzisyenin bestesindeki notalar, çoğu zaman en etkili tarih kitaplarından veya en gür sesli nutuklardan daha kalıcı izler bırakır. Sanat, gerçeği süslü kelimelerin ardına gizlemek yerine, onu en yalın ve sarsıcı hâliyle insanın karşısına çıkararak bir yüzleşme imkânı sunar. Bu yönüyle sanat, toplumu uyandıran ve onu daha iyi bir geleceğe yönlendiren bir pusula gibidir.",
     "options": [
-      "her zaman en güvenli yolu tercih etmek gerekir",
-      "hataları, hedefe giden yolda birer basamak olarak görmek gerekir",
-      "başkalarının tecrübelerinden ders çıkarmak anlamsızdır",
-      "başarıya ulaşmak için yetenek tek başına yeterlidir",
-      "denemekten vazgeçip uzmanlara danışmak en doğrusudur"
+      "Sanat eserlerinin estetik değeri, toplumsal mesajlarından daha önemlidir.",
+      "Sanatçılar, toplumsal sorunlara her zaman objektif bir açıdan yaklaşmalıdır.",
+      "Sanatın asıl işlevi, toplumsal olaylara tanıklık etmek ve toplumu bilinçlendirmektir.",
+      "Tarih kitapları, sanatsal ürünlere göre geçmişi daha doğru yansıtır.",
+      "Sanat, sadece yetenekli insanların uğraşabileceği seçkin bir alandır."
     ],
-    "correctAnswer": 1,
-    "explanation": "Parçada, başarısızlık korkusunun bir engel olduğu ve öğrenme sürecinin hatalarla dolu olduğu vurgulanmaktadır. Tarihteki büyük buluşların bile başarısız denemeler sonucu ortaya çıktığı belirtilmiştir. Bu nedenle, parçanın sonuna düşüncenin akışına uygun olarak, hatalara olumlu bir anlam yükleyen ve onları öğrenme sürecinin bir parçası olarak gören bir ifade getirilmelidir. 'Hataları, hedefe giden yolda birer basamak olarak görmek gerekir' ifadesi, bu anlamı en iyi şekilde tamamlamaktadır.",
+    "correctAnswer": 2,
+    "explanation": "Paragraf boyunca sanatın sadece estetik bir zevk unsuru olmadığı, asıl önemli yönünün toplumsal bir bellek ve vicdan işlevi görmesi olduğu vurgulanmaktadır. 'Sanatçılar, eserleri aracılığıyla toplumsal adaletsizliklere dikkat çekmişlerdir.', 'gerçeği en yalın hâliyle insanın karşısına çıkarır' ve 'toplumu uyandıran bir pusula gibidir' ifadeleri, sanatın toplumu bilinçlendirme ve ona tanıklık etme işlevini ön plana çıkarmaktadır. Dolayısıyla parçanın ana düşüncesi C seçeneğinde doğru bir şekilde özetlenmiştir. A seçeneği parçanın ilk cümlesiyle çelişir. B seçeneği sanatçının objektifliğinden bahsetmez, aksine bir duruş sergilediğini ima eder. D seçeneği, parçadaki 'en etkili tarih kitaplarından daha kalıcı izler bırakır' ifadesiyle çelişir. E seçeneği ise parçanın konusu dışındadır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500304092_1",
+    "id": "ai_1764501591113_1",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "(I) Akdeniz mutfağı, zeytinyağı, taze sebzeler ve deniz ürünleri ağırlıklı yapısıyla bilinir. (II) Bu beslenme tarzının sağlık üzerindeki olumlu etkileri bilimsel olarak da kanıtlanmıştır. (III) Özellikle kalp ve damar sağlığını korumada önemli bir rol oynar. (IV) İtalya'nın güney sahilleri, yaz aylarında çok sayıda turist çeker. (V) Yemeklerde baharat ve taze otların kullanımı da lezzeti artıran önemli unsurlardandır.",
+    "questionText": "Popüler kültür, bireyleri hızla değişen trendlerin peşinden sürükleyen, anlık ve yüzeysel bir yapıya sahiptir. Dün herkesin dilinde olan bir şarkı, bugün unutulmaya yüz tutar. Bir ay önce popüler olan bir giyim tarzı, yerini hızla bir başkasına bırakır. Bu döngü, bireyde sürekli bir 'yeni olanı yakalama' telaşı yaratır ve bu durum, derinlikli düşünme ve kalıcı değerler oluşturma yetisini zayıflatır. İnsanlar, popüler olanı takip etme baskısı altında kendi özgün zevklerini ve kimliklerini inşa etmekte zorlanır. Bu nedenle popüler kültür ürünleri, genellikle kalıcılıktan uzak, 'kullan-at' mantığıyla üretilmiş gibidir.",
+    "options": [
+      "Popüler kültürün bireylerin kimlik gelişimine olumlu katkıları vardır.",
+      "Popüler kültür ürünlerinin sanatsal nitelikleri oldukça yüksektir.",
+      "Toplumun büyük bir kesimi popüler kültürün etkisinden uzaktır.",
+      "Popüler kültür, sürekli bir değişim ve geçicilik üzerine kuruludur.",
+      "Kalıcı eserler üretebilmek için popüler kültürü yakından takip etmek gerekir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafta popüler kültürün 'hızla değişen trendler', 'anlık ve yüzeysel yapı', 'dün popüler olanın bugün unutulması' gibi özelliklerinden bahsedilmektedir. Bu ifadeler, popüler kültürün temel özelliğinin sürekli bir değişim, geçicilik ve kalıcı olmama durumu olduğunu vurgular. D seçeneği bu durumu doğru bir şekilde özetlemektedir. A seçeneği parçadaki 'kimliklerini inşa etmekte zorlanır' ifadesiyle çelişir. B seçeneği, 'yüzeysel' ve 'kullan-at' mantığı ifadeleriyle çelişir. C seçeneği hakkında parçada bir bilgi yoktur. E seçeneği ise parçanın genel düşüncesiyle taban tabana zıttır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591114_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Eleştiri, bir sanat eserini ya da düşünceyi belirli ölçütlere göre değerlendirme işidir. (II) Amacı, eseri daha anlaşılır kılmak, onun güçlü ve zayıf yönlerini ortaya koymaktır. (III) İyi bir eleştirmen, esere kişisel önyargılarından arınmış bir şekilde, nesnel bir gözle yaklaşır. (IV) Sanat eserleri, eleştirmenler olmasa da kendi değerini zamanla bulur. (V) Böylece hem sanatçının gelişimine katkıda bulunur hem de okurun veya izleyicinin eseri daha derinlemesine kavramasına yardımcı olur.",
     "options": [
       "I",
       "II",
@@ -28,103 +44,87 @@
       "V"
     ],
     "correctAnswer": 3,
-    "explanation": "Parçanın genel konusu Akdeniz mutfağının özellikleri ve sağlığa faydalarıdır. I, II, III ve V numaralı cümleler bu konu etrafında şekillenmektedir. I. cümlede mutfağın temel malzemeleri, II. ve III. cümlelerde sağlıkla ilişkisi, V. cümlede ise lezzet unsurları belirtilmiştir. Ancak IV. cümle, konudan saparak İtalya'daki turizmden bahsetmektedir. Bu cümle, paragrafın genel anlam bütünlüğüne uymadığı için düşüncenin akışını bozmaktadır.",
+    "explanation": "Paragrafın genelinde eleştirinin tanımı, amacı ve iyi bir eleştirmenin özellikleri anlatılmaktadır. I, II, III ve V numaralı cümleler bir bütünlük içinde eleştirinin işlevlerini ve niteliklerini açıklamaktadır. III. cümleden sonra V. cümlenin gelmesi anlam akışını tamamlamaktadır ('nesnel bir gözle yaklaşır' ve 'böylece sanatçının gelişimine katkıda bulunur'). Ancak IV. cümlede, konunun dışına çıkılarak eleştirinin gerekliliği sorgulayan, farklı bir yargı dile getirilmiştir. Bu cümle, paragrafın genel akışını ve anlam bütünlüğünü bozmaktadır. Bu yüzden doğru cevap IV'tür.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500304092_2",
+    "id": "ai_1764501591114_3",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Pek çok insan uykuyu sadece bedensel bir dinlenme olarak görür. Ancak uykunun zihinsel sağlık ve bilişsel işlevler için önemi çok daha derindir. Uyku sırasında beyin, gün içinde öğrenilen bilgileri düzenler, önemli olanları kalıcı hafızaya aktarır ve gereksizleri eler. Bu sürece 'hafıza pekiştirme' denir. Ayrıca, yaratıcı problem çözme yeteneğimizin de yeterli ve kaliteli uykuyla doğrudan ilişkili olduğu kanıtlanmıştır. Kısacası uyku, zihnin kendini yenilediği ve organize ettiği aktif bir süreçtir.",
+    "questionText": "Dil, yaşayan bir organizma gibidir; sürekli değişir, gelişir ve yeni koşullara uyum sağlar. Toplumun yaşamındaki her değişim, teknolojik yenilikler, kültürel etkileşimler ve sosyal olaylar dile yeni kelimeler kazandırır. Bazı kelimeler zamanla eskiyerek kullanımdan düşerken, bazıları da yeni anlamlar kazanarak varlığını sürdürür. Bu dinamik yapı, dilin canlılığının ve işlevselliğinin en temel göstergesidir. ---. Bu nedenle dili, kuralları asla değişmeyen statik bir yapı olarak görmek büyük bir yanılgıdır.",
     "options": [
-      "İnsanlar günde ortalama kaç saat uyumalıdır?",
-      "Uykusuzluk hangi fiziksel rahatsızlıklara yol açar?",
-      "Uykunun zihinsel faaliyetler üzerindeki rolü nedir?",
-      "Rüyalar neden ve nasıl görülür?",
-      "Farklı yaş gruplarının uyku ihtiyacı değişir mi?"
+      "Dilin kurallarını korumak için yabancı kökenli sözcüklerden kaçınmak gerekir.",
+      "Ancak dilin temel yapısı ve gramer kuralları yüzyıllar boyunca aynı kalır.",
+      "Yani durağanlık, dilin doğasına aykırı bir durumdur ve onun ölümüne neden olabilir.",
+      "Her birey, dili doğru kullanma konusunda üzerine düşen sorumluluğu yerine getirmelidir.",
+      "Yazı dilinin, konuşma diline göre daha yavaş değiştiği bir gerçektir."
     ],
     "correctAnswer": 2,
-    "explanation": "Paragraf, uykunun sadece bedensel bir dinlenme olmadığını, özellikle zihinsel işlevler için ne kadar önemli olduğunu açıklamaktadır. Metinde uykunun hafızayı güçlendirdiği, bilgileri düzenlediği ve yaratıcı problem çözme yeteneğini artırdığı gibi konulara odaklanılmaktadır. Bu bilgiler, 'Uykunun zihinsel faaliyetler üzerindeki rolü nedir?' sorusuna doğrudan ve kapsamlı bir cevap niteliğindedir. Diğer şıklardaki soruların (uyku süresi, fiziksel rahatsızlıklar, rüyalar, yaş grupları) cevabı paragrafta bulunmamaktadır.",
+    "explanation": "Paragrafta dilin 'yaşayan bir organizma' gibi sürekli değişen, dinamik bir yapıda olduğu anlatılmaktadır. Boşluktan önceki cümle, bu dinamik yapının dilin canlılığını gösterdiğini belirtiyor. Boşluktan sonraki cümle ise 'Bu nedenle...' diye başlayarak bir sonuç bildiriyor ve dili statik görmenin bir yanılgı olduğunu söylüyor. Bu bağlamda, boşluğa gelmesi gereken cümlenin, önceki fikirleri özetleyip sonraki sonuç cümlesine zemin hazırlaması gerekir. C seçeneğindeki 'Yani durağanlık, dilin doğasına aykırı bir durumdur...' ifadesi, paragrafın başından beri anlatılan 'değişkenlik' ve 'canlılık' fikrini mükemmel bir şekilde özetler ve 'Bu nedenle statik görmek yanılgıdır' sonucuna doğal bir geçiş sağlar. Diğer seçenekler paragrafın ana fikriyle tam olarak örtüşmemekte veya akışı bozmaktadır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500304092_3",
+    "id": "ai_1764501591114_4",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Kitaplar, sessiz öğretmenlerdir. Bize farklı dünyaların kapılarını aralar, hiç gitmediğimiz yerlere götürür, hiç tanımadığımız insanlarla tanıştırırlar. Onların sayfalarında gezinirken hem kelime dağarcığımız zenginleşir hem de empati yeteneğimiz gelişir. Başka bir karakterin gözünden hayata bakmak, kendi düşünce kalıplarımızın dışına çıkmamızı sağlar. Bu sayede olaylara daha geniş bir perspektiften yaklaşmayı öğreniriz.",
+    "questionText": "Dijital çağın getirdiği en büyük yanılsamalardan biri, bilgiye kolay ulaşmanın bilgili olmakla eşdeğer tutulmasıdır. Oysa internet, ham ve işlenmemiş bir veri yığınından ibarettir. Doğrusuyla yanlışıyla, önemlisiyle önemsiziyle her şey bir aradadır. Bilgili olmak ise bu veri yığını içinden doğru olanı seçebilme, ayıklayabilme, analiz edebilme ve sentezleyerek anlamlı bir bütün oluşturabilme becerisidir. Sadece bilgiye erişmek, bir kütüphanedeki tüm kitaplara sahip olup hiçbirini okumamak gibidir. Asıl mesele, o kitapları okuyup anlamak ve hayata geçirmektir.",
     "options": [
-      "Kitap okumanın akademik başarıyı garantilediğine",
-      "Okumanın yalnızca bir boş zaman aktivitesi olduğuna",
-      "Her kitabın okuyucuya aynı deneyimi yaşattığına",
-      "Okumanın bireysel gelişim ve anlayış üzerindeki çok yönlü etkilerine",
-      "İyi bir okur olmak için çok hızlı okumak gerektiğine"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parçada kitapların insan üzerindeki çeşitli olumlu etkilerinden bahsedilmektedir. Farklı dünyaları tanıtması, kelime dağarcığını zenginleştirmesi, empatiyi geliştirmesi ve bakış açısını genişletmesi gibi faydaları sıralanmıştır. Bu ifadeler, bir bütün olarak okumanın kişisel gelişim ve dünyaya daha anlayışlı bakma konusundaki çok yönlü katkılarını anlatmaktadır. Dolayısıyla parçada asıl anlatılmak istenen D şıkkında doğru bir şekilde özetlenmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_4",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "(I) Dijitalleşme, hayatımızın her alanını derinden etkiliyor. (II) Alışveriş alışkanlıklarımızdan sosyal ilişkilerimize kadar pek çok rutinimiz bu dönüşümden payını aldı. (III) Özellikle Z kuşağı, bu dijital dünyanın içine doğmuş bir nesil olarak öne çıkıyor. (IV) Bu kuşağın teknolojiyle olan ilişkisi, önceki nesillerden oldukça farklı dinamikler barındırıyor. (V) Önceki nesiller ise teknolojiyi sonradan öğrenmek ve ona adapte olmak zorunda kaldı.",
-    "options": [
-      "II",
-      "III",
-      "IV",
-      "V",
-      "Paragraf bölünemez"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Parçanın ilk iki cümlesi (I ve II), dijitalleşmenin genel etkilerinden bahsetmektedir. Konu genel bir çerçevede ele alınmıştır. Ancak III. cümleden itibaren konu özelleşerek 'Z kuşağı' ve nesiller arası teknoloji kullanımı farkına odaklanmaktadır. III, IV ve V. cümleler birbiriyle doğrudan bağlantılı olup Z kuşağı ve önceki nesilleri karşılaştırmaktadır. Bu nedenle, konunun genelden özele geçtiği III. cümle, yeni bir paragrafın başlangıcı olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_5",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Minimalizm, en basit tanımıyla 'az ama özdür' felsefesine dayanan bir yaşam biçimi ve sanat akımıdır. Bu akım, nesnelerin ve bilgilerin fazlalığından arınarak sadeliği ve işlevselliği ön plana çıkarır. Örneğin bir minimalist evde, sadece gerçekten ihtiyaç duyulan, bir amaca hizmet eden eşyalar bulunur. Tüketim kültürünün sürekli 'daha fazlasını al' telkininin aksine minimalizm, 'daha azıyla mutlu ol' mesajını verir. Bu yönüyle modern insanın karmaşadan kaçış arayışına bir cevap niteliğindedir.",
-    "options": [
-      "Öyküleme - Betimleme",
-      "Tanımlama - Karşılaştırma",
-      "Tartışma - Tanık gösterme",
-      "Açıklama - Benzetme",
-      "Betimleme - Örnekleme"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Parçanın ilk cümlesi, 'Minimalizm, ... bir yaşam biçimi ve sanat akımıdır.' diyerek doğrudan bir tanım yapmaktadır. Parçanın devamında ise minimalizm, 'Tüketim kültürünün ... aksine' ifadesiyle tüketim kültürüyle karşılaştırılmaktadır. Ayrıca 'örneğin' denilerek örneklemeye de başvurulmuştur. Ancak şıklar arasında hem tanımlama hem de karşılaştırmayı içeren B seçeneği, parçada en ağır basan anlatım tekniklerini bir arada sunmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_6",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Popüler kültür, hızla üretilip aynı hızla tüketilen bir yapıya sahiptir. Anlık heveslere ve geçici modalara dayanır. Derinlikli bir anlam veya kalıcı bir estetik kaygı taşımaz. Sanat eserleri ise tam tersine, zamana meydan okuyan, evrensel değerler taşıyan ve üzerinden yıllar geçse de güncelliğini yitirmeyen yapıtlardır. Bir popüler şarkı birkaç ayda unutulurken, bir Beethoven bestesi yüzyıllardır dinlenmektedir.",
-    "options": [
-      "Popüler kültür ürünlerinin sanatsal değer taşımadığına",
-      "Sanatın sadece belli bir zümreye hitap ettiğine",
-      "Popüler kültür ile sanat arasındaki temel farkın kalıcılık olduğuna",
-      "Teknolojinin popüler kültürün yayılmasını hızlandırdığına",
-      "Sanatçıların popüler kültüre karşı durması gerektiğine"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu paragrafta popüler kültür ile sanat eseri karşılaştırılmaktadır. Popüler kültürün 'hızla tüketilme', 'geçici olma' gibi özelliklerine karşılık, sanat eserlerinin 'zamana meydan okuma', 'kalıcı olma' ve 'yüzyıllardır dinlenme' gibi özellikleri vurgulanmıştır. Bu karşılaştırmanın temel ekseni, kalıcılık ve zamana karşı direnebilmektir. Dolayısıyla, parçadan çıkarılabilecek en temel yargı, ikisi arasındaki asıl farkın kalıcılık olduğudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_7",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Eleştiri, bir eseri veya sanatçıyı yok etme, küçük düşürme sanatı değildir. Aksine, yapıcı bir eleştiri, eserin daha iyi anlaşılmasına, sanatçının ise kendini geliştirmesine olanak tanır. Objektif ölçütlere dayanan, eserin hem olumlu hem de olumsuz yönlerini ortaya koyan bir değerlendirme, hem okura hem de yazara yol gösterir. Sadece kişisel beğenilere dayanan, övgü ya da yergiden ibaret olan yazılar ise eleştiri değil, olsa olsa birer okur yorumu olabilir.",
-    "options": [
-      "Eleştirinin amacının yol göstermek ve geliştirmek olduğuna",
-      "Her okurun aynı zamanda bir eleştirmen olduğuna",
-      "Sanatçıların eleştiriye açık olmaları gerektiğine",
-      "Eleştirinin sadece olumsuz yönlere odaklanması gerektiğine",
-      "İyi bir eserin eleştiriye ihtiyaç duymadığına"
+      "Bilgiye erişim kolaylığı ve bilgili olma arasındaki farka",
+      "İnternetin güvenilmez bir bilgi kaynağı olduğuna",
+      "Dijital çağda kütüphanelerin önemini yitirdiğine",
+      "Bilgiye ulaşmak için harcanan çabanın gereksizliğine",
+      "Analiz ve sentez becerilerinin nasıl geliştirileceğine"
     ],
     "correctAnswer": 0,
-    "explanation": "Paragraf boyunca eleştirinin yıkıcı değil, yapıcı olması gerektiği fikri işlenmiştir. 'Yapıcı bir eleştiri', 'sanatçının kendini geliştirmesine olanak tanır', 'hem okura hem de yazara yol gösterir' gibi ifadeler, eleştirinin temel amacının yok etmek değil, geliştirmek ve yol göstermek olduğunu vurgulamaktadır. Parçanın ana fikri, eleştirinin olumlu ve yapıcı işlevine odaklanmıştır. Bu nedenle doğru cevap A seçeneğidir.",
+    "explanation": "Paragrafta temel olarak 'bilgiye kolay ulaşmak' ile 'gerçekten bilgili olmak' arasındaki ayrım vurgulanmaktadır. Yazar, internet sayesinde bilgiye erişimin kolaylaştığını ancak bunun tek başına bilgili olmak anlamına gelmediğini, asıl önemli olanın bu bilgiyi işleme (seçme, analiz etme, sentezleme) becerisi olduğunu belirtmektedir. Kütüphane örneği de bu fikri pekiştirmek için kullanılmıştır. Dolayısıyla paragrafta 'bilgiye erişim kolaylığı ve bilgili olma arasındaki fark' üzerinde durulmaktadır. Diğer seçenekler ya parçada değinilmeyen ya da parçanın ana fikri olmayan yan konulardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591114_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir yazar, romanını kurgularken okurun zihninde bir dünya yaratmayı hedefler. Bu dünyayı inandırıcı kılmanın yolu ise detaylardan geçer. Karakterin yürüyüşü, odanın duvarındaki tablonun rengi, pencereden sızan ışığın açısı... Tüm bu küçük ayrıntılar, anlatılan hikâyeye derinlik ve gerçeklik hissi katar. Okur, bu detaylar sayesinde kendini anlatılan mekânın içinde hisseder, karakterlerle empati kurar. Detaylardan yoksun bir anlatı, iskeleti belli olan ama üzeri etle kaplanmamış bir canlıya benzer; soğuk, yavan ve ruhsuzdur. İyi bir yazar, neyi ne kadar anlatacağını bilen, detayları bir dantel gibi özenle işleyen bir ustadır.",
+    "options": [
+      "Romanda kurgunun olay örgüsünden daha önemli olduğu",
+      "İyi bir yazarın üslubunun sade ve anlaşılır olması gerektiği",
+      "Edebi eserlerde detayların, anlatımı inandırıcı ve canlı kıldığı",
+      "Okurun bir romanı beğenmesinin kişisel zevklere bağlı olduğu",
+      "Karakter yaratmanın, bir roman yazmanın en zor aşaması olduğu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta, bir romanı inandırıcı ve etkileyici kılan unsurun 'detaylar' olduğu fikri işlenmektedir. Yazar, 'küçük ayrıntıların hikâyeye derinlik ve gerçeklik hissi kattığını', 'detaylardan yoksun bir anlatının yavan ve ruhsuz olacağını' belirterek detayların önemini vurgulamıştır. C seçeneği, bu ana fikri en doğru şekilde ifade etmektedir. Diğer seçenekler parçada doğrudan vurgulanan düşünceler değildir. A seçeneği bir karşılaştırma yapar ki parçada bu yoktur. B seçeneği üslubun sadeliğinden bahsetmez. D ve E seçenekleri ise metnin konusu dışındadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591114_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yapay zekâ teknolojileri, sağlık sektöründe devrim niteliğinde değişikliklere yol açıyor. Özellikle teşhis süreçlerinde, insan gözünün kaçırabileceği en küçük anormallikleri bile tespit edebilen algoritmalar geliştirildi. Bu algoritmalar, milyonlarca tıbbi görüntüyü (MR, röntgen vb.) analiz ederek hastalıkları erken evrede ve yüksek bir isabet oranıyla saptayabiliyor. Bu durum, hem doktorların iş yükünü hafifletiyor hem de hastalar için daha hızlı ve doğru teşhis imkânı sunuyor. Ayrıca kişiye özel tedavi planlarının oluşturulmasında da yapay zekâdan faydalanılıyor. Hastanın genetik yapısı, yaşam tarzı ve tıbbi geçmişi gibi veriler analiz edilerek en etkili tedavi yöntemi belirlenebiliyor.",
+    "options": [
+      "Yapay zekânın doktorların yerini tamamen alacağına",
+      "Kişiye özel tedavi yöntemlerinin henüz deneme aşamasında olduğuna",
+      "Tıbbi görüntüleme tekniklerinin yetersiz kaldığına",
+      "Yapay zekâ uygulamalarının teşhis ve tedavi süreçlerini iyileştirdiğine",
+      "Sağlık sektöründeki en büyük sorunun doktorların iş yükü olduğuna"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragraftan çıkarılabilecek en kapsamlı yargı, yapay zekânın sağlık alanında, özellikle teşhis ve tedavi süreçlerinde olumlu gelişmeler sağladığıdır. Parçada yapay zekânın 'hastalıkları erken evrede saptadığı', 'doktorların iş yükünü hafiflettiği', 'hızlı ve doğru teşhis sunduğu' ve 'kişiye özel tedavi planları oluşturduğu' belirtilmektedir. Tüm bu bilgiler, D seçeneğindeki yargıyı desteklemektedir. A seçeneği, 'doktorların iş yükünü hafifletiyor' ifadesiyle çelişir, yerini alacağından bahsedilmez. B seçeneği hakkında bir bilgi yoktur, aksine uygulandığı anlatılır. C seçeneği yanlıştır, yapay zekânın bu teknikleri kullandığı belirtilir. E seçeneği ise parçanın ana konusu değildir, sadece bir yan unsur olarak değinilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591114_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Sahra Çölü, dünyanın en büyük sıcak çölü olarak Afrika kıtasının kuzeyini kaplar. (II) Yüz ölçümü yaklaşık olarak Amerika Birleşik Devletleri kadardır. (III) Bu devasa coğrafyada yıllık yağış miktarı oldukça düşüktür ve sıcaklıklar gündüzleri aşırı yüksekken geceleri donma noktasının altına inebilir. (IV) Çöl iklimine uyum sağlamış develer, bu zorlu koşullarda ulaşım için vazgeçilmezdir. (V) Buna rağmen, vahalarda ve yer altı su kaynaklarının bulunduğu nadir bölgelerde şaşırtıcı bir bitki ve hayvan çeşitliliği barındırır.",
+    "options": [
+      "Tanımlama - Karşılaştırma",
+      "Açıklama - Örnekleme",
+      "Betimleme - Benzetme",
+      "Tartışma - Tanık Gösterme",
+      "Öyküleme - Sayısal Verilerden Yararlanma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paragraf, Sahra Çölü hakkında bilgi vermek amacıyla yazılmıştır. Bu nedenle başvurulan temel anlatım biçimi 'Açıklama'dır. Yazar, çölün özellikleri (yüz ölçümü, iklim, canlı yaşamı) hakkında nesnel bilgiler sunar. Paragrafın son cümlesinde ise çöldeki zorlu koşullara rağmen var olan canlı yaşamına 'vahalarda ve yer altı su kaynaklarının bulunduğu bölgeler' gösterilerek 'Örnekleme' yapılmıştır. Paragrafta bir kavramın ne olduğu anlatılmadığı için 'Tanımlama' baskın değildir. Bir varlık okuyucunun zihninde canlandırılmaya çalışılmadığı için 'Betimleme' de yoktur. İki farklı görüşün çatışması olmadığı için 'Tartışma'dan söz edilemez. Bu nedenle en doğru cevap 'Açıklama - Örnekleme'dir.",
     "difficulty": 3
   }
 ]
