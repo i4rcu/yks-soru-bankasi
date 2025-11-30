@@ -1,34 +1,18 @@
 [
   {
-    "id": "ai_1764500335419_0",
+    "id": "ai_1764501620898_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Güneşin batışını izlerken, gökyüzünün kızıla boyanmasıyla birlikte içimde tarifsiz bir hüzün belirdi.\n\nBu cümlenin yapısı aşağıdakilerden hangisidir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
     "options": [
-      "Basit Cümle",
-      "Sıralı Cümle",
-      "Girişik Birleşik Cümle",
-      "Bağlı Cümle",
-      "Şartlı Birleşik Cümle"
+      "Uzun zamandır görmediği arkadaşıyla karşılaşınca ayaküstü sohbet etmeye başladı.",
+      "Adam yavaşça koltuğundan kalktı, pencereye doğru sakince yürüdü.",
+      "Yazar, okurlarına yeni bir dünyanın kapılarını aralayan eserler kaleme almayı hedefliyordu.",
+      "Sınav sonuçları açıklandığında istediği bölümü kazandığını öğrenen genç, sevinçten havalara uçtu.",
+      "Sorunları görmezden gelerek hiçbir yere varılamayacağını hepimiz biliyoruz."
     ],
-    "correctAnswer": 2,
-    "explanation": "Bu cümle, tek bir temel yargı (yüklem: belirdi) içerdiği ve bu temel yargıya bağlı fiilimsi (zarf-fiil: izlerken) barındırdığı için yapıca \"Girişik Birleşik Cümle\"dir. Cümlenin tek bir yüklemi vardır, bu nedenle basit cümle değildir. Birden fazla cümlenin virgül veya noktalı virgülle bağlanmaması nedeniyle sıralı cümle, bağlaçla bağlanmaması nedeniyle de bağlı cümle değildir. İçinde şart anlamı taşıyan bir ek (-se/-sa) bulunmadığı için şartlı birleşik cümle de olamaz. Cümledeki \"izlerken\" zarf-fiili, yan cümlecik kurarak cümleyi birleşik yapılı hale getirmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500335419_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Uzak diyarlardan gelen bu eski mektubu, yıllardır kimsenin açmadığı o sandıkta buldum dün akşam.\n\nBu cümleyle ilgili aşağıdaki yargılardan hangisi doğrudur?",
-    "options": [
-      "Yüklemin türüne göre isim, öge dizilişine göre kurallı bir cümledir.",
-      "Yapısına göre basit, anlamına göre olumlu bir cümledir.",
-      "Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.",
-      "Yapısına göre sıralı, anlamına göre olumlu bir cümledir.",
-      "Yüklemin türüne göre fiil, öge dizilişine göre kurallı bir cümledir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümleyi inceleyelim:\n1. **Yüklem:** \"buldum\" kelimesi bir fiil olduğu için cümle \"fiil cümlesi\"dir.\n2. **Öge Dizilişi:** Yüklem olan \"buldum\" kelimesi cümlenin sonunda yer almadığı için cümle \"devrik cümle\"dir.\n3. **Yapısı:** Cümlenin tek bir yüklemi (\"buldum\") olmasına rağmen içinde \"gelen\" (sıfat-fiil) ve \"açmadığı\" (sıfat-fiil) gibi fiilimsiler bulunmaktadır. İçinde fiilimsi bulunan ve tek yüklemi olan cümleler \"birleşik cümle\"dir.\n4. **Anlamı:** Bulma eylemi gerçekleştiği için cümle \"olumlu cümle\"dir.\nBu bilgilere göre, C seçeneğindeki \"Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.\" ifadesi doğrudur. Diğer şıklar yanlıştır çünkü A'da \"isim\" ve \"kurallı\", B'de \"basit\", D'de \"sıralı\", E'de ise \"kurallı\" ifadeleri hatalıdır.",
+    "correctAnswer": 1,
+    "explanation": "Cümleler yapılarına göre basit, birleşik, sıralı ve bağlı olmak üzere dörde ayrılır. Bir cümlenin yapısını belirlerken temel olarak yüklem sayısına ve cümle içinde fiilimsi bulunup bulunmadığına bakılır.\n\n*   **A seçeneğinde;** \"başladı\" tek yüklemdir. Cümlede \"görmediği\", \"karşılaşınca\", \"etmeye\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **C seçeneğinde;** \"hedefliyordu\" tek yüklemdir. Cümlede \"aralayan\" ve \"almayı\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **D seçeneğinde;** \"uçtu\" tek yüklemdir. Cümlede \"açıklandığında\", \"istediği\", \"kazandığını\", \"öğrenen\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **E seçeneğinde;** \"biliyoruz\" tek yüklemdir. Cümlede \"gelerek\" ve \"varılamayacağını\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **B seçeneğinde ise;** \"kalktı\" ve \"yürüdü\" olmak üzere iki ayrı yüklem bulunmaktadır. Bu iki yargı (cümle) birbirine virgülle bağlanmıştır. Birden fazla yüklemi olan ve bu yüklemlerin birbirine virgül veya noktalı virgülle bağlandığı cümlelere \"sıralı cümle\" denir. \n\nDolayısıyla A, C, D ve E seçenekleri yapıca \"birleşik\" iken, B seçeneği \"sıralı\" bir cümledir. Bu nedenle doğru cevap B'dir.",
     "difficulty": 3
   }
 ]
