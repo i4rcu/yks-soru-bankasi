@@ -1,98 +1,50 @@
 [
   {
-    "id": "ai_1764500671751_0",
+    "id": "ai_1764519185860_0",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "Gerçel sayılar kümesinde tanımlı f ve g fonksiyonları için f(x - 1) = 3x + 2 ve g(x + 2) = 4x - 1 olarak veriliyor. Buna göre, (fog)(3) ifadesinin değeri kaçtır?",
+    "questionText": "f(x) = 2x + 3 fonksiyonunun x = 4 için değeri nedir?",
     "options": [
+      "8",
+      "10",
       "11",
       "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "correctAnswer": 3,
-    "explanation": "(fog)(3) ifadesi f(g(3)) anlamına gelir. İlk olarak g(3) değerini bulmamız gerekir.\ng(x + 2) = 4x - 1 fonksiyonunda parantez içini 3'e eşitleyelim: x + 2 = 3 => x = 1.\nBu x değerini eşitliğin sağ tarafında yerine yazarsak: g(3) = 4(1) - 1 = 3 olur.\nŞimdi f(g(3)) yani f(3) değerini bulmalıyız.\nf(x - 1) = 3x + 2 fonksiyonunda parantez içini 3'e eşitleyelim: x - 1 = 3 => x = 4.\nBu x değerini eşitliğin sağ tarafında yerine yazarsak: f(3) = 3(4) + 2 = 12 + 2 = 14 olur.\nSonuç olarak (fog)(3) = 14'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500671751_1",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "Uygun koşullarda tanımlı f fonksiyonu için f(3x - 2) = 6x + 5 olduğuna göre, f⁻¹(x) (f'nin tersi) fonksiyonu aşağıdakilerden hangisidir?",
-    "options": [
-      "(x - 9) / 2",
-      "(x + 9) / 2",
-      "2x - 9",
-      "(x - 5) / 6",
-      "(x + 2) / 3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu soruyu çözmek için önce f(x) fonksiyonunu bulmalıyız. f(3x - 2)'nin içindeki ifadeyi (3x - 2)'yi tek bir değişkene dönüştürelim. Örneğin, A = 3x - 2 olsun. Buradan x'i yalnız bırakırsak x = (A + 2) / 3 olur.\nŞimdi f(A) = 6x + 5 ifadesinde x yerine bulduğumuz (A + 2) / 3 değerini yazalım:\nf(A) = 6 * ((A + 2) / 3) + 5\nf(A) = 2 * (A + 2) + 5\nf(A) = 2A + 4 + 5\nf(A) = 2A + 9\nDeğişkeni x'e çevirirsek, f(x) = 2x + 9 olur.\nŞimdi f(x) fonksiyonunun tersi olan f⁻¹(x)'i bulalım. y = 2x + 9 denkleminde x'i yalnız bırakırız:\ny - 9 = 2x\nx = (y - 9) / 2\nSon olarak, x ve y'nin yerlerini değiştiririz: y = (x - 9) / 2. Dolayısıyla, f⁻¹(x) = (x - 9) / 2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500671751_2",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "Aşağıda, grafiği (-2, 0), (0, 2), (3, 4) ve (5, 0) noktalarından geçen y = f(x) fonksiyonu verilmiştir. Buna göre, (f(0) + f⁻¹(4)) / f(5) ifadesinin değeri kaçtır?",
-    "options": [
-      "Tanımsızdır",
-      "0",
-      "1",
-      "5/4",
-      "2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İfadeyi hesaplamak için grafikten ilgili değerleri okumalıyız:\n1. f(0) değerini bulmak için x ekseninde 0'ı bulur ve grafiğin y eksenini kestiği noktaya bakarız. Grafik (0, 2) noktasından geçtiği için f(0) = 2'dir.\n2. f⁻¹(4) değerini bulmak için y ekseninde 4'ü bulur ve bu değere karşılık gelen x değerine bakarız. f(x) = 4 ise x kaçtır? Grafik (3, 4) noktasından geçtiği için f(3) = 4, dolayısıyla f⁻¹(4) = 3'tür.\n3. f(5) değerini bulmak için x ekseninde 5'i bulur ve grafiğin bu noktadaki y değerine bakarız. Grafik (5, 0) noktasından geçtiği için f(5) = 0'dır.\nŞimdi bu değerleri ifadede yerine koyalım: (f(0) + f⁻¹(4)) / f(5) = (2 + 3) / 0 = 5 / 0.\nPaydada 0 olduğu için bu ifade tanımsızdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500671751_3",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "Gerçel sayılar kümesinde tanımlı f fonksiyonu, f(x) = { x² + 1, x ≥ 2 ise; 3x - 1, x < 2 ise } biçiminde veriliyor. Buna göre, f(3) + f(f(1)) ifadesinin değeri kaçtır?",
-    "options": [
-      "10",
-      "12",
-      "15",
-      "18",
-      "21"
+      "14"
     ],
     "correctAnswer": 2,
-    "explanation": "İfadeyi parçalara ayırarak hesaplayalım:\n1. f(3) değerini bulalım: 3 ≥ 2 olduğu için üstteki kuralı kullanırız. f(x) = x² + 1 => f(3) = 3² + 1 = 9 + 1 = 10.\n2. f(f(1)) değerini bulalım: Önce içteki f(1) değerini hesaplamamız gerekir. 1 < 2 olduğu için alttaki kuralı kullanırız. f(x) = 3x - 1 => f(1) = 3(1) - 1 = 2.\nŞimdi ifade f(2) haline geldi. f(2) değerini hesaplayalım. 2 ≥ 2 olduğu için üstteki kuralı kullanırız. f(x) = x² + 1 => f(2) = 2² + 1 = 4 + 1 = 5.\n3. Son olarak bulduğumuz değerleri toplayalım: f(3) + f(f(1)) = 10 + 5 = 15.",
+    "explanation": "f(4) = 2*4 + 3 = 8 + 3 = 11. Bu nedenle doğru cevap C şıkkıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500671751_4",
+    "id": "ai_1764519185860_1",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) = √(12 - 3x) + 7 / (x² - 4) fonksiyonunun en geniş tanım kümesi aşağıdakilerden hangisidir?",
+    "questionText": "f(x) = x² - 5x + 6 fonksiyonunun kökleri nelerdir?",
     "options": [
-      "(-∞, 4]",
-      "R - {-2, 2}",
-      "(-∞, 4] - {2}",
-      "(-∞, 4] - {-2}",
-      "(-∞, 4] - {-2, 2}"
+      "2 ve 3",
+      "1 ve 6",
+      "0 ve 5",
+      "3 ve 4",
+      "2 ve 4"
     ],
-    "correctAnswer": 4,
-    "explanation": "Bir fonksiyonun en geniş tanım kümesini bulmak için tanımsızlık yaratan durumları incelemeliyiz. Bu fonksiyonda iki durum vardır:\n1. Kareköklü ifadenin içi negatif olamaz: 12 - 3x ≥ 0 olmalıdır. Bu eşitsizliği çözersek: 12 ≥ 3x => 4 ≥ x. Yani x, 4'ten küçük veya 4'e eşit olmalıdır. Bu durum (-∞, 4] aralığını verir.\n2. Rasyonel ifadenin paydası sıfır olamaz: x² - 4 ≠ 0 olmalıdır. Bu denklemi çözersek: x² ≠ 4 => x ≠ 2 ve x ≠ -2.\nBu iki koşulu birleştirmemiz gerekiyor. x, 4'ten küçük veya eşit olmalı, ancak aynı zamanda 2 ve -2 değerlerini alamaz. 4'ten küçük olan bu iki değeri de çıkarmalıyız. Dolayısıyla en geniş tanım kümesi (-∞, 4] aralığından {-2, 2} kümesinin çıkarılmasıyla bulunur: (-∞, 4] - {-2, 2}.",
+    "correctAnswer": 0,
+    "explanation": "f(x) = 0 için x² - 5x + 6 = 0 denklemini çözeriz. (x-2)(x-3)=0 olduğundan kökler 2 ve 3'tür. Doğru cevap A şıkkıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500671751_5",
+    "id": "ai_1764519185860_2",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) tek fonksiyon ve g(x) çift fonksiyon olmak üzere, f(5) = -4 ve g(-3) = 6 olduğuna göre, f(-5) + g(3) ifadesinin değeri kaçtır?",
+    "questionText": "f(x) = 3x - 1 fonksiyonunun tersini bulunuz.",
     "options": [
-      "-10",
-      "-2",
-      "2",
-      "10",
-      "24"
+      "f⁻¹(x) = (x + 1)/3",
+      "f⁻¹(x) = (x - 1)/3",
+      "f⁻¹(x) = 3x + 1",
+      "f⁻¹(x) = (x - 3)/3",
+      "f⁻¹(x) = (x + 3)/3"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bu soruyu çözmek için tek ve çift fonksiyonların özelliklerini bilmemiz gerekir:\n- Tek fonksiyon (Odd function): f(-x) = -f(x). Grafik orijine göre simetriktir.\n- Çift fonksiyon (Even function): g(-x) = g(x). Grafik y eksenine göre simetriktir.\n\nSoruda verilen bilgilere göre:\n1. f(x) tek fonksiyon olduğu için f(-5) = -f(5) olacaktır. f(5) = -4 verildiği için, f(-5) = -(-4) = 4 olur.\n2. g(x) çift fonksiyon olduğu için g(3) = g(-3) olacaktır. g(-3) = 6 verildiği için, g(3) = 6 olur.\n\nBulduğumuz bu iki değeri toplayalım: f(-5) + g(3) = 4 + 6 = 10.",
+    "correctAnswer": 0,
+    "explanation": "f(x) = y denklemini x cinsinden çözüyoruz: y = 3x - 1 => 3x = y + 1 => x = (y + 1)/3. Ters fonksiyon f⁻¹(x) = (x + 1)/3 şeklindedir. Doğru cevap A şıkkıdır.",
     "difficulty": 3
   }
 ]
