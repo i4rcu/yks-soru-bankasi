@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764520201176_0",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir elektrik devresinde direnç, voltaj ve akım arasındaki ilişkiyi belirten Ohm Yasası'na göre, akımın arttığı durumlarda gerilimin nasıl değişeceği aşağıdakilerden hangisidir?",
+    "options": [
+      "Gerilim artar",
+      "Gerilim azalır",
+      "Gerilim sabit kalır",
+      "Gerilim sıfıra yaklaşır",
+      "Gerilim değişmez"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ohm Yasası'na göre (V = I * R), direnç sabit olduğunda akım arttıkça gerilim de artar. Bu nedenle, akım arttığında gerilim de artar.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520201176_1",
     "subjectId": "fiz",
     "topic": "Elektrik",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Paralel bağlı dirençlerin toplam direnci, her bir direnç için 1/R toplam formülü ile hesaplanır. Yani, 1/R_toplam = 1/R1 + 1/R2 + 1/R3 şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520201176_0",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir elektrik devresinde direnç, voltaj ve akım arasındaki ilişkiyi belirten Ohm Yasası'na göre, akımın arttığı durumlarda gerilimin nasıl değişeceği aşağıdakilerden hangisidir?",
-    "options": [
-      "Gerilim artar",
-      "Gerilim azalır",
-      "Gerilim sabit kalır",
-      "Gerilim sıfıra yaklaşır",
-      "Gerilim değişmez"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ohm Yasası'na göre (V = I * R), direnç sabit olduğunda akım arttıkça gerilim de artar. Bu nedenle, akım arttığında gerilim de artar.",
     "difficulty": 3
   },
   {
