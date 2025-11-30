@@ -1,117 +1,5 @@
 [
   {
-    "id": "ai_1764524675491_26",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarının yapısında hangi moleküller yer alır?",
-    "options": [
-      "Karbonhidratlar ve proteinler",
-      "Lipid ve proteinler",
-      "DNA ve RNA",
-      "Sadece lipidler",
-      "Sadece proteinler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hücre zarının yapısında lipidler ve proteinler bulunur, bu da zarın yapısal ve işlevsel özelliklerini belirler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764521032843_2",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında hangi aşama kromozomların en belirgin hale geldiği aşamadır?",
-    "options": [
-      "Profaz",
-      "Metafaz",
-      "Anafaz",
-      "Telofaz",
-      "Interfaz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Profaz aşamasında kromozomlar yoğunlaşarak belirgin hale gelir. Bu aşamada kromozomlar, mikrotübüllerin çekirdek bölünmesinde görev alabilmesi için daha kolay tanınır duruma gelir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520314198_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarı, hangi özellikleri sayesinde hücre içi ve dışı arasında madde geçişini kontrol eder?",
-    "options": [
-      "Seçici geçirgenlik",
-      "Biyosentez",
-      "Enerji üretimi",
-      "Protein sentezi",
-      "DNA replikasyonu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hücre zarı, seçici geçirgenlik özelliği sayesinde belirli moleküllerin geçişine izin verirken, diğerlerinin geçişini engelleyerek hücre içi ortamın dengede kalmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500061240_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir polipeptit hormonun (örneğin insülin) sentezlenip salgılanması sürecinde aşağıdaki olaylardan hangisi **en son** gerçekleşir?",
-    "options": [
-      "Ribozomda amino asitler arasında peptit bağlarının kurulması.",
-      "DNA'daki genetik bilginin mRNA'ya aktarılması.",
-      "Endoplazmik retikulumda proteinin üç boyutlu yapı kazanması.",
-      "Golgi aygıtında proteinin paketlenerek salgı kofulu oluşturulması.",
-      "Salgı kofulunun hücre zarı ile birleşerek içeriğini ekzositozla dışarı vermesi."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hücre dışına salgılanacak bir proteinin üretim ve salgılanma süreci belirli bir sıra izler (endomembran sistemi). Bu süreç şu adımlardan oluşur: 1. (B) Çekirdekte DNA'dan mRNA sentezi (transkripsiyon). 2. (A) mRNA'nın sitoplazmaya geçerek granüllü endoplazmik retikulum üzerindeki ribozomlarda polipeptit zincirine çevrilmesi (translasyon). 3. (C) Sentezlenen polipeptitin endoplazmik retikulum lümenine girerek katlanması ve üç boyutlu yapı kazanması. 4. (D) Proteinlerin taşıma kofullarıyla Golgi aygıtına taşınması, burada son değişikliklerin yapılması ve salgı kofullarına paketlenmesi. 5. (E) Salgı kofulunun hücre zarına hareket edip zarla kaynaşarak içeriğini ekzositoz yoluyla hücre dışına bırakması. Bu sıralamaya göre en son gerçekleşen olay ekzositozdur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675491_14",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücredeki genetik bilginin temel taşıyıcısı nedir?",
-    "options": [
-      "RNA",
-      "Protein",
-      "DNA",
-      "ATP",
-      "Karbonhidrat"
-    ],
-    "correctAnswer": 2,
-    "explanation": "DNA, hücredeki genetik bilgiyi taşıyan ve kalıtsal özellikleri belirleyen moleküldür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675491_23",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücrelerin enerji üretiminde en önemli molekül hangisidir?",
-    "options": [
-      "Glukoz",
-      "Oksijen",
-      "ATP",
-      "NADH",
-      "FADH2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "ATP, hücrelerin enerji üretiminde kullanılan temel moleküldür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497550966_2",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Mitokondri ve kloroplast organelleri için aşağıdaki özelliklerden hangisi ortak *değildir*?",
-    "options": [
-      "Kendilerine özgü DNA, RNA ve ribozom içermeleri",
-      "Çift katlı zar sistemine sahip olmaları",
-      "Enerji dönüşümü reaksiyonları gerçekleştirmeleri",
-      "Oksijen tüketerek ATP sentezlemeleri",
-      "Çekirdek kontrolünde bölünerek sayılarını artırabilmeleri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Mitokondri ve kloroplast, endosimbiyotik hipoteze göre ortak özelliklere sahiptir. Her ikisi de çift zarlıdır, kendilerine ait DNA, RNA ve ribozomları vardır, bu sayede çekirdek kontrolünde çoğalabilirler ve enerji dönüşümü (ATP sentezi) yaparlar. Ancak aralarında temel farklar vardır. Mitokondri, oksijenli solunum ile besinleri parçalayarak, yani oksijen tüketerek ATP sentezler. Kloroplast ise fotosentez yapar; bu süreçte ışık enerjisini kullanarak ATP sentezler (fotofosforilasyon) ve yan ürün olarak oksijen üretir, oksijen tüketmez. Dolayısıyla 'Oksijen tüketerek ATP sentezlemeleri' sadece mitokondriye ait bir özelliktir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764522593432_7",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -128,38 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764522593432_6",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Lizozomların temel işlevi nedir?",
-    "options": [
-      "Enerji üretmek",
-      "Hücreyi korumak",
-      "Atık maddeleri parçalamak",
-      "Protein sentezlemek",
-      "Hücre bölünmesine yardımcı olmak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Lizozomlar, hücre içindeki atık maddeleri, zararlı maddeleri ve eski organelleri sindirip parçalayarak hücrenin temizlenmesine yardımcı olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675491_18",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücrelerde sıvı ve çözünmüş maddelerin taşınmasında hangi yapı görev alır?",
-    "options": [
-      "Mitoz",
-      "Hücre zarı",
-      "Endoplazmik retikulum",
-      "Lizozom",
-      "Ribozom"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hücre zarı, sıvı ve çözünmüş maddelerin hücre içi ve dışı arasında taşınmasında önemli bir rol oynar.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764524675488_6",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -173,22 +29,6 @@
     ],
     "correctAnswer": 3,
     "explanation": "Lipidler, hücre zarının yapısında bulunarak seçici geçirgenlik sağlayan bir bariyer oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675491_20",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Kloroplastların temel işlevi nedir?",
-    "options": [
-      "Fotosentez yapmak",
-      "Enerji depolamak",
-      "Protein sentezi",
-      "DNA üretmek",
-      "Hücreyi korumak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kloroplastlar, bitki hücrelerinde fotosentez gerçekleştiren organellerdir.",
     "difficulty": 5
   },
   {
@@ -208,6 +48,454 @@
     "difficulty": 5
   },
   {
+    "id": "ai_1764500061240_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir polipeptit hormonun (örneğin insülin) sentezlenip salgılanması sürecinde aşağıdaki olaylardan hangisi **en son** gerçekleşir?",
+    "options": [
+      "Ribozomda amino asitler arasında peptit bağlarının kurulması.",
+      "DNA'daki genetik bilginin mRNA'ya aktarılması.",
+      "Endoplazmik retikulumda proteinin üç boyutlu yapı kazanması.",
+      "Golgi aygıtında proteinin paketlenerek salgı kofulu oluşturulması.",
+      "Salgı kofulunun hücre zarı ile birleşerek içeriğini ekzositozla dışarı vermesi."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hücre dışına salgılanacak bir proteinin üretim ve salgılanma süreci belirli bir sıra izler (endomembran sistemi). Bu süreç şu adımlardan oluşur: 1. (B) Çekirdekte DNA'dan mRNA sentezi (transkripsiyon). 2. (A) mRNA'nın sitoplazmaya geçerek granüllü endoplazmik retikulum üzerindeki ribozomlarda polipeptit zincirine çevrilmesi (translasyon). 3. (C) Sentezlenen polipeptitin endoplazmik retikulum lümenine girerek katlanması ve üç boyutlu yapı kazanması. 4. (D) Proteinlerin taşıma kofullarıyla Golgi aygıtına taşınması, burada son değişikliklerin yapılması ve salgı kofullarına paketlenmesi. 5. (E) Salgı kofulunun hücre zarına hareket edip zarla kaynaşarak içeriğini ekzositoz yoluyla hücre dışına bırakması. Bu sıralamaya göre en son gerçekleşen olay ekzositozdur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_26",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının yapısında hangi moleküller yer alır?",
+    "options": [
+      "Karbonhidratlar ve proteinler",
+      "Lipid ve proteinler",
+      "DNA ve RNA",
+      "Sadece lipidler",
+      "Sadece proteinler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre zarının yapısında lipidler ve proteinler bulunur, bu da zarın yapısal ve işlevsel özelliklerini belirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522593432_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede protein sentezinin gerçekleştiği yer neresidir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Kloroplast",
+      "Lizozom",
+      "Hücre Zarı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protein sentezi ribozomlarda gerçekleşir; ribozomlar, mRNA'dan amino asit zincirleri oluşturarak proteinleri sentezler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675488_8",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesinde önemli rol oynayan organel hangisidir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Sentriol",
+      "Lizozom",
+      "Endoplazmik retikulum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sentrioller, hücre bölünmesinde kromozomların ayrılmasında kritik rol oynar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675491_21",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesinde mitoz ve mayoz arasındaki temel fark nedir?",
+    "options": [
+      "Mitozda genetik çeşitlilik oluşur",
+      "Mayozda genetik çeşitlilik oluşur",
+      "Mitoz sadece somatik hücrelerde görülür",
+      "Mayoz yalnızca bitki hücrelerinde olur",
+      "İkisi de aynı şekilde gerçekleşir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitoz, genetik olarak özdeş hücreler üretirken, mayoz genetik çeşitliliği artırarak farklı hücreler üretir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520314198_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarı, hangi özellikleri sayesinde hücre içi ve dışı arasında madde geçişini kontrol eder?",
+    "options": [
+      "Seçici geçirgenlik",
+      "Biyosentez",
+      "Enerji üretimi",
+      "Protein sentezi",
+      "DNA replikasyonu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hücre zarı, seçici geçirgenlik özelliği sayesinde belirli moleküllerin geçişine izin verirken, diğerlerinin geçişini engelleyerek hücre içi ortamın dengede kalmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497550966_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Mitokondri ve kloroplast organelleri için aşağıdaki özelliklerden hangisi ortak *değildir*?",
+    "options": [
+      "Kendilerine özgü DNA, RNA ve ribozom içermeleri",
+      "Çift katlı zar sistemine sahip olmaları",
+      "Enerji dönüşümü reaksiyonları gerçekleştirmeleri",
+      "Oksijen tüketerek ATP sentezlemeleri",
+      "Çekirdek kontrolünde bölünerek sayılarını artırabilmeleri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mitokondri ve kloroplast, endosimbiyotik hipoteze göre ortak özelliklere sahiptir. Her ikisi de çift zarlıdır, kendilerine ait DNA, RNA ve ribozomları vardır, bu sayede çekirdek kontrolünde çoğalabilirler ve enerji dönüşümü (ATP sentezi) yaparlar. Ancak aralarında temel farklar vardır. Mitokondri, oksijenli solunum ile besinleri parçalayarak, yani oksijen tüketerek ATP sentezler. Kloroplast ise fotosentez yapar; bu süreçte ışık enerjisini kullanarak ATP sentezler (fotofosforilasyon) ve yan ürün olarak oksijen üretir, oksijen tüketmez. Dolayısıyla 'Oksijen tüketerek ATP sentezlemeleri' sadece mitokondriye ait bir özelliktir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675488_5",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Lizozomlar hangi tür maddelerin parçalanmasında görev alır?",
+    "options": [
+      "Karbonhidratlar",
+      "Yağlar",
+      "Proteinler",
+      "Hücre atıkları",
+      "Tüm organeller"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lizozomlar, hücre içindeki atık ve zararlı maddeleri sindirmek ve parçalamakla görevlidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675488_4",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre çekirdeği hangi yapıyla çevrilidir?",
+    "options": [
+      "Hücre zarı",
+      "Çekirdek zarı",
+      "Endoplazmik retikulum",
+      "Golgi aygıtı",
+      "Lizozom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre çekirdeği, iki katmanlı bir çekirdek zarı ile çevrilidir ve genetik materyali korur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522593432_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre organelleri arasında hangisi enerji üretiminde en önemli rolü oynar?",
+    "options": [
+      "Ribozom",
+      "Lizozom",
+      "Mitokondri",
+      "Golgi Aygıtı",
+      "Endoplazmik Retikulum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mitokondri, hücre içinde enerji üretiminden sorumlu organeldir ve ATP sentezinde kritik bir rol oynar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_20",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Kloroplastların temel işlevi nedir?",
+    "options": [
+      "Fotosentez yapmak",
+      "Enerji depolamak",
+      "Protein sentezi",
+      "DNA üretmek",
+      "Hücreyi korumak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, bitki hücrelerinde fotosentez gerçekleştiren organellerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522593432_9",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Kloroplastların temel işlevi nedir?",
+    "options": [
+      "Enerji depolamak",
+      "Fotosentez yapmak",
+      "Besin parçalamak",
+      "Hücre bölünmesine yardımcı olmak",
+      "Atıkları temizlemek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez sürecinde ışık enerjisini kimyasal enerjiye dönüştürerek glikoz üretiminde rol oynar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_27",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre döngüsünde G1 aşamasının temel işlevi nedir?",
+    "options": [
+      "DNA'nın kopyalanması",
+      "Hücre büyümesi ve organel sentezi",
+      "Hücre bölünmesi",
+      "Hücre dinlenmesi",
+      "Protein sentezi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "G1 aşaması, hücrenin büyüdüğü ve organellerin sentezlendiği aşamadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675491_25",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarındaki proteinlerin işlevi nedir?",
+    "options": [
+      "Yapısal destek sağlamak",
+      "Hücre içi iletişim sağlamak",
+      "Hücre metabolizmasını düzenlemek",
+      "Enerji üretmek",
+      "Genetik bilgi taşımak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre zarındaki proteinler, hücre içi iletişimi ve madde geçişini düzenler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675491_14",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücredeki genetik bilginin temel taşıyıcısı nedir?",
+    "options": [
+      "RNA",
+      "Protein",
+      "DNA",
+      "ATP",
+      "Karbonhidrat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DNA, hücredeki genetik bilgiyi taşıyan ve kalıtsal özellikleri belirleyen moleküldür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675489_10",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarında bulunan proteinler hangi işlevi üstlenir?",
+    "options": [
+      "Enerji üretimi",
+      "Hücre içi taşıma",
+      "İletişim ve reseptör işlevi",
+      "Genetik bilgi depolama",
+      "Yapısal destek sağlama"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre zarındaki proteinler, hücreler arası iletişim ve madde geçişini düzenler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522593432_5",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre iskeletinin temel yapı taşları hangileridir?",
+    "options": [
+      "Karbonhidratlar",
+      "Proteinler",
+      "Nükleotidler",
+      "Yağ asitleri",
+      "Vitaminler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre iskeleti, mikrofilamentler, mikro tüpler ve ara filamentlerden oluşur ve bunlar proteinlerden yapılarak hücreye destek sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675488_3",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Ribozomlar hangi hücresel işlevle doğrudan ilişkilidir?",
+    "options": [
+      "Lipid sentezi",
+      "Protein sentezi",
+      "Karbonhidrat sentezi",
+      "DNA replikasyonu",
+      "Hücre bölünmesi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ribozomlar, amino asitlerin bir araya gelerek proteinleri sentezlemesinde kritik rol oynar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675488_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Mitokondrinin başlıca işlevi nedir?",
+    "options": [
+      "Protein sentezi",
+      "Enerji üretimi",
+      "Hücre bölünmesi",
+      "Hücre içi madde taşınımı",
+      "Genetik bilgi depolama"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitokondriler, hücrede ATP (adenozin trifosfat) üretiminden sorumludur ve bu nedenle enerji üretim merkezi olarak bilinir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519356975_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Besin maddelerini depolamak",
+      "Hücre içi organellerin üretimini sağlamak",
+      "Hücre içi ve dışı arasında madde geçişini kontrol etmek",
+      "Enerji üretimini gerçekleştirmek",
+      "Genetik bilgiyi taşımak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre zarı, hücrenin dış çevresi ile içi arasında seçici geçirgenlik sağlar ve bu sayede hücre içi ve dışı arasında madde geçişini kontrol eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_16",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerde enerji üretiminde hangi molekül en önemli rolü oynar?",
+    "options": [
+      "Glukoz",
+      "ATP",
+      "NADH",
+      "FADH2",
+      "Oksijen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ATP, hücrelerin enerji ihtiyacını karşılamada en önemli enerji taşıyıcısıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501369437_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Prokaryot ve ökaryot hücreler, yaşamsal faaliyetlerini sürdürebilmek için çeşitli yapılara sahiptir. Bu iki hücre tipi arasındaki temel farklardan biri, zarla çevrili organellerin varlığı veya yokluğudur. Buna göre, aşağıdakilerden hangisi hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunan bir yapıdır?",
+    "options": [
+      "Mitokondri",
+      "Golgi cisimciği",
+      "Lizozom",
+      "Ribozom",
+      "Endoplazmik retikulum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Prokaryot hücreler, zarla çevrili organellere (mitokondri, golgi, lizozom, endoplazmik retikulum vb.) ve çekirdeğe sahip değildir. Ökaryot hücreler ise bu yapılara sahiptir. Ancak, protein sentezinin gerçekleştiği ribozomlar zarsız yapılardır ve bu nedenle hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunur. Ribozom, bu özelliğiyle evrensel bir organel olarak kabul edilir. Diğer şıklarda verilen organeller ise sadece ökaryot hücrelerde bulunan zarlı organellerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526200403_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının temel işlevlerinden biri olan seçici geçirgenlik, hangi özelliği ile sağlanır?",
+    "options": [
+      "A. Hücre zarının lipid tabakası",
+      "B. Hücre zarındaki proteinlerin varlığı",
+      "C. Hücre zarının su geçirmezliği",
+      "D. Hücre zarının kalınlığı",
+      "E. Hücre zarının asidik yapısı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre zarının seçici geçirgenliği, zarın lipid tabakasındaki proteinlerin varlığı sayesinde sağlanır. Bu proteinler, belirli moleküllerin ve iyonların geçişini kontrol eder. Ayrıca, lipid tabakası su ve bazı küçük moleküllerin geçişine izin verse de, büyük ve polar moleküllerin geçişini engeller. Bu nedenle, seçici geçirgenlik hücre zarının temel işlevlerinden biridir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524675488_9",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Endoplazmik retikulumun görevlerinden biri nedir?",
+    "options": [
+      "Genetik bilgiyi depolamak",
+      "Protein ve lipid sentezi",
+      "Enerji üretmek",
+      "Hücreyi korumak",
+      "Atıkları parçalamak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endoplazmik retikulum, hücre içinde protein ve lipidlerin sentezlenmesine yardımcı olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764497550966_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre dışına salgılanmak üzere sentezlenen bir glikoprotein molekülünün üretim ve salgılanma sürecinde, aşağıdaki yapılardan hangisi en son görev alır?",
+    "options": [
+      "Ribozom",
+      "Golgi Aygıtı",
+      "Hücre zarı",
+      "Granüllü Endoplazmik Retikulum",
+      "Çekirdekçik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre dışına salgılanacak bir glikoproteinin izlediği yol şu şekildedir: 1. Çekirdekçikte sentezlenen rRNA'lar ribozomun yapısına katılır. 2. Ribozomda protein kısmı sentezlenir ve Granüllü E.R. kanallarına bırakılır. 3. Granüllü E.R.'de protein üç boyutlu yapı kazanır ve glikoz eklenerek glikoprotein olur. 4. Taşıma kofuluyla Golgi Aygıtı'na taşınır. 5. Golgi Aygıtı'nda son düzenlemeler yapılır ve paketlenerek salgı kofulu oluşturulur. 6. Salgı kofulu hücre zarına tutunarak ekzositoz ile içeriğini dışarı bırakır. Bu süreçte en son görev alan yapı, ekzositoz olayının gerçekleştiği hücre zarıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_23",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerin enerji üretiminde en önemli molekül hangisidir?",
+    "options": [
+      "Glukoz",
+      "Oksijen",
+      "ATP",
+      "NADH",
+      "FADH2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ATP, hücrelerin enerji üretiminde kullanılan temel moleküldür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520314199_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında hangi aşamada kromozomlar en belirgin hale gelir?",
+    "options": [
+      "İnterfaz",
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre bölünmesi sırasında kromozomlar en belirgin hale profaz aşamasında gelir. Bu aşamada kromatin yoğunlaşarak kromozomları oluşturur ve mikrotübüller ile hücre merkezlerine doğru hareket eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522593432_6",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Lizozomların temel işlevi nedir?",
+    "options": [
+      "Enerji üretmek",
+      "Hücreyi korumak",
+      "Atık maddeleri parçalamak",
+      "Protein sentezlemek",
+      "Hücre bölünmesine yardımcı olmak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lizozomlar, hücre içindeki atık maddeleri, zararlı maddeleri ve eski organelleri sindirip parçalayarak hücrenin temizlenmesine yardımcı olur.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764524675488_7",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -222,6 +510,86 @@
     "correctAnswer": 1,
     "explanation": "ATP (adenozin trifosfat), hücrede enerji depolamak ve taşımak için en yaygın kullanılan moleküldür.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675491_22",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede bulunan farklı organellerin en önemli işlevi nedir?",
+    "options": [
+      "Enerji üretmek",
+      "Hücreyi korumak",
+      "Hücre içi işlevleri düzenlemek",
+      "Genetik bilgi taşımak",
+      "Hücre bölünmesini sağlamak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Organeller, hücrenin farklı işlevlerini yerine getirmesine ve düzenlemesine yardımcı olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764497550966_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Bir tatlı su algi olan Nitella'nın hücre içi potasyum (K+) derişimi, yaşadığı ortamdaki potasyum derişiminden yaklaşık 1000 kat daha fazladır. Buna rağmen hücre, ortamdan potasyum iyonu almaya devam etmektedir. Bu durum, potasyum iyonlarının hücreye alınmasında aşağıdaki olaylardan hangisinin gerçekleştiğini kesin olarak kanıtlar?",
+    "options": [
+      "Osmoz",
+      "Basit Difüzyon",
+      "Kolaylaştırılmış Difüzyon",
+      "Aktif Taşıma",
+      "Pinositoz"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Madde taşınmasının temel kuralı, moleküllerin çok yoğun ortamdan az yoğun ortama doğru kendiliğinden geçmesidir (pasif taşıma). Soruda, hücre içindeki potasyum derişiminin ortamdan çok daha yüksek olmasına rağmen hücrenin hala potasyum aldığı belirtilmektedir. Bu, potasyum iyonlarının az yoğun oldukları ortamdan (tatlı su) çok yoğun oldukları ortama (hücre içi) doğru hareket ettiğini gösterir. Derişim farkına karşı gerçekleştirilen ve ATP enerjisi harcanan bu taşıma şekli 'Aktif Taşıma'dır. Osmoz suyun, difüzyon ve kolaylaştırılmış difüzyon maddelerin çok yoğundan az yoğuna geçişidir. Pinositoz ise sıvı ve büyük moleküllerin hücre içine alınmasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_17",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Plazma zarı, hangi yapıdan oluşur?",
+    "options": [
+      "Tek katmanlı lipid",
+      "Çift katmanlı lipid",
+      "Karbonhidrat ve protein",
+      "Yalnızca protein",
+      "Yalnızca lipid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plazma zarı, fosfolipitlerden oluşan çift katmanlı bir yapıya sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520314198_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Aşağıdakilerden hangisi hücre organellerinden biri değildir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Kloroplast",
+      "Endoplazmik retikulum",
+      "Sitoz"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ribozom, mitokondri, kloroplast ve endoplazmik retikulum hücre organelleridir. Sitoz ise, hücre içindeki sıvı kısmını ifade eder ve bir organel değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522593432_4",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hangisi prokaryotik hücrelerin özelliklerinden biridir?",
+    "options": [
+      "Çekirdek bulunması",
+      "Organellerin zarla sınırlı olması",
+      "Hücre duvarı bulunması",
+      "Mitokondri bulunması",
+      "Kloroplast bulunması"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Prokaryotik hücreler, çekirdek ve zarla çevrili organellerden yoksundur, ancak genellikle hücre duvarına sahiptir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764522593431_0",
@@ -240,20 +608,84 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764524675488_4",
+    "id": "ai_1764524675490_13",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre çekirdeği hangi yapıyla çevrilidir?",
+    "questionText": "Golgi aygıtı, hangi işlevi yerine getirir?",
     "options": [
+      "Protein sentezi",
+      "Lipid sentezi",
+      "Protein ve lipidleri modifiye etmek ve paketlemek",
+      "Enerji üretmek",
+      "Hücre içi iletişim sağlamak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Golgi aygıtı, hücre içinde sentezlenen protein ve lipidleri modifiye ederek paketler ve dağıtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524675491_18",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerde sıvı ve çözünmüş maddelerin taşınmasında hangi yapı görev alır?",
+    "options": [
+      "Mitoz",
       "Hücre zarı",
-      "Çekirdek zarı",
       "Endoplazmik retikulum",
-      "Golgi aygıtı",
-      "Lizozom"
+      "Lizozom",
+      "Ribozom"
     ],
     "correctAnswer": 1,
-    "explanation": "Hücre çekirdeği, iki katmanlı bir çekirdek zarı ile çevrilidir ve genetik materyali korur.",
+    "explanation": "Hücre zarı, sıvı ve çözünmüş maddelerin hücre içi ve dışı arasında taşınmasında önemli bir rol oynar.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764501369437_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarından madde geçişleriyle ilgili olarak, aktif taşıma mekanizması için aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "Madde geçişi az yoğun ortamdan çok yoğun ortama doğru gerçekleşir.",
+      "Taşıyıcı proteinler ve enzimler görev yapar.",
+      "Sadece canlı hücrelerde gözlemlenir.",
+      "Gerçekleşmesi için ATP enerjisi harcanır.",
+      "Hücredeki yoğunluk farkını ortadan kaldırarak dengeyi sağlar."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Aktif taşıma, maddelerin derişimlerinin (yoğunluklarının) az olduğu ortamdan çok olduğu ortama doğru, yani derişim gradyanının tersine taşınmasıdır. Bu işlem için metabolik enerji (ATP) harcanır ve taşıyıcı proteinler ile enzimler görev alır. Enerji gerektirdiği için sadece canlı hücrelerde gerçekleşebilir. Aktif taşımanın amacı, hücre içi ve dışı arasındaki yoğunluk farkını korumak veya artırmaktır; yoğunluk farkını ortadan kaldırarak denge durumunu (izotonik ortam) sağlayan mekanizma ise pasif taşıma (örneğin, difüzyon) yöntemleridir. Bu nedenle E şıkkındaki ifade aktif taşıma için yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_28",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerdeki enerji üretiminde hangi süreç önemli rol oynar?",
+    "options": [
+      "Fotosentez",
+      "Fermentasyon",
+      "Solunum",
+      "Glikoliz",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hücrelerde enerji üretiminde fotosentez, fermentasyon, solunum ve glikoliz gibi birçok süreç önemli rol oynar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522593432_8",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında, kromozomların birbirinden ayrıldığı evre hangisidir?",
+    "options": [
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "Interfaz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Anafaz, kromozomların kutuplara çekildiği ve birbirinden ayrıldığı bölümdür; bu evrede kromozomlar iki ayrı gruba ayrılır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764524675487_0",
@@ -288,68 +720,20 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524675491_17",
+    "id": "ai_1764522593432_3",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Plazma zarı, hangi yapıdan oluşur?",
+    "questionText": "Hücre döngüsünün G1 evresinde hangi olay gerçekleşir?",
     "options": [
-      "Tek katmanlı lipid",
-      "Çift katmanlı lipid",
-      "Karbonhidrat ve protein",
-      "Yalnızca protein",
-      "Yalnızca lipid"
+      "DNA replikasyonu",
+      "Hücre büyümesi",
+      "Hücre bölünmesi",
+      "Hücre zarının yapısı değişimi",
+      "Protein sentezi"
     ],
     "correctAnswer": 1,
-    "explanation": "Plazma zarı, fosfolipitlerden oluşan çift katmanlı bir yapıya sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522593432_9",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Kloroplastların temel işlevi nedir?",
-    "options": [
-      "Enerji depolamak",
-      "Fotosentez yapmak",
-      "Besin parçalamak",
-      "Hücre bölünmesine yardımcı olmak",
-      "Atıkları temizlemek"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kloroplastlar, fotosentez sürecinde ışık enerjisini kimyasal enerjiye dönüştürerek glikoz üretiminde rol oynar.",
+    "explanation": "G1 evresinde hücre büyür, organellerini çoğaltır ve bölünmeye hazırlanır. Bu evre, hücre döngüsünün ilk aşamasıdır.",
     "difficulty": 3
-  },
-  {
-    "id": "ai_1764526200403_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarının temel işlevlerinden biri olan seçici geçirgenlik, hangi özelliği ile sağlanır?",
-    "options": [
-      "A. Hücre zarının lipid tabakası",
-      "B. Hücre zarındaki proteinlerin varlığı",
-      "C. Hücre zarının su geçirmezliği",
-      "D. Hücre zarının kalınlığı",
-      "E. Hücre zarının asidik yapısı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hücre zarının seçici geçirgenliği, zarın lipid tabakasındaki proteinlerin varlığı sayesinde sağlanır. Bu proteinler, belirli moleküllerin ve iyonların geçişini kontrol eder. Ayrıca, lipid tabakası su ve bazı küçük moleküllerin geçişine izin verse de, büyük ve polar moleküllerin geçişini engeller. Bu nedenle, seçici geçirgenlik hücre zarının temel işlevlerinden biridir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524675488_5",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Lizozomlar hangi tür maddelerin parçalanmasında görev alır?",
-    "options": [
-      "Karbonhidratlar",
-      "Yağlar",
-      "Proteinler",
-      "Hücre atıkları",
-      "Tüm organeller"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Lizozomlar, hücre içindeki atık ve zararlı maddeleri sindirmek ve parçalamakla görevlidir.",
-    "difficulty": 5
   },
   {
     "id": "ai_1764519356975_2",
@@ -384,38 +768,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524675490_11",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Kloroplastlar hangi hücrelerde bulunur?",
-    "options": [
-      "Hayvan hücrelerinde",
-      "Bitki hücrelerinde",
-      "Mikroorganizmalarda",
-      "Bakterilerde",
-      "Tüm hücrelerde"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kloroplastlar, fotosentez yapabilen bitki hücrelerinde bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497550966_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre dışına salgılanmak üzere sentezlenen bir glikoprotein molekülünün üretim ve salgılanma sürecinde, aşağıdaki yapılardan hangisi en son görev alır?",
-    "options": [
-      "Ribozom",
-      "Golgi Aygıtı",
-      "Hücre zarı",
-      "Granüllü Endoplazmik Retikulum",
-      "Çekirdekçik"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre dışına salgılanacak bir glikoproteinin izlediği yol şu şekildedir: 1. Çekirdekçikte sentezlenen rRNA'lar ribozomun yapısına katılır. 2. Ribozomda protein kısmı sentezlenir ve Granüllü E.R. kanallarına bırakılır. 3. Granüllü E.R.'de protein üç boyutlu yapı kazanır ve glikoz eklenerek glikoprotein olur. 4. Taşıma kofuluyla Golgi Aygıtı'na taşınır. 5. Golgi Aygıtı'nda son düzenlemeler yapılır ve paketlenerek salgı kofulu oluşturulur. 6. Salgı kofulu hücre zarına tutunarak ekzositoz ile içeriğini dışarı bırakır. Bu süreçte en son görev alan yapı, ekzositoz olayının gerçekleştiği hücre zarıdır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521032843_0",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -432,84 +784,20 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501369437_0",
+    "id": "ai_1764498693499_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Prokaryot ve ökaryot hücreler, yaşamsal faaliyetlerini sürdürebilmek için çeşitli yapılara sahiptir. Bu iki hücre tipi arasındaki temel farklardan biri, zarla çevrili organellerin varlığı veya yokluğudur. Buna göre, aşağıdakilerden hangisi hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunan bir yapıdır?",
+    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir glikoprotein molekülünün üretim ve salgılanma sürecinde aşağıdaki organellerden hangisi en son görev alır?",
     "options": [
-      "Mitokondri",
+      "Granüllü endoplazmik retikulum",
+      "Ribozom",
       "Golgi cisimciği",
-      "Lizozom",
-      "Ribozom",
-      "Endoplazmik retikulum"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Prokaryot hücreler, zarla çevrili organellere (mitokondri, golgi, lizozom, endoplazmik retikulum vb.) ve çekirdeğe sahip değildir. Ökaryot hücreler ise bu yapılara sahiptir. Ancak, protein sentezinin gerçekleştiği ribozomlar zarsız yapılardır ve bu nedenle hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunur. Ribozom, bu özelliğiyle evrensel bir organel olarak kabul edilir. Diğer şıklarda verilen organeller ise sadece ökaryot hücrelerde bulunan zarlı organellerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498693499_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdaki hücresel yapılardan hangisi, hem oksijenli solunum yapan bir bakteri hücresinde hem de bir hayvan hücresinde ortak olarak bulunur?",
-    "options": [
       "Mitokondri",
-      "Hücre duvarı",
-      "Ribozom",
-      "Çekirdek",
       "Lizozom"
     ],
     "correctAnswer": 2,
-    "explanation": "Ribozom, protein sentezinden sorumlu olan ve zarsız bir organeldir. Bu nedenle hem prokaryotik (bakteri) hem de ökaryotik (hayvan) hücrelerde ortak olarak bulunur. Mitokondri, çekirdek ve lizozom zarlı organeller olup sadece ökaryotik hücrelerde bulunur. Hayvan hücrelerinde hücre duvarı bulunmazken, bakterilerde peptidoglikan yapılı bir hücre duvarı bulunur. Ancak soru her iki hücrede de 'ortak olarak' bulunan yapıyı sorduğu için doğru cevap ribozomdur.",
+    "explanation": "Hücre dışına salgılanacak bir glikoproteinin sentez süreci şu sırayla gerçekleşir: 1) Ribozomda protein kısmı sentezlenir. 2) Sentezlenen protein, granüllü endoplazmik retikulum (GER) kanalına girer ve burada ilk şeker eklemeleri (glikozilasyon) yapılarak üç boyutlu yapısını kazanır. 3) GER'den ayrılan taşıma kofulu, proteini Golgi cisimciğine taşır. 4) Golgi cisimciğinde protein son halini alır, sınıflandırılır, paketlenir ve salgı kofulu oluşturulur. Bu koful daha sonra hücre zarına giderek içeriğini ekzositozla dışarı bırakır. Bu sıralamada en son görev alan organel Golgi cisimciğidir. Mitokondri bu süreç için enerji (ATP) üretir ancak sentez yolunda doğrudan yer almaz. Lizozom ise hücre içi sindirimde görevlidir.",
     "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675489_10",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarında bulunan proteinler hangi işlevi üstlenir?",
-    "options": [
-      "Enerji üretimi",
-      "Hücre içi taşıma",
-      "İletişim ve reseptör işlevi",
-      "Genetik bilgi depolama",
-      "Yapısal destek sağlama"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre zarındaki proteinler, hücreler arası iletişim ve madde geçişini düzenler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501369437_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarından madde geçişleriyle ilgili olarak, aktif taşıma mekanizması için aşağıdakilerden hangisi söylenemez?",
-    "options": [
-      "Madde geçişi az yoğun ortamdan çok yoğun ortama doğru gerçekleşir.",
-      "Taşıyıcı proteinler ve enzimler görev yapar.",
-      "Sadece canlı hücrelerde gözlemlenir.",
-      "Gerçekleşmesi için ATP enerjisi harcanır.",
-      "Hücredeki yoğunluk farkını ortadan kaldırarak dengeyi sağlar."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Aktif taşıma, maddelerin derişimlerinin (yoğunluklarının) az olduğu ortamdan çok olduğu ortama doğru, yani derişim gradyanının tersine taşınmasıdır. Bu işlem için metabolik enerji (ATP) harcanır ve taşıyıcı proteinler ile enzimler görev alır. Enerji gerektirdiği için sadece canlı hücrelerde gerçekleşebilir. Aktif taşımanın amacı, hücre içi ve dışı arasındaki yoğunluk farkını korumak veya artırmaktır; yoğunluk farkını ortadan kaldırarak denge durumunu (izotonik ortam) sağlayan mekanizma ise pasif taşıma (örneğin, difüzyon) yöntemleridir. Bu nedenle E şıkkındaki ifade aktif taşıma için yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675488_9",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Endoplazmik retikulumun görevlerinden biri nedir?",
-    "options": [
-      "Genetik bilgiyi depolamak",
-      "Protein ve lipid sentezi",
-      "Enerji üretmek",
-      "Hücreyi korumak",
-      "Atıkları parçalamak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Endoplazmik retikulum, hücre içinde protein ve lipidlerin sentezlenmesine yardımcı olur.",
-    "difficulty": 5
   },
   {
     "id": "ai_1764519356975_1",
@@ -528,339 +816,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764524675490_13",
+    "id": "ai_1764521032843_2",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Golgi aygıtı, hangi işlevi yerine getirir?",
+    "questionText": "Hücre bölünmesi sırasında hangi aşama kromozomların en belirgin hale geldiği aşamadır?",
     "options": [
-      "Protein sentezi",
-      "Lipid sentezi",
-      "Protein ve lipidleri modifiye etmek ve paketlemek",
-      "Enerji üretmek",
-      "Hücre içi iletişim sağlamak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Golgi aygıtı, hücre içinde sentezlenen protein ve lipidleri modifiye ederek paketler ve dağıtır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522593432_3",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre döngüsünün G1 evresinde hangi olay gerçekleşir?",
-    "options": [
-      "DNA replikasyonu",
-      "Hücre büyümesi",
-      "Hücre bölünmesi",
-      "Hücre zarının yapısı değişimi",
-      "Protein sentezi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "G1 evresinde hücre büyür, organellerini çoğaltır ve bölünmeye hazırlanır. Bu evre, hücre döngüsünün ilk aşamasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497550966_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Bir tatlı su algi olan Nitella'nın hücre içi potasyum (K+) derişimi, yaşadığı ortamdaki potasyum derişiminden yaklaşık 1000 kat daha fazladır. Buna rağmen hücre, ortamdan potasyum iyonu almaya devam etmektedir. Bu durum, potasyum iyonlarının hücreye alınmasında aşağıdaki olaylardan hangisinin gerçekleştiğini kesin olarak kanıtlar?",
-    "options": [
-      "Osmoz",
-      "Basit Difüzyon",
-      "Kolaylaştırılmış Difüzyon",
-      "Aktif Taşıma",
-      "Pinositoz"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Madde taşınmasının temel kuralı, moleküllerin çok yoğun ortamdan az yoğun ortama doğru kendiliğinden geçmesidir (pasif taşıma). Soruda, hücre içindeki potasyum derişiminin ortamdan çok daha yüksek olmasına rağmen hücrenin hala potasyum aldığı belirtilmektedir. Bu, potasyum iyonlarının az yoğun oldukları ortamdan (tatlı su) çok yoğun oldukları ortama (hücre içi) doğru hareket ettiğini gösterir. Derişim farkına karşı gerçekleştirilen ve ATP enerjisi harcanan bu taşıma şekli 'Aktif Taşıma'dır. Osmoz suyun, difüzyon ve kolaylaştırılmış difüzyon maddelerin çok yoğundan az yoğuna geçişidir. Pinositoz ise sıvı ve büyük moleküllerin hücre içine alınmasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522593432_5",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre iskeletinin temel yapı taşları hangileridir?",
-    "options": [
-      "Karbonhidratlar",
-      "Proteinler",
-      "Nükleotidler",
-      "Yağ asitleri",
-      "Vitaminler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hücre iskeleti, mikrofilamentler, mikro tüpler ve ara filamentlerden oluşur ve bunlar proteinlerden yapılarak hücreye destek sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675491_25",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarındaki proteinlerin işlevi nedir?",
-    "options": [
-      "Yapısal destek sağlamak",
-      "Hücre içi iletişim sağlamak",
-      "Hücre metabolizmasını düzenlemek",
-      "Enerji üretmek",
-      "Genetik bilgi taşımak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hücre zarındaki proteinler, hücre içi iletişimi ve madde geçişini düzenler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522593432_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre organelleri arasında hangisi enerji üretiminde en önemli rolü oynar?",
-    "options": [
-      "Ribozom",
-      "Lizozom",
-      "Mitokondri",
-      "Golgi Aygıtı",
-      "Endoplazmik Retikulum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Mitokondri, hücre içinde enerji üretiminden sorumlu organeldir ve ATP sentezinde kritik bir rol oynar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522593432_2",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücrede protein sentezinin gerçekleştiği yer neresidir?",
-    "options": [
-      "Ribozom",
-      "Mitokondri",
-      "Kloroplast",
-      "Lizozom",
-      "Hücre Zarı"
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "Interfaz"
     ],
     "correctAnswer": 0,
-    "explanation": "Protein sentezi ribozomlarda gerçekleşir; ribozomlar, mRNA'dan amino asit zincirleri oluşturarak proteinleri sentezler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675491_24",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre içindeki DNA'nın işlevi nedir?",
-    "options": [
-      "Enerji üretimi",
-      "Protein sentezi",
-      "Genetik bilgi saklama",
-      "Hücre bölünmesi",
-      "Atıkları parçalamak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "DNA, hücredeki genetik bilgiyi saklar ve kalıtsal özelliklerin aktarımını sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675488_3",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Ribozomlar hangi hücresel işlevle doğrudan ilişkilidir?",
-    "options": [
-      "Lipid sentezi",
-      "Protein sentezi",
-      "Karbonhidrat sentezi",
-      "DNA replikasyonu",
-      "Hücre bölünmesi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ribozomlar, amino asitlerin bir araya gelerek proteinleri sentezlemesinde kritik rol oynar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500061240_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Bir bilim insanı, mikroskop altında incelediği bir hücrede hücre duvarı, ribozom ve zarsız bir kalıtım materyali (nükleoid) bulunduğunu gözlemliyor. Bu hücrede aşağıdaki organellerden hangisinin bulunması **beklenmez**?",
-    "options": [
-      "Hücre zarı",
-      "Sitoplazma",
-      "Lizozom",
-      "Ribozom",
-      "Kamçı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Soruda tarif edilen hücre; hücre duvarı, ribozom içermesi ve en önemlisi kalıtım materyalinin zarla çevrili bir çekirdek içinde olmaması (nükleoid bölgesi) nedeniyle bir prokaryot hücredir (örneğin bakteri). Prokaryot hücrelerde zarlı organeller bulunmaz. A, B ve D şıklarındaki yapılar (Hücre zarı, Sitoplazma, Ribozom) tüm canlı hücrelerde ortakken, E şıkkındaki kamçı bazı prokaryotlarda bulunabilir. Ancak C şıkkındaki lizozom, tek zarlı bir organel olup sadece ökaryot hücrelerde (özellikle hayvan hücrelerinde) bulunur. Bu nedenle prokaryot bir hücrede lizozomun bulunması beklenmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675488_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Mitokondrinin başlıca işlevi nedir?",
-    "options": [
-      "Protein sentezi",
-      "Enerji üretimi",
-      "Hücre bölünmesi",
-      "Hücre içi madde taşınımı",
-      "Genetik bilgi depolama"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mitokondriler, hücrede ATP (adenozin trifosfat) üretiminden sorumludur ve bu nedenle enerji üretim merkezi olarak bilinir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675491_29",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücredeki en küçük yapısal ve işlevsel birim hangisidir?",
-    "options": [
-      "Organ",
-      "Doku",
-      "Hücre",
-      "Sistem",
-      "Birey"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre, organizmalardaki en küçük yapısal ve işlevsel birimdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522593432_4",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hangisi prokaryotik hücrelerin özelliklerinden biridir?",
-    "options": [
-      "Çekirdek bulunması",
-      "Organellerin zarla sınırlı olması",
-      "Hücre duvarı bulunması",
-      "Mitokondri bulunması",
-      "Kloroplast bulunması"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Prokaryotik hücreler, çekirdek ve zarla çevrili organellerden yoksundur, ancak genellikle hücre duvarına sahiptir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521032843_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
-    "options": [
-      "Ribozom",
-      "Kloroplast",
-      "Lizozom",
-      "Golgi aygıtı",
-      "Endoplazmik retikulum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675491_27",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre döngüsünde G1 aşamasının temel işlevi nedir?",
-    "options": [
-      "DNA'nın kopyalanması",
-      "Hücre büyümesi ve organel sentezi",
-      "Hücre bölünmesi",
-      "Hücre dinlenmesi",
-      "Protein sentezi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "G1 aşaması, hücrenin büyüdüğü ve organellerin sentezlendiği aşamadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675491_21",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre bölünmesinde mitoz ve mayoz arasındaki temel fark nedir?",
-    "options": [
-      "Mitozda genetik çeşitlilik oluşur",
-      "Mayozda genetik çeşitlilik oluşur",
-      "Mitoz sadece somatik hücrelerde görülür",
-      "Mayoz yalnızca bitki hücrelerinde olur",
-      "İkisi de aynı şekilde gerçekleşir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mitoz, genetik olarak özdeş hücreler üretirken, mayoz genetik çeşitliliği artırarak farklı hücreler üretir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675491_28",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücrelerdeki enerji üretiminde hangi süreç önemli rol oynar?",
-    "options": [
-      "Fotosentez",
-      "Fermentasyon",
-      "Solunum",
-      "Glikoliz",
-      "Tüm seçenekler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hücrelerde enerji üretiminde fotosentez, fermentasyon, solunum ve glikoliz gibi birçok süreç önemli rol oynar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520314198_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdakilerden hangisi hücre organellerinden biri değildir?",
-    "options": [
-      "Ribozom",
-      "Mitokondri",
-      "Kloroplast",
-      "Endoplazmik retikulum",
-      "Sitoz"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ribozom, mitokondri, kloroplast ve endoplazmik retikulum hücre organelleridir. Sitoz ise, hücre içindeki sıvı kısmını ifade eder ve bir organel değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524675491_16",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücrelerde enerji üretiminde hangi molekül en önemli rolü oynar?",
-    "options": [
-      "Glukoz",
-      "ATP",
-      "NADH",
-      "FADH2",
-      "Oksijen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "ATP, hücrelerin enerji ihtiyacını karşılamada en önemli enerji taşıyıcısıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524675488_8",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre bölünmesinde önemli rol oynayan organel hangisidir?",
-    "options": [
-      "Ribozom",
-      "Mitokondri",
-      "Sentriol",
-      "Lizozom",
-      "Endoplazmik retikulum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sentrioller, hücre bölünmesinde kromozomların ayrılmasında kritik rol oynar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498693499_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir glikoprotein molekülünün üretim ve salgılanma sürecinde aşağıdaki organellerden hangisi en son görev alır?",
-    "options": [
-      "Granüllü endoplazmik retikulum",
-      "Ribozom",
-      "Golgi cisimciği",
-      "Mitokondri",
-      "Lizozom"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre dışına salgılanacak bir glikoproteinin sentez süreci şu sırayla gerçekleşir: 1) Ribozomda protein kısmı sentezlenir. 2) Sentezlenen protein, granüllü endoplazmik retikulum (GER) kanalına girer ve burada ilk şeker eklemeleri (glikozilasyon) yapılarak üç boyutlu yapısını kazanır. 3) GER'den ayrılan taşıma kofulu, proteini Golgi cisimciğine taşır. 4) Golgi cisimciğinde protein son halini alır, sınıflandırılır, paketlenir ve salgı kofulu oluşturulur. Bu koful daha sonra hücre zarına giderek içeriğini ekzositozla dışarı bırakır. Bu sıralamada en son görev alan organel Golgi cisimciğidir. Mitokondri bu süreç için enerji (ATP) üretir ancak sentez yolunda doğrudan yer almaz. Lizozom ise hücre içi sindirimde görevlidir.",
+    "explanation": "Profaz aşamasında kromozomlar yoğunlaşarak belirgin hale gelir. Bu aşamada kromozomlar, mikrotübüllerin çekirdek bölünmesinde görev alabilmesi için daha kolay tanınır duruma gelir.",
     "difficulty": 3
   },
   {
@@ -880,26 +848,410 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524675491_22",
+    "id": "ai_1764498693499_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücrede bulunan farklı organellerin en önemli işlevi nedir?",
+    "questionText": "Aşağıdaki hücresel yapılardan hangisi, hem oksijenli solunum yapan bir bakteri hücresinde hem de bir hayvan hücresinde ortak olarak bulunur?",
     "options": [
-      "Enerji üretmek",
-      "Hücreyi korumak",
-      "Hücre içi işlevleri düzenlemek",
-      "Genetik bilgi taşımak",
-      "Hücre bölünmesini sağlamak"
+      "Mitokondri",
+      "Hücre duvarı",
+      "Ribozom",
+      "Çekirdek",
+      "Lizozom"
     ],
     "correctAnswer": 2,
-    "explanation": "Organeller, hücrenin farklı işlevlerini yerine getirmesine ve düzenlemesine yardımcı olur.",
+    "explanation": "Ribozom, protein sentezinden sorumlu olan ve zarsız bir organeldir. Bu nedenle hem prokaryotik (bakteri) hem de ökaryotik (hayvan) hücrelerde ortak olarak bulunur. Mitokondri, çekirdek ve lizozom zarlı organeller olup sadece ökaryotik hücrelerde bulunur. Hayvan hücrelerinde hücre duvarı bulunmazken, bakterilerde peptidoglikan yapılı bir hücre duvarı bulunur. Ancak soru her iki hücrede de 'ortak olarak' bulunan yapıyı sorduğu için doğru cevap ribozomdur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_29",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücredeki en küçük yapısal ve işlevsel birim hangisidir?",
+    "options": [
+      "Organ",
+      "Doku",
+      "Hücre",
+      "Sistem",
+      "Birey"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre, organizmalardaki en küçük yapısal ve işlevsel birimdir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764520314199_2",
+    "id": "ai_1764524675490_11",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında hangi aşamada kromozomlar en belirgin hale gelir?",
+    "questionText": "Kloroplastlar hangi hücrelerde bulunur?",
+    "options": [
+      "Hayvan hücrelerinde",
+      "Bitki hücrelerinde",
+      "Mikroorganizmalarda",
+      "Bakterilerde",
+      "Tüm hücrelerde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yapabilen bitki hücrelerinde bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500061240_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Bir bilim insanı, mikroskop altında incelediği bir hücrede hücre duvarı, ribozom ve zarsız bir kalıtım materyali (nükleoid) bulunduğunu gözlemliyor. Bu hücrede aşağıdaki organellerden hangisinin bulunması **beklenmez**?",
+    "options": [
+      "Hücre zarı",
+      "Sitoplazma",
+      "Lizozom",
+      "Ribozom",
+      "Kamçı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soruda tarif edilen hücre; hücre duvarı, ribozom içermesi ve en önemlisi kalıtım materyalinin zarla çevrili bir çekirdek içinde olmaması (nükleoid bölgesi) nedeniyle bir prokaryot hücredir (örneğin bakteri). Prokaryot hücrelerde zarlı organeller bulunmaz. A, B ve D şıklarındaki yapılar (Hücre zarı, Sitoplazma, Ribozom) tüm canlı hücrelerde ortakken, E şıkkındaki kamçı bazı prokaryotlarda bulunabilir. Ancak C şıkkındaki lizozom, tek zarlı bir organel olup sadece ökaryot hücrelerde (özellikle hayvan hücrelerinde) bulunur. Bu nedenle prokaryot bir hücrede lizozomun bulunması beklenmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521032843_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
+    "options": [
+      "Ribozom",
+      "Kloroplast",
+      "Lizozom",
+      "Golgi aygıtı",
+      "Endoplazmik retikulum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524675491_24",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre içindeki DNA'nın işlevi nedir?",
+    "options": [
+      "Enerji üretimi",
+      "Protein sentezi",
+      "Genetik bilgi saklama",
+      "Hücre bölünmesi",
+      "Atıkları parçalamak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DNA, hücredeki genetik bilgiyi saklar ve kalıtsal özelliklerin aktarımını sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528378449_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının temel işlevlerinden biri nedir?",
+    "options": [
+      "Besin maddelerini depolamak",
+      "Hücre içi organelleri üretmek",
+      "İletişim sinyallerini iletmek",
+      "Hücreyi korumak",
+      "Enerji üretmek"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hücre zarı, hücrenin dış ortamla olan etkileşimini kontrol ederek hücreyi korur ve madde geçişlerini düzenler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Mitokondrilerin temel görevi nedir?",
+    "options": [
+      "Protein sentezlemek",
+      "ATP üretmek",
+      "Hücre bölünmesi sağlamak",
+      "DNA sentezlemek",
+      "Besin depolamak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitokondriler, hücrelerin enerji ihtiyacını karşılamak için ATP üretir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre çekirdeği hangi yapıyı içerir?",
+    "options": [
+      "Ribozomlar",
+      "Kloroplastlar",
+      "DNA",
+      "Mitokondri",
+      "Hücre zarı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre çekirdeği, genetik bilgiyi taşıyan DNA'yı içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_3",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede protein sentezinin gerçekleştiği yer neresidir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Hücre zarı",
+      "Çekirdek",
+      "Lizozom"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protein sentezi ribozomlarda gerçekleşir, ribozomlar mRNA'dan protein sentezler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_4",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarı, hangi maddeyi seçici olarak geçirir?",
+    "options": [
+      "Su",
+      "İyonlar",
+      "Büyük moleküller",
+      "Glikoz",
+      "Tüm maddeler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre zarı, seçici geçirgenlik özelliği sayesinde belirli maddeleri geçirirken diğerlerini geçiremez.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_5",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre iskeletinin temel bileşenleri hangileridir?",
+    "options": [
+      "Lipid ve protein",
+      "Mikrotübüller, mikrofilamentler ve ara filamentler",
+      "DNA ve RNA",
+      "Karbonhidrat ve yağ",
+      "Enzimler ve koenzimler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre iskeleti, mikrotübüller, mikrofilamentler ve ara filamentlerden oluşur ve hücreye şekil verir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_6",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Lizozomların temel görevi nedir?",
+    "options": [
+      "Enerji üretmek",
+      "Hücre bölünmesini sağlamak",
+      "Atık maddeleri parçalamak",
+      "Protein sentezlemek",
+      "Hücreyi korumak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lizozomlar, hücre içindeki atık maddeleri ve yıpranmış organelleri parçalayarak geri dönüşüm sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378449_7",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Plazma membranı hangi moleküllerden oluşur?",
+    "options": [
+      "DNA ve RNA",
+      "Protein ve lipid",
+      "Karbonhidrat ve vitamin",
+      "Enzim ve koenzim",
+      "Mikroorganizmalar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Plazma membranı, lipid ve proteinlerden oluşan çift katmanlı bir yapıya sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_8",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Kloroplastların temel işlevi nedir?",
+    "options": [
+      "ATP üretmek",
+      "Fotosentez yapmak",
+      "Hücre bölünmesini sağlamak",
+      "DNA sentezlemek",
+      "Protein sentezlemek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yaparak güneş enerjisini kimyasal enerjiye dönüştürür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_9",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre döngüsü hangi aşamalardan oluşur?",
+    "options": [
+      "İnterfaz ve mitoz",
+      "Mitoz ve meiosis",
+      "Sentez ve yıkım",
+      "Bölünme ve büyüme",
+      "Üretim ve tüketim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hücre döngüsü, hücrenin büyüme ve bölünme aşamaları olan interfaz ve mitozdan oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_10",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarında bulunan proteinlerin temel işlevi nedir?",
+    "options": [
+      "Hücreyi korumak",
+      "Hücre içi iletişimi sağlamak",
+      "Enerji üretmek",
+      "Besin depolamak",
+      "DNA sentezlemek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre zarındaki proteinler, hücreler arası iletişimi ve madde geçişini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_11",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerin enerji ihtiyacını karşılamak için hangi organel kullanılır?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Kloroplast",
+      "Lizozom",
+      "Çekirdek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitokondriler, hücrelerin enerji ihtiyacını karşılamak için ATP üretir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_12",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi yapı genetik bilgiyi taşır?",
+    "options": [
+      "Ribozom",
+      "Lizozom",
+      "DNA",
+      "Mitokondri",
+      "Kloroplast"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DNA, genetik bilgiyi taşıyan moleküldür ve hücre çekirdeğinde bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_13",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının yapısını oluşturan temel bileşenler nelerdir?",
+    "options": [
+      "Karbonhidratlar ve proteinler",
+      "Proteinler ve lipidler",
+      "DNA ve RNA",
+      "Mikroorganizmalar",
+      "Enzimler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre zarı, lipid ve protein moleküllerinden oluşan bir yapıdadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_14",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında hangi aşama genellikle en uzun süreyi alır?",
+    "options": [
+      "Mitoz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "İnterfaz"
+    ],
+    "correctAnswer": 4,
+    "explanation": "İnterfaz, hücrenin büyüme ve DNA'nın kopyalanma aşamasıdır ve genellikle en uzun süren aşamadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_15",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede oksijenin kullanıldığı süreç hangisidir?",
+    "options": [
+      "Fermentasyon",
+      "Fotosentez",
+      "Aerobik solunum",
+      "Anaerobik solunum",
+      "Bölünme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aerobik solunum, hücrelerin oksijen kullanarak enerji üretme sürecidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_16",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede ribozomların işlevi nedir?",
+    "options": [
+      "Enerji üretmek",
+      "Protein sentezlemek",
+      "DNA kopyalamak",
+      "Atıkları parçalamak",
+      "Besin depolamak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ribozomlar, mRNA'dan protein sentezler ve bu nedenle hücre için hayati öneme sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_17",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının seçici geçirgenlik özelliği neyi ifade eder?",
+    "options": [
+      "Tüm maddeleri geçirir",
+      "Bazı maddeleri geçirir, bazılarını geçiremez",
+      "Sadece suyu geçirir",
+      "Sadece lipidleri geçirir",
+      "Sadece proteinleri geçirir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Seçici geçirgenlik, hücre zarının belli maddelere izin vermesi anlamına gelir, bu da hücrenin homeostazisini korur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_18",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Kloroplastlar hangi canlılarda bulunur?",
+    "options": [
+      "Hayvan hücrelerinde",
+      "Bitki hücrelerinde",
+      "Mantar hücrelerinde",
+      "Bakteri hücrelerinde",
+      "Protist hücrelerinde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yapabilen bitki hücrelerinde bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_19",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında kromozomlar hangi aşamada en belirgin hale gelir?",
     "options": [
       "İnterfaz",
       "Profaz",
@@ -908,39 +1260,343 @@
       "Telofaz"
     ],
     "correctAnswer": 1,
-    "explanation": "Hücre bölünmesi sırasında kromozomlar en belirgin hale profaz aşamasında gelir. Bu aşamada kromatin yoğunlaşarak kromozomları oluşturur ve mikrotübüller ile hücre merkezlerine doğru hareket eder.",
-    "difficulty": 3
+    "explanation": "Profaz aşamasında kromozomlar yoğunlaşarak belirgin hale gelir.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764519356975_0",
+    "id": "ai_1764528378450_20",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
+    "questionText": "Hücrede bulunan özel yapıların hangisi enerji üretiminde rol oynar?",
     "options": [
-      "Besin maddelerini depolamak",
-      "Hücre içi organellerin üretimini sağlamak",
-      "Hücre içi ve dışı arasında madde geçişini kontrol etmek",
-      "Enerji üretimini gerçekleştirmek",
-      "Genetik bilgiyi taşımak"
+      "Ribozom",
+      "Lizozom",
+      "Mitokondri",
+      "Çekirdek",
+      "Plazma membranı"
     ],
     "correctAnswer": 2,
-    "explanation": "Hücre zarı, hücrenin dış çevresi ile içi arasında seçici geçirgenlik sağlar ve bu sayede hücre içi ve dışı arasında madde geçişini kontrol eder.",
-    "difficulty": 3
+    "explanation": "Mitokondriler, hücrelerin enerji üretiminde kritik rol oynar.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764522593432_8",
+    "id": "ai_1764528378450_21",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında, kromozomların birbirinden ayrıldığı evre hangisidir?",
+    "questionText": "Hücre iskeletinin görevleri arasında hangisi yer almaz?",
     "options": [
+      "Hücreye destek sağlamak",
+      "Hücreyi hareket ettirmek",
+      "İletişim sağlamak",
+      "Hücre şeklini korumak",
+      "Organelleri yerinde tutmak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre iskeleti, hücreye destek ve şekil verir, ancak iletişim sağlamak ana işlevlerinden biri değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_22",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarındaki proteinlerin hangi işlevi bulunmaz?",
+    "options": [
+      "Maddenin taşınması",
+      "Hücreler arası iletişim",
+      "Enerji üretimi",
+      "Enzim aktivitesi",
+      "Hücre tanıma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre zarındaki proteinler, hücreler arası iletişim, madde taşınması ve enzim aktivitesi gibi işlevler üstlenir, ancak enerji üretimi yapmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_23",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi yapı besin maddelerinin depolanmasında görev alır?",
+    "options": [
+      "Kloroplast",
+      "Mitokondri",
+      "Lizozom",
+      "Vakuol",
+      "Ribozom"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vakuoller, hücrede besin maddelerinin depolanmasında önemli rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378450_24",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücredeki enzimler hangi rolü üstlenir?",
+    "options": [
+      "Kimyasal reaksiyonları hızlandırmak",
+      "Enerji üretmek",
+      "Maddeleri depolamak",
+      "Bölünmeyi sağlamak",
+      "Hücreyi korumak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enzimler, kimyasal reaksiyonları hızlandırarak metabolizmanın düzenlenmesinde önemli rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_25",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerin enerji üretiminde kullanılan temel molekül hangisidir?",
+    "options": [
+      "Glukoz",
+      "Oksijen",
+      "Karbon dioksit",
+      "Amino asit",
+      "Nükleotid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Glukoz, hücrelerin enerji üretiminde ana kaynak olarak kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_26",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrelerin büyüme aşamasında hangi süreç önemlidir?",
+    "options": [
+      "Bölünme",
+      "Metabolizma",
+      "Sentez",
+      "Taşınma",
+      "Dönüşüm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücrelerin büyümesi için metabolizma ve besin maddelerinin sentezlenmesi önemlidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_27",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi organel protein sentezinde rol alır?",
+    "options": [
+      "Mitokondri",
+      "Ribozom",
+      "Lizozom",
+      "Kloroplast",
+      "Çekirdek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ribozomlar, protein sentezinde temel rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_28",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının yapısında hangi bileşen bulunmaz?",
+    "options": [
+      "Lipid",
+      "Protein",
+      "Karbonhidrat",
+      "DNA",
+      "Kolesterol"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hücre zarında lipid, protein ve karbonhidrat bulunurken DNA yer almaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_29",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede enerji üretiminde hangi süreçler yer alır?",
+    "options": [
+      "Fotosentez ve solunum",
+      "Bölünme ve metabolizma",
+      "Taşıma ve sentez",
+      "Solunum ve sentez",
+      "Büyüme ve dönüşüm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hücrede enerji üretimi için fotosentez ve solunum süreçleri önemlidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_30",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücredeki ribozomlar hangi molekülü kullanarak protein sentezler?",
+    "options": [
+      "DNA",
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "Amino asit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ribozomlar, mRNA molekülünü kullanarak protein sentezler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_31",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Bitki hücrelerinde bulunan özel yapı nedir?",
+    "options": [
+      "Kloroplast",
+      "Mitozom",
+      "Lizozom",
+      "Ribozom",
+      "Nukleus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kloroplastlar, bitki hücrelerinde bulunan ve fotosentez yapan özel yapılardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_32",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi yapı, hücre içi sindirim işlemini gerçekleştirir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Lizozom",
+      "Kloroplast",
+      "Çekirdek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lizozomlar, hücre içindeki atıkları ve büyük molekülleri sindirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_33",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Bitki hücrelerinde hangi yapı depo işlevi görür?",
+    "options": [
+      "Mitokondri",
+      "Kloroplast",
+      "Vakuol",
+      "Ribozom",
+      "Lizozom"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vakuoller, bitki hücrelerinde su ve besin maddelerini depolamak için kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_34",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücredeki enzimler hangi tür moleküllerdir?",
+    "options": [
+      "Protein",
+      "Karbonhidrat",
+      "Yağ",
+      "Vitamin",
+      "Mineral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enzimler, genellikle protein yapısında olan ve biyokimyasal reaksiyonları hızlandıran moleküllerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_35",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında DNA'nın kopyalanması hangi aşamada gerçekleşir?",
+    "options": [
+      "İnterfaz",
       "Profaz",
       "Metafaz",
       "Anafaz",
-      "Telofaz",
-      "Interfaz"
+      "Telofaz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DNA'nın kopyalanması, hücre döngüsünün interfaz aşamasında gerçekleşir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_36",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarında bulunan karbonhidratların işlevi nedir?",
+    "options": [
+      "Hücreler arası iletişimi sağlamak",
+      "Enerji üretmek",
+      "Protein sentezlemek",
+      "Atıkları parçalamak",
+      "Bölünmeyi sağlamak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hücre zarındaki karbonhidratlar, hücreler arası tanıma ve iletişimi sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_37",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi yapı, madde taşınması için kanalları oluşturur?",
+    "options": [
+      "Ribozom",
+      "Endoplazmik retikulum",
+      "Lizozom",
+      "Kloroplast",
+      "Mitokondri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Endoplazmik retikulum, hücrede madde taşınmasını sağlayan kanalları oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_38",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi yapı, hücrenin enerji ihtiyacını karşılayan tepkimeleri gerçekleştirir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Lizozom",
+      "Kloroplast",
+      "Çekirdek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitokondriler, hücrenin enerji ihtiyacını karşılayan tepkimeleri gerçekleştirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_39",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi yapı, genetik bilginin korunmasında önemli rol oynar?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Çekirdek",
+      "Kloroplast",
+      "Lizozom"
     ],
     "correctAnswer": 2,
-    "explanation": "Anafaz, kromozomların kutuplara çekildiği ve birbirinden ayrıldığı bölümdür; bu evrede kromozomlar iki ayrı gruba ayrılır.",
-    "difficulty": 3
+    "explanation": "Çekirdek, genetik bilginin korunmasında ve kontrolünde önemli rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528378451_40",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücrede hangi süreç, enerji harcayarak madde taşımayı sağlar?",
+    "options": [
+      "Pasif taşınma",
+      "Difüzyon",
+      "Osmoz",
+      "Aktif taşınma",
+      "Bölünme"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aktif taşınma, hücrelerin enerji harcayarak maddeleri taşıdığı bir süreçtir.",
+    "difficulty": 4
   }
 ]
