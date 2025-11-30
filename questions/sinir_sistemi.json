@@ -1,163 +1,19 @@
 [
   {
-    "id": "ai_1764524878325_13",
+    "id": "ai_1764528627000_22",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Beyin sapının ana görevlerinden biri nedir?",
+    "questionText": "Hangisi sinir hücrelerinin temel bileşenlerinden biri değildir?",
     "options": [
-      "Hafızayı yönetmek",
-      "Duyu bilgilerini işlemek",
-      "Otonom işlevleri düzenlemek",
-      "Görsel bilgileri işlemek",
-      "Kas hareketlerini kontrol etmek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Beyin sapı, kalp atışı, solunum gibi otonom işlevleri düzenler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_16",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin hangi bölümü istemli hareketleri kontrol eder?",
-    "options": [
-      "Otonom sinir sistemi",
-      "Somatik sinir sistemi",
-      "Merkezi sinir sistemi",
-      "Periferik sinir sistemi",
-      "Refleks arc"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi bölümüdür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Alkolün etkisi altındayken bir kişinin denge kurmakta zorlanması, yürümede güçlük çekmesi ve hareketlerini koordine edememesi, alkolün öncelikli olarak beynin hangi bölümünü etkilediğini gösterir?",
-    "options": [
-      "Omurilik soğanı",
-      "Uç beyin (Serebrum)",
-      "Hipotalamus",
-      "Talamus",
-      "Beyincik (Serebellum)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Beyincik (serebellum), vücudun denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde gerçekleşmesini sağlar. Alkol, beyinciğin fonksiyonlarını baskılayarak denge kaybı, yürüme bozuklukları (ataksi) ve ince motor becerilerinde bozulma gibi semptomlara yol açar. Soruda tarif edilen belirtiler, doğrudan beyinciğin görevleriyle ilgilidir. Diğer şıklar ise farklı fonksiyonlardan sorumludur (Omurilik soğanı: Hayati refleksler, Hipotalamus: Homeostazi, Talamus: Duyu merkezi, Uç beyin: İstemli hareketler ve bilinç).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_14",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi merkezi sinir sisteminin bir parçası değildir?",
-    "options": [
-      "Beyin",
-      "Omurilik",
-      "Beyin sapı",
-      "Duyusal sinirler",
-      "Serebrum"
+      "Nöron",
+      "Glia",
+      "Sinaps",
+      "Aksiyon potansiyeli",
+      "Dendrit"
     ],
     "correctAnswer": 3,
-    "explanation": "Duyusal sinirler, merkezi sinir sisteminin parçası değildir; periferik sinir sistemine aittir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_12",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi beyin bölgesi duygusal tepkileri yönetir?",
-    "options": [
-      "Amigdala",
-      "Serebellum",
-      "Hipokampus",
-      "Thalamus",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Amigdala, duygusal tepkilerin işlenmesinde kritik bir rol oynar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_7",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, sinir hücrelerinin elektriksel sinyalleri iletmesini sağlar?",
-    "options": [
-      "Akson",
-      "Dendrit",
-      "Soma",
-      "Sinaps",
-      "Nöral ağ"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akson, sinir hücrelerinin elektriksel sinyalleri iletmesini sağlayan uzantıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_23",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin yarımkürelerinin sağ ve sol tarafı arasında bilgi iletimini sağlayan yapı hangisidir?",
-    "options": [
-      "Beyin sapı",
-      "Korpu callosum",
-      "Serebellum",
-      "Thalamus",
-      "Hipotalamus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Korpu callosum, beyin yarımküreleri arasında bilgi iletimini sağlayan yapıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_18",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi beyin bölgesi hafıza ve öğrenme ile ilişkilidir?",
-    "options": [
-      "Serebellum",
-      "Hippokampus",
-      "Amygdala",
-      "Thalamus",
-      "Frontal lob"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hippokampus, hafıza ve öğrenme ile ilgili önemli bir beyin bölgesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_29",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi terim, nöronların birbirleriyle iletişim kurmasını ifade eder?",
-    "options": [
-      "Sinapsis",
-      "Nörotransmisyon",
-      "Regenerasyon",
-      "Akson terminasyonu",
-      "Dendritik iletişim"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nörotransmisyon, nöronların birbirleriyle iletişim kurmasını ifade eden terimdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_13",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminde hangi hücreler destekleyici ve koruyucu rol oynar?",
-    "options": [
-      "Nöronlar",
-      "Glia hücreleri",
-      "Afferent nöronlar",
-      "Efferent nöronlar",
-      "Interneuronlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Glia hücreleri, nöronlara destek sağlayan ve onlara koruyucu işlevler üstlenen hücrelerdir.",
-    "difficulty": 3
+    "explanation": "Aksiyon potansiyeli, sinir hücrelerinin elektriksel aktivitesidir, ancak bir hücre bileşeni değildir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764524878326_21",
@@ -176,566 +32,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524878325_11",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Dendritlerin temel görevi nedir?",
-    "options": [
-      "Bilgi iletmek",
-      "Bilgi almak",
-      "Hücreyi beslemek",
-      "Hücreyi korumak",
-      "Sinyal üretmek"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dendritler, nöronların diğer nöronlardan bilgi aldığı uzantılardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520349824_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks arc'inin temel işlevi nedir?",
-    "options": [
-      "Hormon üretmek",
-      "Duyusal bilgiyi işlemek",
-      "İstemli hareketleri başlatmak",
-      "Hızlı yanıt vermek",
-      "Duyusal algıları artırmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744127_18",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin ve omuriliği koruyan zarların adı nedir?",
-    "options": [
-      "Meninges",
-      "Glia",
-      "Neurolemma",
-      "Cortex",
-      "Fascia"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Beyin ve omuriliği koruyan zarlar meninksler (meninges) olarak adlandırılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744126_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Otonom sinir sistemi hangi işlevleri yönetir?",
-    "options": [
-      "Gönüllü hareketler",
-      "Dış ortam algısı",
-      "Duyusal bilgi iletimi",
-      "İç organların otomatik işlevleri",
-      "Duygusal tepkiler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Otonom sinir sistemi, iç organların otomatik işlevlerini yönetir. Bu sistem bilinçli kontrol altında değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744126_5",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi nöron tipi motor işlevleri kontrol eder?",
-    "options": [
-      "Afferent nöronlar",
-      "Efferent nöronlar",
-      "Interneuronlar",
-      "Sensory nöronlar",
-      "Glial hücreler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Efferent nöronlar, merkezi sinir sisteminden kaslara ve bezlere sinyal göndererek motor işlevleri kontrol eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878326_28",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin sapının hangi bölümü solunum ve kalp atışını kontrol eder?",
-    "options": [
-      "Pons",
-      "Medulla oblongata",
-      "Midbrain",
-      "Beyincik",
-      "Thalamus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Medulla oblongata, solunum ve kalp atışını kontrol eden beyin sapı bölümüdür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744126_4",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinaps nedir?",
-    "options": [
-      "Nöronların birleşim yeri",
-      "Nöronların enerji kaynağı",
-      "Akson ile dendrit arasındaki boşluk",
-      "Sinir hücrelerinin organeli",
-      "Beyin bölgesi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sinaps, bir nöronun aksonu ile bir başka nöronun dendriti arasındaki boşluktur. Burada kimyasal sinyaller iletilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520349823_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
-    "options": [
-      "Otonom sinir sistemi",
-      "Somatik sinir sistemi",
-      "Merkezi sinir sistemi",
-      "Periferik sinir sistemi",
-      "Duyusal sinir sistemi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500179499_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beyinciği hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
-    "options": [
-      "Solunum ve dolaşım gibi hayati faaliyetlerin durması",
-      "Hafıza kaybı ve öğrenme güçlüğü yaşanması",
-      "Vücut sıcaklığı ve kan basıncının düzenlenememesi",
-      "Refleks hareketlerinin kontrol edilememesi",
-      "Denge kaybı ve hareketlerde koordinasyon bozukluğu yaşanması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_5",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Nöronların iletişiminde görevli olan kimyasal maddelere ne denir?",
-    "options": [
-      "Hormonlar",
-      "Nörotransmitterler",
-      "Enzimler",
-      "Vitaminler",
-      "Elektrolitler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nörotransmitterler, nöronlar arasında iletişimi sağlayan kimyasal maddelerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878325_9",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi beyindeki ödül ve motivasyon sistemini etkileyen bir yapıdır?",
-    "options": [
-      "Hipotalamus",
-      "Serebellum",
-      "Amygdala",
-      "Serebrum",
-      "Thalamus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hipotalamus, ödül ve motivasyon sistemini etkileyen önemli bir yapıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_19",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücrelerini koruyan ve besleyen hücreler hangileridir?",
-    "options": [
-      "Nöronlar",
-      "Glia hücreleri",
-      "Dendritler",
-      "Aksonlar",
-      "Sinapslar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Glia hücreleri, sinir hücrelerini koruyan ve besleyen hücrelerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519384777_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Merkezi sinir sistemi hangi yapıdan oluşur?",
-    "options": [
-      "Beyin ve omurilik",
-      "Sinirler ve ganglionlar",
-      "Duyu organları",
-      "Kaslar",
-      "Bağ dokusu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Merkezi sinir sistemi, beyin ve omurilikten oluşur. Bu yapı, vücutta bilgi işleme ve yönlendirme görevlerini üstlenir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744126_3",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Dendritler nöronun hangi işlevine katkıda bulunur?",
-    "options": [
-      "Sinyal iletimi",
-      "Sinyal alma",
-      "Yalıtım sağlama",
-      "Enerji üretimi",
-      "Hücre bölünmesi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dendritler, nöronların diğer nöronlardan veya çevreden sinyalleri aldığı yapılardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744126_6",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin sapı hangi işlevleri yönetir?",
-    "options": [
-      "Duyusal algı",
-      "İstemli hareketler",
-      "Otonom işlevler",
-      "Hafıza ve öğrenme",
-      "Duygusal tepkiler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Beyin sapı, nefes alma, kalp atışı gibi temel otonom işlevleri yönetir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501455383_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
-    "options": [
-      "Aksiyon potansiyelinin şiddetinin artması",
-      "İmpuls iletim hızının artması",
-      "İmpuls iletimi için harcanan ATP miktarının artması",
-      "Uyarılma için gerekli eşik değerinin düşmesi",
-      "Repolarizasyon süresinin kısalması"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878326_27",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Nöronların elektriksel sinyalleri hangi durumlarda iletme yeteneği vardır?",
-    "options": [
-      "Dinlenme durumunda",
-      "Uyarı aldığında",
-      "Uyku sırasında",
-      "Beslenme sırasında",
-      "Düşünme anında"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nöronlar, uyarı aldıklarında elektriksel sinyalleri iletme yeteneğine sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744126_7",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelere ne denir?",
-    "options": [
-      "Hormonlar",
-      "Nörotransmitterler",
-      "Enzimler",
-      "Elektrolitler",
-      "Proteinler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelere nörotransmitterler denir. Örnek olarak serotonin ve dopamin verilebilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744127_15",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronun elektriksel uyarı ile tetiklenmesi için ne gereklidir?",
-    "options": [
-      "Hücre bölünmesi",
-      "Sodyum ve potasyum iyonlarının hareketi",
-      "Dendritlerin büyümesi",
-      "Nörotransmitterlerin salınması",
-      "Aksonun uzaması"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir nöronun elektriksel uyarı ile tetiklenmesi için sodyum ve potasyum iyonlarının hücre zarında hareket etmesi gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_12",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sempatik sinir sisteminin etkisi hangi durumlarda artar?",
-    "options": [
-      "Huzurlu anlarda",
-      "Stresli durumlarda",
-      "Uyku sırasında",
-      "Sakin ortamlarda",
-      "Dinlenme anlarında"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sempatik sinir sistemi, stresli durumlarda aktiftir ve vücudu harekete geçirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878323_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi nöron türü duyu bilgilerini beyne iletir?",
-    "options": [
-      "Motor nöronlar",
-      "Duyusal nöronlar",
-      "Ara nöronlar",
-      "Etkileşim nöronları",
-      "Otonom nöronlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Duyusal nöronlar, çevreden gelen uyarıları beyne ileten nöronlardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498792328_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Aksiyon potansiyelinin repolarizasyon evresinde, zar potansiyelinin tekrar negatif değerlere dönmesinden temel olarak sorumlu olan iyon hareketi aşağıdakilerden hangisidir?",
-    "options": [
-      "Na+ iyonlarının hücre içine girmesi (influks)",
-      "K+ iyonlarının hücre dışına çıkması (efluks)",
-      "Ca2+ iyonlarının hücre içine girmesi (influks)",
-      "Voltaj kapılı Na+ kanallarının aktifleşmesi",
-      "Cl- iyonlarının hücre içine girmesi (influks)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Repolarizasyon, hücre zarının yeniden kutuplaşarak dinlenme potansiyeline dönmesidir. Bu evrede, voltaj kapılı Na+ kanalları inaktif duruma geçerken, voltaj kapılı K+ kanalları açılır. Bu durum, K+ iyonlarının derişim gradyanına uygun olarak hücre dışına çıkmasına (efluks) neden olur. Pozitif yüklü iyonların (K+) hücre dışına çıkması, hücre içinin tekrar negatif hale gelmesini sağlar ve zar potansiyelini dinlenme potansiyeline yaklaştırır. Na+ girişi depolarizasyonda, Ca2+ girişi ise genellikle sinaptik iletimde rol oynar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519384777_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Otonom sinir sistemi hangi işlevleri kontrol eder?",
-    "options": [
-      "Gönüllü hareketler",
-      "Duyusal algılar",
-      "İç organların otomatik işlevleri",
-      "Düşünme ve hafıza",
-      "Göz hareketleri"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Otonom sinir sistemi, kalp atışı, sindirim ve solunum gibi iç organların otomatik işlevlerini kontrol eder ve bilinçli irade ile yönetilmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744127_17",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücreleri arasında iletişimde hangi süreç önemlidir?",
-    "options": [
-      "Mitotik bölünme",
-      "Nörotransmitter salınımı",
-      "Apoptoz",
-      "Hücre çatlaması",
-      "Baskı vesikülleri"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinir hücreleri arasındaki iletişimde nörotransmitterlerin salınımı kritik bir öneme sahiptir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744126_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Merkezi sinir sisteminin iki ana bileşeni nedir?",
-    "options": [
-      "Beyin ve omurilik",
-      "Sinirler ve gangliyonlar",
-      "Beyincik ve talamus",
-      "Beyin sapı ve serebellum",
-      "Otonom ve somatik sistem"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Merkezi sinir sistemi beyin ve omurilikten oluşur. Bu iki yapı, sinir sisteminin kontrol merkezi işlevini görür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520349824_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
-    "options": [
-      "Dendrit",
-      "Akson",
-      "Soma",
-      "Sinaps",
-      "Nükleoz"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519384777_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin temel birimi nedir?",
-    "options": [
-      "Nöron",
-      "Glial hücre",
-      "Sinaps",
-      "Akson",
-      "Dendrit"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinir sisteminin temel işlevsel birimi nörondur. Nöronlar elektriksel sinyalleri iletmek ve bilgi işlemek için özelleşmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_10",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin en büyük bölümünü oluşturan yapı hangisidir?",
-    "options": [
-      "Serebrum",
-      "Serebellum",
-      "Beyin sapı",
-      "Omurilik",
-      "Periferik sinirler"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Serebrum, sinir sisteminin en büyük bölümünü oluşturan yapıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_17",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi nörotransmitterlerden biri değildir?",
-    "options": [
-      "Dopamin",
-      "Serotonin",
-      "Asetilkolin",
-      "Glukoz",
-      "GABA"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Glukoz, nörotransmitter değildir; enerji kaynağıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_10",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi nöron tipi çevreden gelen duyusal bilgileri iletir?",
-    "options": [
-      "Motor nöronlar",
-      "Afferent nöronlar",
-      "Efferent nöronlar",
-      "Interneuronlar",
-      "Glial hücreler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Afferent nöronlar, çevreden gelen duyusal bilgileri merkezi sinir sistemine ileten nöronlardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_4",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Otonom sinir sisteminin hangi bölümü 'savaş ya da kaç' tepkisini yönetir?",
-    "options": [
-      "Parasempatik sistem",
-      "Sempatik sistem",
-      "Merkezi sinir sistemi",
-      "Somatik sistem",
-      "Duyusal sistem"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sempatik sinir sistemi, stres anında 'savaş ya da kaç' tepkisini yönetir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_26",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin lobları arasında bilgi iletimini sağlayan yapı hangisidir?",
-    "options": [
-      "Corpus callosum",
-      "Beyin sapı",
-      "Serebellum",
-      "Thalamus",
-      "Hipotalamus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Corpus callosum, beyin lobları arasında bilgi iletimini sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_25",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin işlevlerini destekleyen hangi hücreler vardır?",
-    "options": [
-      "Nöronlar",
-      "Beyin hücreleri",
-      "Glia hücreleri",
-      "Dendritler",
-      "Aksonlar"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Glia hücreleri, sinir sisteminin işlevlerini destekleyen hücrelerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878325_15",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, vücut sıcaklığını düzenlemekten sorumludur?",
-    "options": [
-      "Hipotalamus",
-      "Serebellum",
-      "Beyin sapı",
-      "Serebrum",
-      "Limbik sistem"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hipotalamus, vücut sıcaklığını düzenleyen önemli bir yapıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_11",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin yarım kürelerinin en büyük bağlantı yolları hangisidir?",
-    "options": [
-      "Korpus kallozum",
-      "Beyin sapı",
-      "Talamus",
-      "Hipotalamus",
-      "Serebellum"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Korpus kallozum, sağ ve sol beyin yarım küreleri arasında bağlantı sağlayan en büyük sinir lifidir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764522744127_9",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -750,134 +46,6 @@
     "correctAnswer": 1,
     "explanation": "Myelin kılıfı, akson üzerinde bulunan yağlı bir yapıdır ve sinyallerin iletim hızını artırır.",
     "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
-    "options": [
-      "Miyelin kılıfın varlığı",
-      "Akson çapının genişliği",
-      "Ranvier boğum sayısı",
-      "Uyarının şiddeti",
-      "Sıcaklık"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878326_24",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi nöron türü kaslara sinyal gönderir?",
-    "options": [
-      "Duyusal nöronlar",
-      "Motor nöronlar",
-      "Ara nöronlar",
-      "Sempatik nöronlar",
-      "Otonom nöronlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Motor nöronlar, kaslara sinyal göndererek hareketi başlatır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_16",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücrelerinin yeniden onarım süreci hangi olayla başlar?",
-    "options": [
-      "Aksiyal taşıma",
-      "Sinaptik iletişim",
-      "Nöronal regenerasyon",
-      "Hücre bölünmesi",
-      "Apoptoz"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nöronal regenerasyon, sinir hücrelerinin yeniden onarım sürecini başlatır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_14",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks hareketlerinin en hızlı şekilde gerçekleşmesini sağlayan yapı hangisidir?",
-    "options": [
-      "Beyin",
-      "Omurilik",
-      "Serebellum",
-      "Hipokampus",
-      "Dendrit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Refleks hareketleri, omurilik düzeyinde gerçekleştiği için en hızlı şekilde burada gerçekleşir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501455383_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
-    "options": [
-      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
-      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
-      "Acı ve sıcaklık gibi duyuların algılanamaması",
-      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
-      "Konuşulanları anlama fakat konuşarak cevap verememe"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744127_19",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücrelerinin elektriksel uyarılara verdiği yanıt ne olarak adlandırılır?",
-    "options": [
-      "Potansiyel farklılığı",
-      "Aksiyon potansiyeli",
-      "Hücre zarı geçirgenliği",
-      "Sinaps aktivasyonu",
-      "Dendrit uyarımı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinir hücrelerinin elektriksel uyarılara verdiği yanıt aksiyon potansiyeli olarak adlandırılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878326_30",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, bedensel hareketleri düzenleyen en önemli merkezi sinir sistemi parçasıdır?",
-    "options": [
-      "Serebellum",
-      "Frontal lob",
-      "Parietal lob",
-      "Oksipital lob",
-      "Temporal lob"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Serebellum, bedensel hareketleri düzenleyen en önemli merkezi sinir sistemi parçasıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878325_6",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi beyin lobu görsel bilgilerin işlenmesinde etkilidir?",
-    "options": [
-      "Frontal lob",
-      "Parietal lob",
-      "Temporal lob",
-      "Oksipital lob",
-      "Limbik lob"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Oksipital lob, görsel bilgilerin işlenmesinde en önemli rolü oynar.",
-    "difficulty": 5
   },
   {
     "id": "ai_1764524878323_0",
@@ -896,214 +64,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524878326_22",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücreleri arasındaki iletişimde en önemli rolü oynayan yapılar hangileridir?",
-    "options": [
-      "Sinapslar",
-      "Dendritler",
-      "Aksonlar",
-      "Soma",
-      "Glia hücreleri"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinapslar, sinir hücreleri arasındaki iletişimde en önemli rolü oynar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522744127_8",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi beyin bölgesi hafızayı ve öğrenmeyi yönetir?",
-    "options": [
-      "Serebellum",
-      "Hipokampus",
-      "Talamus",
-      "Amigdala",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hipokampus, hafıza oluşumu ve öğrenme süreçlerinde önemli bir rol oynamaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524878325_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinapslar hangi işlevi görür?",
-    "options": [
-      "Sinir hücreleri arasında elektriksel iletişim sağlamak",
-      "Sinir hücreleri arasında kimyasal iletişim sağlamak",
-      "Kas hareketini başlatmak",
-      "Duyu organlarını beslemek",
-      "Hormon salgılamak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinapslar, sinir hücreleri arasında kimyasal iletişim sağlayarak bilgi aktarımını gerçekleştirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878326_20",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks bir tepki, hangi yol ile gerçekleşir?",
-    "options": [
-      "Beyin üzerinden",
-      "Omurilik üzerinden",
-      "Duyusal sinirler aracılığıyla",
-      "Otonom sinir sistemi ile",
-      "Düşünme süreci ile"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Refleks cevaplar, omurilik üzerinden hızlı bir şekilde gerçekleşir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878325_3",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beynin hangi bölümü denge ve koordinasyondan sorumludur?",
-    "options": [
-      "Beyin sapı",
-      "Serebellum",
-      "Serebrum",
-      "Limbik sistem",
-      "Hipotalamus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Serebellum, denge ve koordinasyonu sağlamakla görevli beyin bölgesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524878325_8",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks hareketlerin hızlı bir şekilde gerçekleşmesini sağlayan yapı hangisidir?",
-    "options": [
-      "Beyin",
-      "Omurilik",
-      "Serebellum",
-      "Sempatik sistem",
-      "Duyusal sinirler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Refleks hareketler, omurilikte gerçekleşen hızlı yanıt mekanizmalarıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500179499_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda miyelin kılıf bulunması, impuls iletimi sırasında aşağıdaki olaylardan hangisine neden olmaz?",
-    "options": [
-      "İmpuls iletim hızının artması",
-      "Sodyum-potasyum pompasının daha az çalışması nedeniyle enerji tasarrufu sağlanması",
-      "Aksiyon potansiyelinin sadece Ranvier boğumlarında oluşması",
-      "Uyartının şiddetinin akson boyunca artarak ilerlemesi",
-      "İmpulsun bir boğumdan diğerine atlayarak iletilmesi (saltatorik iletim)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sinir hücrelerinde impuls iletimi \"hep ya da hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöron eşik değerde veya üzerinde bir uyarı aldığında her zaman aynı şiddette ve hızda bir aksiyon potansiyeli oluşturur. Uyartının şiddeti, impulsun şiddetini (amplitüdünü) değil, sıklığını (frekansını) etkiler. Miyelin kılıf, impulsun Ranvier boğumlarında atlayarak (saltatorik) iletilmesini sağlar, bu da hızı artırır ve sadece boğumlarda iyon değişimi olduğu için enerji tasarrufu sağlar. Ancak miyelin kılıf, impulsun şiddetini akson boyunca artırmaz, şiddet sabit kalır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522744126_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin temel birimi nedir?",
-    "options": [
-      "Nöron",
-      "Glia",
-      "Dendrit",
-      "Akson",
-      "Sinaps"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinir sisteminin temel birimi nörondur. Nöronlar, sinyalleri ileten ve işleyen hücrelerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528626999_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sistemi hangi iki ana bölümden oluşur?",
-    "options": [
-      "Periferik ve Merkezi Sinir Sistemi",
-      "Otonom ve Somatik Sinir Sistemi",
-      "Beyin ve Omurilik",
-      "Sempatik ve Parasempatik Sinir Sistemi",
-      "Nöron ve Glia"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinir sistemi, merkezi sinir sistemi (beyin ve omurilik) ve periferik sinir sistemi (vücutta dağılmış sinirler) olmak üzere iki ana bölümden oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528626999_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin korteksinin hangi bölümü görsel bilgilerin işlenmesinden sorumludur?",
-    "options": [
-      "Frontal lob",
-      "Parietal lob",
-      "Temporal lob",
-      "Oksipital lob",
-      "Serebellum"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Görsel bilgiler, oksipital lobda işlenir. Bu bölüm, görsel algı ve işlevlerin merkezidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528626999_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı sinir hücreleri arasındaki iletişimi sağlar?",
-    "options": [
-      "Nöron",
-      "Sinaps",
-      "Glia",
-      "Dendrit",
-      "Akson"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinaps, nöronlar arasında iletişimi sağlayan noktadır. Nöronlar, sinapslar aracılığıyla kimyasal ve elektriksel sinyaller gönderir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528626999_3",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Otonom sinir sistemi hangi iki ana bölümden oluşur?",
-    "options": [
-      "Sempatik ve Parasempatik",
-      "Somatik ve Merkezi",
-      "Periferik ve Merkezi",
-      "Beyin ve Omurilik",
-      "Duyusal ve Motor"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Otonom sinir sistemi, vücut fonksiyonlarını kontrol eden iki ana bölüm olan sempatik ve parasempatik sistemden oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528626999_4",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücrelerinin elektriksel aktiviteyi depolayarak iletişim kurmasına ne denir?",
-    "options": [
-      "Aksiyon potansiyeli",
-      "Dinlenme potansiyeli",
-      "Sinaps",
-      "Nöral iletişim",
-      "İletim hızı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Aksiyon potansiyeli, sinir hücrelerinin elektriksel aktivitesinin bir sinyal olarak iletilmesidir.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764528626999_5",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -1117,454 +77,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "Serebellum, denge, koordinasyon ve hareketin düzenlenmesinden sorumlu olan beyindeki bir yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528626999_6",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Duyusal bilgilerin beyne iletilmesinde hangi yapı rol oynar?",
-    "options": [
-      "Talamus",
-      "Serebellum",
-      "Hipotalamus",
-      "Beyin sapı",
-      "Frontal lob"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Talamus, duyusal bilgilerin beyin korteksine iletilmesinde önemli bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528626999_7",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücrelerinin beslenmesi ve desteklenmesinde hangi hücre türü görev alır?",
-    "options": [
-      "Nöron",
-      "Glia",
-      "Sinaps",
-      "Dendrit",
-      "Akson"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Glia hücreleri, nöronları beslemek, desteklemek ve korumak gibi işlevlere sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_8",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, vücudun stres tepkisini yönetir?",
-    "options": [
-      "Sempatik sinir sistemi",
-      "Parasempatik sinir sistemi",
-      "Beyin sapı",
-      "Serebellum",
-      "Talamus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sempatik sinir sistemi, vücudun stres tepkilerini yönetir, 'savaş ya da kaç' tepkisini başlatır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_9",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi sinir hücrelerinin iletişiminde rol oynamayan bir bileşendir?",
-    "options": [
-      "Nöron",
-      "Sinaps",
-      "Glia",
-      "Aksiyon potansiyeli",
-      "Hormon"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hormonlar, sinir hücreleri arasındaki iletişimde doğrudan rol oynamazlar; daha çok endokrin sistemle ilgilidirler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_10",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin ne tür hücrelerden oluştuğunu tanımlamak için hangi terim kullanılır?",
-    "options": [
-      "Nöronal yapı",
-      "Sinir hücreleri",
-      "Glial hücreler",
-      "Nöron",
-      "Sinaps"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sinir sistemi, nöronlar ve glial hücrelerden oluşur. Nöronlar bilgi iletimi sağlarken, glial hücreler destek işlevi görür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_11",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, vücuttaki homeostaziyi sağlamak için önemli bir rol oynar?",
-    "options": [
-      "Hipotalamus",
-      "Serebellum",
-      "Talamus",
-      "Beyin korteksi",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hipotalamus, vücudun sıcaklık, açlık, susuzluk gibi temel ihtiyaçlarını düzenleyerek homeostazinin sağlanmasında kritik bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_12",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi motor nöronların görevlerinden biridir?",
-    "options": [
-      "Duyusal bilgi iletimi",
-      "Kas hareketinin kontrolü",
-      "Hormon salgılama",
-      "Duyusal algı",
-      "İşitsel bilgi iletimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Motor nöronlar, kas hareketlerini kontrol eden sinyalleri ileten nöronlardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_13",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücrelerinin iletişiminde kullanılan kimyasallara ne denir?",
-    "options": [
-      "Nörotransmitterler",
-      "Hormonlar",
-      "Enzimler",
-      "İletkenler",
-      "Elektrokimler"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Nörotransmitterler, sinir hücreleri arasında iletişimi sağlayan kimyasal maddelerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_14",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, vücut sıcaklığını düzenlemede önemli bir rol oynar?",
-    "options": [
-      "Hipotalamus",
-      "Serebellum",
-      "Talamus",
-      "Beyin korteksi",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hipotalamus, vücut sıcaklığının düzenlenmesinde önemli bir rol oynar ve termoregülasyon merkezidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_15",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin sapının temel işlevlerinden biri nedir?",
-    "options": [
-      "Duyusal bilgi işleme",
-      "Hareket koordinasyonu",
-      "Otonom fonksiyonları kontrol etme",
-      "Duyusal algı",
-      "Hafıza yönetimi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Beyin sapı, kalp atışı, solunum ve sindirim gibi otonom fonksiyonları kontrol eden kritik bir yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_16",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminde bilgilerin hızlı bir şekilde iletilmesini sağlayan yapı hangisidir?",
-    "options": [
-      "Akson",
-      "Dendrit",
-      "Sinaps",
-      "Glia",
-      "Nöron"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akson, sinir hücresinin elektriksel sinyalleri hızlı bir şekilde iletmeyi sağlayan uzun uzantısıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_17",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Serebrumun hangi bölümü düşünme ve karar verme ile ilişkilidir?",
-    "options": [
-      "Frontal lob",
-      "Parietal lob",
-      "Oksipital lob",
-      "Temporal lob",
-      "Serebellum"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Frontal lob, düşünme, karar verme, planlama ve problem çözme gibi yüksek düzey bilişsel işlevlerle ilişkilidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_18",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Duyusal nöronlar hangi tür bilgileri taşır?",
-    "options": [
-      "Motor bilgileri",
-      "Hormon bilgileri",
-      "Duyusal bilgileri",
-      "Otonom bilgileri",
-      "İşitsel bilgileri"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Duyusal nöronlar, çevreden gelen duyusal bilgileri beyne ileten nöronlardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_19",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, öğrenme ve hafıza ile ilişkilidir?",
-    "options": [
-      "Beyin sapı",
-      "Serebellum",
-      "Hipokampus",
-      "Talamus",
-      "Beyin korteksi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hipokampus, öğrenme ve hafıza ile yakından ilişkilidir ve yeni bilgilerin saklanmasında önemli bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_20",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminde iletişimin hızını artıran yapı hangisidir?",
-    "options": [
-      "Miyelin kılıfı",
-      "Dendrit",
-      "Akson",
-      "Nöron",
-      "Sinaps"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Miyelin kılıfı, aksonu saran ve elektrik sinyallerinin iletim hızını artıran yağlı bir tabakadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_21",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, vücudun stres tepkisini yönetir?",
-    "options": [
-      "Sempatik sinir sistemi",
-      "Parasempatik sinir sistemi",
-      "Beyin sapı",
-      "Serebellum",
-      "Talamus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sempatik sinir sistemi, stres tepkilerini yönetir ve 'savaş ya da kaç' durumunu tetikler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_22",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi sinir hücrelerinin temel bileşenlerinden biri değildir?",
-    "options": [
-      "Nöron",
-      "Glia",
-      "Sinaps",
-      "Aksiyon potansiyeli",
-      "Dendrit"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Aksiyon potansiyeli, sinir hücrelerinin elektriksel aktivitesidir, ancak bir hücre bileşeni değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_23",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin hangi organın en önemli kontrol merkezidir?",
-    "options": [
-      "Kalp",
-      "Karaciğer",
-      "Böbrek",
-      "Sindirim sistemi",
-      "Sinir sistemi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Beyin, sinir sisteminin en önemli kontrol merkezi olup, vücut fonksiyonlarını düzenler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_24",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir hücreleri arasında iletimi sağlayan kimyasallara ne ad verilir?",
-    "options": [
-      "Nörotransmitterler",
-      "Hormonlar",
-      "Enzimler",
-      "İletkenler",
-      "Elektrokimler"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Nörotransmitterler, sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_25",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin temel birimi hangisidir?",
-    "options": [
-      "Akson",
-      "Dendrit",
-      "Nöron",
-      "Glia",
-      "Sinaps"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nöron, sinir sisteminin temel birimidir ve bilgi iletimini sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_26",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangisi beyin loblarından biri değildir?",
-    "options": [
-      "Frontal lob",
-      "Parietal lob",
-      "Oksipital lob",
-      "Temporal lob",
-      "Serebellum"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Serebellum, beyin loblarından biri değildir; denge ve hareketle ilgili bir yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_27",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Duyusal nöronların işlevi nedir?",
-    "options": [
-      "Kas hareketini sağlamak",
-      "Duyusal bilgileri iletmek",
-      "Otonom fonksiyonları kontrol etmek",
-      "Düşünce süreçlerini yönetmek",
-      "İşitsel bilgileri işlemek"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Duyusal nöronlar, çevreden gelen duyusal bilgileri beyne ileten nöronlardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_28",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminde glia hücrelerinin görevi nedir?",
-    "options": [
-      "Elektriksel sinyalleri iletmek",
-      "Duyusal bilgileri işlemek",
-      "Nöronları destekleyip beslemek",
-      "Hormon salgılamak",
-      "Kas hareketini kontrol etmek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Glia hücreleri, nöronları desteklemek, beslemek ve korumak gibi işlevlere sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_29",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, vücut sıvılarının dengesi ile ilgilidir?",
-    "options": [
-      "Hipotalamus",
-      "Serebellum",
-      "Talamus",
-      "Beyin korteksi",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hipotalamus, vücut sıvılarının dengesi, açlık ve susuzluk gibi temel ihtiyaçların düzenlenmesinde önemli bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_30",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminde hangi hücreler iletişimi sağlar?",
-    "options": [
-      "Nöronlar",
-      "Glia",
-      "Sinapslar",
-      "Hepsi",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sinir sisteminde iletişimi sağlayan yapılar nöronlar, glia ve sinapslardır; bu hücreler birlikte çalışarak bilgiyi iletir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_31",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Duyusal bilgilerin beyne iletilmesinde hangi yapı önemli bir rol oynar?",
-    "options": [
-      "Talamus",
-      "Serebellum",
-      "Hipotalamus",
-      "Beyin korteksi",
-      "Beyin sapı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Talamus, duyusal bilgilerin beyin korteksine iletilmesinde önemli bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_32",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Beyin sapı hangi işlevleri kontrol eder?",
-    "options": [
-      "Duyusal algı",
-      "Hareket koordinasyonu",
-      "Otonom fonksiyonlar",
-      "Düşünme",
-      "Hafıza"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Beyin sapı, kalp atışı ve solunum gibi otonom fonksiyonları kontrol eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528627000_33",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Hangi yapı, öğrenme ve hafızayı etkileyen bir bölgedir?",
-    "options": [
-      "Hipokampus",
-      "Serebellum",
-      "Talamus",
-      "Beyin sapı",
-      "Frontal lob"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hipokampus, öğrenme ve hafıza ile ilişkilidir ve yeni bilgilerin saklanmasında önemli bir rol oynar.",
     "difficulty": 4
   },
   {
@@ -1584,6 +96,1206 @@
     "difficulty": 4
   },
   {
+    "id": "ai_1764528626999_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin korteksinin hangi bölümü görsel bilgilerin işlenmesinden sorumludur?",
+    "options": [
+      "Frontal lob",
+      "Parietal lob",
+      "Temporal lob",
+      "Oksipital lob",
+      "Serebellum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Görsel bilgiler, oksipital lobda işlenir. Bu bölüm, görsel algı ve işlevlerin merkezidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_14",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, vücut sıcaklığını düzenlemede önemli bir rol oynar?",
+    "options": [
+      "Hipotalamus",
+      "Serebellum",
+      "Talamus",
+      "Beyin korteksi",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hipotalamus, vücut sıcaklığının düzenlenmesinde önemli bir rol oynar ve termoregülasyon merkezidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878326_25",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin işlevlerini destekleyen hangi hücreler vardır?",
+    "options": [
+      "Nöronlar",
+      "Beyin hücreleri",
+      "Glia hücreleri",
+      "Dendritler",
+      "Aksonlar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Glia hücreleri, sinir sisteminin işlevlerini destekleyen hücrelerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501455383_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "options": [
+      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
+      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
+      "Acı ve sıcaklık gibi duyuların algılanamaması",
+      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
+      "Konuşulanları anlama fakat konuşarak cevap verememe"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500179499_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir kaza sonucu beyinciği hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "options": [
+      "Solunum ve dolaşım gibi hayati faaliyetlerin durması",
+      "Hafıza kaybı ve öğrenme güçlüğü yaşanması",
+      "Vücut sıcaklığı ve kan basıncının düzenlenememesi",
+      "Refleks hareketlerinin kontrol edilememesi",
+      "Denge kaybı ve hareketlerde koordinasyon bozukluğu yaşanması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Merkezi sinir sisteminin iki ana bileşeni nedir?",
+    "options": [
+      "Beyin ve omurilik",
+      "Sinirler ve gangliyonlar",
+      "Beyincik ve talamus",
+      "Beyin sapı ve serebellum",
+      "Otonom ve somatik sistem"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merkezi sinir sistemi beyin ve omurilikten oluşur. Bu iki yapı, sinir sisteminin kontrol merkezi işlevini görür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_11",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, vücuttaki homeostaziyi sağlamak için önemli bir rol oynar?",
+    "options": [
+      "Hipotalamus",
+      "Serebellum",
+      "Talamus",
+      "Beyin korteksi",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hipotalamus, vücudun sıcaklık, açlık, susuzluk gibi temel ihtiyaçlarını düzenleyerek homeostazinin sağlanmasında kritik bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_31",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Duyusal bilgilerin beyne iletilmesinde hangi yapı önemli bir rol oynar?",
+    "options": [
+      "Talamus",
+      "Serebellum",
+      "Hipotalamus",
+      "Beyin korteksi",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Talamus, duyusal bilgilerin beyin korteksine iletilmesinde önemli bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744127_14",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks hareketlerinin en hızlı şekilde gerçekleşmesini sağlayan yapı hangisidir?",
+    "options": [
+      "Beyin",
+      "Omurilik",
+      "Serebellum",
+      "Hipokampus",
+      "Dendrit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Refleks hareketleri, omurilik düzeyinde gerçekleştiği için en hızlı şekilde burada gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_27",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Duyusal nöronların işlevi nedir?",
+    "options": [
+      "Kas hareketini sağlamak",
+      "Duyusal bilgileri iletmek",
+      "Otonom fonksiyonları kontrol etmek",
+      "Düşünce süreçlerini yönetmek",
+      "İşitsel bilgileri işlemek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Duyusal nöronlar, çevreden gelen duyusal bilgileri beyne ileten nöronlardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878325_13",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin sapının ana görevlerinden biri nedir?",
+    "options": [
+      "Hafızayı yönetmek",
+      "Duyu bilgilerini işlemek",
+      "Otonom işlevleri düzenlemek",
+      "Görsel bilgileri işlemek",
+      "Kas hareketlerini kontrol etmek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyin sapı, kalp atışı, solunum gibi otonom işlevleri düzenler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528626999_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sistemi hangi iki ana bölümden oluşur?",
+    "options": [
+      "Periferik ve Merkezi Sinir Sistemi",
+      "Otonom ve Somatik Sinir Sistemi",
+      "Beyin ve Omurilik",
+      "Sempatik ve Parasempatik Sinir Sistemi",
+      "Nöron ve Glia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinir sistemi, merkezi sinir sistemi (beyin ve omurilik) ve periferik sinir sistemi (vücutta dağılmış sinirler) olmak üzere iki ana bölümden oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744126_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin temel birimi nedir?",
+    "options": [
+      "Nöron",
+      "Glia",
+      "Dendrit",
+      "Akson",
+      "Sinaps"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinir sisteminin temel birimi nörondur. Nöronlar, sinyalleri ileten ve işleyen hücrelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_16",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin hangi bölümü istemli hareketleri kontrol eder?",
+    "options": [
+      "Otonom sinir sistemi",
+      "Somatik sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Refleks arc"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi bölümüdür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_8",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi beyin bölgesi hafızayı ve öğrenmeyi yönetir?",
+    "options": [
+      "Serebellum",
+      "Hipokampus",
+      "Talamus",
+      "Amigdala",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hipokampus, hafıza oluşumu ve öğrenme süreçlerinde önemli bir rol oynamaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519384777_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin temel birimi nedir?",
+    "options": [
+      "Nöron",
+      "Glial hücre",
+      "Sinaps",
+      "Akson",
+      "Dendrit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinir sisteminin temel işlevsel birimi nörondur. Nöronlar elektriksel sinyalleri iletmek ve bilgi işlemek için özelleşmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_28",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminde glia hücrelerinin görevi nedir?",
+    "options": [
+      "Elektriksel sinyalleri iletmek",
+      "Duyusal bilgileri işlemek",
+      "Nöronları destekleyip beslemek",
+      "Hormon salgılamak",
+      "Kas hareketini kontrol etmek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Glia hücreleri, nöronları desteklemek, beslemek ve korumak gibi işlevlere sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744127_13",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminde hangi hücreler destekleyici ve koruyucu rol oynar?",
+    "options": [
+      "Nöronlar",
+      "Glia hücreleri",
+      "Afferent nöronlar",
+      "Efferent nöronlar",
+      "Interneuronlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glia hücreleri, nöronlara destek sağlayan ve onlara koruyucu işlevler üstlenen hücrelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_10",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin ne tür hücrelerden oluştuğunu tanımlamak için hangi terim kullanılır?",
+    "options": [
+      "Nöronal yapı",
+      "Sinir hücreleri",
+      "Glial hücreler",
+      "Nöron",
+      "Sinaps"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir sistemi, nöronlar ve glial hücrelerden oluşur. Nöronlar bilgi iletimi sağlarken, glial hücreler destek işlevi görür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528626999_7",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerinin beslenmesi ve desteklenmesinde hangi hücre türü görev alır?",
+    "options": [
+      "Nöron",
+      "Glia",
+      "Sinaps",
+      "Dendrit",
+      "Akson"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glia hücreleri, nöronları beslemek, desteklemek ve korumak gibi işlevlere sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744127_11",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin yarım kürelerinin en büyük bağlantı yolları hangisidir?",
+    "options": [
+      "Korpus kallozum",
+      "Beyin sapı",
+      "Talamus",
+      "Hipotalamus",
+      "Serebellum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Korpus kallozum, sağ ve sol beyin yarım küreleri arasında bağlantı sağlayan en büyük sinir lifidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Otonom sinir sistemi hangi işlevleri yönetir?",
+    "options": [
+      "Gönüllü hareketler",
+      "Dış ortam algısı",
+      "Duyusal bilgi iletimi",
+      "İç organların otomatik işlevleri",
+      "Duygusal tepkiler"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Otonom sinir sistemi, iç organların otomatik işlevlerini yönetir. Bu sistem bilinçli kontrol altında değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878326_16",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerinin yeniden onarım süreci hangi olayla başlar?",
+    "options": [
+      "Aksiyal taşıma",
+      "Sinaptik iletişim",
+      "Nöronal regenerasyon",
+      "Hücre bölünmesi",
+      "Apoptoz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nöronal regenerasyon, sinir hücrelerinin yeniden onarım sürecini başlatır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878325_8",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks hareketlerin hızlı bir şekilde gerçekleşmesini sağlayan yapı hangisidir?",
+    "options": [
+      "Beyin",
+      "Omurilik",
+      "Serebellum",
+      "Sempatik sistem",
+      "Duyusal sinirler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Refleks hareketler, omurilikte gerçekleşen hızlı yanıt mekanizmalarıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878325_5",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Nöronların iletişiminde görevli olan kimyasal maddelere ne denir?",
+    "options": [
+      "Hormonlar",
+      "Nörotransmitterler",
+      "Enzimler",
+      "Vitaminler",
+      "Elektrolitler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nörotransmitterler, nöronlar arasında iletişimi sağlayan kimyasal maddelerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_32",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin sapı hangi işlevleri kontrol eder?",
+    "options": [
+      "Duyusal algı",
+      "Hareket koordinasyonu",
+      "Otonom fonksiyonlar",
+      "Düşünme",
+      "Hafıza"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyin sapı, kalp atışı ve solunum gibi otonom fonksiyonları kontrol eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_20",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminde iletişimin hızını artıran yapı hangisidir?",
+    "options": [
+      "Miyelin kılıfı",
+      "Dendrit",
+      "Akson",
+      "Nöron",
+      "Sinaps"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Miyelin kılıfı, aksonu saran ve elektrik sinyallerinin iletim hızını artıran yağlı bir tabakadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878325_12",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sempatik sinir sisteminin etkisi hangi durumlarda artar?",
+    "options": [
+      "Huzurlu anlarda",
+      "Stresli durumlarda",
+      "Uyku sırasında",
+      "Sakin ortamlarda",
+      "Dinlenme anlarında"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sempatik sinir sistemi, stresli durumlarda aktiftir ve vücudu harekete geçirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498792328_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Alkolün etkisi altındayken bir kişinin denge kurmakta zorlanması, yürümede güçlük çekmesi ve hareketlerini koordine edememesi, alkolün öncelikli olarak beynin hangi bölümünü etkilediğini gösterir?",
+    "options": [
+      "Omurilik soğanı",
+      "Uç beyin (Serebrum)",
+      "Hipotalamus",
+      "Talamus",
+      "Beyincik (Serebellum)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Beyincik (serebellum), vücudun denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde gerçekleşmesini sağlar. Alkol, beyinciğin fonksiyonlarını baskılayarak denge kaybı, yürüme bozuklukları (ataksi) ve ince motor becerilerinde bozulma gibi semptomlara yol açar. Soruda tarif edilen belirtiler, doğrudan beyinciğin görevleriyle ilgilidir. Diğer şıklar ise farklı fonksiyonlardan sorumludur (Omurilik soğanı: Hayati refleksler, Hipotalamus: Homeostazi, Talamus: Duyu merkezi, Uç beyin: İstemli hareketler ve bilinç).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_15",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronun elektriksel uyarı ile tetiklenmesi için ne gereklidir?",
+    "options": [
+      "Hücre bölünmesi",
+      "Sodyum ve potasyum iyonlarının hareketi",
+      "Dendritlerin büyümesi",
+      "Nörotransmitterlerin salınması",
+      "Aksonun uzaması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir nöronun elektriksel uyarı ile tetiklenmesi için sodyum ve potasyum iyonlarının hücre zarında hareket etmesi gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878325_10",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin en büyük bölümünü oluşturan yapı hangisidir?",
+    "options": [
+      "Serebrum",
+      "Serebellum",
+      "Beyin sapı",
+      "Omurilik",
+      "Periferik sinirler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Serebrum, sinir sisteminin en büyük bölümünü oluşturan yapıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878326_26",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin lobları arasında bilgi iletimini sağlayan yapı hangisidir?",
+    "options": [
+      "Corpus callosum",
+      "Beyin sapı",
+      "Serebellum",
+      "Thalamus",
+      "Hipotalamus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Corpus callosum, beyin lobları arasında bilgi iletimini sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528626999_4",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerinin elektriksel aktiviteyi depolayarak iletişim kurmasına ne denir?",
+    "options": [
+      "Aksiyon potansiyeli",
+      "Dinlenme potansiyeli",
+      "Sinaps",
+      "Nöral iletişim",
+      "İletim hızı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aksiyon potansiyeli, sinir hücrelerinin elektriksel aktivitesinin bir sinyal olarak iletilmesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744126_4",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinaps nedir?",
+    "options": [
+      "Nöronların birleşim yeri",
+      "Nöronların enerji kaynağı",
+      "Akson ile dendrit arasındaki boşluk",
+      "Sinir hücrelerinin organeli",
+      "Beyin bölgesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sinaps, bir nöronun aksonu ile bir başka nöronun dendriti arasındaki boşluktur. Burada kimyasal sinyaller iletilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_25",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin temel birimi hangisidir?",
+    "options": [
+      "Akson",
+      "Dendrit",
+      "Nöron",
+      "Glia",
+      "Sinaps"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nöron, sinir sisteminin temel birimidir ve bilgi iletimini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_9",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangisi sinir hücrelerinin iletişiminde rol oynamayan bir bileşendir?",
+    "options": [
+      "Nöron",
+      "Sinaps",
+      "Glia",
+      "Aksiyon potansiyeli",
+      "Hormon"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hormonlar, sinir hücreleri arasındaki iletişimde doğrudan rol oynamazlar; daha çok endokrin sistemle ilgilidirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878325_9",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangisi beyindeki ödül ve motivasyon sistemini etkileyen bir yapıdır?",
+    "options": [
+      "Hipotalamus",
+      "Serebellum",
+      "Amygdala",
+      "Serebrum",
+      "Thalamus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hipotalamus, ödül ve motivasyon sistemini etkileyen önemli bir yapıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_23",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin hangi organın en önemli kontrol merkezidir?",
+    "options": [
+      "Kalp",
+      "Karaciğer",
+      "Böbrek",
+      "Sindirim sistemi",
+      "Sinir sistemi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Beyin, sinir sisteminin en önemli kontrol merkezi olup, vücut fonksiyonlarını düzenler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878326_24",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi nöron türü kaslara sinyal gönderir?",
+    "options": [
+      "Duyusal nöronlar",
+      "Motor nöronlar",
+      "Ara nöronlar",
+      "Sempatik nöronlar",
+      "Otonom nöronlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Motor nöronlar, kaslara sinyal göndererek hareketi başlatır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878325_6",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi beyin lobu görsel bilgilerin işlenmesinde etkilidir?",
+    "options": [
+      "Frontal lob",
+      "Parietal lob",
+      "Temporal lob",
+      "Oksipital lob",
+      "Limbik lob"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Oksipital lob, görsel bilgilerin işlenmesinde en önemli rolü oynar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501455383_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
+    "options": [
+      "Aksiyon potansiyelinin şiddetinin artması",
+      "İmpuls iletim hızının artması",
+      "İmpuls iletimi için harcanan ATP miktarının artması",
+      "Uyarılma için gerekli eşik değerinin düşmesi",
+      "Repolarizasyon süresinin kısalması"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878326_30",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, bedensel hareketleri düzenleyen en önemli merkezi sinir sistemi parçasıdır?",
+    "options": [
+      "Serebellum",
+      "Frontal lob",
+      "Parietal lob",
+      "Oksipital lob",
+      "Temporal lob"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Serebellum, bedensel hareketleri düzenleyen en önemli merkezi sinir sistemi parçasıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878325_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinapslar hangi işlevi görür?",
+    "options": [
+      "Sinir hücreleri arasında elektriksel iletişim sağlamak",
+      "Sinir hücreleri arasında kimyasal iletişim sağlamak",
+      "Kas hareketini başlatmak",
+      "Duyu organlarını beslemek",
+      "Hormon salgılamak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinapslar, sinir hücreleri arasında kimyasal iletişim sağlayarak bilgi aktarımını gerçekleştirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522744126_5",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi nöron tipi motor işlevleri kontrol eder?",
+    "options": [
+      "Afferent nöronlar",
+      "Efferent nöronlar",
+      "Interneuronlar",
+      "Sensory nöronlar",
+      "Glial hücreler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Efferent nöronlar, merkezi sinir sisteminden kaslara ve bezlere sinyal göndererek motor işlevleri kontrol eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_19",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, öğrenme ve hafıza ile ilişkilidir?",
+    "options": [
+      "Beyin sapı",
+      "Serebellum",
+      "Hipokampus",
+      "Talamus",
+      "Beyin korteksi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hipokampus, öğrenme ve hafıza ile yakından ilişkilidir ve yeni bilgilerin saklanmasında önemli bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498792328_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
+    "options": [
+      "Miyelin kılıfın varlığı",
+      "Akson çapının genişliği",
+      "Ranvier boğum sayısı",
+      "Uyarının şiddeti",
+      "Sıcaklık"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_21",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, vücudun stres tepkisini yönetir?",
+    "options": [
+      "Sempatik sinir sistemi",
+      "Parasempatik sinir sistemi",
+      "Beyin sapı",
+      "Serebellum",
+      "Talamus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sempatik sinir sistemi, stres tepkilerini yönetir ve 'savaş ya da kaç' durumunu tetikler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878325_14",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangisi merkezi sinir sisteminin bir parçası değildir?",
+    "options": [
+      "Beyin",
+      "Omurilik",
+      "Beyin sapı",
+      "Duyusal sinirler",
+      "Serebrum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Duyusal sinirler, merkezi sinir sisteminin parçası değildir; periferik sinir sistemine aittir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878326_22",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasındaki iletişimde en önemli rolü oynayan yapılar hangileridir?",
+    "options": [
+      "Sinapslar",
+      "Dendritler",
+      "Aksonlar",
+      "Soma",
+      "Glia hücreleri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinapslar, sinir hücreleri arasındaki iletişimde en önemli rolü oynar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878326_29",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi terim, nöronların birbirleriyle iletişim kurmasını ifade eder?",
+    "options": [
+      "Sinapsis",
+      "Nörotransmisyon",
+      "Regenerasyon",
+      "Akson terminasyonu",
+      "Dendritik iletişim"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nörotransmisyon, nöronların birbirleriyle iletişim kurmasını ifade eden terimdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519384777_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Otonom sinir sistemi hangi işlevleri kontrol eder?",
+    "options": [
+      "Gönüllü hareketler",
+      "Duyusal algılar",
+      "İç organların otomatik işlevleri",
+      "Düşünme ve hafıza",
+      "Göz hareketleri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Otonom sinir sistemi, kalp atışı, sindirim ve solunum gibi iç organların otomatik işlevlerini kontrol eder ve bilinçli irade ile yönetilmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878326_17",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangisi nörotransmitterlerden biri değildir?",
+    "options": [
+      "Dopamin",
+      "Serotonin",
+      "Asetilkolin",
+      "Glukoz",
+      "GABA"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Glukoz, nörotransmitter değildir; enerji kaynağıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_24",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasında iletimi sağlayan kimyasallara ne ad verilir?",
+    "options": [
+      "Nörotransmitterler",
+      "Hormonlar",
+      "Enzimler",
+      "İletkenler",
+      "Elektrokimler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nörotransmitterler, sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520349824_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
+    "options": [
+      "Dendrit",
+      "Akson",
+      "Soma",
+      "Sinaps",
+      "Nükleoz"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_18",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin ve omuriliği koruyan zarların adı nedir?",
+    "options": [
+      "Meninges",
+      "Glia",
+      "Neurolemma",
+      "Cortex",
+      "Fascia"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beyin ve omuriliği koruyan zarlar meninksler (meninges) olarak adlandırılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500179499_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronda miyelin kılıf bulunması, impuls iletimi sırasında aşağıdaki olaylardan hangisine neden olmaz?",
+    "options": [
+      "İmpuls iletim hızının artması",
+      "Sodyum-potasyum pompasının daha az çalışması nedeniyle enerji tasarrufu sağlanması",
+      "Aksiyon potansiyelinin sadece Ranvier boğumlarında oluşması",
+      "Uyartının şiddetinin akson boyunca artarak ilerlemesi",
+      "İmpulsun bir boğumdan diğerine atlayarak iletilmesi (saltatorik iletim)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sinir hücrelerinde impuls iletimi \"hep ya da hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöron eşik değerde veya üzerinde bir uyarı aldığında her zaman aynı şiddette ve hızda bir aksiyon potansiyeli oluşturur. Uyartının şiddeti, impulsun şiddetini (amplitüdünü) değil, sıklığını (frekansını) etkiler. Miyelin kılıf, impulsun Ranvier boğumlarında atlayarak (saltatorik) iletilmesini sağlar, bu da hızı artırır ve sadece boğumlarda iyon değişimi olduğu için enerji tasarrufu sağlar. Ancak miyelin kılıf, impulsun şiddetini akson boyunca artırmaz, şiddet sabit kalır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744127_19",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerinin elektriksel uyarılara verdiği yanıt ne olarak adlandırılır?",
+    "options": [
+      "Potansiyel farklılığı",
+      "Aksiyon potansiyeli",
+      "Hücre zarı geçirgenliği",
+      "Sinaps aktivasyonu",
+      "Dendrit uyarımı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir hücrelerinin elektriksel uyarılara verdiği yanıt aksiyon potansiyeli olarak adlandırılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522744126_7",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelere ne denir?",
+    "options": [
+      "Hormonlar",
+      "Nörotransmitterler",
+      "Enzimler",
+      "Elektrolitler",
+      "Proteinler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir hücreleri arasındaki iletişimi sağlayan kimyasal maddelere nörotransmitterler denir. Örnek olarak serotonin ve dopamin verilebilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_8",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, vücudun stres tepkisini yönetir?",
+    "options": [
+      "Sempatik sinir sistemi",
+      "Parasempatik sinir sistemi",
+      "Beyin sapı",
+      "Serebellum",
+      "Talamus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sempatik sinir sistemi, vücudun stres tepkilerini yönetir, 'savaş ya da kaç' tepkisini başlatır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878326_28",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin sapının hangi bölümü solunum ve kalp atışını kontrol eder?",
+    "options": [
+      "Pons",
+      "Medulla oblongata",
+      "Midbrain",
+      "Beyincik",
+      "Thalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Medulla oblongata, solunum ve kalp atışını kontrol eden beyin sapı bölümüdür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_26",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangisi beyin loblarından biri değildir?",
+    "options": [
+      "Frontal lob",
+      "Parietal lob",
+      "Oksipital lob",
+      "Temporal lob",
+      "Serebellum"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Serebellum, beyin loblarından biri değildir; denge ve hareketle ilgili bir yapıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528626999_3",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Otonom sinir sistemi hangi iki ana bölümden oluşur?",
+    "options": [
+      "Sempatik ve Parasempatik",
+      "Somatik ve Merkezi",
+      "Periferik ve Merkezi",
+      "Beyin ve Omurilik",
+      "Duyusal ve Motor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Otonom sinir sistemi, vücut fonksiyonlarını kontrol eden iki ana bölüm olan sempatik ve parasempatik sistemden oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878326_23",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin yarımkürelerinin sağ ve sol tarafı arasında bilgi iletimini sağlayan yapı hangisidir?",
+    "options": [
+      "Beyin sapı",
+      "Korpu callosum",
+      "Serebellum",
+      "Thalamus",
+      "Hipotalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Korpu callosum, beyin yarımküreleri arasında bilgi iletimini sağlayan yapıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522744127_12",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi beyin bölgesi duygusal tepkileri yönetir?",
+    "options": [
+      "Amigdala",
+      "Serebellum",
+      "Hipokampus",
+      "Thalamus",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Amigdala, duygusal tepkilerin işlenmesinde kritik bir rol oynar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878325_15",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, vücut sıcaklığını düzenlemekten sorumludur?",
+    "options": [
+      "Hipotalamus",
+      "Serebellum",
+      "Beyin sapı",
+      "Serebrum",
+      "Limbik sistem"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hipotalamus, vücut sıcaklığını düzenleyen önemli bir yapıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878323_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi nöron türü duyu bilgilerini beyne iletir?",
+    "options": [
+      "Motor nöronlar",
+      "Duyusal nöronlar",
+      "Ara nöronlar",
+      "Etkileşim nöronları",
+      "Otonom nöronlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Duyusal nöronlar, çevreden gelen uyarıları beyne ileten nöronlardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_13",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerinin iletişiminde kullanılan kimyasallara ne denir?",
+    "options": [
+      "Nörotransmitterler",
+      "Hormonlar",
+      "Enzimler",
+      "İletkenler",
+      "Elektrokimler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nörotransmitterler, sinir hücreleri arasında iletişimi sağlayan kimyasal maddelerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528626999_6",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Duyusal bilgilerin beyne iletilmesinde hangi yapı rol oynar?",
+    "options": [
+      "Talamus",
+      "Serebellum",
+      "Hipotalamus",
+      "Beyin sapı",
+      "Frontal lob"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Talamus, duyusal bilgilerin beyin korteksine iletilmesinde önemli bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_18",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Duyusal nöronlar hangi tür bilgileri taşır?",
+    "options": [
+      "Motor bilgileri",
+      "Hormon bilgileri",
+      "Duyusal bilgileri",
+      "Otonom bilgileri",
+      "İşitsel bilgileri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Duyusal nöronlar, çevreden gelen duyusal bilgileri beyne ileten nöronlardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_15",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin sapının temel işlevlerinden biri nedir?",
+    "options": [
+      "Duyusal bilgi işleme",
+      "Hareket koordinasyonu",
+      "Otonom fonksiyonları kontrol etme",
+      "Duyusal algı",
+      "Hafıza yönetimi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyin sapı, kalp atışı, solunum ve sindirim gibi otonom fonksiyonları kontrol eden kritik bir yapıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528626999_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı sinir hücreleri arasındaki iletişimi sağlar?",
+    "options": [
+      "Nöron",
+      "Sinaps",
+      "Glia",
+      "Dendrit",
+      "Akson"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinaps, nöronlar arasında iletişimi sağlayan noktadır. Nöronlar, sinapslar aracılığıyla kimyasal ve elektriksel sinyaller gönderir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_33",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, öğrenme ve hafızayı etkileyen bir bölgedir?",
+    "options": [
+      "Hipokampus",
+      "Serebellum",
+      "Talamus",
+      "Beyin sapı",
+      "Frontal lob"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hipokampus, öğrenme ve hafıza ile ilişkilidir ve yeni bilgilerin saklanmasında önemli bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744127_10",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi nöron tipi çevreden gelen duyusal bilgileri iletir?",
+    "options": [
+      "Motor nöronlar",
+      "Afferent nöronlar",
+      "Efferent nöronlar",
+      "Interneuronlar",
+      "Glial hücreler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Afferent nöronlar, çevreden gelen duyusal bilgileri merkezi sinir sistemine ileten nöronlardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878325_3",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beynin hangi bölümü denge ve koordinasyondan sorumludur?",
+    "options": [
+      "Beyin sapı",
+      "Serebellum",
+      "Serebrum",
+      "Limbik sistem",
+      "Hipotalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Serebellum, denge ve koordinasyonu sağlamakla görevli beyin bölgesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522744126_6",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Beyin sapı hangi işlevleri yönetir?",
+    "options": [
+      "Duyusal algı",
+      "İstemli hareketler",
+      "Otonom işlevler",
+      "Hafıza ve öğrenme",
+      "Duygusal tepkiler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyin sapı, nefes alma, kalp atışı gibi temel otonom işlevleri yönetir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764528627000_35",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -1597,6 +1309,294 @@
     ],
     "correctAnswer": 2,
     "explanation": "Dendrit, sinir hücresinin bilgi aldığı uzantıdır ve iletişimi hızlandıran bir yapı değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520349823_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
+    "options": [
+      "Otonom sinir sistemi",
+      "Somatik sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Duyusal sinir sistemi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498792328_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Aksiyon potansiyelinin repolarizasyon evresinde, zar potansiyelinin tekrar negatif değerlere dönmesinden temel olarak sorumlu olan iyon hareketi aşağıdakilerden hangisidir?",
+    "options": [
+      "Na+ iyonlarının hücre içine girmesi (influks)",
+      "K+ iyonlarının hücre dışına çıkması (efluks)",
+      "Ca2+ iyonlarının hücre içine girmesi (influks)",
+      "Voltaj kapılı Na+ kanallarının aktifleşmesi",
+      "Cl- iyonlarının hücre içine girmesi (influks)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Repolarizasyon, hücre zarının yeniden kutuplaşarak dinlenme potansiyeline dönmesidir. Bu evrede, voltaj kapılı Na+ kanalları inaktif duruma geçerken, voltaj kapılı K+ kanalları açılır. Bu durum, K+ iyonlarının derişim gradyanına uygun olarak hücre dışına çıkmasına (efluks) neden olur. Pozitif yüklü iyonların (K+) hücre dışına çıkması, hücre içinin tekrar negatif hale gelmesini sağlar ve zar potansiyelini dinlenme potansiyeline yaklaştırır. Na+ girişi depolarizasyonda, Ca2+ girişi ise genellikle sinaptik iletimde rol oynar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_29",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, vücut sıvılarının dengesi ile ilgilidir?",
+    "options": [
+      "Hipotalamus",
+      "Serebellum",
+      "Talamus",
+      "Beyin korteksi",
+      "Beyin sapı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hipotalamus, vücut sıvılarının dengesi, açlık ve susuzluk gibi temel ihtiyaçların düzenlenmesinde önemli bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878325_4",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Otonom sinir sisteminin hangi bölümü 'savaş ya da kaç' tepkisini yönetir?",
+    "options": [
+      "Parasempatik sistem",
+      "Sempatik sistem",
+      "Merkezi sinir sistemi",
+      "Somatik sistem",
+      "Duyusal sistem"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sempatik sinir sistemi, stres anında 'savaş ya da kaç' tepkisini yönetir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878326_27",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Nöronların elektriksel sinyalleri hangi durumlarda iletme yeteneği vardır?",
+    "options": [
+      "Dinlenme durumunda",
+      "Uyarı aldığında",
+      "Uyku sırasında",
+      "Beslenme sırasında",
+      "Düşünme anında"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nöronlar, uyarı aldıklarında elektriksel sinyalleri iletme yeteneğine sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878325_11",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Dendritlerin temel görevi nedir?",
+    "options": [
+      "Bilgi iletmek",
+      "Bilgi almak",
+      "Hücreyi beslemek",
+      "Hücreyi korumak",
+      "Sinyal üretmek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dendritler, nöronların diğer nöronlardan bilgi aldığı uzantılardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524878326_19",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücrelerini koruyan ve besleyen hücreler hangileridir?",
+    "options": [
+      "Nöronlar",
+      "Glia hücreleri",
+      "Dendritler",
+      "Aksonlar",
+      "Sinapslar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glia hücreleri, sinir hücrelerini koruyan ve besleyen hücrelerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_16",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminde bilgilerin hızlı bir şekilde iletilmesini sağlayan yapı hangisidir?",
+    "options": [
+      "Akson",
+      "Dendrit",
+      "Sinaps",
+      "Glia",
+      "Nöron"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akson, sinir hücresinin elektriksel sinyalleri hızlı bir şekilde iletmeyi sağlayan uzun uzantısıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528627000_30",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminde hangi hücreler iletişimi sağlar?",
+    "options": [
+      "Nöronlar",
+      "Glia",
+      "Sinapslar",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sinir sisteminde iletişimi sağlayan yapılar nöronlar, glia ve sinapslardır; bu hücreler birlikte çalışarak bilgiyi iletir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524878326_18",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi beyin bölgesi hafıza ve öğrenme ile ilişkilidir?",
+    "options": [
+      "Serebellum",
+      "Hippokampus",
+      "Amygdala",
+      "Thalamus",
+      "Frontal lob"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hippokampus, hafıza ve öğrenme ile ilgili önemli bir beyin bölgesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528627000_17",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Serebrumun hangi bölümü düşünme ve karar verme ile ilişkilidir?",
+    "options": [
+      "Frontal lob",
+      "Parietal lob",
+      "Oksipital lob",
+      "Temporal lob",
+      "Serebellum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Frontal lob, düşünme, karar verme, planlama ve problem çözme gibi yüksek düzey bilişsel işlevlerle ilişkilidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522744127_17",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir hücreleri arasında iletişimde hangi süreç önemlidir?",
+    "options": [
+      "Mitotik bölünme",
+      "Nörotransmitter salınımı",
+      "Apoptoz",
+      "Hücre çatlaması",
+      "Baskı vesikülleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sinir hücreleri arasındaki iletişimde nörotransmitterlerin salınımı kritik bir öneme sahiptir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878325_7",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangi yapı, sinir hücrelerinin elektriksel sinyalleri iletmesini sağlar?",
+    "options": [
+      "Akson",
+      "Dendrit",
+      "Soma",
+      "Sinaps",
+      "Nöral ağ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akson, sinir hücrelerinin elektriksel sinyalleri iletmesini sağlayan uzantıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519384777_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Merkezi sinir sistemi hangi yapıdan oluşur?",
+    "options": [
+      "Beyin ve omurilik",
+      "Sinirler ve ganglionlar",
+      "Duyu organları",
+      "Kaslar",
+      "Bağ dokusu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merkezi sinir sistemi, beyin ve omurilikten oluşur. Bu yapı, vücutta bilgi işleme ve yönlendirme görevlerini üstlenir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524878326_20",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks bir tepki, hangi yol ile gerçekleşir?",
+    "options": [
+      "Beyin üzerinden",
+      "Omurilik üzerinden",
+      "Duyusal sinirler aracılığıyla",
+      "Otonom sinir sistemi ile",
+      "Düşünme süreci ile"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Refleks cevaplar, omurilik üzerinden hızlı bir şekilde gerçekleşir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522744126_3",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Dendritler nöronun hangi işlevine katkıda bulunur?",
+    "options": [
+      "Sinyal iletimi",
+      "Sinyal alma",
+      "Yalıtım sağlama",
+      "Enerji üretimi",
+      "Hücre bölünmesi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dendritler, nöronların diğer nöronlardan veya çevreden sinyalleri aldığı yapılardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520349824_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks arc'inin temel işlevi nedir?",
+    "options": [
+      "Hormon üretmek",
+      "Duyusal bilgiyi işlemek",
+      "İstemli hareketleri başlatmak",
+      "Hızlı yanıt vermek",
+      "Duyusal algıları artırmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528627000_12",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Hangisi motor nöronların görevlerinden biridir?",
+    "options": [
+      "Duyusal bilgi iletimi",
+      "Kas hareketinin kontrolü",
+      "Hormon salgılama",
+      "Duyusal algı",
+      "İşitsel bilgi iletimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Motor nöronlar, kas hareketlerini kontrol eden sinyalleri ileten nöronlardır.",
     "difficulty": 4
   }
 ]
