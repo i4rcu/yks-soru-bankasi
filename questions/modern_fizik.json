@@ -1,18 +1,18 @@
 [
   {
-    "id": "ai_1764520235336_2",
+    "id": "ai_1764520235336_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Kütle-enerji eşitliğini ifade eden formül hangisidir?",
+    "questionText": "Bir elektron, bir elektrik alanı içerisinde hızlanırken hangi fiziksel büyüklüğün korunumu geçerlidir?",
     "options": [
-      "E = mc^2",
-      "E = mv^2",
-      "E = mgh",
-      "E = Fd",
-      "E = pV"
+      "Enerji",
+      "Momentum",
+      "Kütle",
+      "Yük",
+      "Hız"
     ],
-    "correctAnswer": 0,
-    "explanation": "Kütle-enerji eşitliği, Einstein tarafından geliştirilen E = mc^2 formülü ile ifade edilir. Bu formülde E enerji, m kütle ve c ışık hızıdır. Bu eşitlik, kütle ve enerjinin birbirine dönüştürülebilir olduğunu gösterir.",
+    "correctAnswer": 1,
+    "explanation": "Elektron gibi yüklü parçacıklar, elektrik alanında hareket ederken enerji ve momentum korunumu geçerlidir. Elektrik alanına giren bir elektron, potansiyel enerji kazanır ve bu enerji kinetik enerjiye dönüşür.",
     "difficulty": 3
   },
   {
@@ -32,51 +32,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520235336_0",
+    "id": "ai_1764499796212_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Bir elektron, bir elektrik alanı içerisinde hızlanırken hangi fiziksel büyüklüğün korunumu geçerlidir?",
+    "questionText": "Eşik enerjisi 2 eV olan bir metal yüzeye, enerjisi 5 eV olan fotonlar gönderiliyor. Bu deneyde, yüzeyden sökülen fotoelektronların maksimum kinetik enerjisi E, sökülen elektron sayısını etkileyen temel faktör ise I ile gösteriliyor. Buna göre, metal yüzeye gönderilen fotonların sadece frekansı artırılırsa E ve I nicelikleri nasıl değişir?",
     "options": [
-      "Enerji",
-      "Momentum",
-      "Kütle",
-      "Yük",
-      "Hız"
+      "E artar, I artar.",
+      "E artar, I değişmez.",
+      "E azalır, I artar.",
+      "E değişmez, I artar.",
+      "E değişmez, I değişmez."
     ],
     "correctAnswer": 1,
-    "explanation": "Elektron gibi yüklü parçacıklar, elektrik alanında hareket ederken enerji ve momentum korunumu geçerlidir. Elektrik alanına giren bir elektron, potansiyel enerji kazanır ve bu enerji kinetik enerjiye dönüşür.",
+    "explanation": "Fotoelektrik olayda, bir fotonun enerjisi (hf) metalin eşik enerjisini (W₀) aştığında elektron sökülür. Sökülen elektronun maksimum kinetik enerjisi Einstein'ın fotoelektrik denklemi ile verilir: E_kinetik = hf - W₀. Burada hf gelen fotonun enerjisidir. Gelen ışığın frekansı (f) artırılırsa, fotonun enerjisi (hf) de artar. Metalin eşik enerjisi (W₀) sabit olduğundan, sökülen elektronların maksimum kinetik enerjisi (E) artar. Sökülen elektron sayısı (akım şiddeti), birim zamanda yüzeye düşen foton sayısına, yani ışık şiddetine (yoğunluğuna) bağlıdır. Soruda sadece frekansın artırıldığı belirtildiği için, ışık şiddeti (I) değişmez kabul edilir. Bu nedenle sökülen elektron sayısı değişmez. Sonuç olarak E artar, I değişmez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498447597_0",
+    "id": "ai_1764519291136_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Bir metal yüzeye, bağlanma enerjisi (eşik enerjisi) E olan fotonlar gönderildiğinde sökülen elektronların maksimum kinetik enerjisi 2E oluyor. Bu metal yüzeye gönderilen ışığın sadece şiddeti iki katına çıkarılırsa, sökülen elektronların maksimum kinetik enerjisi ve birim zamanda sökülen fotoelektron sayısı nasıl değişir?",
+    "questionText": "Bir elektron bir elektrik alanında hareket ederken hangi özellikleri göz önünde bulundurulmalıdır?",
     "options": [
-      "Kinetik enerji değişmez, fotoelektron sayısı iki katına çıkar.",
-      "Kinetik enerji iki katına çıkar, fotoelektron sayısı değişmez.",
-      "Kinetik enerji değişmez, fotoelektron sayısı değişmez.",
-      "Kinetik enerji yarıya iner, fotoelektron sayısı iki katına çıkar.",
-      "Kinetik enerji iki katına çıkar, fotoelektron sayısı da iki katına çıkar."
+      "Yalnızca kütlesi",
+      "Yalnızca yükü",
+      "Hız ve yönü",
+      "Kütlesi ve yükü",
+      "Yükü ve enerji seviyesi"
     ],
-    "correctAnswer": 0,
-    "explanation": "Fotoelektrik olayda, sökülen bir elektronun maksimum kinetik enerjisi, gelen fotonun enerjisi (hf) ile metalin bağlanma enerjisi (E_bağlanma) arasındaki farka eşittir: KE_max = hf - E_bağlanma. Soruda KE_max = 2E ve E_bağlanma = E olarak verilmiş. Buradan gelen fotonun enerjisi hf = 3E bulunur. Işığın şiddeti, birim zamanda yüzeye düşen foton sayısıyla ilgilidir. Fotonun enerjisi ise frekansına bağlıdır. Işığın şiddetini iki katına çıkarmak, foton sayısını iki katına çıkarır ancak her bir fotonun enerjisini (yani frekansını) değiştirmez. Fotonun enerjisi değişmediği için, sökülen elektronların maksimum kinetik enerjisi de (KE_max = 3E - E = 2E) değişmez. Ancak birim zamanda yüzeye çarpan foton sayısı iki katına çıktığı için, birim zamanda sökülen fotoelektron sayısı da iki katına çıkar.",
+    "correctAnswer": 3,
+    "explanation": "Elektron gibi yüklü parçacıkların hareketi, hem kütlesine hem de yüküne bağlıdır. Elektrik alanında, yükü nedeniyle kuvvet etkisi altında kalırken, kütlesi nedeniyle de ivme kazanır. Bu nedenle kütlesi ve yükü dikkate alınmalıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498447597_1",
+    "id": "ai_1764519291136_2",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Durgun bir gözlemciye göre 0,6c hızıyla hareket eden bir uzay mekiğinin içindeki astronot, mekiğin boyunu L₀ olarak ve kendi kol saatinin 60 saniye ilerlediğini ölçüyor. Durgun gözlemci, uzay mekiğinin boyunu L ve astronotun saatindeki bu 60 saniyelik süreyi t olarak ölçtüğüne göre, L ve t için aşağıdakilerden hangisi doğrudur? (c: ışık hızı)",
+    "questionText": "Bir fotonun enerjisi hangi formülle hesaplanır?",
     "options": [
-      "L = L₀ , t = 60 s",
-      "L > L₀ , t < 60 s",
-      "L < L₀ , t > 60 s",
-      "L > L₀ , t > 60 s",
-      "L < L₀ , t < 60 s"
+      "E=mv²",
+      "E=hf",
+      "E=mc²",
+      "E=qV",
+      "E=F.d"
     ],
-    "correctAnswer": 2,
-    "explanation": "Özel görelilik teorisinin iki temel postülası vardır: zaman genişlemesi ve uzunluk büzülmesi. 1) Uzunluk Büzülmesi: Bir cismin hızı arttıkça, hareket doğrultusundaki boyu, durgun bir gözlemci tarafından daha kısa ölçülür. Astronot, mekikle aynı referans sisteminde olduğu için mekiğin 'durgun boyu' olan L₀'ı ölçer. Durgun gözlemci ise hareketli mekiğin boyunu daha kısa, yani L < L₀ olarak ölçer. 2) Zaman Genişlemesi: Hareketli bir sistemdeki zaman, durgun bir gözlemciye göre daha yavaş akar. Astronotun saatinde geçen 60 saniye, onun için 'durgun zaman'dır. Durgun gözlemci, hareket halindeki astronotun saatine baktığında zamanın daha yavaş aktığını, yani aynı olay için kendi saatinde daha fazla süre geçtiğini görür. Dolayısıyla, durgun gözlemcinin ölçtüğü süre t > 60 saniye olacaktır. Sonuç olarak, L < L₀ ve t > 60 s olur.",
+    "correctAnswer": 1,
+    "explanation": "Bir fotonun enerjisi, E=hf formülü ile hesaplanır. Burada h Planck sabiti ve f fotonun frekansıdır. Bu formül, fotonların enerjisini tanımlamak için kullanılır.",
     "difficulty": 3
   },
   {
@@ -96,19 +96,99 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764499796212_0",
+    "id": "ai_1764519291136_1",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Eşik enerjisi 2 eV olan bir metal yüzeye, enerjisi 5 eV olan fotonlar gönderiliyor. Bu deneyde, yüzeyden sökülen fotoelektronların maksimum kinetik enerjisi E, sökülen elektron sayısını etkileyen temel faktör ise I ile gösteriliyor. Buna göre, metal yüzeye gönderilen fotonların sadece frekansı artırılırsa E ve I nicelikleri nasıl değişir?",
+    "questionText": "Kütle-enerji eşitliği E=mc² ifadesinde, c'nin değeri nedir?",
     "options": [
-      "E artar, I artar.",
-      "E artar, I değişmez.",
-      "E azalır, I artar.",
-      "E değişmez, I artar.",
-      "E değişmez, I değişmez."
+      "Işık hızıdır",
+      "Ses hızıdır",
+      "Ağır parçacık hızıdır",
+      "Maddenin ortalama hızıdır",
+      "Hidrodinamik hızdır"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kütle-enerji eşitliği E=mc² ifadesinde c, boşluktaki ışık hızını temsil eder. Bu hız, yaklaşık 3 x 10^8 m/s'dir ve enerji ile kütle arasındaki ilişkiyi tanımlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520235336_2",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Kütle-enerji eşitliğini ifade eden formül hangisidir?",
+    "options": [
+      "E = mc^2",
+      "E = mv^2",
+      "E = mgh",
+      "E = Fd",
+      "E = pV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kütle-enerji eşitliği, Einstein tarafından geliştirilen E = mc^2 formülü ile ifade edilir. Bu formülde E enerji, m kütle ve c ışık hızıdır. Bu eşitlik, kütle ve enerjinin birbirine dönüştürülebilir olduğunu gösterir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498447597_1",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Durgun bir gözlemciye göre 0,6c hızıyla hareket eden bir uzay mekiğinin içindeki astronot, mekiğin boyunu L₀ olarak ve kendi kol saatinin 60 saniye ilerlediğini ölçüyor. Durgun gözlemci, uzay mekiğinin boyunu L ve astronotun saatindeki bu 60 saniyelik süreyi t olarak ölçtüğüne göre, L ve t için aşağıdakilerden hangisi doğrudur? (c: ışık hızı)",
+    "options": [
+      "L = L₀ , t = 60 s",
+      "L > L₀ , t < 60 s",
+      "L < L₀ , t > 60 s",
+      "L > L₀ , t > 60 s",
+      "L < L₀ , t < 60 s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Özel görelilik teorisinin iki temel postülası vardır: zaman genişlemesi ve uzunluk büzülmesi. 1) Uzunluk Büzülmesi: Bir cismin hızı arttıkça, hareket doğrultusundaki boyu, durgun bir gözlemci tarafından daha kısa ölçülür. Astronot, mekikle aynı referans sisteminde olduğu için mekiğin 'durgun boyu' olan L₀'ı ölçer. Durgun gözlemci ise hareketli mekiğin boyunu daha kısa, yani L < L₀ olarak ölçer. 2) Zaman Genişlemesi: Hareketli bir sistemdeki zaman, durgun bir gözlemciye göre daha yavaş akar. Astronotun saatinde geçen 60 saniye, onun için 'durgun zaman'dır. Durgun gözlemci, hareket halindeki astronotun saatine baktığında zamanın daha yavaş aktığını, yani aynı olay için kendi saatinde daha fazla süre geçtiğini görür. Dolayısıyla, durgun gözlemcinin ölçtüğü süre t > 60 saniye olacaktır. Sonuç olarak, L < L₀ ve t > 60 s olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501149951_2",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Dünya'daki durgun bir gözlemciye göre 0,6c hızıyla (c: ışık hızı) hareket eden bir uzay mekiğinin içindeki bir astronot, mekiğin boyunu L₀ olarak ölçmektedir. Buna göre, Dünya'daki durgun gözlemci mekiğin boyunu kaç L₀ olarak ölçer?",
+    "options": [
+      "L₀",
+      "0,8 L₀",
+      "0,6 L₀",
+      "1,25 L₀",
+      "1,67 L₀"
     ],
     "correctAnswer": 1,
-    "explanation": "Fotoelektrik olayda, bir fotonun enerjisi (hf) metalin eşik enerjisini (W₀) aştığında elektron sökülür. Sökülen elektronun maksimum kinetik enerjisi Einstein'ın fotoelektrik denklemi ile verilir: E_kinetik = hf - W₀. Burada hf gelen fotonun enerjisidir. Gelen ışığın frekansı (f) artırılırsa, fotonun enerjisi (hf) de artar. Metalin eşik enerjisi (W₀) sabit olduğundan, sökülen elektronların maksimum kinetik enerjisi (E) artar. Sökülen elektron sayısı (akım şiddeti), birim zamanda yüzeye düşen foton sayısına, yani ışık şiddetine (yoğunluğuna) bağlıdır. Soruda sadece frekansın artırıldığı belirtildiği için, ışık şiddeti (I) değişmez kabul edilir. Bu nedenle sökülen elektron sayısı değişmez. Sonuç olarak E artar, I değişmez.",
+    "explanation": "Özel görelilik teorisine göre, hareketli bir cismin boyu, hareket doğrultusunda durgun bir gözlemci tarafından daha kısa ölçülür. Bu olaya boy kısalması (uzunluk büzülmesi) denir. Formülü L = L₀√(1-v²/c²) şeklindedir. Burada L₀ cismin durgun boyu (astronotun ölçtüğü), L ise hareketli boyudur (Dünya'daki gözlemcinin ölçtüğü).\nVerilen değerleri formülde yerine koyalım:\nv = 0,6c\nv²/c² = (0,6c)²/c² = 0,36\nL = L₀√(1 - 0,36)\nL = L₀√(0,64)\nL = L₀ * 0,8\nDolayısıyla, Dünya'daki gözlemci mekiğin boyunu 0,8 L₀ olarak ölçer.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501149951_1",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Compton saçılması olayında, durgun haldeki bir elektrona çarpan bir foton, şekildeki gibi saçılmaya uğramaktadır. Gelen fotonun enerjisi E, dalga boyu λ ve momentumu P'dir. Saçılan fotonun enerjisi E', dalga boyu λ' ve momentumu P' olduğuna göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
+    "options": [
+      "E' > E",
+      "λ' < λ",
+      "P' > P",
+      "λ' > λ",
+      "E' = E"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Compton saçılmasında, foton enerjisinin bir kısmını durgun elektrona aktarır ve elektronu hareketlendirir. Bu nedenle, saçılan fotonun enerjisi gelen fotonun enerjisinden daha az olur (E' < E). Enerji ile frekans doğru orantılı (E=hf) olduğundan, saçılan fotonun frekansı da azalır. Enerji ile dalga boyu ters orantılıdır (E = hc/λ). Enerji azaldığı için saçılan fotonun dalga boyu artar (λ' > λ). Momentum da enerjiyle doğru orantılıdır (p=E/c), bu nedenle saçılan fotonun momentumu da azalır (P' < P). Bu durumda kesinlikle doğru olan ifade λ' > λ'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498447597_0",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Bir metal yüzeye, bağlanma enerjisi (eşik enerjisi) E olan fotonlar gönderildiğinde sökülen elektronların maksimum kinetik enerjisi 2E oluyor. Bu metal yüzeye gönderilen ışığın sadece şiddeti iki katına çıkarılırsa, sökülen elektronların maksimum kinetik enerjisi ve birim zamanda sökülen fotoelektron sayısı nasıl değişir?",
+    "options": [
+      "Kinetik enerji değişmez, fotoelektron sayısı iki katına çıkar.",
+      "Kinetik enerji iki katına çıkar, fotoelektron sayısı değişmez.",
+      "Kinetik enerji değişmez, fotoelektron sayısı değişmez.",
+      "Kinetik enerji yarıya iner, fotoelektron sayısı iki katına çıkar.",
+      "Kinetik enerji iki katına çıkar, fotoelektron sayısı da iki katına çıkar."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fotoelektrik olayda, sökülen bir elektronun maksimum kinetik enerjisi, gelen fotonun enerjisi (hf) ile metalin bağlanma enerjisi (E_bağlanma) arasındaki farka eşittir: KE_max = hf - E_bağlanma. Soruda KE_max = 2E ve E_bağlanma = E olarak verilmiş. Buradan gelen fotonun enerjisi hf = 3E bulunur. Işığın şiddeti, birim zamanda yüzeye düşen foton sayısıyla ilgilidir. Fotonun enerjisi ise frekansına bağlıdır. Işığın şiddetini iki katına çıkarmak, foton sayısını iki katına çıkarır ancak her bir fotonun enerjisini (yani frekansını) değiştirmez. Fotonun enerjisi değişmediği için, sökülen elektronların maksimum kinetik enerjisi de (KE_max = 3E - E = 2E) değişmez. Ancak birim zamanda yüzeye çarpan foton sayısı iki katına çıktığı için, birim zamanda sökülen fotoelektron sayısı da iki katına çıkar.",
     "difficulty": 3
   },
   {
@@ -157,86 +237,6 @@
     ],
     "correctAnswer": 4,
     "explanation": "Fotoelektrik olay denklemi E_foton = E₀ + K_max şeklindedir. Burada E_foton = hf (h: Planck sabiti), E₀ bağlanma enerjisi ve K_max sökülen elektronun maksimum kinetik enerjisidir.\nİlk durum için denklem: hf = E₀ + K'dir. Buradan hf = K + E₀ ifadesini elde ederiz.\nİkinci durumda frekans 2f olduğundan fotonun enerjisi h(2f) = 2hf olur. Yeni kinetik enerjiye K' diyelim.\nİkinci durum için denklem: 2hf = E₀ + K'\nİlk denklemden bulduğumuz hf = K + E₀ ifadesini ikinci denklemde yerine yazalım:\n2(K + E₀) = E₀ + K'\n2K + 2E₀ = E₀ + K'\nK' = 2K + E₀ bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501149951_1",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Compton saçılması olayında, durgun haldeki bir elektrona çarpan bir foton, şekildeki gibi saçılmaya uğramaktadır. Gelen fotonun enerjisi E, dalga boyu λ ve momentumu P'dir. Saçılan fotonun enerjisi E', dalga boyu λ' ve momentumu P' olduğuna göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
-    "options": [
-      "E' > E",
-      "λ' < λ",
-      "P' > P",
-      "λ' > λ",
-      "E' = E"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Compton saçılmasında, foton enerjisinin bir kısmını durgun elektrona aktarır ve elektronu hareketlendirir. Bu nedenle, saçılan fotonun enerjisi gelen fotonun enerjisinden daha az olur (E' < E). Enerji ile frekans doğru orantılı (E=hf) olduğundan, saçılan fotonun frekansı da azalır. Enerji ile dalga boyu ters orantılıdır (E = hc/λ). Enerji azaldığı için saçılan fotonun dalga boyu artar (λ' > λ). Momentum da enerjiyle doğru orantılıdır (p=E/c), bu nedenle saçılan fotonun momentumu da azalır (P' < P). Bu durumda kesinlikle doğru olan ifade λ' > λ'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501149951_2",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Dünya'daki durgun bir gözlemciye göre 0,6c hızıyla (c: ışık hızı) hareket eden bir uzay mekiğinin içindeki bir astronot, mekiğin boyunu L₀ olarak ölçmektedir. Buna göre, Dünya'daki durgun gözlemci mekiğin boyunu kaç L₀ olarak ölçer?",
-    "options": [
-      "L₀",
-      "0,8 L₀",
-      "0,6 L₀",
-      "1,25 L₀",
-      "1,67 L₀"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Özel görelilik teorisine göre, hareketli bir cismin boyu, hareket doğrultusunda durgun bir gözlemci tarafından daha kısa ölçülür. Bu olaya boy kısalması (uzunluk büzülmesi) denir. Formülü L = L₀√(1-v²/c²) şeklindedir. Burada L₀ cismin durgun boyu (astronotun ölçtüğü), L ise hareketli boyudur (Dünya'daki gözlemcinin ölçtüğü).\nVerilen değerleri formülde yerine koyalım:\nv = 0,6c\nv²/c² = (0,6c)²/c² = 0,36\nL = L₀√(1 - 0,36)\nL = L₀√(0,64)\nL = L₀ * 0,8\nDolayısıyla, Dünya'daki gözlemci mekiğin boyunu 0,8 L₀ olarak ölçer.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519291136_0",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Bir elektron bir elektrik alanında hareket ederken hangi özellikleri göz önünde bulundurulmalıdır?",
-    "options": [
-      "Yalnızca kütlesi",
-      "Yalnızca yükü",
-      "Hız ve yönü",
-      "Kütlesi ve yükü",
-      "Yükü ve enerji seviyesi"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Elektron gibi yüklü parçacıkların hareketi, hem kütlesine hem de yüküne bağlıdır. Elektrik alanında, yükü nedeniyle kuvvet etkisi altında kalırken, kütlesi nedeniyle de ivme kazanır. Bu nedenle kütlesi ve yükü dikkate alınmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519291136_1",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Kütle-enerji eşitliği E=mc² ifadesinde, c'nin değeri nedir?",
-    "options": [
-      "Işık hızıdır",
-      "Ses hızıdır",
-      "Ağır parçacık hızıdır",
-      "Maddenin ortalama hızıdır",
-      "Hidrodinamik hızdır"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kütle-enerji eşitliği E=mc² ifadesinde c, boşluktaki ışık hızını temsil eder. Bu hız, yaklaşık 3 x 10^8 m/s'dir ve enerji ile kütle arasındaki ilişkiyi tanımlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519291136_2",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Bir fotonun enerjisi hangi formülle hesaplanır?",
-    "options": [
-      "E=mv²",
-      "E=hf",
-      "E=mc²",
-      "E=qV",
-      "E=F.d"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir fotonun enerjisi, E=hf formülü ile hesaplanır. Burada h Planck sabiti ve f fotonun frekansıdır. Bu formül, fotonların enerjisini tanımlamak için kullanılır.",
     "difficulty": 3
   }
 ]
