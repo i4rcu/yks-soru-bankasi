@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764498820887_0",
+    "id": "ai_1764500200762_0",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Starling hipotezine göre, kılcal damarlardan doku sıvısına madde geçişini artıran ve ödem oluşumuna neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
+    "questionText": "İnsanın dolaşım sisteminde yer alan damarlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Kan basıncının normalden yüksek olması",
-      "Kan proteinlerinin (albümin vb.) azalması sonucu kanın osmotik basıncının düşmesi",
-      "Lenf damarlarının tıkanması",
-      "Doku sıvısının osmotik basıncının artması",
-      "Kanın osmotik basıncının normalden yüksek olması"
+      "Atardamarların duvarları, toplardamarlara göre daha kalın ve elastik lifler bakımından daha zengindir.",
+      "Vücudun alt kısımlarındaki toplardamarlarda kanın geri akışını engelleyen tek yönlü kapakçıklar bulunur.",
+      "Kan akış hızının en yavaş olduğu damarlar, madde alışverişinin gerçekleştiği kılcal damarlardır.",
+      "Bir organa giren atardamar ile o organdan çıkan toplardamar arasındaki kanın alyuvar sayısı yaklaşık olarak aynıdır.",
+      "Vücuttaki toplam kan hacminin en büyük kısmı, yüksek basınç nedeniyle atardamarlarda depolanır."
     ],
     "correctAnswer": 4,
-    "explanation": "Starling hipotezine göre, kılcal damarlardaki kan basıncı, kanı damar dışına iten temel kuvvettir. Kanın osmotik basıncı (protein osmotik basıncı) ise doku sıvısını damar içine çeken kuvvettir. Ödem, doku sıvısının artması durumudur. A, B, C ve D şıklarındaki durumlar, damardan doku sıvısına madde geçişini artırır veya doku sıvısının geri emilimini azaltarak ödeme yol açar. Kan basıncının artması (A) itici gücü artırır. Kanın osmotik basıncının düşmesi (B) çekici gücü azaltır. Lenf damarlarının tıkanması (C) biriken doku sıvısının dolaşıma katılmasını engeller. Doku sıvısı osmotik basıncının artması (D) doku sıvısının suyu tutma gücünü artırır. Ancak kanın osmotik basıncının normalden yüksek olması (E), damar içine daha fazla sıvı çekilmesine neden olacağından ödem oluşumunu engeller veya azaltır.",
+    "explanation": "Vücuttaki toplam kan hacminin en büyük kısmı (%60-70 civarı) atardamarlarda değil, toplardamarlarda bulunur. Toplardamarların duvarları daha az elastik ve daha geniştir, bu da onların daha fazla kan depolamasına olanak tanır. Atardamarlar ise kanı yüksek basınçla taşıdıkları için duvarları kalındır ancak kanı depolama kapasiteleri toplardamarlara göre daha azdır. Diğer şıklar doğrudur: A) Atardamarlar yüksek basınca dayanıklı olmalıdır. B) Yerçekimine karşı kanın taşınmasına kapakçıklar yardım eder. C) Toplam kesit alanı en fazla olan kılcal damarlarda kan akışı yavaşlayarak madde alışverişine imkan tanır. D) Sağlıklı bir bireyde kan üretimi ve yıkımı dengede olduğu için, bir organdan geçen kanda alyuvar sayısı önemli ölçüde değişmez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498820887_1",
+    "id": "ai_1764500200762_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "İnsan kalbinin çalışmasını düzenleyen elektriksel uyarı sisteminde, uyartının izlediği yol aşağıdakilerin hangisinde doğru sırayla verilmiştir?",
-    "options": [
-      "Atriyoventriküler Düğüm → Sinoatriyal Düğüm → His Demetleri → Purkinje Lifleri",
-      "Sinoatriyal Düğüm → His Demetleri → Atriyoventriküler Düğüm → Purkinje Lifleri",
-      "His Demetleri → Purkinje Lifleri → Sinoatriyal Düğüm → Atriyoventriküler Düğüm",
-      "Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri",
-      "Atriyoventriküler Düğüm → Purkinje Lifleri → His Demetleri → Sinoatriyal Düğüm"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kalbin çalışmasını başlatan ve düzenleyen elektriksel uyarılar belirli bir yol izler. İlk uyarı, kalbin doğal pili olan sağ kulakçık duvarındaki Sinoatriyal (SA) Düğüm'den çıkar ve kulakçıkların kasılmasını sağlar. Bu uyarı daha sonra kulakçıklar ile karıncıklar arasındaki Atriyoventriküler (AV) Düğüm'e ulaşır. Burada kısa bir süre bekletilen uyartı, karıncıkların duvarlarına yayılan His Demetleri'ne ve ardından daha küçük dallar olan Purkinje Lifleri'ne iletilir. Bu son aşama, karıncıkların aynı anda ve güçlü bir şekilde kasılmasını sağlar. Dolayısıyla doğru sıralama: Sinoatriyal Düğüm → Atriyoventriküler Düğüm → His Demetleri → Purkinje Lifleri şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498820887_2",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damarlardan hangisindeki kanın oksijen derişiminin diğerlerinden farklı olması beklenir?",
+    "questionText": "Sağlıklı bir insanda, sol karıncıktan pompalanan ve oksijence zengin kanın, böbreklere ulaştıktan sonra tekrar sağ kulakçığa dönene kadar izlediği yolda aşağıdaki yapılardan hangisinden geçmesi beklenmez?",
     "options": [
       "Aort atardamarı",
-      "Böbrek atardamarı",
+      "Böbrek toplardamarı",
       "Akciğer atardamarı",
-      "Karaciğer atardamarı",
-      "Şah damarı (Karotis arteri)"
+      "Alt ana toplardamar",
+      "Böbrek kılcalları"
     ],
     "correctAnswer": 2,
-    "explanation": "Dolaşım sisteminde atardamarlar genellikle oksijence zengin (temiz) kan taşırken, toplardamarlar oksijence fakir (kirli) kan taşır. Ancak bu kuralın iki önemli istisnası vardır. Akciğer atardamarı, kalbin sağ karıncığından çıkan ve oksijence fakir kanı temizlenmesi için akciğerlere götüren damardır. Akciğer toplardamarı ise akciğerlerde temizlenen oksijence zengin kanı kalbin sol kulakçığına getirir. Soruda verilen şıklardan Aort, Böbrek atardamarı, Karaciğer atardamarı ve Şah damarı sistemik dolaşıma ait atardamarlardır ve hepsi kalbin sol karıncığından pompalanan oksijence zengin kanı taşır. Akciğer atardamarı ise pulmoner (küçük) dolaşıma aittir ve oksijence fakir kan taşıdığı için diğerlerinden farklıdır.",
+    "explanation": "Bu soru, büyük kan dolaşımının (sistemik dolaşım) yolunu sormaktadır. Sol karıncıktan pompalanan kan şu yolu izler: Sol karıncık → Aort atardamarı → Böbrek atardamarı → Böbrek kılcalları → Böbrek toplardamarı → Alt ana toplardamar → Sağ kulakçık. Bu yolculuk sırasında kan, vücut dokularını (bu örnekte böbrekleri) dolaşır ve oksijenini bırakıp karbondioksit alır. Akciğer atardamarı ise küçük kan dolaşımının (pulmoner dolaşım) bir parçasıdır. Küçük kan dolaşımı, sağ karıncıktan başlar, kirli kanı akciğer atardamarı ile akciğerlere taşır, kanın temizlenmesini sağlar ve akciğer toplardamarı ile temiz kanı sol kulakçığa geri getirir. Dolayısıyla, sol karıncıktan başlayıp sağ kulakçıkta biten büyük dolaşım sırasında kan akciğer atardamarından geçmez.",
     "difficulty": 3
   }
 ]
