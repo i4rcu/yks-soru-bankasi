@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764519203503_0",
+    "id": "ai_1764520128426_0",
     "subjectId": "mat",
     "topic": "Limit",
-    "questionText": "Aşağıdaki limit ifadesinin sonucu nedir? lim(x→2) (x² - 4)/(x - 2)",
+    "questionText": "Aşağıdaki limit ifadelerinden hangisinin sonucu 2'dir?",
     "options": [
-      "0",
-      "1",
-      "2",
-      "4",
-      "5"
+      "lim (x → 1) (x^2 + x)",
+      "lim (x → 0) (sin(x)/x)",
+      "lim (x → 2) (3x - 4)",
+      "lim (x → -1) (x^3 + 1)",
+      "lim (x → 3) (2x^2 - 5x + 1)"
     ],
     "correctAnswer": 2,
-    "explanation": "Verilen limit ifadesi, x=2 noktasında tanımsız görünmekte ancak ifadenin sadeleştirilmesiyle limit hesaplanabilir. (x² - 4) ifadesi (x - 2)(x + 2) olarak faktörlerine ayrılabilir. Bu durumda limit ifadesi (x - 2)(x + 2)/(x - 2) haline gelir. x - 2 terimleri birbirini sadeleştirince geriye x + 2 kalır. Şimdi x = 2 için limit hesabı yapılır: lim(x→2) (x + 2) = 2 + 2 = 4. Bu nedenle doğru cevap 4'tür.",
+    "explanation": "lim (x → 2) (3x - 4) ifadesini değerlendirdiğimizde, x yerine 2 koyduğumuzda 3(2) - 4 = 6 - 4 = 2 sonucunu elde ederiz. Diğer seçeneklerin limit sonuçları farklıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520128426_1",
+    "subjectId": "mat",
+    "topic": "Limit",
+    "questionText": "Aşağıdaki limit ifadesinin sonucu nedir: lim (x → 0) (1 - cos(x))/x^2?",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "∞",
+      "Düşmeyen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu limit ifadesi L'Hospital kuralı ile çözülebilir. 1 - cos(x) ifadesinin türevini alarak ve x^2'nin türevini alarak limit hesaplanır. Sonuç 1/2'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520128426_2",
+    "subjectId": "mat",
+    "topic": "Limit",
+    "questionText": "Aşağıdaki ifadelerden hangisi lim (x → 3) (x^2 - 9)/(x - 3) limitini doğru bir şekilde tanımlar?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "∞",
+      "0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu ifade, (x^2 - 9) / (x - 3) ifadesi x = 3 için tanımsızdır. Ancak, bu ifade çarpanlara ayrıldığında (x - 3)(x + 3) / (x - 3) olur ve (x - 3) terimleri birbirini götürdüğünde, limit x → 3 için x + 3 = 6 sonucunu verir.",
     "difficulty": 3
   }
 ]
