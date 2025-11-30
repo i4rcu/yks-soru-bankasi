@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ai_1764497987569_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x³ - 3x² + 5 fonksiyonuna x = 1 apsisli noktasından çizilen teğetin eğimi kaçtır?",
+    "options": [
+      "-5",
+      "-3",
+      "0",
+      "1",
+      "3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir fonksiyona bir noktadan çizilen teğetin eğimi, fonksiyonun o noktadaki türevine eşittir. Önce f(x) fonksiyonunun türevini alalım: f'(x) = 3x² - 6x. Şimdi x = 1 noktasındaki türev değerini bulalım: f'(1) = 3(1)² - 6(1) = 3 - 6 = -3. Dolayısıyla, teğetin eğimi -3'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497987569_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (1/3)x³ - 2x² + 3x + 1 fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
+    "options": [
+      "-3",
+      "-1",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir fonksiyonun yerel ekstremum noktalarını bulmak için türevi alınıp sıfıra eşitlenir. f'(x) = x² - 4x + 3. Şimdi türevi sıfıra eşitleyelim: x² - 4x + 3 = 0. Bu denklemi çarpanlarına ayırırsak (x-1)(x-3) = 0 elde ederiz. Kökler x=1 ve x=3'tür. Bunlar ekstremum noktası adaylarıdır. Türevin işaret tablosunu inceleyelim: x < 1 için f'(x) > 0 (artan), 1 < x < 3 için f'(x) < 0 (azalan), x > 3 için f'(x) > 0 (artan). Fonksiyon x=1'de artanlıktan azalanlığa geçtiği için burada bir yerel maksimum vardır. x=3'te azalanlıktan artanlığa geçtiği için burada bir yerel minimum vardır. Soruda yerel minimum noktasının apsisi sorulduğu için cevap 3'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497987569_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (x² + 4x - 1)³ olduğuna göre, f'(-2) değeri kaçtır?",
+    "options": [
+      "-147",
+      "-54",
+      "0",
+      "54",
+      "147"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. Zincir kuralına göre, [g(h(x))]' = g'(h(x)) * h'(x). Burada g(u) = u³ ve h(x) = x² + 4x - 1'dir. f'(x) = 3(x² + 4x - 1)² * (2x + 4). Şimdi x yerine -2 yazalım: f'(-2) = 3((-2)² + 4(-2) - 1)² * (2(-2) + 4) = 3(4 - 8 - 1)² * (-4 + 4) = 3(-5)² * (0) = 0. Çarpım durumunda 0 olduğu için sonuç 0'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497987569_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "Gerçel sayılar kümesinde tanımlı bir f fonksiyonunun türevi olan f'(x) fonksiyonunun grafiği, x eksenini x = -3 ve x = 4 noktalarında kesmektedir. f'(x) fonksiyonu (-3, 4) aralığında pozitif, bu aralığın dışında ise negatiftir. Buna göre, f(x) fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "x = -3 noktasında yerel minimumu vardır.",
+      "x = 4 noktasında yerel minimumu vardır.",
+      "(-∞, -3) aralığında artandır.",
+      "(4, ∞) aralığında artandır.",
+      "x = 1 noktasında bir ekstremum noktası vardır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) fonksiyonunun işaretine göre f(x) fonksiyonunun artanlık ve azalanlığı hakkında yorum yapabiliriz. f'(x) > 0 ise f(x) artan, f'(x) < 0 ise f(x) azalandır. Verilen bilgilere göre işaret tablosu: (-∞, -3) aralığında f'(x) < 0 (azalan). x = -3'te f'(x) = 0. (-3, 4) aralığında f'(x) > 0 (artan). x = 4'te f'(x) = 0. (4, ∞) aralığında f'(x) < 0 (azalan). Bir fonksiyonun türevinin işaretinin negatiften pozitife değiştiği nokta yerel minimumdur. x = -3 noktasında fonksiyon azalanlıktan artanlığa geçtiği için bu noktada bir yerel minimum vardır. x = 4 noktasında ise artanlıktan azalanlığa geçtiği için bir yerel maksimum vardır. Bu nedenle A şıkkı doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497987569_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (x² + 1) * (2x - 3) olduğuna göre, f'(2) değeri kaçtır?",
+    "options": [
+      "9",
+      "11",
+      "14",
+      "15",
+      "18"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çarpım kuralı olan (u*v)' = u'*v + u*v' formülünü kullanacağız. Burada u(x) = x² + 1 ve v(x) = 2x - 3'tür. Bu fonksiyonların türevleri: u'(x) = 2x ve v'(x) = 2. Şimdi çarpım kuralını uygulayalım: f'(x) = (2x)(2x - 3) + (x² + 1)(2). Soru f'(2) değerini sorduğu için x yerine 2 koyalım: f'(2) = (2*2)(2*2 - 3) + (2² + 1)(2) = (4)(4 - 3) + (4 + 1)(2) = 4(1) + 5(2) = 4 + 10 = 14.",
+    "difficulty": 3
+  }
+]
