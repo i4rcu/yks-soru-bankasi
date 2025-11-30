@@ -1,69 +1,5 @@
 [
   {
-    "id": "ai_1764521032843_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
-    "options": [
-      "Besinleri sentezlemek",
-      "Atıkları depolamak",
-      "Seçici geçirgenlik sağlamak",
-      "Enerji üretmek",
-      "Proteinleri parçalamak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre zarı, hücre içi ve dışı arasındaki madde alışverişini kontrol ederek seçici geçirgenlik sağlar. Bu özellik, hücrenin homeostazisini korumasına yardımcı olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521032843_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
-    "options": [
-      "Ribozom",
-      "Kloroplast",
-      "Lizozom",
-      "Golgi aygıtı",
-      "Endoplazmik retikulum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521032843_2",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında hangi aşama kromozomların en belirgin hale geldiği aşamadır?",
-    "options": [
-      "Profaz",
-      "Metafaz",
-      "Anafaz",
-      "Telofaz",
-      "Interfaz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Profaz aşamasında kromozomlar yoğunlaşarak belirgin hale gelir. Bu aşamada kromozomlar, mikrotübüllerin çekirdek bölünmesinde görev alabilmesi için daha kolay tanınır duruma gelir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497550966_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre dışına salgılanmak üzere sentezlenen bir glikoprotein molekülünün üretim ve salgılanma sürecinde, aşağıdaki yapılardan hangisi en son görev alır?",
-    "options": [
-      "Ribozom",
-      "Golgi Aygıtı",
-      "Hücre zarı",
-      "Granüllü Endoplazmik Retikulum",
-      "Çekirdekçik"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre dışına salgılanacak bir glikoproteinin izlediği yol şu şekildedir: 1. Çekirdekçikte sentezlenen rRNA'lar ribozomun yapısına katılır. 2. Ribozomda protein kısmı sentezlenir ve Granüllü E.R. kanallarına bırakılır. 3. Granüllü E.R.'de protein üç boyutlu yapı kazanır ve glikoz eklenerek glikoprotein olur. 4. Taşıma kofuluyla Golgi Aygıtı'na taşınır. 5. Golgi Aygıtı'nda son düzenlemeler yapılır ve paketlenerek salgı kofulu oluşturulur. 6. Salgı kofulu hücre zarına tutunarak ekzositoz ile içeriğini dışarı bırakır. Bu süreçte en son görev alan yapı, ekzositoz olayının gerçekleştiği hücre zarıdır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764497550966_1",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -80,35 +16,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764497550966_2",
+    "id": "ai_1764519356975_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Mitokondri ve kloroplast organelleri için aşağıdaki özelliklerden hangisi ortak *değildir*?",
+    "questionText": "Aşağıdaki organellerden hangisi hücrenin enerji santrali olarak bilinir?",
     "options": [
-      "Kendilerine özgü DNA, RNA ve ribozom içermeleri",
-      "Çift katlı zar sistemine sahip olmaları",
-      "Enerji dönüşümü reaksiyonları gerçekleştirmeleri",
-      "Oksijen tüketerek ATP sentezlemeleri",
-      "Çekirdek kontrolünde bölünerek sayılarını artırabilmeleri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Mitokondri ve kloroplast, endosimbiyotik hipoteze göre ortak özelliklere sahiptir. Her ikisi de çift zarlıdır, kendilerine ait DNA, RNA ve ribozomları vardır, bu sayede çekirdek kontrolünde çoğalabilirler ve enerji dönüşümü (ATP sentezi) yaparlar. Ancak aralarında temel farklar vardır. Mitokondri, oksijenli solunum ile besinleri parçalayarak, yani oksijen tüketerek ATP sentezler. Kloroplast ise fotosentez yapar; bu süreçte ışık enerjisini kullanarak ATP sentezler (fotofosforilasyon) ve yan ürün olarak oksijen üretir, oksijen tüketmez. Dolayısıyla 'Oksijen tüketerek ATP sentezlemeleri' sadece mitokondriye ait bir özelliktir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498693499_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdaki hücresel yapılardan hangisi, hem oksijenli solunum yapan bir bakteri hücresinde hem de bir hayvan hücresinde ortak olarak bulunur?",
-    "options": [
-      "Mitokondri",
-      "Hücre duvarı",
       "Ribozom",
-      "Çekirdek",
-      "Lizozom"
+      "Kloroplast",
+      "Mitokondri",
+      "Golgi aygıtı",
+      "Endoplazmik retikulum"
     ],
     "correctAnswer": 2,
-    "explanation": "Ribozom, protein sentezinden sorumlu olan ve zarsız bir organeldir. Bu nedenle hem prokaryotik (bakteri) hem de ökaryotik (hayvan) hücrelerde ortak olarak bulunur. Mitokondri, çekirdek ve lizozom zarlı organeller olup sadece ökaryotik hücrelerde bulunur. Hayvan hücrelerinde hücre duvarı bulunmazken, bakterilerde peptidoglikan yapılı bir hücre duvarı bulunur. Ancak soru her iki hücrede de 'ortak olarak' bulunan yapıyı sorduğu için doğru cevap ribozomdur.",
+    "explanation": "Mitokondri, hücre içinde enerji üretiminden sorumlu organeldir ve bu özelliği nedeniyle 'hücrenin enerji santrali' olarak adlandırılır.",
     "difficulty": 3
   },
   {
@@ -128,19 +48,131 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500061240_0",
+    "id": "ai_1764521032843_2",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Bir bilim insanı, mikroskop altında incelediği bir hücrede hücre duvarı, ribozom ve zarsız bir kalıtım materyali (nükleoid) bulunduğunu gözlemliyor. Bu hücrede aşağıdaki organellerden hangisinin bulunması **beklenmez**?",
+    "questionText": "Hücre bölünmesi sırasında hangi aşama kromozomların en belirgin hale geldiği aşamadır?",
     "options": [
-      "Hücre zarı",
-      "Sitoplazma",
-      "Lizozom",
-      "Ribozom",
-      "Kamçı"
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "Interfaz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Profaz aşamasında kromozomlar yoğunlaşarak belirgin hale gelir. Bu aşamada kromozomlar, mikrotübüllerin çekirdek bölünmesinde görev alabilmesi için daha kolay tanınır duruma gelir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521032843_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Besinleri sentezlemek",
+      "Atıkları depolamak",
+      "Seçici geçirgenlik sağlamak",
+      "Enerji üretmek",
+      "Proteinleri parçalamak"
     ],
     "correctAnswer": 2,
-    "explanation": "Soruda tarif edilen hücre; hücre duvarı, ribozom içermesi ve en önemlisi kalıtım materyalinin zarla çevrili bir çekirdek içinde olmaması (nükleoid bölgesi) nedeniyle bir prokaryot hücredir (örneğin bakteri). Prokaryot hücrelerde zarlı organeller bulunmaz. A, B ve D şıklarındaki yapılar (Hücre zarı, Sitoplazma, Ribozom) tüm canlı hücrelerde ortakken, E şıkkındaki kamçı bazı prokaryotlarda bulunabilir. Ancak C şıkkındaki lizozom, tek zarlı bir organel olup sadece ökaryot hücrelerde (özellikle hayvan hücrelerinde) bulunur. Bu nedenle prokaryot bir hücrede lizozomun bulunması beklenmez.",
+    "explanation": "Hücre zarı, hücre içi ve dışı arasındaki madde alışverişini kontrol ederek seçici geçirgenlik sağlar. Bu özellik, hücrenin homeostazisini korumasına yardımcı olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498693499_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Aşağıdaki hücresel yapılardan hangisi, hem oksijenli solunum yapan bir bakteri hücresinde hem de bir hayvan hücresinde ortak olarak bulunur?",
+    "options": [
+      "Mitokondri",
+      "Hücre duvarı",
+      "Ribozom",
+      "Çekirdek",
+      "Lizozom"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ribozom, protein sentezinden sorumlu olan ve zarsız bir organeldir. Bu nedenle hem prokaryotik (bakteri) hem de ökaryotik (hayvan) hücrelerde ortak olarak bulunur. Mitokondri, çekirdek ve lizozom zarlı organeller olup sadece ökaryotik hücrelerde bulunur. Hayvan hücrelerinde hücre duvarı bulunmazken, bakterilerde peptidoglikan yapılı bir hücre duvarı bulunur. Ancak soru her iki hücrede de 'ortak olarak' bulunan yapıyı sorduğu için doğru cevap ribozomdur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519356975_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında DNA'nın kopyalanması hangi aşamada gerçekleşir?",
+    "options": [
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "Sentez fazı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "DNA'nın kopyalanması, hücre döngüsünün S (sentez) fazında gerçekleşir. Bu aşamada hücre, bölünmeden önce genetik materyalini çoğaltır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520314198_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Aşağıdakilerden hangisi hücre organellerinden biri değildir?",
+    "options": [
+      "Ribozom",
+      "Mitokondri",
+      "Kloroplast",
+      "Endoplazmik retikulum",
+      "Sitoz"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ribozom, mitokondri, kloroplast ve endoplazmik retikulum hücre organelleridir. Sitoz ise, hücre içindeki sıvı kısmını ifade eder ve bir organel değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521032843_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
+    "options": [
+      "Ribozom",
+      "Kloroplast",
+      "Lizozom",
+      "Golgi aygıtı",
+      "Endoplazmik retikulum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519356975_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Besin maddelerini depolamak",
+      "Hücre içi organellerin üretimini sağlamak",
+      "Hücre içi ve dışı arasında madde geçişini kontrol etmek",
+      "Enerji üretimini gerçekleştirmek",
+      "Genetik bilgiyi taşımak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hücre zarı, hücrenin dış çevresi ile içi arasında seçici geçirgenlik sağlar ve bu sayede hücre içi ve dışı arasında madde geçişini kontrol eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520314199_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında hangi aşamada kromozomlar en belirgin hale gelir?",
+    "options": [
+      "İnterfaz",
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hücre bölünmesi sırasında kromozomlar en belirgin hale profaz aşamasında gelir. Bu aşamada kromatin yoğunlaşarak kromozomları oluşturur ve mikrotübüller ile hücre merkezlerine doğru hareket eder.",
     "difficulty": 3
   },
   {
@@ -176,6 +208,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764500061240_0",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Bir bilim insanı, mikroskop altında incelediği bir hücrede hücre duvarı, ribozom ve zarsız bir kalıtım materyali (nükleoid) bulunduğunu gözlemliyor. Bu hücrede aşağıdaki organellerden hangisinin bulunması **beklenmez**?",
+    "options": [
+      "Hücre zarı",
+      "Sitoplazma",
+      "Lizozom",
+      "Ribozom",
+      "Kamçı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soruda tarif edilen hücre; hücre duvarı, ribozom içermesi ve en önemlisi kalıtım materyalinin zarla çevrili bir çekirdek içinde olmaması (nükleoid bölgesi) nedeniyle bir prokaryot hücredir (örneğin bakteri). Prokaryot hücrelerde zarlı organeller bulunmaz. A, B ve D şıklarındaki yapılar (Hücre zarı, Sitoplazma, Ribozom) tüm canlı hücrelerde ortakken, E şıkkındaki kamçı bazı prokaryotlarda bulunabilir. Ancak C şıkkındaki lizozom, tek zarlı bir organel olup sadece ökaryot hücrelerde (özellikle hayvan hücrelerinde) bulunur. Bu nedenle prokaryot bir hücrede lizozomun bulunması beklenmez.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764501369437_1",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -189,54 +237,6 @@
     ],
     "correctAnswer": 4,
     "explanation": "Aktif taşıma, maddelerin derişimlerinin (yoğunluklarının) az olduğu ortamdan çok olduğu ortama doğru, yani derişim gradyanının tersine taşınmasıdır. Bu işlem için metabolik enerji (ATP) harcanır ve taşıyıcı proteinler ile enzimler görev alır. Enerji gerektirdiği için sadece canlı hücrelerde gerçekleşebilir. Aktif taşımanın amacı, hücre içi ve dışı arasındaki yoğunluk farkını korumak veya artırmaktır; yoğunluk farkını ortadan kaldırarak denge durumunu (izotonik ortam) sağlayan mekanizma ise pasif taşıma (örneğin, difüzyon) yöntemleridir. Bu nedenle E şıkkındaki ifade aktif taşıma için yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519356975_0",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
-    "options": [
-      "Besin maddelerini depolamak",
-      "Hücre içi organellerin üretimini sağlamak",
-      "Hücre içi ve dışı arasında madde geçişini kontrol etmek",
-      "Enerji üretimini gerçekleştirmek",
-      "Genetik bilgiyi taşımak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hücre zarı, hücrenin dış çevresi ile içi arasında seçici geçirgenlik sağlar ve bu sayede hücre içi ve dışı arasında madde geçişini kontrol eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519356975_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdaki organellerden hangisi hücrenin enerji santrali olarak bilinir?",
-    "options": [
-      "Ribozom",
-      "Kloroplast",
-      "Mitokondri",
-      "Golgi aygıtı",
-      "Endoplazmik retikulum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Mitokondri, hücre içinde enerji üretiminden sorumlu organeldir ve bu özelliği nedeniyle 'hücrenin enerji santrali' olarak adlandırılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519356975_2",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında DNA'nın kopyalanması hangi aşamada gerçekleşir?",
-    "options": [
-      "Profaz",
-      "Metafaz",
-      "Anafaz",
-      "Telofaz",
-      "Sentez fazı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "DNA'nın kopyalanması, hücre döngüsünün S (sentez) fazında gerçekleşir. Bu aşamada hücre, bölünmeden önce genetik materyalini çoğaltır.",
     "difficulty": 3
   },
   {
@@ -256,35 +256,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520314198_1",
+    "id": "ai_1764497550966_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Aşağıdakilerden hangisi hücre organellerinden biri değildir?",
+    "questionText": "Hücre dışına salgılanmak üzere sentezlenen bir glikoprotein molekülünün üretim ve salgılanma sürecinde, aşağıdaki yapılardan hangisi en son görev alır?",
     "options": [
       "Ribozom",
-      "Mitokondri",
-      "Kloroplast",
-      "Endoplazmik retikulum",
-      "Sitoz"
+      "Golgi Aygıtı",
+      "Hücre zarı",
+      "Granüllü Endoplazmik Retikulum",
+      "Çekirdekçik"
     ],
-    "correctAnswer": 4,
-    "explanation": "Ribozom, mitokondri, kloroplast ve endoplazmik retikulum hücre organelleridir. Sitoz ise, hücre içindeki sıvı kısmını ifade eder ve bir organel değildir.",
+    "correctAnswer": 2,
+    "explanation": "Hücre dışına salgılanacak bir glikoproteinin izlediği yol şu şekildedir: 1. Çekirdekçikte sentezlenen rRNA'lar ribozomun yapısına katılır. 2. Ribozomda protein kısmı sentezlenir ve Granüllü E.R. kanallarına bırakılır. 3. Granüllü E.R.'de protein üç boyutlu yapı kazanır ve glikoz eklenerek glikoprotein olur. 4. Taşıma kofuluyla Golgi Aygıtı'na taşınır. 5. Golgi Aygıtı'nda son düzenlemeler yapılır ve paketlenerek salgı kofulu oluşturulur. 6. Salgı kofulu hücre zarına tutunarak ekzositoz ile içeriğini dışarı bırakır. Bu süreçte en son görev alan yapı, ekzositoz olayının gerçekleştiği hücre zarıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520314199_2",
+    "id": "ai_1764497550966_2",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında hangi aşamada kromozomlar en belirgin hale gelir?",
+    "questionText": "Mitokondri ve kloroplast organelleri için aşağıdaki özelliklerden hangisi ortak *değildir*?",
     "options": [
-      "İnterfaz",
-      "Profaz",
-      "Metafaz",
-      "Anafaz",
-      "Telofaz"
+      "Kendilerine özgü DNA, RNA ve ribozom içermeleri",
+      "Çift katlı zar sistemine sahip olmaları",
+      "Enerji dönüşümü reaksiyonları gerçekleştirmeleri",
+      "Oksijen tüketerek ATP sentezlemeleri",
+      "Çekirdek kontrolünde bölünerek sayılarını artırabilmeleri"
     ],
-    "correctAnswer": 1,
-    "explanation": "Hücre bölünmesi sırasında kromozomlar en belirgin hale profaz aşamasında gelir. Bu aşamada kromatin yoğunlaşarak kromozomları oluşturur ve mikrotübüller ile hücre merkezlerine doğru hareket eder.",
+    "correctAnswer": 3,
+    "explanation": "Mitokondri ve kloroplast, endosimbiyotik hipoteze göre ortak özelliklere sahiptir. Her ikisi de çift zarlıdır, kendilerine ait DNA, RNA ve ribozomları vardır, bu sayede çekirdek kontrolünde çoğalabilirler ve enerji dönüşümü (ATP sentezi) yaparlar. Ancak aralarında temel farklar vardır. Mitokondri, oksijenli solunum ile besinleri parçalayarak, yani oksijen tüketerek ATP sentezler. Kloroplast ise fotosentez yapar; bu süreçte ışık enerjisini kullanarak ATP sentezler (fotofosforilasyon) ve yan ürün olarak oksijen üretir, oksijen tüketmez. Dolayısıyla 'Oksijen tüketerek ATP sentezlemeleri' sadece mitokondriye ait bir özelliktir.",
     "difficulty": 3
   }
 ]
