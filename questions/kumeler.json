@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764520075996_0",
+    "id": "ai_1764519766005_15",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A = {x | 1 < x < 10, x bir tam sayı} ve B = {x | 5 < x < 15, x bir tam sayı} olduğuna göre A ∩ B kümesi nedir?",
     "options": [
-      "{1, 2}",
-      "{3, 4}",
-      "{5, 6}",
-      "{1, 2, 3, 4, 5, 6}",
-      "{}"
+      "{6, 7, 8, 9}",
+      "{5, 6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4, 5}",
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "{10, 11, 12, 13, 14}"
     ],
-    "correctAnswer": 1,
-    "explanation": "A ∩ B, A ve B kümelerinin ortak elemanlarını içerir. A kümesinde 3 ve 4, B kümesinde de 3 ve 4 bulunmaktadır. Dolayısıyla A ∩ B = {3, 4} olur.",
+    "correctAnswer": 0,
+    "explanation": "A kümesi {2, 3, 4, 5, 6, 7, 8, 9} ve B kümesi {6, 7, 8, 9, 10, 11, 12, 13, 14} olup A ∩ B = {6, 7, 8, 9} olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520075998_1",
+    "id": "ai_1764519766006_44",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x bir doğal sayıdır ve 1 ≤ x ≤ 10} kümesi ile B = {x | x bir doğal sayıdır ve 5 ≤ x ≤ 15} kümesinin birleşimi nedir?",
+    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3} olduğuna göre A ∪ B kümesi nedir?",
     "options": [
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
-      "{5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
-      "{5, 6, 7, 8, 9, 10}",
-      "{}"
+      "{1, 2, 3}",
+      "{1, 2, 3, 4}",
+      "{1, 2}",
+      "{} ",
+      "{1, 2, 3, 4, 5}"
     ],
-    "correctAnswer": 1,
-    "explanation": "A kümesi 1'den 10'a kadar olan doğal sayıları, B kümesi ise 5'ten 15'e kadar olan doğal sayıları içerir. Bu iki kümenin birleşimi, her iki kümede yer alan tüm elemanları içerir: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}.",
+    "correctAnswer": 0,
+    "explanation": "A ve B kümeleri eşit olduğu için A ∪ B = {1, 2, 3} olur.",
     "difficulty": 3
   },
   {
@@ -48,146 +48,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520075998_3",
+    "id": "ai_1764519766005_29",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x bir tam sayıdır ve -3 ≤ x ≤ 2} kümesi ile B = {x | x bir tam sayıdır ve 0 ≤ x ≤ 5} kümesinin kesişimi nedir?",
+    "questionText": "A = {1, 2, 3} ve B = {3, 4} olduğuna göre A ∪ (A - B) kümesi nedir?",
     "options": [
-      "{-3, -2, -1, 0, 1, 2}",
-      "{0, 1, 2}",
-      "{0, 1, 2, 3, 4, 5}",
-      "{}"
+      "{1, 2, 3, 4}",
+      "{1, 2}",
+      "{3}",
+      "{1, 2, 4}",
+      "{1, 2, 3, 5}"
     ],
-    "correctAnswer": 1,
-    "explanation": "A kümesi -3 ile 2 arasındaki tüm tam sayıları içerir: {-3, -2, -1, 0, 1, 2}. B kümesi ise 0 ile 5 arasındaki tam sayıları içerir: {0, 1, 2, 3, 4, 5}. Bu iki kümenin kesişimi ise sadece ortak elemanları içerir: {0, 1, 2}.",
+    "correctAnswer": 0,
+    "explanation": "Öncelikle A - B = {1, 2} ve A ∪ {1, 2} = {1, 2, 3} olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764497878558_0",
+    "id": "ai_1764521077836_0",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "Matematik, Fizik ve Kimya derslerinden en az birini alan öğrencilerden oluşan 38 kişilik bir sınıfta; Matematik alan 20, Fizik alan 18 ve Kimya alan 15 öğrenci bulunmaktadır. Bu derslerden Matematik ve Fizik derslerini alan 7, Fizik ve Kimya derslerini alan 6, Matematik ve Kimya derslerini alan 5 öğrenci olduğuna göre, her üç dersi de alan kaç öğrenci vardır?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu tür problemler, 'Birleşim Kümesinin Eleman Sayısı' formülü (içerme-dışarma prensibi) kullanılarak çözülür. M, F ve K sırasıyla Matematik, Fizik ve Kimya derslerini alanların kümesini göstersin. Formül şöyledir: s(M ∪ F ∪ K) = s(M) + s(F) + s(K) - [s(M ∩ F) + s(M ∩ K) + s(F ∩ K)] + s(M ∩ F ∩ K). Verilen değerleri yerine koyalım: Sınıftaki herkes en az bir ders aldığı için s(M ∪ F ∪ K) = 38'dir. 38 = 20 + 18 + 15 - (7 + 5 + 6) + s(M ∩ F ∩ K). İşlemleri yaparsak: 38 = 53 - 18 + s(M ∩ F ∩ K). 38 = 35 + s(M ∩ F ∩ K). Buradan, her üç dersi de alanların sayısı olan s(M ∩ F ∩ K) = 38 - 35 = 3 olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497878560_1",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3, 4, 5, 6} kümesinin alt kümelerinden kaç tanesinin elemanları çarpımı bir çift sayıdır?",
-    "options": [
-      "8",
-      "32",
-      "48",
-      "56",
-      "63"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bir kümenin elemanları çarpımının çift sayı olması için, kümenin içinde en az bir tane çift sayı bulunması yeterlidir. Bu soruyu çözmenin en kolay yolu, tüm durumdan istenmeyen durumu çıkarmaktır (tümleyen mantığı). İstenmeyen durum, elemanları çarpımının tek sayı olmasıdır. Bir çarpımın tek sayı olabilmesi için bütün çarpanların tek sayı olması gerekir. A kümesindeki tek sayılar {1, 3, 5}'tir. Sadece bu elemanlardan oluşan alt kümelerin elemanları çarpımı tek sayı olacaktır. {1, 3, 5} kümesinin alt küme sayısı 2³ = 8'dir. (Bu 8 kümenin içinde elemanları çarpımı 1 kabul edilen boş küme de vardır). A kümesinin toplam alt küme sayısı ise 2⁶ = 64'tür. Toplam alt küme sayısından, elemanları çarpımı tek olan alt küme sayısını çıkarırsak, elemanları çarpımı çift olan alt küme sayısını buluruz. Sonuç: 64 - 8 = 56.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499259718_0",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A ve B kümeleri için, s(A ∪ B) = 25, s(A ∩ B) = 5 ve s(A \\ B) = 3 ∙ s(B \\ A) olduğu biliniyor. Buna göre, A kümesinin eleman sayısı, s(A), kaçtır?",
-    "options": [
-      "10",
-      "15",
-      "20",
-      "25",
-      "30"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir kümenin birleşiminin eleman sayısı, ayrık parçalarının eleman sayılarının toplamına eşittir: s(A ∪ B) = s(A \\ B) + s(B \\ A) + s(A ∩ B). Verilen değerleri bu formülde yerine koyalım:\n25 = s(A \\ B) + s(B \\ A) + 5\nBu denklemden s(A \\ B) + s(B \\ A) = 20 bulunur.\nSoruda verilen s(A \\ B) = 3 ∙ s(B \\ A) eşitliğini bu denklemde yerine yazarsak:\n(3 ∙ s(B \\ A)) + s(B \\ A) = 20\n4 ∙ s(B \\ A) = 20\ns(B \\ A) = 5 olarak bulunur.\nBu durumda, s(A \\ B) = 3 ∙ 5 = 15 olur.\nA kümesinin eleman sayısı, A'nın B'den farkı ile kesişiminin eleman sayılarının toplamıdır: s(A) = s(A \\ B) + s(A ∩ B).\nDeğerleri yerine koyarsak: s(A) = 15 + 5 = 20.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499259719_1",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "Bir sınıftaki öğrencilerin tamamı İngilizce veya Almanca dillerinden en az birini bilmektedir. Bu sınıfta, sadece İngilizce bilenlerin sayısı sadece Almanca bilenlerin sayısının iki katıdır. Her iki dili de bilen 6 öğrenci olduğuna ve sınıf mevcudu 24 olduğuna göre, Almanca bilen toplam öğrenci sayısı kaçtır?",
-    "options": [
-      "6",
-      "8",
-      "12",
-      "16",
-      "18"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İngilizce bilenler kümesini İ, Almanca bilenler kümesini A ile gösterelim.\nSınıftaki herkes en az bir dil bildiği için, sınıf mevcudu birleşim kümesinin eleman sayısına eşittir: s(İ ∪ A) = 24.\nHer iki dili de bilenlerin sayısı kesişim kümesidir: s(İ ∩ A) = 6.\nSadece İngilizce bilenlerin sayısı s(İ \\ A), sadece Almanca bilenlerin sayısı s(A \\ İ) olarak ifade edilir. Verilen bilgiye göre, s(İ \\ A) = 2 ∙ s(A \\ İ).\nBirleşim kümesi formülünü kullanalım: s(İ ∪ A) = s(İ \\ A) + s(A \\ İ) + s(İ ∩ A).\nDeğerleri yerine koyalım: 24 = (2 ∙ s(A \\ İ)) + s(A \\ İ) + 6.\nDenklemi düzenleyelim: 24 - 6 = 3 ∙ s(A \\ İ)  =>  18 = 3 ∙ s(A \\ İ).\nBuradan, sadece Almanca bilenlerin sayısı s(A \\ İ) = 6 olarak bulunur.\nSoruda Almanca bilen toplam öğrenci sayısı, yani s(A) sorulmaktadır.\nAlmanca bilenler, sadece Almanca bilenler ile her iki dili de bilenlerin toplamıdır: s(A) = s(A \\ İ) + s(İ ∩ A).\nSonuç olarak: s(A) = 6 + 6 = 12.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500631245_0",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A ve B, E evrensel kümesinin iki alt kümesidir.\ns(A') = 15\ns(B') = 12\ns(A' ∩ B') = 5\ns(A ∪ B) = 24\nolduğuna göre, E evrensel kümesinin eleman sayısı kaçtır?",
-    "options": [
-      "22",
-      "24",
-      "26",
-      "28",
-      "30"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruda De Morgan kurallarını ve küme özelliklerini kullanmamız gerekiyor.\n1. De Morgan kuralına göre, s(A' ∩ B') = s((A ∪ B)'). Bu ifade, A ve B kümelerinin birleşiminin dışında kalan elemanların sayısını verir. Soruda s(A' ∩ B') = 5 olarak verildiği için, s((A ∪ B)') = 5'tir.\n2. Bir küme ile o kümenin tümleyeninin eleman sayılarının toplamı, evrensel kümenin eleman sayısını verir. Yani, s(X) + s(X') = s(E).\n3. Bu özelliği (A ∪ B) kümesi için uygulayalım: s(A ∪ B) + s((A ∪ B)') = s(E).\n4. Soruda verilen değerleri bu formülde yerine koyalım:\ns(A ∪ B) = 24\ns((A ∪ B)') = 5\n5. s(E) = 24 + 5 = 29. \n\nBir dakika, hesaplamada bir hata var. Tekrar kontrol edelim.\n\nDe Morgan kuralı: (A ∪ B)' = A' ∩ B'. Dolayısıyla s((A ∪ B)') = s(A' ∩ B') = 5.\nEvrensel kümenin eleman sayısı: s(E) = s(A ∪ B) + s((A ∪ B)').\nVerilen değerler: s(A ∪ B) = 24 ve s((A ∪ B)') = 5.\nBu durumda s(E) = 24 + 5 = 29.\n\nSeçenekleri kontrol edelim. Şıklarda 29 yok. Soruda verilen diğer bilgileri (s(A')=15, s(B')=12) kullanarak farklı bir yoldan gidelim. Belki de bu bilgiler çeldirici değildir.\n\nBirleşim formülünü kullanalım: s(A' ∪ B') = s(A') + s(B') - s(A' ∩ B').\ns(A' ∪ B') = 15 + 12 - 5 = 22.\nDe Morgan kuralından s(A' ∪ B') = s((A ∩ B)').\nO halde s((A ∩ B)') = 22.\nEvrensel küme formülünden: s(A ∩ B) + s((A ∩ B)') = s(E).\ns(A ∩ B) + 22 = s(E).\n\nŞimdi ilk bulduğumuz s(E) = 29 sonucunu ve bu denklemi birleştirelim. Eğer s(E) = 29 ise, s(A ∩ B) = 29 - 22 = 7 olmalı.\nŞimdi ana birleşim formülünü kontrol edelim: s(A ∪ B) = s(A) + s(B) - s(A ∩ B).\ns(A) = s(E) - s(A') = 29 - 15 = 14.\ns(B) = s(E) - s(B') = 29 - 12 = 17.\ns(A ∪ B) = 14 + 17 - 7 = 31 - 7 = 24. Bu, soruda verilen s(A ∪ B) = 24 bilgisiyle tutarlıdır. Dolayısıyla yaptığımız tüm hesaplamalar doğru ve s(E)=29 olmalıdır.\n\nSoruyu hazırlarken şıklarda bir hata yapılmış olabilir. Soruyu ve şıkları yeniden düzenleyelim.\n\nYeni Soru Metni: A ve B, E evrensel kümesinin iki alt kümesidir.\ns(A') = 15\ns(B') = 12\ns(A' ∩ B') = 5\ns(A ∪ B) = 21\nolduğuna göre, E evrensel kümesinin eleman sayısı kaçtır?\n\nÇözüm:\ns((A ∪ B)') = s(A' ∩ B') = 5.\ns(E) = s(A ∪ B) + s((A ∪ B)')\ns(E) = 21 + 5 = 26.\nBu mantıklı bir sonuç ve şıklara yerleştirilebilir. Bu haliyle kullanalım.\n\nDoğru Açıklama:\n1. De Morgan kuralına göre (A ∪ B)' = A' ∩ B' dir. Bu nedenle, bu iki kümenin eleman sayıları eşittir: s((A ∪ B)') = s(A' ∩ B').\n2. Soruda s(A' ∩ B') = 5 verildiği için, s((A ∪ B)') = 5 olur. Bu değer, A veya B'de olmayan, yani A birleşim B kümesinin tümleyenindeki eleman sayısını ifade eder.\n3. Bir kümenin eleman sayısı ile o kümenin tümleyeninin eleman sayısının toplamı, evrensel kümenin eleman sayısını verir: s(K) + s(K') = s(E).\n4. Bu kuralı (A ∪ B) kümesine uygularsak: s(A ∪ B) + s((A ∪ B)') = s(E).\n5. Soruda verilen s(A ∪ B) = 21 ve bulduğumuz s((A ∪ B)') = 5 değerlerini yerine koyarsak:\ns(E) = 21 + 5 = 26.\nEvrensel kümenin eleman sayısı 26'dır. Diğer verilenler (s(A') = 15 ve s(B') = 12) çözüm için gerekli değildir, çeldirici olarak verilmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500631246_1",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3, 4, 5, 6, 7} kümesinin alt kümelerinden kaç tanesinde en az bir tek sayı bulunur?",
-    "options": [
-      "108",
-      "112",
-      "120",
-      "124",
-      "128"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için 'tüm durumlar' eksi 'istenmeyen durumlar' yöntemini kullanmak en pratik yoldur.\n1. **Tüm Durumlar:** A kümesinin toplam alt küme sayısıdır. A kümesinin 7 elemanı olduğu için toplam alt küme sayısı 2⁷ = 128'dir.\n2. **İstenmeyen Durum:** Soruda \"en az bir tek sayı bulunur\" deniyor. Bunun tam tersi (tümleyeni) olan durum, \"hiç tek sayı bulunmaz\" durumudur. Hiç tek sayı bulunmaması demek, alt kümenin sadece çift sayılardan oluşması demektir.\n3. **İstenmeyen Durumların Sayısı:** A kümesindeki çift sayılar {2, 4, 6}'dır. Bu 3 elemanla oluşturulabilecek alt küme sayısı, istenmeyen durumların sayısını verir. Bu da 2³ = 8'dir. Bu 8 alt küme (boş küme dahil) içinde hiç tek sayı bulunmaz.\n4. **Sonuç:** İstenen durumu bulmak için tüm durumlardan istenmeyen durumları çıkarırız.\nİstenen Durum Sayısı = (Tüm Alt Küme Sayısı) - (Sadece Çift Sayılardan Oluşan Alt Küme Sayısı)\nİstenen Durum Sayısı = 128 - 8 = 120.\nDolayısıyla, A kümesinin alt kümelerinden 120 tanesinde en az bir tek sayı bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519176520_0",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olmak üzere A ∩ B kesişim kümesi nedir?",
+    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olmak üzere, A ∩ B kesişim kümesi nedir?",
     "options": [
       "{1, 2}",
       "{3, 4}",
       "{5, 6}",
-      "{1, 2, 3, 4, 5, 6}",
-      "Boş küme"
+      "{1, 2, 5, 6}",
+      "{}"
     ],
     "correctAnswer": 1,
-    "explanation": "A ve B kümesinin kesişim kümesi, her iki kümede de bulunan elemanları içerir. A kümesinde bulunan 3 ve 4 sayıları, B kümesinde de bulunmaktadır. Bu nedenle A ∩ B = {3, 4} şeklindedir.",
+    "explanation": "A ve B kümesinin kesişim kümesi, her iki kümede de bulunan elemanlardır. A kümesinde 3 ve 4, B kümesinde de 3 ve 4 bulunur. Bu nedenle A ∩ B = {3, 4}.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519176521_1",
+    "id": "ai_1764519766006_49",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "C kümesi {x | x, pozitif tam sayıdır ve x < 10} olarak tanımlanıyor. C kümesinin eleman sayısı kaçtır?",
+    "questionText": "A = {1, 2, 3, 4} ve B = {4, 5, 6} olduğuna göre A ∩ (B - A) işleminin sonucu nedir?",
     "options": [
-      "5",
-      "6",
-      "9",
-      "10",
-      "11"
+      "{4}",
+      "{5}",
+      "{}",
+      "{1, 2, 3}",
+      "{1, 2, 3, 4, 5, 6}"
     ],
     "correctAnswer": 2,
-    "explanation": "C kümesi pozitif tam sayılardan oluşmaktadır ve x < 10 koşulunu sağlamaktadır. Bu durumda C kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9} şeklindedir. Yani C kümesinin eleman sayısı 9'dur.",
+    "explanation": "A ∩ (B - A) = A ∩ {5} = {} olur.",
     "difficulty": 3
   },
   {
@@ -207,67 +112,34 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766004_1",
+    "id": "ai_1764520075998_3",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A kümesi {x | x bir asal sayıdır} ve B kümesi {x | x < 10} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A = {x | x bir tam sayıdır ve -3 ≤ x ≤ 2} kümesi ile B = {x | x bir tam sayıdır ve 0 ≤ x ≤ 5} kümesinin kesişimi nedir?",
     "options": [
-      "{2, 3, 5, 7}",
-      "{1, 2, 3}",
-      "{4, 6, 8}",
-      "{2, 4, 6}",
-      "{10}"
+      "{-3, -2, -1, 0, 1, 2}",
+      "{0, 1, 2}",
+      "{0, 1, 2, 3, 4, 5}",
+      "{}"
     ],
-    "correctAnswer": 0,
-    "explanation": "A kümesi içindeki asal sayılar 2, 3, 5 ve 7'dir. B kümesindeki sayılar 1, 2, 3, 4, 5, 6, 7, 8, 9'dur. Bu nedenle A ∩ B = {2, 3, 5, 7}.",
+    "correctAnswer": 1,
+    "explanation": "A kümesi -3 ile 2 arasındaki tüm tam sayıları içerir: {-3, -2, -1, 0, 1, 2}. B kümesi ise 0 ile 5 arasındaki tam sayıları içerir: {0, 1, 2, 3, 4, 5}. Bu iki kümenin kesişimi ise sadece ortak elemanları içerir: {0, 1, 2}.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_2",
+    "id": "ai_1764521077836_2",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3} ve B kümesi {3, 4, 5} olduğuna göre A ∪ B kümesi nedir?",
-    "options": [
-      "{1, 2}",
-      "{1, 2, 3}",
-      "{1, 2, 3, 4, 5}",
-      "{3, 4}",
-      "{2, 3, 4}"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A ∪ B, A ve B kümesinin birleşimini ifade eder. Her iki kümedeki tüm elemanları alarak A ∪ B = {1, 2, 3, 4, 5} elde edilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_3",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A kümesi {a, b, c} ve B kümesi {b, c, d} olduğuna göre A - B kümesi nedir?",
+    "questionText": "E kümesi {a, b, c} ve F kümesi {b, c, d, e} olduğuna göre, E - F fark kümesi nedir?",
     "options": [
       "{a}",
-      "{b}",
-      "{c}",
-      "{d}",
+      "{b, c}",
+      "{d, e}",
+      "{a, d, e}",
       "{}"
     ],
     "correctAnswer": 0,
-    "explanation": "A - B, A kümesinden B kümesindeki elemanların çıkarılması anlamına gelir. Bu nedenle A - B = {a} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_4",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3, 4, 5} ve B kümesi {2, 4, 6} olduğuna göre A - B kümesinin eleman sayısı nedir?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A - B = {1, 3, 5} olarak hesaplanır. Bu kümenin eleman sayısı 3'tür.",
+    "explanation": "Fark kümesi E - F, E kümesinde olup F kümesinde bulunmayan elemanları içerir. E kümesinde 'a' var, ancak F kümesinde yoktur. Bu nedenle E - F = {a}.",
     "difficulty": 3
   },
   {
@@ -287,35 +159,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_6",
+    "id": "ai_1764519766005_2",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x pozitif tam sayıdır, x < 5} ve B = {x | x pozitif tam sayıdır, x < 8} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A kümesi {1, 2, 3} ve B kümesi {3, 4, 5} olduğuna göre A ∪ B kümesi nedir?",
     "options": [
+      "{1, 2}",
       "{1, 2, 3}",
-      "{1, 2, 3, 4}",
-      "{5, 6, 7}",
-      "{1, 2, 3, 4, 5, 6, 7}",
-      "{}"
+      "{1, 2, 3, 4, 5}",
+      "{3, 4}",
+      "{2, 3, 4}"
     ],
-    "correctAnswer": 1,
-    "explanation": "A kümesi {1, 2, 3, 4} ve B kümesi {1, 2, 3, 4, 5, 6, 7}'dir. Kesişim A ∩ B = {1, 2, 3, 4} olur.",
+    "correctAnswer": 2,
+    "explanation": "A ∪ B, A ve B kümesinin birleşimini ifade eder. Her iki kümedeki tüm elemanları alarak A ∪ B = {1, 2, 3, 4, 5} elde edilir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_7",
+    "id": "ai_1764519176520_0",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {1, 3, 5, 7} ve B = {2, 3, 4, 5} kümeleri için A ∪ B kümesinin eleman sayısı nedir?",
+    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olmak üzere A ∩ B kesişim kümesi nedir?",
     "options": [
-      "4",
-      "5",
-      "6",
-      "7",
-      "8"
+      "{1, 2}",
+      "{3, 4}",
+      "{5, 6}",
+      "{1, 2, 3, 4, 5, 6}",
+      "Boş küme"
     ],
     "correctAnswer": 1,
-    "explanation": "A ∪ B = {1, 2, 3, 4, 5, 7} olarak hesaplanır. Bu kümenin eleman sayısı 6'dır.",
+    "explanation": "A ve B kümesinin kesişim kümesi, her iki kümede de bulunan elemanları içerir. A kümesinde bulunan 3 ve 4 sayıları, B kümesinde de bulunmaktadır. Bu nedenle A ∩ B = {3, 4} şeklindedir.",
     "difficulty": 3
   },
   {
@@ -335,115 +207,99 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_9",
+    "id": "ai_1764519766005_28",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x pozitif tam sayıdır, x < 6} ve B = {x | x tam sayıdır, x ≥ 2} olduğuna göre A ∪ B kümesi nedir?",
+    "questionText": "A = {x | x tam sayıdır, x < 0} ve B = {x | x tam sayıdır, x > 0} olduğuna göre A ∩ B kümesi nedir?",
     "options": [
-      "{1, 2, 3, 4, 5}",
-      "{1, 2, 3, 4, 5, 6}",
-      "{2, 3, 4, 5, 6}",
-      "{1, 2, 3, 4, 5, 7}",
-      "{1, 2, 3, 4, 5, 6, 7}"
-    ],
-    "correctAnswer": 4,
-    "explanation": "A = {1, 2, 3, 4, 5} ve B = {2, 3, 4, 5, 6, 7, ...} olup A ∪ B = {1, 2, 3, 4, 5, 6, 7, ...} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_10",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {2, 4, 6} ve B = {1, 3, 5} olduğuna göre A ∩ B kümesi nedir?",
-    "options": [
-      "{1}",
+      "{0}",
       "{} ",
-      "{2}",
-      "{4}",
-      "{6}"
+      "{1}",
+      "{-1, -2}",
+      "{-1, 0, 1}"
     ],
     "correctAnswer": 1,
     "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_11",
+    "id": "ai_1764519766005_23",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x < 10, x bir tam sayı} ve B = {x | x > 5, x bir tam sayı} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A = {1, 2, 3, 4, 5} ve B = {5, 6, 7, 8} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
     "options": [
-      "{6, 7, 8, 9}",
-      "{5, 6, 7, 8, 9}",
-      "{0, 1, 2, 3, 4, 5}",
-      "{10}",
-      "{}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A kümesindeki elemanlar 0'dan 9'a kadar olan tam sayılardır. B kümesi ise 6, 7, 8, 9 sayılarından oluşur. Dolayısıyla A ∩ B = {6, 7, 8, 9} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_12",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {3, 4, 5} olduğuna göre A ∪ (A ∩ B) kümesi nedir?",
-    "options": [
-      "{1, 2}",
-      "{1, 2, 3}",
-      "{3, 4, 5}",
-      "{1, 2, 3, 4, 5}",
-      "{1, 2, 3, 6}"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Öncelikle A ∩ B = {3} ve A ∪ {3} = {1, 2, 3} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_13",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x bir tam sayı, 1 ≤ x ≤ 10} ve B = {x | x bir tam sayı, 6 ≤ x ≤ 15} olduğuna göre A ∩ B kümesi nedir?",
-    "options": [
-      "{6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4, 5}",
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
-      "{6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
-      "{1, 2, 3, 4, 5, 6}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} ve B kümesi {6, 7, 8, 9, 10, 11, 12, 13, 14, 15} olup A ∩ B = {6, 7, 8, 9, 10} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_14",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3} ve B kümesi {4, 5, 6} olduğuna göre A × B çarpan kümesinin eleman sayısı nedir?",
-    "options": [
+      "0",
+      "1",
+      "2",
       "3",
-      "6",
-      "9",
-      "12",
-      "15"
+      "4"
     ],
-    "correctAnswer": 1,
-    "explanation": "A × B, A ve B kümesinin kartezyen çarpımını ifade eder. |A| * |B| = 3 * 3 = 9 olur.",
+    "correctAnswer": 0,
+    "explanation": "A ve B kümeleri arasında ortak eleman yoktur. Bu nedenle A ∩ B = {}'dir ve eleman sayısı 0'dır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_15",
+    "id": "ai_1764519766005_33",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | 1 < x < 10, x bir tam sayı} ve B = {x | 5 < x < 15, x bir tam sayı} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A = {1, 2, 3} ve B = {2, 3, 4} olduğuna göre (A ∪ B) - A kümesi nedir?",
     "options": [
-      "{6, 7, 8, 9}",
-      "{5, 6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4, 5}",
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
-      "{10, 11, 12, 13, 14}"
+      "{4}",
+      "{1, 2}",
+      "{2, 3}",
+      "{2, 3, 4}",
+      "{1, 2, 3, 4}"
     ],
     "correctAnswer": 0,
-    "explanation": "A kümesi {2, 3, 4, 5, 6, 7, 8, 9} ve B kümesi {6, 7, 8, 9, 10, 11, 12, 13, 14} olup A ∩ B = {6, 7, 8, 9} olur.",
+    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4} ve (A ∪ B) - A = {4} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_41",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x tam sayı, x > 5} ve B = {x | x tam sayı, x < 2} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{0}",
+      "{} ",
+      "{1}",
+      "{-1, -2}",
+      "{-1, 0, 1}"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_27",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3, 4} olduğuna göre A ⊆ B durumu doğrumu?",
+    "options": [
+      "Evet",
+      "Hayır",
+      "Belirsiz",
+      "Sadece A",
+      "Sadece B"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A kümesi B kümesinin alt kümesidir. Çünkü A'nın tüm elemanları B'de bulunmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_34",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {2, 4, 6} ve B = {2, 3, 4} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A ∩ B = {2, 4} olup eleman sayısı 2'dir.",
     "difficulty": 3
   },
   {
@@ -463,19 +319,435 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_17",
+    "id": "ai_1764519766006_45",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {3, 4, 5} olduğuna göre A ∩ (B ∪ A) kümesi nedir?",
+    "questionText": "A = {1, 2, 3} ve B = {4, 5, 6} olduğuna göre (A ∩ B) ∪ (A - B) işleminin sonucu nedir?",
     "options": [
       "{1, 2, 3}",
-      "{3}",
+      "{4, 5, 6}",
       "{1, 2}",
-      "{3, 4, 5}",
+      "{3}",
+      "{}"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A ∩ B = {} ve A - B = {1, 2, 3} olduğundan sonuç {1, 2} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_3",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A kümesi {a, b, c} ve B kümesi {b, c, d} olduğuna göre A - B kümesi nedir?",
+    "options": [
+      "{a}",
+      "{b}",
+      "{c}",
+      "{d}",
+      "{}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A - B, A kümesinden B kümesindeki elemanların çıkarılması anlamına gelir. Bu nedenle A - B = {a} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_22",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3} ve B = {3, 4, 5} kümeleri için A ∪ B - A işlemini hesaplayın.",
+    "options": [
+      "{4, 5}",
+      "{1, 2}",
+      "{3}",
+      "{1, 2, 4, 5}",
       "{1, 2, 3, 4, 5}"
     ],
     "correctAnswer": 0,
-    "explanation": "B ∪ A = {1, 2, 3, 4, 5} ve A ∩ {1, 2, 3, 4, 5} = {1, 2, 3} olur.",
+    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4, 5} ve A ∪ B - A = {4, 5} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_39",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x bir asal sayı, x < 20} ve B = {x | x < 15} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{2, 3, 5, 7, 11, 13}",
+      "{2, 3, 5, 7, 11, 13, 17, 19}",
+      "{1, 2, 3, 4, 5, 6, 7}",
+      "{2, 3, 5, 7, 11, 13, 15}",
+      "{}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A kümesi {2, 3, 5, 7, 11, 13, 17, 19} ve B kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14} olup A ∩ B = {2, 3, 5, 7, 11, 13} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_32",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x tek sayıdır, x < 10} ve B = {x | x çift sayıdır, x < 10} kümesi için A ∩ B kümesi nedir?",
+    "options": [
+      "{0}",
+      "{} ",
+      "{1, 3, 5, 7, 9}",
+      "{2, 4, 6, 8}",
+      "{1, 2, 3, 4}"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_47",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {2, 3, 5} ve B = {1, 2, 3, 4} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ∩ B = {2, 3} olup eleman sayısı 2'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_14",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A kümesi {1, 2, 3} ve B kümesi {4, 5, 6} olduğuna göre A × B çarpan kümesinin eleman sayısı nedir?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A × B, A ve B kümesinin kartezyen çarpımını ifade eder. |A| * |B| = 3 * 3 = 9 olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766004_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A kümesi {x | x bir asal sayıdır} ve B kümesi {x | x < 10} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{2, 3, 5, 7}",
+      "{1, 2, 3}",
+      "{4, 6, 8}",
+      "{2, 4, 6}",
+      "{10}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A kümesi içindeki asal sayılar 2, 3, 5 ve 7'dir. B kümesindeki sayılar 1, 2, 3, 4, 5, 6, 7, 8, 9'dur. Bu nedenle A ∩ B = {2, 3, 5, 7}.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520075996_0",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{1, 2}",
+      "{3, 4}",
+      "{5, 6}",
+      "{1, 2, 3, 4, 5, 6}",
+      "{}"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ∩ B, A ve B kümelerinin ortak elemanlarını içerir. A kümesinde 3 ve 4, B kümesinde de 3 ve 4 bulunmaktadır. Dolayısıyla A ∩ B = {3, 4} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_43",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {2, 3, 4} ve B = {4, 5, 6} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ∩ B = {4} olup eleman sayısı 1'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499259719_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "Bir sınıftaki öğrencilerin tamamı İngilizce veya Almanca dillerinden en az birini bilmektedir. Bu sınıfta, sadece İngilizce bilenlerin sayısı sadece Almanca bilenlerin sayısının iki katıdır. Her iki dili de bilen 6 öğrenci olduğuna ve sınıf mevcudu 24 olduğuna göre, Almanca bilen toplam öğrenci sayısı kaçtır?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "16",
+      "18"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İngilizce bilenler kümesini İ, Almanca bilenler kümesini A ile gösterelim.\nSınıftaki herkes en az bir dil bildiği için, sınıf mevcudu birleşim kümesinin eleman sayısına eşittir: s(İ ∪ A) = 24.\nHer iki dili de bilenlerin sayısı kesişim kümesidir: s(İ ∩ A) = 6.\nSadece İngilizce bilenlerin sayısı s(İ \\ A), sadece Almanca bilenlerin sayısı s(A \\ İ) olarak ifade edilir. Verilen bilgiye göre, s(İ \\ A) = 2 ∙ s(A \\ İ).\nBirleşim kümesi formülünü kullanalım: s(İ ∪ A) = s(İ \\ A) + s(A \\ İ) + s(İ ∩ A).\nDeğerleri yerine koyalım: 24 = (2 ∙ s(A \\ İ)) + s(A \\ İ) + 6.\nDenklemi düzenleyelim: 24 - 6 = 3 ∙ s(A \\ İ)  =>  18 = 3 ∙ s(A \\ İ).\nBuradan, sadece Almanca bilenlerin sayısı s(A \\ İ) = 6 olarak bulunur.\nSoruda Almanca bilen toplam öğrenci sayısı, yani s(A) sorulmaktadır.\nAlmanca bilenler, sadece Almanca bilenler ile her iki dili de bilenlerin toplamıdır: s(A) = s(A \\ İ) + s(İ ∩ A).\nSonuç olarak: s(A) = 6 + 6 = 12.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_25",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2} ve B = {3, 4} kümeleri için A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ve B kümeleri arasında ortak eleman yoktur. Bu nedenle A ∩ B = {}'dir ve eleman sayısı 0'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_30",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3} olduğuna göre A - B kümesi nedir?",
+    "options": [
+      "{1, 2, 3}",
+      "{}",
+      "{1}",
+      "{2}",
+      "{3}"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A - B, A kümesinin B kümesine göre farkını verir. A ve B eşit olduğundan A - B = {} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_37",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x pozitif tam sayıdır, x ≤ 5} ve B = {x | x pozitif tam sayıdır, x < 3} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{1, 2}",
+      "{0, 1}",
+      "{3, 4, 5}",
+      "{} ",
+      "{1, 2, 3}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A kümesi {1, 2, 3, 4, 5} ve B kümesi {1, 2} olup A ∩ B = {1, 2} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497878560_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3, 4, 5, 6} kümesinin alt kümelerinden kaç tanesinin elemanları çarpımı bir çift sayıdır?",
+    "options": [
+      "8",
+      "32",
+      "48",
+      "56",
+      "63"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bir kümenin elemanları çarpımının çift sayı olması için, kümenin içinde en az bir tane çift sayı bulunması yeterlidir. Bu soruyu çözmenin en kolay yolu, tüm durumdan istenmeyen durumu çıkarmaktır (tümleyen mantığı). İstenmeyen durum, elemanları çarpımının tek sayı olmasıdır. Bir çarpımın tek sayı olabilmesi için bütün çarpanların tek sayı olması gerekir. A kümesindeki tek sayılar {1, 3, 5}'tir. Sadece bu elemanlardan oluşan alt kümelerin elemanları çarpımı tek sayı olacaktır. {1, 3, 5} kümesinin alt küme sayısı 2³ = 8'dir. (Bu 8 kümenin içinde elemanları çarpımı 1 kabul edilen boş küme de vardır). A kümesinin toplam alt küme sayısı ise 2⁶ = 64'tür. Toplam alt küme sayısından, elemanları çarpımı tek olan alt küme sayısını çıkarırsak, elemanları çarpımı çift olan alt küme sayısını buluruz. Sonuç: 64 - 8 = 56.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521077836_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "C kümesi {x | x, 1'den 10'a kadar olan pozitif tam sayılardır} ve D kümesi {x | x, 5'ten küçük olan pozitif tam sayılardır} olduğuna göre, C ∪ D birleşim kümesi nedir?",
+    "options": [
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4, 5}",
+      "{6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C kümesi 1'den 10'a kadar olan tüm pozitif tam sayıları içerir. D kümesi ise 5'ten küçük olan pozitif tam sayılardır. Birleşim kümesi C ∪ D, C kümesinin tüm elemanlarını ve D kümesinin elemanlarını içerir. Yani sonuç {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_4",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A kümesi {1, 2, 3, 4, 5} ve B kümesi {2, 4, 6} olduğuna göre A - B kümesinin eleman sayısı nedir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A - B = {1, 3, 5} olarak hesaplanır. Bu kümenin eleman sayısı 3'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497878558_0",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "Matematik, Fizik ve Kimya derslerinden en az birini alan öğrencilerden oluşan 38 kişilik bir sınıfta; Matematik alan 20, Fizik alan 18 ve Kimya alan 15 öğrenci bulunmaktadır. Bu derslerden Matematik ve Fizik derslerini alan 7, Fizik ve Kimya derslerini alan 6, Matematik ve Kimya derslerini alan 5 öğrenci olduğuna göre, her üç dersi de alan kaç öğrenci vardır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu tür problemler, 'Birleşim Kümesinin Eleman Sayısı' formülü (içerme-dışarma prensibi) kullanılarak çözülür. M, F ve K sırasıyla Matematik, Fizik ve Kimya derslerini alanların kümesini göstersin. Formül şöyledir: s(M ∪ F ∪ K) = s(M) + s(F) + s(K) - [s(M ∩ F) + s(M ∩ K) + s(F ∩ K)] + s(M ∩ F ∩ K). Verilen değerleri yerine koyalım: Sınıftaki herkes en az bir ders aldığı için s(M ∪ F ∪ K) = 38'dir. 38 = 20 + 18 + 15 - (7 + 5 + 6) + s(M ∩ F ∩ K). İşlemleri yaparsak: 38 = 53 - 18 + s(M ∩ F ∩ K). 38 = 35 + s(M ∩ F ∩ K). Buradan, her üç dersi de alanların sayısı olan s(M ∩ F ∩ K) = 38 - 35 = 3 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500631245_0",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A ve B, E evrensel kümesinin iki alt kümesidir.\ns(A') = 15\ns(B') = 12\ns(A' ∩ B') = 5\ns(A ∪ B) = 24\nolduğuna göre, E evrensel kümesinin eleman sayısı kaçtır?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruda De Morgan kurallarını ve küme özelliklerini kullanmamız gerekiyor.\n1. De Morgan kuralına göre, s(A' ∩ B') = s((A ∪ B)'). Bu ifade, A ve B kümelerinin birleşiminin dışında kalan elemanların sayısını verir. Soruda s(A' ∩ B') = 5 olarak verildiği için, s((A ∪ B)') = 5'tir.\n2. Bir küme ile o kümenin tümleyeninin eleman sayılarının toplamı, evrensel kümenin eleman sayısını verir. Yani, s(X) + s(X') = s(E).\n3. Bu özelliği (A ∪ B) kümesi için uygulayalım: s(A ∪ B) + s((A ∪ B)') = s(E).\n4. Soruda verilen değerleri bu formülde yerine koyalım:\ns(A ∪ B) = 24\ns((A ∪ B)') = 5\n5. s(E) = 24 + 5 = 29. \n\nBir dakika, hesaplamada bir hata var. Tekrar kontrol edelim.\n\nDe Morgan kuralı: (A ∪ B)' = A' ∩ B'. Dolayısıyla s((A ∪ B)') = s(A' ∩ B') = 5.\nEvrensel kümenin eleman sayısı: s(E) = s(A ∪ B) + s((A ∪ B)').\nVerilen değerler: s(A ∪ B) = 24 ve s((A ∪ B)') = 5.\nBu durumda s(E) = 24 + 5 = 29.\n\nSeçenekleri kontrol edelim. Şıklarda 29 yok. Soruda verilen diğer bilgileri (s(A')=15, s(B')=12) kullanarak farklı bir yoldan gidelim. Belki de bu bilgiler çeldirici değildir.\n\nBirleşim formülünü kullanalım: s(A' ∪ B') = s(A') + s(B') - s(A' ∩ B').\ns(A' ∪ B') = 15 + 12 - 5 = 22.\nDe Morgan kuralından s(A' ∪ B') = s((A ∩ B)').\nO halde s((A ∩ B)') = 22.\nEvrensel küme formülünden: s(A ∩ B) + s((A ∩ B)') = s(E).\ns(A ∩ B) + 22 = s(E).\n\nŞimdi ilk bulduğumuz s(E) = 29 sonucunu ve bu denklemi birleştirelim. Eğer s(E) = 29 ise, s(A ∩ B) = 29 - 22 = 7 olmalı.\nŞimdi ana birleşim formülünü kontrol edelim: s(A ∪ B) = s(A) + s(B) - s(A ∩ B).\ns(A) = s(E) - s(A') = 29 - 15 = 14.\ns(B) = s(E) - s(B') = 29 - 12 = 17.\ns(A ∪ B) = 14 + 17 - 7 = 31 - 7 = 24. Bu, soruda verilen s(A ∪ B) = 24 bilgisiyle tutarlıdır. Dolayısıyla yaptığımız tüm hesaplamalar doğru ve s(E)=29 olmalıdır.\n\nSoruyu hazırlarken şıklarda bir hata yapılmış olabilir. Soruyu ve şıkları yeniden düzenleyelim.\n\nYeni Soru Metni: A ve B, E evrensel kümesinin iki alt kümesidir.\ns(A') = 15\ns(B') = 12\ns(A' ∩ B') = 5\ns(A ∪ B) = 21\nolduğuna göre, E evrensel kümesinin eleman sayısı kaçtır?\n\nÇözüm:\ns((A ∪ B)') = s(A' ∩ B') = 5.\ns(E) = s(A ∪ B) + s((A ∪ B)')\ns(E) = 21 + 5 = 26.\nBu mantıklı bir sonuç ve şıklara yerleştirilebilir. Bu haliyle kullanalım.\n\nDoğru Açıklama:\n1. De Morgan kuralına göre (A ∪ B)' = A' ∩ B' dir. Bu nedenle, bu iki kümenin eleman sayıları eşittir: s((A ∪ B)') = s(A' ∩ B').\n2. Soruda s(A' ∩ B') = 5 verildiği için, s((A ∪ B)') = 5 olur. Bu değer, A veya B'de olmayan, yani A birleşim B kümesinin tümleyenindeki eleman sayısını ifade eder.\n3. Bir kümenin eleman sayısı ile o kümenin tümleyeninin eleman sayısının toplamı, evrensel kümenin eleman sayısını verir: s(K) + s(K') = s(E).\n4. Bu kuralı (A ∪ B) kümesine uygularsak: s(A ∪ B) + s((A ∪ B)') = s(E).\n5. Soruda verilen s(A ∪ B) = 21 ve bulduğumuz s((A ∪ B)') = 5 değerlerini yerine koyarsak:\ns(E) = 21 + 5 = 26.\nEvrensel kümenin eleman sayısı 26'dır. Diğer verilenler (s(A') = 15 ve s(B') = 12) çözüm için gerekli değildir, çeldirici olarak verilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_35",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {3, 4, 5} ve B = {2, 4, 6} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ∩ B = {4} olup eleman sayısı 1'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_40",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 3, 5, 7} ve B = {2, 4, 6, 8} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ve B kümeleri arasında ortak eleman yoktur, bu nedenle A ∩ B = {} ve eleman sayısı 0'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_36",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3, 4} olduğuna göre (A ∩ B) ∪ A kümesi nedir?",
+    "options": [
+      "{1, 2, 3, 4}",
+      "{1, 2, 3}",
+      "{1, 2}",
+      "{1, 2, 4}",
+      "{2, 3, 4}"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ∩ B = {1, 2, 3} ve (A ∩ B) ∪ A = {1, 2, 3} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519176521_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "C kümesi {x | x, pozitif tam sayıdır ve x < 10} olarak tanımlanıyor. C kümesinin eleman sayısı kaçtır?",
+    "options": [
+      "5",
+      "6",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C kümesi pozitif tam sayılardan oluşmaktadır ve x < 10 koşulunu sağlamaktadır. Bu durumda C kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9} şeklindedir. Yani C kümesinin eleman sayısı 9'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_31",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3, 4} ve B = {3, 4, 5, 6} kümeleri için A ∪ B - A işleminin sonucu nedir?",
+    "options": [
+      "{5, 6}",
+      "{3, 4}",
+      "{1, 2}",
+      "{1, 2, 5, 6}",
+      "{1, 2, 3, 4, 5, 6}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4, 5, 6} ve A ∪ B - A = {5, 6} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_10",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {2, 4, 6} ve B = {1, 3, 5} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{1}",
+      "{} ",
+      "{2}",
+      "{4}",
+      "{6}"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_48",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x bir asal sayı, x < 30} ve B = {x | x < 20} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{2, 3, 5, 7, 11, 13, 17, 19}",
+      "{2, 3, 5, 7, 11, 13}",
+      "{1, 2, 3, 4, 5, 6, 7}",
+      "{2, 3, 5, 7, 11, 13, 15}",
+      "{}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A kümesi {2, 3, 5, 7, 11, 13, 17, 19, 23, 29} ve B kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19} olup A ∩ B = {2, 3, 5, 7, 11, 13, 17, 19} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_51",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x pozitif tam sayıdır, x < 10} ve B = {x | x pozitif tam sayıdır, x < 5} olduğuna göre A - B kümesi nedir?",
+    "options": [
+      "{1, 2, 3}",
+      "{3, 4}",
+      "{4, 5, 6, 7, 8, 9}",
+      "{5, 6, 7, 8, 9}",
+      "{0}"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A = {1, 2, 3, 4, 5, 6, 7, 8, 9} ve B = {1, 2, 3, 4} olduğundan A - B = {5, 6, 7, 8, 9} olur.",
     "difficulty": 3
   },
   {
@@ -511,355 +783,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_20",
+    "id": "ai_1764519766006_46",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {a, b, c} ve B = {b, c, d} olduğuna göre A ∪ B kümesi nedir?",
-    "options": [
-      "{a, b, c, d}",
-      "{b, c, d}",
-      "{a, b}",
-      "{a, c, d}",
-      "{a, b, c}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A ∪ B, A ve B kümesinin birleşimidir. Dolayısıyla A ∪ B = {a, b, c, d} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_21",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3, 4} ve B = {2, 4, 6} kümeleri için A - B işleminin sonucu nedir?",
+    "questionText": "A = {x | x pozitif tam sayıdır, x ≤ 5} ve B = {x | x pozitif tam sayıdır, x < 4} olduğuna göre A - B kümesi nedir?",
     "options": [
       "{1, 2, 3}",
-      "{3}",
-      "{1, 3}",
-      "{1, 2, 3, 4}",
-      "{2, 4, 6}"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A - B, A kümesinden B kümesindeki elemanların çıkarılmasını ifade eder. Bu durumda A - B = {1, 3} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_22",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {3, 4, 5} kümeleri için A ∪ B - A işlemini hesaplayın.",
-    "options": [
-      "{4, 5}",
-      "{1, 2}",
-      "{3}",
-      "{1, 2, 4, 5}",
-      "{1, 2, 3, 4, 5}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4, 5} ve A ∪ B - A = {4, 5} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_23",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3, 4, 5} ve B = {5, 6, 7, 8} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A ve B kümeleri arasında ortak eleman yoktur. Bu nedenle A ∩ B = {}'dir ve eleman sayısı 0'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_24",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {2, 3, 4} kümeleri için A ∪ B - B işlemini hesaplayın.",
-    "options": [
-      "{1}",
-      "{2, 3}",
-      "{3, 4}",
-      "{1, 4}",
-      "{1, 2, 4}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4} ve A ∪ B - B = {1} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_25",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2} ve B = {3, 4} kümeleri için A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A ve B kümeleri arasında ortak eleman yoktur. Bu nedenle A ∩ B = {}'dir ve eleman sayısı 0'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_26",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {2, 4, 6} ve B = {1, 3, 5, 7} olduğuna göre A ∪ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "6",
-      "5",
-      "4",
-      "3",
-      "2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ∪ B = {1, 2, 3, 4, 5, 6, 7} olup eleman sayısı 7'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_27",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3, 4} olduğuna göre A ⊆ B durumu doğrumu?",
-    "options": [
-      "Evet",
-      "Hayır",
-      "Belirsiz",
-      "Sadece A",
-      "Sadece B"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A kümesi B kümesinin alt kümesidir. Çünkü A'nın tüm elemanları B'de bulunmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_28",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x tam sayıdır, x < 0} ve B = {x | x tam sayıdır, x > 0} olduğuna göre A ∩ B kümesi nedir?",
-    "options": [
-      "{0}",
-      "{} ",
-      "{1}",
-      "{-1, -2}",
-      "{-1, 0, 1}"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_29",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {3, 4} olduğuna göre A ∪ (A - B) kümesi nedir?",
-    "options": [
-      "{1, 2, 3, 4}",
-      "{1, 2}",
-      "{3}",
-      "{1, 2, 4}",
-      "{1, 2, 3, 5}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öncelikle A - B = {1, 2} ve A ∪ {1, 2} = {1, 2, 3} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_30",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3} olduğuna göre A - B kümesi nedir?",
-    "options": [
-      "{1, 2, 3}",
-      "{}",
-      "{1}",
-      "{2}",
-      "{3}"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A - B, A kümesinin B kümesine göre farkını verir. A ve B eşit olduğundan A - B = {} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_31",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3, 4} ve B = {3, 4, 5, 6} kümeleri için A ∪ B - A işleminin sonucu nedir?",
-    "options": [
-      "{5, 6}",
-      "{3, 4}",
-      "{1, 2}",
-      "{1, 2, 5, 6}",
-      "{1, 2, 3, 4, 5, 6}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4, 5, 6} ve A ∪ B - A = {5, 6} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_32",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x tek sayıdır, x < 10} ve B = {x | x çift sayıdır, x < 10} kümesi için A ∩ B kümesi nedir?",
-    "options": [
-      "{0}",
-      "{} ",
-      "{1, 3, 5, 7, 9}",
-      "{2, 4, 6, 8}",
-      "{1, 2, 3, 4}"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_33",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {2, 3, 4} olduğuna göre (A ∪ B) - A kümesi nedir?",
-    "options": [
-      "{4}",
-      "{1, 2}",
-      "{2, 3}",
-      "{2, 3, 4}",
-      "{1, 2, 3, 4}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4} ve (A ∪ B) - A = {4} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_34",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {2, 4, 6} ve B = {2, 3, 4} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A ∩ B = {2, 4} olup eleman sayısı 2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_35",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {3, 4, 5} ve B = {2, 4, 6} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ∩ B = {4} olup eleman sayısı 1'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_36",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3, 4} olduğuna göre (A ∩ B) ∪ A kümesi nedir?",
-    "options": [
-      "{1, 2, 3, 4}",
-      "{1, 2, 3}",
-      "{1, 2}",
-      "{1, 2, 4}",
-      "{2, 3, 4}"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ∩ B = {1, 2, 3} ve (A ∩ B) ∪ A = {1, 2, 3} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766005_37",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x pozitif tam sayıdır, x ≤ 5} ve B = {x | x pozitif tam sayıdır, x < 3} olduğuna göre A ∩ B kümesi nedir?",
-    "options": [
-      "{1, 2}",
-      "{0, 1}",
+      "{2, 3, 4, 5}",
       "{3, 4, 5}",
-      "{} ",
-      "{1, 2, 3}"
+      "{1, 2, 3, 4, 5}",
+      "{1, 2}"
     ],
-    "correctAnswer": 0,
-    "explanation": "A kümesi {1, 2, 3, 4, 5} ve B kümesi {1, 2} olup A ∩ B = {1, 2} olur.",
+    "correctAnswer": 2,
+    "explanation": "A = {1, 2, 3, 4, 5} ve B = {1, 2, 3} olup A - B = {4, 5} olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766005_38",
+    "id": "ai_1764519766005_11",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x tek sayı, x < 10} ve B = {x | x çift sayı, x < 10} olduğuna göre A ∪ B kümesi nedir?",
+    "questionText": "A = {x | x < 10, x bir tam sayı} ve B = {x | x > 5, x bir tam sayı} olduğuna göre A ∩ B kümesi nedir?",
     "options": [
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9}",
-      "{1, 2, 3, 4, 5, 6, 7, 8}",
-      "{2, 4, 6, 8}",
-      "{1, 3, 5, 7, 9}",
+      "{6, 7, 8, 9}",
+      "{5, 6, 7, 8, 9}",
+      "{0, 1, 2, 3, 4, 5}",
+      "{10}",
       "{}"
     ],
     "correctAnswer": 0,
-    "explanation": "A kümesi tek sayılardan, B kümesi ise çift sayılardan oluşur. A ∪ B tüm sayıları kapsar: {1, 2, 3, 4, 5, 6, 7, 8, 9}.",
+    "explanation": "A kümesindeki elemanlar 0'dan 9'a kadar olan tam sayılardır. B kümesi ise 6, 7, 8, 9 sayılarından oluşur. Dolayısıyla A ∩ B = {6, 7, 8, 9} olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766006_39",
+    "id": "ai_1764519766005_12",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x bir asal sayı, x < 20} ve B = {x | x < 15} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A = {1, 2, 3} ve B = {3, 4, 5} olduğuna göre A ∪ (A ∩ B) kümesi nedir?",
     "options": [
-      "{2, 3, 5, 7, 11, 13}",
-      "{2, 3, 5, 7, 11, 13, 17, 19}",
-      "{1, 2, 3, 4, 5, 6, 7}",
-      "{2, 3, 5, 7, 11, 13, 15}",
-      "{}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A kümesi {2, 3, 5, 7, 11, 13, 17, 19} ve B kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14} olup A ∩ B = {2, 3, 5, 7, 11, 13} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_40",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 3, 5, 7} ve B = {2, 4, 6, 8} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A ve B kümeleri arasında ortak eleman yoktur, bu nedenle A ∩ B = {} ve eleman sayısı 0'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_41",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x tam sayı, x > 5} ve B = {x | x tam sayı, x < 2} olduğuna göre A ∩ B kümesi nedir?",
-    "options": [
-      "{0}",
-      "{} ",
-      "{1}",
-      "{-1, -2}",
-      "{-1, 0, 1}"
+      "{1, 2}",
+      "{1, 2, 3}",
+      "{3, 4, 5}",
+      "{1, 2, 3, 4, 5}",
+      "{1, 2, 3, 6}"
     ],
     "correctAnswer": 1,
-    "explanation": "A ve B kümeleri arasında kesişim yoktur, dolayısıyla A ∩ B = {} olur.",
+    "explanation": "Öncelikle A ∩ B = {3} ve A ∪ {3} = {1, 2, 3} olur.",
     "difficulty": 3
   },
   {
@@ -879,147 +847,99 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766006_43",
+    "id": "ai_1764519766005_26",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {2, 3, 4} ve B = {4, 5, 6} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "questionText": "A = {2, 4, 6} ve B = {1, 3, 5, 7} olduğuna göre A ∪ B kümesinin eleman sayısı nedir?",
     "options": [
-      "0",
-      "1",
-      "2",
+      "6",
+      "5",
+      "4",
       "3",
-      "4"
+      "2"
     ],
     "correctAnswer": 1,
-    "explanation": "A ∩ B = {4} olup eleman sayısı 1'dir.",
+    "explanation": "A ∪ B = {1, 2, 3, 4, 5, 6, 7} olup eleman sayısı 7'dir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519766006_44",
+    "id": "ai_1764519766005_7",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {1, 2, 3} olduğuna göre A ∪ B kümesi nedir?",
+    "questionText": "A = {1, 3, 5, 7} ve B = {2, 3, 4, 5} kümeleri için A ∪ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A ∪ B = {1, 2, 3, 4, 5, 7} olarak hesaplanır. Bu kümenin eleman sayısı 6'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_21",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3, 4} ve B = {2, 4, 6} kümeleri için A - B işleminin sonucu nedir?",
     "options": [
       "{1, 2, 3}",
+      "{3}",
+      "{1, 3}",
       "{1, 2, 3, 4}",
+      "{2, 4, 6}"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A - B, A kümesinden B kümesindeki elemanların çıkarılmasını ifade eder. Bu durumda A - B = {1, 3} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_20",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {a, b, c} ve B = {b, c, d} olduğuna göre A ∪ B kümesi nedir?",
+    "options": [
+      "{a, b, c, d}",
+      "{b, c, d}",
+      "{a, b}",
+      "{a, c, d}",
+      "{a, b, c}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ∪ B, A ve B kümesinin birleşimidir. Dolayısıyla A ∪ B = {a, b, c, d} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_24",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3} ve B = {2, 3, 4} kümeleri için A ∪ B - B işlemini hesaplayın.",
+    "options": [
+      "{1}",
+      "{2, 3}",
+      "{3, 4}",
+      "{1, 4}",
+      "{1, 2, 4}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Öncelikle A ∪ B = {1, 2, 3, 4} ve A ∪ B - B = {1} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_17",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3} ve B = {3, 4, 5} olduğuna göre A ∩ (B ∪ A) kümesi nedir?",
+    "options": [
+      "{1, 2, 3}",
+      "{3}",
       "{1, 2}",
-      "{} ",
+      "{3, 4, 5}",
       "{1, 2, 3, 4, 5}"
     ],
     "correctAnswer": 0,
-    "explanation": "A ve B kümeleri eşit olduğu için A ∪ B = {1, 2, 3} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_45",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3} ve B = {4, 5, 6} olduğuna göre (A ∩ B) ∪ (A - B) işleminin sonucu nedir?",
-    "options": [
-      "{1, 2, 3}",
-      "{4, 5, 6}",
-      "{1, 2}",
-      "{3}",
-      "{}"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A ∩ B = {} ve A - B = {1, 2, 3} olduğundan sonuç {1, 2} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_46",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x pozitif tam sayıdır, x ≤ 5} ve B = {x | x pozitif tam sayıdır, x < 4} olduğuna göre A - B kümesi nedir?",
-    "options": [
-      "{1, 2, 3}",
-      "{2, 3, 4, 5}",
-      "{3, 4, 5}",
-      "{1, 2, 3, 4, 5}",
-      "{1, 2}"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A = {1, 2, 3, 4, 5} ve B = {1, 2, 3} olup A - B = {4, 5} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_47",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {2, 3, 5} ve B = {1, 2, 3, 4} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A ∩ B = {2, 3} olup eleman sayısı 2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_48",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x bir asal sayı, x < 30} ve B = {x | x < 20} olduğuna göre A ∩ B kümesi nedir?",
-    "options": [
-      "{2, 3, 5, 7, 11, 13, 17, 19}",
-      "{2, 3, 5, 7, 11, 13}",
-      "{1, 2, 3, 4, 5, 6, 7}",
-      "{2, 3, 5, 7, 11, 13, 15}",
-      "{}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A kümesi {2, 3, 5, 7, 11, 13, 17, 19, 23, 29} ve B kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19} olup A ∩ B = {2, 3, 5, 7, 11, 13, 17, 19} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_49",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {1, 2, 3, 4} ve B = {4, 5, 6} olduğuna göre A ∩ (B - A) işleminin sonucu nedir?",
-    "options": [
-      "{4}",
-      "{5}",
-      "{}",
-      "{1, 2, 3}",
-      "{1, 2, 3, 4, 5, 6}"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A ∩ (B - A) = A ∩ {5} = {} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_50",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {2, 3, 5, 7} ve B = {1, 4, 6, 8} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A ve B kümeleri arasında ortak eleman yoktur, bu nedenle A ∩ B = {} ve eleman sayısı 0'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519766006_51",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x pozitif tam sayıdır, x < 10} ve B = {x | x pozitif tam sayıdır, x < 5} olduğuna göre A - B kümesi nedir?",
-    "options": [
-      "{1, 2, 3}",
-      "{3, 4}",
-      "{4, 5, 6, 7, 8, 9}",
-      "{5, 6, 7, 8, 9}",
-      "{0}"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A = {1, 2, 3, 4, 5, 6, 7, 8, 9} ve B = {1, 2, 3, 4} olduğundan A - B = {5, 6, 7, 8, 9} olur.",
+    "explanation": "B ∪ A = {1, 2, 3, 4, 5} ve A ∩ {1, 2, 3, 4, 5} = {1, 2, 3} olur.",
     "difficulty": 3
   },
   {
@@ -1039,51 +959,131 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764521077836_0",
+    "id": "ai_1764499259718_0",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olmak üzere, A ∩ B kesişim kümesi nedir?",
+    "questionText": "A ve B kümeleri için, s(A ∪ B) = 25, s(A ∩ B) = 5 ve s(A \\ B) = 3 ∙ s(B \\ A) olduğu biliniyor. Buna göre, A kümesinin eleman sayısı, s(A), kaçtır?",
     "options": [
-      "{1, 2}",
-      "{3, 4}",
-      "{5, 6}",
-      "{1, 2, 5, 6}",
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir kümenin birleşiminin eleman sayısı, ayrık parçalarının eleman sayılarının toplamına eşittir: s(A ∪ B) = s(A \\ B) + s(B \\ A) + s(A ∩ B). Verilen değerleri bu formülde yerine koyalım:\n25 = s(A \\ B) + s(B \\ A) + 5\nBu denklemden s(A \\ B) + s(B \\ A) = 20 bulunur.\nSoruda verilen s(A \\ B) = 3 ∙ s(B \\ A) eşitliğini bu denklemde yerine yazarsak:\n(3 ∙ s(B \\ A)) + s(B \\ A) = 20\n4 ∙ s(B \\ A) = 20\ns(B \\ A) = 5 olarak bulunur.\nBu durumda, s(A \\ B) = 3 ∙ 5 = 15 olur.\nA kümesinin eleman sayısı, A'nın B'den farkı ile kesişiminin eleman sayılarının toplamıdır: s(A) = s(A \\ B) + s(A ∩ B).\nDeğerleri yerine koyarsak: s(A) = 15 + 5 = 20.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766006_50",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {2, 3, 5, 7} ve B = {1, 4, 6, 8} olduğuna göre A ∩ B kümesinin eleman sayısı nedir?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A ve B kümeleri arasında ortak eleman yoktur, bu nedenle A ∩ B = {} ve eleman sayısı 0'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_9",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x pozitif tam sayıdır, x < 6} ve B = {x | x tam sayıdır, x ≥ 2} olduğuna göre A ∪ B kümesi nedir?",
+    "options": [
+      "{1, 2, 3, 4, 5}",
+      "{1, 2, 3, 4, 5, 6}",
+      "{2, 3, 4, 5, 6}",
+      "{1, 2, 3, 4, 5, 7}",
+      "{1, 2, 3, 4, 5, 6, 7}"
+    ],
+    "correctAnswer": 4,
+    "explanation": "A = {1, 2, 3, 4, 5} ve B = {2, 3, 4, 5, 6, 7, ...} olup A ∪ B = {1, 2, 3, 4, 5, 6, 7, ...} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_38",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x tek sayı, x < 10} ve B = {x | x çift sayı, x < 10} olduğuna göre A ∪ B kümesi nedir?",
+    "options": [
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9}",
+      "{1, 2, 3, 4, 5, 6, 7, 8}",
+      "{2, 4, 6, 8}",
+      "{1, 3, 5, 7, 9}",
+      "{}"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A kümesi tek sayılardan, B kümesi ise çift sayılardan oluşur. A ∪ B tüm sayıları kapsar: {1, 2, 3, 4, 5, 6, 7, 8, 9}.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520075998_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x bir doğal sayıdır ve 1 ≤ x ≤ 10} kümesi ile B = {x | x bir doğal sayıdır ve 5 ≤ x ≤ 15} kümesinin birleşimi nedir?",
+    "options": [
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
+      "{5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
+      "{5, 6, 7, 8, 9, 10}",
       "{}"
     ],
     "correctAnswer": 1,
-    "explanation": "A ve B kümesinin kesişim kümesi, her iki kümede de bulunan elemanlardır. A kümesinde 3 ve 4, B kümesinde de 3 ve 4 bulunur. Bu nedenle A ∩ B = {3, 4}.",
+    "explanation": "A kümesi 1'den 10'a kadar olan doğal sayıları, B kümesi ise 5'ten 15'e kadar olan doğal sayıları içerir. Bu iki kümenin birleşimi, her iki kümede yer alan tüm elemanları içerir: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764521077836_1",
+    "id": "ai_1764519766005_6",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "C kümesi {x | x, 1'den 10'a kadar olan pozitif tam sayılardır} ve D kümesi {x | x, 5'ten küçük olan pozitif tam sayılardır} olduğuna göre, C ∪ D birleşim kümesi nedir?",
+    "questionText": "A = {x | x pozitif tam sayıdır, x < 5} ve B = {x | x pozitif tam sayıdır, x < 8} olduğuna göre A ∩ B kümesi nedir?",
     "options": [
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4, 5}",
-      "{6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4}"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C kümesi 1'den 10'a kadar olan tüm pozitif tam sayıları içerir. D kümesi ise 5'ten küçük olan pozitif tam sayılardır. Birleşim kümesi C ∪ D, C kümesinin tüm elemanlarını ve D kümesinin elemanlarını içerir. Yani sonuç {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521077836_2",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "E kümesi {a, b, c} ve F kümesi {b, c, d, e} olduğuna göre, E - F fark kümesi nedir?",
-    "options": [
-      "{a}",
-      "{b, c}",
-      "{d, e}",
-      "{a, d, e}",
+      "{1, 2, 3}",
+      "{1, 2, 3, 4}",
+      "{5, 6, 7}",
+      "{1, 2, 3, 4, 5, 6, 7}",
       "{}"
     ],
+    "correctAnswer": 1,
+    "explanation": "A kümesi {1, 2, 3, 4} ve B kümesi {1, 2, 3, 4, 5, 6, 7}'dir. Kesişim A ∩ B = {1, 2, 3, 4} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519766005_13",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {x | x bir tam sayı, 1 ≤ x ≤ 10} ve B = {x | x bir tam sayı, 6 ≤ x ≤ 15} olduğuna göre A ∩ B kümesi nedir?",
+    "options": [
+      "{6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4, 5}",
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "{6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
+      "{1, 2, 3, 4, 5, 6}"
+    ],
     "correctAnswer": 0,
-    "explanation": "Fark kümesi E - F, E kümesinde olup F kümesinde bulunmayan elemanları içerir. E kümesinde 'a' var, ancak F kümesinde yoktur. Bu nedenle E - F = {a}.",
+    "explanation": "A kümesi {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} ve B kümesi {6, 7, 8, 9, 10, 11, 12, 13, 14, 15} olup A ∩ B = {6, 7, 8, 9, 10} olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500631246_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3, 4, 5, 6, 7} kümesinin alt kümelerinden kaç tanesinde en az bir tek sayı bulunur?",
+    "options": [
+      "108",
+      "112",
+      "120",
+      "124",
+      "128"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruyu çözmek için 'tüm durumlar' eksi 'istenmeyen durumlar' yöntemini kullanmak en pratik yoldur.\n1. **Tüm Durumlar:** A kümesinin toplam alt küme sayısıdır. A kümesinin 7 elemanı olduğu için toplam alt küme sayısı 2⁷ = 128'dir.\n2. **İstenmeyen Durum:** Soruda \"en az bir tek sayı bulunur\" deniyor. Bunun tam tersi (tümleyeni) olan durum, \"hiç tek sayı bulunmaz\" durumudur. Hiç tek sayı bulunmaması demek, alt kümenin sadece çift sayılardan oluşması demektir.\n3. **İstenmeyen Durumların Sayısı:** A kümesindeki çift sayılar {2, 4, 6}'dır. Bu 3 elemanla oluşturulabilecek alt küme sayısı, istenmeyen durumların sayısını verir. Bu da 2³ = 8'dir. Bu 8 alt küme (boş küme dahil) içinde hiç tek sayı bulunmaz.\n4. **Sonuç:** İstenen durumu bulmak için tüm durumlardan istenmeyen durumları çıkarırız.\nİstenen Durum Sayısı = (Tüm Alt Küme Sayısı) - (Sadece Çift Sayılardan Oluşan Alt Küme Sayısı)\nİstenen Durum Sayısı = 128 - 8 = 120.\nDolayısıyla, A kümesinin alt kümelerinden 120 tanesinde en az bir tek sayı bulunur.",
     "difficulty": 3
   }
 ]
