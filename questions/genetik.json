@@ -1,66 +1,50 @@
 [
   {
-    "id": "ai_1764500111662_0",
+    "id": "ai_1764501416919_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler bağımsızdır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, F1 dölünde fenotipi yeşil ve düzgün olan bir bezelyenin oluşma olasılığı nedir?",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s); düzgün tohum şekli aleli (D) ise buruşuk tohum şekli aleline (d) baskındır. Genleri bağımsız olan ve her iki karakter bakımından da heterozigot olan iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, fenotipinde sarı renkli ve buruşuk tohumlu bir bezelyenin oluşma olasılığı nedir?",
     "options": [
       "1/16",
-      "3/16",
       "9/16",
+      "3/16",
       "1/4",
-      "3/4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir dihibrit çaprazlamadır. Her bir karakter için ayrı ayrı olasılık hesaplaması yapılıp sonuçlar çarpılır. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan ss genotipli (yeşil fenotipli) birey oluşma olasılığı 1/4'tür.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan D_ genotipli (Düzgün fenotipli) birey oluşma olasılığı 3/4'tür (DD ve Dd genotipleri bu fenotipi verir).\n3. Genler bağımsız olduğundan, iki olayın birlikte gerçekleşme olasılığı, bu iki olayın ayrı ayrı gerçekleşme olasılıklarının çarpımına eşittir.\n4. Sonuç olarak, yeşil ve düzgün fenotipli bir bezelyenin oluşma olasılığı: (1/4) * (3/4) = 3/16'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500111662_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Kan grubu A olan bir anne ile kan grubu B olan bir babanın ilk çocukları 0 kan grubuna sahip olarak dünyaya gelmiştir. Bu ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
-    "options": [
-      "0",
-      "1/8",
-      "1/4",
-      "1/2",
       "3/4"
     ],
     "correctAnswer": 2,
-    "explanation": "Çocuğun 0 kan grubuna (genotipi 00) sahip olması, hem anneden hem de babadan 0 alelini aldığını gösterir. Annenin fenotipi A olduğuna göre genotipi A0'dır. Babanın fenotipi B olduğuna göre genotipi B0'dır. Bu iki ebeveynin (A0 x B0) çaprazlanması sonucunda oluşabilecek genotipler ve olasılıkları şöyledir:\n- AB (AB kan grubu): 1/4 olasılık\n- A0 (A kan grubu): 1/4 olasılık\n- B0 (B kan grubu): 1/4 olasılık\n- 00 (0 kan grubu): 1/4 olasılık\nBu nedenle, ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı 1/4'tür.",
+    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız olduğu için her bir karakterin kalıtımı ayrı ayrı incelenmelidir. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Sarı (S_) ve 1/4 Yeşil (ss)'dir.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Düzgün (D_) ve 1/4 Buruşuk (dd)'tur.\nSoruda istenen 'sarı renkli' VE 'buruşuk tohumlu' fenotiptir. Bağımsız olayların birlikte gerçekleşme olasılığı, bu olayların ayrı ayrı gerçekleşme olasılıklarının çarpımı ile bulunur (Çarpma Kuralı).\nOlasılık = P(Sarı) x P(Buruşuk) = (3/4) x (1/4) = 3/16. Bu nedenle doğru cevap 3/16'dır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500111662_2",
+    "id": "ai_1764501416919_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Kırmızı-yeşil renk körlüğü, X kromozomuna bağlı çekinik bir genle kalıtılır. Taşıyıcı bir anne ile sağlam bir babanın çocukları ile ilgili aşağıdakilerden hangisi söylenemez?",
+    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba ile bu özellik bakımından taşıyıcı (heterozigot) bir annenin, renk körü bir kız çocuğuna sahip olma olasılığı kaçtır?",
     "options": [
-      "Kız çocuklarının renk körü olma olasılığı yoktur.",
-      "Erkek çocuklarının yarısı renk körü olur.",
-      "Doğacak çocuğun renk körü olma olasılığı 1/4'tür.",
-      "Kız çocuklarının tamamı sağlam fenotiplidir.",
-      "Baba, kız çocuklarına renk körlüğü alelini aktarır."
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4",
+      "0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Babanın genotipi X^rY, annenin genotipi ise X^RX^r'dir. Bu ebeveynlerin çocuklarının olası genotiplerini bulmak için Punnett karesi kullanılır:\n- X^R X^r: Taşıyıcı kız çocuğu\n- X^r X^r: Renk körü kız çocuğu\n- X^R Y: Sağlam erkek çocuğu\n- X^r Y: Renk körü erkek çocuğu\nToplamda dört olası ve eşit ihtimalli genotip vardır. Bu olasılıklar arasında 'renk körü bir kız çocuğu'nun (X^rX^r) ortaya çıkma olasılığı 1/4'tür. Bu oran %25'e karşılık gelir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501416919_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "İnsanlarda görülen bazı genetik hastalıklar, mayoz bölünme sırasında meydana gelen ayrılmama olayları sonucu ortaya çıkan kromozom sayısı anormalliklerinden kaynaklanır.\n I. Down Sendromu - 45 + XX\n II. Turner Sendromu - 44 + X\n III. Klinefelter Sendromu - 44 + XXY\nYukarıda verilen sendromlar ve bu sendromlara sahip bireylerin kromozom formülleri eşleştirmelerinden hangileri doğrudur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
     ],
     "correctAnswer": 4,
-    "explanation": "Bu çaprazlamada anne taşıyıcı (X^R X^r) ve baba sağlamdır (X^R Y). Çaprazlama sonucunda oluşabilecek genotipler: X^R X^R (sağlam kız), X^R X^r (taşıyıcı kız), X^R Y (sağlam erkek), X^r Y (renk körü erkek).\nA) Kız çocukları babalarından daima X^R alelini alacağı için renk körü (X^r X^r) olamazlar. Doğrudur.\nB) Erkek çocukları annelerinden 1/2 olasılıkla X^r alelini alacağı için yarısı renk körü olur. Doğrudur.\nC) Dört olası genotipten sadece biri (X^r Y) renk körü fenotipini gösterir. Olasılık 1/4'tür. Doğrudur.\nD) Kız çocukları X^R X^R veya X^R X^r genotipinde olabilir. Her iki durumda da baskın X^R aleli bulunduğundan fenotipleri sağlam olur. Doğrudur.\nE) Baba sağlam (X^R Y) olduğu için renk körlüğü alelini (X^r) taşımaz. Dolayısıyla kız çocuklarına bu aleli aktaramaz. Bu ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500111662_3",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetikle ilgili temel kavramlar hakkında aşağıda verilen ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Bir karakterin kalıtımından sorumlu genin alternatif formlarının her birine alel denir.",
-      "Bir canlının genetik yapısının tamamına genotip, bu genetik yapı ve çevresel faktörlerin etkisiyle ortaya çıkan dış görünüşüne fenotip denir.",
-      "Diploit bir canlıda, bir karakterle ilgili alellerin ikisi de aynı ise bu duruma homozigot, farklı ise heterozigot denir.",
-      "Baskın alel, etkisini sadece homozigot durumda gösterebilen aleldir.",
-      "Eş baskınlık durumunda, heterozigot bireyde her iki alelin de etkisi fenotipte tam olarak gözlemlenir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "A, B, C ve E şıkları genetikle ilgili temel kavramları doğru bir şekilde tanımlamaktadır. Ancak D şıkkı yanlıştır. Etkisini sadece homozigot durumda (örneğin aa) gösterebilen alele 'çekinik (resesif) alel' denir. 'Baskın (dominant) alel' ise etkisini hem homozigot (AA) hem de heterozigot (Aa) durumda gösteren aleldir.",
+    "explanation": "Verilen kromozom formülleri 'otozom sayısı + gonozomlar' şeklinde ifade edilmiştir. Sağlıklı bir insanda 44 otozom + XX (dişi) veya 44 otozom + XY (erkek) kromozomu bulunur.\nI. Down Sendromu (Trizomi 21): Otozomal bir kromozom olan 21. kromozomdan üç tane bulunmasıdır. Yani normaldeki 44 otozoma bir tane eklenir. Dişi bir birey için formül 45 otozom + XX gonozom şeklinde yazılabilir ve bu toplam 47 kromozom anlamına gelir. Bu ifade doğrudur.\nII. Turner Sendromu: Gonozomlardan birinin eksik olması durumudur (45, X0). Birey 44 otozom ve tek bir X gonozomu taşır. Formülü 44 + X şeklindedir. Bu ifade doğrudur.\nIII. Klinefelter Sendromu: Erkek bireyde fazladan bir X gonozomu bulunması durumudur (47, XXY). Birey 44 otozom ve XXY gonozomlarını taşır. Formülü 44 + XXY şeklindedir. Bu ifade de doğrudur.\nBu nedenle her üç eşleştirme de doğrudur.",
     "difficulty": 3
   }
 ]
