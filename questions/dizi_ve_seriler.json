@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764500829088_0",
+    "id": "ai_1764519215546_0",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "İlk n teriminin toplamı S_n = 2n² + 3n olan bir (a_n) aritmetik dizisinin 7. terimi kaçtır?",
+    "questionText": "Aşağıdaki dizilerden hangisi artan bir aritmetik dizi değildir?",
     "options": [
-      "25",
-      "27",
-      "29",
-      "31",
-      "33"
+      "2, 5, 8, 11",
+      "3, 6, 9, 12",
+      "1, 2, 4, 8",
+      "5, 10, 15, 20",
+      "7, 14, 21, 28"
     ],
     "correctAnswer": 2,
-    "explanation": "Bir dizide n. terimi (a_n) bulmak için ilk n terim toplamından (S_n), ilk (n-1) terim toplamını (S_{n-1}) çıkarırız. Formül: a_n = S_n - S_{n-1}.\n\nBu soruda 7. terimi (a_7) bulmak için S_7'den S_6'yı çıkarmalıyız.\n\n1. Adım: S_7'yi hesaplayalım.\nS_n = 2n² + 3n\nS_7 = 2(7)² + 3(7)\nS_7 = 2(49) + 21\nS_7 = 98 + 21 = 119\n\n2. Adım: S_6'yı hesaplayalım.\nS_n = 2n² + 3n\nS_6 = 2(6)² + 3(6)\nS_6 = 2(36) + 18\nS_6 = 72 + 18 = 90\n\n3. Adım: a_7'yi bulalım.\na_7 = S_7 - S_6\na_7 = 119 - 90 = 29\n\nDolayısıyla, dizinin 7. terimi 29'dur.",
+    "explanation": "Artan bir aritmetik dizi, her terimin bir öncekine sabit bir sayı eklenerek elde edildiği dizidir. 1, 2, 4, 8 dizisi ise çarpan ile ilerlediği için aritmetik değildir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500829088_1",
+    "id": "ai_1764519215546_1",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Bir kenar uzunluğu 12 cm olan bir karenin kenarlarının orta noktaları birleştirilerek yeni bir kare elde ediliyor. Bu işlem sonsuz defa tekrarlandığında oluşan tüm karelerin alanları toplamı kaç cm² olur?",
+    "questionText": "Bir dizi 3, 6, 12, 24, ... ile devam etmektedir. Bu dizinin 5. terimi nedir?",
     "options": [
-      "144",
-      "192",
-      "216",
-      "288",
-      "324"
+      "48",
+      "60",
+      "72",
+      "96",
+      "120"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bu problem, bir geometrik serinin toplamını bulma problemidir.\n\n1. Adım: İlk karenin alanını bulalım.\nBirinci karenin kenarı a₁ = 12 cm.\nAlanı A₁ = a₁² = 12² = 144 cm².\n\n2. Adım: İkinci karenin kenarını ve alanını bulalım.\nİkinci karenin kenarı (a₂), birinci karenin kenarlarının orta noktalarını birleştiren köşegendir. Oluşan dik üçgenin kenarları 12/2 = 6 cm ve 6 cm'dir. Pisagor teoreminden:\na₂² = 6² + 6² = 36 + 36 = 72\nİkinci karenin alanı A₂ = a₂² = 72 cm².\n\n3. Adım: Geometrik seriyi tanımlayalım.\nOluşan alanlar bir geometrik dizi oluşturur: A₁, A₂, A₃, ...\nA₁ = 144\nA₂ = 72\nDizinin ortak oranı (r) = A₂ / A₁ = 72 / 144 = 1/2.\n\n4. Adım: Sonsuz geometrik serinin toplamını hesaplayalım.\nOrtak oran r = 1/2 olduğundan ve |-1 < r < 1| koşulu sağlandığından, seri yakınsaktır ve toplamı vardır.\nSonsuz seri toplam formülü: Toplam = a₁ / (1 - r)\nBurada a₁, serinin ilk terimidir (A₁ = 144).\nToplam Alan = 144 / (1 - 1/2)\nToplam Alan = 144 / (1/2)\nToplam Alan = 144 * 2 = 288 cm².\n\nOluşan tüm karelerin alanları toplamı 288 cm²'dir.",
+    "correctAnswer": 0,
+    "explanation": "Bu dizi her terimde bir önceki terimin 2 katına çıkarılmasıyla elde edilmektedir. 4. terim 24 olduğuna göre, 5. terim 24 x 2 = 48'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519215546_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aşağıdaki serilerden hangisi geometrik bir dizi oluşturur?",
+    "options": [
+      "1, 2, 3, 4",
+      "2, 4, 8, 16",
+      "3, 5, 7, 9",
+      "10, 20, 30, 40",
+      "5, 10, 15, 20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geometrik dizilerde her terim bir önceki terimin belirli bir çarpanıyla elde edilir. 2, 4, 8, 16 dizisinde her terim 2 ile çarpılarak elde edildiği için geometrik bir dizidir.",
     "difficulty": 3
   }
 ]
