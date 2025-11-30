@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519463628_0",
+    "id": "ai_1764520435528_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'zıt anlam' ilişkisi vardır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
     "options": [
-      "Güneş doğdu, herkes mutlu oldu.",
-      "Hava çok soğuk, kış geldi.",
-      "Deniz çok dalgalı, yüzemeyeceğiz.",
-      "Kütüphane sessizdir, gürültü yasaktır.",
-      "Bütün insanların eşit olduğu düşünülmektedir."
+      "Hava çok sıcak olduğu için denize girmek istiyorum.",
+      "Ders çalışmak zorundayım, ama çok yorgunum.",
+      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
+      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
+      "Okuldan sonra sinemaya gitmeyi planlıyorum."
     ],
     "correctAnswer": 1,
-    "explanation": "'Soğuk' ve 'sıcak' zıt anlamlı kelimelerdir. 'Hava çok soğuk, kış geldi.' cümlesinde bu zıtlık ifade edilmektedir.",
+    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519463628_1",
+    "id": "ai_1764520435528_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'eş anlam' ilişkisi vardır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'sebep-sonuç' vardır?",
     "options": [
-      "Çocuklar parka gitti, oyun oynuyorlar.",
-      "Bu kitap çok ilginç, mutlaka okumalısın.",
-      "Köpekler havladı, herkes rahatsız oldu.",
-      "Güzel bir film izledik, çok beğendim.",
-      "Ateş çok sıcak, dikkat et."
+      "Yağmur yağdığı için dışarı çıkmadım.",
+      "Köpek havladığı için uyanmıştım.",
+      "Sınavdan yüksek not aldım, bu yüzden çok sevindim.",
+      "Yaz tatilinde deniz tatili yapmayı planlıyorum.",
+      "Kütüphanede kitap okudum."
     ],
-    "correctAnswer": 3,
-    "explanation": "'Güzel' ve 'hoş' kelimeleri eş anlamlıdır. 'Güzel bir film izledik, çok beğendim.' cümlesinde bu eş anlam ilişkisi bulunmaktadır.",
+    "correctAnswer": 0,
+    "explanation": "İlk cümlede 'yağmur yağdığı için' ifadesi, dışarı çıkmama kararının sebebini belirtmektedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519463628_2",
+    "id": "ai_1764520435528_2",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerde hangisinde 'sebep-sonuç' ilişkisi vardır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'örnekleme' vardır?",
     "options": [
-      "Yarın hava yağmurlu olacak, şemsiyemi alacağım.",
-      "Deniz kenarında yürüyüş yapmayı seviyorum.",
-      "Sınavdan yüksek not aldım, çok çalıştım.",
-      "Bugün hava çok sıcak, denize gireceğim.",
-      "Film çok güzeldi, arkadaşım tavsiye etti."
+      "Çeşitli meyveler, elma, armut, muz gibi sağlıklıdır.",
+      "Hava çok güzel, hemen dışarı çıkmalıyız.",
+      "Kütüphanedeki kitaplar oldukça eski.",
+      "Ders çalışma süremin uzadı.",
+      "Okuldan sonra eve döndüm."
     ],
-    "correctAnswer": 2,
-    "explanation": "'Çok çalıştım' ifadesi 'yüksek not aldım' sonucuna sebep olmuştur. Bu sebeple 'Sınavdan yüksek not aldım, çok çalıştım.' cümlesinde sebep-sonuç ilişkisi vardır.",
+    "correctAnswer": 0,
+    "explanation": "İlk cümlede 'elma, armut, muz' kelimeleri ile 'çeşitli meyveler' ifadesine örnekler verilmiştir.",
     "difficulty": 3
   }
 ]
