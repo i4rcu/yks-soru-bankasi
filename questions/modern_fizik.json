@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764501149951_0",
+    "id": "ai_1764519291136_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Bir metal yüzeyin eşik enerjisi (bağlanma enerjisi) E₀'dır. Bu yüzeye frekansı f olan ışık düşürüldüğünde sökülen elektronların maksimum kinetik enerjisi K olmaktadır. Buna göre, aynı metal yüzeye frekansı 2f olan ışık düşürülürse sökülen elektronların maksimum kinetik enerjisi K ve E₀ cinsinden ne olur?",
+    "questionText": "Bir elektron bir elektrik alanında hareket ederken hangi özellikleri göz önünde bulundurulmalıdır?",
     "options": [
-      "K",
-      "2K",
-      "K + E₀",
-      "K + hf",
-      "2K + E₀"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Fotoelektrik olay denklemi E_foton = E₀ + K_max şeklindedir. Burada E_foton = hf (h: Planck sabiti), E₀ bağlanma enerjisi ve K_max sökülen elektronun maksimum kinetik enerjisidir.\nİlk durum için denklem: hf = E₀ + K'dir. Buradan hf = K + E₀ ifadesini elde ederiz.\nİkinci durumda frekans 2f olduğundan fotonun enerjisi h(2f) = 2hf olur. Yeni kinetik enerjiye K' diyelim.\nİkinci durum için denklem: 2hf = E₀ + K'\nİlk denklemden bulduğumuz hf = K + E₀ ifadesini ikinci denklemde yerine yazalım:\n2(K + E₀) = E₀ + K'\n2K + 2E₀ = E₀ + K'\nK' = 2K + E₀ bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501149951_1",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Compton saçılması olayında, durgun haldeki bir elektrona çarpan bir foton, şekildeki gibi saçılmaya uğramaktadır. Gelen fotonun enerjisi E, dalga boyu λ ve momentumu P'dir. Saçılan fotonun enerjisi E', dalga boyu λ' ve momentumu P' olduğuna göre, aşağıdaki yargılardan hangisi kesinlikle doğrudur?",
-    "options": [
-      "E' > E",
-      "λ' < λ",
-      "P' > P",
-      "λ' > λ",
-      "E' = E"
+      "Yalnızca kütlesi",
+      "Yalnızca yükü",
+      "Hız ve yönü",
+      "Kütlesi ve yükü",
+      "Yükü ve enerji seviyesi"
     ],
     "correctAnswer": 3,
-    "explanation": "Compton saçılmasında, foton enerjisinin bir kısmını durgun elektrona aktarır ve elektronu hareketlendirir. Bu nedenle, saçılan fotonun enerjisi gelen fotonun enerjisinden daha az olur (E' < E). Enerji ile frekans doğru orantılı (E=hf) olduğundan, saçılan fotonun frekansı da azalır. Enerji ile dalga boyu ters orantılıdır (E = hc/λ). Enerji azaldığı için saçılan fotonun dalga boyu artar (λ' > λ). Momentum da enerjiyle doğru orantılıdır (p=E/c), bu nedenle saçılan fotonun momentumu da azalır (P' < P). Bu durumda kesinlikle doğru olan ifade λ' > λ'dır.",
+    "explanation": "Elektron gibi yüklü parçacıkların hareketi, hem kütlesine hem de yüküne bağlıdır. Elektrik alanında, yükü nedeniyle kuvvet etkisi altında kalırken, kütlesi nedeniyle de ivme kazanır. Bu nedenle kütlesi ve yükü dikkate alınmalıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501149951_2",
+    "id": "ai_1764519291136_1",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Dünya'daki durgun bir gözlemciye göre 0,6c hızıyla (c: ışık hızı) hareket eden bir uzay mekiğinin içindeki bir astronot, mekiğin boyunu L₀ olarak ölçmektedir. Buna göre, Dünya'daki durgun gözlemci mekiğin boyunu kaç L₀ olarak ölçer?",
+    "questionText": "Kütle-enerji eşitliği E=mc² ifadesinde, c'nin değeri nedir?",
     "options": [
-      "L₀",
-      "0,8 L₀",
-      "0,6 L₀",
-      "1,25 L₀",
-      "1,67 L₀"
+      "Işık hızıdır",
+      "Ses hızıdır",
+      "Ağır parçacık hızıdır",
+      "Maddenin ortalama hızıdır",
+      "Hidrodinamik hızdır"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kütle-enerji eşitliği E=mc² ifadesinde c, boşluktaki ışık hızını temsil eder. Bu hız, yaklaşık 3 x 10^8 m/s'dir ve enerji ile kütle arasındaki ilişkiyi tanımlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519291136_2",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Bir fotonun enerjisi hangi formülle hesaplanır?",
+    "options": [
+      "E=mv²",
+      "E=hf",
+      "E=mc²",
+      "E=qV",
+      "E=F.d"
     ],
     "correctAnswer": 1,
-    "explanation": "Özel görelilik teorisine göre, hareketli bir cismin boyu, hareket doğrultusunda durgun bir gözlemci tarafından daha kısa ölçülür. Bu olaya boy kısalması (uzunluk büzülmesi) denir. Formülü L = L₀√(1-v²/c²) şeklindedir. Burada L₀ cismin durgun boyu (astronotun ölçtüğü), L ise hareketli boyudur (Dünya'daki gözlemcinin ölçtüğü).\nVerilen değerleri formülde yerine koyalım:\nv = 0,6c\nv²/c² = (0,6c)²/c² = 0,36\nL = L₀√(1 - 0,36)\nL = L₀√(0,64)\nL = L₀ * 0,8\nDolayısıyla, Dünya'daki gözlemci mekiğin boyunu 0,8 L₀ olarak ölçer.",
+    "explanation": "Bir fotonun enerjisi, E=hf formülü ile hesaplanır. Burada h Planck sabiti ve f fotonun frekansıdır. Bu formül, fotonların enerjisini tanımlamak için kullanılır.",
     "difficulty": 3
   }
 ]
