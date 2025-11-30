@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764520420819_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
+    "options": [
+      "A. ;",
+      "B. ,",
+      "C. .",
+      "D. :",
+      "E. ?"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520420819_1",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "Cümlede bağlaç olan 'ama' öncesinde noktalı virgül yerine virgül kullanılması gerekmektedir. Doğru kullanım: 'Bütün gün çalıştım, ama sonuç aldım.'",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520420819_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
-    "options": [
-      "A. ;",
-      "B. ,",
-      "C. .",
-      "D. :",
-      "E. ?"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
     "difficulty": 3
   },
   {
