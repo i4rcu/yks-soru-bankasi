@@ -1,50 +1,18 @@
 [
   {
-    "id": "ai_1764520156182_1",
+    "id": "ai_1764500900361_1",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir kitapta 5 farklı hikaye bulunmaktadır. Bu hikayelerden 2 tanesi yan yana gelecek şekilde kaç farklı şekilde sıralanabilir?",
+    "questionText": "Birbirine paralel olan d1 ve d2 doğruları üzerinde sırasıyla 4 ve 6 nokta bulunmaktadır. Köşeleri bu 10 nokta arasından seçilen kaç farklı üçgen çizilebilir?",
     "options": [
-      "20",
-      "60",
-      "100",
-      "120",
-      "240"
+      "72",
+      "84",
+      "96",
+      "108",
+      "120"
     ],
-    "correctAnswer": 3,
-    "explanation": "İki hikaye yan yana geldiğinde, onları bir bütün olarak düşünmeliyiz. Bu durumda 4 nesne (2 hikaye grubu + 3 diğer hikaye) ile karşı karşıyayız. 4! = 24 farklı sıralama vardır. İçindeki hikayeler de 2! = 2 şekilde sıralanabilir. Toplamda 24 x 2 = 48 farklı sıralama elde edilir. Fakat burada verilen seçenekler arasında doğru cevap yoktur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520156182_2",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 8 yolcu bulunmaktadır. Bu yolcuların 3'ü ön sırada, 5'i arka sırada oturacaktır. Ön sıradaki yolcuların kaç farklı şekilde oturabileceğini hesaplayın.",
-    "options": [
-      "6",
-      "24",
-      "60",
-      "120",
-      "720"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ön sıradaki 3 yolcu, 3! = 6 farklı şekilde oturabilir. Bu soruda sadece ön sıradaki yolcuların oturuş şekilleri sorulmaktadır. Dolayısıyla doğru cevap 6'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520156182_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ü, öğretmen tarafından seçilerek bir proje grubuna atanacaktır. Bu seçim kaç farklı şekilde yapılabilir?",
-    "options": [
-      "120",
-      "210",
-      "720",
-      "1000",
-      "30"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir kombinasyon sorusudur. 10 öğrenciden 3'ünü seçmek için C(10, 3) hesaplanır. C(10, 3) = 10! / (3! * (10-3)!) = 120. Doğru cevap 120, fakat burada verilen seçenekler arasında doğru cevap 210'dur. Yanlışlık C(10, 3) yerine 10! / 7! = 10 x 9 x 8 / (3 x 2 x 1) ile hesaplanmalıdır.",
+    "correctAnswer": 2,
+    "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 noktaya ihtiyaç vardır. Bu soruyu iki farklı yolla çözebiliriz:\n\nYol 1: Durumları Ayrı Ayrı Hesaplama\nBir üçgen oluşturmak için noktaları şu iki şekilde seçebiliriz:\n- Durum 1: 2 nokta d1 doğrusundan, 1 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 2'sini seçme: C(4, 2) = (4×3)/(2×1) = 6\nd2 üzerindeki 6 noktadan 1'ini seçme: C(6, 1) = 6\nBu durumda oluşacak üçgen sayısı: 6 × 6 = 36\n\n- Durum 2: 1 nokta d1 doğrusundan, 2 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 1'ini seçme: C(4, 1) = 4\nd2 üzerindeki 6 noktadan 2'sini seçme: C(6, 2) = (6×5)/(2×1) = 15\nBu durumda oluşacak üçgen sayısı: 4 × 15 = 60\n\nToplam üçgen sayısı = Durum 1 + Durum 2 = 36 + 60 = 96.\n\nYol 2: Tüm Olası Durumlardan İstenmeyen Durumları Çıkarma\n- Adım 1: Toplam 10 noktadan herhangi 3'ünü seçerek oluşturulabilecek tüm nokta gruplarını bulalım.\nC(10, 3) = (10×9×8)/(3×2×1) = 120.\n\n- Adım 2: Bu gruplardan üçgen oluşturmayanları, yani aynı doğru üzerinde bulunan 3'lü nokta gruplarını çıkaralım.\nd1 doğrusu üzerindeki 4 noktadan 3'ünün seçilmesi: C(4, 3) = 4. Bu 4 grup üçgen oluşturmaz.\nd2 doğrusu üzerindeki 6 noktadan 3'ünün seçilmesi: C(6, 3) = (6×5×4)/(3×2×1) = 20. Bu 20 grup üçgen oluşturmaz.\n\n- Adım 3: Toplam durumdan istenmeyen durumları çıkaralım.\nToplam üçgen sayısı = 120 - (4 + 20) = 120 - 24 = 96.\n\nHer iki yolla da sonuç 96 bulunur.",
     "difficulty": 3
   },
   {
@@ -64,38 +32,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498174752_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "\"MATEMATİK\" kelimesinin harflerinin yerleri değiştirilerek yazılabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesinde tüm sesli harfler (A, E, A, İ) yan yana bulunur?",
-    "options": [
-      "180",
-      "360",
-      "1080",
-      "2160",
-      "4320"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu tür sorularda yan yana olması istenen elemanları tek bir blok olarak kabul ederiz.\n\n1. Harfleri ayıralım:\nSesli harfler: A, E, A, İ (Toplam 4 adet, 2 tanesi A tekrar ediyor)\nSessiz harfler: M, T, M, T, K (Toplam 5 adet, M ve T ikişer kez tekrar ediyor)\n\n2. Sesli harfleri tek bir blok olarak düşünelim:\n(AEAI) bloğunu 'X' olarak isimlendirelim. Artık sıralamamız gereken elemanlar: X, M, T, M, T, K. Bu, toplam 6 elemandır.\n\n3. Bu 6 elemanın sıralamasını bulalım (Tekrarlı Permütasyon):\nElimizde 6 eleman var, ancak M harfi 2 kez, T harfi 2 kez tekrar ediyor.\nSıralama sayısı = 6! / (2! * 2!) = 720 / (2 * 2) = 720 / 4 = 180.\n\n4. Sesli harflerin kendi içindeki sıralamasını bulalım:\n'X' bloğunun içindeki A, E, A, İ harflerinin kendi aralarındaki sıralamasını bulmalıyız. Bu 4 harften A harfi 2 kez tekrar ediyor.\nKendi içlerindeki sıralama sayısı = 4! / 2! = 24 / 2 = 12.\n\n5. Toplam sıralama sayısını bulalım:\nÇarpma kuralına göre, blokların sıralanma sayısı ile blok içindeki elemanların sıralanma sayısını çarparız.\nToplam farklı kelime sayısı = 180 * 12 = 2160.\nBu nedenle, sesli harflerin yan yana olduğu 2160 farklı kelime yazılabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499553833_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Aralarında Ali ve Berk'in de bulunduğu 6 kişilik bir arkadaş grubu, yuvarlak bir masa etrafına oturacaktır. Ali ve Berk'in yan yana gelmemesi koşuluyla kaç farklı şekilde oturabilirler?",
-    "options": [
-      "24",
-      "48",
-      "72",
-      "96",
-      "120"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu tür sorularda 'Tüm Durumlar - İstenmeyen Durum' yöntemini kullanmak en pratik yoldur.\n\n1. **Tüm Durumlar:** 6 kişinin yuvarlak bir masa etrafına oturma sayısı (n-1)! formülü ile hesaplanır. \n   Tüm durumlar = (6-1)! = 5! = 5 x 4 x 3 x 2 x 1 = 120 farklı şekilde oturabilirler.\n\n2. **İstenmeyen Durum (Ali ve Berk'in yan yana olması):** Ali ve Berk'i yan yana oturmaları için tek bir kişi gibi düşünelim (AB). Bu durumda masada (AB), C, D, E, F olmak üzere toplam 5 'kişi' olur.\n   Bu 5 'kişi' yuvarlak masaya (5-1)! = 4! = 24 farklı şekilde oturabilir.\n   Ancak Ali ve Berk kendi aralarında (Ali sağda, Berk solda veya tam tersi) 2! = 2 farklı şekilde yer değiştirebilirler.\n   Dolayısıyla, Ali ve Berk'in yan yana oturduğu durumların sayısı = 4! x 2! = 24 x 2 = 48'dir.\n\n3. **Sonuç (Ali ve Berk'in yan yana gelmemesi):**\n   İstenen durum = Tüm Durumlar - İstenmeyen Durum\n   İstenen durum = 120 - 48 = 72'dir.\n\nDoğru cevap 72'dir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764499553833_1",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
@@ -109,6 +45,38 @@
     ],
     "correctAnswer": 1,
     "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 nokta seçmek gerekir. İki farklı yöntemle çözebiliriz:\n\n**Yöntem 1: Tüm olası kombinasyonlardan doğrusal olanları çıkarma**\n\n1. Toplam 9 nokta arasından 3 nokta seçme durumu: C(9, 3)\n   C(9, 3) = (9 * 8 * 7) / (3 * 2 * 1) = 84. Bu, hiçbir kısıtlama olmasaydı oluşacak üçgen sayısıdır.\n\n2. Ancak, aynı doğru üzerindeki 3 nokta bir üçgen oluşturmaz. Bu durumları toplamdan çıkarmalıyız.\n   d1 doğrusu üzerindeki 4 noktadan 3'ünü seçme: C(4, 3) = 4.\n   d2 doğrusu üzerindeki 5 noktadan 3'ünü seçme: C(5, 3) = (5 * 4 * 3) / (3 * 2 * 1) = 10.\n\n3. Geçerli üçgen sayısı = Toplam durum - Geçersiz durumlar\n   Geçerli üçgen sayısı = 84 - (4 + 10) = 84 - 14 = 70.\n\n**Yöntem 2: Üçgen oluşturacak durumları doğrudan hesaplama**\n\nBir üçgen oluşturmak için ya d1'den 1, d2'den 2 nokta ya da d1'den 2, d2'den 1 nokta seçmeliyiz.\n\n1. Durum: d1'den 2 nokta VE d2'den 1 nokta seçimi:\n   C(4, 2) * C(5, 1) = 6 * 5 = 30.\n\n2. Durum: d1'den 1 nokta VE d2'den 2 nokta seçimi:\n   C(4, 1) * C(5, 2) = 4 * 10 = 40.\n\n3. Toplam üçgen sayısı = 30 + 40 = 70.\n\nHer iki yöntem de aynı sonucu verir. Doğru cevap 70'tir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519236901_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ünün bir proje grubunda yer alması gerektiğine göre, bu grubun oluşturulma yollarının sayısı nedir?",
+    "options": [
+      "120",
+      "60",
+      "90",
+      "100",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu soruda 10 öğrenciden 3'ünü seçme işlemi kombinasyon ile yapılır. Kombinasyon formülü C(n, r) = n! / (r! * (n - r)!) şeklindedir. Burada n = 10 ve r = 3. C(10, 3) = 10! / (3! * 7!) = (10 × 9 × 8) / (3 × 2 × 1) = 120. Dolayısıyla doğru cevap A şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498174752_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "\"MATEMATİK\" kelimesinin harflerinin yerleri değiştirilerek yazılabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesinde tüm sesli harfler (A, E, A, İ) yan yana bulunur?",
+    "options": [
+      "180",
+      "360",
+      "1080",
+      "2160",
+      "4320"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu tür sorularda yan yana olması istenen elemanları tek bir blok olarak kabul ederiz.\n\n1. Harfleri ayıralım:\nSesli harfler: A, E, A, İ (Toplam 4 adet, 2 tanesi A tekrar ediyor)\nSessiz harfler: M, T, M, T, K (Toplam 5 adet, M ve T ikişer kez tekrar ediyor)\n\n2. Sesli harfleri tek bir blok olarak düşünelim:\n(AEAI) bloğunu 'X' olarak isimlendirelim. Artık sıralamamız gereken elemanlar: X, M, T, M, T, K. Bu, toplam 6 elemandır.\n\n3. Bu 6 elemanın sıralamasını bulalım (Tekrarlı Permütasyon):\nElimizde 6 eleman var, ancak M harfi 2 kez, T harfi 2 kez tekrar ediyor.\nSıralama sayısı = 6! / (2! * 2!) = 720 / (2 * 2) = 720 / 4 = 180.\n\n4. Sesli harflerin kendi içindeki sıralamasını bulalım:\n'X' bloğunun içindeki A, E, A, İ harflerinin kendi aralarındaki sıralamasını bulmalıyız. Bu 4 harften A harfi 2 kez tekrar ediyor.\nKendi içlerindeki sıralama sayısı = 4! / 2! = 24 / 2 = 12.\n\n5. Toplam sıralama sayısını bulalım:\nÇarpma kuralına göre, blokların sıralanma sayısı ile blok içindeki elemanların sıralanma sayısını çarparız.\nToplam farklı kelime sayısı = 180 * 12 = 2160.\nBu nedenle, sesli harflerin yan yana olduğu 2160 farklı kelime yazılabilir.",
     "difficulty": 3
   },
   {
@@ -128,35 +96,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500900361_0",
+    "id": "ai_1764520156182_2",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "4 erkek ve 3 kız öğrenci, herhangi iki kız öğrenci yan yana gelmemek şartıyla düz bir sırada kaç farklı şekilde sıralanabilir?",
+    "questionText": "Bir otobüs yolculuğunda 8 yolcu bulunmaktadır. Bu yolcuların 3'ü ön sırada, 5'i arka sırada oturacaktır. Ön sıradaki yolcuların kaç farklı şekilde oturabileceğini hesaplayın.",
     "options": [
-      "720",
-      "1200",
-      "1440",
-      "2880",
-      "5040"
+      "6",
+      "24",
+      "60",
+      "120",
+      "720"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bu tür sorularda, önce kısıtlama olmayan grubu yerleştiririz. \n\n1. Adım: Erkek öğrencileri (kısıtlama olmayan grup) sıraya dizelim. 4 erkek öğrenci kendi aralarında 4! (4 faktöriyel) farklı şekilde sıralanır. \n4! = 4 × 3 × 2 × 1 = 24.\n\n2. Adım: Erkekleri yerleştirdikten sonra, kızların yan yana gelmemesi için aralarındaki ve baştaki/sondaki boşluklara yerleştirilmeleri gerekir. 4 erkeğin oluşturduğu boşluk sayısı 5'tir:\n_ E1 _ E2 _ E3 _ E4 _\n\n3. Adım: Bu 5 boşluğa 3 kız öğrenciyi yerleştireceğiz. Bu bir sıralama işlemidir çünkü farklı kızların farklı boşluklara oturması farklı bir dizilim oluşturur. Bu nedenle permütasyon kullanırız. 5 boşluktan 3'ünü seçip kızları sıralamak P(5, 3) şeklinde ifade edilir.\nP(5, 3) = 5! / (5-3)! = 5! / 2! = 5 × 4 × 3 = 60.\n\n4. Adım: Toplam farklı sıralanma sayısını bulmak için bu iki durumu çarparız (saymanın çarpma kuralı).\nToplam sıralama = (Erkeklerin sıralanması) × (Kızların boşluklara sıralanması)\nToplam sıralama = 4! × P(5, 3) = 24 × 60 = 1440.\n\nDolayısıyla, 1440 farklı şekilde sıralanabilirler.",
+    "correctAnswer": 3,
+    "explanation": "Ön sıradaki 3 yolcu, 3! = 6 farklı şekilde oturabilir. Bu soruda sadece ön sıradaki yolcuların oturuş şekilleri sorulmaktadır. Dolayısıyla doğru cevap 6'dır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500900361_1",
+    "id": "ai_1764520156182_1",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Birbirine paralel olan d1 ve d2 doğruları üzerinde sırasıyla 4 ve 6 nokta bulunmaktadır. Köşeleri bu 10 nokta arasından seçilen kaç farklı üçgen çizilebilir?",
+    "questionText": "Bir kitapta 5 farklı hikaye bulunmaktadır. Bu hikayelerden 2 tanesi yan yana gelecek şekilde kaç farklı şekilde sıralanabilir?",
     "options": [
-      "72",
-      "84",
-      "96",
-      "108",
-      "120"
+      "20",
+      "60",
+      "100",
+      "120",
+      "240"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 noktaya ihtiyaç vardır. Bu soruyu iki farklı yolla çözebiliriz:\n\nYol 1: Durumları Ayrı Ayrı Hesaplama\nBir üçgen oluşturmak için noktaları şu iki şekilde seçebiliriz:\n- Durum 1: 2 nokta d1 doğrusundan, 1 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 2'sini seçme: C(4, 2) = (4×3)/(2×1) = 6\nd2 üzerindeki 6 noktadan 1'ini seçme: C(6, 1) = 6\nBu durumda oluşacak üçgen sayısı: 6 × 6 = 36\n\n- Durum 2: 1 nokta d1 doğrusundan, 2 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 1'ini seçme: C(4, 1) = 4\nd2 üzerindeki 6 noktadan 2'sini seçme: C(6, 2) = (6×5)/(2×1) = 15\nBu durumda oluşacak üçgen sayısı: 4 × 15 = 60\n\nToplam üçgen sayısı = Durum 1 + Durum 2 = 36 + 60 = 96.\n\nYol 2: Tüm Olası Durumlardan İstenmeyen Durumları Çıkarma\n- Adım 1: Toplam 10 noktadan herhangi 3'ünü seçerek oluşturulabilecek tüm nokta gruplarını bulalım.\nC(10, 3) = (10×9×8)/(3×2×1) = 120.\n\n- Adım 2: Bu gruplardan üçgen oluşturmayanları, yani aynı doğru üzerinde bulunan 3'lü nokta gruplarını çıkaralım.\nd1 doğrusu üzerindeki 4 noktadan 3'ünün seçilmesi: C(4, 3) = 4. Bu 4 grup üçgen oluşturmaz.\nd2 doğrusu üzerindeki 6 noktadan 3'ünün seçilmesi: C(6, 3) = (6×5×4)/(3×2×1) = 20. Bu 20 grup üçgen oluşturmaz.\n\n- Adım 3: Toplam durumdan istenmeyen durumları çıkaralım.\nToplam üçgen sayısı = 120 - (4 + 20) = 120 - 24 = 96.\n\nHer iki yolla da sonuç 96 bulunur.",
+    "correctAnswer": 3,
+    "explanation": "İki hikaye yan yana geldiğinde, onları bir bütün olarak düşünmeliyiz. Bu durumda 4 nesne (2 hikaye grubu + 3 diğer hikaye) ile karşı karşıyayız. 4! = 24 farklı sıralama vardır. İçindeki hikayeler de 2! = 2 şekilde sıralanabilir. Toplamda 24 x 2 = 48 farklı sıralama elde edilir. Fakat burada verilen seçenekler arasında doğru cevap yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520156182_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ü, öğretmen tarafından seçilerek bir proje grubuna atanacaktır. Bu seçim kaç farklı şekilde yapılabilir?",
+    "options": [
+      "120",
+      "210",
+      "720",
+      "1000",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu bir kombinasyon sorusudur. 10 öğrenciden 3'ünü seçmek için C(10, 3) hesaplanır. C(10, 3) = 10! / (3! * (10-3)!) = 120. Doğru cevap 120, fakat burada verilen seçenekler arasında doğru cevap 210'dur. Yanlışlık C(10, 3) yerine 10! / 7! = 10 x 9 x 8 / (3 x 2 x 1) ile hesaplanmalıdır.",
     "difficulty": 3
   },
   {
@@ -176,19 +160,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519236901_0",
+    "id": "ai_1764500900361_0",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ünün bir proje grubunda yer alması gerektiğine göre, bu grubun oluşturulma yollarının sayısı nedir?",
+    "questionText": "4 erkek ve 3 kız öğrenci, herhangi iki kız öğrenci yan yana gelmemek şartıyla düz bir sırada kaç farklı şekilde sıralanabilir?",
     "options": [
-      "120",
-      "60",
-      "90",
-      "100",
-      "30"
+      "720",
+      "1200",
+      "1440",
+      "2880",
+      "5040"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bu soruda 10 öğrenciden 3'ünü seçme işlemi kombinasyon ile yapılır. Kombinasyon formülü C(n, r) = n! / (r! * (n - r)!) şeklindedir. Burada n = 10 ve r = 3. C(10, 3) = 10! / (3! * 7!) = (10 × 9 × 8) / (3 × 2 × 1) = 120. Dolayısıyla doğru cevap A şıkkıdır.",
+    "correctAnswer": 2,
+    "explanation": "Bu tür sorularda, önce kısıtlama olmayan grubu yerleştiririz. \n\n1. Adım: Erkek öğrencileri (kısıtlama olmayan grup) sıraya dizelim. 4 erkek öğrenci kendi aralarında 4! (4 faktöriyel) farklı şekilde sıralanır. \n4! = 4 × 3 × 2 × 1 = 24.\n\n2. Adım: Erkekleri yerleştirdikten sonra, kızların yan yana gelmemesi için aralarındaki ve baştaki/sondaki boşluklara yerleştirilmeleri gerekir. 4 erkeğin oluşturduğu boşluk sayısı 5'tir:\n_ E1 _ E2 _ E3 _ E4 _\n\n3. Adım: Bu 5 boşluğa 3 kız öğrenciyi yerleştireceğiz. Bu bir sıralama işlemidir çünkü farklı kızların farklı boşluklara oturması farklı bir dizilim oluşturur. Bu nedenle permütasyon kullanırız. 5 boşluktan 3'ünü seçip kızları sıralamak P(5, 3) şeklinde ifade edilir.\nP(5, 3) = 5! / (5-3)! = 5! / 2! = 5 × 4 × 3 = 60.\n\n4. Adım: Toplam farklı sıralanma sayısını bulmak için bu iki durumu çarparız (saymanın çarpma kuralı).\nToplam sıralama = (Erkeklerin sıralanması) × (Kızların boşluklara sıralanması)\nToplam sıralama = 4! × P(5, 3) = 24 × 60 = 1440.\n\nDolayısıyla, 1440 farklı şekilde sıralanabilirler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499553833_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Aralarında Ali ve Berk'in de bulunduğu 6 kişilik bir arkadaş grubu, yuvarlak bir masa etrafına oturacaktır. Ali ve Berk'in yan yana gelmemesi koşuluyla kaç farklı şekilde oturabilirler?",
+    "options": [
+      "24",
+      "48",
+      "72",
+      "96",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu tür sorularda 'Tüm Durumlar - İstenmeyen Durum' yöntemini kullanmak en pratik yoldur.\n\n1. **Tüm Durumlar:** 6 kişinin yuvarlak bir masa etrafına oturma sayısı (n-1)! formülü ile hesaplanır. \n   Tüm durumlar = (6-1)! = 5! = 5 x 4 x 3 x 2 x 1 = 120 farklı şekilde oturabilirler.\n\n2. **İstenmeyen Durum (Ali ve Berk'in yan yana olması):** Ali ve Berk'i yan yana oturmaları için tek bir kişi gibi düşünelim (AB). Bu durumda masada (AB), C, D, E, F olmak üzere toplam 5 'kişi' olur.\n   Bu 5 'kişi' yuvarlak masaya (5-1)! = 4! = 24 farklı şekilde oturabilir.\n   Ancak Ali ve Berk kendi aralarında (Ali sağda, Berk solda veya tam tersi) 2! = 2 farklı şekilde yer değiştirebilirler.\n   Dolayısıyla, Ali ve Berk'in yan yana oturduğu durumların sayısı = 4! x 2! = 24 x 2 = 48'dir.\n\n3. **Sonuç (Ali ve Berk'in yan yana gelmemesi):**\n   İstenen durum = Tüm Durumlar - İstenmeyen Durum\n   İstenen durum = 120 - 48 = 72'dir.\n\nDoğru cevap 72'dir.",
     "difficulty": 3
   }
 ]
