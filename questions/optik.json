@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764520224011_2",
+    "id": "ai_1764499767243_0",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
+    "questionText": "Kırıcılık indisi n₁ olan ortamdan, kırıcılık indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Buna göre, ışığın bu ortamlardaki frekansı (f), hızı (v) ve dalga boyu (λ) ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
     "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "İnterferans",
-      "Polarizasyon"
+      "f₁ = f₂, v₁ > v₂, λ₁ > λ₂",
+      "f₁ > f₂, v₁ < v₂, λ₁ < λ₂",
+      "f₁ = f₂, v₁ < v₂, λ₁ < λ₂",
+      "f₁ < f₂, v₁ > v₂, λ₁ > λ₂",
+      "f₁ = f₂, v₁ < v₂, λ₁ > λ₂"
     ],
-    "correctAnswer": 1,
-    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
+    "correctAnswer": 2,
+    "explanation": "Işık bir ortamdan başka bir ortama geçtiğinde frekansı değişmez, çünkü frekans kaynağa bağlıdır. Dolayısıyla f₁ = f₂'dir. Şekilde ışının normalden uzaklaşarak kırıldığı görülmektedir. Snell Yasası'na göre, ışın normalden uzaklaşıyorsa az yoğun ortama geçiyor demektir. Bu durumda n₁ > n₂'dir. Işığın ortamdaki hızı kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğu için, v₁ < v₂ olmalıdır. v = λf formülüne göre frekans (f) sabitken, hız (v) ile dalga boyu (λ) doğru orantılıdır. v₁ < v₂ olduğu için, λ₁ < λ₂ olmalıdır. Sonuç olarak doğru sıralama: f₁ = f₂, v₁ < v₂, λ₁ < λ₂'dir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520224011_1",
+    "id": "ai_1764519275674_0",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Işık, suyun içinden havaya geçerken ne tür bir kırılma yaşar?",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliklerine bağlıdır?",
     "options": [
-      "Tam yansıma",
-      "Işık hızı artışı",
-      "Işık hızı azalışı",
-      "Kırılma",
-      "Yansıma"
+      "Merceğin kalınlığı",
+      "Merceğin şekli",
+      "Işık kaynağının rengi",
+      "Merceğin malzemesi",
+      "Tüm seçenekler"
     ],
-    "correctAnswer": 3,
-    "explanation": "Işık, daha yoğun bir ortamdan (su) daha az yoğun bir ortama (hava) geçerken kırılır ve bu durumda ışığın hızı artar.",
+    "correctAnswer": 4,
+    "explanation": "Bir merceğin odak noktası, merceğin kalınlığı, şekli ve malzemesi gibi faktörlere bağlıdır. Bu nedenle doğru cevap 'Tüm seçenekler' seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519275674_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi durumda bir mercek, paralel gelen ışınları bir noktada toplar?",
+    "options": [
+      "Diverjan mercek kullanıldığında",
+      "Küresel mercek kullanıldığında",
+      "Konverjan mercek kullanıldığında",
+      "Dikey mercek kullanıldığında",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Konverjan mercek, paralel gelen ışınları bir odak noktasında toplar. Bu nedenle doğru cevap 'Konverjan mercek kullanıldığında' seçeneğidir.",
     "difficulty": 3
   },
   {
@@ -64,22 +80,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498413992_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan bir ince kenarlı (yakınsak) merceğin önüne, mercekten 1.5f uzaklığa bir cisim konuluyor. Oluşan görüntünün özellikleri aşağıdakilerden hangisidir?",
-    "options": [
-      "Sanal, düz ve cisimden küçük",
-      "Gerçek, ters ve cisimden küçük",
-      "Gerçek, ters ve cisimle aynı boyda",
-      "Gerçek, ters ve cisimden büyük",
-      "Sanal, düz ve cisimden büyük"
-    ],
-    "correctAnswer": 3,
-    "explanation": "İnce kenarlı merceklerde görüntü oluşumu için özel ışınlar veya formül (1/f = 1/d_cisim + 1/d_görüntü) kullanılabilir. Özel durumları bilmek YKS için önemlidir. Bir cisim ince kenarlı merceğin önüne F (odak) ile 2F (merkez) arasına konulduğunda (soruda 1.5f verilmiş, bu F ile 2F arasındadır), oluşan görüntü daima merceğin diğer tarafında, 2F'nin dışında, gerçek, ters ve cisimden daha büyük olur. Şıkları incelediğimizde: A) Sanal görüntü cisim F ile mercek arasına konulduğunda oluşur. B) Cisimden küçük görüntü, cisim 2F'nin dışına konulduğunda oluşur. C) Cisimle aynı boyda görüntü, cisim tam 2F'ye konulduğunda oluşur. E) Sanal görüntü F ile mercek arasındayken oluşur. Bu nedenle doğru cevap D seçeneğidir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764498413993_2",
     "subjectId": "fiz",
     "topic": "Optik",
@@ -96,67 +96,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764499767243_0",
+    "id": "ai_1764498413992_1",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Kırıcılık indisi n₁ olan ortamdan, kırıcılık indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Buna göre, ışığın bu ortamlardaki frekansı (f), hızı (v) ve dalga boyu (λ) ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
+    "questionText": "Odak uzaklığı f olan bir ince kenarlı (yakınsak) merceğin önüne, mercekten 1.5f uzaklığa bir cisim konuluyor. Oluşan görüntünün özellikleri aşağıdakilerden hangisidir?",
     "options": [
-      "f₁ = f₂, v₁ > v₂, λ₁ > λ₂",
-      "f₁ > f₂, v₁ < v₂, λ₁ < λ₂",
-      "f₁ = f₂, v₁ < v₂, λ₁ < λ₂",
-      "f₁ < f₂, v₁ > v₂, λ₁ > λ₂",
-      "f₁ = f₂, v₁ < v₂, λ₁ > λ₂"
+      "Sanal, düz ve cisimden küçük",
+      "Gerçek, ters ve cisimden küçük",
+      "Gerçek, ters ve cisimle aynı boyda",
+      "Gerçek, ters ve cisimden büyük",
+      "Sanal, düz ve cisimden büyük"
     ],
-    "correctAnswer": 2,
-    "explanation": "Işık bir ortamdan başka bir ortama geçtiğinde frekansı değişmez, çünkü frekans kaynağa bağlıdır. Dolayısıyla f₁ = f₂'dir. Şekilde ışının normalden uzaklaşarak kırıldığı görülmektedir. Snell Yasası'na göre, ışın normalden uzaklaşıyorsa az yoğun ortama geçiyor demektir. Bu durumda n₁ > n₂'dir. Işığın ortamdaki hızı kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğu için, v₁ < v₂ olmalıdır. v = λf formülüne göre frekans (f) sabitken, hız (v) ile dalga boyu (λ) doğru orantılıdır. v₁ < v₂ olduğu için, λ₁ < λ₂ olmalıdır. Sonuç olarak doğru sıralama: f₁ = f₂, v₁ < v₂, λ₁ < λ₂'dir.",
+    "correctAnswer": 3,
+    "explanation": "İnce kenarlı merceklerde görüntü oluşumu için özel ışınlar veya formül (1/f = 1/d_cisim + 1/d_görüntü) kullanılabilir. Özel durumları bilmek YKS için önemlidir. Bir cisim ince kenarlı merceğin önüne F (odak) ile 2F (merkez) arasına konulduğunda (soruda 1.5f verilmiş, bu F ile 2F arasındadır), oluşan görüntü daima merceğin diğer tarafında, 2F'nin dışında, gerçek, ters ve cisimden daha büyük olur. Şıkları incelediğimizde: A) Sanal görüntü cisim F ile mercek arasına konulduğunda oluşur. B) Cisimden küçük görüntü, cisim 2F'nin dışına konulduğunda oluşur. C) Cisimle aynı boyda görüntü, cisim tam 2F'ye konulduğunda oluşur. E) Sanal görüntü F ile mercek arasındayken oluşur. Bu nedenle doğru cevap D seçeneğidir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499767243_1",
+    "id": "ai_1764520224011_1",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan ince kenarlı bir merceğin önüne, optik eksene dik olarak konulan bir cismin görüntüsü, merceğin diğer tarafında ve mercekten 3f uzaklıkta oluşuyor. Buna göre, cisim mercekten ne kadar uzaktadır ve oluşan görüntünün özellikleri nelerdir?",
+    "questionText": "Işık, suyun içinden havaya geçerken ne tür bir kırılma yaşar?",
     "options": [
-      "Cisim 1.5f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
-      "Cisim 2f uzağındadır; görüntü gerçek, ters ve boyu cismin boyuna eşittir.",
-      "Cisim 3f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 1.5 katıdır.",
-      "Cisim 1.5f uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır.",
-      "Cisim f/2 uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır."
+      "Tam yansıma",
+      "Işık hızı artışı",
+      "Işık hızı azalışı",
+      "Kırılma",
+      "Yansıma"
     ],
-    "correctAnswer": 0,
-    "explanation": "İnce kenarlı mercek formülü 1/f = 1/d_c + 1/d_g 'dir. Burada d_c cismin uzaklığı, d_g ise görüntünün uzaklığıdır. Görüntü merceğin diğer tarafında oluştuğu için gerçektir ve d_g = +3f olarak alınır. Formülde yerine koyarsak: 1/f = 1/d_c + 1/(3f). Buradan 1/d_c = 1/f - 1/(3f) = (3-1)/3f = 2/(3f) bulunur. Yani d_c = 3f/2 = 1.5f'dir. Büyütme oranı m = -d_g / d_c = -(3f) / (1.5f) = -2'dir. Büyütmenin negatif olması görüntünün terse döndüğünü, mutlak değerinin 1'den büyük olması ise görüntünün cisimden daha büyük olduğunu (2 katı) gösterir. d_g'nin pozitif olması da görüntünün gerçek olduğunu teyit eder. Sonuç olarak, cisim 1.5f uzağındadır ve görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499767243_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir gözlemci, hava ortamından suyun içindeki bir balığa baktığında, balığı gerçek derinliğinden daha yakında görür. Bu olayın temel nedeni aşağıdakilerden hangisidir?",
-    "options": [
-      "Işığın yansıması",
-      "Işığın tam yansımaya uğraması",
-      "Işığın kırılması",
-      "Işığın renklerine ayrılması (kırınım)",
-      "Işığın soğurulması"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Gözlemcinin bir cismi görebilmesi için cisimden gelen ışınların göze ulaşması gerekir. Sudan (çok yoğun ortam) havaya (az yoğun ortam) çıkan ışınlar, iki ortamı ayıran yüzeyde normalden uzaklaşarak kırılır. Gözlemcinin gözü, bu kırılan ışınların uzantılarının kesiştiği noktada bir sanal görüntü algılar. Işınlar normalden uzaklaşarak kırıldığı için, uzantıları su yüzeyine daha yakın bir noktada kesişir. Bu nedenle gözlemci, su içindeki balığı gerçekte olduğundan daha sığ bir derinlikte, yani kendisine daha yakın görür. Bu olayın temel nedeni ışığın sudan havaya geçerken kırılmasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501122795_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan ince kenarlı (yakınsak) bir merceğin önüne, mercekten 1,5f uzaklığa bir cisim konuluyor. Oluşan görüntü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Görüntü sanaldır ve cisimle aynı taraftadır.",
-      "Görüntünün boyu cismin boyundan küçüktür.",
-      "Görüntü mercekten 3f uzaklıkta ve gerçektir.",
-      "Görüntü cisme göre düzdür.",
-      "Görüntü merceğin odak noktası (f) ile 2f noktası arasında oluşur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "İnce kenarlı merceklerde görüntü oluşumunu bulmak için mercek formülü kullanılır: 1/f = 1/d_c + 1/d_g. Burada f odak uzaklığı, d_c cismin uzaklığı ve d_g görüntünün uzaklığıdır. Soruda d_c = 1,5f verilmiştir. Formülde yerine koyarsak:\n1/f = 1/(1,5f) + 1/d_g\n1/d_g = 1/f - 1/(1,5f)\n1/d_g = 1/f - 2/(3f)\n1/d_g = (3 - 2) / (3f)\n1/d_g = 1/(3f)  =>  d_g = 3f\n\nSonucun pozitif çıkması, görüntünün merceğin diğer tarafında ve gerçek olduğunu gösterir. Büyütme formülü m = -d_g/d_c = |h_g/h_c| olduğundan, m = -3f / 1,5f = -2 bulunur. Büyütme değerinin 1'den büyük olması (|m|>1) görüntünün cisimden büyük olduğunu, negatif olması ise görüntünün cisme göre ters (baş aşağı) olduğunu gösterir. Bu bilgilere göre şıkları değerlendirelim:\nA) Yanlış. Görüntü gerçektir (d_g > 0).\nB) Yanlış. Görüntünün boyu cismin boyunun 2 katıdır, yani daha büyüktür.\nC) Doğru. Görüntü mercekten 3f uzaklıkta oluşur ve gerçektir.\nD) Yanlış. Görüntü gerçektir ve cisme göre terstir.\nE) Yanlış. Görüntü 3f noktasında, yani 2f'nin dışında oluşur. Genel bir kural olarak, cisim F ile 2F arasındaysa, görüntü 2F'nin dışında oluşur.",
+    "correctAnswer": 3,
+    "explanation": "Işık, daha yoğun bir ortamdan (su) daha az yoğun bir ortama (hava) geçerken kırılır ve bu durumda ışığın hızı artar.",
     "difficulty": 3
   },
   {
@@ -176,19 +144,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519275674_0",
+    "id": "ai_1764520224011_2",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliklerine bağlıdır?",
+    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
     "options": [
-      "Merceğin kalınlığı",
-      "Merceğin şekli",
-      "Işık kaynağının rengi",
-      "Merceğin malzemesi",
-      "Tüm seçenekler"
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "İnterferans",
+      "Polarizasyon"
     ],
-    "correctAnswer": 4,
-    "explanation": "Bir merceğin odak noktası, merceğin kalınlığı, şekli ve malzemesi gibi faktörlere bağlıdır. Bu nedenle doğru cevap 'Tüm seçenekler' seçeneğidir.",
+    "correctAnswer": 1,
+    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499767243_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir gözlemci, hava ortamından suyun içindeki bir balığa baktığında, balığı gerçek derinliğinden daha yakında görür. Bu olayın temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Işığın yansıması",
+      "Işığın tam yansımaya uğraması",
+      "Işığın kırılması",
+      "Işığın renklerine ayrılması (kırınım)",
+      "Işığın soğurulması"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gözlemcinin bir cismi görebilmesi için cisimden gelen ışınların göze ulaşması gerekir. Sudan (çok yoğun ortam) havaya (az yoğun ortam) çıkan ışınlar, iki ortamı ayıran yüzeyde normalden uzaklaşarak kırılır. Gözlemcinin gözü, bu kırılan ışınların uzantılarının kesiştiği noktada bir sanal görüntü algılar. Işınlar normalden uzaklaşarak kırıldığı için, uzantıları su yüzeyine daha yakın bir noktada kesişir. Bu nedenle gözlemci, su içindeki balığı gerçekte olduğundan daha sığ bir derinlikte, yani kendisine daha yakın görür. Bu olayın temel nedeni ışığın sudan havaya geçerken kırılmasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499767243_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Odak uzaklığı f olan ince kenarlı bir merceğin önüne, optik eksene dik olarak konulan bir cismin görüntüsü, merceğin diğer tarafında ve mercekten 3f uzaklıkta oluşuyor. Buna göre, cisim mercekten ne kadar uzaktadır ve oluşan görüntünün özellikleri nelerdir?",
+    "options": [
+      "Cisim 1.5f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
+      "Cisim 2f uzağındadır; görüntü gerçek, ters ve boyu cismin boyuna eşittir.",
+      "Cisim 3f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 1.5 katıdır.",
+      "Cisim 1.5f uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır.",
+      "Cisim f/2 uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "İnce kenarlı mercek formülü 1/f = 1/d_c + 1/d_g 'dir. Burada d_c cismin uzaklığı, d_g ise görüntünün uzaklığıdır. Görüntü merceğin diğer tarafında oluştuğu için gerçektir ve d_g = +3f olarak alınır. Formülde yerine koyarsak: 1/f = 1/d_c + 1/(3f). Buradan 1/d_c = 1/f - 1/(3f) = (3-1)/3f = 2/(3f) bulunur. Yani d_c = 3f/2 = 1.5f'dir. Büyütme oranı m = -d_g / d_c = -(3f) / (1.5f) = -2'dir. Büyütmenin negatif olması görüntünün terse döndüğünü, mutlak değerinin 1'den büyük olması ise görüntünün cisimden daha büyük olduğunu (2 katı) gösterir. d_g'nin pozitif olması da görüntünün gerçek olduğunu teyit eder. Sonuç olarak, cisim 1.5f uzağındadır ve görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
     "difficulty": 3
   },
   {
@@ -208,19 +208,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519275674_2",
+    "id": "ai_1764501122795_0",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Hangi durumda bir mercek, paralel gelen ışınları bir noktada toplar?",
+    "questionText": "Odak uzaklığı f olan ince kenarlı (yakınsak) bir merceğin önüne, mercekten 1,5f uzaklığa bir cisim konuluyor. Oluşan görüntü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Diverjan mercek kullanıldığında",
-      "Küresel mercek kullanıldığında",
-      "Konverjan mercek kullanıldığında",
-      "Dikey mercek kullanıldığında",
-      "Hiçbiri"
+      "Görüntü sanaldır ve cisimle aynı taraftadır.",
+      "Görüntünün boyu cismin boyundan küçüktür.",
+      "Görüntü mercekten 3f uzaklıkta ve gerçektir.",
+      "Görüntü cisme göre düzdür.",
+      "Görüntü merceğin odak noktası (f) ile 2f noktası arasında oluşur."
     ],
     "correctAnswer": 2,
-    "explanation": "Konverjan mercek, paralel gelen ışınları bir odak noktasında toplar. Bu nedenle doğru cevap 'Konverjan mercek kullanıldığında' seçeneğidir.",
+    "explanation": "İnce kenarlı merceklerde görüntü oluşumunu bulmak için mercek formülü kullanılır: 1/f = 1/d_c + 1/d_g. Burada f odak uzaklığı, d_c cismin uzaklığı ve d_g görüntünün uzaklığıdır. Soruda d_c = 1,5f verilmiştir. Formülde yerine koyarsak:\n1/f = 1/(1,5f) + 1/d_g\n1/d_g = 1/f - 1/(1,5f)\n1/d_g = 1/f - 2/(3f)\n1/d_g = (3 - 2) / (3f)\n1/d_g = 1/(3f)  =>  d_g = 3f\n\nSonucun pozitif çıkması, görüntünün merceğin diğer tarafında ve gerçek olduğunu gösterir. Büyütme formülü m = -d_g/d_c = |h_g/h_c| olduğundan, m = -3f / 1,5f = -2 bulunur. Büyütme değerinin 1'den büyük olması (|m|>1) görüntünün cisimden büyük olduğunu, negatif olması ise görüntünün cisme göre ters (baş aşağı) olduğunu gösterir. Bu bilgilere göre şıkları değerlendirelim:\nA) Yanlış. Görüntü gerçektir (d_g > 0).\nB) Yanlış. Görüntünün boyu cismin boyunun 2 katıdır, yani daha büyüktür.\nC) Doğru. Görüntü mercekten 3f uzaklıkta oluşur ve gerçektir.\nD) Yanlış. Görüntü gerçektir ve cisme göre terstir.\nE) Yanlış. Görüntü 3f noktasında, yani 2f'nin dışında oluşur. Genel bir kural olarak, cisim F ile 2F arasındaysa, görüntü 2F'nin dışında oluşur.",
     "difficulty": 3
   }
 ]
