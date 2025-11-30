@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519392436_0",
+    "id": "ai_1764520359327_0",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminde kanın kalpten vücuda pompalanması hangi damar aracılığıyla gerçekleşir?",
+    "questionText": "Aşağıdakilerden hangisi insan dolaşım sisteminin ana işlevlerinden biri değildir?",
     "options": [
-      "Pulmoner Arter",
-      "Aort",
-      "Vena Kava",
-      "Pulmoner Ven",
-      "Koroner Damarlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kalpten vücuda kanın pompalanması aort damarından gerçekleşir. Aort, kalpten çıkan en büyük atardamardır ve oksijen bakımından zengin kanı vücuda dağıtır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519392436_1",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Hangisi insan dolaşım sisteminde yer alan bir kan damarı türü değildir?",
-    "options": [
-      "Atardamar",
-      "Toplar damar",
-      "Kılcal damar",
-      "Lenf damarı",
-      "Karbondioksit damarı"
+      "Oksijen taşımak",
+      "Karbon dioksit taşımak",
+      "Besin maddelerini taşımak",
+      "Hormonları taşımak",
+      "Sıcaklık düzenlemek"
     ],
     "correctAnswer": 4,
-    "explanation": "İnsan dolaşım sisteminde atardamarlar, toplar damarlar ve kılcal damarlar yer alırken, karbondioksit damarı olarak bilinen bir damar türü yoktur.",
+    "explanation": "İnsan dolaşım sistemi, oksijen, karbon dioksit, besin maddeleri ve hormonların taşınmasında önemli rol oynar. Ancak sıcaklık düzenlemek dolaşım sisteminin birincil işlevi değildir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519392436_2",
+    "id": "ai_1764520359327_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hücrelerinin özelliği olan otomatikite, hangi özellik ile sağlanır?",
+    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
     "options": [
-      "Sinir hücreleri",
-      "Özel hücreler",
-      "Kan akışı",
-      "Hormonlar",
-      "Dışsal uyarılar"
+      "Düz kas",
+      "İskelet kası",
+      "Kalp kası",
+      "Epitelyal doku",
+      "Bağ doku"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kalp kası hücreleri, otomatikite özelliğine sahip özel hücreler (özellikle sinoatriyal düğüm hücreleri) sayesinde kendi kendine uyarılarak kasılma yeteneğine sahiptir.",
+    "correctAnswer": 2,
+    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520359327_2",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
+    "options": [
+      "Aort",
+      "Venöz sistem",
+      "Kapiller damarlar",
+      "Pulmoner arter",
+      "Vena kava"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
     "difficulty": 3
   }
 ]
