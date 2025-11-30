@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764519242509_0",
+    "id": "ai_1764520188409_0",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Bir cismin potansiyel enerjisi, yükseklik ile nasıl ilişkilidir?",
+    "questionText": "Bir cismin kinetik enerjisi neye bağlıdır?",
     "options": [
-      "Yükseklik arttıkça potansiyel enerji azalır.",
-      "Yükseklik ile potansiyel enerji arasında bir ilişki yoktur.",
-      "Yükseklik arttıkça potansiyel enerji artar.",
-      "Potansiyel enerji sadece cismin kütlesine bağlıdır.",
-      "Potansiyel enerji sadece cismin hareketine bağlıdır."
+      "Cismin şekline",
+      "Cismin sıcaklığına",
+      "Cismin hızına ve kütlesine",
+      "Cismin rengine",
+      "Cismin yaşına"
     ],
     "correctAnswer": 2,
-    "explanation": "Potansiyel enerji, bir cismin yerden yüksekliği ile doğru orantılıdır. Yükseklik arttıkça, cismin potansiyel enerjisi de artar. Bu, mgh formülü ile ifade edilir; burada m kütle, g yerçekimi ivmesi ve h yüksekliktir.",
+    "explanation": "Kinetik enerji, bir cismin hareket etme durumunu ifade eder ve cismin hızı ile kütlesine bağlıdır. Kinetik enerji, E_k = 1/2 mv^2 formülü ile hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520188410_1",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Potansiyel enerji hangi durumlarda en yüksek olur?",
+    "options": [
+      "Cismin en alt noktada olduğu durumlarda",
+      "Cismin en üst noktada olduğu durumlarda",
+      "Cismin hızının en yüksek olduğu durumlarda",
+      "Cismin sıcaklığının en düşük olduğu durumlarda",
+      "Cismin şeklinin en büyük olduğu durumlarda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Potansiyel enerji, bir cismin konumuna bağlıdır. Özellikle yer çekimi etkisi altında, cismin en yüksek noktada olduğu durumlarda potansiyel enerji maksimum düzeye ulaşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520188414_2",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Isı enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Isı enerjisi her zaman artar.",
+      "Isı enerjisi yalnızca gazlarda bulunur.",
+      "Isı enerjisi, sıcaklık farkı ile akar.",
+      "Isı enerjisi, cisimlerin rengine bağlıdır.",
+      "Isı enerjisi yalnızca elektrik enerjisinden elde edilir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Isı enerjisi, sıcaklık farkı nedeniyle yüksek sıcaklıktan düşük sıcaklığa doğru akar. Bu, termodinamiğin temel prensiplerinden biridir.",
     "difficulty": 3
   }
 ]
