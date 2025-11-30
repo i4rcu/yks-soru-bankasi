@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764497487034_0",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "₁₆S²⁻, ₁₉K⁺ ve ₂₀Ca²⁺ iyonları ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?",
+    "options": [
+      "Üç tanecik de izoelektroniktir.",
+      "İyon yarıçapı en büyük olan ₁₆S²⁻'dir.",
+      "Çekirdek yükü en fazla olan ₂₀Ca²⁺'dır.",
+      "Elektron başına düşen çekim kuvveti en fazla olan ₁₆S²⁻'dir.",
+      "Üç taneciğin de kimyasal özellikleri birbirinden farklıdır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Verilen iyonların elektron sayıları hesaplandığında: S²⁻ (16+2=18), K⁺ (19-1=18), Ca²⁺ (20-2=18). Hepsinin 18 elektronu olduğu için izoelektroniktirler (A doğru). İzoelektronik taneciklerde, proton sayısı (çekirdek yükü) arttıkça elektron başına düşen çekim kuvveti artar ve iyon yarıçapı küçülür. Çekirdek yükleri S=16, K=19, Ca=20'dir (C doğru). Bu durumda yarıçap sıralaması S²⁻ > K⁺ > Ca²⁺ şeklinde olur (B doğru). Elektron başına düşen çekim kuvveti en fazla olan, proton sayısı en çok olan Ca²⁺ iyonudur. En az olan ise proton sayısı en az olan S²⁻ iyonudur. Bu nedenle D şıkkı yanlıştır. Proton sayıları farklı olduğu için bu taneciklerin kimyasal özellikleri de birbirinden farklıdır (E doğru).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497487035_1",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "Birinci iyonlaşma enerjileri (İE₁) ile ilgili aşağıdaki karşılaştırmalardan hangisi **yanlıştır**?",
+    "options": [
+      "₄Be > ₅B",
+      "₇N > ₈O",
+      "₁₂Mg < ₁₃Al",
+      "₁₅P > ₁₆S",
+      "₂He > ₁₀Ne"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Birinci iyonlaşma enerjisi, periyodik sistemde genellikle soldan sağa doğru artar, yukarıdan aşağıya doğru azalır. Ancak bu sıralamada küresel simetri nedeniyle bazı istisnalar bulunur. Bir periyotta 2A grubu elementlerinin İE₁ değeri, 3A grubu elementlerinden; 5A grubu elementlerinin İE₁ değeri ise 6A grubu elementlerinden daha büyüktür (üç aşağı beş yukarı kuralı). \nA) ₄Be (2A) ve ₅B (3A) aynı periyottadır. Küresel simetriden dolayı Be > B olmalıdır. Karşılaştırma doğrudur. \nB) ₇N (5A) ve ₈O (6A) aynı periyottadır. Küresel simetriden dolayı N > O olmalıdır. Karşılaştırma doğrudur. \nC) ₁₂Mg (2A) ve ₁₃Al (3A) aynı periyottadır. Küresel simetriden dolayı Mg > Al olmalıdır. Ancak şıkta Mg < Al verildiği için bu karşılaştırma yanlıştır. \nD) ₁₅P (5A) ve ₁₆S (6A) aynı periyottadır. Küresel simetriden dolayı P > S olmalıdır. Karşılaştırma doğrudur. \nE) ₂He ve ₁₀Ne aynı gruptadır (8A). İE₁ yukarıdan aşağıya azaldığı için He > Ne olmalıdır. Karşılaştırma doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497487035_2",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "Nötr X atomunun temel hâl elektron dizilimindeki en son terim 3p⁴ ile bitmektedir. Buna göre X atomu ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?",
+    "options": [
+      "Atom numarası 16'dır.",
+      "Periyodik sistemde 3. periyot 16. grupta yer alır.",
+      "Değerlik elektron sayısı 6'dır.",
+      "Küresel simetri özelliği gösterir.",
+      "p orbitallerinde toplam 10 elektron bulunur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Elektron dizilimi 3p⁴ ile biten nötr bir atomun tam dizilimi: 1s² 2s² 2p⁶ 3s² 3p⁴ şeklindedir. \nA) Toplam elektron sayısı 2+2+6+2+4=16'dır. Nötr atom olduğu için atom numarası da 16'dır. Bu ifade doğrudur. \nB) En yüksek baş kuantum sayısı 3 olduğu için 3. periyottadır. Değerlik orbitalleri (3s ve 3p) toplam 2+4=6 elektron içerdiği için 6A grubunda, yani 16. grupta yer alır. Bu ifade doğrudur. \nC) Değerlik elektronları en dış katmandaki (n=3) elektronlardır. 3s² ve 3p⁴ orbitallerinde toplam 6 elektron olduğu için değerlik elektron sayısı 6'dır. Bu ifade doğrudur. \nD) Küresel simetri, son orbitalin tam dolu (p⁶, d¹⁰) veya yarı dolu (p³, d⁵) olması durumudur. 3p⁴ dizilimi bu durumlardan hiçbirine uymadığı için atom küresel simetri özelliği göstermez. Bu ifade yanlıştır. \nE) Atomun 2p ve 3p orbitallerindeki elektronların toplamı 6 + 4 = 10'dur. Bu ifade doğrudur.",
+    "difficulty": 3
+  }
+]
