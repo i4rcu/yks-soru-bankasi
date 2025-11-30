@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764498111227_0",
+    "id": "ai_1764499467400_0",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Bir (a_n) aritmetik dizisinde a₅ + a₁₁ = 30 olduğuna göre, bu dizinin 8. terimi (a₈) kaçtır?",
+    "questionText": "İlk n terim toplamı S_n = n² + 3n olan bir (a_n) aritmetik dizisinin 7. terimi kaçtır?",
     "options": [
-      "10",
-      "12",
+      "14",
       "15",
+      "16",
       "18",
-      "30"
+      "70"
     ],
     "correctAnswer": 2,
-    "explanation": "Bir aritmetik dizide, herhangi bir terim kendisine eşit uzaklıktaki terimlerin aritmetik ortalamasına eşittir. Yani aₙ = (aₙ₋ₖ + aₙ₊ₖ) / 2'dir. Bu soruda a₈ terimi, a₅ ve a₁₁ terimlerine eşit uzaklıktadır (8 - 5 = 3 ve 11 - 8 = 3). Dolayısıyla a₈ = (a₅ + a₁₁) / 2'dir. Verilen a₅ + a₁₁ = 30 eşitliğini kullanarak a₈ = 30 / 2 = 15 buluruz. Alternatif olarak, aritmetik dizi özelliğinden p + q = r + s ise aₚ + a_q = a_r + a_s'dir. 5 + 11 = 16 ve 8 + 8 = 16 olduğundan, a₅ + a₁₁ = a₈ + a₈ = 2a₈ olur. Buradan 2a₈ = 30 ve a₈ = 15 bulunur.",
+    "explanation": "Bir aritmetik dizide n. terim (a_n), ilk n terim toplamı (S_n) ile ilk (n-1) terim toplamının (S_{n-1}) farkına eşittir. Yani, a_n = S_n - S_{n-1}. Bu soruda 7. terim sorulmaktadır. Bu durumda, a_7 = S_7 - S_6 olacaktır.\n\n1. S_7'yi hesaplayalım: S_7 = 7² + 3(7) = 49 + 21 = 70.\n2. S_6'yı hesaplayalım: S_6 = 6² + 3(6) = 36 + 18 = 54.\n3. a_7'yi bulalım: a_7 = S_7 - S_6 = 70 - 54 = 16.\n\nAlternatif bir yol olarak:\n1. İlk terimi (a_1) bulalım: a_1 = S_1 = 1² + 3(1) = 4.\n2. İlk iki terim toplamını bulalım: S_2 = 2² + 3(2) = 4 + 6 = 10.\n3. İkinci terimi (a_2) bulalım: a_2 = S_2 - S_1 = 10 - 4 = 6.\n4. Ortak farkı (d) bulalım: d = a_2 - a_1 = 6 - 4 = 2.\n5. Dizinin genel terim formülünü (a_n = a_1 + (n-1)d) kullanarak 7. terimi bulalım: a_7 = 4 + (7-1) * 2 = 4 + 6 * 2 = 4 + 12 = 16. Her iki yöntemle de doğru cevap 16 bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498111227_1",
+    "id": "ai_1764499467400_1",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinin ilk terimi 3 ve ortak çarpanı 2'dir. Bu dizinin ilk n teriminin toplamı 381 olduğuna göre, n kaçtır?",
+    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinde a₄ + a₆ = 20 ve a₅ + a₇ = 60 olduğuna göre, dizinin ilk terimi (a₁) kaçtır?",
     "options": [
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
+      "1/9",
+      "2/27",
+      "2/9",
+      "1/3",
+      "3"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bir geometrik dizinin ilk n terim toplamı (Sₙ) formülü: Sₙ = a₁ * (rⁿ - 1) / (r - 1) şeklindedir. Soruda verilenler: ilk terim a₁ = 3, ortak çarpan r = 2 ve ilk n terim toplamı Sₙ = 381. Bu değerleri formülde yerine yazalım: 381 = 3 * (2ⁿ - 1) / (2 - 1). Paydadaki (2-1) = 1 olduğu için denklem 381 = 3 * (2ⁿ - 1) haline gelir. Her iki tarafı 3'e böldüğümüzde 127 = 2ⁿ - 1 olur. -1'i karşıya attığımızda 128 = 2ⁿ elde ederiz. 128, 2'nin 7. kuvveti olduğundan (128 = 2⁷), n = 7 olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498111227_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "(a_n) ortak farkı sıfırdan farklı bir aritmetik dizidir. Bu dizinin a₁, a₂ ve a₆ terimleri sırasıyla bir geometrik dizinin ardışık üç terimini oluşturmaktadır. a₁ = 2 olduğuna göre, bu aritmetik dizinin ortak farkı (d) kaçtır?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "6",
-      "8"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Aritmetik dizinin ortak farkına 'd' diyelim. a₁ = 2 olarak verilmiş. Dizinin terimlerini 'd' cinsinden yazalım: a₁ = 2, a₂ = a₁ + d = 2 + d, a₆ = a₁ + 5d = 2 + 5d. Bu üç terim (2, 2+d, 2+5d) aynı zamanda bir geometrik dizinin ardışık terimleridir. Bir geometrik dizide ortadaki terimin karesi, diğer iki terimin çarpımına eşittir. Yani (a₂)² = a₁ * a₆. Değerleri yerine koyalım: (2 + d)² = 2 * (2 + 5d). Parantezleri açalım: 4 + 4d + d² = 4 + 10d. Denklemi düzenleyelim: d² + 4d - 10d + 4 - 4 = 0, bu da d² - 6d = 0 olur. Denklemi d parantezine alırsak d(d - 6) = 0 buluruz. Bu denklemin kökleri d=0 ve d=6'dır. Soruda ortak farkın sıfırdan farklı olduğu belirtildiği için d=0 çözümünü alamayız. Dolayısıyla, ortak fark d = 6'dır.",
+    "correctAnswer": 1,
+    "explanation": "Geometrik dizinin genel terimi a_n = a₁ * rⁿ⁻¹ formülüyle ifade edilir. Verilen denklemleri bu formülü kullanarak açalım:\n\n1. Denklem: a₄ + a₆ = a₁r³ + a₁r⁵ = 20\n   Bu denklemi a₁r³ parantezine alalım: a₁r³(1 + r²) = 20\n\n2. Denklem: a₅ + a₇ = a₁r⁴ + a₁r⁶ = 60\n   Bu denklemi a₁r⁴ parantezine alalım: a₁r⁴(1 + r²) = 60\n\nŞimdi, 2. denklemi 1. denkleme oranlayarak ortak çarpanı (r) bulalım:\n(a₁r⁴(1 + r²)) / (a₁r³(1 + r²)) = 60 / 20\n\nSadeleştirme yaptığımızda:\nr = 3\n\nDizi pozitif terimli olduğu için r = 3 değeri uygundur. Şimdi r değerini 1. denklemde yerine koyarak ilk terimi (a₁) bulalım:\na₁ * (3)³ * (1 + 3²) = 20\na₁ * 27 * (1 + 9) = 20\na₁ * 27 * 10 = 20\na₁ * 270 = 20\na₁ = 20 / 270 = 2/27\n\nBu nedenle, dizinin ilk terimi 2/27'dir.",
     "difficulty": 3
   }
 ]
