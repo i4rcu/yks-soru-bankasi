@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764498792328_0",
+    "id": "ai_1764500179499_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Aksiyon potansiyelinin repolarizasyon evresinde, zar potansiyelinin tekrar negatif değerlere dönmesinden temel olarak sorumlu olan iyon hareketi aşağıdakilerden hangisidir?",
+    "questionText": "Bir nöronda miyelin kılıf bulunması, impuls iletimi sırasında aşağıdaki olaylardan hangisine neden olmaz?",
     "options": [
-      "Na+ iyonlarının hücre içine girmesi (influks)",
-      "K+ iyonlarının hücre dışına çıkması (efluks)",
-      "Ca2+ iyonlarının hücre içine girmesi (influks)",
-      "Voltaj kapılı Na+ kanallarının aktifleşmesi",
-      "Cl- iyonlarının hücre içine girmesi (influks)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Repolarizasyon, hücre zarının yeniden kutuplaşarak dinlenme potansiyeline dönmesidir. Bu evrede, voltaj kapılı Na+ kanalları inaktif duruma geçerken, voltaj kapılı K+ kanalları açılır. Bu durum, K+ iyonlarının derişim gradyanına uygun olarak hücre dışına çıkmasına (efluks) neden olur. Pozitif yüklü iyonların (K+) hücre dışına çıkması, hücre içinin tekrar negatif hale gelmesini sağlar ve zar potansiyelini dinlenme potansiyeline yaklaştırır. Na+ girişi depolarizasyonda, Ca2+ girişi ise genellikle sinaptik iletimde rol oynar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Alkolün etkisi altındayken bir kişinin denge kurmakta zorlanması, yürümede güçlük çekmesi ve hareketlerini koordine edememesi, alkolün öncelikli olarak beynin hangi bölümünü etkilediğini gösterir?",
-    "options": [
-      "Omurilik soğanı",
-      "Uç beyin (Serebrum)",
-      "Hipotalamus",
-      "Talamus",
-      "Beyincik (Serebellum)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Beyincik (serebellum), vücudun denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde gerçekleşmesini sağlar. Alkol, beyinciğin fonksiyonlarını baskılayarak denge kaybı, yürüme bozuklukları (ataksi) ve ince motor becerilerinde bozulma gibi semptomlara yol açar. Soruda tarif edilen belirtiler, doğrudan beyinciğin görevleriyle ilgilidir. Diğer şıklar ise farklı fonksiyonlardan sorumludur (Omurilik soğanı: Hayati refleksler, Hipotalamus: Homeostazi, Talamus: Duyu merkezi, Uç beyin: İstemli hareketler ve bilinç).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
-    "options": [
-      "Miyelin kılıfın varlığı",
-      "Akson çapının genişliği",
-      "Ranvier boğum sayısı",
-      "Uyarının şiddeti",
-      "Sıcaklık"
+      "İmpuls iletim hızının artması",
+      "Sodyum-potasyum pompasının daha az çalışması nedeniyle enerji tasarrufu sağlanması",
+      "Aksiyon potansiyelinin sadece Ranvier boğumlarında oluşması",
+      "Uyartının şiddetinin akson boyunca artarak ilerlemesi",
+      "İmpulsun bir boğumdan diğerine atlayarak iletilmesi (saltatorik iletim)"
     ],
     "correctAnswer": 3,
-    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
+    "explanation": "Sinir hücrelerinde impuls iletimi \"hep ya da hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöron eşik değerde veya üzerinde bir uyarı aldığında her zaman aynı şiddette ve hızda bir aksiyon potansiyeli oluşturur. Uyartının şiddeti, impulsun şiddetini (amplitüdünü) değil, sıklığını (frekansını) etkiler. Miyelin kılıf, impulsun Ranvier boğumlarında atlayarak (saltatorik) iletilmesini sağlar, bu da hızı artırır ve sadece boğumlarda iyon değişimi olduğu için enerji tasarrufu sağlar. Ancak miyelin kılıf, impulsun şiddetini akson boyunca artırmaz, şiddet sabit kalır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500179499_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir kaza sonucu beyinciği hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "options": [
+      "Solunum ve dolaşım gibi hayati faaliyetlerin durması",
+      "Hafıza kaybı ve öğrenme güçlüğü yaşanması",
+      "Vücut sıcaklığı ve kan basıncının düzenlenememesi",
+      "Refleks hareketlerinin kontrol edilememesi",
+      "Denge kaybı ve hareketlerde koordinasyon bozukluğu yaşanması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
     "difficulty": 3
   }
 ]
