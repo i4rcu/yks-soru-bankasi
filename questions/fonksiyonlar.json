@@ -1,130 +1,98 @@
 [
   {
-    "id": "ai_1764499307672_0",
+    "id": "ai_1764500671751_0",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "Gerçel sayılar kümesinde tanımlı f ve g fonksiyonları f(x) = 3x - 5 ve g(x) = x² + 1 olarak veriliyor. Buna göre, (f o g)(2) değeri kaçtır?",
+    "questionText": "Gerçel sayılar kümesinde tanımlı f ve g fonksiyonları için f(x - 1) = 3x + 2 ve g(x + 2) = 4x - 1 olarak veriliyor. Buna göre, (fog)(3) ifadesinin değeri kaçtır?",
     "options": [
-      "5",
-      "8",
-      "10",
-      "15",
-      "18"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bileşke fonksiyon (f o g)(x), f(g(x)) olarak ifade edilir. (f o g)(2) değerini bulmak için önce g(2) değerini hesaplamalıyız. \n g(x) = x² + 1 olduğundan, g(2) = 2² + 1 = 4 + 1 = 5 olur. \n Şimdi bulduğumuz bu değeri f fonksiyonunda yerine yazmalıyız, yani f(5) değerini bulmalıyız. \n f(x) = 3x - 5 olduğundan, f(5) = 3 * 5 - 5 = 15 - 5 = 10 olur. \n Dolayısıyla, (f o g)(2) = 10'dur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499307672_1",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "Uygun koşullarda tanımlı f fonksiyonu f(x) = (2x + 7) / (x - 3) şeklinde veriliyor. Buna göre, f⁻¹(4) değeri kaçtır?",
-    "options": [
-      "15/2",
-      "19/2",
       "11",
-      "15",
-      "19"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir fonksiyonun tersini bulmanın iki yolu vardır. \n Yöntem 1: f(a) = b ise f⁻¹(b) = a'dır. f⁻¹(4) = k diyelim. Bu durumda f(k) = 4 olur. \n f(k) = (2k + 7) / (k - 3) = 4 \n 2k + 7 = 4(k - 3) \n 2k + 7 = 4k - 12 \n 19 = 2k \n k = 19/2. Bu şıklarda yok, bir yerde hata yaptım. Tekrar kontrol edeyim. 2k+7 = 4k-12. 12+7=19. 4k-2k=2k. 2k=19. k=19/2. İşlem doğru. Şıkları kontrol edeyim. Hatalı şık koymuş olabilirim. Soruyu veya şıkları değiştireyim. f⁻¹(3) sorulsun. f(k)=3 => (2k+7)/(k-3)=3 => 2k+7 = 3k-9 => k=16. Bu daha iyi. Soruyu f⁻¹(3) olarak düzeltiyorum. Yeni soru: f⁻¹(3) kaçtır? f(k)=3 -> (2k+7)/(k-3)=3 -> 2k+7=3k-9 -> 16=k. Şıkları da düzenliyorum. [12, 14, 15, 16, 18]. Doğru cevap 16 (index 3). Açıklamayı da buna göre düzeltiyorum. \n\n --- Yeniden Düzenlenmiş Soru --- \n Soru metni: Uygun koşullarda tanımlı f fonksiyonu f(x) = (2x + 7) / (x - 3) şeklinde veriliyor. Buna göre, f⁻¹(3) değeri kaçtır? \n Şıklar: [\"12\", \"14\", \"15\", \"16\", \"18\"] \n Doğru Cevap: 3 \n Açıklama: f⁻¹(3) = k olsun. Bu durumda f(k) = 3 olur. Fonksiyon kuralında x yerine k yazıp 3'e eşitleyelim: (2k + 7) / (k - 3) = 3. İçler dışlar çarpımı yaparsak: 2k + 7 = 3(k - 3) => 2k + 7 = 3k - 9. Bilinenleri bir tarafa, bilinmeyenleri diğer tarafa toplarsak: 7 + 9 = 3k - 2k => k = 16 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499307672_2",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "f: R → R olmak üzere, f(x) = (a - 3)x² + (b + 1)x + a + b fonksiyonu sabit fonksiyon olduğuna göre, f(2024) değeri kaçtır?",
-    "options": [
-      "-3",
-      "-2",
-      "1",
-      "2",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir fonksiyonun sabit fonksiyon olması için değişken olan x'li terimlerin katsayıları sıfır olmalıdır. \n Bu fonksiyonda x² ve x'li terimler bulunmaktadır. \n x²'nin katsayısı olan (a - 3) sıfır olmalıdır: \n a - 3 = 0  => a = 3 \n x'in katsayısı olan (b + 1) sıfır olmalıdır: \n b + 1 = 0 => b = -1 \n Bu durumda fonksiyon f(x) = 0 * x² + 0 * x + a + b = a + b şeklinde kalır. \n a ve b değerlerini yerine yazarsak: \n f(x) = 3 + (-1) = 2. \n Bu bir sabit fonksiyondur ve x'e hangi değeri verirsek verelim sonuç her zaman 2 olacaktır. \n Dolayısıyla, f(2024) = 2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499307672_3",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "Aşağıda f: R → R şeklinde tanımlanan fonksiyonlardan hangisi birebir ve örten bir fonksiyondur?",
-    "options": [
-      "f(x) = x² + 5",
-      "f(x) = |x - 1|",
-      "f(x) = 7",
-      "f(x) = x³",
-      "f(x) = sin(x)"
+      "12",
+      "13",
+      "14",
+      "15"
     ],
     "correctAnswer": 3,
-    "explanation": "Bir fonksiyonun birebir olması için tanım kümesindeki her farklı elemanın görüntüsünün de farklı olması gerekir. Örten olması için ise değer kümesinde boşta eleman kalmaması gerekir.\nA) f(x) = x² + 5: Birebir değildir, çünkü f(-1) = 6 ve f(1) = 6'dır. Ayrıca örten değildir, görüntü kümesi [5, ∞) olduğu için değer kümesi R'yi tam olarak kapatmaz.\nB) f(x) = |x - 1|: Birebir değildir, çünkü f(0) = 1 ve f(2) = 1'dir.\nC) f(x) = 7: Sabit fonksiyondur, birebir değildir.\nD) f(x) = x³: Her farklı x değeri için farklı bir x³ değeri vardır (birebirdir). Ayrıca x değerleri tüm reel sayıları alabildiği için, x³ değerleri de tüm reel sayıları alabilir (örtendir). Bu nedenle birebir ve örtendir.\nE) f(x) = sin(x): Birebir değildir, çünkü f(0) = 0 ve f(π) = 0'dır. Ayrıca örten değildir, görüntü kümesi [-1, 1] aralığıdır.",
+    "explanation": "(fog)(3) ifadesi f(g(3)) anlamına gelir. İlk olarak g(3) değerini bulmamız gerekir.\ng(x + 2) = 4x - 1 fonksiyonunda parantez içini 3'e eşitleyelim: x + 2 = 3 => x = 1.\nBu x değerini eşitliğin sağ tarafında yerine yazarsak: g(3) = 4(1) - 1 = 3 olur.\nŞimdi f(g(3)) yani f(3) değerini bulmalıyız.\nf(x - 1) = 3x + 2 fonksiyonunda parantez içini 3'e eşitleyelim: x - 1 = 3 => x = 4.\nBu x değerini eşitliğin sağ tarafında yerine yazarsak: f(3) = 3(4) + 2 = 12 + 2 = 14 olur.\nSonuç olarak (fog)(3) = 14'tür.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499307672_4",
+    "id": "ai_1764500671751_1",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "Gerçel sayılar kümesinde tanımlı bir f fonksiyonu, her x gerçel sayısı için f(x + 2) = f(x) + 4 eşitliğini sağlamaktadır. f(1) = 5 olduğuna göre, f(9) değeri kaçtır?",
+    "questionText": "Uygun koşullarda tanımlı f fonksiyonu için f(3x - 2) = 6x + 5 olduğuna göre, f⁻¹(x) (f'nin tersi) fonksiyonu aşağıdakilerden hangisidir?",
     "options": [
-      "17",
-      "19",
-      "21",
-      "23",
-      "25"
+      "(x - 9) / 2",
+      "(x + 9) / 2",
+      "2x - 9",
+      "(x - 5) / 6",
+      "(x + 2) / 3"
     ],
-    "correctAnswer": 2,
-    "explanation": "Verilen f(x + 2) = f(x) + 4 eşitliğini kullanarak f(1)'den f(9)'a adım adım ilerleyebiliriz.\nx = 1 için: f(1 + 2) = f(3) = f(1) + 4 = 5 + 4 = 9\nx = 3 için: f(3 + 2) = f(5) = f(3) + 4 = 9 + 4 = 13\nx = 5 için: f(5 + 2) = f(7) = f(5) + 4 = 13 + 4 = 17\nx = 7 için: f(7 + 2) = f(9) = f(7) + 4 = 17 + 4 = 21\nDolayısıyla, f(9) değeri 21'dir.",
+    "correctAnswer": 0,
+    "explanation": "Bu soruyu çözmek için önce f(x) fonksiyonunu bulmalıyız. f(3x - 2)'nin içindeki ifadeyi (3x - 2)'yi tek bir değişkene dönüştürelim. Örneğin, A = 3x - 2 olsun. Buradan x'i yalnız bırakırsak x = (A + 2) / 3 olur.\nŞimdi f(A) = 6x + 5 ifadesinde x yerine bulduğumuz (A + 2) / 3 değerini yazalım:\nf(A) = 6 * ((A + 2) / 3) + 5\nf(A) = 2 * (A + 2) + 5\nf(A) = 2A + 4 + 5\nf(A) = 2A + 9\nDeğişkeni x'e çevirirsek, f(x) = 2x + 9 olur.\nŞimdi f(x) fonksiyonunun tersi olan f⁻¹(x)'i bulalım. y = 2x + 9 denkleminde x'i yalnız bırakırız:\ny - 9 = 2x\nx = (y - 9) / 2\nSon olarak, x ve y'nin yerlerini değiştiririz: y = (x - 9) / 2. Dolayısıyla, f⁻¹(x) = (x - 9) / 2'dir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499307672_5",
+    "id": "ai_1764500671751_2",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) = √(x - 4) + 1 / (x² - 25) fonksiyonunun en geniş tanım kümesi aşağıdakilerden hangisidir?",
+    "questionText": "Aşağıda, grafiği (-2, 0), (0, 2), (3, 4) ve (5, 0) noktalarından geçen y = f(x) fonksiyonu verilmiştir. Buna göre, (f(0) + f⁻¹(4)) / f(5) ifadesinin değeri kaçtır?",
     "options": [
-      "[4, ∞)",
-      "R - {5}",
-      "[4, ∞) - {5}",
-      "(4, ∞) - {5}",
-      "(-5, 5)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir fonksiyonun en geniş tanım kümesini bulmak için tanımsızlık yaratan durumları incelemeliyiz.\n1. Kareköklü ifadeler: Kökün içi negatif olamaz. Bu nedenle x - 4 ≥ 0 olmalıdır. Buradan x ≥ 4 elde edilir. Bu, tanım kümesinin [4, ∞) aralığında olması gerektiğini gösterir.\n2. Rasyonel ifadeler: Payda sıfır olamaz. Bu nedenle x² - 25 ≠ 0 olmalıdır. Buradan x² ≠ 25, yani x ≠ 5 ve x ≠ -5 olmalıdır.\nŞimdi bu iki koşulu birleştirmeliyiz. Tanım kümesi hem x ≥ 4 olmalı hem de x, 5 ve -5 değerlerini almamalıdır. x ≥ 4 koşulu zaten x = -5 olmasını engeller. Ancak x = 5 değeri [4, ∞) aralığının içindedir ve bu değeri çıkarmamız gerekir.\nSonuç olarak, en geniş tanım kümesi [4, ∞) aralığından 5'in çıkarılmasıyla elde edilir: [4, ∞) - {5}.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499307672_6",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "f(2x - 1) = 6x + 5 olduğuna göre, f(x) fonksiyonunun kuralı aşağıdakilerden hangisidir?",
-    "options": [
-      "f(x) = 3x + 2",
-      "f(x) = 3x + 8",
-      "f(x) = 6x + 8",
-      "f(x) = 3x - 1",
-      "f(x) = 2x + 7"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f(x) fonksiyonunu bulmak için f'in içindeki ifadeyi (2x - 1) x'e dönüştürmemiz gerekir. Bunun için (2x - 1) ifadesinin tersini alıp, eşitliğin sağ tarafındaki x yerine yazarız. \nLet k = 2x - 1. Amacımız x'i k cinsinden yazmaktır. \n k + 1 = 2x \n x = (k + 1) / 2 \nŞimdi f(2x - 1) = 6x + 5 eşitliğinde (2x - 1) yerine k ve x yerine (k + 1) / 2 yazalım: \n f(k) = 6 * [(k + 1) / 2] + 5 \n f(k) = 3 * (k + 1) + 5 \n f(k) = 3k + 3 + 5 \n f(k) = 3k + 8 \n Değişkeni k'den x'e çevirirsek: \n f(x) = 3x + 8 elde edilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499307672_7",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "f doğrusal bir fonksiyondur. f(2) = 7 ve f(5) = 16 olduğuna göre, f(-1) değeri kaçtır?",
-    "options": [
-      "-5",
-      "-2",
+      "Tanımsızdır",
       "0",
       "1",
-      "3"
+      "5/4",
+      "2"
     ],
-    "correctAnswer": 1,
-    "explanation": "Doğrusal fonksiyonlar f(x) = ax + b biçimindedir. Verilen değerleri kullanarak a ve b'yi bulabiliriz.\nf(2) = 7  => a(2) + b = 7  => 2a + b = 7\nf(5) = 16 => a(5) + b = 16 => 5a + b = 16\nBu iki denklemi taraf tarafa çıkararak b'den kurtulabiliriz:\n(5a + b) - (2a + b) = 16 - 7\n3a = 9\na = 3\nBulduğumuz a değerini ilk denklemde yerine yazalım:\n2(3) + b = 7\n6 + b = 7\nb = 1\nBöylece fonksiyonun kuralı f(x) = 3x + 1 olarak bulunur.\nŞimdi f(-1) değerini hesaplayabiliriz:\nf(-1) = 3(-1) + 1 = -3 + 1 = -2.",
+    "correctAnswer": 0,
+    "explanation": "İfadeyi hesaplamak için grafikten ilgili değerleri okumalıyız:\n1. f(0) değerini bulmak için x ekseninde 0'ı bulur ve grafiğin y eksenini kestiği noktaya bakarız. Grafik (0, 2) noktasından geçtiği için f(0) = 2'dir.\n2. f⁻¹(4) değerini bulmak için y ekseninde 4'ü bulur ve bu değere karşılık gelen x değerine bakarız. f(x) = 4 ise x kaçtır? Grafik (3, 4) noktasından geçtiği için f(3) = 4, dolayısıyla f⁻¹(4) = 3'tür.\n3. f(5) değerini bulmak için x ekseninde 5'i bulur ve grafiğin bu noktadaki y değerine bakarız. Grafik (5, 0) noktasından geçtiği için f(5) = 0'dır.\nŞimdi bu değerleri ifadede yerine koyalım: (f(0) + f⁻¹(4)) / f(5) = (2 + 3) / 0 = 5 / 0.\nPaydada 0 olduğu için bu ifade tanımsızdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500671751_3",
+    "subjectId": "mat",
+    "topic": "Fonksiyonlar",
+    "questionText": "Gerçel sayılar kümesinde tanımlı f fonksiyonu, f(x) = { x² + 1, x ≥ 2 ise; 3x - 1, x < 2 ise } biçiminde veriliyor. Buna göre, f(3) + f(f(1)) ifadesinin değeri kaçtır?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İfadeyi parçalara ayırarak hesaplayalım:\n1. f(3) değerini bulalım: 3 ≥ 2 olduğu için üstteki kuralı kullanırız. f(x) = x² + 1 => f(3) = 3² + 1 = 9 + 1 = 10.\n2. f(f(1)) değerini bulalım: Önce içteki f(1) değerini hesaplamamız gerekir. 1 < 2 olduğu için alttaki kuralı kullanırız. f(x) = 3x - 1 => f(1) = 3(1) - 1 = 2.\nŞimdi ifade f(2) haline geldi. f(2) değerini hesaplayalım. 2 ≥ 2 olduğu için üstteki kuralı kullanırız. f(x) = x² + 1 => f(2) = 2² + 1 = 4 + 1 = 5.\n3. Son olarak bulduğumuz değerleri toplayalım: f(3) + f(f(1)) = 10 + 5 = 15.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500671751_4",
+    "subjectId": "mat",
+    "topic": "Fonksiyonlar",
+    "questionText": "f(x) = √(12 - 3x) + 7 / (x² - 4) fonksiyonunun en geniş tanım kümesi aşağıdakilerden hangisidir?",
+    "options": [
+      "(-∞, 4]",
+      "R - {-2, 2}",
+      "(-∞, 4] - {2}",
+      "(-∞, 4] - {-2}",
+      "(-∞, 4] - {-2, 2}"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir fonksiyonun en geniş tanım kümesini bulmak için tanımsızlık yaratan durumları incelemeliyiz. Bu fonksiyonda iki durum vardır:\n1. Kareköklü ifadenin içi negatif olamaz: 12 - 3x ≥ 0 olmalıdır. Bu eşitsizliği çözersek: 12 ≥ 3x => 4 ≥ x. Yani x, 4'ten küçük veya 4'e eşit olmalıdır. Bu durum (-∞, 4] aralığını verir.\n2. Rasyonel ifadenin paydası sıfır olamaz: x² - 4 ≠ 0 olmalıdır. Bu denklemi çözersek: x² ≠ 4 => x ≠ 2 ve x ≠ -2.\nBu iki koşulu birleştirmemiz gerekiyor. x, 4'ten küçük veya eşit olmalı, ancak aynı zamanda 2 ve -2 değerlerini alamaz. 4'ten küçük olan bu iki değeri de çıkarmalıyız. Dolayısıyla en geniş tanım kümesi (-∞, 4] aralığından {-2, 2} kümesinin çıkarılmasıyla bulunur: (-∞, 4] - {-2, 2}.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500671751_5",
+    "subjectId": "mat",
+    "topic": "Fonksiyonlar",
+    "questionText": "f(x) tek fonksiyon ve g(x) çift fonksiyon olmak üzere, f(5) = -4 ve g(-3) = 6 olduğuna göre, f(-5) + g(3) ifadesinin değeri kaçtır?",
+    "options": [
+      "-10",
+      "-2",
+      "2",
+      "10",
+      "24"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu soruyu çözmek için tek ve çift fonksiyonların özelliklerini bilmemiz gerekir:\n- Tek fonksiyon (Odd function): f(-x) = -f(x). Grafik orijine göre simetriktir.\n- Çift fonksiyon (Even function): g(-x) = g(x). Grafik y eksenine göre simetriktir.\n\nSoruda verilen bilgilere göre:\n1. f(x) tek fonksiyon olduğu için f(-5) = -f(5) olacaktır. f(5) = -4 verildiği için, f(-5) = -(-4) = 4 olur.\n2. g(x) çift fonksiyon olduğu için g(3) = g(-3) olacaktır. g(-3) = 6 verildiği için, g(3) = 6 olur.\n\nBulduğumuz bu iki değeri toplayalım: f(-5) + g(3) = 4 + 6 = 10.",
     "difficulty": 3
   }
 ]
