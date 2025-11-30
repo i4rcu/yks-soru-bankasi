@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764520270277_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir asidin pH değeri 3 ise, bu çözeltinin hidrojen iyonu konsantrasyonu nedir?",
+    "options": [
+      "10⁻³ mol/L",
+      "10⁻⁴ mol/L",
+      "10⁻² mol/L",
+      "10⁻⁵ mol/L",
+      "10⁻⁶ mol/L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 3 olan bir çözeltide hidrojen iyonu konsantrasyonu 10⁻³ mol/L'dir. Bu, pH = -log[H⁺] formülünden elde edilir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520270276_0",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Sülfürik asit (H₂SO₄), sulu çözeltisinde hidrojen iyonları salarak asidik özellik gösterir. Diğer maddeler asidik özellik göstermez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520270277_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin pH değeri 3 ise, bu çözeltinin hidrojen iyonu konsantrasyonu nedir?",
-    "options": [
-      "10⁻³ mol/L",
-      "10⁻⁴ mol/L",
-      "10⁻² mol/L",
-      "10⁻⁵ mol/L",
-      "10⁻⁶ mol/L"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH değeri 3 olan bir çözeltide hidrojen iyonu konsantrasyonu 10⁻³ mol/L'dir. Bu, pH = -log[H⁺] formülünden elde edilir.",
     "difficulty": 3
   },
   {
