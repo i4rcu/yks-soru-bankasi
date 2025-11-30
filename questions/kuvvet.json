@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764500964126_0",
+    "id": "ai_1764520178392_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme 18 N büyüklüğünde yatay bir kuvvet uygulandığında cisme etki eden sürtünme kuvvetinin büyüklüğü kaç N olur? (g = 10 m/s²)",
+    "questionText": "Bir cisme uygulanan 10 N'lik bir kuvvet, cismi 5 m/s² ivme ile hızlandırıyorsa, cismin kütlesi nedir?",
     "options": [
-      "0",
-      "16",
-      "18",
-      "20",
-      "22"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Uygulanan kuvvet (F = 18 N), maksimum statik sürtünme kuvvetinden (20 N) küçüktür. Bu nedenle cisim hareket etmez. Cisim hareket etmediği için, cisme etki eden statik sürtünme kuvveti, uygulanan kuvvete eşit büyüklükte ve zıt yönde olur. Dolayısıyla sürtünme kuvveti 18 N'dur. Kinetik sürtünme katsayısı, cisim harekete geçtikten sonra kullanılacağı için bu soruda bir çeldiricidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500964126_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Kütlesi m olan bir cisim, yatay düzlemle 37° açı yapan sürtünmesiz bir eğik düzlem üzerinde serbest bırakılıyor. Cismin ivmesinin büyüklüğü kaç m/s² olur? (g = 10 m/s²; sin37° = 0,6; cos37° = 0,8)",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "8",
-      "10"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Newton'un ikinci hareket yasası F_net = m * a'dır. Sürtünmesiz eğik düzlemde cismi hareket ettiren net kuvvet, ağırlığın eğik düzleme paralel olan bileşenidir. Ağırlık G = m * g'dir. Ağırlığın eğik düzleme paralel bileşeni G_paralel = G * sin(37°) = m * g * sin(37°)'dir. Bu kuvvet net kuvvete eşittir. F_net = m * g * sin(37°). Şimdi Newton'un ikinci yasasını yazalım: m * a = m * g * sin(37°). Eşitliğin her iki tarafındaki 'm' kütleleri sadeleşir. a = g * sin(37°). Verilen değerleri yerine koyarsak: a = 10 m/s² * 0,6 = 6 m/s². Cismin ivmesi 6 m/s²'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500964126_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Yatay bir yolda hareket eden bir araba aniden fren yaptığında, sürücünün öne doğru savrulması olayı Newton'un hareket yasalarından hangisi ile en iyi açıklanır?",
-    "options": [
-      "Etki-Tepki Prensibi (III. Yasa)",
-      "Eylemsizlik Prensibi (I. Yasa)",
-      "Dinamik Prensibi (II. Yasa)",
-      "Kütle Çekim Yasası",
-      "Enerjinin Korunumu Yasası"
+      "2 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton'un birinci hareket yasası olan Eylemsizlik Prensibi, bir cisme etki eden net kuvvet sıfır ise cismin hareket durumunu (durgunsa durgunluğunu, hareketliyse sabit hızlı hareketini) koruyacağını belirtir. Araba fren yaptığında, araba ve koltuk yavaşlar, ancak sürücünün vücudu eylemsizlik nedeniyle o anki hareket durumunu, yani ileriye doğru olan hızını koruma eğilimindedir. Bu nedenle, araba yavaşlarken sürücü öne doğru savrulur. Bu durum doğrudan eylemsizlik prensibi ile açıklanır.",
+    "explanation": "Kuvvet = Kütle x İvme formülünden yola çıkarak, Kütle = Kuvvet / İvme = 10 N / 5 m/s² = 2 kg bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520178392_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 20 N'lik bir kuvvet uygulanıyor ve bu kuvvet cismin 4 m/s² ivme kazanmasına neden oluyor. Cisim üzerindeki net kuvvet hangi yönü göstermektedir?",
+    "options": [
+      "Yukarı",
+      "Aşağı",
+      "Sağa",
+      "Sola",
+      "Cismin hareket yönü ile aynı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cisim pozitif bir ivme kazanıyorsa, net kuvvetin yönü cismin hareket yönü ile aynıdır. Dolayısıyla doğru cevap 'Cismin hareket yönü ile aynı' olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520178392_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 5 N'lik bir kuvvetle 3 m/s² ivme kazanıyorsa, cisim üzerinde hangi kuvvet etkili olabilir?",
+    "options": [
+      "5 N",
+      "10 N",
+      "15 N",
+      "20 N",
+      "25 N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kuvvet = Kütle x İvme formülüne göre, Kütle = Kuvvet / İvme = 5 N / 3 m/s² = 1.67 kg bulunur. Bu durumda cisim üzerinde 5 N'lik bir kuvvet etkili olabilir.",
     "difficulty": 3
   }
 ]
