@@ -1,499 +1,19 @@
 [
   {
-    "id": "ai_1764498940786_2",
+    "id": "ai_1764528987196_0",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "(I) Eleştiri, bir sanat eserini ya da düşünceyi körü körüne yüceltmek veya yermek değildir. (II) Aksine, eserin güçlü ve zayıf yönlerini nesnel ölçütlerle ortaya koyma çabasıdır. (III) Gerçek bir eleştirmen, kişisel beğenilerini bir kenara bırakarak eseri kendi iç tutarlılığı ve sanatsal değeri üzerinden değerlendirir. (IV) Eleştirmenin amacı, okura veya izleyiciye eseri daha iyi anlaması için bir yol haritası sunmaktır. (V) Sanat eserlerinin fiyatları, son yıllarda koleksiyonerler yüzünden oldukça artmıştır. (VI) Bu yol haritası sayesinde alımlayıcı, eserin daha önce fark etmediği katmanlarını keşfedebilir. \n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'gözlem' kelimesinin anlamını en iyi şekilde ifade etmektedir?",
     "options": [
-      "II",
-      "III",
-      "IV",
-      "V",
-      "VI"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parçanın ilk dört cümlesi (I, II, III, IV) eleştirinin ve eleştirmenin ne olduğunu, amacını ve nasıl olması gerektiğini tanımlamaktadır. Ancak V. cümlede konu tamamen değişerek sanat eserlerinin fiyatları ve koleksiyonerlerden bahsedilmeye başlanmıştır. VI. cümle ise tekrar IV. cümlenin devamı niteliğindedir. Bu durumda V. cümle, parçanın anlam bütünlüğünü bozmaktadır. Ancak soru, akışı bozan cümleyi değil, parçanın ikiye bölünmesi gereken yeri sormaktadır. İlk dört cümle eleştirinin tanımını ve amacını anlatırken, V. cümle alakasız bir konuya geçiş yapmıştır. VI. cümle ise IV. cümlenin devamıdır. Bu durumda akışı bozan cümle V'tir. Fakat soru formatı iki paragrafa ayırma olduğu için, V. cümlenin konuyu tamamen değiştirdiği ve yeni bir paragrafa (her ne kadar alakasız da olsa) başlattığı kabul edilir. Dolayısıyla ikinci paragraf V numaralı cümleyle başlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_22",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi karşıtlık vurgulanmaktadır?",
-    "options": [
-      "Zengin-fakir",
-      "Doğa-teknoloji",
-      "Birey-kitle",
-      "İleri-geri",
-      "Gelenek-modern"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Doğa ve teknoloji arasındaki karşıtlık, paragrafta sıkça vurgulanmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500304092_7",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Eleştiri, bir eseri veya sanatçıyı yok etme, küçük düşürme sanatı değildir. Aksine, yapıcı bir eleştiri, eserin daha iyi anlaşılmasına, sanatçının ise kendini geliştirmesine olanak tanır. Objektif ölçütlere dayanan, eserin hem olumlu hem de olumsuz yönlerini ortaya koyan bir değerlendirme, hem okura hem de yazara yol gösterir. Sadece kişisel beğenilere dayanan, övgü ya da yergiden ibaret olan yazılar ise eleştiri değil, olsa olsa birer okur yorumu olabilir.",
-    "options": [
-      "Eleştirinin amacının yol göstermek ve geliştirmek olduğuna",
-      "Her okurun aynı zamanda bir eleştirmen olduğuna",
-      "Sanatçıların eleştiriye açık olmaları gerektiğine",
-      "Eleştirinin sadece olumsuz yönlere odaklanması gerektiğine",
-      "İyi bir eserin eleştiriye ihtiyaç duymadığına"
+      "Bir durumu dikkatlice incelemek",
+      "Bir şeyin kopyasını yapmak",
+      "Bir yerden bir şey almak",
+      "Bir bilgiyi unutmak",
+      "Birine yardım etmek"
     ],
     "correctAnswer": 0,
-    "explanation": "Paragraf boyunca eleştirinin yıkıcı değil, yapıcı olması gerektiği fikri işlenmiştir. 'Yapıcı bir eleştiri', 'sanatçının kendini geliştirmesine olanak tanır', 'hem okura hem de yazara yol gösterir' gibi ifadeler, eleştirinin temel amacının yok etmek değil, geliştirmek ve yol göstermek olduğunu vurgulamaktadır. Parçanın ana fikri, eleştirinin olumlu ve yapıcı işlevine odaklanmıştır. Bu nedenle doğru cevap A seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_21",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafın hangi kısmında örnek verilmiştir?",
-    "options": [
-      "Başlangıç",
-      "Gelişme",
-      "Sonuç",
-      "Giriş",
-      "Kapanış"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Örnekler, paragrafın gelişme kısmında verilmiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlede hangi kelime metnin genel anlamını en iyi yansıtır?",
-    "options": [
-      "Güzellik",
-      "Karmaşa",
-      "Huzur",
-      "Korku",
-      "Özgürlük"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlenin bağlamında huzur kelimesi, metnin genel anlamını en iyi yansıtan kelimedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500304092_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Başarısızlık korkusu, pek çok insanın potansiyelini ortaya koymasının önündeki en büyük engeldir. Yeni bir şey denerken hata yapmaktan çekinir, eleştirilmekten korkarız. Oysa öğrenme süreci, deneme yanılma üzerine kuruludur. Tarihteki büyük buluşların ve icatların arkasında sayısız başarısız deneme yatar. Bu yüzden, ----.",
-    "options": [
-      "her zaman en güvenli yolu tercih etmek gerekir",
-      "hataları, hedefe giden yolda birer basamak olarak görmek gerekir",
-      "başkalarının tecrübelerinden ders çıkarmak anlamsızdır",
-      "başarıya ulaşmak için yetenek tek başına yeterlidir",
-      "denemekten vazgeçip uzmanlara danışmak en doğrusudur"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Parçada, başarısızlık korkusunun bir engel olduğu ve öğrenme sürecinin hatalarla dolu olduğu vurgulanmaktadır. Tarihteki büyük buluşların bile başarısız denemeler sonucu ortaya çıktığı belirtilmiştir. Bu nedenle, parçanın sonuna düşüncenin akışına uygun olarak, hatalara olumlu bir anlam yükleyen ve onları öğrenme sürecinin bir parçası olarak gören bir ifade getirilmelidir. 'Hataları, hedefe giden yolda birer basamak olarak görmek gerekir' ifadesi, bu anlamı en iyi şekilde tamamlamaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261626_18",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki ifadelerden hangisi bir paragrafın akışını bozar?",
-    "options": [
-      "Ders çalışmak, başarı için önemlidir.",
-      "Başarı, yalnızca sıkı çalışma ile gelir.",
-      "Ders çalışmayı sevmeyenlerin de başarılı olabileceği söylenir.",
-      "Ders çalışmak herkes için aynı değildir.",
-      "Ders çalışmak, sadece bir alışkanlıktır."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ders çalışmayı sevmeyenlerin de başarılı olabileceği ifadesi, paragrafın ana fikri ile çelişebilir ve akışı bozabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501591113_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Sanat, yalnızca estetik bir haz aracı değildir; aynı zamanda toplumun vicdanı ve belleğidir. Tarih boyunca sanatçılar, eserleri aracılığıyla toplumsal adaletsizliklere, siyasi baskılara ve unutulmaya yüz tutmuş acılara dikkat çekmişlerdir. Bir ressamın tuvalindeki fırça darbesi, bir yazarın kaleminden dökülen kelimeler ya da bir müzisyenin bestesindeki notalar, çoğu zaman en etkili tarih kitaplarından veya en gür sesli nutuklardan daha kalıcı izler bırakır. Sanat, gerçeği süslü kelimelerin ardına gizlemek yerine, onu en yalın ve sarsıcı hâliyle insanın karşısına çıkararak bir yüzleşme imkânı sunar. Bu yönüyle sanat, toplumu uyandıran ve onu daha iyi bir geleceğe yönlendiren bir pusula gibidir.",
-    "options": [
-      "Sanat eserlerinin estetik değeri, toplumsal mesajlarından daha önemlidir.",
-      "Sanatçılar, toplumsal sorunlara her zaman objektif bir açıdan yaklaşmalıdır.",
-      "Sanatın asıl işlevi, toplumsal olaylara tanıklık etmek ve toplumu bilinçlendirmektir.",
-      "Tarih kitapları, sanatsal ürünlere göre geçmişi daha doğru yansıtır.",
-      "Sanat, sadece yetenekli insanların uğraşabileceği seçkin bir alandır."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragraf boyunca sanatın sadece estetik bir zevk unsuru olmadığı, asıl önemli yönünün toplumsal bir bellek ve vicdan işlevi görmesi olduğu vurgulanmaktadır. 'Sanatçılar, eserleri aracılığıyla toplumsal adaletsizliklere dikkat çekmişlerdir.', 'gerçeği en yalın hâliyle insanın karşısına çıkarır' ve 'toplumu uyandıran bir pusula gibidir' ifadeleri, sanatın toplumu bilinçlendirme ve ona tanıklık etme işlevini ön plana çıkarmaktadır. Dolayısıyla parçanın ana düşüncesi C seçeneğinde doğru bir şekilde özetlenmiştir. A seçeneği parçanın ilk cümlesiyle çelişir. B seçeneği sanatçının objektifliğinden bahsetmez, aksine bir duruş sergilediğini ima eder. D seçeneği, parçadaki 'en etkili tarih kitaplarından daha kalıcı izler bırakır' ifadesiyle çelişir. E seçeneği ise parçanın konusu dışındadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497605988_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "(I) Eleştirel düşünme, bireyin bilgiyi pasif bir şekilde kabul etmek yerine onu aktif olarak analiz etme, sorgulama ve değerlendirme sürecidir. (II) Bu beceri, özellikle bilgi kirliliğinin yoğun olduğu günümüz dünyasında doğruyu yanlıştan ayırmak için hayati bir önem taşır. (III) Eğitim sistemleri, öğrencilere erken yaşlardan itibaren ezbercilik yerine bu yeteneği kazandırmayı hedeflemelidir. (IV) Okullarda yapılan münazara etkinlikleri de bu becerinin gelişimine katkı sağlar. (V) Sorgulanmadan kabul edilen her bilgi, bireyin düşünsel bağımsızlığını zedeler ve onu manipülasyona açık hale getirir.",
-    "options": [
-      "I",
-      "II",
-      "III",
-      "IV",
-      "V"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paragrafın genelinde eleştirel düşünmenin tanımı, önemi ve bu düşünce biçiminden yoksun olmanın getireceği tehlikeler üzerinde durulmaktadır. I, II, III ve V numaralı cümleler bu genel konsept etrafında bir bütünlük oluşturur. I. cümlede tanım yapılır, II. cümlede günümüzdeki önemi vurgulanır, III. cümlede eğitimdeki rolüne değinilir ve V. cümlede ise eksikliğinin sonuçları belirtilir. Ancak IV. cümle, konunun genel akışından saparak çok daha spesifik bir örnek olan \"münazara etkinlikleri\" konusuna girer. Parçanın genel felsefi ve teorik havasından ayrılarak somut bir uygulama örneği verdiği için düşüncenin akışını bozmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_19",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi tema işlenmektedir?",
-    "options": [
-      "Aşk",
-      "Savaş",
-      "Dostluk",
-      "Çevre",
-      "Özgürlük"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yazar, çevre teması etrafında düşüncelerini geliştirmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_13",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazar, paragrafta hangi duygusal tonu yansıtmaktadır?",
-    "options": [
-      "Melankolik",
-      "Neşeli",
-      "Kızgın",
-      "Düşünceli",
-      "Umutsuz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yazarın kullandığı ifadeler melankolik bir ton taşımaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133402_30",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazarın metindeki bakış açısı hangi yönüyle önemlidir?",
-    "options": [
-      "Tarafsızlık",
-      "Duygusallık",
-      "Analitik yaklaşım",
-      "Yenilikçilik",
-      "Geleneksellik"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yazar, analitik bir bakış açısıyla konuyu derinlemesine irdelemektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_9",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi sonuç çıkarılmaktadır?",
-    "options": [
-      "Eğitim şarttır",
-      "Doğa korunmalıdır",
-      "Teknoloji gereksizdir",
-      "İnsanlar güvenmelidir",
-      "Kültür önemlidir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yazar, doğanın korunmasının gerekliliğinden bahsetmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_15",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi sosyal soruna vurgu yapılmaktadır?",
-    "options": [
-      "Yoksulluk",
-      "Eğitim",
-      "Sağlık",
-      "İstihdam",
-      "Göç"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yoksulluk, paragrafta üzerinde durulan sosyal sorundur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133402_29",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi olayın sonuçları üzerinde durulmaktadır?",
-    "options": [
-      "Savaş",
-      "Göç",
-      "Kriz",
-      "Devrim",
-      "İsyan"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yazar, ekonomik krizin sonuçlarını ele alarak bu konu üzerinde durmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497605988_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Sanılanın aksine, yaratıcılık yalnızca sanatçılara özgü bir ilham anı değildir. Aksine, farklı alanlardaki bilgileri birleştirme, alışılmışın dışında bağlantılar kurma ve problemlere yeni çözüm yolları bulma becerisidir. Bir mühendisin daha verimli bir motor tasarlaması da bir aşçının daha önce denenmemiş malzemelerle harika bir lezzet yaratması da bu becerinin bir ürünüdür. Dolayısıyla yaratıcılığı, dar kalıplara sıkıştırmak yerine onu hayatın her alanında karşılaşılabilecek bir zihinsel esneklik olarak görmek gerekir.",
-    "options": [
-      "Sanatsal faaliyetler, yaratıcılığın en saf halidir.",
-      "Yaratıcı olabilmek için belirli bir alanda uzmanlaşmak şarttır.",
-      "Yaratıcılık, farklı disiplinlerde ortaya çıkabilen genel bir problem çözme yeteneğidir.",
-      "İnsanlar doğuştan gelen yaratıcılık potansiyellerini zamanla kaybederler.",
-      "Teknolojik gelişmeler, insanın yaratıcı düşünme becerisini köreltmektedir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Parçada yaratıcılığın sadece sanatla sınırlı olmadığı, mühendislik ve aşçılık gibi farklı alanlarda da ortaya çıkabilen, bilgileri birleştirme ve yeni çözümler üretme becerisi olduğu vurgulanmaktadır. Bu durum, yaratıcılığın genel bir zihinsel esneklik ve problem çözme yeteneği olduğu anlamına gelir. A şıkkı, parçanın \"sanatçılara özgü değildir\" fikriyle çelişir. B şıkkı, uzmanlaşmaktan değil, farklı bilgileri birleştirmekten bahsedildiği için yanlıştır. D ve E şıkları ise parçada hiç değinilmeyen konulardır. Bu nedenle en kapsayıcı ve doğru ifade C şıkkında verilmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_10",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazarın kullandığı dil ve üslup nasıldır?",
-    "options": [
-      "Ağır ve resmi",
-      "Samimi ve sade",
-      "Akıcı ve eğlenceli",
-      "Aşırı süslü",
-      "Karmaşık"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yazar, samimi ve sade bir dil kullanarak okuyucuya ulaşmayı hedeflemiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_11",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi metafor kullanılmıştır?",
-    "options": [
-      "Zaman bir nehir gibidir",
-      "Hayat bir yolculuktur",
-      "Düşler bir kapıdır",
-      "Sevgi bir ateştir",
-      "Özgürlük bir kuştur"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yazar, hayatı bir yolculuk olarak metaforize ederek anlatımını zenginleştirmiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_25",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafın hangi kısmı en fazla bilgi içermektedir?",
-    "options": [
-      "Giriş",
-      "Gelişme",
-      "Sonuç",
-      "Ana fikir",
-      "Kapanış"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Gelişme kısmı, detaylı bilgi ve açıklamalar içermektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261626_14",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini değiştirir?",
-    "options": [
-      "Ders çalışmak önemlidir.",
-      "Bu konuda birçok görüş bulunmaktadır.",
-      "Ders çalışmayı sevmek, başarı için gereklidir.",
-      "Ders çalışmak, başarıyı getirir.",
-      "Ders çalışmak, sadece zaman kaybıdır."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ders çalışmak, sadece zaman kaybıdır. ifadesi, ana fikri tamamen olumsuz bir şekilde değiştirir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497605988_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Dijital minimalizm, teknolojiyle daha bilinçli ve amaç odaklı bir ilişki kurmayı savunan bir felsefedir. Bu yaklaşıma göre, her yeni uygulamayı indirmek veya her sosyal medya platformunda yer almak yerine, dijital araçları yalnızca hayatımıza gerçekten değer katanları seçerek kullanmalıyız. Amaç, teknolojiyi tamamen reddetmek değil, onun hayatımızdaki rolünü kontrol altına alarak dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır. Bu sayede kazanılan zaman ve enerji, daha anlamlı ve derinlikli faaliyetlere yönlendirilebilir. Böylece teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür.",
-    "options": [
-      "Teknolojik araçların seçici bir şekilde kullanılması gerektiğini öne sürdüğüne",
-      "Zihinsel odaklanmayı ve verimliliği artırmayı hedeflediğine",
-      "Teknolojinin tamamen hayattan çıkarılması gerektiğini savunduğuna",
-      "Kişinin teknoloji üzerindeki kontrolünü artırmayı amaçladığına",
-      "Dijital araçların bir amaç değil, araç olarak görülmesini teşvik ettiğine"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Parçada dijital minimalizmin teknolojiyi \"tamamen reddetmek değil\", aksine \"bilinçli ve amaç odaklı\" kullanarak kontrol altına almak olduğu açıkça belirtilmektedir. A şıkkına \"gerçekten değer katanları seçerek kullanmalıyız\" ifadesinden, B şıkkına \"dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır\" ifadesinden, D şıkkına \"onun hayatımızdaki rolünü kontrol altına alarak\" ifadesinden ve E şıkkına \"teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür\" ifadesinden ulaşılabilir. Ancak C şıkkındaki \"teknolojinin tamamen hayattan çıkarılması gerektiği\" ifadesi, parçadaki \"teknolojiyi tamamen reddetmek değil\" yargısıyla doğrudan çelişmektedir. Bu nedenle bu yargıya parçadan ulaşılamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501591114_4",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Dijital çağın getirdiği en büyük yanılsamalardan biri, bilgiye kolay ulaşmanın bilgili olmakla eşdeğer tutulmasıdır. Oysa internet, ham ve işlenmemiş bir veri yığınından ibarettir. Doğrusuyla yanlışıyla, önemlisiyle önemsiziyle her şey bir aradadır. Bilgili olmak ise bu veri yığını içinden doğru olanı seçebilme, ayıklayabilme, analiz edebilme ve sentezleyerek anlamlı bir bütün oluşturabilme becerisidir. Sadece bilgiye erişmek, bir kütüphanedeki tüm kitaplara sahip olup hiçbirini okumamak gibidir. Asıl mesele, o kitapları okuyup anlamak ve hayata geçirmektir.",
-    "options": [
-      "Bilgiye erişim kolaylığı ve bilgili olma arasındaki farka",
-      "İnternetin güvenilmez bir bilgi kaynağı olduğuna",
-      "Dijital çağda kütüphanelerin önemini yitirdiğine",
-      "Bilgiye ulaşmak için harcanan çabanın gereksizliğine",
-      "Analiz ve sentez becerilerinin nasıl geliştirileceğine"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Paragrafta temel olarak 'bilgiye kolay ulaşmak' ile 'gerçekten bilgili olmak' arasındaki ayrım vurgulanmaktadır. Yazar, internet sayesinde bilgiye erişimin kolaylaştığını ancak bunun tek başına bilgili olmak anlamına gelmediğini, asıl önemli olanın bu bilgiyi işleme (seçme, analiz etme, sentezleme) becerisi olduğunu belirtmektedir. Kütüphane örneği de bu fikri pekiştirmek için kullanılmıştır. Dolayısıyla paragrafta 'bilgiye erişim kolaylığı ve bilgili olma arasındaki fark' üzerinde durulmaktadır. Diğer seçenekler ya parçada değinilmeyen ya da parçanın ana fikri olmayan yan konulardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261626_13",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Bir paragrafta hangi öğe, paragrafı daha etkili hale getirir?",
-    "options": [
-      "Sadece anekdotlar",
-      "Paragrafın uzunluğu",
-      "Güçlü bir ana fikir",
-      "Tekrar eden ifadeler",
-      "Sadece sonuç cümlesi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Güçlü bir ana fikir, paragrafın etkisini artırır ve okuyucunun dikkatini çeker.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519425608_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki paragrafa göre, sanatın toplum üzerindeki etkisi nedir?",
-    "options": [
-      "Sanat, bireylerin düşüncelerini şekillendirir.",
-      "Sanat, sadece eğlence aracı olarak görülmelidir.",
-      "Sanat, toplumun kültürel kimliğini oluşturan bir unsurdur.",
-      "Sanat, ekonomik kazanç sağlamanın bir yoludur.",
-      "Sanat, bireysel duyguları ifade etmenin tek yoludur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta sanatın toplumsal kimlik üzerindeki etkisi vurgulanmaktadır, bu nedenle en uygun seçenek budur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_16",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazar, paragrafta hangi çözüm önerisini sunmaktadır?",
-    "options": [
-      "Eğitim reformu",
-      "Yardım kampanyaları",
-      "Yasal düzenlemeler",
-      "Sosyal projeler",
-      "Farkındalık çalışmaları"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Yazar, farkındalık çalışmalarının gerekliliğini vurgulamaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261627_19",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini net bir şekilde ifade etmez?",
-    "options": [
-      "Ders çalışmak, başarılı olmak için gereklidir.",
-      "Ders çalışma alışkanlığı, zamanla kazanılır.",
-      "Ders çalışmayı sevmek, başarıyı artırır.",
-      "Ders çalışmak, sadece bazıları için önemlidir.",
-      "Ders çalışmak, herkes için farklı anlamlar taşır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ders çalışmak, sadece bazıları için önemlidir. ifadesi, ana fikri belirsiz hale getirir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501591113_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Popüler kültür, bireyleri hızla değişen trendlerin peşinden sürükleyen, anlık ve yüzeysel bir yapıya sahiptir. Dün herkesin dilinde olan bir şarkı, bugün unutulmaya yüz tutar. Bir ay önce popüler olan bir giyim tarzı, yerini hızla bir başkasına bırakır. Bu döngü, bireyde sürekli bir 'yeni olanı yakalama' telaşı yaratır ve bu durum, derinlikli düşünme ve kalıcı değerler oluşturma yetisini zayıflatır. İnsanlar, popüler olanı takip etme baskısı altında kendi özgün zevklerini ve kimliklerini inşa etmekte zorlanır. Bu nedenle popüler kültür ürünleri, genellikle kalıcılıktan uzak, 'kullan-at' mantığıyla üretilmiş gibidir.",
-    "options": [
-      "Popüler kültürün bireylerin kimlik gelişimine olumlu katkıları vardır.",
-      "Popüler kültür ürünlerinin sanatsal nitelikleri oldukça yüksektir.",
-      "Toplumun büyük bir kesimi popüler kültürün etkisinden uzaktır.",
-      "Popüler kültür, sürekli bir değişim ve geçicilik üzerine kuruludur.",
-      "Kalıcı eserler üretebilmek için popüler kültürü yakından takip etmek gerekir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paragrafta popüler kültürün 'hızla değişen trendler', 'anlık ve yüzeysel yapı', 'dün popüler olanın bugün unutulması' gibi özelliklerinden bahsedilmektedir. Bu ifadeler, popüler kültürün temel özelliğinin sürekli bir değişim, geçicilik ve kalıcı olmama durumu olduğunu vurgular. D seçeneği bu durumu doğru bir şekilde özetlemektedir. A seçeneği parçadaki 'kimliklerini inşa etmekte zorlanır' ifadesiyle çelişir. B seçeneği, 'yüzeysel' ve 'kullan-at' mantığı ifadeleriyle çelişir. C seçeneği hakkında parçada bir bilgi yoktur. E seçeneği ise parçanın genel düşüncesiyle taban tabana zıttır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501591114_6",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yapay zekâ teknolojileri, sağlık sektöründe devrim niteliğinde değişikliklere yol açıyor. Özellikle teşhis süreçlerinde, insan gözünün kaçırabileceği en küçük anormallikleri bile tespit edebilen algoritmalar geliştirildi. Bu algoritmalar, milyonlarca tıbbi görüntüyü (MR, röntgen vb.) analiz ederek hastalıkları erken evrede ve yüksek bir isabet oranıyla saptayabiliyor. Bu durum, hem doktorların iş yükünü hafifletiyor hem de hastalar için daha hızlı ve doğru teşhis imkânı sunuyor. Ayrıca kişiye özel tedavi planlarının oluşturulmasında da yapay zekâdan faydalanılıyor. Hastanın genetik yapısı, yaşam tarzı ve tıbbi geçmişi gibi veriler analiz edilerek en etkili tedavi yöntemi belirlenebiliyor.",
-    "options": [
-      "Yapay zekânın doktorların yerini tamamen alacağına",
-      "Kişiye özel tedavi yöntemlerinin henüz deneme aşamasında olduğuna",
-      "Tıbbi görüntüleme tekniklerinin yetersiz kaldığına",
-      "Yapay zekâ uygulamalarının teşhis ve tedavi süreçlerini iyileştirdiğine",
-      "Sağlık sektöründeki en büyük sorunun doktorların iş yükü olduğuna"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paragraftan çıkarılabilecek en kapsamlı yargı, yapay zekânın sağlık alanında, özellikle teşhis ve tedavi süreçlerinde olumlu gelişmeler sağladığıdır. Parçada yapay zekânın 'hastalıkları erken evrede saptadığı', 'doktorların iş yükünü hafiflettiği', 'hızlı ve doğru teşhis sunduğu' ve 'kişiye özel tedavi planları oluşturduğu' belirtilmektedir. Tüm bu bilgiler, D seçeneğindeki yargıyı desteklemektedir. A seçeneği, 'doktorların iş yükünü hafifletiyor' ifadesiyle çelişir, yerini alacağından bahsedilmez. B seçeneği hakkında bir bilgi yoktur, aksine uygulandığı anlatılır. C seçeneği yanlıştır, yapay zekânın bu teknikleri kullandığı belirtilir. E seçeneği ise parçanın ana konusu değildir, sadece bir yan unsur olarak değinilmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_4",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki ifadelerden hangisi bir paragrafın sonuç cümlesi olarak kullanılabilir?",
-    "options": [
-      "Bu durum, gelecekte önemli sonuçlar doğurabilir.",
-      "Önümüzdeki günlerde bu konuyu tartışacağız.",
-      "Bu konu hakkında daha fazla bilgiye sahip olmak gerekir.",
-      "Sonuç olarak, bu konunun önemi büyüktür.",
-      "Ayrıca, bu konu üzerinde daha fazla düşünmeliyiz."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sonuç cümlesi, paragrafın ana fikrini pekiştirir ve okuyucuya son bir mesaj verir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133402_28",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi tür edebi sanatlar kullanılmıştır?",
-    "options": [
-      "Açık ironi",
-      "Benzetme",
-      "Kişileştirme",
-      "Sembolizm",
-      "Metafor"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yazar, nesneleri kişileştirerek okuyucuya duygusal bir bağ kurdurmayı hedeflemiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261625_6",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir örnek cümlesidir?",
-    "options": [
-      "Bu konu üzerine düşünmek önemlidir.",
-      "Birçok kişi bu konuyu tartışmaktadır.",
-      "Örneğin, bu konuda yapılan araştırmalar gösteriyor ki...",
-      "Sonuç olarak, bu durum önemlidir.",
-      "Bu konu hakkında farklı görüşler vardır."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Örnek cümlesi, belirli bir durumu veya durumu açıklamak için kullanılan bir cümledir ve genellikle 'örneğin' ifadesi ile başlar.",
-    "difficulty": 3
+    "explanation": "'Gözlem', bir durumu dikkatlice incelemek anlamına gelir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764501591114_7",
@@ -509,406 +29,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Paragraf, Sahra Çölü hakkında bilgi vermek amacıyla yazılmıştır. Bu nedenle başvurulan temel anlatım biçimi 'Açıklama'dır. Yazar, çölün özellikleri (yüz ölçümü, iklim, canlı yaşamı) hakkında nesnel bilgiler sunar. Paragrafın son cümlesinde ise çöldeki zorlu koşullara rağmen var olan canlı yaşamına 'vahalarda ve yer altı su kaynaklarının bulunduğu bölgeler' gösterilerek 'Örnekleme' yapılmıştır. Paragrafta bir kavramın ne olduğu anlatılmadığı için 'Tanımlama' baskın değildir. Bir varlık okuyucunun zihninde canlandırılmaya çalışılmadığı için 'Betimleme' de yoktur. İki farklı görüşün çatışması olmadığı için 'Tartışma'dan söz edilemez. Bu nedenle en doğru cevap 'Açıklama - Örnekleme'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_23",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazarın amaçladığı etki nedir?",
-    "options": [
-      "Bilgilendirmek",
-      "İkna etmek",
-      "Eğlendirmek",
-      "Düşündürmek",
-      "Kandırmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yazar, okuyucusunu düşündürmeyi amaçlamaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261625_10",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Bir paragrafta hangi öğe en az bir kez kullanılmalıdır?",
-    "options": [
-      "Giriş cümlesi",
-      "Örnek cümlesi",
-      "Sonuç cümlesi",
-      "Ana fikir",
-      "Destekleyici cümleler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Her paragrafta en az bir ana fikir bulunmalıdır; bu, paragrafın temel mesajını oluşturur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133402_27",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazar, paragrafta hangi tarihsel figüre atıfta bulunmaktadır?",
-    "options": [
-      "Mustafa Kemal Atatürk",
-      "Nene Hatun",
-      "Fatih Sultan Mehmet",
-      "Şeyh Bedrettin",
-      "Aşık Veysel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yazar, Atatürk'ün düşüncelerine atıfta bulunarak metnini desteklemektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498940786_4",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "(I) Sessizlik, günümüzün gürültülü dünyasında en çok özlemini çektiğimiz şeylerden biri haline geldi. (II) Sürekli bir bilgi akışı, bildirim sesleri ve şehir uğultusu zihnimizi hiç durmadan meşgul ediyor. (III) Oysa zihinsel berraklık ve yaratıcılık için ara sıra sessizliğe çekilmek bir lüksten öte, bir ihtiyaçtır. (IV) Sessizlik üzerine yapılan birçok araştırma bulunmaktadır. (V) Dış dünyadan gelen uyaranlar azaldığında, beynimiz düşünceleri organize etmek ve yeni bağlantılar kurmak için fırsat bulur. \n\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
-    "options": [
-      "I",
-      "II",
-      "III",
-      "IV",
-      "V"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parça, modern dünyada sessizliğe duyulan ihtiyacı ve sessizliğin zihinsel faydalarını anlatmaktadır. I, II, III ve V numaralı cümleler bu tema etrafında bir bütünlük oluşturur. II. cümle gürültüyü, III. cümle sessizliğin bir ihtiyaç olduğunu, V. cümle ise bu ihtiyacın nedenini (beynin düşünceleri organize etmesi) açıklar. Ancak IV. cümlede, \"Sessizlik üzerine yapılan birçok araştırma bulunmaktadır\" denilerek konunun kendisinden çok, konuyla ilgili yapılan çalışmalardan bahsedilmiştir. Bu cümle, paragrafın ana fikrinin akışını kesintiye uğratan genel ve dışarıdan bir bilgidir. Diğer cümleler doğrudan sessizliğin etkilerini ve önemini işlerken, bu cümle konunun kendisine değil, hakkındaki araştırmalara gönderme yapmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519425608_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi şekilde ifade etmektedir?",
-    "options": [
-      "Kış mevsiminde hava çok soğuk olur.",
-      "Kış mevsimi, kar yağışı ile birlikte gelir.",
-      "Kışın doğa, birçok canlı için zorluklarla doludur.",
-      "Kış mevsiminde insanlar genellikle sıcak içecekler tercih eder.",
-      "Kış aylarında bazı hayvanlar uykuya yatar."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu cümle, kış mevsiminin genel etkisini ve doğadaki zorlukları vurguladığı için ana fikri en iyi şekilde ifade etmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261627_21",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın akışını sağlamak için kullanılabilir?",
-    "options": [
-      "Bununla birlikte, bu konu oldukça önemlidir.",
-      "Ders çalışmak, sadece bir zaman kaybıdır.",
-      "Ders çalışmayı sevmeyenler için zordur.",
-      "Ders çalışmanın faydaları yoktur.",
-      "Ders çalışmak, bazıları için gereklidir."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bununla birlikte, ifadesi, önceki cümleyle bağlantı kurarak paragrafın akışını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498940786_6",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Minimalizm, sadece eşyalardan kurtulmak anlamına gelen bir akım değildir. Bu, felsefenin görünen yüzüdür sadece. Özünde minimalizm, hayatımızdaki fazlalıklardan arınarak gerçekten değerli olan şeylere odaklanmaktır. Bu fazlalıklar; gereksiz eşyalar olabileceği gibi, bize zaman kaybettiren anlamsız uğraşlar, enerjimizi tüketen toksik ilişkiler veya zihnimizi bulandıran lüzumsuz bilgiler de olabilir. Amaç, daha azla daha çok 'olmak', daha bilinçli ve anlamlı bir yaşam sürmektir. \n\nBu parçaya göre aşağıdakilerden hangisi minimalist bir yaşam tarzına uygun bir davranış değildir?",
-    "options": [
-      "Kullanmadığı kıyafetleri ihtiyaç sahiplerine vermek",
-      "Sosyal medyada geçirdiği zamanı bilinçli olarak azaltmak",
-      "Yeni çıkan her teknolojik ürünü takip edip satın almak",
-      "Kendisine iyi gelmeyen bir arkadaşıyla arasına mesafe koymak",
-      "Hafta sonunu alışveriş merkezinde geçirmek yerine doğa yürüyüşü yapmak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta minimalizm, hayattaki fazlalıklardan kurtularak anlamlı ve değerli olanlara odaklanmak olarak tanımlanmıştır. Bu fazlalıklar sadece eşya değil, aynı zamanda zaman ve enerji tüketen şeyler de olabilir. A, B, D ve E şıkları bu felsefeye uygun, fazlalıklardan kurtulmayı ve anlamlı yaşama odaklanmayı içeren davranışlardır. Ancak C şıkkında belirtilen \"Yeni çıkan her teknolojik ürünü takip edip satın almak\", sürekli bir tüketim döngüsünü ifade eder ve bu durum, parçada anlatılan \"gereksiz eşyalardan arınma\" ve \"daha azla yetinme\" felsefesiyle tamamen çelişir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_12",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki ifadelerden hangisi yazım kurallarına uygun değildir?",
-    "options": [
-      "Ders çalışmak, başarı için şarttır.",
-      "Öğrenmek, hayat boyu süren bir yolculuktur.",
-      "Başarı, sıkı çalışma ile gelir.",
-      "Öncelikle, ders çalışmayı sevmek gerekir.",
-      "Ders çalışmayı, herkes sevebilir."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ders çalışmayı, herkes sevebilir. ifadesinde virgül kullanımı yanlıştır ve cümle akışını bozar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_7",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Hangi cümle paragrafın ana fikrini net bir şekilde ifade etmez?",
-    "options": [
-      "Okulda ders çalışmak önemlidir.",
-      "Öğrencilerin ders çalışırken dikkat etmeleri gerekir.",
-      "Ders çalışmak, başarılı olmanın anahtarıdır.",
-      "Ders çalışmak sıkıcıdır.",
-      "Ders çalışmak, hayat boyu süren bir alışkanlıktır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ana fikri ifade eden cümleler genellikle olumlu ve destekleyici bir mesaj taşırken, sıkıcı ifadesi ana fikri net bir şekilde ifade etmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498940786_3",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Popüler bilim kitapları, karmaşık bilimsel konuları herkesin anlayabileceği bir dille sunmayı hedefler. Bu kitaplar sayesinde, alanın uzmanı olmayan okurlar da evrenin sırlarından insan beyninin işleyişine kadar pek çok konuda fikir sahibi olur. Bilimsel terminolojiyi en aza indirerek ve bolca örnek ve benzetme kullanarak bilimi daha ulaşılabilir kılarlar. Bu yönüyle, bilimin toplumla buluşmasında ve bilimsel okuryazarlığın artmasında önemli bir köprü görevi görürler. ______. \n\nBu parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?",
-    "options": [
-      "Ancak bu kitaplar akademik makalelerin yerini asla tutamaz.",
-      "Bu yüzden bilim insanları bu tür eserlere pek sıcak bakmazlar.",
-      "Kısacası, bilimi seçkin bir zümrenin tekelinden çıkarıp halka mal ederler.",
-      "Zaten bilimsel gelişmeleri takip etmek oldukça zordur.",
-      "Okullardaki fen dersleri bu nedenle daha ilgi çekici hâle getirilmelidir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta popüler bilim kitaplarının bilimi halkın anlayacağı bir dille anlattığı, bilimi ulaşılabilir kıldığı ve toplumla bilim arasında köprü kurduğu anlatılmaktadır. Bu fikirleri en iyi özetleyen ve parçanın ana düşüncesini pekiştiren cümle C şıkkındadır. Bu kitapların bilimi \"seçkin bir zümrenin tekelinden çıkarıp halka mal etmesi\" ifadesi, paragrafın genelinde anlatılanlarla tam bir uyum içindedir. A şıkkı bir karşılaştırma yapar ama parçanın ana odağı bu değildir. B şıkkı parçadaki olumlu havayla çelişir. D ve E şıkları ise konuyu farklı yönlere çekmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261624_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini belirtmektedir?",
-    "options": [
-      "Detaylı bilgiler içeren bir cümle",
-      "Örnekler veren bir cümle",
-      "Paragrafın genel mesajını veren bir cümle",
-      "Sadece bir konuya odaklanan bir cümle",
-      "Paragrafın sonunda yer alan bir cümle"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ana fikir, bir paragrafın temel mesajını veya düşüncesini ifade eder. Diğer seçenekler ana fikri belirtmekten ziyade destekleyici veya detaylandırıcı cümlelerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520393270_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki paragrafa en uygun başlık hangisidir?",
-    "options": [
-      "Doğa ve İnsan",
-      "Teknolojinin Gelişimi",
-      "Okumanın Önemi",
-      "Sanat ve Kültür",
-      "Eğitimde Yenilikler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafın içeriği, okumanın bireyler üzerindeki etkilerini ve önemini vurguluyorsa, en uygun başlık 'Okumanın Önemi' olacaktır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_6",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi terim sıkça kullanılmıştır?",
-    "options": [
-      "Değişim",
-      "Süreklilik",
-      "Gelişim",
-      "Hız",
-      "Dikkat"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Metin boyunca değişim terimi vurgulanarak sıkça kullanılmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500304092_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Pek çok insan uykuyu sadece bedensel bir dinlenme olarak görür. Ancak uykunun zihinsel sağlık ve bilişsel işlevler için önemi çok daha derindir. Uyku sırasında beyin, gün içinde öğrenilen bilgileri düzenler, önemli olanları kalıcı hafızaya aktarır ve gereksizleri eler. Bu sürece 'hafıza pekiştirme' denir. Ayrıca, yaratıcı problem çözme yeteneğimizin de yeterli ve kaliteli uykuyla doğrudan ilişkili olduğu kanıtlanmıştır. Kısacası uyku, zihnin kendini yenilediği ve organize ettiği aktif bir süreçtir.",
-    "options": [
-      "İnsanlar günde ortalama kaç saat uyumalıdır?",
-      "Uykusuzluk hangi fiziksel rahatsızlıklara yol açar?",
-      "Uykunun zihinsel faaliyetler üzerindeki rolü nedir?",
-      "Rüyalar neden ve nasıl görülür?",
-      "Farklı yaş gruplarının uyku ihtiyacı değişir mi?"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragraf, uykunun sadece bedensel bir dinlenme olmadığını, özellikle zihinsel işlevler için ne kadar önemli olduğunu açıklamaktadır. Metinde uykunun hafızayı güçlendirdiği, bilgileri düzenlediği ve yaratıcı problem çözme yeteneğini artırdığı gibi konulara odaklanılmaktadır. Bu bilgiler, 'Uykunun zihinsel faaliyetler üzerindeki rolü nedir?' sorusuna doğrudan ve kapsamlı bir cevap niteliğindedir. Diğer şıklardaki soruların (uyku süresi, fiziksel rahatsızlıklar, rüyalar, yaş grupları) cevabı paragrafta bulunmamaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521016879_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Verilen paragrafta hangi kavram üzerinde daha fazla durulmamaktadır?",
-    "options": [
-      "A) Sürdürülebilirlik",
-      "B) Ekosistem dengesi",
-      "C) İnsan etkisi",
-      "D) Tarımsal üretim",
-      "E) Doğal kaynaklar"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paragrafta insan etkisi ve doğal kaynaklar üzerinde durulurken, tarımsal üretim kavramına yeterince yer verilmemiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_11",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın akışını destekler?",
-    "options": [
-      "Bu konu hakkında çok fazla bilgi var.",
-      "Örneğin, birçok araştırma yapılmıştır.",
-      "Bu durum oldukça karmaşık bir meseledir.",
-      "Sonuç olarak, tartışılması gereken bir konudur.",
-      "Bu konu, toplum için önemlidir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Örnek cümlesi, konuyu daha iyi anlamak için ek bilgi sağlayarak akışı destekler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501591114_3",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Dil, yaşayan bir organizma gibidir; sürekli değişir, gelişir ve yeni koşullara uyum sağlar. Toplumun yaşamındaki her değişim, teknolojik yenilikler, kültürel etkileşimler ve sosyal olaylar dile yeni kelimeler kazandırır. Bazı kelimeler zamanla eskiyerek kullanımdan düşerken, bazıları da yeni anlamlar kazanarak varlığını sürdürür. Bu dinamik yapı, dilin canlılığının ve işlevselliğinin en temel göstergesidir. ---. Bu nedenle dili, kuralları asla değişmeyen statik bir yapı olarak görmek büyük bir yanılgıdır.",
-    "options": [
-      "Dilin kurallarını korumak için yabancı kökenli sözcüklerden kaçınmak gerekir.",
-      "Ancak dilin temel yapısı ve gramer kuralları yüzyıllar boyunca aynı kalır.",
-      "Yani durağanlık, dilin doğasına aykırı bir durumdur ve onun ölümüne neden olabilir.",
-      "Her birey, dili doğru kullanma konusunda üzerine düşen sorumluluğu yerine getirmelidir.",
-      "Yazı dilinin, konuşma diline göre daha yavaş değiştiği bir gerçektir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta dilin 'yaşayan bir organizma' gibi sürekli değişen, dinamik bir yapıda olduğu anlatılmaktadır. Boşluktan önceki cümle, bu dinamik yapının dilin canlılığını gösterdiğini belirtiyor. Boşluktan sonraki cümle ise 'Bu nedenle...' diye başlayarak bir sonuç bildiriyor ve dili statik görmenin bir yanılgı olduğunu söylüyor. Bu bağlamda, boşluğa gelmesi gereken cümlenin, önceki fikirleri özetleyip sonraki sonuç cümlesine zemin hazırlaması gerekir. C seçeneğindeki 'Yani durağanlık, dilin doğasına aykırı bir durumdur...' ifadesi, paragrafın başından beri anlatılan 'değişkenlik' ve 'canlılık' fikrini mükemmel bir şekilde özetler ve 'Bu nedenle statik görmek yanılgıdır' sonucuna doğal bir geçiş sağlar. Diğer seçenekler paragrafın ana fikriyle tam olarak örtüşmemekte veya akışı bozmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_3",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Bir paragrafın akışını sağlamak için hangi unsura ihtiyaç vardır?",
-    "options": [
-      "Paragrafın uzunluğu",
-      "Zengin kelime dağarcığı",
-      "Bağlaçlar ve geçiş ifadeleri",
-      "Farklı cümle türleri",
-      "Tekrar eden ifadeler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bağlaçlar ve geçiş ifadeleri, paragrafın akışını sağlamak için gereklidir. Bu unsurlar, cümleler arasında bağlantılar kurar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_14",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi tarihsel olaydan bahsedilmektedir?",
-    "options": [
-      "Savaş",
-      "Bağımsızlık",
-      "Devrim",
-      "Göç",
-      "İsyan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yazar, bağımsızlık mücadelesini ele alarak bu tarihi olaya değinmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261625_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Bir paragrafın en önemli unsurlarından biri nedir?",
-    "options": [
-      "Cümle sayısı",
-      "Ana fikir ve destekleyici cümleler",
-      "Paragrafın uzunluğu",
-      "Kullanılan kelimelerin zenginliği",
-      "Paragrafın yazım tarihi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paragrafın ana fikri ve onu destekleyen cümleler, paragrafın anlamını ve etkisini belirleyen en önemli unsurlardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_7",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazar, paragrafta hangi bakış açısını benimsemektedir?",
-    "options": [
-      "Objektif",
-      "Öznel",
-      "Eleştirel",
-      "Taraflı",
-      "Nötr"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yazar, kendi duygularını ve düşüncelerini aktararak öznel bir bakış açısı sergilemektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi duygu ön plandadır?",
-    "options": [
-      "Sevinç",
-      "Üzüntü",
-      "Korku",
-      "Öfke",
-      "Umutsuzluk"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yazarın kullandığı ifadeler, üzüntü duygusunu ön plana çıkarmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764521016878_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, verilen paragraftaki ana fikri en iyi şekilde ifade etmektedir?",
-    "options": [
-      "A) İnsanların doğayla olan ilişkisi karmaşık bir yapıya sahiptir.",
-      "B) Doğa, insan yaşamının vazgeçilmez bir parçasıdır.",
-      "C) Teknolojik gelişmeler, doğanın korunmasına katkı sağlamaktadır.",
-      "D) İnsanlar, doğayı korumak için çeşitli yöntemler geliştirmektedir.",
-      "E) Doğa, insanlara sadece kaynak sağlamaktadır."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paragrafta doğanın insan yaşamındaki önemi vurgulanmakta ve bu ilişki üzerinden ana fikir oluşturulmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta anlatılan olayın temel nedeni nedir?",
-    "options": [
-      "İnsan ilişkileri",
-      "Doğa olayları",
-      "Toplumsal değişim",
-      "Kişisel tercihler",
-      "Ekonomik durum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Metinde doğa olaylarının insan yaşamını nasıl etkilediği üzerinde durulmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261626_16",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini desteklemez?",
-    "options": [
-      "Ders çalışmak, başarılı olmanın anahtarıdır.",
-      "Ders çalışmayı sevmeyenler için zorlayıcı olabilir.",
-      "Ders çalışmak, sıkı bir disiplin gerektirir.",
-      "Bu konuda pek çok araştırma yapılmıştır.",
-      "Ders çalışmak, kişisel gelişim için önemlidir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ders çalışmayı sevmeyenler için zorlayıcı olabilir. ifadesi, ana fikri desteklemekten ziyade olumsuz bir görüş sunar.",
     "difficulty": 3
   },
   {
@@ -928,36 +48,148 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764525133401_12",
+    "id": "ai_1764501591114_4",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Paragrafın akışında hangi bağlaçlar sıklıkla kullanılmıştır?",
+    "questionText": "Dijital çağın getirdiği en büyük yanılsamalardan biri, bilgiye kolay ulaşmanın bilgili olmakla eşdeğer tutulmasıdır. Oysa internet, ham ve işlenmemiş bir veri yığınından ibarettir. Doğrusuyla yanlışıyla, önemlisiyle önemsiziyle her şey bir aradadır. Bilgili olmak ise bu veri yığını içinden doğru olanı seçebilme, ayıklayabilme, analiz edebilme ve sentezleyerek anlamlı bir bütün oluşturabilme becerisidir. Sadece bilgiye erişmek, bir kütüphanedeki tüm kitaplara sahip olup hiçbirini okumamak gibidir. Asıl mesele, o kitapları okuyup anlamak ve hayata geçirmektir.",
     "options": [
-      "Ama",
-      "Fakat",
-      "Ve",
-      "Ancak",
-      "Oysaki"
+      "Bilgiye erişim kolaylığı ve bilgili olma arasındaki farka",
+      "İnternetin güvenilmez bir bilgi kaynağı olduğuna",
+      "Dijital çağda kütüphanelerin önemini yitirdiğine",
+      "Bilgiye ulaşmak için harcanan çabanın gereksizliğine",
+      "Analiz ve sentez becerilerinin nasıl geliştirileceğine"
     ],
-    "correctAnswer": 2,
-    "explanation": "Metin boyunca 've' bağlacı sıklıkla kullanılarak düşünceler birleştirilmiştir.",
+    "correctAnswer": 0,
+    "explanation": "Paragrafta temel olarak 'bilgiye kolay ulaşmak' ile 'gerçekten bilgili olmak' arasındaki ayrım vurgulanmaktadır. Yazar, internet sayesinde bilgiye erişimin kolaylaştığını ancak bunun tek başına bilgili olmak anlamına gelmediğini, asıl önemli olanın bu bilgiyi işleme (seçme, analiz etme, sentezleme) becerisi olduğunu belirtmektedir. Kütüphane örneği de bu fikri pekiştirmek için kullanılmıştır. Dolayısıyla paragrafta 'bilgiye erişim kolaylığı ve bilgili olma arasındaki fark' üzerinde durulmaktadır. Diğer seçenekler ya parçada değinilmeyen ya da parçanın ana fikri olmayan yan konulardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_25",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafın hangi kısmı en fazla bilgi içermektedir?",
+    "options": [
+      "Giriş",
+      "Gelişme",
+      "Sonuç",
+      "Ana fikir",
+      "Kapanış"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gelişme kısmı, detaylı bilgi ve açıklamalar içermektedir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764522261625_2",
+    "id": "ai_1764520393270_2",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olamaz?",
+    "questionText": "Aşağıdaki paragrafa en uygun başlık hangisidir?",
     "options": [
-      "Bu konu üzerine daha fazla konuşmalıyız.",
-      "Sonuç olarak, bu durum oldukça önemlidir.",
-      "Öncelikle, bu konunun detaylarına inelim.",
-      "Herkesin bu konuda bir fikri olmalıdır.",
-      "Bu paragrafta ele alınacak konu şudur:"
+      "Doğa ve İnsan",
+      "Teknolojinin Gelişimi",
+      "Okumanın Önemi",
+      "Sanat ve Kültür",
+      "Eğitimde Yenilikler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafın içeriği, okumanın bireyler üzerindeki etkilerini ve önemini vurguluyorsa, en uygun başlık 'Okumanın Önemi' olacaktır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591113_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Sanat, yalnızca estetik bir haz aracı değildir; aynı zamanda toplumun vicdanı ve belleğidir. Tarih boyunca sanatçılar, eserleri aracılığıyla toplumsal adaletsizliklere, siyasi baskılara ve unutulmaya yüz tutmuş acılara dikkat çekmişlerdir. Bir ressamın tuvalindeki fırça darbesi, bir yazarın kaleminden dökülen kelimeler ya da bir müzisyenin bestesindeki notalar, çoğu zaman en etkili tarih kitaplarından veya en gür sesli nutuklardan daha kalıcı izler bırakır. Sanat, gerçeği süslü kelimelerin ardına gizlemek yerine, onu en yalın ve sarsıcı hâliyle insanın karşısına çıkararak bir yüzleşme imkânı sunar. Bu yönüyle sanat, toplumu uyandıran ve onu daha iyi bir geleceğe yönlendiren bir pusula gibidir.",
+    "options": [
+      "Sanat eserlerinin estetik değeri, toplumsal mesajlarından daha önemlidir.",
+      "Sanatçılar, toplumsal sorunlara her zaman objektif bir açıdan yaklaşmalıdır.",
+      "Sanatın asıl işlevi, toplumsal olaylara tanıklık etmek ve toplumu bilinçlendirmektir.",
+      "Tarih kitapları, sanatsal ürünlere göre geçmişi daha doğru yansıtır.",
+      "Sanat, sadece yetenekli insanların uğraşabileceği seçkin bir alandır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragraf boyunca sanatın sadece estetik bir zevk unsuru olmadığı, asıl önemli yönünün toplumsal bir bellek ve vicdan işlevi görmesi olduğu vurgulanmaktadır. 'Sanatçılar, eserleri aracılığıyla toplumsal adaletsizliklere dikkat çekmişlerdir.', 'gerçeği en yalın hâliyle insanın karşısına çıkarır' ve 'toplumu uyandıran bir pusula gibidir' ifadeleri, sanatın toplumu bilinçlendirme ve ona tanıklık etme işlevini ön plana çıkarmaktadır. Dolayısıyla parçanın ana düşüncesi C seçeneğinde doğru bir şekilde özetlenmiştir. A seçeneği parçanın ilk cümlesiyle çelişir. B seçeneği sanatçının objektifliğinden bahsetmez, aksine bir duruş sergilediğini ima eder. D seçeneği, parçadaki 'en etkili tarih kitaplarından daha kalıcı izler bırakır' ifadesiyle çelişir. E seçeneği ise parçanın konusu dışındadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi duygu ön plandadır?",
+    "options": [
+      "Sevinç",
+      "Üzüntü",
+      "Korku",
+      "Öfke",
+      "Umutsuzluk"
     ],
     "correctAnswer": 1,
-    "explanation": "Giriş cümlesi konuyu tanıtan ve okuyucunun dikkatini çeken bir cümle olmalıdır. Sonuç cümlesi ise paragrafın sonunda yer alır.",
+    "explanation": "Yazarın kullandığı ifadeler, üzüntü duygusunu ön plana çıkarmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528987196_4",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma yapmaktadır?",
+    "options": [
+      "Ali, elmayı seviyor.",
+      "Ayşe, Ali'den daha dikkatli çalışıyor.",
+      "Kediler genellikle uykucudur.",
+      "Pazar günleri sinemaya gitmeyi seviyorum.",
+      "Kütüphane sessiz bir yerdir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayşe'nin Ali'den daha dikkatli çalıştığı ifadesi bir karşılaştırma yapmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528987196_18",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşıtlık içerir?",
+    "options": [
+      "Ali çok çalışkan bir öğrenci.",
+      "Bugün hava çok güzel ama yarın yağmur yağacak.",
+      "Sınıf çok kalabalık.",
+      "Müzik dinlemek eğlencelidir.",
+      "Kitap okumak faydalıdır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bugün hava çok güzel ama yarın yağmur yağacak ifadesi bir karşıtlık içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522261626_13",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir paragrafta hangi öğe, paragrafı daha etkili hale getirir?",
+    "options": [
+      "Sadece anekdotlar",
+      "Paragrafın uzunluğu",
+      "Güçlü bir ana fikir",
+      "Tekrar eden ifadeler",
+      "Sadece sonuç cümlesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Güçlü bir ana fikir, paragrafın etkisini artırır ve okuyucunun dikkatini çeker.",
     "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_13",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir tanımlayıcı cümledir?",
+    "options": [
+      "Ali, matematikte çok başarılıdır.",
+      "Ayşe, sinema izlemeyi sever.",
+      "Kediler genellikle uykucudur.",
+      "Müzik, hayatın önemli bir parçasıdır.",
+      "Hava çok güzeldi."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Müzik, hayatın önemli bir parçasıdır ifadesi tanımlayıcı bir cümledir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764525133401_26",
@@ -976,118 +208,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764500304092_6",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Popüler kültür, hızla üretilip aynı hızla tüketilen bir yapıya sahiptir. Anlık heveslere ve geçici modalara dayanır. Derinlikli bir anlam veya kalıcı bir estetik kaygı taşımaz. Sanat eserleri ise tam tersine, zamana meydan okuyan, evrensel değerler taşıyan ve üzerinden yıllar geçse de güncelliğini yitirmeyen yapıtlardır. Bir popüler şarkı birkaç ayda unutulurken, bir Beethoven bestesi yüzyıllardır dinlenmektedir.",
-    "options": [
-      "Popüler kültür ürünlerinin sanatsal değer taşımadığına",
-      "Sanatın sadece belli bir zümreye hitap ettiğine",
-      "Popüler kültür ile sanat arasındaki temel farkın kalıcılık olduğuna",
-      "Teknolojinin popüler kültürün yayılmasını hızlandırdığına",
-      "Sanatçıların popüler kültüre karşı durması gerektiğine"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu paragrafta popüler kültür ile sanat eseri karşılaştırılmaktadır. Popüler kültürün 'hızla tüketilme', 'geçici olma' gibi özelliklerine karşılık, sanat eserlerinin 'zamana meydan okuma', 'kalıcı olma' ve 'yüzyıllardır dinlenme' gibi özellikleri vurgulanmıştır. Bu karşılaştırmanın temel ekseni, kalıcılık ve zamana karşı direnebilmektir. Dolayısıyla, parçadan çıkarılabilecek en temel yargı, ikisi arasındaki asıl farkın kalıcılık olduğudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261626_15",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdakilerden hangisi bir paragrafın daha anlaşılır olmasını sağlar?",
-    "options": [
-      "Kısa cümleler kullanmak",
-      "Uzun cümleler kullanmak",
-      "Zor kelimeler seçmek",
-      "Farklı konulara atlamak",
-      "Gereksiz detaylar eklemek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kısa cümleler, bilgiyi daha anlaşılır hale getirir ve okuyucunun dikkatini çeker.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_20",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Yazar, paragrafta hangi olayın etkilerini incelemektedir?",
-    "options": [
-      "Küresel ısınma",
-      "Sosyal medya",
-      "Ekonomik kriz",
-      "Savaş",
-      "Göç"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Paragrafta küresel ısınmanın etkileri üzerinde durulmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498940786_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Önyargı, zihinsel bir kısa yol gibidir. Beynimiz, karşılaştığı her yeni durumu veya kişiyi en baştan analiz etmek yerine, daha önceki deneyimlerine veya kalıp düşüncelere dayanarak hızlı bir sonuca varır. Bu, enerji tasarrufu sağlayan bir mekanizma olsa da çoğu zaman bizi hatalı yargılara sürükler. İnsanları, grupları veya olayları yeterince tanımadan, eksik bilgiyle etiketlemek, hem bireysel ilişkilerimizde hem de toplumsal barışta onarılması güç yaralar açar. Önyargının panzehiri ise merak etmek, sorgulamak ve anlamaya çalışmaktır. \n\nBu parçadan önyargı ile ilgili olarak aşağıdakilerden hangisine ulaşılamaz?",
-    "options": [
-      "Zihnin daha az çaba harcamasına yönelik bir eğilimden kaynaklandığına",
-      "Kalıp düşüncelere ve geçmiş tecrübelere dayandığına",
-      "Toplumsal ve bireysel ilişkilere zarar verebileceğine",
-      "Eleştirel düşünce ve merak duygusuyla aşılabileceğine",
-      "Sadece olumsuz durumlar karşısında ortaya çıktığına"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Parçada önyargının zihinsel bir kısa yol olduğu (A), kalıp düşüncelere dayandığı (B), ilişkilere zarar verdiği (C) ve merak ve sorgulama ile aşılabileceği (D) belirtilmiştir. Ancak önyargının sadece olumsuz durumlar karşısında ortaya çıktığına dair bir bilgi metinde yer almamaktadır. Önyargı, hem olumlu hem de olumsuz olabilir; fakat metin bu ayrıma girmemiştir ve sadece olumsuz durumlara özgü olduğunu söylememiştir. Dolayısıyla E şıkkındaki ifadeye ulaşılamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_3",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Kitaplar, sessiz öğretmenlerdir. Bize farklı dünyaların kapılarını aralar, hiç gitmediğimiz yerlere götürür, hiç tanımadığımız insanlarla tanıştırırlar. Onların sayfalarında gezinirken hem kelime dağarcığımız zenginleşir hem de empati yeteneğimiz gelişir. Başka bir karakterin gözünden hayata bakmak, kendi düşünce kalıplarımızın dışına çıkmamızı sağlar. Bu sayede olaylara daha geniş bir perspektiften yaklaşmayı öğreniriz.",
-    "options": [
-      "Kitap okumanın akademik başarıyı garantilediğine",
-      "Okumanın yalnızca bir boş zaman aktivitesi olduğuna",
-      "Her kitabın okuyucuya aynı deneyimi yaşattığına",
-      "Okumanın bireysel gelişim ve anlayış üzerindeki çok yönlü etkilerine",
-      "İyi bir okur olmak için çok hızlı okumak gerektiğine"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parçada kitapların insan üzerindeki çeşitli olumlu etkilerinden bahsedilmektedir. Farklı dünyaları tanıtması, kelime dağarcığını zenginleştirmesi, empatiyi geliştirmesi ve bakış açısını genişletmesi gibi faydaları sıralanmıştır. Bu ifadeler, bir bütün olarak okumanın kişisel gelişim ve dünyaya daha anlayışlı bakma konusundaki çok yönlü katkılarını anlatmaktadır. Dolayısıyla parçada asıl anlatılmak istenen D şıkkında doğru bir şekilde özetlenmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_5",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafın ana fikri nedir?",
-    "options": [
-      "İnsan doğası",
-      "Zamanın önemi",
-      "Kültürel miras",
-      "Teknolojinin etkisi",
-      "Doğanın korunması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Yazar, doğanın korunmasının önemi üzerinde durarak ana fikri oluşturmuştur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520393270_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi şekilde ifade etmektedir?",
-    "options": [
-      "Çalışmak, başarıya giden yolda önemli bir adımdır.",
-      "Başarı, sadece şansa bağlıdır.",
-      "Çalışmanın yanında dinlenmek de gereklidir.",
-      "İnsanlar, farklı alanlarda yeteneklidir.",
-      "Başarı, herkesin ulaşabileceği bir hedeftir."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ana fikir, paragrafa yön veren temel düşüncedir. İlk seçenek, çalışmanın önemini vurgulayarak ana fikri ifade etmektedir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764522261626_17",
     "subjectId": "tur",
     "topic": "Paragraf",
@@ -1104,291 +224,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501591114_5",
+    "id": "ai_1764498940786_2",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Bir yazar, romanını kurgularken okurun zihninde bir dünya yaratmayı hedefler. Bu dünyayı inandırıcı kılmanın yolu ise detaylardan geçer. Karakterin yürüyüşü, odanın duvarındaki tablonun rengi, pencereden sızan ışığın açısı... Tüm bu küçük ayrıntılar, anlatılan hikâyeye derinlik ve gerçeklik hissi katar. Okur, bu detaylar sayesinde kendini anlatılan mekânın içinde hisseder, karakterlerle empati kurar. Detaylardan yoksun bir anlatı, iskeleti belli olan ama üzeri etle kaplanmamış bir canlıya benzer; soğuk, yavan ve ruhsuzdur. İyi bir yazar, neyi ne kadar anlatacağını bilen, detayları bir dantel gibi özenle işleyen bir ustadır.",
-    "options": [
-      "Romanda kurgunun olay örgüsünden daha önemli olduğu",
-      "İyi bir yazarın üslubunun sade ve anlaşılır olması gerektiği",
-      "Edebi eserlerde detayların, anlatımı inandırıcı ve canlı kıldığı",
-      "Okurun bir romanı beğenmesinin kişisel zevklere bağlı olduğu",
-      "Karakter yaratmanın, bir roman yazmanın en zor aşaması olduğu"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta, bir romanı inandırıcı ve etkileyici kılan unsurun 'detaylar' olduğu fikri işlenmektedir. Yazar, 'küçük ayrıntıların hikâyeye derinlik ve gerçeklik hissi kattığını', 'detaylardan yoksun bir anlatının yavan ve ruhsuz olacağını' belirterek detayların önemini vurgulamıştır. C seçeneği, bu ana fikri en doğru şekilde ifade etmektedir. Diğer seçenekler parçada doğrudan vurgulanan düşünceler değildir. A seçeneği bir karşılaştırma yapar ki parçada bu yoktur. B seçeneği üslubun sadeliğinden bahsetmez. D ve E seçenekleri ise metnin konusu dışındadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_5",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Minimalizm, en basit tanımıyla 'az ama özdür' felsefesine dayanan bir yaşam biçimi ve sanat akımıdır. Bu akım, nesnelerin ve bilgilerin fazlalığından arınarak sadeliği ve işlevselliği ön plana çıkarır. Örneğin bir minimalist evde, sadece gerçekten ihtiyaç duyulan, bir amaca hizmet eden eşyalar bulunur. Tüketim kültürünün sürekli 'daha fazlasını al' telkininin aksine minimalizm, 'daha azıyla mutlu ol' mesajını verir. Bu yönüyle modern insanın karmaşadan kaçış arayışına bir cevap niteliğindedir.",
-    "options": [
-      "Öyküleme - Betimleme",
-      "Tanımlama - Karşılaştırma",
-      "Tartışma - Tanık gösterme",
-      "Açıklama - Benzetme",
-      "Betimleme - Örnekleme"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Parçanın ilk cümlesi, 'Minimalizm, ... bir yaşam biçimi ve sanat akımıdır.' diyerek doğrudan bir tanım yapmaktadır. Parçanın devamında ise minimalizm, 'Tüketim kültürünün ... aksine' ifadesiyle tüketim kültürüyle karşılaştırılmaktadır. Ayrıca 'örneğin' denilerek örneklemeye de başvurulmuştur. Ancak şıklar arasında hem tanımlama hem de karşılaştırmayı içeren B seçeneği, parçada en ağır basan anlatım tekniklerini bir arada sunmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_9",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini destekler?",
-    "options": [
-      "Ders çalışmak önemlidir.",
-      "Bununla birlikte, ders çalışmak bazen zorlayıcı olabilir.",
-      "Ders çalışmayı sevmeyenler vardır.",
-      "Çalışma alışkanlıkları kişiden kişiye değişir.",
-      "Ders çalışmak, başarılı olmanın anahtarıdır."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ana fikri destekleyen cümleler, ana fikrin doğruluğunu ve önemini artıran ifadelerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_17",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi perspektif ile yazılmıştır?",
-    "options": [
-      "1. Tekil",
-      "2. Tekil",
-      "Üçüncü tekil",
-      "Taraflı",
-      "Objektif"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yazar, birinci tekil perspektif kullanarak kişisel deneyimlerini aktarmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525133401_18",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi tür anlatım ön plandadır?",
-    "options": [
-      "Öyküleyici",
-      "Tanımlayıcı",
-      "Açıklayıcı",
-      "İkna edici",
-      "Eleştirel"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yazar, okuyucuyu ikna etmeye yönelik bir anlatım tarzı kullanmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498940787_7",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Mizah, hayatın zorlukları karşısında güçlü bir kalkandır. En karanlık anlarda bile küçük bir tebessüm, olaylara farklı bir pencereden bakmamızı sağlayabilir. Sorunların içinde boğulmak yerine onlarla alay edebilmek, psikolojik olarak büyük bir esneklik ve başa çıkma becerisi göstergesidir. Mizah, stresi azaltır, insanlar arasındaki bağı güçlendirir ve en önemlisi, umudu canlı tutar. Karşısındaki devasa sorunu bir karikatüre dönüştürebilen insan, o sorunu çözmeye bir adım daha yaklaşmış demektir. \n\nBu parçaya verilebilecek en uygun başlık aşağıdakilerden hangisidir?",
-    "options": [
-      "Mizah ve Toplum",
-      "Gülmenin Fizyolojisi",
-      "Zorluklar Karşısında Mizahın Gücü",
-      "Karikatür Sanatının Önemi",
-      "Stresle Başa Çıkma Yöntemleri"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragraf, baştan sona mizahın özellikle \"hayatın zorlukları\", \"en karanlık anlar\" ve \"sorunlar\" karşısındaki rolünü ve gücünü anlatmaktadır. Metin, mizahın bu zorluklarla başa çıkmada bir \"kalkan\" olduğunu, stresi azalttığını ve umudu canlı tuttuğunu vurgulamaktadır. Bu nedenle \"Zorluklar Karşısında Mizahın Gücü\" başlığı, parçanın ana temasını tam olarak kapsamaktadır. \"Mizah ve Toplum\" çok genel, \"Gülmenin Fizyolojisi\" bilimsel bir detaya giriyor ki parçada bu yok, \"Karikatür Sanatının Önemi\" sadece bir örnek, \"Stresle Başa Çıkma Yöntemleri\" ise çok geniş bir başlık olurdu çünkü parça sadece bir yönteme (mizaha) odaklanmış.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525133401_4",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragrafta hangi durum ele alınmamıştır?",
-    "options": [
-      "Bireysel deneyimler",
-      "Toplumsal etkiler",
-      "Kültürel farklılıklar",
-      "Eğitim sistemi",
-      "Ekonomik faktörler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paragrafta eğitim sistemine dair herhangi bir bilgi verilmemiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522261625_8",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın akışını bozar?",
-    "options": [
-      "Bir önceki cümlede bahsedilen konuyu ele alır.",
-      "Farklı bir konuya geçiş yapar.",
-      "Örnekler sunar.",
-      "Destekleyici bilgiler verir.",
-      "Ana fikri pekiştirir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Farklı bir konuya geçiş yapmak, paragrafın akışını bozar ve okuyucunun dikkatini dağıtır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521016879_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Paragraftaki bilgilerden hangisi yanlıştır?",
-    "options": [
-      "A) Hava kirliliği, insan sağlığını olumsuz etkiler.",
-      "B) Su kaynaklarının azalması, tarımsal üretimi tehdit eder.",
-      "C) Doğal yaşam alanlarının yok olması, biyoçeşitliliği artırır.",
-      "D) Enerji tüketiminin azaltılması, çevre dostu bir yaklaşım olarak görülmektedir.",
-      "E) Atık yönetimi, doğal kaynakların korunmasında önemlidir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Doğal yaşam alanlarının yok olması biyoçeşitliliği artırmaz, aksine azaltır. Bu, paragraftaki yanlış bilgidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_4",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "(I) Dijitalleşme, hayatımızın her alanını derinden etkiliyor. (II) Alışveriş alışkanlıklarımızdan sosyal ilişkilerimize kadar pek çok rutinimiz bu dönüşümden payını aldı. (III) Özellikle Z kuşağı, bu dijital dünyanın içine doğmuş bir nesil olarak öne çıkıyor. (IV) Bu kuşağın teknolojiyle olan ilişkisi, önceki nesillerden oldukça farklı dinamikler barındırıyor. (V) Önceki nesiller ise teknolojiyi sonradan öğrenmek ve ona adapte olmak zorunda kaldı.",
+    "questionText": "(I) Eleştiri, bir sanat eserini ya da düşünceyi körü körüne yüceltmek veya yermek değildir. (II) Aksine, eserin güçlü ve zayıf yönlerini nesnel ölçütlerle ortaya koyma çabasıdır. (III) Gerçek bir eleştirmen, kişisel beğenilerini bir kenara bırakarak eseri kendi iç tutarlılığı ve sanatsal değeri üzerinden değerlendirir. (IV) Eleştirmenin amacı, okura veya izleyiciye eseri daha iyi anlaması için bir yol haritası sunmaktır. (V) Sanat eserlerinin fiyatları, son yıllarda koleksiyonerler yüzünden oldukça artmıştır. (VI) Bu yol haritası sayesinde alımlayıcı, eserin daha önce fark etmediği katmanlarını keşfedebilir. \n\nBu parça iki paragrafa ayrılmak istense ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?",
     "options": [
       "II",
       "III",
       "IV",
       "V",
-      "Paragraf bölünemez"
+      "VI"
     ],
-    "correctAnswer": 1,
-    "explanation": "Parçanın ilk iki cümlesi (I ve II), dijitalleşmenin genel etkilerinden bahsetmektedir. Konu genel bir çerçevede ele alınmıştır. Ancak III. cümleden itibaren konu özelleşerek 'Z kuşağı' ve nesiller arası teknoloji kullanımı farkına odaklanmaktadır. III, IV ve V. cümleler birbiriyle doğrudan bağlantılı olup Z kuşağı ve önceki nesilleri karşılaştırmaktadır. Bu nedenle, konunun genelden özele geçtiği III. cümle, yeni bir paragrafın başlangıcı olmalıdır.",
+    "correctAnswer": 3,
+    "explanation": "Parçanın ilk dört cümlesi (I, II, III, IV) eleştirinin ve eleştirmenin ne olduğunu, amacını ve nasıl olması gerektiğini tanımlamaktadır. Ancak V. cümlede konu tamamen değişerek sanat eserlerinin fiyatları ve koleksiyonerlerden bahsedilmeye başlanmıştır. VI. cümle ise tekrar IV. cümlenin devamı niteliğindedir. Bu durumda V. cümle, parçanın anlam bütünlüğünü bozmaktadır. Ancak soru, akışı bozan cümleyi değil, parçanın ikiye bölünmesi gereken yeri sormaktadır. İlk dört cümle eleştirinin tanımını ve amacını anlatırken, V. cümle alakasız bir konuya geçiş yapmıştır. VI. cümle ise IV. cümlenin devamıdır. Bu durumda akışı bozan cümle V'tir. Fakat soru formatı iki paragrafa ayırma olduğu için, V. cümlenin konuyu tamamen değiştirdiği ve yeni bir paragrafa (her ne kadar alakasız da olsa) başlattığı kabul edilir. Dolayısıyla ikinci paragraf V numaralı cümleyle başlar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764525133401_8",
+    "id": "ai_1764525133401_21",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Paragrafta hangi kavram ön plana çıkmaktadır?",
+    "questionText": "Paragrafın hangi kısmında örnek verilmiştir?",
     "options": [
-      "Sosyal adalet",
-      "Bireysel özgürlük",
-      "Çevre bilinci",
-      "Ekonomik eşitsizlik",
-      "Kültürel zenginlik"
+      "Başlangıç",
+      "Gelişme",
+      "Sonuç",
+      "Giriş",
+      "Kapanış"
     ],
-    "correctAnswer": 2,
-    "explanation": "Yazar, çevre bilincinin önemini vurgulayarak bu kavramı ön plana çıkarmaktadır.",
+    "correctAnswer": 1,
+    "explanation": "Örnekler, paragrafın gelişme kısmında verilmiştir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764520393270_1",
+    "id": "ai_1764497605988_2",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın detaylandırıcı unsuru olarak kullanılabilir?",
+    "questionText": "Dijital minimalizm, teknolojiyle daha bilinçli ve amaç odaklı bir ilişki kurmayı savunan bir felsefedir. Bu yaklaşıma göre, her yeni uygulamayı indirmek veya her sosyal medya platformunda yer almak yerine, dijital araçları yalnızca hayatımıza gerçekten değer katanları seçerek kullanmalıyız. Amaç, teknolojiyi tamamen reddetmek değil, onun hayatımızdaki rolünü kontrol altına alarak dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır. Bu sayede kazanılan zaman ve enerji, daha anlamlı ve derinlikli faaliyetlere yönlendirilebilir. Böylece teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür.",
     "options": [
-      "Çocukların eğitimde rolü büyüktür.",
-      "Eğitim, bireylerin geleceğini şekillendirir.",
-      "Daha fazla kitap okumak, bilgiyi artırır.",
-      "Çocukların eğitimdeki rolü, toplumsal gelişim açısından önemlidir.",
-      "Eğitim sistemi, sürekli olarak güncellenmelidir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Detaylandırıcı unsurlar, ana fikri destekleyen açıklamalardır. Dördüncü seçenek, çocukların eğitimdeki rolünü açıklayarak detaylandırıcı bir unsur sunmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261625_5",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Bir paragrafın destekleyici cümleleri ne işe yarar?",
-    "options": [
-      "Ana fikri güçlendirir",
-      "Paragrafı kısaltır",
-      "Yalnızca örnekler verir",
-      "Yanlış bilgi sunar",
-      "Ana fikri unutturur"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Destekleyici cümleler, ana fikri güçlendirir ve okuyucuya daha fazla bilgi sunar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501591114_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "(I) Eleştiri, bir sanat eserini ya da düşünceyi belirli ölçütlere göre değerlendirme işidir. (II) Amacı, eseri daha anlaşılır kılmak, onun güçlü ve zayıf yönlerini ortaya koymaktır. (III) İyi bir eleştirmen, esere kişisel önyargılarından arınmış bir şekilde, nesnel bir gözle yaklaşır. (IV) Sanat eserleri, eleştirmenler olmasa da kendi değerini zamanla bulur. (V) Böylece hem sanatçının gelişimine katkıda bulunur hem de okurun veya izleyicinin eseri daha derinlemesine kavramasına yardımcı olur.",
-    "options": [
-      "I",
-      "II",
-      "III",
-      "IV",
-      "V"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paragrafın genelinde eleştirinin tanımı, amacı ve iyi bir eleştirmenin özellikleri anlatılmaktadır. I, II, III ve V numaralı cümleler bir bütünlük içinde eleştirinin işlevlerini ve niteliklerini açıklamaktadır. III. cümleden sonra V. cümlenin gelmesi anlam akışını tamamlamaktadır ('nesnel bir gözle yaklaşır' ve 'böylece sanatçının gelişimine katkıda bulunur'). Ancak IV. cümlede, konunun dışına çıkılarak eleştirinin gerekliliği sorgulayan, farklı bir yargı dile getirilmiştir. Bu cümle, paragrafın genel akışını ve anlam bütünlüğünü bozmaktadır. Bu yüzden doğru cevap IV'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500304092_1",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "(I) Akdeniz mutfağı, zeytinyağı, taze sebzeler ve deniz ürünleri ağırlıklı yapısıyla bilinir. (II) Bu beslenme tarzının sağlık üzerindeki olumlu etkileri bilimsel olarak da kanıtlanmıştır. (III) Özellikle kalp ve damar sağlığını korumada önemli bir rol oynar. (IV) İtalya'nın güney sahilleri, yaz aylarında çok sayıda turist çeker. (V) Yemeklerde baharat ve taze otların kullanımı da lezzeti artıran önemli unsurlardandır.",
-    "options": [
-      "I",
-      "II",
-      "III",
-      "IV",
-      "V"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parçanın genel konusu Akdeniz mutfağının özellikleri ve sağlığa faydalarıdır. I, II, III ve V numaralı cümleler bu konu etrafında şekillenmektedir. I. cümlede mutfağın temel malzemeleri, II. ve III. cümlelerde sağlıkla ilişkisi, V. cümlede ise lezzet unsurları belirtilmiştir. Ancak IV. cümle, konudan saparak İtalya'daki turizmden bahsetmektedir. Bu cümle, paragrafın genel anlam bütünlüğüne uymadığı için düşüncenin akışını bozmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498940786_0",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Sanatçı, eserini ortaya koyarken toplumdan ve içinde yaşadığı çağdan bağımsız hareket edemez. En soyut görünen bir resimde, en kişisel olduğu düşünülen bir şiirde bile çağının ruhu, toplumsal çalkantılar veya sessiz bir umut bir şekilde kendine yer bulur. Sanat, bir ayna gibi, çoğu zaman farkında bile olmadan ait olduğu dönemin izlerini taşır. Bu yüzden, bir sanat eserini tam olarak anlayabilmek için onun yaratıldığı tarihsel ve sosyal koşulları bilmek, esere bakış açımızı derinleştirir ve bize yeni anlam katmanları sunar. \n\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
-    "options": [
-      "Sanat eserleri, yaratıcısının kişisel dünyasının bir yansımasıdır.",
-      "Sanatın toplumsal olayları doğrudan şekillendirme gücü vardır.",
-      "Bir sanat eserini anlamak, onun üretildiği dönemin koşullarını bilmekle yakından ilişkilidir.",
-      "Her sanatçı, eserlerinde toplumsal mesajlar verme kaygısı taşır.",
-      "Soyut sanat, somut sanata göre yorumlanması daha zor bir alandır."
+      "Teknolojik araçların seçici bir şekilde kullanılması gerektiğini öne sürdüğüne",
+      "Zihinsel odaklanmayı ve verimliliği artırmayı hedeflediğine",
+      "Teknolojinin tamamen hayattan çıkarılması gerektiğini savunduğuna",
+      "Kişinin teknoloji üzerindeki kontrolünü artırmayı amaçladığına",
+      "Dijital araçların bir amaç değil, araç olarak görülmesini teşvik ettiğine"
     ],
     "correctAnswer": 2,
-    "explanation": "Paragrafta sanatçının ve eserinin içinde bulunduğu çağdan ve toplumdan bağımsız olamayacağı vurgulanmaktadır. Metnin son cümlesi olan \"Bu yüzden, bir sanat eserini tam olarak anlayabilmek için onun yaratıldığı tarihsel ve sosyal koşulları bilmek, esere bakış açımızı derinleştirir...\" ifadesi, parçanın ana fikrini özetlemektedir. Eseri anlamak ile üretildiği dönemin koşulları arasında doğrudan bir bağ kurulmuştur. Diğer şıklar ya parçanın bir detayıdır (A) ya da parçada değinilmeyen farklı bir konudur (B, D, E).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522261627_20",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olarak kullanılabilir?",
-    "options": [
-      "Ders çalışmak, hayatta başarı için şarttır.",
-      "Sonuç olarak, ders çalışmak önemlidir.",
-      "Ders çalışmayı sevmeyenler vardır.",
-      "Ders çalışmanın faydaları çoktur.",
-      "Ders çalışmak, bazıları için zorlayıcıdır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Giriş cümlesi, konuyu tanıtan ve okuyucunun dikkatini çeken bir cümle olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519425608_2",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın destekleyici cümlesi olarak kabul edilebilir?",
-    "options": [
-      "Okul, öğrencilerin öğrenim hayatlarının temelidir.",
-      "Okulda birçok farklı etkinlik düzenlenir.",
-      "Okul, çocukların sosyal becerilerini geliştirdiği bir yerdir.",
-      "Okulda ders çalışmak önemlidir.",
-      "Okul, sadece bilgi edinme yeri değildir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu cümle, okulun işlevselliği ve önemine dair bir destekleyici bilgi sunarak ana fikri güçlendirmektedir.",
+    "explanation": "Parçada dijital minimalizmin teknolojiyi \"tamamen reddetmek değil\", aksine \"bilinçli ve amaç odaklı\" kullanarak kontrol altına almak olduğu açıkça belirtilmektedir. A şıkkına \"gerçekten değer katanları seçerek kullanmalıyız\" ifadesinden, B şıkkına \"dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır\" ifadesinden, D şıkkına \"onun hayatımızdaki rolünü kontrol altına alarak\" ifadesinden ve E şıkkına \"teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür\" ifadesinden ulaşılabilir. Ancak C şıkkındaki \"teknolojinin tamamen hayattan çıkarılması gerektiği\" ifadesi, parçadaki \"teknolojiyi tamamen reddetmek değil\" yargısıyla doğrudan çelişmektedir. Bu nedenle bu yargıya parçadan ulaşılamaz.",
     "difficulty": 3
   },
   {
@@ -1424,147 +304,259 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764528987196_0",
+    "id": "ai_1764500304092_4",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'gözlem' kelimesinin anlamını en iyi şekilde ifade etmektedir?",
+    "questionText": "(I) Dijitalleşme, hayatımızın her alanını derinden etkiliyor. (II) Alışveriş alışkanlıklarımızdan sosyal ilişkilerimize kadar pek çok rutinimiz bu dönüşümden payını aldı. (III) Özellikle Z kuşağı, bu dijital dünyanın içine doğmuş bir nesil olarak öne çıkıyor. (IV) Bu kuşağın teknolojiyle olan ilişkisi, önceki nesillerden oldukça farklı dinamikler barındırıyor. (V) Önceki nesiller ise teknolojiyi sonradan öğrenmek ve ona adapte olmak zorunda kaldı.",
     "options": [
-      "Bir durumu dikkatlice incelemek",
-      "Bir şeyin kopyasını yapmak",
-      "Bir yerden bir şey almak",
-      "Bir bilgiyi unutmak",
-      "Birine yardım etmek"
+      "II",
+      "III",
+      "IV",
+      "V",
+      "Paragraf bölünemez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parçanın ilk iki cümlesi (I ve II), dijitalleşmenin genel etkilerinden bahsetmektedir. Konu genel bir çerçevede ele alınmıştır. Ancak III. cümleden itibaren konu özelleşerek 'Z kuşağı' ve nesiller arası teknoloji kullanımı farkına odaklanmaktadır. III, IV ve V. cümleler birbiriyle doğrudan bağlantılı olup Z kuşağı ve önceki nesilleri karşılaştırmaktadır. Bu nedenle, konunun genelden özele geçtiği III. cümle, yeni bir paragrafın başlangıcı olmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_14",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi tarihsel olaydan bahsedilmektedir?",
+    "options": [
+      "Savaş",
+      "Bağımsızlık",
+      "Devrim",
+      "Göç",
+      "İsyan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yazar, bağımsızlık mücadelesini ele alarak bu tarihi olaya değinmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525133401_8",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi kavram ön plana çıkmaktadır?",
+    "options": [
+      "Sosyal adalet",
+      "Bireysel özgürlük",
+      "Çevre bilinci",
+      "Ekonomik eşitsizlik",
+      "Kültürel zenginlik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yazar, çevre bilincinin önemini vurgulayarak bu kavramı ön plana çıkarmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261625_12",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi yazım kurallarına uygun değildir?",
+    "options": [
+      "Ders çalışmak, başarı için şarttır.",
+      "Öğrenmek, hayat boyu süren bir yolculuktur.",
+      "Başarı, sıkı çalışma ile gelir.",
+      "Öncelikle, ders çalışmayı sevmek gerekir.",
+      "Ders çalışmayı, herkes sevebilir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ders çalışmayı, herkes sevebilir. ifadesinde virgül kullanımı yanlıştır ve cümle akışını bozar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522261626_14",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini değiştirir?",
+    "options": [
+      "Ders çalışmak önemlidir.",
+      "Bu konuda birçok görüş bulunmaktadır.",
+      "Ders çalışmayı sevmek, başarı için gereklidir.",
+      "Ders çalışmak, başarıyı getirir.",
+      "Ders çalışmak, sadece zaman kaybıdır."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ders çalışmak, sadece zaman kaybıdır. ifadesi, ana fikri tamamen olumsuz bir şekilde değiştirir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_16",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazar, paragrafta hangi çözüm önerisini sunmaktadır?",
+    "options": [
+      "Eğitim reformu",
+      "Yardım kampanyaları",
+      "Yasal düzenlemeler",
+      "Sosyal projeler",
+      "Farkındalık çalışmaları"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Yazar, farkındalık çalışmalarının gerekliliğini vurgulamaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764497605988_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Sanılanın aksine, yaratıcılık yalnızca sanatçılara özgü bir ilham anı değildir. Aksine, farklı alanlardaki bilgileri birleştirme, alışılmışın dışında bağlantılar kurma ve problemlere yeni çözüm yolları bulma becerisidir. Bir mühendisin daha verimli bir motor tasarlaması da bir aşçının daha önce denenmemiş malzemelerle harika bir lezzet yaratması da bu becerinin bir ürünüdür. Dolayısıyla yaratıcılığı, dar kalıplara sıkıştırmak yerine onu hayatın her alanında karşılaşılabilecek bir zihinsel esneklik olarak görmek gerekir.",
+    "options": [
+      "Sanatsal faaliyetler, yaratıcılığın en saf halidir.",
+      "Yaratıcı olabilmek için belirli bir alanda uzmanlaşmak şarttır.",
+      "Yaratıcılık, farklı disiplinlerde ortaya çıkabilen genel bir problem çözme yeteneğidir.",
+      "İnsanlar doğuştan gelen yaratıcılık potansiyellerini zamanla kaybederler.",
+      "Teknolojik gelişmeler, insanın yaratıcı düşünme becerisini köreltmektedir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada yaratıcılığın sadece sanatla sınırlı olmadığı, mühendislik ve aşçılık gibi farklı alanlarda da ortaya çıkabilen, bilgileri birleştirme ve yeni çözümler üretme becerisi olduğu vurgulanmaktadır. Bu durum, yaratıcılığın genel bir zihinsel esneklik ve problem çözme yeteneği olduğu anlamına gelir. A şıkkı, parçanın \"sanatçılara özgü değildir\" fikriyle çelişir. B şıkkı, uzmanlaşmaktan değil, farklı bilgileri birleştirmekten bahsedildiği için yanlıştır. D ve E şıkları ise parçada hiç değinilmeyen konulardır. Bu nedenle en kapsayıcı ve doğru ifade C şıkkında verilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987197_21",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir örneklemeyi ifade etmektedir?",
+    "options": [
+      "Örneğin, İstanbul'da birçok kütüphane var.",
+      "Bütün insanlar kitap okur.",
+      "Herkes elma sever.",
+      "Ali, matematikte başarılıdır.",
+      "Ayşe, sinemayı çok sever."
     ],
     "correctAnswer": 0,
-    "explanation": "'Gözlem', bir durumu dikkatlice incelemek anlamına gelir.",
+    "explanation": "Örneğin, İstanbul'da birçok kütüphane var ifadesi bir örneklemeyi ifade eder.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_1",
+    "id": "ai_1764522261626_16",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıda verilen ifadelerden hangisi yazarın görüşünü en iyi yansıtmaktadır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini desteklemez?",
     "options": [
-      "Yazar tamamen karşıt bir görüşe sahiptir.",
-      "Yazarın görüşü metinde net bir şekilde ifade edilmemiştir.",
-      "Yazar, kendi görüşünü destekleyen örnekler vermiştir.",
-      "Yazar, yalnızca başkalarının görüşlerinden bahsetmiştir.",
-      "Yazar, kesin bir sonuca varmamıştır."
+      "Ders çalışmak, başarılı olmanın anahtarıdır.",
+      "Ders çalışmayı sevmeyenler için zorlayıcı olabilir.",
+      "Ders çalışmak, sıkı bir disiplin gerektirir.",
+      "Bu konuda pek çok araştırma yapılmıştır.",
+      "Ders çalışmak, kişisel gelişim için önemlidir."
     ],
-    "correctAnswer": 2,
-    "explanation": "Yazar, kendi görüşünü destekleyen örnekler vererek görüşünü ifade etmiştir.",
-    "difficulty": 4
+    "correctAnswer": 1,
+    "explanation": "Ders çalışmayı sevmeyenler için zorlayıcı olabilir. ifadesi, ana fikri desteklemekten ziyade olumsuz bir görüş sunar.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764528987196_2",
+    "id": "ai_1764501591114_6",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'özgürlük' kavramını en iyi tanımlamaktadır?",
+    "questionText": "Yapay zekâ teknolojileri, sağlık sektöründe devrim niteliğinde değişikliklere yol açıyor. Özellikle teşhis süreçlerinde, insan gözünün kaçırabileceği en küçük anormallikleri bile tespit edebilen algoritmalar geliştirildi. Bu algoritmalar, milyonlarca tıbbi görüntüyü (MR, röntgen vb.) analiz ederek hastalıkları erken evrede ve yüksek bir isabet oranıyla saptayabiliyor. Bu durum, hem doktorların iş yükünü hafifletiyor hem de hastalar için daha hızlı ve doğru teşhis imkânı sunuyor. Ayrıca kişiye özel tedavi planlarının oluşturulmasında da yapay zekâdan faydalanılıyor. Hastanın genetik yapısı, yaşam tarzı ve tıbbi geçmişi gibi veriler analiz edilerek en etkili tedavi yöntemi belirlenebiliyor.",
     "options": [
-      "Kişinin kendi seçimlerini yapabilme durumu",
-      "Başkalarının haklarına saygı gösterme durumu",
-      "Sınırlı bir alanda hareket etme durumu",
-      "Kurallara uymak zorunda olma durumu",
-      "Kısıtlamalar altında yaşama durumu"
+      "Yapay zekânın doktorların yerini tamamen alacağına",
+      "Kişiye özel tedavi yöntemlerinin henüz deneme aşamasında olduğuna",
+      "Tıbbi görüntüleme tekniklerinin yetersiz kaldığına",
+      "Yapay zekâ uygulamalarının teşhis ve tedavi süreçlerini iyileştirdiğine",
+      "Sağlık sektöründeki en büyük sorunun doktorların iş yükü olduğuna"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragraftan çıkarılabilecek en kapsamlı yargı, yapay zekânın sağlık alanında, özellikle teşhis ve tedavi süreçlerinde olumlu gelişmeler sağladığıdır. Parçada yapay zekânın 'hastalıkları erken evrede saptadığı', 'doktorların iş yükünü hafiflettiği', 'hızlı ve doğru teşhis sunduğu' ve 'kişiye özel tedavi planları oluşturduğu' belirtilmektedir. Tüm bu bilgiler, D seçeneğindeki yargıyı desteklemektedir. A seçeneği, 'doktorların iş yükünü hafifletiyor' ifadesiyle çelişir, yerini alacağından bahsedilmez. B seçeneği hakkında bir bilgi yoktur, aksine uygulandığı anlatılır. C seçeneği yanlıştır, yapay zekânın bu teknikleri kullandığı belirtilir. E seçeneği ise parçanın ana konusu değildir, sadece bir yan unsur olarak değinilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_13",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazar, paragrafta hangi duygusal tonu yansıtmaktadır?",
+    "options": [
+      "Melankolik",
+      "Neşeli",
+      "Kızgın",
+      "Düşünceli",
+      "Umutsuz"
     ],
     "correctAnswer": 0,
-    "explanation": "'Özgürlük', kişinin kendi seçimlerini yapabilme durumunu ifade eder.",
-    "difficulty": 4
+    "explanation": "Yazarın kullandığı ifadeler melankolik bir ton taşımaktadır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528987196_3",
+    "id": "ai_1764528987197_24",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Bir metinde ana düşünceyi bulmak için en iyi yöntem nedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşıtlık içerir?",
     "options": [
-      "Metnin her cümlesini ayrı ayrı incelemek",
-      "Metnin genelini hızlıca okumak",
-      "Önemli kelimeleri not almak",
-      "Yazarın kullandığı dilin analizini yapmak",
-      "Metni baştan sona tekrar okumak"
+      "Ali çok çalışkan bir öğrenci.",
+      "Bugün hava güzel, ama yarın yağmur yağacak.",
+      "Sınıf çok kalabalık.",
+      "Müzik dinlemek eğlencelidir.",
+      "Kitap okumak faydalıdır."
     ],
     "correctAnswer": 1,
-    "explanation": "Metnin genelini hızlıca okumak, ana düşünceyi bulmak için en etkili yöntemdir.",
+    "explanation": "Bugün hava güzel, ama yarın yağmur yağacak ifadesi bir karşıtlık içerir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_4",
+    "id": "ai_1764525133401_6",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma yapmaktadır?",
+    "questionText": "Paragrafta hangi terim sıkça kullanılmıştır?",
     "options": [
-      "Ali, elmayı seviyor.",
-      "Ayşe, Ali'den daha dikkatli çalışıyor.",
-      "Kediler genellikle uykucudur.",
-      "Pazar günleri sinemaya gitmeyi seviyorum.",
-      "Kütüphane sessiz bir yerdir."
+      "Değişim",
+      "Süreklilik",
+      "Gelişim",
+      "Hız",
+      "Dikkat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Metin boyunca değişim terimi vurgulanarak sıkça kullanılmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261625_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olamaz?",
+    "options": [
+      "Bu konu üzerine daha fazla konuşmalıyız.",
+      "Sonuç olarak, bu durum oldukça önemlidir.",
+      "Öncelikle, bu konunun detaylarına inelim.",
+      "Herkesin bu konuda bir fikri olmalıdır.",
+      "Bu paragrafta ele alınacak konu şudur:"
     ],
     "correctAnswer": 1,
-    "explanation": "Ayşe'nin Ali'den daha dikkatli çalıştığı ifadesi bir karşılaştırma yapmaktadır.",
-    "difficulty": 4
+    "explanation": "Giriş cümlesi konuyu tanıtan ve okuyucunun dikkatini çeken bir cümle olmalıdır. Sonuç cümlesi ise paragrafın sonunda yer alır.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764528987196_5",
+    "id": "ai_1764522261627_21",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki metinlerden hangisi bir eleştiri içermektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın akışını sağlamak için kullanılabilir?",
     "options": [
-      "Bu kitap çok güzel.",
-      "Film beklediğimden daha etkileyiciydi.",
-      "Bu makale çok yüzeysel kalmış.",
-      "Sanat eserleri her zaman değerlidir.",
-      "Spor, sağlıklı yaşam için önemlidir."
+      "Bununla birlikte, bu konu oldukça önemlidir.",
+      "Ders çalışmak, sadece bir zaman kaybıdır.",
+      "Ders çalışmayı sevmeyenler için zordur.",
+      "Ders çalışmanın faydaları yoktur.",
+      "Ders çalışmak, bazıları için gereklidir."
     ],
-    "correctAnswer": 2,
-    "explanation": "Bu makale çok yüzeysel kalmış ifadesi, bir eleştiri içermektedir.",
-    "difficulty": 4
+    "correctAnswer": 0,
+    "explanation": "Bununla birlikte, ifadesi, önceki cümleyle bağlantı kurarak paragrafın akışını sağlar.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764528987196_6",
+    "id": "ai_1764528987196_16",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Bir metinde 'örnekleme' yöntemi ne için kullanılır?",
+    "questionText": "Aşağıdaki ifadelerden hangisi bir örnekleme değildir?",
     "options": [
-      "Kavramları tanımlamak için",
-      "Bir düşünceyi desteklemek için",
-      "Bir durumu sorgulamak için",
-      "Yazının uzunluğunu artırmak için",
-      "Okuyucunun dikkatini çekmek için"
+      "Bütün öğrenciler ders çalışmalı.",
+      "Örneğin, Ahmet her gün kütüphaneye gider.",
+      "Ali, matematikte başarılıdır.",
+      "Öğretmen, öğrencileri motive eder.",
+      "Bazı insanlar kitap okumayı sevmez."
     ],
-    "correctAnswer": 1,
-    "explanation": "Örnekleme, bir düşünceyi desteklemek amacıyla kullanılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528987196_7",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerde hangisi bir sonuç cümlesidir?",
-    "options": [
-      "Hava çok sıcak.",
-      "Yarın pikniğe gideceğiz.",
-      "Kitap okumak, zihni açar.",
-      "Güneş doğdu, gün başladı.",
-      "Bahçe çok güzel görünüyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kitap okumanın zihni açtığı ifadesi bir sonuç cümlesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528987196_8",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki metin parçalarından hangisi bir örnekleme içermektedir?",
-    "options": [
-      "Geçen yıl, birçok konser düzenlendi.",
-      "Bazı insanlar müzik dinlemeyi sever.",
-      "Örneğin, Ali ve Ayşe sürekli müzik dinler.",
-      "Müzik ruhun gıdasıdır.",
-      "Herkesin müzik zevki farklıdır."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ali ve Ayşe'nin müzik dinlemesi bir örneklemedir.",
+    "correctAnswer": 0,
+    "explanation": "Bütün öğrenciler ders çalışmalı ifadesi bir örnekleme değildir.",
     "difficulty": 4
   },
   {
@@ -1584,68 +576,100 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_10",
+    "id": "ai_1764528987196_15",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisinde abartma kullanılmıştır?",
+    "questionText": "Aşağıdaki cümleler arasında hangisi bir genelleme yapmaktadır?",
     "options": [
-      "Bu kitabı bir günde bitirdim.",
-      "O kadar çok çalışıyorum ki gözlerim kanadı.",
-      "Hava o kadar sıcak ki eriyebilirim.",
-      "Bu elma çok lezzetli.",
-      "Sürekli yorgunum."
+      "Kediler genelde uyku sever.",
+      "Ali, her zaman geç kalır.",
+      "Ayşe, çok çalışkan bir öğrencidir.",
+      "Bu kitabı herkes seviyor.",
+      "Dışarıda çok güzel bir hava var."
     ],
-    "correctAnswer": 2,
-    "explanation": "Hava o kadar sıcak ki eriyebilirim ifadesi bir abartma içerir.",
+    "correctAnswer": 0,
+    "explanation": "Kediler genelde uyku sever ifadesi bir genellemedir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_11",
+    "id": "ai_1764525133401_20",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki ifadelerden hangisi mantıklı bir sonuç çıkarımı değildir?",
+    "questionText": "Yazar, paragrafta hangi olayın etkilerini incelemektedir?",
     "options": [
-      "Eğer hava yağmurluysa şemsiyemi alırım.",
-      "Dışarıda güneş varsa, güneş gözlüğü takarım.",
-      "Hava soğuksa, montumu giyerim.",
-      "Eğer açsam yemek yerim.",
-      "Eğer kitap okursam, uyuyabilirim."
+      "Küresel ısınma",
+      "Sosyal medya",
+      "Ekonomik kriz",
+      "Savaş",
+      "Göç"
     ],
-    "correctAnswer": 4,
-    "explanation": "Eğer kitap okursam, uyuyabilirim ifadesi mantıklı bir sonuç çıkarımı değildir.",
-    "difficulty": 4
+    "correctAnswer": 0,
+    "explanation": "Paragrafta küresel ısınmanın etkileri üzerinde durulmaktadır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528987196_12",
+    "id": "ai_1764525133401_18",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir neden-sonuç ilişkisi kurmaktadır?",
+    "questionText": "Paragrafta hangi tür anlatım ön plandadır?",
     "options": [
-      "Hava güzel olduğu için pikniğe gittik.",
-      "Ali çok çalıştığı için sınavdan yüksek not aldı.",
-      "Ayşe, yeni bir araba aldı.",
-      "Kediler, fareleri sever.",
-      "Eve geldiğimde hava kararmıştı."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ali'nin çok çalışması, sınavdan yüksek not almasının nedenidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528987196_13",
-    "subjectId": "tur",
-    "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir tanımlayıcı cümledir?",
-    "options": [
-      "Ali, matematikte çok başarılıdır.",
-      "Ayşe, sinema izlemeyi sever.",
-      "Kediler genellikle uykucudur.",
-      "Müzik, hayatın önemli bir parçasıdır.",
-      "Hava çok güzeldi."
+      "Öyküleyici",
+      "Tanımlayıcı",
+      "Açıklayıcı",
+      "İkna edici",
+      "Eleştirel"
     ],
     "correctAnswer": 3,
-    "explanation": "Müzik, hayatın önemli bir parçasıdır ifadesi tanımlayıcı bir cümledir.",
+    "explanation": "Yazar, okuyucuyu ikna etmeye yönelik bir anlatım tarzı kullanmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525133401_4",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi durum ele alınmamıştır?",
+    "options": [
+      "Bireysel deneyimler",
+      "Toplumsal etkiler",
+      "Kültürel farklılıklar",
+      "Eğitim sistemi",
+      "Ekonomik faktörler"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafta eğitim sistemine dair herhangi bir bilgi verilmemiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528987197_28",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir abartma içerir?",
+    "options": [
+      "Bugün her şeyi unuttum.",
+      "Ali, en iyi arkadaşımdır.",
+      "Ayşe, çok çalışkan bir öğrencidir.",
+      "Sınıf çok kalabalık.",
+      "Yüzde bir milyon kazanabilirim."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Yüzde bir milyon kazanabilirim ifadesi bir abartma içerir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764520393270_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın detaylandırıcı unsuru olarak kullanılabilir?",
+    "options": [
+      "Çocukların eğitimde rolü büyüktür.",
+      "Eğitim, bireylerin geleceğini şekillendirir.",
+      "Daha fazla kitap okumak, bilgiyi artırır.",
+      "Çocukların eğitimdeki rolü, toplumsal gelişim açısından önemlidir.",
+      "Eğitim sistemi, sürekli olarak güncellenmelidir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Detaylandırıcı unsurlar, ana fikri destekleyen açıklamalardır. Dördüncü seçenek, çocukların eğitimdeki rolünü açıklayarak detaylandırıcı bir unsur sunmaktadır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764528987196_14",
@@ -1664,36 +688,132 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_15",
+    "id": "ai_1764528987196_8",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümleler arasında hangisi bir genelleme yapmaktadır?",
+    "questionText": "Aşağıdaki metin parçalarından hangisi bir örnekleme içermektedir?",
     "options": [
-      "Kediler genelde uyku sever.",
-      "Ali, her zaman geç kalır.",
-      "Ayşe, çok çalışkan bir öğrencidir.",
-      "Bu kitabı herkes seviyor.",
-      "Dışarıda çok güzel bir hava var."
+      "Geçen yıl, birçok konser düzenlendi.",
+      "Bazı insanlar müzik dinlemeyi sever.",
+      "Örneğin, Ali ve Ayşe sürekli müzik dinler.",
+      "Müzik ruhun gıdasıdır.",
+      "Herkesin müzik zevki farklıdır."
     ],
-    "correctAnswer": 0,
-    "explanation": "Kediler genelde uyku sever ifadesi bir genellemedir.",
+    "correctAnswer": 2,
+    "explanation": "Ali ve Ayşe'nin müzik dinlemesi bir örneklemedir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_16",
+    "id": "ai_1764498940787_7",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki ifadelerden hangisi bir örnekleme değildir?",
+    "questionText": "Mizah, hayatın zorlukları karşısında güçlü bir kalkandır. En karanlık anlarda bile küçük bir tebessüm, olaylara farklı bir pencereden bakmamızı sağlayabilir. Sorunların içinde boğulmak yerine onlarla alay edebilmek, psikolojik olarak büyük bir esneklik ve başa çıkma becerisi göstergesidir. Mizah, stresi azaltır, insanlar arasındaki bağı güçlendirir ve en önemlisi, umudu canlı tutar. Karşısındaki devasa sorunu bir karikatüre dönüştürebilen insan, o sorunu çözmeye bir adım daha yaklaşmış demektir. \n\nBu parçaya verilebilecek en uygun başlık aşağıdakilerden hangisidir?",
     "options": [
-      "Bütün öğrenciler ders çalışmalı.",
-      "Örneğin, Ahmet her gün kütüphaneye gider.",
-      "Ali, matematikte başarılıdır.",
-      "Öğretmen, öğrencileri motive eder.",
-      "Bazı insanlar kitap okumayı sevmez."
+      "Mizah ve Toplum",
+      "Gülmenin Fizyolojisi",
+      "Zorluklar Karşısında Mizahın Gücü",
+      "Karikatür Sanatının Önemi",
+      "Stresle Başa Çıkma Yöntemleri"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bütün öğrenciler ders çalışmalı ifadesi bir örnekleme değildir.",
+    "correctAnswer": 2,
+    "explanation": "Paragraf, baştan sona mizahın özellikle \"hayatın zorlukları\", \"en karanlık anlar\" ve \"sorunlar\" karşısındaki rolünü ve gücünü anlatmaktadır. Metin, mizahın bu zorluklarla başa çıkmada bir \"kalkan\" olduğunu, stresi azalttığını ve umudu canlı tuttuğunu vurgulamaktadır. Bu nedenle \"Zorluklar Karşısında Mizahın Gücü\" başlığı, parçanın ana temasını tam olarak kapsamaktadır. \"Mizah ve Toplum\" çok genel, \"Gülmenin Fizyolojisi\" bilimsel bir detaya giriyor ki parçada bu yok, \"Karikatür Sanatının Önemi\" sadece bir örnek, \"Stresle Başa Çıkma Yöntemleri\" ise çok geniş bir başlık olurdu çünkü parça sadece bir yönteme (mizaha) odaklanmış.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_12",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir neden-sonuç ilişkisi kurmaktadır?",
+    "options": [
+      "Hava güzel olduğu için pikniğe gittik.",
+      "Ali çok çalıştığı için sınavdan yüksek not aldı.",
+      "Ayşe, yeni bir araba aldı.",
+      "Kediler, fareleri sever.",
+      "Eve geldiğimde hava kararmıştı."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ali'nin çok çalışması, sınavdan yüksek not almasının nedenidir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764528987196_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir metinde ana düşünceyi bulmak için en iyi yöntem nedir?",
+    "options": [
+      "Metnin her cümlesini ayrı ayrı incelemek",
+      "Metnin genelini hızlıca okumak",
+      "Önemli kelimeleri not almak",
+      "Yazarın kullandığı dilin analizini yapmak",
+      "Metni baştan sona tekrar okumak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metnin genelini hızlıca okumak, ana düşünceyi bulmak için en etkili yöntemdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525133401_23",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazarın amaçladığı etki nedir?",
+    "options": [
+      "Bilgilendirmek",
+      "İkna etmek",
+      "Eğlendirmek",
+      "Düşündürmek",
+      "Kandırmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yazar, okuyucusunu düşündürmeyi amaçlamaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498940786_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Popüler bilim kitapları, karmaşık bilimsel konuları herkesin anlayabileceği bir dille sunmayı hedefler. Bu kitaplar sayesinde, alanın uzmanı olmayan okurlar da evrenin sırlarından insan beyninin işleyişine kadar pek çok konuda fikir sahibi olur. Bilimsel terminolojiyi en aza indirerek ve bolca örnek ve benzetme kullanarak bilimi daha ulaşılabilir kılarlar. Bu yönüyle, bilimin toplumla buluşmasında ve bilimsel okuryazarlığın artmasında önemli bir köprü görevi görürler. ______. \n\nBu parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?",
+    "options": [
+      "Ancak bu kitaplar akademik makalelerin yerini asla tutamaz.",
+      "Bu yüzden bilim insanları bu tür eserlere pek sıcak bakmazlar.",
+      "Kısacası, bilimi seçkin bir zümrenin tekelinden çıkarıp halka mal ederler.",
+      "Zaten bilimsel gelişmeleri takip etmek oldukça zordur.",
+      "Okullardaki fen dersleri bu nedenle daha ilgi çekici hâle getirilmelidir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta popüler bilim kitaplarının bilimi halkın anlayacağı bir dille anlattığı, bilimi ulaşılabilir kıldığı ve toplumla bilim arasında köprü kurduğu anlatılmaktadır. Bu fikirleri en iyi özetleyen ve parçanın ana düşüncesini pekiştiren cümle C şıkkındadır. Bu kitapların bilimi \"seçkin bir zümrenin tekelinden çıkarıp halka mal etmesi\" ifadesi, paragrafın genelinde anlatılanlarla tam bir uyum içindedir. A şıkkı bir karşılaştırma yapar ama parçanın ana odağı bu değildir. B şıkkı parçadaki olumlu havayla çelişir. D ve E şıkları ise konuyu farklı yönlere çekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519425608_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi şekilde ifade etmektedir?",
+    "options": [
+      "Kış mevsiminde hava çok soğuk olur.",
+      "Kış mevsimi, kar yağışı ile birlikte gelir.",
+      "Kışın doğa, birçok canlı için zorluklarla doludur.",
+      "Kış mevsiminde insanlar genellikle sıcak içecekler tercih eder.",
+      "Kış aylarında bazı hayvanlar uykuya yatar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu cümle, kış mevsiminin genel etkisini ve doğadaki zorlukları vurguladığı için ana fikri en iyi şekilde ifade etmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500304092_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Pek çok insan uykuyu sadece bedensel bir dinlenme olarak görür. Ancak uykunun zihinsel sağlık ve bilişsel işlevler için önemi çok daha derindir. Uyku sırasında beyin, gün içinde öğrenilen bilgileri düzenler, önemli olanları kalıcı hafızaya aktarır ve gereksizleri eler. Bu sürece 'hafıza pekiştirme' denir. Ayrıca, yaratıcı problem çözme yeteneğimizin de yeterli ve kaliteli uykuyla doğrudan ilişkili olduğu kanıtlanmıştır. Kısacası uyku, zihnin kendini yenilediği ve organize ettiği aktif bir süreçtir.",
+    "options": [
+      "İnsanlar günde ortalama kaç saat uyumalıdır?",
+      "Uykusuzluk hangi fiziksel rahatsızlıklara yol açar?",
+      "Uykunun zihinsel faaliyetler üzerindeki rolü nedir?",
+      "Rüyalar neden ve nasıl görülür?",
+      "Farklı yaş gruplarının uyku ihtiyacı değişir mi?"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragraf, uykunun sadece bedensel bir dinlenme olmadığını, özellikle zihinsel işlevler için ne kadar önemli olduğunu açıklamaktadır. Metinde uykunun hafızayı güçlendirdiği, bilgileri düzenlediği ve yaratıcı problem çözme yeteneğini artırdığı gibi konulara odaklanılmaktadır. Bu bilgiler, 'Uykunun zihinsel faaliyetler üzerindeki rolü nedir?' sorusuna doğrudan ve kapsamlı bir cevap niteliğindedir. Diğer şıklardaki soruların (uyku süresi, fiziksel rahatsızlıklar, rüyalar, yaş grupları) cevabı paragrafta bulunmamaktadır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764528987196_17",
@@ -1712,20 +832,132 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987196_18",
+    "id": "ai_1764522261625_10",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir karşıtlık içerir?",
+    "questionText": "Bir paragrafta hangi öğe en az bir kez kullanılmalıdır?",
     "options": [
-      "Ali çok çalışkan bir öğrenci.",
-      "Bugün hava çok güzel ama yarın yağmur yağacak.",
-      "Sınıf çok kalabalık.",
-      "Müzik dinlemek eğlencelidir.",
-      "Kitap okumak faydalıdır."
+      "Giriş cümlesi",
+      "Örnek cümlesi",
+      "Sonuç cümlesi",
+      "Ana fikir",
+      "Destekleyici cümleler"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Her paragrafta en az bir ana fikir bulunmalıdır; bu, paragrafın temel mesajını oluşturur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Sanatçı, eserini ortaya koyarken toplumdan ve içinde yaşadığı çağdan bağımsız hareket edemez. En soyut görünen bir resimde, en kişisel olduğu düşünülen bir şiirde bile çağının ruhu, toplumsal çalkantılar veya sessiz bir umut bir şekilde kendine yer bulur. Sanat, bir ayna gibi, çoğu zaman farkında bile olmadan ait olduğu dönemin izlerini taşır. Bu yüzden, bir sanat eserini tam olarak anlayabilmek için onun yaratıldığı tarihsel ve sosyal koşulları bilmek, esere bakış açımızı derinleştirir ve bize yeni anlam katmanları sunar. \n\nBu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+    "options": [
+      "Sanat eserleri, yaratıcısının kişisel dünyasının bir yansımasıdır.",
+      "Sanatın toplumsal olayları doğrudan şekillendirme gücü vardır.",
+      "Bir sanat eserini anlamak, onun üretildiği dönemin koşullarını bilmekle yakından ilişkilidir.",
+      "Her sanatçı, eserlerinde toplumsal mesajlar verme kaygısı taşır.",
+      "Soyut sanat, somut sanata göre yorumlanması daha zor bir alandır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta sanatçının ve eserinin içinde bulunduğu çağdan ve toplumdan bağımsız olamayacağı vurgulanmaktadır. Metnin son cümlesi olan \"Bu yüzden, bir sanat eserini tam olarak anlayabilmek için onun yaratıldığı tarihsel ve sosyal koşulları bilmek, esere bakış açımızı derinleştirir...\" ifadesi, parçanın ana fikrini özetlemektedir. Eseri anlamak ile üretildiği dönemin koşulları arasında doğrudan bir bağ kurulmuştur. Diğer şıklar ya parçanın bir detayıdır (A) ya da parçada değinilmeyen farklı bir konudur (B, D, E).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_11",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi metafor kullanılmıştır?",
+    "options": [
+      "Zaman bir nehir gibidir",
+      "Hayat bir yolculuktur",
+      "Düşler bir kapıdır",
+      "Sevgi bir ateştir",
+      "Özgürlük bir kuştur"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugün hava çok güzel ama yarın yağmur yağacak ifadesi bir karşıtlık içerir.",
+    "explanation": "Yazar, hayatı bir yolculuk olarak metaforize ederek anlatımını zenginleştirmiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261626_15",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdakilerden hangisi bir paragrafın daha anlaşılır olmasını sağlar?",
+    "options": [
+      "Kısa cümleler kullanmak",
+      "Uzun cümleler kullanmak",
+      "Zor kelimeler seçmek",
+      "Farklı konulara atlamak",
+      "Gereksiz detaylar eklemek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kısa cümleler, bilgiyi daha anlaşılır hale getirir ve okuyucunun dikkatini çeker.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_4",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Sessizlik, günümüzün gürültülü dünyasında en çok özlemini çektiğimiz şeylerden biri haline geldi. (II) Sürekli bir bilgi akışı, bildirim sesleri ve şehir uğultusu zihnimizi hiç durmadan meşgul ediyor. (III) Oysa zihinsel berraklık ve yaratıcılık için ara sıra sessizliğe çekilmek bir lüksten öte, bir ihtiyaçtır. (IV) Sessizlik üzerine yapılan birçok araştırma bulunmaktadır. (V) Dış dünyadan gelen uyaranlar azaldığında, beynimiz düşünceleri organize etmek ve yeni bağlantılar kurmak için fırsat bulur. \n\nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parça, modern dünyada sessizliğe duyulan ihtiyacı ve sessizliğin zihinsel faydalarını anlatmaktadır. I, II, III ve V numaralı cümleler bu tema etrafında bir bütünlük oluşturur. II. cümle gürültüyü, III. cümle sessizliğin bir ihtiyaç olduğunu, V. cümle ise bu ihtiyacın nedenini (beynin düşünceleri organize etmesi) açıklar. Ancak IV. cümlede, \"Sessizlik üzerine yapılan birçok araştırma bulunmaktadır\" denilerek konunun kendisinden çok, konuyla ilgili yapılan çalışmalardan bahsedilmiştir. Bu cümle, paragrafın ana fikrinin akışını kesintiye uğratan genel ve dışarıdan bir bilgidir. Diğer cümleler doğrudan sessizliğin etkilerini ve önemini işlerken, bu cümle konunun kendisine değil, hakkındaki araştırmalara gönderme yapmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987197_26",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir tanımlama cümlesidir?",
+    "options": [
+      "Deniz, tuzlu su bulunan büyük bir su kütlesidir.",
+      "Ali, matematikte çok başarılıdır.",
+      "Sınıf çok kalabalık.",
+      "Bugün hava çok güzel.",
+      "Kitap okumak eğlencelidir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deniz, tuzlu su bulunan büyük bir su kütlesidir ifadesi tanımlayıcı bir cümledir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764522261627_20",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın giriş cümlesi olarak kullanılabilir?",
+    "options": [
+      "Ders çalışmak, hayatta başarı için şarttır.",
+      "Sonuç olarak, ders çalışmak önemlidir.",
+      "Ders çalışmayı sevmeyenler vardır.",
+      "Ders çalışmanın faydaları çoktur.",
+      "Ders çalışmak, bazıları için zorlayıcıdır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Giriş cümlesi, konuyu tanıtan ve okuyucunun dikkatini çeken bir cümle olmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591114_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir yazar, romanını kurgularken okurun zihninde bir dünya yaratmayı hedefler. Bu dünyayı inandırıcı kılmanın yolu ise detaylardan geçer. Karakterin yürüyüşü, odanın duvarındaki tablonun rengi, pencereden sızan ışığın açısı... Tüm bu küçük ayrıntılar, anlatılan hikâyeye derinlik ve gerçeklik hissi katar. Okur, bu detaylar sayesinde kendini anlatılan mekânın içinde hisseder, karakterlerle empati kurar. Detaylardan yoksun bir anlatı, iskeleti belli olan ama üzeri etle kaplanmamış bir canlıya benzer; soğuk, yavan ve ruhsuzdur. İyi bir yazar, neyi ne kadar anlatacağını bilen, detayları bir dantel gibi özenle işleyen bir ustadır.",
+    "options": [
+      "Romanda kurgunun olay örgüsünden daha önemli olduğu",
+      "İyi bir yazarın üslubunun sade ve anlaşılır olması gerektiği",
+      "Edebi eserlerde detayların, anlatımı inandırıcı ve canlı kıldığı",
+      "Okurun bir romanı beğenmesinin kişisel zevklere bağlı olduğu",
+      "Karakter yaratmanın, bir roman yazmanın en zor aşaması olduğu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta, bir romanı inandırıcı ve etkileyici kılan unsurun 'detaylar' olduğu fikri işlenmektedir. Yazar, 'küçük ayrıntıların hikâyeye derinlik ve gerçeklik hissi kattığını', 'detaylardan yoksun bir anlatının yavan ve ruhsuz olacağını' belirterek detayların önemini vurgulamıştır. C seçeneği, bu ana fikri en doğru şekilde ifade etmektedir. Diğer seçenekler parçada doğrudan vurgulanan düşünceler değildir. A seçeneği bir karşılaştırma yapar ki parçada bu yoktur. B seçeneği üslubun sadeliğinden bahsetmez. D ve E seçenekleri ise metnin konusu dışındadır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764528987197_19",
@@ -1744,35 +976,387 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987197_20",
+    "id": "ai_1764522261625_9",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerde hangisi bir abartma içerir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini destekler?",
     "options": [
-      "Ali, en iyi arkadaşımdır.",
-      "Bu sınav çok zor.",
-      "Bugünkü toplantı bir asır sürdü.",
-      "Hava çok sıcak.",
-      "Kediler sevimli hayvanlardır."
+      "Ders çalışmak önemlidir.",
+      "Bununla birlikte, ders çalışmak bazen zorlayıcı olabilir.",
+      "Ders çalışmayı sevmeyenler vardır.",
+      "Çalışma alışkanlıkları kişiden kişiye değişir.",
+      "Ders çalışmak, başarılı olmanın anahtarıdır."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ana fikri destekleyen cümleler, ana fikrin doğruluğunu ve önemini artıran ifadelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlede hangi kelime metnin genel anlamını en iyi yansıtır?",
+    "options": [
+      "Güzellik",
+      "Karmaşa",
+      "Huzur",
+      "Korku",
+      "Özgürlük"
     ],
     "correctAnswer": 2,
-    "explanation": "Bugünkü toplantı bir asır sürdü ifadesi bir abartma içerir.",
+    "explanation": "Cümlenin bağlamında huzur kelimesi, metnin genel anlamını en iyi yansıtan kelimedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519425608_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki paragrafa göre, sanatın toplum üzerindeki etkisi nedir?",
+    "options": [
+      "Sanat, bireylerin düşüncelerini şekillendirir.",
+      "Sanat, sadece eğlence aracı olarak görülmelidir.",
+      "Sanat, toplumun kültürel kimliğini oluşturan bir unsurdur.",
+      "Sanat, ekonomik kazanç sağlamanın bir yoludur.",
+      "Sanat, bireysel duyguları ifade etmenin tek yoludur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta sanatın toplumsal kimlik üzerindeki etkisi vurgulanmaktadır, bu nedenle en uygun seçenek budur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazar, paragrafta hangi bakış açısını benimsemektedir?",
+    "options": [
+      "Objektif",
+      "Öznel",
+      "Eleştirel",
+      "Taraflı",
+      "Nötr"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yazar, kendi duygularını ve düşüncelerini aktararak öznel bir bakış açısı sergilemektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261624_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini belirtmektedir?",
+    "options": [
+      "Detaylı bilgiler içeren bir cümle",
+      "Örnekler veren bir cümle",
+      "Paragrafın genel mesajını veren bir cümle",
+      "Sadece bir konuya odaklanan bir cümle",
+      "Paragrafın sonunda yer alan bir cümle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ana fikir, bir paragrafın temel mesajını veya düşüncesini ifade eder. Diğer seçenekler ana fikri belirtmekten ziyade destekleyici veya detaylandırıcı cümlelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522261625_4",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi bir paragrafın sonuç cümlesi olarak kullanılabilir?",
+    "options": [
+      "Bu durum, gelecekte önemli sonuçlar doğurabilir.",
+      "Önümüzdeki günlerde bu konuyu tartışacağız.",
+      "Bu konu hakkında daha fazla bilgiye sahip olmak gerekir.",
+      "Sonuç olarak, bu konunun önemi büyüktür.",
+      "Ayrıca, bu konu üzerinde daha fazla düşünmeliyiz."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sonuç cümlesi, paragrafın ana fikrini pekiştirir ve okuyucuya son bir mesaj verir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497605988_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Eleştirel düşünme, bireyin bilgiyi pasif bir şekilde kabul etmek yerine onu aktif olarak analiz etme, sorgulama ve değerlendirme sürecidir. (II) Bu beceri, özellikle bilgi kirliliğinin yoğun olduğu günümüz dünyasında doğruyu yanlıştan ayırmak için hayati bir önem taşır. (III) Eğitim sistemleri, öğrencilere erken yaşlardan itibaren ezbercilik yerine bu yeteneği kazandırmayı hedeflemelidir. (IV) Okullarda yapılan münazara etkinlikleri de bu becerinin gelişimine katkı sağlar. (V) Sorgulanmadan kabul edilen her bilgi, bireyin düşünsel bağımsızlığını zedeler ve onu manipülasyona açık hale getirir.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafın genelinde eleştirel düşünmenin tanımı, önemi ve bu düşünce biçiminden yoksun olmanın getireceği tehlikeler üzerinde durulmaktadır. I, II, III ve V numaralı cümleler bu genel konsept etrafında bir bütünlük oluşturur. I. cümlede tanım yapılır, II. cümlede günümüzdeki önemi vurgulanır, III. cümlede eğitimdeki rolüne değinilir ve V. cümlede ise eksikliğinin sonuçları belirtilir. Ancak IV. cümle, konunun genel akışından saparak çok daha spesifik bir örnek olan \"münazara etkinlikleri\" konusuna girer. Parçanın genel felsefi ve teorik havasından ayrılarak somut bir uygulama örneği verdiği için düşüncenin akışını bozmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500304092_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Eleştiri, bir eseri veya sanatçıyı yok etme, küçük düşürme sanatı değildir. Aksine, yapıcı bir eleştiri, eserin daha iyi anlaşılmasına, sanatçının ise kendini geliştirmesine olanak tanır. Objektif ölçütlere dayanan, eserin hem olumlu hem de olumsuz yönlerini ortaya koyan bir değerlendirme, hem okura hem de yazara yol gösterir. Sadece kişisel beğenilere dayanan, övgü ya da yergiden ibaret olan yazılar ise eleştiri değil, olsa olsa birer okur yorumu olabilir.",
+    "options": [
+      "Eleştirinin amacının yol göstermek ve geliştirmek olduğuna",
+      "Her okurun aynı zamanda bir eleştirmen olduğuna",
+      "Sanatçıların eleştiriye açık olmaları gerektiğine",
+      "Eleştirinin sadece olumsuz yönlere odaklanması gerektiğine",
+      "İyi bir eserin eleştiriye ihtiyaç duymadığına"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Paragraf boyunca eleştirinin yıkıcı değil, yapıcı olması gerektiği fikri işlenmiştir. 'Yapıcı bir eleştiri', 'sanatçının kendini geliştirmesine olanak tanır', 'hem okura hem de yazara yol gösterir' gibi ifadeler, eleştirinin temel amacının yok etmek değil, geliştirmek ve yol göstermek olduğunu vurgulamaktadır. Parçanın ana fikri, eleştirinin olumlu ve yapıcı işlevine odaklanmıştır. Bu nedenle doğru cevap A seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_19",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi tema işlenmektedir?",
+    "options": [
+      "Aşk",
+      "Savaş",
+      "Dostluk",
+      "Çevre",
+      "Özgürlük"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yazar, çevre teması etrafında düşüncelerini geliştirmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501591114_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Dil, yaşayan bir organizma gibidir; sürekli değişir, gelişir ve yeni koşullara uyum sağlar. Toplumun yaşamındaki her değişim, teknolojik yenilikler, kültürel etkileşimler ve sosyal olaylar dile yeni kelimeler kazandırır. Bazı kelimeler zamanla eskiyerek kullanımdan düşerken, bazıları da yeni anlamlar kazanarak varlığını sürdürür. Bu dinamik yapı, dilin canlılığının ve işlevselliğinin en temel göstergesidir. ---. Bu nedenle dili, kuralları asla değişmeyen statik bir yapı olarak görmek büyük bir yanılgıdır.",
+    "options": [
+      "Dilin kurallarını korumak için yabancı kökenli sözcüklerden kaçınmak gerekir.",
+      "Ancak dilin temel yapısı ve gramer kuralları yüzyıllar boyunca aynı kalır.",
+      "Yani durağanlık, dilin doğasına aykırı bir durumdur ve onun ölümüne neden olabilir.",
+      "Her birey, dili doğru kullanma konusunda üzerine düşen sorumluluğu yerine getirmelidir.",
+      "Yazı dilinin, konuşma diline göre daha yavaş değiştiği bir gerçektir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta dilin 'yaşayan bir organizma' gibi sürekli değişen, dinamik bir yapıda olduğu anlatılmaktadır. Boşluktan önceki cümle, bu dinamik yapının dilin canlılığını gösterdiğini belirtiyor. Boşluktan sonraki cümle ise 'Bu nedenle...' diye başlayarak bir sonuç bildiriyor ve dili statik görmenin bir yanılgı olduğunu söylüyor. Bu bağlamda, boşluğa gelmesi gereken cümlenin, önceki fikirleri özetleyip sonraki sonuç cümlesine zemin hazırlaması gerekir. C seçeneğindeki 'Yani durağanlık, dilin doğasına aykırı bir durumdur...' ifadesi, paragrafın başından beri anlatılan 'değişkenlik' ve 'canlılık' fikrini mükemmel bir şekilde özetler ve 'Bu nedenle statik görmek yanılgıdır' sonucuna doğal bir geçiş sağlar. Diğer seçenekler paragrafın ana fikriyle tam olarak örtüşmemekte veya akışı bozmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133402_29",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi olayın sonuçları üzerinde durulmaktadır?",
+    "options": [
+      "Savaş",
+      "Göç",
+      "Kriz",
+      "Devrim",
+      "İsyan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yazar, ekonomik krizin sonuçlarını ele alarak bu konu üzerinde durmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528987196_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerde hangisi bir sonuç cümlesidir?",
+    "options": [
+      "Hava çok sıcak.",
+      "Yarın pikniğe gideceğiz.",
+      "Kitap okumak, zihni açar.",
+      "Güneş doğdu, gün başladı.",
+      "Bahçe çok güzel görünüyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kitap okumanın zihni açtığı ifadesi bir sonuç cümlesidir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987197_21",
+    "id": "ai_1764522261625_11",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir örneklemeyi ifade etmektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın akışını destekler?",
     "options": [
-      "Örneğin, İstanbul'da birçok kütüphane var.",
-      "Bütün insanlar kitap okur.",
-      "Herkes elma sever.",
-      "Ali, matematikte başarılıdır.",
-      "Ayşe, sinemayı çok sever."
+      "Bu konu hakkında çok fazla bilgi var.",
+      "Örneğin, birçok araştırma yapılmıştır.",
+      "Bu durum oldukça karmaşık bir meseledir.",
+      "Sonuç olarak, tartışılması gereken bir konudur.",
+      "Bu konu, toplum için önemlidir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Örnek cümlesi, konuyu daha iyi anlamak için ek bilgi sağlayarak akışı destekler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_22",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi karşıtlık vurgulanmaktadır?",
+    "options": [
+      "Zengin-fakir",
+      "Doğa-teknoloji",
+      "Birey-kitle",
+      "İleri-geri",
+      "Gelenek-modern"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Doğa ve teknoloji arasındaki karşıtlık, paragrafta sıkça vurgulanmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525133401_12",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafın akışında hangi bağlaçlar sıklıkla kullanılmıştır?",
+    "options": [
+      "Ama",
+      "Fakat",
+      "Ve",
+      "Ancak",
+      "Oysaki"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metin boyunca 've' bağlacı sıklıkla kullanılarak düşünceler birleştirilmiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525133401_15",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi sosyal soruna vurgu yapılmaktadır?",
+    "options": [
+      "Yoksulluk",
+      "Eğitim",
+      "Sağlık",
+      "İstihdam",
+      "Göç"
     ],
     "correctAnswer": 0,
-    "explanation": "Örneğin, İstanbul'da birçok kütüphane var ifadesi bir örneklemeyi ifade eder.",
+    "explanation": "Yoksulluk, paragrafta üzerinde durulan sosyal sorundur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498940786_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Önyargı, zihinsel bir kısa yol gibidir. Beynimiz, karşılaştığı her yeni durumu veya kişiyi en baştan analiz etmek yerine, daha önceki deneyimlerine veya kalıp düşüncelere dayanarak hızlı bir sonuca varır. Bu, enerji tasarrufu sağlayan bir mekanizma olsa da çoğu zaman bizi hatalı yargılara sürükler. İnsanları, grupları veya olayları yeterince tanımadan, eksik bilgiyle etiketlemek, hem bireysel ilişkilerimizde hem de toplumsal barışta onarılması güç yaralar açar. Önyargının panzehiri ise merak etmek, sorgulamak ve anlamaya çalışmaktır. \n\nBu parçadan önyargı ile ilgili olarak aşağıdakilerden hangisine ulaşılamaz?",
+    "options": [
+      "Zihnin daha az çaba harcamasına yönelik bir eğilimden kaynaklandığına",
+      "Kalıp düşüncelere ve geçmiş tecrübelere dayandığına",
+      "Toplumsal ve bireysel ilişkilere zarar verebileceğine",
+      "Eleştirel düşünce ve merak duygusuyla aşılabileceğine",
+      "Sadece olumsuz durumlar karşısında ortaya çıktığına"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Parçada önyargının zihinsel bir kısa yol olduğu (A), kalıp düşüncelere dayandığı (B), ilişkilere zarar verdiği (C) ve merak ve sorgulama ile aşılabileceği (D) belirtilmiştir. Ancak önyargının sadece olumsuz durumlar karşısında ortaya çıktığına dair bir bilgi metinde yer almamaktadır. Önyargı, hem olumlu hem de olumsuz olabilir; fakat metin bu ayrıma girmemiştir ve sadece olumsuz durumlara özgü olduğunu söylememiştir. Dolayısıyla E şıkkındaki ifadeye ulaşılamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133402_28",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi tür edebi sanatlar kullanılmıştır?",
+    "options": [
+      "Açık ironi",
+      "Benzetme",
+      "Kişileştirme",
+      "Sembolizm",
+      "Metafor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yazar, nesneleri kişileştirerek okuyucuya duygusal bir bağ kurdurmayı hedeflemiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525133402_30",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazarın metindeki bakış açısı hangi yönüyle önemlidir?",
+    "options": [
+      "Tarafsızlık",
+      "Duygusallık",
+      "Analitik yaklaşım",
+      "Yenilikçilik",
+      "Geleneksellik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yazar, analitik bir bakış açısıyla konuyu derinlemesine irdelemektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500304092_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Popüler kültür, hızla üretilip aynı hızla tüketilen bir yapıya sahiptir. Anlık heveslere ve geçici modalara dayanır. Derinlikli bir anlam veya kalıcı bir estetik kaygı taşımaz. Sanat eserleri ise tam tersine, zamana meydan okuyan, evrensel değerler taşıyan ve üzerinden yıllar geçse de güncelliğini yitirmeyen yapıtlardır. Bir popüler şarkı birkaç ayda unutulurken, bir Beethoven bestesi yüzyıllardır dinlenmektedir.",
+    "options": [
+      "Popüler kültür ürünlerinin sanatsal değer taşımadığına",
+      "Sanatın sadece belli bir zümreye hitap ettiğine",
+      "Popüler kültür ile sanat arasındaki temel farkın kalıcılık olduğuna",
+      "Teknolojinin popüler kültürün yayılmasını hızlandırdığına",
+      "Sanatçıların popüler kültüre karşı durması gerektiğine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu paragrafta popüler kültür ile sanat eseri karşılaştırılmaktadır. Popüler kültürün 'hızla tüketilme', 'geçici olma' gibi özelliklerine karşılık, sanat eserlerinin 'zamana meydan okuma', 'kalıcı olma' ve 'yüzyıllardır dinlenme' gibi özellikleri vurgulanmıştır. Bu karşılaştırmanın temel ekseni, kalıcılık ve zamana karşı direnebilmektir. Dolayısıyla, parçadan çıkarılabilecek en temel yargı, ikisi arasındaki asıl farkın kalıcılık olduğudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki metinlerden hangisi bir eleştiri içermektedir?",
+    "options": [
+      "Bu kitap çok güzel.",
+      "Film beklediğimden daha etkileyiciydi.",
+      "Bu makale çok yüzeysel kalmış.",
+      "Sanat eserleri her zaman değerlidir.",
+      "Spor, sağlıklı yaşam için önemlidir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu makale çok yüzeysel kalmış ifadesi, bir eleştiri içermektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525133401_17",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta hangi perspektif ile yazılmıştır?",
+    "options": [
+      "1. Tekil",
+      "2. Tekil",
+      "Üçüncü tekil",
+      "Taraflı",
+      "Objektif"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yazar, birinci tekil perspektif kullanarak kişisel deneyimlerini aktarmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500304092_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Minimalizm, en basit tanımıyla 'az ama özdür' felsefesine dayanan bir yaşam biçimi ve sanat akımıdır. Bu akım, nesnelerin ve bilgilerin fazlalığından arınarak sadeliği ve işlevselliği ön plana çıkarır. Örneğin bir minimalist evde, sadece gerçekten ihtiyaç duyulan, bir amaca hizmet eden eşyalar bulunur. Tüketim kültürünün sürekli 'daha fazlasını al' telkininin aksine minimalizm, 'daha azıyla mutlu ol' mesajını verir. Bu yönüyle modern insanın karmaşadan kaçış arayışına bir cevap niteliğindedir.",
+    "options": [
+      "Öyküleme - Betimleme",
+      "Tanımlama - Karşılaştırma",
+      "Tartışma - Tanık gösterme",
+      "Açıklama - Benzetme",
+      "Betimleme - Örnekleme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parçanın ilk cümlesi, 'Minimalizm, ... bir yaşam biçimi ve sanat akımıdır.' diyerek doğrudan bir tanım yapmaktadır. Parçanın devamında ise minimalizm, 'Tüketim kültürünün ... aksine' ifadesiyle tüketim kültürüyle karşılaştırılmaktadır. Ayrıca 'örneğin' denilerek örneklemeye de başvurulmuştur. Ancak şıklar arasında hem tanımlama hem de karşılaştırmayı içeren B seçeneği, parçada en ağır basan anlatım tekniklerini bir arada sunmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_11",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi mantıklı bir sonuç çıkarımı değildir?",
+    "options": [
+      "Eğer hava yağmurluysa şemsiyemi alırım.",
+      "Dışarıda güneş varsa, güneş gözlüğü takarım.",
+      "Hava soğuksa, montumu giyerim.",
+      "Eğer açsam yemek yerim.",
+      "Eğer kitap okursam, uyuyabilirim."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Eğer kitap okursam, uyuyabilirim ifadesi mantıklı bir sonuç çıkarımı değildir.",
     "difficulty": 4
   },
   {
@@ -1792,6 +1376,22 @@
     "difficulty": 4
   },
   {
+    "id": "ai_1764522261625_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Hangi cümle paragrafın ana fikrini net bir şekilde ifade etmez?",
+    "options": [
+      "Okulda ders çalışmak önemlidir.",
+      "Öğrencilerin ders çalışırken dikkat etmeleri gerekir.",
+      "Ders çalışmak, başarılı olmanın anahtarıdır.",
+      "Ders çalışmak sıkıcıdır.",
+      "Ders çalışmak, hayat boyu süren bir alışkanlıktır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ana fikri ifade eden cümleler genellikle olumlu ve destekleyici bir mesaj taşırken, sıkıcı ifadesi ana fikri net bir şekilde ifade etmez.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764528987197_23",
     "subjectId": "tur",
     "topic": "Paragraf",
@@ -1808,19 +1408,339 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987197_24",
+    "id": "ai_1764528987196_1",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir karşıtlık içerir?",
+    "questionText": "Aşağıda verilen ifadelerden hangisi yazarın görüşünü en iyi yansıtmaktadır?",
     "options": [
-      "Ali çok çalışkan bir öğrenci.",
-      "Bugün hava güzel, ama yarın yağmur yağacak.",
-      "Sınıf çok kalabalık.",
-      "Müzik dinlemek eğlencelidir.",
-      "Kitap okumak faydalıdır."
+      "Yazar tamamen karşıt bir görüşe sahiptir.",
+      "Yazarın görüşü metinde net bir şekilde ifade edilmemiştir.",
+      "Yazar, kendi görüşünü destekleyen örnekler vermiştir.",
+      "Yazar, yalnızca başkalarının görüşlerinden bahsetmiştir.",
+      "Yazar, kesin bir sonuca varmamıştır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yazar, kendi görüşünü destekleyen örnekler vererek görüşünü ifade etmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525133401_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafta anlatılan olayın temel nedeni nedir?",
+    "options": [
+      "İnsan ilişkileri",
+      "Doğa olayları",
+      "Toplumsal değişim",
+      "Kişisel tercihler",
+      "Ekonomik durum"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugün hava güzel, ama yarın yağmur yağacak ifadesi bir karşıtlık içerir.",
+    "explanation": "Metinde doğa olaylarının insan yaşamını nasıl etkilediği üzerinde durulmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261625_8",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın akışını bozar?",
+    "options": [
+      "Bir önceki cümlede bahsedilen konuyu ele alır.",
+      "Farklı bir konuya geçiş yapar.",
+      "Örnekler sunar.",
+      "Destekleyici bilgiler verir.",
+      "Ana fikri pekiştirir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Farklı bir konuya geçiş yapmak, paragrafın akışını bozar ve okuyucunun dikkatini dağıtır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591113_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Popüler kültür, bireyleri hızla değişen trendlerin peşinden sürükleyen, anlık ve yüzeysel bir yapıya sahiptir. Dün herkesin dilinde olan bir şarkı, bugün unutulmaya yüz tutar. Bir ay önce popüler olan bir giyim tarzı, yerini hızla bir başkasına bırakır. Bu döngü, bireyde sürekli bir 'yeni olanı yakalama' telaşı yaratır ve bu durum, derinlikli düşünme ve kalıcı değerler oluşturma yetisini zayıflatır. İnsanlar, popüler olanı takip etme baskısı altında kendi özgün zevklerini ve kimliklerini inşa etmekte zorlanır. Bu nedenle popüler kültür ürünleri, genellikle kalıcılıktan uzak, 'kullan-at' mantığıyla üretilmiş gibidir.",
+    "options": [
+      "Popüler kültürün bireylerin kimlik gelişimine olumlu katkıları vardır.",
+      "Popüler kültür ürünlerinin sanatsal nitelikleri oldukça yüksektir.",
+      "Toplumun büyük bir kesimi popüler kültürün etkisinden uzaktır.",
+      "Popüler kültür, sürekli bir değişim ve geçicilik üzerine kuruludur.",
+      "Kalıcı eserler üretebilmek için popüler kültürü yakından takip etmek gerekir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafta popüler kültürün 'hızla değişen trendler', 'anlık ve yüzeysel yapı', 'dün popüler olanın bugün unutulması' gibi özelliklerinden bahsedilmektedir. Bu ifadeler, popüler kültürün temel özelliğinin sürekli bir değişim, geçicilik ve kalıcı olmama durumu olduğunu vurgular. D seçeneği bu durumu doğru bir şekilde özetlemektedir. A seçeneği parçadaki 'kimliklerini inşa etmekte zorlanır' ifadesiyle çelişir. B seçeneği, 'yüzeysel' ve 'kullan-at' mantığı ifadeleriyle çelişir. C seçeneği hakkında parçada bir bilgi yoktur. E seçeneği ise parçanın genel düşüncesiyle taban tabana zıttır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522261625_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir paragrafın destekleyici cümleleri ne işe yarar?",
+    "options": [
+      "Ana fikri güçlendirir",
+      "Paragrafı kısaltır",
+      "Yalnızca örnekler verir",
+      "Yanlış bilgi sunar",
+      "Ana fikri unutturur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Destekleyici cümleler, ana fikri güçlendirir ve okuyucuya daha fazla bilgi sunar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_10",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisinde abartma kullanılmıştır?",
+    "options": [
+      "Bu kitabı bir günde bitirdim.",
+      "O kadar çok çalışıyorum ki gözlerim kanadı.",
+      "Hava o kadar sıcak ki eriyebilirim.",
+      "Bu elma çok lezzetli.",
+      "Sürekli yorgunum."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hava o kadar sıcak ki eriyebilirim ifadesi bir abartma içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522261625_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir örnek cümlesidir?",
+    "options": [
+      "Bu konu üzerine düşünmek önemlidir.",
+      "Birçok kişi bu konuyu tartışmaktadır.",
+      "Örneğin, bu konuda yapılan araştırmalar gösteriyor ki...",
+      "Sonuç olarak, bu durum önemlidir.",
+      "Bu konu hakkında farklı görüşler vardır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Örnek cümlesi, belirli bir durumu veya durumu açıklamak için kullanılan bir cümledir ve genellikle 'örneğin' ifadesi ile başlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987197_20",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerde hangisi bir abartma içerir?",
+    "options": [
+      "Ali, en iyi arkadaşımdır.",
+      "Bu sınav çok zor.",
+      "Bugünkü toplantı bir asır sürdü.",
+      "Hava çok sıcak.",
+      "Kediler sevimli hayvanlardır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bugünkü toplantı bir asır sürdü ifadesi bir abartma içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522261626_18",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi bir paragrafın akışını bozar?",
+    "options": [
+      "Ders çalışmak, başarı için önemlidir.",
+      "Başarı, yalnızca sıkı çalışma ile gelir.",
+      "Ders çalışmayı sevmeyenlerin de başarılı olabileceği söylenir.",
+      "Ders çalışmak herkes için aynı değildir.",
+      "Ders çalışmak, sadece bir alışkanlıktır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ders çalışmayı sevmeyenlerin de başarılı olabileceği ifadesi, paragrafın ana fikri ile çelişebilir ve akışı bozabilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498940786_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Minimalizm, sadece eşyalardan kurtulmak anlamına gelen bir akım değildir. Bu, felsefenin görünen yüzüdür sadece. Özünde minimalizm, hayatımızdaki fazlalıklardan arınarak gerçekten değerli olan şeylere odaklanmaktır. Bu fazlalıklar; gereksiz eşyalar olabileceği gibi, bize zaman kaybettiren anlamsız uğraşlar, enerjimizi tüketen toksik ilişkiler veya zihnimizi bulandıran lüzumsuz bilgiler de olabilir. Amaç, daha azla daha çok 'olmak', daha bilinçli ve anlamlı bir yaşam sürmektir. \n\nBu parçaya göre aşağıdakilerden hangisi minimalist bir yaşam tarzına uygun bir davranış değildir?",
+    "options": [
+      "Kullanmadığı kıyafetleri ihtiyaç sahiplerine vermek",
+      "Sosyal medyada geçirdiği zamanı bilinçli olarak azaltmak",
+      "Yeni çıkan her teknolojik ürünü takip edip satın almak",
+      "Kendisine iyi gelmeyen bir arkadaşıyla arasına mesafe koymak",
+      "Hafta sonunu alışveriş merkezinde geçirmek yerine doğa yürüyüşü yapmak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Paragrafta minimalizm, hayattaki fazlalıklardan kurtularak anlamlı ve değerli olanlara odaklanmak olarak tanımlanmıştır. Bu fazlalıklar sadece eşya değil, aynı zamanda zaman ve enerji tüketen şeyler de olabilir. A, B, D ve E şıkları bu felsefeye uygun, fazlalıklardan kurtulmayı ve anlamlı yaşama odaklanmayı içeren davranışlardır. Ancak C şıkkında belirtilen \"Yeni çıkan her teknolojik ürünü takip edip satın almak\", sürekli bir tüketim döngüsünü ifade eder ve bu durum, parçada anlatılan \"gereksiz eşyalardan arınma\" ve \"daha azla yetinme\" felsefesiyle tamamen çelişir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_10",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazarın kullandığı dil ve üslup nasıldır?",
+    "options": [
+      "Ağır ve resmi",
+      "Samimi ve sade",
+      "Akıcı ve eğlenceli",
+      "Aşırı süslü",
+      "Karmaşık"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yazar, samimi ve sade bir dil kullanarak okuyucuya ulaşmayı hedeflemiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261627_19",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir paragrafın ana fikrini net bir şekilde ifade etmez?",
+    "options": [
+      "Ders çalışmak, başarılı olmak için gereklidir.",
+      "Ders çalışma alışkanlığı, zamanla kazanılır.",
+      "Ders çalışmayı sevmek, başarıyı artırır.",
+      "Ders çalışmak, sadece bazıları için önemlidir.",
+      "Ders çalışmak, herkes için farklı anlamlar taşır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ders çalışmak, sadece bazıları için önemlidir. ifadesi, ana fikri belirsiz hale getirir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133402_27",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yazar, paragrafta hangi tarihsel figüre atıfta bulunmaktadır?",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "Nene Hatun",
+      "Fatih Sultan Mehmet",
+      "Şeyh Bedrettin",
+      "Aşık Veysel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yazar, Atatürk'ün düşüncelerine atıfta bulunarak metnini desteklemektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521016879_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Verilen paragrafta hangi kavram üzerinde daha fazla durulmamaktadır?",
+    "options": [
+      "A) Sürdürülebilirlik",
+      "B) Ekosistem dengesi",
+      "C) İnsan etkisi",
+      "D) Tarımsal üretim",
+      "E) Doğal kaynaklar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafta insan etkisi ve doğal kaynaklar üzerinde durulurken, tarımsal üretim kavramına yeterince yer verilmemiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501591114_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Eleştiri, bir sanat eserini ya da düşünceyi belirli ölçütlere göre değerlendirme işidir. (II) Amacı, eseri daha anlaşılır kılmak, onun güçlü ve zayıf yönlerini ortaya koymaktır. (III) İyi bir eleştirmen, esere kişisel önyargılarından arınmış bir şekilde, nesnel bir gözle yaklaşır. (IV) Sanat eserleri, eleştirmenler olmasa da kendi değerini zamanla bulur. (V) Böylece hem sanatçının gelişimine katkıda bulunur hem de okurun veya izleyicinin eseri daha derinlemesine kavramasına yardımcı olur.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafın genelinde eleştirinin tanımı, amacı ve iyi bir eleştirmenin özellikleri anlatılmaktadır. I, II, III ve V numaralı cümleler bir bütünlük içinde eleştirinin işlevlerini ve niteliklerini açıklamaktadır. III. cümleden sonra V. cümlenin gelmesi anlam akışını tamamlamaktadır ('nesnel bir gözle yaklaşır' ve 'böylece sanatçının gelişimine katkıda bulunur'). Ancak IV. cümlede, konunun dışına çıkılarak eleştirinin gerekliliği sorgulayan, farklı bir yargı dile getirilmiştir. Bu cümle, paragrafın genel akışını ve anlam bütünlüğünü bozmaktadır. Bu yüzden doğru cevap IV'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987197_27",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi bir yorum içermektedir?",
+    "options": [
+      "Bugün çok güzel bir gün.",
+      "Ali, en iyi arkadaşımdır.",
+      "Bu elma çok lezzetli.",
+      "Ayşe, sinemayı çok sever.",
+      "Kitap okumak faydalıdır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu elma çok lezzetli ifadesi bir yorum içermektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764521016879_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragraftaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Hava kirliliği, insan sağlığını olumsuz etkiler.",
+      "B) Su kaynaklarının azalması, tarımsal üretimi tehdit eder.",
+      "C) Doğal yaşam alanlarının yok olması, biyoçeşitliliği artırır.",
+      "D) Enerji tüketiminin azaltılması, çevre dostu bir yaklaşım olarak görülmektedir.",
+      "E) Atık yönetimi, doğal kaynakların korunmasında önemlidir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Doğal yaşam alanlarının yok olması biyoçeşitliliği artırmaz, aksine azaltır. Bu, paragraftaki yanlış bilgidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525133401_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Paragrafın ana fikri nedir?",
+    "options": [
+      "İnsan doğası",
+      "Zamanın önemi",
+      "Kültürel miras",
+      "Teknolojinin etkisi",
+      "Doğanın korunması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Yazar, doğanın korunmasının önemi üzerinde durarak ana fikri oluşturmuştur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500304092_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Akdeniz mutfağı, zeytinyağı, taze sebzeler ve deniz ürünleri ağırlıklı yapısıyla bilinir. (II) Bu beslenme tarzının sağlık üzerindeki olumlu etkileri bilimsel olarak da kanıtlanmıştır. (III) Özellikle kalp ve damar sağlığını korumada önemli bir rol oynar. (IV) İtalya'nın güney sahilleri, yaz aylarında çok sayıda turist çeker. (V) Yemeklerde baharat ve taze otların kullanımı da lezzeti artıran önemli unsurlardandır.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parçanın genel konusu Akdeniz mutfağının özellikleri ve sağlığa faydalarıdır. I, II, III ve V numaralı cümleler bu konu etrafında şekillenmektedir. I. cümlede mutfağın temel malzemeleri, II. ve III. cümlelerde sağlıkla ilişkisi, V. cümlede ise lezzet unsurları belirtilmiştir. Ancak IV. cümle, konudan saparak İtalya'daki turizmden bahsetmektedir. Bu cümle, paragrafın genel anlam bütünlüğüne uymadığı için düşüncenin akışını bozmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522261625_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir paragrafın akışını sağlamak için hangi unsura ihtiyaç vardır?",
+    "options": [
+      "Paragrafın uzunluğu",
+      "Zengin kelime dağarcığı",
+      "Bağlaçlar ve geçiş ifadeleri",
+      "Farklı cümle türleri",
+      "Tekrar eden ifadeler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bağlaçlar ve geçiş ifadeleri, paragrafın akışını sağlamak için gereklidir. Bu unsurlar, cümleler arasında bağlantılar kurar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir metinde 'örnekleme' yöntemi ne için kullanılır?",
+    "options": [
+      "Kavramları tanımlamak için",
+      "Bir düşünceyi desteklemek için",
+      "Bir durumu sorgulamak için",
+      "Yazının uzunluğunu artırmak için",
+      "Okuyucunun dikkatini çekmek için"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Örnekleme, bir düşünceyi desteklemek amacıyla kullanılır.",
     "difficulty": 4
   },
   {
@@ -1840,51 +1760,307 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987197_26",
+    "id": "ai_1764525133401_9",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir tanımlama cümlesidir?",
+    "questionText": "Paragrafta hangi sonuç çıkarılmaktadır?",
     "options": [
-      "Deniz, tuzlu su bulunan büyük bir su kütlesidir.",
-      "Ali, matematikte çok başarılıdır.",
-      "Sınıf çok kalabalık.",
-      "Bugün hava çok güzel.",
-      "Kitap okumak eğlencelidir."
+      "Eğitim şarttır",
+      "Doğa korunmalıdır",
+      "Teknoloji gereksizdir",
+      "İnsanlar güvenmelidir",
+      "Kültür önemlidir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yazar, doğanın korunmasının gerekliliğinden bahsetmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522261625_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Bir paragrafın en önemli unsurlarından biri nedir?",
+    "options": [
+      "Cümle sayısı",
+      "Ana fikir ve destekleyici cümleler",
+      "Paragrafın uzunluğu",
+      "Kullanılan kelimelerin zenginliği",
+      "Paragrafın yazım tarihi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paragrafın ana fikri ve onu destekleyen cümleler, paragrafın anlamını ve etkisini belirleyen en önemli unsurlardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521016878_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, verilen paragraftaki ana fikri en iyi şekilde ifade etmektedir?",
+    "options": [
+      "A) İnsanların doğayla olan ilişkisi karmaşık bir yapıya sahiptir.",
+      "B) Doğa, insan yaşamının vazgeçilmez bir parçasıdır.",
+      "C) Teknolojik gelişmeler, doğanın korunmasına katkı sağlamaktadır.",
+      "D) İnsanlar, doğayı korumak için çeşitli yöntemler geliştirmektedir.",
+      "E) Doğa, insanlara sadece kaynak sağlamaktadır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paragrafta doğanın insan yaşamındaki önemi vurgulanmakta ve bu ilişki üzerinden ana fikir oluşturulmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528987196_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'özgürlük' kavramını en iyi tanımlamaktadır?",
+    "options": [
+      "Kişinin kendi seçimlerini yapabilme durumu",
+      "Başkalarının haklarına saygı gösterme durumu",
+      "Sınırlı bir alanda hareket etme durumu",
+      "Kurallara uymak zorunda olma durumu",
+      "Kısıtlamalar altında yaşama durumu"
     ],
     "correctAnswer": 0,
-    "explanation": "Deniz, tuzlu su bulunan büyük bir su kütlesidir ifadesi tanımlayıcı bir cümledir.",
+    "explanation": "'Özgürlük', kişinin kendi seçimlerini yapabilme durumunu ifade eder.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987197_27",
+    "id": "ai_1764519425608_2",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki ifadelerden hangisi bir yorum içermektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın destekleyici cümlesi olarak kabul edilebilir?",
     "options": [
-      "Bugün çok güzel bir gün.",
-      "Ali, en iyi arkadaşımdır.",
-      "Bu elma çok lezzetli.",
-      "Ayşe, sinemayı çok sever.",
-      "Kitap okumak faydalıdır."
+      "Okul, öğrencilerin öğrenim hayatlarının temelidir.",
+      "Okulda birçok farklı etkinlik düzenlenir.",
+      "Okul, çocukların sosyal becerilerini geliştirdiği bir yerdir.",
+      "Okulda ders çalışmak önemlidir.",
+      "Okul, sadece bilgi edinme yeri değildir."
     ],
     "correctAnswer": 2,
-    "explanation": "Bu elma çok lezzetli ifadesi bir yorum içermektedir.",
+    "explanation": "Bu cümle, okulun işlevselliği ve önemine dair bir destekleyici bilgi sunarak ana fikri güçlendirmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520393270_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi şekilde ifade etmektedir?",
+    "options": [
+      "Çalışmak, başarıya giden yolda önemli bir adımdır.",
+      "Başarı, sadece şansa bağlıdır.",
+      "Çalışmanın yanında dinlenmek de gereklidir.",
+      "İnsanlar, farklı alanlarda yeteneklidir.",
+      "Başarı, herkesin ulaşabileceği bir hedeftir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ana fikir, paragrafa yön veren temel düşüncedir. İlk seçenek, çalışmanın önemini vurgulayarak ana fikri ifade etmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500304092_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Başarısızlık korkusu, pek çok insanın potansiyelini ortaya koymasının önündeki en büyük engeldir. Yeni bir şey denerken hata yapmaktan çekinir, eleştirilmekten korkarız. Oysa öğrenme süreci, deneme yanılma üzerine kuruludur. Tarihteki büyük buluşların ve icatların arkasında sayısız başarısız deneme yatar. Bu yüzden, ----.",
+    "options": [
+      "her zaman en güvenli yolu tercih etmek gerekir",
+      "hataları, hedefe giden yolda birer basamak olarak görmek gerekir",
+      "başkalarının tecrübelerinden ders çıkarmak anlamsızdır",
+      "başarıya ulaşmak için yetenek tek başına yeterlidir",
+      "denemekten vazgeçip uzmanlara danışmak en doğrusudur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parçada, başarısızlık korkusunun bir engel olduğu ve öğrenme sürecinin hatalarla dolu olduğu vurgulanmaktadır. Tarihteki büyük buluşların bile başarısız denemeler sonucu ortaya çıktığı belirtilmiştir. Bu nedenle, parçanın sonuna düşüncenin akışına uygun olarak, hatalara olumlu bir anlam yükleyen ve onları öğrenme sürecinin bir parçası olarak gören bir ifade getirilmelidir. 'Hataları, hedefe giden yolda birer basamak olarak görmek gerekir' ifadesi, bu anlamı en iyi şekilde tamamlamaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500304092_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Kitaplar, sessiz öğretmenlerdir. Bize farklı dünyaların kapılarını aralar, hiç gitmediğimiz yerlere götürür, hiç tanımadığımız insanlarla tanıştırırlar. Onların sayfalarında gezinirken hem kelime dağarcığımız zenginleşir hem de empati yeteneğimiz gelişir. Başka bir karakterin gözünden hayata bakmak, kendi düşünce kalıplarımızın dışına çıkmamızı sağlar. Bu sayede olaylara daha geniş bir perspektiften yaklaşmayı öğreniriz.",
+    "options": [
+      "Kitap okumanın akademik başarıyı garantilediğine",
+      "Okumanın yalnızca bir boş zaman aktivitesi olduğuna",
+      "Her kitabın okuyucuya aynı deneyimi yaşattığına",
+      "Okumanın bireysel gelişim ve anlayış üzerindeki çok yönlü etkilerine",
+      "İyi bir okur olmak için çok hızlı okumak gerektiğine"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parçada kitapların insan üzerindeki çeşitli olumlu etkilerinden bahsedilmektedir. Farklı dünyaları tanıtması, kelime dağarcığını zenginleştirmesi, empatiyi geliştirmesi ve bakış açısını genişletmesi gibi faydaları sıralanmıştır. Bu ifadeler, bir bütün olarak okumanın kişisel gelişim ve dünyaya daha anlayışlı bakma konusundaki çok yönlü katkılarını anlatmaktadır. Dolayısıyla parçada asıl anlatılmak istenen D şıkkında doğru bir şekilde özetlenmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529512431_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi ifade eden cümledir?",
+    "options": [
+      "Açık hava yürüyüşleri sağlığımız için faydalıdır.",
+      "Yürüyüş yapmak hem fiziksel hem de mental sağlığa katkı sağlar.",
+      "Günümüzde insanlar spor yapmayı ihmal etmektedir.",
+      "Yürüyüş yaparken doğayla iç içe olmak önemlidir.",
+      "Yürüyüş yapmanın birçok faydası vardır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ana fikir, yürüyüşün hem fiziksel hem de mental sağlığa katkı sağladığını vurgulayan cümlede en iyi şekilde ifade edilmiştir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528987197_28",
+    "id": "ai_1764529512431_1",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir abartma içerir?",
+    "questionText": "Aşağıdaki parçada hangi detay, ana fikri desteklemektedir?",
     "options": [
-      "Bugün her şeyi unuttum.",
-      "Ali, en iyi arkadaşımdır.",
-      "Ayşe, çok çalışkan bir öğrencidir.",
-      "Sınıf çok kalabalık.",
-      "Yüzde bir milyon kazanabilirim."
+      "Yürüyüş yapmak, kalp sağlığını iyileştirir.",
+      "Yürüyüş yaparken doğa ile zaman geçirmek önemlidir.",
+      "Yürüyüş, sosyal bir etkinlik olarak da değerlendirilebilir.",
+      "Yürüyüş esnasında dikkat edilmesi gereken noktalar vardır.",
+      "Yürüyüş, sadece fiziksel değil, ruhsal olarak da kişiyi dinlendirir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yürüyüşün kalp sağlığı üzerindeki olumlu etkisi, ana fikri destekleyen en güçlü detaydır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki parçada hangi cümle, yazarın kesin bir yargıda bulunduğunu gösterir?",
+    "options": [
+      "Yürüyüş yapmanın faydaları herkesçe kabul edilmektedir.",
+      "Yürüyüş yapmanın en az haftada üç kez gerçekleştirilmesi önerilir.",
+      "Bazı insanlar yürüyüş yapmayı sevmez.",
+      "Yürüyüş, birçok kişi için vazgeçilmez bir aktivitedir.",
+      "Hava koşulları yürüyüşü etkileyebilir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yürüyüş yapmanın belirli bir sıklıkta gerçekleştirilmesi gerektiği kesin bir yargı içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_3",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki metinde hangisi, yürüyüşün ruhsal faydalarını ifade etmektedir?",
+    "options": [
+      "Yürüyüş, kalp atışlarını düzenler.",
+      "Yürüyüş, stres seviyesini azaltır.",
+      "Yürüyüş, kilo vermeye yardımcı olur.",
+      "Yürüyüş, kas yapımını destekler.",
+      "Yürüyüş, enerjiyi artırır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yürüyüşün ruhsal faydaları arasında stres seviyesini azaltması en belirgin olanıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_4",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın sonuç cümlesi olarak en uygun olanıdır?",
+    "options": [
+      "Sonuç olarak, yürüyüş hayatımızda önemli bir yer tutmaktadır.",
+      "Yürüyüş yaparken dikkatli olmalıyız.",
+      "Yürüyüş, günlük hayatımızda kolaylıkla uygulanabilir.",
+      "Yürüyüş yapmanın birçok yolu vardır.",
+      "Yürüyüşe çıkmadan önce hava durumunu kontrol etmeliyiz."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sonuç cümlesi, yürüyüşün önemini vurgulayan bir genel değerlendirme yapmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_5",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki parçada hangi ifade, yazarın kişisel görüşünü yansıtır?",
+    "options": [
+      "Yürüyüş yapmak sağlıklı bir yaşam tarzıdır.",
+      "Birçok insan yürüyüş yapmayı tercih etmektedir.",
+      "Yürüyüş, hem bedensel hem de zihinsel sağlık açısından faydalıdır.",
+      "Bence yürüyüş, stres atmanın en iyi yoludur.",
+      "Yürüyüş, düzenli yapıldığında faydalıdır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu cümlede 'bence' ifadesi yazarın kişisel görüşünü yansıtmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_6",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, yürüyüşün sosyal yönünü vurgulamaktadır?",
+    "options": [
+      "Yürüyüş, yalnız başına yapılabilir.",
+      "Arkadaşlarla yapılan yürüyüşler daha keyiflidir.",
+      "Yürüyüş sırasında müzik dinlemek hoş bir aktivitedir.",
+      "Yürüyüş yaparken doğayla iç içe olmak önemlidir.",
+      "Yürüyüş, kişiyi ruhsal olarak dinlendirir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arkadaşlarla yapılan yürüyüşlerin keyifli olduğu ifadesi, yürüyüşün sosyal yönünü ön plana çıkarmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_7",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi, yürüyüşün fiziksel faydaları arasında sayılmamaktadır?",
+    "options": [
+      "Kasları güçlendirir.",
+      "Kilo vermeye yardımcı olur.",
+      "Hafızayı geliştirir.",
+      "Kalp sağlığını destekler.",
+      "Dolaşım sistemini düzenler."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hafızayı geliştirmek fiziksel bir fayda olarak sayılmaz, daha çok zihinsel bir faydadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_8",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Yürüyüş yapmanın en uygun zamanı ile ilgili aşağıdaki cümlelerden hangisi doğrudur?",
+    "options": [
+      "Güneşin en yüksek olduğu saatlerde yürümek en iyisidir.",
+      "Sabah erken saatlerde yürüyüş yapmak ferahlatıcıdır.",
+      "Akşam yürüyüşleri yorgunluğu alır.",
+      "Öğle saatlerinde yürüyüş yapmak zordur.",
+      "Yürüyüş her zaman yapılabilir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sabah erken saatlerde yapılan yürüyüşler genellikle daha ferahlatıcı ve dinlendiricidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_9",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki ifadelerden hangisi, yürüyüş yapmanın motivasyon kaynaklarından biri değildir?",
+    "options": [
+      "Kilo kaybı hedefi.",
+      "Doğayla iç içe olma isteği.",
+      "Arkadaşlarla zaman geçirme arzusu.",
+      "Yürüyüş sonrası elde edilecek ödüller.",
+      "İş yerindeki stres."
     ],
     "correctAnswer": 4,
-    "explanation": "Yüzde bir milyon kazanabilirim ifadesi bir abartma içerir.",
+    "explanation": "İş yerindeki stres, yürüyüş yapmanın motivasyon kaynaklarından biri olmayabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529512431_10",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın giriş cümlesi olarak uygun değildir?",
+    "options": [
+      "Yürüyüş, herkesin yapabileceği basit bir aktivitedir.",
+      "Yürüyüşün faydaları saymakla bitmez.",
+      "İnsanlar, yürüyüş yapmayı neden tercih ederler?",
+      "Yürüyüş sağlıklı bir yaşam için gereklidir.",
+      "Birçok insan yürüyüş yapmayı sever."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soru ifadesi olan cümle, bir giriş cümlesi için uygun değildir.",
     "difficulty": 4
   }
 ]
