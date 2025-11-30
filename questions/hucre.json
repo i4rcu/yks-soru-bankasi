@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520314198_0",
+    "id": "ai_1764521032843_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre zarı, hangi özellikleri sayesinde hücre içi ve dışı arasında madde geçişini kontrol eder?",
+    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
     "options": [
-      "Seçici geçirgenlik",
-      "Biyosentez",
-      "Enerji üretimi",
-      "Protein sentezi",
-      "DNA replikasyonu"
+      "Besinleri sentezlemek",
+      "Atıkları depolamak",
+      "Seçici geçirgenlik sağlamak",
+      "Enerji üretmek",
+      "Proteinleri parçalamak"
     ],
-    "correctAnswer": 0,
-    "explanation": "Hücre zarı, seçici geçirgenlik özelliği sayesinde belirli moleküllerin geçişine izin verirken, diğerlerinin geçişini engelleyerek hücre içi ortamın dengede kalmasını sağlar.",
+    "correctAnswer": 2,
+    "explanation": "Hücre zarı, hücre içi ve dışı arasındaki madde alışverişini kontrol ederek seçici geçirgenlik sağlar. Bu özellik, hücrenin homeostazisini korumasına yardımcı olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520314198_1",
+    "id": "ai_1764521032843_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Aşağıdakilerden hangisi hücre organellerinden biri değildir?",
+    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
     "options": [
       "Ribozom",
-      "Mitokondri",
       "Kloroplast",
-      "Endoplazmik retikulum",
-      "Sitoz"
+      "Lizozom",
+      "Golgi aygıtı",
+      "Endoplazmik retikulum"
     ],
-    "correctAnswer": 4,
-    "explanation": "Ribozom, mitokondri, kloroplast ve endoplazmik retikulum hücre organelleridir. Sitoz ise, hücre içindeki sıvı kısmını ifade eder ve bir organel değildir.",
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520314199_2",
+    "id": "ai_1764521032843_2",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında hangi aşamada kromozomlar en belirgin hale gelir?",
+    "questionText": "Hücre bölünmesi sırasında hangi aşama kromozomların en belirgin hale geldiği aşamadır?",
     "options": [
-      "İnterfaz",
       "Profaz",
       "Metafaz",
       "Anafaz",
-      "Telofaz"
+      "Telofaz",
+      "Interfaz"
     ],
-    "correctAnswer": 1,
-    "explanation": "Hücre bölünmesi sırasında kromozomlar en belirgin hale profaz aşamasında gelir. Bu aşamada kromatin yoğunlaşarak kromozomları oluşturur ve mikrotübüller ile hücre merkezlerine doğru hareket eder.",
+    "correctAnswer": 0,
+    "explanation": "Profaz aşamasında kromozomlar yoğunlaşarak belirgin hale gelir. Bu aşamada kromozomlar, mikrotübüllerin çekirdek bölünmesinde görev alabilmesi için daha kolay tanınır duruma gelir.",
     "difficulty": 3
   }
 ]
