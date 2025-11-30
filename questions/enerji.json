@@ -1,50 +1,18 @@
 [
   {
-    "id": "ai_1764501001352_0",
+    "id": "ai_1764519242509_0",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Kütlesi m olan bir cisim, sürtünmeli bir eğik düzlemin K noktasından serbest bırakılıyor ve L noktasına ulaşıyor. Bu süreçle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "Bir cismin potansiyel enerjisi, yükseklik ile nasıl ilişkilidir?",
     "options": [
-      "Cismin kinetik enerjisi değişmez.",
-      "Cismin potansiyel enerjisi artar.",
-      "Cismin mekanik enerjisi korunur.",
-      "Sürtünme kuvvetinin yaptığı iş, cismin kazandığı kinetik enerjiye eşittir.",
-      "Cismin potansiyel enerjisindeki azalma, kinetik enerjisindeki artış ile ısıya dönüşen enerjinin toplamına eşittir."
+      "Yükseklik arttıkça potansiyel enerji azalır.",
+      "Yükseklik ile potansiyel enerji arasında bir ilişki yoktur.",
+      "Yükseklik arttıkça potansiyel enerji artar.",
+      "Potansiyel enerji sadece cismin kütlesine bağlıdır.",
+      "Potansiyel enerji sadece cismin hareketine bağlıdır."
     ],
-    "correctAnswer": 4,
-    "explanation": "Sürtünmeli bir sistemde mekanik enerji (kinetik + potansiyel) korunmaz. Enerjinin bir kısmı sürtünme nedeniyle ısıya dönüşür. Enerjinin korunumu ilkesine göre, başlangıçtaki toplam enerji sondaki toplam enerjiye eşit olmalıdır. Başlangıçta sadece potansiyel enerji vardır. Süreç sonunda bu potansiyel enerjinin bir kısmı kinetik enerjiye, bir kısmı da sürtünme yoluyla ısı enerjisine dönüşmüştür. Dolayısıyla, potansiyel enerjideki azalma (ΔEp), kinetik enerjideki artış (ΔEk) ile sürtünmenin yaptığı işin (W_sürtünme, yani ısı) toplamına eşittir: |ΔEp| = ΔEk + W_sürtünme.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501001352_1",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Yatay ve sürtünmesiz bir yolda durmakta olan bir cisme, yola paralel sabit bir F kuvveti K noktasından L noktasına kadar uygulanıyor. Cismin L noktasındaki kinetik enerjisi E, hızı ise v oluyor. Buna göre, aynı F kuvveti aynı cisme K noktasından başlayarak L'ye kadar olan yolun yarısına kadar (KL/2) uygulansaydı, cismin bu noktadaki kinetik enerjisi ve hızı için ne söylenebilirdi?",
-    "options": [
-      "Kinetik Enerji: E/4, Hız: v/2",
-      "Kinetik Enerji: E/2, Hız: v/√2",
-      "Kinetik Enerji: E/2, Hız: v/2",
-      "Kinetik Enerji: E, Hız: v",
-      "Kinetik Enerji: E/√2, Hız: v/√2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İş-enerji teoremine göre yapılan iş, kinetik enerjideki değişime eşittir (W = ΔEk). Başlangıçta cisim durduğu için ΔEk, son kinetik enerjiye eşittir.\nİlk durumda yapılan iş W = F * |KL| = E.\nİkinci durumda yol yarıya indiği için yapılan iş W' = F * (|KL|/2) = (F * |KL|)/2 = W/2 = E/2. Yani yeni kinetik enerji E/2 olur.\nKinetik enerji formülü Ek = (1/2)mv²'dir. Buradan hız, kinetik enerjinin karekökü ile doğru orantılıdır (v ∝ √Ek).\nİlk durumda hız v iken kinetik enerji E idi. İkinci durumda kinetik enerji E/2 olduğuna göre yeni hız v' ∝ √(E/2) olur. Bu da v' = v/√2 demektir. Dolayısıyla doğru cevap E/2 ve v/√2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501001352_2",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Güçleri sırasıyla P ve 2P olan K ve L motorları, özdeş cisimleri yer seviyesinden sabit hızlarla h yüksekliğine çıkarıyor. K motoru bu işi t sürede yaptığına göre, L motoru aynı işi kaç t sürede yapar?",
-    "options": [
-      "t/4",
-      "t/2",
-      "t",
-      "2t",
-      "4t"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Güç (P), birim zamanda yapılan iştir (P = W/t). Soruda, iki motorun da özdeş cisimleri aynı h yüksekliğine çıkardığı belirtilmiştir. Bu nedenle, yer çekimine karşı yapılan iş (W = mgh) her iki motor için de aynıdır.\nK motoru için denklem: P_K = W / t_K  =>  P = W / t\nL motoru için denklem: P_L = W / t_L  =>  2P = W / t_L\nİlk denklemden işi çekersek: W = P * t. Bu ifadeyi ikinci denklemde yerine koyalım:\n2P = (P * t) / t_L\nDenklemdeki P'ler sadeleşir: 2 = t / t_L\nBuradan L motorunun işi yapma süresi olan t_L'yi çekersek, t_L = t / 2 sonucuna ulaşırız.",
+    "correctAnswer": 2,
+    "explanation": "Potansiyel enerji, bir cismin yerden yüksekliği ile doğru orantılıdır. Yükseklik arttıkça, cismin potansiyel enerjisi de artar. Bu, mgh formülü ile ifade edilir; burada m kütle, g yerçekimi ivmesi ve h yüksekliktir.",
     "difficulty": 3
   }
 ]
