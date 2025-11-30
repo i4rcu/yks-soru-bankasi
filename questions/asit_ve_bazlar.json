@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519313122_0",
+    "id": "ai_1764520270276_0",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin su ile tepkimesi sonucunda oluşan çözeltinin pH değeri genellikle nasıl bir değişim gösterir?",
-    "options": [
-      "Artar",
-      "Azalır",
-      "Değişmez",
-      "Sabitleşir",
-      "Hafif asidik kalır"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Asitler su ile tepkimeye girdiğinde hidrojen iyonları (H+) salınır ve bu da çözeltinin pH değerinin düşmesine neden olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519313122_1",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi güçlü bir bazdır?",
-    "options": [
-      "Sodyum hidroksit (NaOH)",
-      "Amonyak (NH3)",
-      "Karbonat (CO3^2-)",
-      "Sodyum bikarbonat (NaHCO3)",
-      "Kalsiyum sülfat (CaSO4)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sodyum hidroksit (NaOH), güçlü bir bazdır ve su ile çözündüğünde yüksek oranda hidroksit iyonu (OH-) üretir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519313122_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH'ı 7'den düşükse, bu çözeltinin özelliği nedir?",
+    "questionText": "pH değeri 7 olan bir çözeltinin asidik, bazik ya da nötr olup olmadığını belirleyin.",
     "options": [
       "Asidik",
       "Bazik",
       "Nötr",
-      "Sulu",
-      "İyonik"
+      "Zayıf asidik",
+      "Zayıf bazik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 7 olan bir çözeltinin nötr olduğu kabul edilir. Asidik çözeltiler pH 7'den düşük, bazik çözeltiler ise pH 7'den yüksektir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520270277_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, sulu çözeltisinde hidrojen iyonu (H⁺) salınımı yaparak asidik özellik gösterir?",
+    "options": [
+      "Sodyum klorür",
+      "Sülfürik asit",
+      "Sodyum hidroksit",
+      "Amonyak",
+      "Kalsiyum karbonat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sülfürik asit (H₂SO₄), sulu çözeltisinde hidrojen iyonları salarak asidik özellik gösterir. Diğer maddeler asidik özellik göstermez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520270277_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir asidin pH değeri 3 ise, bu çözeltinin hidrojen iyonu konsantrasyonu nedir?",
+    "options": [
+      "10⁻³ mol/L",
+      "10⁻⁴ mol/L",
+      "10⁻² mol/L",
+      "10⁻⁵ mol/L",
+      "10⁻⁶ mol/L"
     ],
     "correctAnswer": 0,
-    "explanation": "Bir çözeltinin pH değeri 7'den düşükse, bu çözeltinin asidik olduğunu gösterir. pH 7 nötr, 7'den yüksek olanlar ise bazik çözeltilerdir.",
+    "explanation": "pH değeri 3 olan bir çözeltide hidrojen iyonu konsantrasyonu 10⁻³ mol/L'dir. Bu, pH = -log[H⁺] formülünden elde edilir.",
     "difficulty": 3
   }
 ]
