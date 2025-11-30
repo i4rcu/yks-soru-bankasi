@@ -1,226 +1,18 @@
 [
   {
-    "id": "ai_1764522183621_11",
+    "id": "ai_1764522183621_4",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi bir anlatım tekniği olarak kabul edilmez?",
+    "questionText": "Aşağıdakilerden hangisi 'açıklama' tekniğinin bir örneğidir?",
     "options": [
-      "Betimleme",
-      "Açıklama",
-      "Öyküleme",
-      "Diyalog",
-      "Cümle kurma"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cümle kurma, bir anlatım tekniği değil, dilin temel yapı taşlarından biridir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073253_15",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Hangi anlatım tekniği, bir durumu daha etkili hale getirmek için örnekler kullanır?",
-    "options": [
-      "Açıklayıcı",
-      "Tanımlayıcı",
-      "Öyküleyici",
-      "Örnekleyici",
-      "Betimleyici"
+      "Ali sinemaya gitti.",
+      "Güneş doğudan doğar.",
+      "Kediler genellikle uykucudurlar.",
+      "Su, 0 derecede donar.",
+      "Oyun oynamak eğlencelidir."
     ],
     "correctAnswer": 3,
-    "explanation": "Örnekleyici anlatım, bir durumu daha etkili açıklamak için örnekler kullanır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497577916_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Bazı eleştirmenler, romanın temel işlevinin topluma ayna tutmak olduğunu öne sürer. Onlara göre yazar, bir sosyolog titizliğiyle çevresini gözlemlemeli ve eserine yansıtmalıdır. Ancak bu görüş, sanatın yaratıcı ve öznel doğasını göz ardı etmektedir. Roman, bir toplumun fotoğrafı olmak zorunda değildir; aksine, yazarın hayal gücünün ve üslubunun bir ürünü olarak bambaşka dünyalar da sunabilir. Sanatı salt bir yansıtma aracına indirgemek, onun ruhunu öldürmektir.",
-    "options": [
-      "Açıklama",
-      "Öyküleme",
-      "Tartışma",
-      "Tanık gösterme",
-      "Betimleme"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Parçada yazar, önce genel kabul gören bir görüşü ('romanın topluma ayna tutması') ortaya koymaktadır. Ardından 'Ancak bu görüş...' ifadesiyle bu teze karşı çıkarak kendi düşüncesini ('sanatın yaratıcı ve öznel doğası') savunmaya başlamaktadır. Yazar, iki farklı düşünceyi karşılaştırıp kendi tezini kanıtlamaya çalıştığı için parçada ağır basan anlatım tekniği 'tartışma'dır. Açıklama, bilgi vermeyi amaçlarken tartışma, bir fikri savunmayı veya çürütmeyi hedefler. Bu metinde yazarın amacı bilgi vermek değil, bir görüşe karşı kendi fikrini savunmaktır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522183622_13",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir betimleme örneğidir?",
-    "options": [
-      "Bahçedeki çiçekler sarı, kırmızı ve mor renklerde açmıştı.",
-      "Ali, sinemaya gitti.",
-      "Hava bugün çok sıcak.",
-      "Kedim uyuyor.",
-      "Dışarıda çocuklar oynuyor."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Betimleme, detaylı gözlem ve tasvir içerir. 'Bahçedeki çiçekler sarı, kırmızı ve mor renklerde açmıştı.' cümlesi bunu yansıtır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500245934_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Ali, masasında oturmuş, önündeki boş kağıda bakıyordu. Son teslim tarihi yarındı ama aklına tek bir kelime bile gelmiyordu. Bu projenin kariyeri için ne kadar önemli olduğunu biliyordu ve bu bilgi omuzlarına ağır bir yük bindiriyordu. Başarısız olma düşüncesi zihnini bir zehir gibi sarmıştı. Yıllardır kurduğu hayallerin bir anda yıkılmasından ölesiye korkuyor, içindeki sesin 'Yapamayacaksın!' diye bağırdığını duyuyordu sanki. Bu korku, mantıklı düşünme yetisini neredeyse tamamen elinden almıştı.",
-    "options": [
-      "Bilinç akışı",
-      "İç konuşma (iç monolog)",
-      "Geriye dönüş",
-      "İç çözümleme",
-      "Diyalog"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu paragrafta, anlatıcı üçüncü kişidir (O anlatıcı). Anlatıcı, kahraman Ali'nin zihninin içine girerek onun düşüncelerini, korkularını ve ruhsal durumunu okuyucuya aktarmaktadır. Ali'nin düşünceleri, 'Ben korkuyorum, yapamayacağım.' gibi doğrudan kendi ağzından değil, anlatıcının süzgecinden geçirilerek '...ölesiye korkuyor, ...elinden almıştı.' gibi ifadelerle anlatılmıştır. Kahramanın iç dünyasının, psikolojisinin anlatıcı tarafından tahlil edilerek sunulması tekniğine 'iç çözümleme' denir. Eğer bu düşünceler, araya anlatıcı girmeden, birinci tekil şahıs ağzından aktarılsaydı 'iç konuşma' olurdu.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073253_13",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki ifadelerden hangisi bir tanım örneğidir?",
-    "options": [
-      "Elma, tatlı ve sulu bir meyvedir.",
-      "Hava çok sıcak.",
-      "Kedim mavi gözlü.",
-      "Okuldan sonra sinemaya gideceğim.",
-      "Çiçekler açmaya başladı."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Elma, tatlı ve sulu bir meyvedir ifadesi, elmanın tanımını yapmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183621_8",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Açıklayıcı anlatımda hangi unsurlar sıkça kullanılır?",
-    "options": [
-      "Duygular",
-      "Gözlemler",
-      "Tanımlamalar",
-      "Tartışmalar",
-      "Hayaller"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Açıklayıcı anlatım, genellikle tanımlamalar ve somut bilgilerle desteklenir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522183621_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Açıklayıcı bir anlatım tekniği olan 'tanımlama' neyi ifade eder?",
-    "options": [
-      "Bir olayın anlatılması",
-      "Bir nesnenin özelliklerinin belirtilmesi",
-      "Bir karakterin duygularının ifade edilmesi",
-      "Bir hikayenin kurgulanması",
-      "Bir düşüncenin sorgulanması"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Tanımlama, bir nesne ya da kavramın detaylı bir şekilde açıklanmasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073254_20",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi açıklayıcı bir anlatım örneğidir?",
-    "options": [
-      "Kedim çok sevimli.",
-      "Hava bugün çok sıcak.",
-      "Yaz mevsimi, güneşli günlerin yaşandığı bir dönemdir.",
-      "Bu kitap çok güzeldi.",
-      "Köydeki yaşam çok güzeldir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yaz mevsimi, güneşli günlerin yaşandığı bir dönemdir cümlesi, açıklayıcı bir bilgi vermektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519413805_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi bir metinde okuyucuya bir durumu algılatmak için kullanılan, mecaz anlam içeren ifadeleri tanımlar?",
-    "options": [
-      "Açıklama",
-      "Tanımlama",
-      "Betimleme",
-      "İmaj",
-      "Sembolizm"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Sembolizm, bir durumu ya da duyguyu ifade etmek için mecaz anlam taşıyan sembollerin kullanılmasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_7",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi betimleyici bir anlatım örneğidir?",
-    "options": [
-      "Köyümüz çok güzel bir yer.",
-      "Hava bugün yağmurlu.",
-      "Kitap okumak çok faydalıdır.",
-      "Deniz dalgalıydı.",
-      "Kediler genellikle yumuşak tüyleriyle bilinir."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Köyümüz çok güzel bir yer cümlesi, betimleyici bir anlatım örneği olarak doğrudan bir yerin güzelliğini ifade eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500245934_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Kapıyı yavaşça araladı. Odanın ortasında, ceviz ağacından yapılmış masanın üzerinde antika bir gaz lambası duruyordu. Lambanın titrek ışığı, duvardaki solgun portrelere vuruyor, zamanın yüzlerde açtığı derin çizgileri daha da belirginleştiriyordu. Adam, parke zeminde hiç ses çıkarmadan masaya doğru ilerledi, parmak uçlarıyla lambanın soğuk camına dokundu. Bu odanın havasında yılların birikmiş hüznü ve anıları saklı gibiydi.",
-    "options": [
-      "Öyküleme",
-      "Açıklama",
-      "Betimleme",
-      "Tartışma",
-      "Karşılaştırma"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta bir olay akışı (kapıyı aralamak, ilerlemek, dokunmak) olsa da yazarın asıl amacı, okuyucunun zihninde bir sahne canlandırmaktır. Odanın, masanın, lambanın ve portrelerin görsel özelliklerini ayrıntılarıyla vererek bir atmosfer oluşturmaya odaklanılmıştır. Varlıklar ve mekan, ayırt edici nitelikleriyle anlatıldığı için ağır basan anlatım tekniği betimlemedir. Öyküleme, betimlemeye hizmet eden bir araç olarak kullanılmıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520377792_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın neden-sonuç ilişkisini açıklamak amacıyla kullanılır?",
-    "options": [
-      "Tanımlama",
-      "Örnekleme",
-      "Karşılaştırma",
-      "Açıklama",
-      "Betimleme"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Açıklama, bir olayın neden-sonuç ilişkisini net bir şekilde ortaya koymak için kullanılan anlatım tekniğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521052829_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
-    "options": [
-      "Öyküleme",
-      "Betimleme",
-      "Açıklama",
-      "Eleştiri",
-      "Tanımlama"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Eleştiri, bir anlatım tekniği olarak kabul edilmez; daha çok bir değerlendirme veya yorumlama biçimidir. Diğer şıklar ise anlatım tekniklerindendir.",
+    "explanation": "Açıklama tekniği, bir olgunun ya da durumun neden-sonuç ilişkisini ortaya koyar. 'Su, 0 derecede donar.' cümlesi bu tekniği yansıtır.",
     "difficulty": 3
   },
   {
@@ -240,99 +32,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764525073252_5",
+    "id": "ai_1764525073252_10",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi karşılaştırma tekniği ile yazılmıştır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi açıklayıcı bir anlatıma örnektir?",
     "options": [
-      "Ali, Ayşe'den daha çalışkandır.",
-      "Bugün hava çok güzel.",
-      "Çiçekler açmaya başladı.",
-      "Kedim mavi gözlü.",
-      "Kitap okumak çok faydalıdır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali, Ayşe'den daha çalışkandır cümlesi, iki nesne arasında bir karşılaştırma yapmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073252_2",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi örnekleme tekniğinin bir özelliğidir?",
-    "options": [
-      "Genel bir kuralı destekler",
-      "Duygusal bir anlatım sunar",
-      "Soyut kavramlar kullanır",
-      "Kısa bir anlatım biçimidir",
-      "Sadece bir cümleyle ifade edilir"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Örnekleme tekniği, genel bir kuralı somut örneklerle desteklemek amacıyla kullanılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183621_6",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Betimleme tekniğinin amacı nedir?",
-    "options": [
-      "Bir olayı anlatmak",
-      "Bir nesneyi tanımak",
-      "Duyguları ifade etmek",
-      "Canlandırma yapmak",
-      "Bir düşünceyi savunmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Betimleme, duygu ve düşüncelerin canlı bir şekilde aktarılması amacıyla kullanılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073254_17",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi kişisel düşünceleri ifade etmede etkilidir?",
-    "options": [
-      "Tanımlayıcı",
-      "Betimleyici",
-      "Öyküleyici",
-      "Açıklayıcı",
-      "İkna edici"
-    ],
-    "correctAnswer": 4,
-    "explanation": "İkna edici anlatım, kişisel düşünceleri ve görüşleri ifade etmede etkili bir tekniktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497577916_2",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "İnsanın en temel arayışlarından biri de mutluluktur. Ancak mutluluk, dış koşullardan çok, içsel bir bakış açısıyla ilgilidir. Epiktetos'un da dediği gibi: 'İnsanları üzen, olayların kendisi değil, olaylar hakkındaki görüşleridir.' Bu söz, asırlar öncesinden bugüne ışık tutuyor. Gerçekten de başımıza gelenleri kontrol edemesek de onlara vereceğimiz tepkiyi ve anlamı kontrol edebiliriz. Bu da mutluluğun anahtarını kendi içimizde arama sorumluluğunu bize yükler.",
-    "options": [
-      "Örnekleme",
-      "Tanık gösterme",
-      "Sayısal verilerden yararlanma",
-      "Karşılaştırma",
-      "Tanımlama"
+      "Güneş doğdu.",
+      "Yaz mevsimi sıcak havalarla gelir.",
+      "Kedim çok sevimli.",
+      "Bu film çok güzeldi.",
+      "Köyümüz çok uzakta."
     ],
     "correctAnswer": 1,
-    "explanation": "Yazar, mutluluğun içsel bir bakış açısıyla ilgili olduğu yönündeki düşüncesini daha inandırıcı kılmak için konuyla ilgili sözü olan bir kişinin, yani filozof Epiktetos'un ismini ve sözünü doğrudan alıntılayarak kullanmıştır. Düşünceyi desteklemek amacıyla alanında uzman veya tanınmış bir kişinin ismini ve sözünü kullanma tekniğine 'tanık gösterme' denir. Parçada Epiktetos ve onun sözü, yazarın tezine tanıklık etmektedir. Bu nedenle doğru cevap B seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_6",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Açıklayıcı anlatımda hangi ögeler ön plandadır?",
-    "options": [
-      "Duygular",
-      "Tanımlar",
-      "Öneriler",
-      "İfadeler",
-      "İzlenimler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Açıklayıcı anlatım, kavramların ve nesnelerin tanımları ile açıklamaları üzerinde yoğunlaşır.",
+    "explanation": "Yaz mevsimi sıcak havalarla gelir cümlesi, bir durumu açıklayan bir ifade olarak tanımlanabilir.",
     "difficulty": 5
   },
   {
@@ -352,323 +64,19 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764520377795_2",
+    "id": "ai_1764497577916_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi örnekleme anlatım tekniğinin bir örneğidir?",
+    "questionText": "Köyün girişindeki yaşlı çınar, asırlardır dimdik ayakta duruyordu. Kollarını iki yana açmış, yorgun yolcuları gölgesine çağıran bir bilge gibiydi. Her bir yaprağı, geçmişten bir anı fısıldıyordu rüzgâra. Çocukluğum bu ağacın gölgesinde geçti. Onun dallarında sallanır, kovuklarında saklambaç oynardık. Şimdi ise o anılar, solgun bir fotoğraf gibi zihnimde asılı duruyor.",
     "options": [
-      "Kediler genelde evcil hayvanlardır.",
-      "Bütün öğrenciler derse zamanında gelmelidir.",
-      "İstanbul, Türkiye'nin en büyük şehridir.",
-      "Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.",
-      "Yaz mevsiminde hava sıcak olur."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Örnekleme, bir durumu veya olayı desteklemek için spesifik örnekler vermek anlamına gelir. 'Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.' cümlesi bu tekniği kullanmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521052829_2",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi açıklayıcı anlatımın bir örneğidir?",
-    "options": [
-      "Yüzümdeki gülümseme, içimdeki mutluluğun bir yansıması.",
-      "O, her zaman en doğru kararı veren kişiydi.",
-      "Bir ağaç, kökleriyle toprağa sıkı sıkı bağlıdır.",
-      "Bu roman, insan ilişkilerini derinlemesine ele alıyor.",
-      "Zaman, durmaksızın akmaktadır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Açıklayıcı anlatım, bir olayı, durumu veya kavramı açıklamak için kullanılır. 'Bir ağaç, kökleriyle toprağa sıkı sıkı bağlıdır.' cümlesi, ağaçların yapısını açıklamaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_10",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi açıklayıcı bir anlatıma örnektir?",
-    "options": [
-      "Güneş doğdu.",
-      "Yaz mevsimi sıcak havalarla gelir.",
-      "Kedim çok sevimli.",
-      "Bu film çok güzeldi.",
-      "Köyümüz çok uzakta."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yaz mevsimi sıcak havalarla gelir cümlesi, bir durumu açıklayan bir ifade olarak tanımlanabilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073255_23",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Hangi anlatım tekniği, okuyucunun duygularına hitap etmeyi amaçlar?",
-    "options": [
-      "Açıklayıcı",
-      "Tanımlayıcı",
-      "İkna edici",
-      "Öyküleyici",
-      "Betimleyici"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Öyküleyici anlatım, okuyucunun duygularına hitap etmeyi amaçlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073254_19",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Hangi anlatım tekniği, olayları bir sıraya koyarak anlatır?",
-    "options": [
-      "Öyküleyici",
-      "Betimleyici",
-      "Açıklayıcı",
-      "İkna edici",
-      "Tanımlayıcı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öyküleyici anlatım, olayları bir sıraya koyarak ve zaman akışına göre anlatmayı hedefler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183622_14",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Açıklayıcı anlatımda hangi yapı sıklıkla kullanılır?",
-    "options": [
-      "Önerme",
-      "Öykü",
-      "Betimleme",
-      "Tanım",
-      "Düşünce"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Açıklayıcı anlatımda tanım yapılarak, kavramların anlamı net bir şekilde ortaya konulur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522183621_7",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi öyküleme ile ilgili bir özellik değildir?",
-    "options": [
-      "Kişisel deneyimlere yer vermek",
-      "Olayların sıralı bir şekilde anlatılması",
-      "Duygusal bir bağ kurmak",
-      "Soyut kavramlar üzerinde durmak",
-      "Karakterlerin gelişimini göstermek"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Öyküleme, genellikle somut olaylara ve karakterlere odaklanır, soyut kavramlar üzerinde durmaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501540019_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Karlı bir kış sabahıydı. Pencereden dışarı baktığımda her yerin bembeyaz bir örtüyle kaplandığını gördüm. Ağaçların dalları karın ağırlığıyla eğilmiş, sanki yorgun savaşçılar gibi duruyorlardı. Uzaklardaki dağların zirveleri, pamuktan bir yorganla örtülmüş gibiydi. Soğuk hava, camda buğu yapmıştı. Sonra sıcak kahvemden bir yudum aldım ve günü planlamaya başladım. \n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
-    "options": [
-      "Öyküleme",
-      "Tartışma",
-      "Betimleme",
-      "Açıklama",
-      "Tanık Gösterme"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Parçada yazar, bir kış sabahı gördüğü manzarayı okuyucunun zihninde canlandırmayı amaçlamaktadır. 'Bembeyaz örtü', 'yorgun savaşçılar gibi duran ağaçlar', 'pamuktan yorgan gibi dağlar' gibi ifadelerle varlıkların ve ortamın nitelikleri, görsel özellikleriyle aktarılmıştır. Metinde 'baktım', 'aldım', 'başladım' gibi eylemler bulunsa da bunlar, asıl amaç olan manzarayı tasvir etmeye hizmet eden yan unsurlardır. Anlatımın temel amacı bir olayı anlatmak (öyküleme) değil, bir durumu veya manzarayı kelimelerle resmetmektir (betimleme). Bu nedenle ağır basan anlatım tekniği betimlemedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_8",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi duyguları ön plana çıkarır?",
-    "options": [
-      "Tanım",
+      "Kişileştirme",
       "Öyküleme",
       "Betimleme",
-      "Açıklama",
-      "İkna etme"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Öyküleme, olayları ve karakterleri bir araya getirerek duygusal bir bağ kurar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183621_9",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi diyalog tekniğinin bir örneğidir?",
-    "options": [
-      "Ali, kitap okudu.",
-      "Ahmet, 'Nasılsın?' diye sordu.",
-      "Bahçedeki çiçekler açtı.",
-      "Kedi, pencereden dışarı baktı.",
-      "Sınıfta ders işleniyor."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Diyalog, iki ya da daha fazla kişinin konuşmasını içerir. 'Ahmet, 'Nasılsın?' diye sordu.' cümlesi bunun örneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519413805_2",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Hangi anlatım tekniği, bir konuyu daha anlaşılır hale getirmek için örnekler ve benzetmeler kullanarak açıklama yapmayı ifade eder?",
-    "options": [
-      "Öyküleme",
-      "Açıklama",
-      "Betimleme",
-      "Yorumlama",
-      "İroni"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Açıklama, bir konuyu detaylandırmak için örnekler ve benzetmeler kullanarak daha anlaşılır hale getirme tekniğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522183621_10",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi tanımlama tekniği ile yazılmıştır?",
-    "options": [
-      "Deniz, çok güzel bir yerde yaşıyor.",
-      "Elma, kırmızı ve tatlı bir meyvedir.",
-      "Ali, sinemaya gitti.",
-      "Kışın kar yağar.",
-      "Kedi, mırıldanarak uyudu."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Tanımlama, bir nesnenin ya da kavramın özelliklerini belirtir. 'Elma, kırmızı ve tatlı bir meyvedir.' cümlesi tanımlayıcıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521052829_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi betimleme tekniği ile yazılmıştır?",
-    "options": [
-      "Gözlerim doldu, onu her düşündüğümde bir şeyler eksik kalıyor.",
-      "Elindeki kalemle sayfanın köşelerini karaladı.",
-      "Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.",
-      "Onunla konuşmak her zaman keyif veriyor.",
-      "Yürürken etraftaki sesleri duymuyordu."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Betimleme, bir nesne, olay veya durumu ayrıntılı bir şekilde anlatma amacı güder. 'Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.' cümlesi bu tanıma uymaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_9",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi ikna edici bir anlatıma örnektir?",
-    "options": [
-      "Dün yağmur yağdı.",
-      "Spor yapmak sağlıklıdır.",
-      "Bu kitap çok güzel.",
-      "Hava çok sıcak.",
-      "Okuldan sonra sinemaya gideceğim."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Spor yapmak sağlıklıdır cümlesi, bir görüşü destekleyerek okuyucuyu ikna etmeye yönelik bir ifade sunar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073255_21",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki ifadelerden hangisi bir öneri içermektedir?",
-    "options": [
-      "Bu yaz tatile gitmeliyiz.",
-      "Hava çok sıcak.",
-      "Kedim mavi gözlü.",
-      "Kitap okumak faydalıdır.",
-      "Gün doğumunu izlemek güzeldir."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu yaz tatile gitmeliyiz ifadesi, bir öneri sunmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073255_24",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi bir öneri olarak değerlendirilemez?",
-    "options": [
-      "Sağlıklı beslenmek önemlidir.",
-      "Okuldan sonra sinemaya gidebiliriz.",
-      "Daha fazla kitap okumalıyız.",
-      "Bu yaz tatile çıkmalıyız.",
-      "Kediler sevimlidir."
+      "Benzetme",
+      "Tartışma"
     ],
     "correctAnswer": 4,
-    "explanation": "Kediler sevimlidir ifadesi, bir öneri değil, bir gözlem veya ifade olarak değerlendirilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073254_18",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi soyut bir kavramı ifade eder?",
-    "options": [
-      "Ağaçlar yeşildir.",
-      "Sevgi insanları bir araya getirir.",
-      "Denizler mavidir.",
-      "Güneş doğar.",
-      "Kediler uysaldır."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sevgi insanları bir araya getirir ifadesi, soyut bir kavram olan sevgi üzerine bir açıklamadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073253_14",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi bir duygunun ifade edildiği cümledir?",
-    "options": [
-      "Bugün hava çok sıcak.",
-      "Kedim çok sevimli.",
-      "Film çok güzeldi.",
-      "Kütüphane sessizdi.",
-      "Bu kitabı okumak çok keyifli."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu kitabı okumak çok keyifli ifadesi, bir duygu ve deneyim aktarmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073252_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
-    "options": [
-      "Tanım",
-      "Örnekleme",
-      "Betimleme",
-      "Soyutlama",
-      "Anlatım"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Soyutlama, bir anlatım tekniği değil, bir kavramı daha genel bir hale getirme işlemidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498876982_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Yolun kenarında, zamana yenik düşmüş iki katlı ahşap ev, yorgun bir bilge gibi suskunluğa bürünmüştü. Kırık pencereleri, hayata küsmüş gözler misali boşluğa bakıyordu. Çatısındaki yosunlar, onun yaşanmışlıklarla dolu saçları gibiydi. Rüzgâr, kırık panjurlarına her çarptığında sanki eski anıları hüzünlü bir şarkı gibi fısıldıyordu.",
-    "options": [
-      "Öyküleme - Karşılaştırma",
-      "Açıklama - Tanımlama",
-      "Betimleme - Kişileştirme",
-      "Tartışma - Örnekleme",
-      "Tanık Gösterme - Benzetme"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Parçada, okuyucunun zihninde bir sahne canlandırılmak istendiği için “betimleme” ağır basmaktadır. Ahşap evin “yorgun bir bilge” gibi olması, pencerelerinin “hayata küsmüş gözler” gibi bakması ve rüzgârın “anıları fısıldaması” gibi ifadelerle cansız varlıklara insani özellikler yüklendiği için “kişileştirme” sanatına başvurulmuştur. Bu iki anlatım tekniği metnin bütününe hâkimdir.",
+    "explanation": "Parçada yazar, bir varlığı veya durumu okuyucunun zihninde canlandırmayı amaçlayan 'betimleme'ye ('yaşlı çınar', 'dimdik ayakta'), olayları bir akış içinde anlatan 'öyküleme'ye ('dallarında sallanır, saklambaç oynardık'), insan dışı bir varlığa insani özellikler yükleyen 'kişileştirme'ye ('kollarını açmış', 'anı fısıldıyordu') ve bir kavramı başka bir varlığın özellikleriyle anlatan 'benzetme'ye ('bilge gibiydi', 'fotoğraf gibi') başvurmuştur. Ancak, bir düşünceyi savunmak veya bir tezi çürütmek amacıyla kullanılan 'tartışma' tekniğine yer verilmemiştir. Bu nedenle doğru cevap E seçeneğidir.",
     "difficulty": 3
   },
   {
@@ -688,211 +96,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764525073252_1",
+    "id": "ai_1764525073252_9",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Betimleyici anlatımda, aşağıdaki unsurlardan hangisi ön plandadır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi ikna edici bir anlatıma örnektir?",
     "options": [
-      "Duygular",
-      "Somut unsurlar",
-      "Soyut düşünceler",
-      "Öneriler",
-      "Görüşler"
+      "Dün yağmur yağdı.",
+      "Spor yapmak sağlıklıdır.",
+      "Bu kitap çok güzel.",
+      "Hava çok sıcak.",
+      "Okuldan sonra sinemaya gideceğim."
     ],
     "correctAnswer": 1,
-    "explanation": "Betimleyici anlatımda somut unsurlar ön plandadır; okuyucunun hayalinde bir resim oluşturulması hedeflenir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183622_12",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Öyküleme tekniğinde hangi unsurlar sıkça yer alır?",
-    "options": [
-      "Karakterler",
-      "Soyut kavramlar",
-      "Mantıksal çıkarımlar",
-      "Duygusal bağlam",
-      "Hepsi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öyküleme, karakterler, olaylar ve duygusal bağlam ile zenginleştirilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497577916_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Köyün girişindeki yaşlı çınar, asırlardır dimdik ayakta duruyordu. Kollarını iki yana açmış, yorgun yolcuları gölgesine çağıran bir bilge gibiydi. Her bir yaprağı, geçmişten bir anı fısıldıyordu rüzgâra. Çocukluğum bu ağacın gölgesinde geçti. Onun dallarında sallanır, kovuklarında saklambaç oynardık. Şimdi ise o anılar, solgun bir fotoğraf gibi zihnimde asılı duruyor.",
-    "options": [
-      "Kişileştirme",
-      "Öyküleme",
-      "Betimleme",
-      "Benzetme",
-      "Tartışma"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Parçada yazar, bir varlığı veya durumu okuyucunun zihninde canlandırmayı amaçlayan 'betimleme'ye ('yaşlı çınar', 'dimdik ayakta'), olayları bir akış içinde anlatan 'öyküleme'ye ('dallarında sallanır, saklambaç oynardık'), insan dışı bir varlığa insani özellikler yükleyen 'kişileştirme'ye ('kollarını açmış', 'anı fısıldıyordu') ve bir kavramı başka bir varlığın özellikleriyle anlatan 'benzetme'ye ('bilge gibiydi', 'fotoğraf gibi') başvurmuştur. Ancak, bir düşünceyi savunmak veya bir tezi çürütmek amacıyla kullanılan 'tartışma' tekniğine yer verilmemiştir. Bu nedenle doğru cevap E seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519413805_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın, durumun veya kişinin yalnızca olumlu yönlerini öne çıkararak anlatılmasını ifade eder?",
-    "options": [
-      "Betimleme",
-      "Soyutlama",
-      "Yüceltme",
-      "Öyküleme",
-      "İroni"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüceltme, bir olayın ya da durumun olumlu yönlerini abartarak ya da sadece bu yönleri vurgulayarak anlatma tekniğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522183620_0",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi bir anlatım tekniği değildir?",
-    "options": [
-      "Tanımlama",
-      "Betimleme",
-      "Öyküleme",
-      "Diyalog",
-      "Açıklama"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Diyalog, bir anlatım tekniği değil, iki ya da daha fazla kişi arasında geçen konuşmadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073255_22",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir durumu canlı bir şekilde aktarır?",
-    "options": [
-      "Tanımlayıcı",
-      "Öyküleyici",
-      "Açıklayıcı",
-      "İkna edici",
-      "Betimleyici"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Betimleyici anlatım, bir durumu canlı ve etkili bir şekilde aktarır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183621_4",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdakilerden hangisi 'açıklama' tekniğinin bir örneğidir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Güneş doğudan doğar.",
-      "Kediler genellikle uykucudurlar.",
-      "Su, 0 derecede donar.",
-      "Oyun oynamak eğlencelidir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Açıklama tekniği, bir olgunun ya da durumun neden-sonuç ilişkisini ortaya koyar. 'Su, 0 derecede donar.' cümlesi bu tekniği yansıtır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_3",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi tanımlayıcı anlatıma örnek teşkil eder?",
-    "options": [
-      "Kedim çok sevimli.",
-      "Hava bugün çok sıcak.",
-      "Ağaçlar baharda çiçek açar.",
-      "Okulumuzun bahçesinde bir çiçek var.",
-      "Mavi gökyüzü beni mutlu ediyor."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kedim çok sevimli cümlesi, bir nesnenin (kedi) özelliklerini tanımlayan bir ifade olduğu için tanımlayıcı anlatıma örnektir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525073253_16",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki ifadelerden hangisi nesnel bir anlatım örneğidir?",
-    "options": [
-      "Bu kedi çok tatlı.",
-      "Bugün hava harika.",
-      "Sıcak hava insanı bunaltır.",
-      "Bu film çok eğlenceliydi.",
-      "Kedim oyun oynamayı sever."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sıcak hava insanı bunaltır ifadesi, nesnel bir durumu açıklamaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498876982_1",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Dijital kitapların pratikliği ve kolay erişilebilirliği sıkça övülür. Binlerce kitabı küçücük bir cihazda taşıma fikri şüphesiz cezbedici. Ancak bu durum, kâğıdın o eşsiz dokusunu, mürekkep kokusunu ve sayfa çevirmenin o tanıdık hissini göz ardı etmektir. Asıl okuma deneyimi, fiziksel bir bağ kurduğumuz kitapla mümkündür. Dijital ekranların yaydığı mavi ışığın göz yorgunluğuna yol açtığı da biliniyor. Bu yüzden teknoloji ne kadar ilerlerse ilerlesin, gerçek kitapseverler için basılı kitabın yeri doldurulamaz.",
-    "options": [
-      "Tartışmacı anlatım tekniği kullanılmıştır.",
-      "Farklı durumlar arasında karşılaştırma yapılmıştır.",
-      "Yazar, düşüncelerini kanıtlama amacı gütmüştür.",
-      "Okuyucuya bilgi vermek amacıyla nesnel bir dil kullanılmıştır.",
-      "Metnin genelinde öznel yargılara yer verilmiştir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parçada yazar, dijital kitap ve basılı kitap konusundaki iki farklı görüşü ele alıp kendi tezini (basılı kitabın üstünlüğünü) savunmaktadır. Bu durum “tartışmacı anlatım” olduğunu gösterir (A seçeneği doğrudur). Dijital ve basılı kitaplar çeşitli yönleriyle kıyaslandığı için “karşılaştırma” yapılmıştır (B seçeneği doğrudur). Yazar, “Asıl okuma deneyimi...”, “yeri doldurulamaz” gibi ifadelerle kendi görüşünü savunduğu için metin “öznel” bir nitelik taşır (E seçeneği doğrudur) ve okuyucuyu ikna etmeye çalıştığı için “kanıtlama amacı” güder (C seçeneği doğrudur). Ancak yazar, nesnel bir dille sadece bilgi vermeyi değil, kendi öznel görüşünü kabul ettirmeyi amaçladığı için D seçeneğindeki ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_11",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir durumu detaylı bir şekilde aktarır?",
-    "options": [
-      "Betimleyici anlatım",
-      "Öyküleyici anlatım",
-      "Açıklayıcı anlatım",
-      "İkna edici anlatım",
-      "Tanımlayıcı anlatım"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Betimleyici anlatım, bir durumu detaylı ve canlı bir şekilde aktarmayı amaçlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522183621_2",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi betimleme tekniği ile yazılmıştır?",
-    "options": [
-      "Ali, kitap okudu.",
-      "Deniz, gürültülü bir şekilde çarptı.",
-      "Kedi, pencereden dışarı baktı.",
-      "Bahçedeki çiçekler açmaya başladı.",
-      "Yaz güneşi sıcak bir şekilde parlıyordu."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Betimleme, gözlemlerle oluşturulan canlı ve detaylı tasvirlerdir. 'Yaz güneşi sıcak bir şekilde parlıyordu.' cümlesi bunu ifade eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525073252_4",
-    "subjectId": "tur",
-    "topic": "Anlatım Teknikleri",
-    "questionText": "Süreklilik, aşağıdaki hangi anlatım tekniğinin bir özelliğidir?",
-    "options": [
-      "Öyküleyici anlatım",
-      "Betimleyici anlatım",
-      "Açıklayıcı anlatım",
-      "İkna edici anlatım",
-      "Düşünsel anlatım"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Öyküleyici anlatım, sürekliliği olan olay ve durumları anlatma amacını taşır.",
+    "explanation": "Spor yapmak sağlıklıdır cümlesi, bir görüşü destekleyerek okuyucuyu ikna etmeye yönelik bir ifade sunar.",
     "difficulty": 5
   },
   {
@@ -912,52 +128,292 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520377795_1",
+    "id": "ai_1764500245934_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Yazarın bir nesneyi, olayı ya da durumu tüm ayrıntılarıyla, okuyucunun zihninde canlandıracak şekilde anlatmasına ne denir?",
+    "questionText": "Kapıyı yavaşça araladı. Odanın ortasında, ceviz ağacından yapılmış masanın üzerinde antika bir gaz lambası duruyordu. Lambanın titrek ışığı, duvardaki solgun portrelere vuruyor, zamanın yüzlerde açtığı derin çizgileri daha da belirginleştiriyordu. Adam, parke zeminde hiç ses çıkarmadan masaya doğru ilerledi, parmak uçlarıyla lambanın soğuk camına dokundu. Bu odanın havasında yılların birikmiş hüznü ve anıları saklı gibiydi.",
     "options": [
+      "Öyküleme",
+      "Açıklama",
       "Betimleme",
-      "Tanımlama",
-      "Örnekleme",
-      "İkna etme",
-      "Eleştiri"
+      "Tartışma",
+      "Karşılaştırma"
     ],
-    "correctAnswer": 0,
-    "explanation": "Betimleme, bir nesne veya durumu ayrıntılı bir şekilde tasvir ederek okuyucunun zihninde canlandırmayı amaçlar.",
+    "correctAnswer": 2,
+    "explanation": "Paragrafta bir olay akışı (kapıyı aralamak, ilerlemek, dokunmak) olsa da yazarın asıl amacı, okuyucunun zihninde bir sahne canlandırmaktır. Odanın, masanın, lambanın ve portrelerin görsel özelliklerini ayrıntılarıyla vererek bir atmosfer oluşturmaya odaklanılmıştır. Varlıklar ve mekan, ayırt edici nitelikleriyle anlatıldığı için ağır basan anlatım tekniği betimlemedir. Öyküleme, betimlemeye hizmet eden bir araç olarak kullanılmıştır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764526242762_0",
+    "id": "ai_1764525073252_6",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi betimleyici anlatım tekniğiyle yazılmıştır?",
+    "questionText": "Açıklayıcı anlatımda hangi ögeler ön plandadır?",
     "options": [
-      "Hava çok sıcak olduğu için dışarı çıkmadım.",
-      "Ali, elma ağacının altında oturup kitabını okudu.",
-      "Düşüncelerimi bir kağıda döktüm.",
-      "Zaman zaman başım ağrıyor.",
-      "Hızla akan nehir, kıyıları aşındırıyordu."
+      "Duygular",
+      "Tanımlar",
+      "Öneriler",
+      "İfadeler",
+      "İzlenimler"
     ],
-    "correctAnswer": 4,
-    "explanation": "Betimleyici anlatım, gözlemlerle zenginleştirilen bir anlatım tekniğidir. 'Hızla akan nehir, kıyıları aşındırıyordu.' cümlesi, nehrin durumu hakkında görsel bir tasvir sunarak betimleyici bir anlatım örneğidir.",
+    "correctAnswer": 1,
+    "explanation": "Açıklayıcı anlatım, kavramların ve nesnelerin tanımları ile açıklamaları üzerinde yoğunlaşır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522183621_6",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Betimleme tekniğinin amacı nedir?",
+    "options": [
+      "Bir olayı anlatmak",
+      "Bir nesneyi tanımak",
+      "Duyguları ifade etmek",
+      "Canlandırma yapmak",
+      "Bir düşünceyi savunmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Betimleme, duygu ve düşüncelerin canlı bir şekilde aktarılması amacıyla kullanılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073254_18",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi soyut bir kavramı ifade eder?",
+    "options": [
+      "Ağaçlar yeşildir.",
+      "Sevgi insanları bir araya getirir.",
+      "Denizler mavidir.",
+      "Güneş doğar.",
+      "Kediler uysaldır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sevgi insanları bir araya getirir ifadesi, soyut bir kavram olan sevgi üzerine bir açıklamadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522183622_14",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Açıklayıcı anlatımda hangi yapı sıklıkla kullanılır?",
+    "options": [
+      "Önerme",
+      "Öykü",
+      "Betimleme",
+      "Tanım",
+      "Düşünce"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Açıklayıcı anlatımda tanım yapılarak, kavramların anlamı net bir şekilde ortaya konulur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498876982_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Dijital kitapların pratikliği ve kolay erişilebilirliği sıkça övülür. Binlerce kitabı küçücük bir cihazda taşıma fikri şüphesiz cezbedici. Ancak bu durum, kâğıdın o eşsiz dokusunu, mürekkep kokusunu ve sayfa çevirmenin o tanıdık hissini göz ardı etmektir. Asıl okuma deneyimi, fiziksel bir bağ kurduğumuz kitapla mümkündür. Dijital ekranların yaydığı mavi ışığın göz yorgunluğuna yol açtığı da biliniyor. Bu yüzden teknoloji ne kadar ilerlerse ilerlesin, gerçek kitapseverler için basılı kitabın yeri doldurulamaz.",
+    "options": [
+      "Tartışmacı anlatım tekniği kullanılmıştır.",
+      "Farklı durumlar arasında karşılaştırma yapılmıştır.",
+      "Yazar, düşüncelerini kanıtlama amacı gütmüştür.",
+      "Okuyucuya bilgi vermek amacıyla nesnel bir dil kullanılmıştır.",
+      "Metnin genelinde öznel yargılara yer verilmiştir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parçada yazar, dijital kitap ve basılı kitap konusundaki iki farklı görüşü ele alıp kendi tezini (basılı kitabın üstünlüğünü) savunmaktadır. Bu durum “tartışmacı anlatım” olduğunu gösterir (A seçeneği doğrudur). Dijital ve basılı kitaplar çeşitli yönleriyle kıyaslandığı için “karşılaştırma” yapılmıştır (B seçeneği doğrudur). Yazar, “Asıl okuma deneyimi...”, “yeri doldurulamaz” gibi ifadelerle kendi görüşünü savunduğu için metin “öznel” bir nitelik taşır (E seçeneği doğrudur) ve okuyucuyu ikna etmeye çalıştığı için “kanıtlama amacı” güder (C seçeneği doğrudur). Ancak yazar, nesnel bir dille sadece bilgi vermeyi değil, kendi öznel görüşünü kabul ettirmeyi amaçladığı için D seçeneğindeki ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073253_15",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Hangi anlatım tekniği, bir durumu daha etkili hale getirmek için örnekler kullanır?",
+    "options": [
+      "Açıklayıcı",
+      "Tanımlayıcı",
+      "Öyküleyici",
+      "Örnekleyici",
+      "Betimleyici"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Örnekleyici anlatım, bir durumu daha etkili açıklamak için örnekler kullanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073253_16",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki ifadelerden hangisi nesnel bir anlatım örneğidir?",
+    "options": [
+      "Bu kedi çok tatlı.",
+      "Bugün hava harika.",
+      "Sıcak hava insanı bunaltır.",
+      "Bu film çok eğlenceliydi.",
+      "Kedim oyun oynamayı sever."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sıcak hava insanı bunaltır ifadesi, nesnel bir durumu açıklamaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526242762_5",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı anlatım tekniği ile yazılmıştır?",
+    "options": [
+      "Ali, yarın sinemaya gidecek.",
+      "Ahmet, toplantıdan sonra eve döneceğini söyledi.",
+      "Ayşe, kitabını okumayı çok seviyor.",
+      "Bugün hava çok soğuk.",
+      "Köpek, bahçede koşuyor."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı anlatım, birinin sözlerini veya düşüncelerini dolaylı olarak aktarma yöntemidir. 'Ahmet, toplantıdan sonra eve döneceğini söyledi.' cümlesi, Ahmet'in sözlerini dolaylı olarak aktarmaktadır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764526242762_1",
+    "id": "ai_1764525073255_24",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi açıklayıcı anlatım tekniği ile yazılmıştır?",
+    "questionText": "Aşağıdakilerden hangisi bir öneri olarak değerlendirilemez?",
     "options": [
-      "Güneş yavaşça batmaya başladı.",
-      "Bu eser, sanat tarihinin önemli bir parçasıdır.",
-      "Kedi, yavaşça pencereden dışarı baktı.",
-      "Bahar ayında doğanın canlandığını hepimiz biliyoruz.",
-      "Kütüphane, sessiz bir ortam sunar."
+      "Sağlıklı beslenmek önemlidir.",
+      "Okuldan sonra sinemaya gidebiliriz.",
+      "Daha fazla kitap okumalıyız.",
+      "Bu yaz tatile çıkmalıyız.",
+      "Kediler sevimlidir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kediler sevimlidir ifadesi, bir öneri değil, bir gözlem veya ifade olarak değerlendirilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521052829_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi betimleme tekniği ile yazılmıştır?",
+    "options": [
+      "Gözlerim doldu, onu her düşündüğümde bir şeyler eksik kalıyor.",
+      "Elindeki kalemle sayfanın köşelerini karaladı.",
+      "Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.",
+      "Onunla konuşmak her zaman keyif veriyor.",
+      "Yürürken etraftaki sesleri duymuyordu."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Betimleme, bir nesne, olay veya durumu ayrıntılı bir şekilde anlatma amacı güder. 'Güneş, doğudan yavaşça yükseldi ve tüm dünyayı aydınlattı.' cümlesi bu tanıma uymaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183621_11",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi bir anlatım tekniği olarak kabul edilmez?",
+    "options": [
+      "Betimleme",
+      "Açıklama",
+      "Öyküleme",
+      "Diyalog",
+      "Cümle kurma"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cümle kurma, bir anlatım tekniği değil, dilin temel yapı taşlarından biridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183621_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi betimleme tekniği ile yazılmıştır?",
+    "options": [
+      "Ali, kitap okudu.",
+      "Deniz, gürültülü bir şekilde çarptı.",
+      "Kedi, pencereden dışarı baktı.",
+      "Bahçedeki çiçekler açmaya başladı.",
+      "Yaz güneşi sıcak bir şekilde parlıyordu."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Betimleme, gözlemlerle oluşturulan canlı ve detaylı tasvirlerdir. 'Yaz güneşi sıcak bir şekilde parlıyordu.' cümlesi bunu ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073255_23",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Hangi anlatım tekniği, okuyucunun duygularına hitap etmeyi amaçlar?",
+    "options": [
+      "Açıklayıcı",
+      "Tanımlayıcı",
+      "İkna edici",
+      "Öyküleyici",
+      "Betimleyici"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Öyküleyici anlatım, okuyucunun duygularına hitap etmeyi amaçlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521052829_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi açıklayıcı anlatımın bir örneğidir?",
+    "options": [
+      "Yüzümdeki gülümseme, içimdeki mutluluğun bir yansıması.",
+      "O, her zaman en doğru kararı veren kişiydi.",
+      "Bir ağaç, kökleriyle toprağa sıkı sıkı bağlıdır.",
+      "Bu roman, insan ilişkilerini derinlemesine ele alıyor.",
+      "Zaman, durmaksızın akmaktadır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Açıklayıcı anlatım, bir olayı, durumu veya kavramı açıklamak için kullanılır. 'Bir ağaç, kökleriyle toprağa sıkı sıkı bağlıdır.' cümlesi, ağaçların yapısını açıklamaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183621_9",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi diyalog tekniğinin bir örneğidir?",
+    "options": [
+      "Ali, kitap okudu.",
+      "Ahmet, 'Nasılsın?' diye sordu.",
+      "Bahçedeki çiçekler açtı.",
+      "Kedi, pencereden dışarı baktı.",
+      "Sınıfta ders işleniyor."
     ],
     "correctAnswer": 1,
-    "explanation": "Açıklayıcı anlatım, bir fikri veya nesneyi daha iyi anlamak için bilgi vermeyi amaçlar. 'Bu eser, sanat tarihinin önemli bir parçasıdır.' cümlesi, bir eserin önemini açıklayan bir anlatım örneğidir.",
-    "difficulty": 4
+    "explanation": "Diyalog, iki ya da daha fazla kişinin konuşmasını içerir. 'Ahmet, 'Nasılsın?' diye sordu.' cümlesi bunun örneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073253_13",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki ifadelerden hangisi bir tanım örneğidir?",
+    "options": [
+      "Elma, tatlı ve sulu bir meyvedir.",
+      "Hava çok sıcak.",
+      "Kedim mavi gözlü.",
+      "Okuldan sonra sinemaya gideceğim.",
+      "Çiçekler açmaya başladı."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elma, tatlı ve sulu bir meyvedir ifadesi, elmanın tanımını yapmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073252_7",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi betimleyici bir anlatım örneğidir?",
+    "options": [
+      "Köyümüz çok güzel bir yer.",
+      "Hava bugün yağmurlu.",
+      "Kitap okumak çok faydalıdır.",
+      "Deniz dalgalıydı.",
+      "Kediler genellikle yumuşak tüyleriyle bilinir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Köyümüz çok güzel bir yer cümlesi, betimleyici bir anlatım örneği olarak doğrudan bir yerin güzelliğini ifade eder.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764526242762_2",
@@ -992,6 +448,102 @@
     "difficulty": 4
   },
   {
+    "id": "ai_1764525073252_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
+    "options": [
+      "Tanım",
+      "Örnekleme",
+      "Betimleme",
+      "Soyutlama",
+      "Anlatım"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Soyutlama, bir anlatım tekniği değil, bir kavramı daha genel bir hale getirme işlemidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522183622_12",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Öyküleme tekniğinde hangi unsurlar sıkça yer alır?",
+    "options": [
+      "Karakterler",
+      "Soyut kavramlar",
+      "Mantıksal çıkarımlar",
+      "Duygusal bağlam",
+      "Hepsi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Öyküleme, karakterler, olaylar ve duygusal bağlam ile zenginleştirilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519413805_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın, durumun veya kişinin yalnızca olumlu yönlerini öne çıkararak anlatılmasını ifade eder?",
+    "options": [
+      "Betimleme",
+      "Soyutlama",
+      "Yüceltme",
+      "Öyküleme",
+      "İroni"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüceltme, bir olayın ya da durumun olumlu yönlerini abartarak ya da sadece bu yönleri vurgulayarak anlatma tekniğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073255_22",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir durumu canlı bir şekilde aktarır?",
+    "options": [
+      "Tanımlayıcı",
+      "Öyküleyici",
+      "Açıklayıcı",
+      "İkna edici",
+      "Betimleyici"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Betimleyici anlatım, bir durumu canlı ve etkili bir şekilde aktarır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526242762_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi betimleyici anlatım tekniğiyle yazılmıştır?",
+    "options": [
+      "Hava çok sıcak olduğu için dışarı çıkmadım.",
+      "Ali, elma ağacının altında oturup kitabını okudu.",
+      "Düşüncelerimi bir kağıda döktüm.",
+      "Zaman zaman başım ağrıyor.",
+      "Hızla akan nehir, kıyıları aşındırıyordu."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Betimleyici anlatım, gözlemlerle zenginleştirilen bir anlatım tekniğidir. 'Hızla akan nehir, kıyıları aşındırıyordu.' cümlesi, nehrin durumu hakkında görsel bir tasvir sunarak betimleyici bir anlatım örneğidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764497577916_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "İnsanın en temel arayışlarından biri de mutluluktur. Ancak mutluluk, dış koşullardan çok, içsel bir bakış açısıyla ilgilidir. Epiktetos'un da dediği gibi: 'İnsanları üzen, olayların kendisi değil, olaylar hakkındaki görüşleridir.' Bu söz, asırlar öncesinden bugüne ışık tutuyor. Gerçekten de başımıza gelenleri kontrol edemesek de onlara vereceğimiz tepkiyi ve anlamı kontrol edebiliriz. Bu da mutluluğun anahtarını kendi içimizde arama sorumluluğunu bize yükler.",
+    "options": [
+      "Örnekleme",
+      "Tanık gösterme",
+      "Sayısal verilerden yararlanma",
+      "Karşılaştırma",
+      "Tanımlama"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yazar, mutluluğun içsel bir bakış açısıyla ilgili olduğu yönündeki düşüncesini daha inandırıcı kılmak için konuyla ilgili sözü olan bir kişinin, yani filozof Epiktetos'un ismini ve sözünü doğrudan alıntılayarak kullanmıştır. Düşünceyi desteklemek amacıyla alanında uzman veya tanınmış bir kişinin ismini ve sözünü kullanma tekniğine 'tanık gösterme' denir. Parçada Epiktetos ve onun sözü, yazarın tezine tanıklık etmektedir. Bu nedenle doğru cevap B seçeneğidir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764526242762_4",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
@@ -1008,19 +560,467 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526242762_5",
+    "id": "ai_1764525073252_2",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı anlatım tekniği ile yazılmıştır?",
+    "questionText": "Aşağıdakilerden hangisi örnekleme tekniğinin bir özelliğidir?",
     "options": [
-      "Ali, yarın sinemaya gidecek.",
-      "Ahmet, toplantıdan sonra eve döneceğini söyledi.",
-      "Ayşe, kitabını okumayı çok seviyor.",
-      "Bugün hava çok soğuk.",
-      "Köpek, bahçede koşuyor."
+      "Genel bir kuralı destekler",
+      "Duygusal bir anlatım sunar",
+      "Soyut kavramlar kullanır",
+      "Kısa bir anlatım biçimidir",
+      "Sadece bir cümleyle ifade edilir"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Örnekleme tekniği, genel bir kuralı somut örneklerle desteklemek amacıyla kullanılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520377795_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Yazarın bir nesneyi, olayı ya da durumu tüm ayrıntılarıyla, okuyucunun zihninde canlandıracak şekilde anlatmasına ne denir?",
+    "options": [
+      "Betimleme",
+      "Tanımlama",
+      "Örnekleme",
+      "İkna etme",
+      "Eleştiri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Betimleme, bir nesne veya durumu ayrıntılı bir şekilde tasvir ederek okuyucunun zihninde canlandırmayı amaçlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497577916_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Bazı eleştirmenler, romanın temel işlevinin topluma ayna tutmak olduğunu öne sürer. Onlara göre yazar, bir sosyolog titizliğiyle çevresini gözlemlemeli ve eserine yansıtmalıdır. Ancak bu görüş, sanatın yaratıcı ve öznel doğasını göz ardı etmektedir. Roman, bir toplumun fotoğrafı olmak zorunda değildir; aksine, yazarın hayal gücünün ve üslubunun bir ürünü olarak bambaşka dünyalar da sunabilir. Sanatı salt bir yansıtma aracına indirgemek, onun ruhunu öldürmektir.",
+    "options": [
+      "Açıklama",
+      "Öyküleme",
+      "Tartışma",
+      "Tanık gösterme",
+      "Betimleme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada yazar, önce genel kabul gören bir görüşü ('romanın topluma ayna tutması') ortaya koymaktadır. Ardından 'Ancak bu görüş...' ifadesiyle bu teze karşı çıkarak kendi düşüncesini ('sanatın yaratıcı ve öznel doğası') savunmaya başlamaktadır. Yazar, iki farklı düşünceyi karşılaştırıp kendi tezini kanıtlamaya çalıştığı için parçada ağır basan anlatım tekniği 'tartışma'dır. Açıklama, bilgi vermeyi amaçlarken tartışma, bir fikri savunmayı veya çürütmeyi hedefler. Bu metinde yazarın amacı bilgi vermek değil, bir görüşe karşı kendi fikrini savunmaktır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073252_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Betimleyici anlatımda, aşağıdaki unsurlardan hangisi ön plandadır?",
+    "options": [
+      "Duygular",
+      "Somut unsurlar",
+      "Soyut düşünceler",
+      "Öneriler",
+      "Görüşler"
     ],
     "correctAnswer": 1,
-    "explanation": "Dolaylı anlatım, birinin sözlerini veya düşüncelerini dolaylı olarak aktarma yöntemidir. 'Ahmet, toplantıdan sonra eve döneceğini söyledi.' cümlesi, Ahmet'in sözlerini dolaylı olarak aktarmaktadır.",
+    "explanation": "Betimleyici anlatımda somut unsurlar ön plandadır; okuyucunun hayalinde bir resim oluşturulması hedeflenir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520377795_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi örnekleme anlatım tekniğinin bir örneğidir?",
+    "options": [
+      "Kediler genelde evcil hayvanlardır.",
+      "Bütün öğrenciler derse zamanında gelmelidir.",
+      "İstanbul, Türkiye'nin en büyük şehridir.",
+      "Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.",
+      "Yaz mevsiminde hava sıcak olur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Örnekleme, bir durumu veya olayı desteklemek için spesifik örnekler vermek anlamına gelir. 'Kediler, evde beslenebilen hayvanlardır; örneğin, Maviş ve Pamuk.' cümlesi bu tekniği kullanmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183621_8",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Açıklayıcı anlatımda hangi unsurlar sıkça kullanılır?",
+    "options": [
+      "Duygular",
+      "Gözlemler",
+      "Tanımlamalar",
+      "Tartışmalar",
+      "Hayaller"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Açıklayıcı anlatım, genellikle tanımlamalar ve somut bilgilerle desteklenir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519413805_2",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Hangi anlatım tekniği, bir konuyu daha anlaşılır hale getirmek için örnekler ve benzetmeler kullanarak açıklama yapmayı ifade eder?",
+    "options": [
+      "Öyküleme",
+      "Açıklama",
+      "Betimleme",
+      "Yorumlama",
+      "İroni"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Açıklama, bir konuyu detaylandırmak için örnekler ve benzetmeler kullanarak daha anlaşılır hale getirme tekniğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073252_11",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir durumu detaylı bir şekilde aktarır?",
+    "options": [
+      "Betimleyici anlatım",
+      "Öyküleyici anlatım",
+      "Açıklayıcı anlatım",
+      "İkna edici anlatım",
+      "Tanımlayıcı anlatım"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Betimleyici anlatım, bir durumu detaylı ve canlı bir şekilde aktarmayı amaçlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522183621_7",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi öyküleme ile ilgili bir özellik değildir?",
+    "options": [
+      "Kişisel deneyimlere yer vermek",
+      "Olayların sıralı bir şekilde anlatılması",
+      "Duygusal bir bağ kurmak",
+      "Soyut kavramlar üzerinde durmak",
+      "Karakterlerin gelişimini göstermek"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Öyküleme, genellikle somut olaylara ve karakterlere odaklanır, soyut kavramlar üzerinde durmaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073252_8",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi duyguları ön plana çıkarır?",
+    "options": [
+      "Tanım",
+      "Öyküleme",
+      "Betimleme",
+      "Açıklama",
+      "İkna etme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Öyküleme, olayları ve karakterleri bir araya getirerek duygusal bir bağ kurar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073255_21",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki ifadelerden hangisi bir öneri içermektedir?",
+    "options": [
+      "Bu yaz tatile gitmeliyiz.",
+      "Hava çok sıcak.",
+      "Kedim mavi gözlü.",
+      "Kitap okumak faydalıdır.",
+      "Gün doğumunu izlemek güzeldir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu yaz tatile gitmeliyiz ifadesi, bir öneri sunmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501540019_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Karlı bir kış sabahıydı. Pencereden dışarı baktığımda her yerin bembeyaz bir örtüyle kaplandığını gördüm. Ağaçların dalları karın ağırlığıyla eğilmiş, sanki yorgun savaşçılar gibi duruyorlardı. Uzaklardaki dağların zirveleri, pamuktan bir yorganla örtülmüş gibiydi. Soğuk hava, camda buğu yapmıştı. Sonra sıcak kahvemden bir yudum aldım ve günü planlamaya başladım. \n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
+    "options": [
+      "Öyküleme",
+      "Tartışma",
+      "Betimleme",
+      "Açıklama",
+      "Tanık Gösterme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada yazar, bir kış sabahı gördüğü manzarayı okuyucunun zihninde canlandırmayı amaçlamaktadır. 'Bembeyaz örtü', 'yorgun savaşçılar gibi duran ağaçlar', 'pamuktan yorgan gibi dağlar' gibi ifadelerle varlıkların ve ortamın nitelikleri, görsel özellikleriyle aktarılmıştır. Metinde 'baktım', 'aldım', 'başladım' gibi eylemler bulunsa da bunlar, asıl amaç olan manzarayı tasvir etmeye hizmet eden yan unsurlardır. Anlatımın temel amacı bir olayı anlatmak (öyküleme) değil, bir durumu veya manzarayı kelimelerle resmetmektir (betimleme). Bu nedenle ağır basan anlatım tekniği betimlemedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183621_10",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi tanımlama tekniği ile yazılmıştır?",
+    "options": [
+      "Deniz, çok güzel bir yerde yaşıyor.",
+      "Elma, kırmızı ve tatlı bir meyvedir.",
+      "Ali, sinemaya gitti.",
+      "Kışın kar yağar.",
+      "Kedi, mırıldanarak uyudu."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tanımlama, bir nesnenin ya da kavramın özelliklerini belirtir. 'Elma, kırmızı ve tatlı bir meyvedir.' cümlesi tanımlayıcıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519413805_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi bir metinde okuyucuya bir durumu algılatmak için kullanılan, mecaz anlam içeren ifadeleri tanımlar?",
+    "options": [
+      "Açıklama",
+      "Tanımlama",
+      "Betimleme",
+      "İmaj",
+      "Sembolizm"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sembolizm, bir durumu ya da duyguyu ifade etmek için mecaz anlam taşıyan sembollerin kullanılmasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498876982_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Yolun kenarında, zamana yenik düşmüş iki katlı ahşap ev, yorgun bir bilge gibi suskunluğa bürünmüştü. Kırık pencereleri, hayata küsmüş gözler misali boşluğa bakıyordu. Çatısındaki yosunlar, onun yaşanmışlıklarla dolu saçları gibiydi. Rüzgâr, kırık panjurlarına her çarptığında sanki eski anıları hüzünlü bir şarkı gibi fısıldıyordu.",
+    "options": [
+      "Öyküleme - Karşılaştırma",
+      "Açıklama - Tanımlama",
+      "Betimleme - Kişileştirme",
+      "Tartışma - Örnekleme",
+      "Tanık Gösterme - Benzetme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada, okuyucunun zihninde bir sahne canlandırılmak istendiği için “betimleme” ağır basmaktadır. Ahşap evin “yorgun bir bilge” gibi olması, pencerelerinin “hayata küsmüş gözler” gibi bakması ve rüzgârın “anıları fısıldaması” gibi ifadelerle cansız varlıklara insani özellikler yüklendiği için “kişileştirme” sanatına başvurulmuştur. Bu iki anlatım tekniği metnin bütününe hâkimdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521052829_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi anlatım tekniklerinden biri değildir?",
+    "options": [
+      "Öyküleme",
+      "Betimleme",
+      "Açıklama",
+      "Eleştiri",
+      "Tanımlama"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Eleştiri, bir anlatım tekniği olarak kabul edilmez; daha çok bir değerlendirme veya yorumlama biçimidir. Diğer şıklar ise anlatım tekniklerindendir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073252_4",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Süreklilik, aşağıdaki hangi anlatım tekniğinin bir özelliğidir?",
+    "options": [
+      "Öyküleyici anlatım",
+      "Betimleyici anlatım",
+      "Açıklayıcı anlatım",
+      "İkna edici anlatım",
+      "Düşünsel anlatım"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Öyküleyici anlatım, sürekliliği olan olay ve durumları anlatma amacını taşır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073254_17",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi kişisel düşünceleri ifade etmede etkilidir?",
+    "options": [
+      "Tanımlayıcı",
+      "Betimleyici",
+      "Öyküleyici",
+      "Açıklayıcı",
+      "İkna edici"
+    ],
+    "correctAnswer": 4,
+    "explanation": "İkna edici anlatım, kişisel düşünceleri ve görüşleri ifade etmede etkili bir tekniktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073252_3",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi tanımlayıcı anlatıma örnek teşkil eder?",
+    "options": [
+      "Kedim çok sevimli.",
+      "Hava bugün çok sıcak.",
+      "Ağaçlar baharda çiçek açar.",
+      "Okulumuzun bahçesinde bir çiçek var.",
+      "Mavi gökyüzü beni mutlu ediyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kedim çok sevimli cümlesi, bir nesnenin (kedi) özelliklerini tanımlayan bir ifade olduğu için tanımlayıcı anlatıma örnektir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073252_5",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi karşılaştırma tekniği ile yazılmıştır?",
+    "options": [
+      "Ali, Ayşe'den daha çalışkandır.",
+      "Bugün hava çok güzel.",
+      "Çiçekler açmaya başladı.",
+      "Kedim mavi gözlü.",
+      "Kitap okumak çok faydalıdır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali, Ayşe'den daha çalışkandır cümlesi, iki nesne arasında bir karşılaştırma yapmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520377792_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki anlatım tekniklerinden hangisi bir olayın neden-sonuç ilişkisini açıklamak amacıyla kullanılır?",
+    "options": [
+      "Tanımlama",
+      "Örnekleme",
+      "Karşılaştırma",
+      "Açıklama",
+      "Betimleme"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Açıklama, bir olayın neden-sonuç ilişkisini net bir şekilde ortaya koymak için kullanılan anlatım tekniğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183620_0",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi bir anlatım tekniği değildir?",
+    "options": [
+      "Tanımlama",
+      "Betimleme",
+      "Öyküleme",
+      "Diyalog",
+      "Açıklama"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Diyalog, bir anlatım tekniği değil, iki ya da daha fazla kişi arasında geçen konuşmadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522183621_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Açıklayıcı bir anlatım tekniği olan 'tanımlama' neyi ifade eder?",
+    "options": [
+      "Bir olayın anlatılması",
+      "Bir nesnenin özelliklerinin belirtilmesi",
+      "Bir karakterin duygularının ifade edilmesi",
+      "Bir hikayenin kurgulanması",
+      "Bir düşüncenin sorgulanması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tanımlama, bir nesne ya da kavramın detaylı bir şekilde açıklanmasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526242762_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi açıklayıcı anlatım tekniği ile yazılmıştır?",
+    "options": [
+      "Güneş yavaşça batmaya başladı.",
+      "Bu eser, sanat tarihinin önemli bir parçasıdır.",
+      "Kedi, yavaşça pencereden dışarı baktı.",
+      "Bahar ayında doğanın canlandığını hepimiz biliyoruz.",
+      "Kütüphane, sessiz bir ortam sunar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Açıklayıcı anlatım, bir fikri veya nesneyi daha iyi anlamak için bilgi vermeyi amaçlar. 'Bu eser, sanat tarihinin önemli bir parçasıdır.' cümlesi, bir eserin önemini açıklayan bir anlatım örneğidir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764525073254_19",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Hangi anlatım tekniği, olayları bir sıraya koyarak anlatır?",
+    "options": [
+      "Öyküleyici",
+      "Betimleyici",
+      "Açıklayıcı",
+      "İkna edici",
+      "Tanımlayıcı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Öyküleyici anlatım, olayları bir sıraya koyarak ve zaman akışına göre anlatmayı hedefler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500245934_1",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Ali, masasında oturmuş, önündeki boş kağıda bakıyordu. Son teslim tarihi yarındı ama aklına tek bir kelime bile gelmiyordu. Bu projenin kariyeri için ne kadar önemli olduğunu biliyordu ve bu bilgi omuzlarına ağır bir yük bindiriyordu. Başarısız olma düşüncesi zihnini bir zehir gibi sarmıştı. Yıllardır kurduğu hayallerin bir anda yıkılmasından ölesiye korkuyor, içindeki sesin 'Yapamayacaksın!' diye bağırdığını duyuyordu sanki. Bu korku, mantıklı düşünme yetisini neredeyse tamamen elinden almıştı.",
+    "options": [
+      "Bilinç akışı",
+      "İç konuşma (iç monolog)",
+      "Geriye dönüş",
+      "İç çözümleme",
+      "Diyalog"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu paragrafta, anlatıcı üçüncü kişidir (O anlatıcı). Anlatıcı, kahraman Ali'nin zihninin içine girerek onun düşüncelerini, korkularını ve ruhsal durumunu okuyucuya aktarmaktadır. Ali'nin düşünceleri, 'Ben korkuyorum, yapamayacağım.' gibi doğrudan kendi ağzından değil, anlatıcının süzgecinden geçirilerek '...ölesiye korkuyor, ...elinden almıştı.' gibi ifadelerle anlatılmıştır. Kahramanın iç dünyasının, psikolojisinin anlatıcı tarafından tahlil edilerek sunulması tekniğine 'iç çözümleme' denir. Eğer bu düşünceler, araya anlatıcı girmeden, birinci tekil şahıs ağzından aktarılsaydı 'iç konuşma' olurdu.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525073253_14",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdakilerden hangisi bir duygunun ifade edildiği cümledir?",
+    "options": [
+      "Bugün hava çok sıcak.",
+      "Kedim çok sevimli.",
+      "Film çok güzeldi.",
+      "Kütüphane sessizdi.",
+      "Bu kitabı okumak çok keyifli."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bu kitabı okumak çok keyifli ifadesi, bir duygu ve deneyim aktarmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525073254_20",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi açıklayıcı bir anlatım örneğidir?",
+    "options": [
+      "Kedim çok sevimli.",
+      "Hava bugün çok sıcak.",
+      "Yaz mevsimi, güneşli günlerin yaşandığı bir dönemdir.",
+      "Bu kitap çok güzeldi.",
+      "Köydeki yaşam çok güzeldir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yaz mevsimi, güneşli günlerin yaşandığı bir dönemdir cümlesi, açıklayıcı bir bilgi vermektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522183622_13",
+    "subjectId": "tur",
+    "topic": "Anlatım Teknikleri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir betimleme örneğidir?",
+    "options": [
+      "Bahçedeki çiçekler sarı, kırmızı ve mor renklerde açmıştı.",
+      "Ali, sinemaya gitti.",
+      "Hava bugün çok sıcak.",
+      "Kedim uyuyor.",
+      "Dışarıda çocuklar oynuyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Betimleme, detaylı gözlem ve tasvir içerir. 'Bahçedeki çiçekler sarı, kırmızı ve mor renklerde açmıştı.' cümlesi bunu yansıtır.",
+    "difficulty": 3
   }
 ]
