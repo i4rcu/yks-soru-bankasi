@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764417171877_0",
+    "id": "ai_1764498148612_0",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir torbada 4'ü kırmızı ve 5'i mavi olmak üzere toplam 9 top bulunmaktadır. Bu torbadan art arda ve geri konulmamak şartıyla iki top çekiliyor. Çekilen iki topun farklı renkte olma olasılığı kaçtır?",
+    "questionText": "İçinde 4 kırmızı ve 6 mavi top bulunan bir torbadan, geri konulmamak şartıyla art arda iki top çekiliyor. Çekilen ikinci topun kırmızı olma olasılığı kaçtır?",
     "options": [
       "1/3",
-      "4/9",
-      "5/9",
-      "20/81",
-      "5/18"
+      "2/15",
+      "4/15",
+      "2/5",
+      "1/2"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için iki farklı yol izleyebiliriz.\n\n**Yöntem 1: Olayları Ayrı Ayrı Hesaplama**\nİstenen durum, çekilen iki topun farklı renkte olmasıdır. Bu durum iki şekilde gerçekleşebilir:\n1.  Birinci top kırmızı, ikinci top mavi (K, M)\n2.  Birinci top mavi, ikinci top kırmızı (M, K)\n\n*   P(K, M) = (Birincinin kırmızı olma olasılığı) × (İkincinin mavi olma olasılığı)\n    P(K, M) = (4/9) × (5/8) = 20/72\n    (İlk top kırmızı çekildikten sonra torbada 3 kırmızı, 5 mavi olmak üzere 8 top kalır.)\n\n*   P(M, K) = (Birincinin mavi olma olasılığı) × (İkincinin kırmızı olma olasılığı)\n    P(M, K) = (5/9) × (4/8) = 20/72\n    (İlk top mavi çekildikten sonra torbada 4 kırmızı, 4 mavi olmak üzere 8 top kalır.)\n\nBu iki durum birbirini dışladığı için olasılıkları toplarız:\nToplam Olasılık = P(K, M) + P(M, K) = 20/72 + 20/72 = 40/72\nSadeleştirdiğimizde: 40/72 = 5/9\n\n**Yöntem 2: Kombinasyon Kullanımı**\n*   **Tüm Durumlar:** 9 toptan 2 top seçme sayısı.\n    C(9, 2) = (9 * 8) / (2 * 1) = 36\n*   **İstenen Durum:** Çekilen iki topun farklı renkte olması, yani 1 kırmızı VE 1 mavi top seçilmesi.\n    4 kırmızı toptan 1 tane seçme: C(4, 1) = 4\n    5 mavi toptan 1 tane seçme: C(5, 1) = 5\n    İstenen durum sayısı = C(4, 1) * C(5, 1) = 4 * 5 = 20\n\n*   **Olasılık:** (İstenen Durum) / (Tüm Durumlar)\n    Olasılık = 20 / 36\n    Sadeleştirdiğimizde: 20/36 = 5/9\n\nHer iki yöntemle de doğru cevap 5/9 olarak bulunur.",
+    "correctAnswer": 3,
+    "explanation": "Bu soruyu çözmek için iki olası durumu da ele almalıyız:\n\n1. Durum: Birinci top kırmızı VE ikinci top kırmızı.\n   - İlk topun kırmızı olma olasılığı: 4/10\n   - İlk top kırmızı çekildiği için torbada 3 kırmızı ve 6 mavi top kalır (toplam 9 top).\n   - İkinci topun kırmızı olma olasılığı: 3/9 = 1/3\n   - Bu durumun gerçekleşme olasılığı: (4/10) * (3/9) = 12/90\n\n2. Durum: Birinci top mavi VE ikinci top kırmızı.\n   - İlk topun mavi olma olasılığı: 6/10\n   - İlk top mavi çekildiği için torbada 4 kırmızı ve 5 mavi top kalır (toplam 9 top).\n   - İkinci topun kırmızı olma olasılığı: 4/9\n   - Bu durumun gerçekleşme olasılığı: (6/10) * (4/9) = 24/90\n\nİkinci topun kırmızı olması için bu iki durumdan birinin gerçekleşmesi yeterlidir. Bu yüzden olasılıkları toplarız:\nToplam Olasılık = (12/90) + (24/90) = 36/90\n\nSadeleştirme yaparsak: 36/90 = 4/10 = 2/5 olur.\n\nNot: Bu tür sorularda, eğer önceki çekilişler hakkında bir bilgi verilmemişse, herhangi bir sıradaki topun belirli bir renkte olma olasılığı, ilk topun o renkte olma olasılığına eşittir. Yani P(İkinci Kırmızı) = P(Birinci Kırmızı) = 4/10 = 2/5.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498148612_1",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "6 erkek ve 4 kız öğrencinin bulunduğu bir sınıftan rastgele 3 kişilik bir ekip oluşturulacaktır. Bu ekipte en az bir erkek ve en az bir kız öğrenci bulunma olasılığı kaçtır?",
+    "options": [
+      "1/5",
+      "2/3",
+      "3/4",
+      "4/5",
+      "5/6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu soruyu çözerken tüm durumların olasılığından (1'den), istenmeyen durumların olasılığını çıkarmak daha kolaydır. \n\nİstenmeyen Durumlar:\n1. Ekibin tamamının erkeklerden oluşması.\n2. Ekibin tamamının kızlardan oluşması.\n\nÖncelikle tüm olası durumların sayısını (örnek uzayı) bulalım. Toplam 10 öğrenciden 3 kişilik bir ekip seçiyoruz.\nTüm Durumlar = C(10, 3) = (10 * 9 * 8) / (3 * 2 * 1) = 10 * 3 * 4 = 120\n\nŞimdi istenmeyen durumları hesaplayalım:\n1. Ekibin tamamının erkek olması: 6 erkek arasından 3 erkek seçilir.\n   C(6, 3) = (6 * 5 * 4) / (3 * 2 * 1) = 20\n2. Ekibin tamamının kız olması: 4 kız arasından 3 kız seçilir.\n   C(4, 3) = 4\n\nİstenmeyen durumların toplam sayısı = 20 + 4 = 24\nİstenmeyen durumların olasılığı = (İstenmeyen Durum Sayısı) / (Tüm Durum Sayısı) = 24 / 120 = 1/5\n\nİstenen durumun (en az bir erkek ve en az bir kız) olasılığı ise:\nP(İstenen Durum) = 1 - P(İstenmeyen Durum)\nP(İstenen Durum) = 1 - (1/5) = 4/5",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498148612_2",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir hedefi Ali'nin vurma olasılığı 2/3, Burak'ın vurma olasılığı ise 3/5'tir. İkisi de hedefe birer atış yaptığında hedefin vurulmuş olma olasılığı kaçtır?",
+    "options": [
+      "2/15",
+      "2/5",
+      "7/15",
+      "13/15",
+      "19/15"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hedefin vurulmuş olması, en az birinin hedefi vurması anlamına gelir. Bu tür 'en az bir' sorularında, tüm durumların olasılığından (1'den) istenmeyen durumun olasılığını çıkarmak genellikle daha basittir.\n\nİstenmeyen durum: Hedefin hiç vurulmaması, yani hem Ali'nin hem de Burak'ın hedefi vuramamasıdır.\n\n- Ali'nin hedefi vurma olasılığı P(A) = 2/3 ise, vuramama olasılığı P(A') = 1 - 2/3 = 1/3'tür.\n- Burak'ın hedefi vurma olasılığı P(B) = 3/5 ise, vuramama olasılığı P(B') = 1 - 3/5 = 2/5'tir.\n\nİkisinin de vuramama olasılığı (olaylar bağımsız olduğu için olasılıkları çarparız):\nP(A' ve B') = P(A') * P(B') = (1/3) * (2/5) = 2/15\n\nBu, hedefin hiç vurulmama olasılığıdır. Bizden istenen hedefin vurulmuş olma (en az bir kez vurulma) olasılığıdır. Bu nedenle:\nP(Hedefin Vurulması) = 1 - P(İkisinin de vuramaması)\nP(Hedefin Vurulması) = 1 - 2/15 = 15/15 - 2/15 = 13/15",
     "difficulty": 3
   }
 ]
