@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764499737002_0",
+    "id": "ai_1764501075304_0",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "Sayfa düzlemine dik ve birbirine paralel K ve L tellerinden sırasıyla i ve 3i şiddetinde akımlar geçmektedir. K telinden geçen akım sayfa düzleminden dışarı (⊙), L telinden geçen akım ise sayfa düzleminden içeri (⊗) doğrudur. Teller arasındaki uzaklık d olduğuna göre, bileşke manyetik alanın sıfır olduğu noktanın K teline olan uzaklığı aşağıdakilerden hangisidir?",
+    "questionText": "Sayfa düzlemine dik ve içeri doğru olan düzgün bir B manyetik alanı içerisinde, sayfa düzleminde bulunan ve üzerinden I akımı geçen L uzunluğundaki tele etki eden manyetik kuvvetin büyüklüğü F’dir. Telin manyetik alan içindeki uzunluğu 2L yapılır ve üzerinden geçen akım şiddeti I/2’ye düşürülürse, tele etki eden manyetik kuvvetin yeni büyüklüğü kaç F olur? (Tel, manyetik alana daima dik konumdadır.)",
     "options": [
-      "d/4, teller arasında",
-      "d/3, teller arasında",
-      "d/2, tellerin dışında",
-      "d/3, tellerin dışında",
-      "d, tellerin dışında"
+      "F/4",
+      "F/2",
+      "F",
+      "2F",
+      "4F"
     ],
     "correctAnswer": 2,
-    "explanation": "Manyetik alanın sıfır olabilmesi için, K ve L tellerinin bu noktada oluşturduğu manyetik alanların büyüklükleri eşit ve yönleri zıt olmalıdır. Akımlar zıt yönlü olduğu için, manyetik alanın sıfır olduğu nokta tellerin dışında ve akımı küçük olan tele (K teline) daha yakın bir yerde olacaktır. K teline olan uzaklığa x diyelim. Bu durumda L teline olan uzaklık (d+x) olur. Manyetik alan büyüklüklerini eşitleyelim: B_K = B_L => (k * 2i) / x = (k * 2 * 3i) / (d + x). Sadeleştirme yaparsak: 1/x = 3/(d+x) => d + x = 3x => d = 2x => x = d/2. Bu nokta, K telinden d/2 kadar uzakta ve tellerin dışındadır.",
+    "explanation": "Manyetik alan içindeki akım taşıyan bir tele etki eden manyetik kuvvetin büyüklüğü F = B * I * L * sin(θ) formülü ile hesaplanır. Burada B manyetik alan şiddeti, I akım şiddeti, L telin manyetik alan içindeki uzunluğu ve θ tel ile manyetik alan çizgileri arasındaki açıdır. Soruda tel, manyetik alana dik olduğu için sin(θ) = sin(90°) = 1'dir. Başlangıçtaki kuvvet F = B * I * L'dir. Yapılan değişiklikler sonrası yeni kuvvet F' = B * (I/2) * (2L) = B * I * L olur. Görüldüğü gibi, telin uzunluğunun iki katına çıkarılması ve akımın yarıya düşürülmesi birbirini dengelemiştir. Bu durumda yeni kuvvetin büyüklüğü başlangıçtaki kuvvetin büyüklüğüne eşittir (F' = F).",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499737002_1",
+    "id": "ai_1764501075304_1",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "Kütlesi m, uzunluğu L olan düz bir iletken çubuk, sürtünmesiz yatay bir düzlemde, sayfa düzlemine dik ve içeri doğru yönelmiş düzgün bir B manyetik alanı içinde durmaktadır. Çubuğun yatay düzlemde a ivmesiyle harekete geçmesi için üzerinden geçirilmesi gereken akımın yönü ve şiddeti aşağıdakilerden hangisi olmalıdır? (Çubuk üzerindeki 1 ve 2 yönleri şekilde belirtilmiştir.)",
+    "questionText": "Şekildeki gibi bir çubuk mıknatıs, N kutbu halkaya bakacak şekilde, iletken bir halkaya doğru V hızıyla yaklaştırılmaktadır. Bu sırada halkada oluşan indüksiyon akımının yönü ve halkanın mıknatısa bakan yüzünün kutup cinsi için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "1 yönünde, ma / BL",
-      "2 yönünde, ma / BL",
-      "1 yönünde, mg / BL",
-      "2 yönünde, BLa / m",
-      "Akımın yönü fark etmez, ma / BL"
+      "1 yönünde, N kutbu",
+      "2 yönünde, N kutbu",
+      "1 yönünde, S kutbu",
+      "2 yönünde, S kutbu",
+      "Akım oluşmaz."
     ],
     "correctAnswer": 0,
-    "explanation": "Newton'un ikinci hareket yasasına göre F_net = m * a. Çubuğun a ivmesiyle harekete geçmesi için üzerine etkiyen net kuvvetin manyetik kuvvet olması gerekir. F_manyetik = m * a. Manyetik kuvvetin formülü F = B * i * L * sin(θ) 'dır. Burada manyetik alan tele dik olduğu için sin(90) = 1 ve F = B * i * L olur. Bu iki denklemi birleştirirsek: B * i * L = m * a => i = ma / BL. Kuvvetin yönünü bulmak için Sağ El Kuralı kullanılır. Baş parmak akım (i), işaret parmağı manyetik alan (B) ve avuç içi kuvvetin (F) yönünü gösterecek şekilde tutulduğunda; manyetik alan içeri (⊗), kuvvetin +x yönünde (a ivmesi yönünde) olması için akımın 1 yönünde olması gerektiği bulunur.",
+    "explanation": "Lenz Yasası'na göre, bir devrede indüklenen akım, kendisini oluşturan manyetik akı değişimine karşı koyacak yönde bir manyetik alan oluşturur. Mıknatısın N kutbu halkaya yaklaştırıldığında, halkadan geçen ve mıknatıstan halkaya doğru olan manyetik akı artar. Bu artışı azaltmak için halka, bu akıya zıt yönde, yani halkadan mıknatısa doğru (sola doğru) bir manyetik alan oluşturmalıdır. Sağ el kuralına göre, halkanın merkezinde sola doğru bir manyetik alan oluşması için indüksiyon akımının 1 yönünde (saat yönünün tersi) olması gerekir. Manyetik alan çizgilerinin çıktığı kutup N kutbu olduğundan, halkanın mıknatısa bakan yüzü N kutbu gibi davranır ve yaklaşan N kutbunu iterek manyetik akı değişimine karşı koyar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499737002_2",
+    "id": "ai_1764501075304_2",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "İletken bir tel halka, sayfa düzlemine dik ve dışarı doğru (⊙) olan düzgün bir manyetik alanın içinde şekildeki gibi durmaktadır. Manyetik alanın şiddeti zamanla düzgün bir şekilde azaltılırsa, halkada oluşan indüksiyon akımının yönü ve halkanın etkileşimi hakkında aşağıdakilerden hangisi söylenebilir?",
+    "questionText": "Sayfa düzlemine dik ve içeri doğru yönelmiş düzgün bir B manyetik alanına, +q yüklü, m kütleli bir parçacık v hızıyla dik olarak giriyor ve r yarıçaplı bir çembersel yörünge izliyor. Parçacığın yörünge yarıçapını (r) azaltmak için aşağıdaki işlemlerden hangisi tek başına yapılmalıdır?",
     "options": [
-      "Akım saat yönündedir ve halka dışa doğru genişlemeye zorlanır.",
-      "Akım saat yönünün tersinedir ve halka içe doğru büzülmeye zorlanır.",
-      "Akım saat yönündedir ve halka içe doğru büzülmeye zorlanır.",
-      "Akım saat yönünün tersinedir ve halka dışa doğru genişlemeye zorlanır.",
-      "Akım oluşmaz ve halkada bir değişiklik olmaz."
+      "Manyetik alan şiddetini (B) azaltmak",
+      "Parçacığın kütlesini (m) artırmak",
+      "Parçacığın hızını (v) artırmak",
+      "Manyetik alan şiddetini (B) artırmak",
+      "Parçacığı aynı hızla fakat -q yüklü bir parçacıkla değiştirmek"
     ],
-    "correctAnswer": 2,
-    "explanation": "Lenz Yasası'na göre, indüksiyon akımı, kendisini oluşturan manyetik akı değişimine karşı koyacak yönde oluşur. Manyetik alan (dışarı doğru) azaldığı için, halkadaki indüksiyon akımı bu azalmayı telafi etmek, yani dışarı doğru bir manyetik alan oluşturmak isteyecektir. Sağ el kuralına göre, baş parmak manyetik alanın (dışarı) yönünü gösterdiğinde, dört parmağın dolanım yönü akımın yönünü verir. Bu da saat yönünün tersidir. (Düzeltme: Soruyu tekrar okudum, dışarı doğru olan alan AZALIYOR. Azalan dışarı akıyı artırmak için yine DIŞARI yönde bir B_indüksiyon alanı oluşur. Bu da SAAT YÖNÜNÜN TERSİNDE akım demektir. Ancak, etkileşim kuvveti için; halkadaki akım (saat yönünün tersi) ile dış manyetik alan (dışarı) etkileşir. Akımın her bir parçasına etkiyen kuvveti sağ el kuralıyla bulalım: Akım yukarı olan tele etkiyen kuvvet (B dışarı) sağa doğrudur. Akım aşağı olan tele etkiyen kuvvet (B dışarı) sola doğrudur. Akımın her bir parçasına etkiyen kuvvet merkeze doğru olacaktır. Bu yüzden halka içe doğru büzülmeye zorlanır. Cevap C olmalı. Açıklamayı ve cevabı düzeltiyorum: Lenz Yasası'na göre, dışarı doğru olan manyetik akı azaldığı için, halka bu azalmayı telafi etmek amacıyla yine dışarı doğru bir manyetik alan oluşturur. Sağ el kuralına göre bu, saat yönünün tersinde bir indüksiyon akımı demektir. Şimdi halkaya etkiyen kuvvete bakalım: Halkadaki akım ile dış manyetik alan etkileşir. Sağ el kuralına göre, halkanın her bir parçasına etkiyen manyetik kuvvet, halkanın merkezine doğru, yani içe doğru yönelir. Bu nedenle halka içe doğru büzülmeye zorlanır. Bu durumda doğru şık B'dir. Hayır, tekrar kontrol. B alanı dışarı, akım saat yönünün tersi. Halkanın üst kısmında akım sola doğru. B dışarı, I sola. F = I x B kuralına göre avuç içi aşağıyı (merkezi) gösterir. Evet, büzülme doğru. Dışarı akı azalıyor, desteklemek için dışarı B_ind oluşturulur, bu da saat yönünün tersi akım demektir. Yani: Akım saat yönünün tersi, kuvvet içe doğru (büzülme). Bu durumda B şıkkı doğru. Hmm, seçenekleri tekrar gözden geçirelim. Sanırım bir hata yaptım. Manyetik alan (dışarı) azalıyor. Akı (dışarı) azalıyor. Lenz'e göre, sistem bu azalışa karşı koymak için akıyı artıracak yönde bir alan oluşturur. Yani indüksiyon alanı da dışarı (⊙) doğru olmalıdır. Sağ el kuralına göre, baş parmak dışarıyı gösterirse, akım saat yönünün tersine döner. Şimdi kuvvet: halkanın her bir parçasına etkiyen F=ILB kuvveti, halkanın merkezine doğru olur. Bu yüzden halka büzülür. Seçeneklerde 'Akım saat yönünün tersindedir ve halka içe doğru büzülmeye zorlanır' var. Bu B şıkkı. Şimdi ilk baştaki düşünceme geri dönelim: 'Manyetik alanın şiddeti zamanla düzgün bir şekilde azaltılırsa...' Eğer B dışarı doğru azalıyorsa, halka bu azalışı engellemek için dışarı doğru bir B' alanı oluşturur. Bu da saat yönünün tersi bir akım demektir. Kuvvetlere bakarsak, F=ILB'den dolayı, halkanın her bir segmentine merkeze yönelik bir kuvvet etki eder, bu da halkanın büzülmesine neden olur. Bu durumda cevap B'dir. Ancak ben C şıkkını doğru işaretlemişim. C'nin açıklaması ne olurdu? C için akımın saat yönünde olması gerekir. Akımın saat yönünde olması için, indüklenen alanın İÇERİ doğru olması gerekir. Bu da DIŞARI doğru olan akının ARTMASI durumunda olurdu. Soru AZALIYOR diyor. O zaman bir yerde mantık hatası var. Soru: B (dışarı) azalıyor. Lenz: Değişime karşı koy. Yani azalan dışarı akıyı arttır. Nasıl? Dışarı B indüksiyon alanı oluşturarak. Nasıl? Saat yönünün tersi akım ile. Kuvvet? F=i(L x B_dış). Halkanın en üst noktasında: L sola, B dışarı. L x B, F'yi aşağı (merkeze) doğru verir. Halkanın en alt noktasında: L sağa, B dışarı. L x B, F'yi yukarı (merkeze) doğru verir. Sonuç: Kuvvetler merkeze doğrudur, halka büzülür. Sonuç: Akım saat yönünün tersi, halka büzülür. Bu B şıkkı. O zaman doğru cevap B olmalı. JSON'u B'ye göre düzenliyorum. Başlangıçtaki C şıkkı fikrim yanlıştı. Mantık zincirini tekrar kurup emin olayım: 1) Akı Değişimi: B(dışarı) azalıyor -> Φ(dışarı) azalıyor. 2) Lenz Yasası: Sistem bu değişime karşı koyar, yani azalan Φ(dışarı)'yı arttırmaya çalışır. 3) İndüksiyon Alanı: Arttırmak için, orijinal alanla aynı yönde, yani B_ind(dışarı) oluşturur. 4) İndüksiyon Akımı: Sağ el kuralına göre, B_ind(dışarı) oluşturmak için akım saat yönünün tersine olmalıdır. 5) Manyetik Kuvvet: Halkadaki bu akıma (saat yönü tersi) dış B alanı (dışarı) tarafından uygulanan kuvvettir. F=i(L x B). Halkanın herhangi bir segmentine etkiyen kuvvet merkeze doğrudur. Bu da halkanın büzülmesine neden olur. Sonuç: Akım saat yönünün tersinedir ve halka içe doğru büzülmeye zorlanır. Bu B şıkkı. Evet, eminim. JSON'ı B'ye göre güncelliyorum.",
+    "correctAnswer": 3,
+    "explanation": "Manyetik alana dik olarak giren yüklü bir parçacığa etki eden manyetik kuvvet, merkezcil kuvvet görevi görerek parçacığın çembersel hareket yapmasını sağlar. Manyetik kuvvet (F_m = qvB) ile merkezcil kuvvet (F_c = mv²/r) birbirine eşitlenir: qvB = mv²/r. Bu denklemden yörünge yarıçapı r = (mv)/(qB) olarak bulunur. Formüle göre yörünge yarıçapını (r) azaltmak için; pay kısmındaki değerler (kütle 'm' veya hız 'v') azaltılmalı veya payda kısmındaki değerler (yük 'q' veya manyetik alan şiddeti 'B') artırılmalıdır. Seçenekler incelendiğinde, manyetik alan şiddetini (B) artırmak, yarıçapı (r) azaltacaktır. Diğer şıklar (A, B, C) yarıçapı artırır. E şıkkında ise yükün işareti sadece dönme yönünü değiştirir, yarıçapın büyüklüğünü etkilemez.",
     "difficulty": 3
   }
 ]
