@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520294760_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
-    "options": [
-      "C4H10",
-      "C5H12",
-      "C6H14",
-      "C7H16",
-      "C8H18O"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520294760_1",
     "subjectId": "kim",
     "topic": "Organik Kimya",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 1,
     "explanation": "Esterleşme, bir asidin alkol ile reaksiyona girmesi sonucu ester ve su oluşumudur. Bu nedenle doğru cevap, asit ile alkolün birleşmesidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520294760_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
+    "options": [
+      "C4H10",
+      "C5H12",
+      "C6H14",
+      "C7H16",
+      "C8H18O"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
     "difficulty": 3
   },
   {
