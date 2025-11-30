@@ -1,50 +1,18 @@
 [
   {
-    "id": "ai_1764500796414_0",
+    "id": "ai_1764519203503_0",
     "subjectId": "mat",
     "topic": "Limit",
-    "questionText": "lim (x→3) [ (x² - x - 6) / (x² - 9) ] ifadesinin değeri kaçtır?",
+    "questionText": "Aşağıdaki limit ifadesinin sonucu nedir? lim(x→2) (x² - 4)/(x - 2)",
     "options": [
-      "1/6",
-      "2/3",
-      "5/6",
-      "1",
-      "Limit yoktur"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu limit, x=3 değeri yerine konulduğunda 0/0 belirsizliği verir. Belirsizliği gidermek için pay ve payda çarpanlarına ayrılır:\nPay: x² - x - 6 = (x - 3)(x + 2)\nPayda: x² - 9 = (x - 3)(x + 3)\nİfade şu hale gelir: lim (x→3) [ (x - 3)(x + 2) / (x - 3)(x + 3) ]\n(x - 3) terimleri sadeleşir: lim (x→3) [ (x + 2) / (x + 3) ]\nŞimdi x yerine 3 konulabilir: (3 + 2) / (3 + 3) = 5/6. \nDoğru cevap 5/6'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500796414_1",
-    "subjectId": "mat",
-    "topic": "Limit",
-    "questionText": "f(x) = { (ax + 4, x > 2), (x² - a, x ≤ 2) } şeklinde tanımlanan f(x) fonksiyonunun x=2 noktasında limiti olduğuna göre, a kaçtır?",
-    "options": [
-      "-2",
-      "-1",
       "0",
       "1",
-      "2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir fonksiyonun bir noktada limitinin olması için o noktadaki sağdan ve soldan limitlerinin birbirine eşit olması gerekir.\nSağdan limit (x→2+): lim (x→2+) f(x) = lim (x→2+) (ax + 4) = a(2) + 4 = 2a + 4\nSoldan limit (x→2-): lim (x→2-) f(x) = lim (x→2-) (x² - a) = 2² - a = 4 - a\nBu iki limitin eşit olması gerekir:\n2a + 4 = 4 - a\n3a = 0\na = 0\nBu nedenle a'nın değeri 0 olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500796414_2",
-    "subjectId": "mat",
-    "topic": "Limit",
-    "questionText": "lim (x→0) [ (sin(8x) + tan(4x)) / (2x) ] ifadesinin değeri kaçtır?",
-    "options": [
       "2",
       "4",
-      "6",
-      "8",
-      "12"
+      "5"
     ],
     "correctAnswer": 2,
-    "explanation": "Bu limiti çözmek için ifadeyi iki ayrı limitin toplamı olarak yazabiliriz:\nlim (x→0) [ sin(8x)/(2x) + tan(4x)/(2x) ]\n= lim (x→0) [ sin(8x)/(2x) ] + lim (x→0) [ tan(4x)/(2x) ]\nTrigonometrik limitlerin temel kurallarını kullanırız:\n1) lim (x→0) [ sin(ax) / (bx) ] = a/b\n2) lim (x→0) [ tan(ax) / (bx) ] = a/b\nBu kuralları uyguladığımızda:\nİlk limit: 8 / 2 = 4\nİkinci limit: 4 / 2 = 2\nİki limitin toplamı: 4 + 2 = 6.\nDoğru cevap 6'dır.",
+    "explanation": "Verilen limit ifadesi, x=2 noktasında tanımsız görünmekte ancak ifadenin sadeleştirilmesiyle limit hesaplanabilir. (x² - 4) ifadesi (x - 2)(x + 2) olarak faktörlerine ayrılabilir. Bu durumda limit ifadesi (x - 2)(x + 2)/(x - 2) haline gelir. x - 2 terimleri birbirini sadeleştirince geriye x + 2 kalır. Şimdi x = 2 için limit hesabı yapılır: lim(x→2) (x + 2) = 2 + 2 = 4. Bu nedenle doğru cevap 4'tür.",
     "difficulty": 3
   }
 ]
