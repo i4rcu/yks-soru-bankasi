@@ -1,34 +1,18 @@
 [
   {
-    "id": "ai_1764500415115_0",
+    "id": "ai_1764501699444_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde yargılar arasında diğerlerinden farklı bir anlam ilişkisi vardır?",
+    "questionText": "(I) Yazar, okurun zihninde yeni pencereler açmayı ve onu alışılmışın dışında düşünmeye sevk etmeyi amaçlıyordu. (II) Bu doğrultuda, eserlerinde basmakalıp anlatım biçimlerinden uzaklaşarak sembolik bir dil kullanmayı tercih etmişti.\n\nBu parçada numaralanmış cümlelerle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
     "options": [
-      "Yollar buzlandığı için trafik akışı yavaşladı.",
-      "İyi bir üniversite kazanmak amacıyla gece gündüz ders çalışıyordu.",
-      "Annesini çok özlediğinden ilk uçakla memleketine gitti.",
-      "Uykusunu alamadığından gün boyu kendini yorgun hissetti.",
-      "Gürültüden rahatsız olunca pencereyi kapattı."
+      "II. cümle, I. cümlede belirtilen yargının koşulunu bildirmektedir.",
+      "I. cümle, II. cümlede belirtilen tercihin amacını açıklamaktadır.",
+      "II. cümle, I. cümledeki düşünceyi çürüten bir bilgi içermektedir.",
+      "I. cümlede ortaya konan durumun okur üzerindeki sonucu II. cümlede verilmiştir.",
+      "İki cümlede de yazarın üslubuna yönelik nesnel değerlendirmeler yapılmıştır."
     ],
     "correctAnswer": 1,
-    "explanation": "Bu soruda cümlelerdeki anlam ilişkileri incelenmelidir. A, C, D ve E şıklarında neden-sonuç (sebep-sonuç) ilişkisi varken, B şıkkında amaç-sonuç ilişkisi vardır. Neden-sonuç cümlelerinde eylemin gerçekleşme nedeni belirtilirken ('Neden yavaşladı?' -> 'Yollar buzlandığı için'), amaç-sonuç cümlelerinde eylemin hangi hedefle yapıldığı belirtilir ('Hangi amaçla ders çalışıyordu?' -> 'İyi bir üniversite kazanmak amacıyla'). B seçeneğindeki 'kazanmak' eylemi henüz gerçekleşmemiş bir hedeftir, bu da cümleyi diğerlerinden ayırır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500415115_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde bir eylemin gerçekleşmesi başka bir durumun gerçekleşmesine bağlıdır?",
-    "options": [
-      "Yoğun kar yağışı yüzünden okullar tatil edildi.",
-      "Hava kararmadan eve dönmüş olmalıyız.",
-      "İstediğin bölümü kazanman, düzenli çalışmana bağlı.",
-      "Yazar, son romanında toplumsal sorunlara değinmiş.",
-      "Toplantı salonuna girdiğinde herkes onu bekliyordu."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruda koşul-sonuç (şart-sonuç) ilişkisi içeren cümle sorulmaktadır. Koşul-sonuç cümlelerinde bir eylemin veya durumun gerçekleşmesi, başka bir eylemin veya durumun gerçekleşmesi şartına bağlanır. C seçeneğinde 'istediğin bölümü kazanman' sonucu, 'düzenli çalışman' koşuluna bağlanmıştır. Diğer seçeneklerde ise bu tür bir koşul ilişkisi yoktur. A'da neden-sonuç, B'de gereklilik, D'de içerik belirtme, E'de ise zaman ilişkisi bulunmaktadır.",
+    "explanation": "Bu soruda iki cümle arasındaki anlam ilişkisini doğru tespit etmek gerekmektedir. Birinci cümlede yazarın bir 'amacı' dile getirilmiştir: okuru düşündürmek ve zihninde yeni ufuklar açmak. İkinci cümlede ise bu amaca ulaşmak için yazarın başvurduğu bir 'yöntem/tercih' anlatılmaktadır: sembolik bir dil kullanmak. Dolayısıyla, ikinci cümledeki 'sembolik dil kullanma tercihi'nin sebebi, birinci cümlede belirtilen 'okuru düşündürme amacı'dır. Bu durumda, I. cümle, II. cümlede belirtilen eylemin/tercihin amacını açıklamaktadır. Bu bir amaç-sonuç ilişkisidir; ancak neden-sonuç ilişkisi ile karıştırılmamalıdır. Eylem (sembolik dil kullanmak) henüz gerçekleşmemiş bir hedef (okuru düşündürmek) için yapılmıştır. Diğer şıklarda belirtilen koşul, çürütme, sonuç veya nesnellik gibi ilişkiler parçada bulunmamaktadır. Bu nedenle doğru cevap B seçeneğidir.",
     "difficulty": 3
   }
 ]
