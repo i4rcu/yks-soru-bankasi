@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764417398495_0",
+    "id": "ai_1764498573456_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında beyaz bir çökelti oluşmaktadır. Bu tepkime ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında gümüş klorür (AgCl) katısının çöktüğü bir çözünme-çökelme tepkimesi gerçekleşmektedir. Bu tepkimenin net iyon denklemi aşağıdakilerden hangisidir?",
     "options": [
-      "Tepkime denklemi AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq) şeklindedir.",
-      "Çözünme-çökelme tepkimesi olarak sınıflandırılır.",
-      "Net iyon denklemi Ag⁺(aq) + Cl⁻(aq) → AgCl(k) şeklindedir.",
-      "Na⁺ ve NO₃⁻ iyonları seyirci (gözlemci) iyonlardır.",
-      "Tepkime sonucunda çözeltideki iyon derişimi artar."
+      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
+      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
+      "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(suda)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)"
     ],
-    "correctAnswer": 4,
-    "explanation": "Tepkime, iki çözeltinin karıştırılmasıyla suda çözünmeyen katı bir maddenin (çökelti) oluştuğu bir çözünme-çökelme tepkimesidir. \n1. **Moleküler Denklem:** AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq). Gümüş klorür (AgCl) katı olarak çökerken, sodyum nitrat (NaNO₃) suda çözünmüş halde kalır. Bu nedenle A şıkkı doğrudur. \n2. **Tepkime Türü:** Bu olay bir çözünme-çökelme tepkimesidir. Aynı zamanda iyonların yer değiştirmesi nedeniyle bir yer değiştirme (metatez) tepkimesidir. B şıkkı doğrudur. \n3. **Net İyon Denklemi:** Tepkimede sadece çökelti oluşumuna katılan iyonlar net iyon denkleminde gösterilir. Gümüş (Ag⁺) ve klorür (Cl⁻) iyonları birleşerek gümüş klorür (AgCl) katısını oluşturur. Dolayısıyla net iyon denklemi Ag⁺(aq) + Cl⁻(aq) → AgCl(k) şeklindedir. C şıkkı doğrudur. \n4. **Seyirci İyonlar:** Tepkimeye girmeyen ve çözeltide serbest halde kalmaya devam eden iyonlar seyirci iyonlardır. Bunlar sodyum (Na⁺) ve nitrat (NO₃⁻) iyonlarıdır. D şıkkı doğrudur. \n5. **İyon Derişimi:** Tepkime başlangıcında çözeltide Ag⁺, NO₃⁻, Na⁺ ve Cl⁻ iyonları bulunmaktadır. Tepkime sonunda Ag⁺ ve Cl⁻ iyonları birleşerek katı oluşturduğu için çözeltideki toplam iyon sayısı ve dolayısıyla iyon derişimi azalır. Bu nedenle E şıkkındaki ifade yanlıştır.",
+    "correctAnswer": 2,
+    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi, sadece çökeltiyi oluşturan iyonları ve oluşan katıyı gösterir. Tepkimenin tam iyon denklemi: Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq). Bu denklemde Na⁺ ve NO₃⁻ iyonları tepkimeye girmemiş, sadece ortamda seyirci olarak kalmışlardır. Seyirci iyonlar denklemden çıkarıldığında geriye net iyon denklemi kalır: Ag⁺(aq) + Cl⁻(aq) → AgCl(k).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498573456_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Propan (C₃H₈) gazının tam yanması sonucu karbondioksit (CO₂) ve su (H₂O) oluşmaktadır. Bu tepkimenin denklemi en küçük tam sayılarla denkleştirildiğinde, oksijenin (O₂) katsayısı kaç olur?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yanma tepkimesinin denklemi C₃H₈ + O₂ → CO₂ + H₂O şeklindedir. Denkleştirme için önce karbon (C), sonra hidrojen (H) ve en son oksijen (O) atomları denkleştirilir.\n1. Karbon denkleştirme: Girenlerde 3 C atomu var, ürünlere 3 CO₂ yazılır. C₃H₈ + O₂ → 3CO₂ + H₂O\n2. Hidrojen denkleştirme: Girenlerde 8 H atomu var, ürünlere 4 H₂O yazılır. C₃H₈ + O₂ → 3CO₂ + 4H₂O\n3. Oksijen denkleştirme: Ürünlerde (3x2) + (4x1) = 10 O atomu var. Girenlerde de 10 O atomu olması için O₂'nin katsayısı 5 olmalıdır.\nDenkleştirilmiş tam denklem: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Dolayısıyla O₂'nin katsayısı 5'tir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498573457_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Sülfürik asit (H₂SO₄) ve potasyum hidroksit (KOH) çözeltileri arasında tam nötralleşme tepkimesi gerçekleşiyor. Bu tepkime sonucunda oluşan ana ürünler aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "Potasyum sülfit (K₂SO₃) ve su (H₂O)",
+      "Potasyum sülfat (K₂SO₄) ve hidrojen gazı (H₂)",
+      "Potasyum (K), kükürt (S) ve su (H₂O)",
+      "Potasyum sülfat (K₂SO₄) ve su (H₂O)",
+      "Potasyum hidrosülfat (KHSO₄) ve su (H₂O)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu bir asit-baz nötralleşme tepkimesidir. Asitten gelen H⁺ iyonu ile bazdan gelen OH⁻ iyonu birleşerek suyu (H₂O) oluşturur. Geriye kalan iyonlar ise tuzu oluşturur. Asitten SO₄²⁻ (sülfat) iyonu ve bazdan K⁺ (potasyum) iyonu gelir. Bu iyonların birleşmesiyle potasyum sülfat (K₂SO₄) tuzu oluşur. Denkleştirilmiş tepkime şöyledir: H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l). Dolayısıyla ürünler potasyum sülfat ve sudur.",
     "difficulty": 3
   }
 ]
