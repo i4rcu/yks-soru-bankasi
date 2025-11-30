@@ -1,65 +1,50 @@
 [
   {
-    "id": "ai_1764520075996_0",
+    "id": "ai_1764521077836_0",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olduğuna göre A ∩ B kümesi nedir?",
+    "questionText": "A kümesi {1, 2, 3, 4} ve B kümesi {3, 4, 5, 6} olmak üzere, A ∩ B kesişim kümesi nedir?",
     "options": [
       "{1, 2}",
       "{3, 4}",
       "{5, 6}",
-      "{1, 2, 3, 4, 5, 6}",
+      "{1, 2, 5, 6}",
       "{}"
     ],
     "correctAnswer": 1,
-    "explanation": "A ∩ B, A ve B kümelerinin ortak elemanlarını içerir. A kümesinde 3 ve 4, B kümesinde de 3 ve 4 bulunmaktadır. Dolayısıyla A ∩ B = {3, 4} olur.",
+    "explanation": "A ve B kümesinin kesişim kümesi, her iki kümede de bulunan elemanlardır. A kümesinde 3 ve 4, B kümesinde de 3 ve 4 bulunur. Bu nedenle A ∩ B = {3, 4}.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520075998_1",
+    "id": "ai_1764521077836_1",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A = {x | x bir doğal sayıdır ve 1 ≤ x ≤ 10} kümesi ile B = {x | x bir doğal sayıdır ve 5 ≤ x ≤ 15} kümesinin birleşimi nedir?",
+    "questionText": "C kümesi {x | x, 1'den 10'a kadar olan pozitif tam sayılardır} ve D kümesi {x | x, 5'ten küçük olan pozitif tam sayılardır} olduğuna göre, C ∪ D birleşim kümesi nedir?",
     "options": [
       "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
-      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
-      "{5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}",
-      "{5, 6, 7, 8, 9, 10}",
-      "{}"
+      "{1, 2, 3, 4, 5}",
+      "{6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+      "{1, 2, 3, 4}"
     ],
-    "correctAnswer": 1,
-    "explanation": "A kümesi 1'den 10'a kadar olan doğal sayıları, B kümesi ise 5'ten 15'e kadar olan doğal sayıları içerir. Bu iki kümenin birleşimi, her iki kümede yer alan tüm elemanları içerir: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15}.",
+    "correctAnswer": 0,
+    "explanation": "C kümesi 1'den 10'a kadar olan tüm pozitif tam sayıları içerir. D kümesi ise 5'ten küçük olan pozitif tam sayılardır. Birleşim kümesi C ∪ D, C kümesinin tüm elemanlarını ve D kümesinin elemanlarını içerir. Yani sonuç {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520075998_2",
+    "id": "ai_1764521077836_2",
     "subjectId": "mat",
     "topic": "Kümeler",
-    "questionText": "A kümesi {a, b, c} ve B kümesi {b, c, d, e} verildiğine göre A - B işleminin sonucu nedir?",
+    "questionText": "E kümesi {a, b, c} ve F kümesi {b, c, d, e} olduğuna göre, E - F fark kümesi nedir?",
     "options": [
       "{a}",
       "{b, c}",
-      "{b, c, d, e}",
       "{d, e}",
+      "{a, d, e}",
       "{}"
     ],
     "correctAnswer": 0,
-    "explanation": "A - B işlemi, A kümesinden B kümesinde bulunan elemanların çıkarılmasıdır. A kümesinde bulunan 'b' ve 'c' elemanları, B kümesinde de bulunduğu için çıkarılır. Geriye sadece 'a' elemanı kalır: {a}.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520075998_3",
-    "subjectId": "mat",
-    "topic": "Kümeler",
-    "questionText": "A = {x | x bir tam sayıdır ve -3 ≤ x ≤ 2} kümesi ile B = {x | x bir tam sayıdır ve 0 ≤ x ≤ 5} kümesinin kesişimi nedir?",
-    "options": [
-      "{-3, -2, -1, 0, 1, 2}",
-      "{0, 1, 2}",
-      "{0, 1, 2, 3, 4, 5}",
-      "{}"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A kümesi -3 ile 2 arasındaki tüm tam sayıları içerir: {-3, -2, -1, 0, 1, 2}. B kümesi ise 0 ile 5 arasındaki tam sayıları içerir: {0, 1, 2, 3, 4, 5}. Bu iki kümenin kesişimi ise sadece ortak elemanları içerir: {0, 1, 2}.",
+    "explanation": "Fark kümesi E - F, E kümesinde olup F kümesinde bulunmayan elemanları içerir. E kümesinde 'a' var, ancak F kümesinde yoktur. Bu nedenle E - F = {a}.",
     "difficulty": 3
   }
 ]
