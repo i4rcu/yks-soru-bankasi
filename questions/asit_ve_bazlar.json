@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764417373439_0",
+    "id": "ai_1764498546033_0",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Aynı sıcaklıkta ve eşit derişimde hazırlanan aşağıdaki sulu çözeltilerden hangisinin pH değeri en büyüktür?",
+    "questionText": "NH₃(suda) + H₂O(s) ⇌ NH₄⁺(suda) + OH⁻(suda)\n\nYukarıda verilen denge tepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "HCl (Hidroklorik asit)",
-      "H₂SO₄ (Sülfürik asit)",
-      "CH₃COOH (Asetik asit)",
-      "NH₃ (Amonyak)",
-      "NaOH (Sodyum hidroksit)"
+      "NH₃, Brønsted-Lowry bazıdır.",
+      "H₂O, NH₃'e karşı asit olarak davranmıştır.",
+      "NH₄⁺, NH₃'ün konjuge (eşlenik) asididir.",
+      "H₂O ve OH⁻ iyonu konjuge asit-baz çiftidir.",
+      "NH₄⁺ iyonu, H₂O'ya karşı baz olarak davranır."
     ],
     "correctAnswer": 4,
-    "explanation": "Soruda verilen maddelerin asitlik ve bazlık kuvvetlerini değerlendirmemiz gerekmektedir. pH değeri, bir çözeltinin asitlik veya bazlık derecesini gösteren bir ölçüttür. pH ölçeği 0-14 arasındadır; 7 nötr, 7'den küçükse asidik, 7'den büyükse baziktir. Bir çözeltinin bazlığı ne kadar kuvvetli ise pH değeri o kadar büyük olur.\n\nVerilen şıkları inceleyelim:\n- HCl (Hidroklorik asit): Kuvvetli bir asittir. Suda %100'e yakın iyonlaşır ve pH değeri çok düşüktür.\n- H₂SO₄ (Sülfürik asit): Kuvvetli bir asittir. Suda %100'e yakın iyonlaşır ve pH değeri çok düşüktür.\n- CH₃COOH (Asetik asit): Zayıf bir asittir. Suda kısmen iyonlaşır. pH değeri kuvvetli asitlerden daha büyük ancak 7'den küçüktür.\n- NH₃ (Amonyak): Zayıf bir bazdır. Suda kısmen iyonlaşarak OH⁻ iyonu oluşturur. pH değeri 7'den büyüktür.\n- NaOH (Sodyum hidroksit): Kuvvetli bir bazdır. Suda %100'e yakın iyonlaşarak OH⁻ iyonu oluşturur. pH değeri zayıf bazlardan çok daha yüksektir ve 14'e yakındır.\n\nEşit derişimde, en kuvvetli baz olan çözeltinin pH değeri en büyük olacaktır. Bu nedenle doğru cevap NaOH'dır.",
+    "explanation": "Brønsted-Lowry asit-baz tanımına göre proton (H⁺) veren madde asit, proton alan madde bazdır. Tepkimede, NH₃ molekülü H₂O'dan bir proton alarak NH₄⁺ iyonuna dönüşmüştür. Bu nedenle NH₃ baz, H₂O ise asit olarak davranmıştır. Bir bazın proton almış haline o bazın konjuge asidi denir, dolayısıyla NH₄⁺ iyonu NH₃'ün konjuge asididir. Bir asidin proton vermiş haline ise o asidin konjuge bazı denir, dolayısıyla OH⁻ iyonu H₂O'nun konjuge bazıdır. E şıkkında ise NH₄⁺ iyonunun H₂O'ya karşı baz olarak davrandığı söylenmiştir. Ancak NH₄⁺ iyonu, NH₃'ün konjuge asidi olduğu için H₂O'ya proton vererek (yani asit gibi davranarak) geri tepkimeyi gerçekleştirme eğilimindedir. Bu nedenle bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498546033_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "25 °C'de 0.01 M derişimli 100 mL HCl çözeltisine, aynı sıcaklıkta 900 mL saf su ekleniyor. Oluşan son çözeltinin pH değeri kaçtır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu bir seyreltme problemidir. Seyreltme formülü olan M₁V₁ = M₂V₂ kullanılır.\nBaşlangıç derişimi (M₁) = 0.01 M\nBaşlangıç hacmi (V₁) = 100 mL\nSon hacim (V₂) = 100 mL + 900 mL = 1000 mL\nSon derişim (M₂) = ?\n\n(0.01 M) * (100 mL) = M₂ * (1000 mL)\n1 = M₂ * 1000\nM₂ = 1 / 1000 = 0.001 M = 10⁻³ M\n\nHCl kuvvetli bir asit olduğu için suda %100 iyonlaşır. Bu nedenle, son çözeltideki H⁺ iyonu derişimi [H⁺] = 10⁻³ M olur.\npH değeri ise [H⁺] derişiminin eksi logaritması alınarak bulunur:\npH = -log[H⁺]\npH = -log(10⁻³)\npH = 3",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498546033_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Oda koşullarında (25 °C) zayıf bir asit olan Asetik Asit (CH₃COOH) çözeltisinin, kuvvetli bir baz olan Sodyum Hidroksit (NaOH) çözeltisi ile titrasyonu sırasında dönüm noktası (eşdeğerlik noktası) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Ortamın pH değeri 7'dir.",
+      "Ortamdaki H⁺ iyonu derişimi, OH⁻ iyonu derişimine eşittir.",
+      "Ortamda CH₃COOH ve NaOH derişimleri eşittir.",
+      "Oluşan tuzun hidrolizi sonucu ortam bazik olur.",
+      "Ortamda tampon çözelti oluşmuştur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Zayıf bir asit (CH₃COOH) ile kuvvetli bir bazın (NaOH) titrasyonunda dönüm noktasında asit ve baz tamamen tükenerek tuz ve su oluşturur.\nCH₃COOH + NaOH → CH₃COONa + H₂O\nOluşan sodyum asetat (CH₃COONa) tuzu, zayıf asidin anyonu (CH₃COO⁻) ile kuvvetli bazın katyonundan (Na⁺) oluşur. Zayıf asidin anyonu olan asetat iyonu (CH₃COO⁻) su ile hidroliz tepkimesine girer:\nCH₃COO⁻(suda) + H₂O(s) ⇌ CH₃COOH(suda) + OH⁻(suda)\nBu tepkime sonucunda ortamda OH⁻ iyonları oluştuğu için çözelti bazik hale gelir ve dönüm noktasında pH > 7 olur. Bu nedenle D şıkkı doğrudur. A ve B şıkları pH=7 anlamına gelir ve kuvvetli asit-kuvvetli baz titrasyonları için geçerlidir. C şıkkı yanlıştır çünkü dönüm noktasında asit ve baz bitmiştir. E şıkkı yanlıştır çünkü tampon çözelti, dönüm noktasından önce (zayıf asit ve konjuge bazının bir arada bulunduğu aralıkta) oluşur.",
     "difficulty": 3
   }
 ]
