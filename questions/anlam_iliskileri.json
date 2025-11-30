@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764501699444_0",
+    "id": "ai_1764519463628_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "(I) Yazar, okurun zihninde yeni pencereler açmayı ve onu alışılmışın dışında düşünmeye sevk etmeyi amaçlıyordu. (II) Bu doğrultuda, eserlerinde basmakalıp anlatım biçimlerinden uzaklaşarak sembolik bir dil kullanmayı tercih etmişti.\n\nBu parçada numaralanmış cümlelerle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'zıt anlam' ilişkisi vardır?",
     "options": [
-      "II. cümle, I. cümlede belirtilen yargının koşulunu bildirmektedir.",
-      "I. cümle, II. cümlede belirtilen tercihin amacını açıklamaktadır.",
-      "II. cümle, I. cümledeki düşünceyi çürüten bir bilgi içermektedir.",
-      "I. cümlede ortaya konan durumun okur üzerindeki sonucu II. cümlede verilmiştir.",
-      "İki cümlede de yazarın üslubuna yönelik nesnel değerlendirmeler yapılmıştır."
+      "Güneş doğdu, herkes mutlu oldu.",
+      "Hava çok soğuk, kış geldi.",
+      "Deniz çok dalgalı, yüzemeyeceğiz.",
+      "Kütüphane sessizdir, gürültü yasaktır.",
+      "Bütün insanların eşit olduğu düşünülmektedir."
     ],
     "correctAnswer": 1,
-    "explanation": "Bu soruda iki cümle arasındaki anlam ilişkisini doğru tespit etmek gerekmektedir. Birinci cümlede yazarın bir 'amacı' dile getirilmiştir: okuru düşündürmek ve zihninde yeni ufuklar açmak. İkinci cümlede ise bu amaca ulaşmak için yazarın başvurduğu bir 'yöntem/tercih' anlatılmaktadır: sembolik bir dil kullanmak. Dolayısıyla, ikinci cümledeki 'sembolik dil kullanma tercihi'nin sebebi, birinci cümlede belirtilen 'okuru düşündürme amacı'dır. Bu durumda, I. cümle, II. cümlede belirtilen eylemin/tercihin amacını açıklamaktadır. Bu bir amaç-sonuç ilişkisidir; ancak neden-sonuç ilişkisi ile karıştırılmamalıdır. Eylem (sembolik dil kullanmak) henüz gerçekleşmemiş bir hedef (okuru düşündürmek) için yapılmıştır. Diğer şıklarda belirtilen koşul, çürütme, sonuç veya nesnellik gibi ilişkiler parçada bulunmamaktadır. Bu nedenle doğru cevap B seçeneğidir.",
+    "explanation": "'Soğuk' ve 'sıcak' zıt anlamlı kelimelerdir. 'Hava çok soğuk, kış geldi.' cümlesinde bu zıtlık ifade edilmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519463628_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'eş anlam' ilişkisi vardır?",
+    "options": [
+      "Çocuklar parka gitti, oyun oynuyorlar.",
+      "Bu kitap çok ilginç, mutlaka okumalısın.",
+      "Köpekler havladı, herkes rahatsız oldu.",
+      "Güzel bir film izledik, çok beğendim.",
+      "Ateş çok sıcak, dikkat et."
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Güzel' ve 'hoş' kelimeleri eş anlamlıdır. 'Güzel bir film izledik, çok beğendim.' cümlesinde bu eş anlam ilişkisi bulunmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519463628_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerde hangisinde 'sebep-sonuç' ilişkisi vardır?",
+    "options": [
+      "Yarın hava yağmurlu olacak, şemsiyemi alacağım.",
+      "Deniz kenarında yürüyüş yapmayı seviyorum.",
+      "Sınavdan yüksek not aldım, çok çalıştım.",
+      "Bugün hava çok sıcak, denize gireceğim.",
+      "Film çok güzeldi, arkadaşım tavsiye etti."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çok çalıştım' ifadesi 'yüksek not aldım' sonucuna sebep olmuştur. Bu sebeple 'Sınavdan yüksek not aldım, çok çalıştım.' cümlesinde sebep-sonuç ilişkisi vardır.",
     "difficulty": 3
   }
 ]
