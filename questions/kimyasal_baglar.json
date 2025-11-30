@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519304779_0",
+    "id": "ai_1764520258136_0",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi iyonik bağ ile oluşturulmuştur?",
+    "questionText": "Hangi tür kimyasal bağ, elektronların iki atom arasında eşit olarak paylaşıldığı durumu tanımlar?",
     "options": [
-      "H₂O",
-      "NaCl",
-      "CO₂",
-      "CH₄",
-      "C₆H₁₂O₆"
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metalik bağ",
+      "Hidrojen bağı",
+      "Van der Waals bağı"
     ],
     "correctAnswer": 1,
-    "explanation": "NaCl, sodyum ve klor atomları arasındaki elektron alışverişi ile oluşan bir iyonik bağa sahiptir. Diğer seçeneklerdeki bileşenler kovalent bağ ile oluşmuştur.",
+    "explanation": "Kovalent bağ, iki atomun elektronları eşit olarak paylaştığı bir bağdır. Bu, iki nonmetalin birleşiminde sıkça görülür.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519304779_1",
+    "id": "ai_1764520258136_1",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Kovalent bağların özelliklerinden hangisi doğrudur?",
+    "questionText": "Aşağıdaki bağlardan hangisi en güçlü kimyasal bağ olarak kabul edilir?",
     "options": [
-      "Yüksek erime noktaları vardır.",
-      "İyi iletkenlik gösterirler.",
-      "Elektron paylaşımı ile oluşurlar.",
-      "Genellikle katı halde bulunurlar.",
-      "İyonik bağlardan daha zayıftırlar."
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metal bağ",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur. Diğer seçenekler kovalent bağların genel özellikleri ile çelişmektedir.",
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağlar, atomlar arasında güçlü bir bağ oluşturur ve genellikle en güçlü bağlar arasında yer alır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519304780_2",
+    "id": "ai_1764520258136_2",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki maddelerden hangisi hidrojen bağı ile etkileşim göstermez?",
+    "questionText": "Iyonik bağlı bir bileşikte hangi özellik beklenir?",
     "options": [
-      "H₂O",
-      "NH₃",
-      "HF",
-      "CH₄",
-      "C₂H₅OH"
+      "Düşük erime noktası",
+      "İyi elektrik iletkenliği",
+      "Uçucu olması",
+      "Yüksek kaynama noktası",
+      "Düşük çözünürlük"
     ],
-    "correctAnswer": 3,
-    "explanation": "CH₄ (metan), hidrojen atomları ile yalnızca kovalent bağ oluşturarak yapısını oluşturur. Diğer moleküller hidrojen bağı ile etkileşim gösterir.",
+    "correctAnswer": 1,
+    "explanation": "Iyonik bağlı bileşikler, katı haldeyken elektrik iletkenliği göstermezler ancak çözündüklerinde veya sıvı hale geldiklerinde iyi elektrik iletkenleri olurlar.",
     "difficulty": 3
   }
 ]
