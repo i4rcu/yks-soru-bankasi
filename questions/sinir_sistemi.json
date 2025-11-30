@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519384777_0",
+    "id": "ai_1764520349823_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin temel birimi nedir?",
+    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
     "options": [
-      "Nöron",
-      "Glial hücre",
-      "Sinaps",
+      "Otonom sinir sistemi",
+      "Somatik sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Duyusal sinir sistemi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520349824_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
+    "options": [
+      "Dendrit",
       "Akson",
-      "Dendrit"
+      "Soma",
+      "Sinaps",
+      "Nükleoz"
     ],
-    "correctAnswer": 0,
-    "explanation": "Sinir sisteminin temel işlevsel birimi nörondur. Nöronlar elektriksel sinyalleri iletmek ve bilgi işlemek için özelleşmiştir.",
+    "correctAnswer": 3,
+    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519384777_1",
+    "id": "ai_1764520349824_2",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Otonom sinir sistemi hangi işlevleri kontrol eder?",
+    "questionText": "Refleks arc'inin temel işlevi nedir?",
     "options": [
-      "Gönüllü hareketler",
-      "Duyusal algılar",
-      "İç organların otomatik işlevleri",
-      "Düşünme ve hafıza",
-      "Göz hareketleri"
+      "Hormon üretmek",
+      "Duyusal bilgiyi işlemek",
+      "İstemli hareketleri başlatmak",
+      "Hızlı yanıt vermek",
+      "Duyusal algıları artırmak"
     ],
-    "correctAnswer": 2,
-    "explanation": "Otonom sinir sistemi, kalp atışı, sindirim ve solunum gibi iç organların otomatik işlevlerini kontrol eder ve bilinçli irade ile yönetilmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519384777_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Merkezi sinir sistemi hangi yapıdan oluşur?",
-    "options": [
-      "Beyin ve omurilik",
-      "Sinirler ve ganglionlar",
-      "Duyu organları",
-      "Kaslar",
-      "Bağ dokusu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Merkezi sinir sistemi, beyin ve omurilikten oluşur. Bu yapı, vücutta bilgi işleme ve yönlendirme görevlerini üstlenir.",
+    "correctAnswer": 3,
+    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
     "difficulty": 3
   }
 ]
