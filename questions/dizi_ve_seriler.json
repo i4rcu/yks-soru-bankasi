@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764498111227_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir (a_n) aritmetik dizisinde a₅ + a₁₁ = 30 olduğuna göre, bu dizinin 8. terimi (a₈) kaçtır?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir aritmetik dizide, herhangi bir terim kendisine eşit uzaklıktaki terimlerin aritmetik ortalamasına eşittir. Yani aₙ = (aₙ₋ₖ + aₙ₊ₖ) / 2'dir. Bu soruda a₈ terimi, a₅ ve a₁₁ terimlerine eşit uzaklıktadır (8 - 5 = 3 ve 11 - 8 = 3). Dolayısıyla a₈ = (a₅ + a₁₁) / 2'dir. Verilen a₅ + a₁₁ = 30 eşitliğini kullanarak a₈ = 30 / 2 = 15 buluruz. Alternatif olarak, aritmetik dizi özelliğinden p + q = r + s ise aₚ + a_q = a_r + a_s'dir. 5 + 11 = 16 ve 8 + 8 = 16 olduğundan, a₅ + a₁₁ = a₈ + a₈ = 2a₈ olur. Buradan 2a₈ = 30 ve a₈ = 15 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498111227_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinin ilk terimi 3 ve ortak çarpanı 2'dir. Bu dizinin ilk n teriminin toplamı 381 olduğuna göre, n kaçtır?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir geometrik dizinin ilk n terim toplamı (Sₙ) formülü: Sₙ = a₁ * (rⁿ - 1) / (r - 1) şeklindedir. Soruda verilenler: ilk terim a₁ = 3, ortak çarpan r = 2 ve ilk n terim toplamı Sₙ = 381. Bu değerleri formülde yerine yazalım: 381 = 3 * (2ⁿ - 1) / (2 - 1). Paydadaki (2-1) = 1 olduğu için denklem 381 = 3 * (2ⁿ - 1) haline gelir. Her iki tarafı 3'e böldüğümüzde 127 = 2ⁿ - 1 olur. -1'i karşıya attığımızda 128 = 2ⁿ elde ederiz. 128, 2'nin 7. kuvveti olduğundan (128 = 2⁷), n = 7 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498111227_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "(a_n) ortak farkı sıfırdan farklı bir aritmetik dizidir. Bu dizinin a₁, a₂ ve a₆ terimleri sırasıyla bir geometrik dizinin ardışık üç terimini oluşturmaktadır. a₁ = 2 olduğuna göre, bu aritmetik dizinin ortak farkı (d) kaçtır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aritmetik dizinin ortak farkına 'd' diyelim. a₁ = 2 olarak verilmiş. Dizinin terimlerini 'd' cinsinden yazalım: a₁ = 2, a₂ = a₁ + d = 2 + d, a₆ = a₁ + 5d = 2 + 5d. Bu üç terim (2, 2+d, 2+5d) aynı zamanda bir geometrik dizinin ardışık terimleridir. Bir geometrik dizide ortadaki terimin karesi, diğer iki terimin çarpımına eşittir. Yani (a₂)² = a₁ * a₆. Değerleri yerine koyalım: (2 + d)² = 2 * (2 + 5d). Parantezleri açalım: 4 + 4d + d² = 4 + 10d. Denklemi düzenleyelim: d² + 4d - 10d + 4 - 4 = 0, bu da d² - 6d = 0 olur. Denklemi d parantezine alırsak d(d - 6) = 0 buluruz. Bu denklemin kökleri d=0 ve d=6'dır. Soruda ortak farkın sıfırdan farklı olduğu belirtildiği için d=0 çözümünü alamayız. Dolayısıyla, ortak fark d = 6'dır.",
+    "difficulty": 3
+  }
+]
