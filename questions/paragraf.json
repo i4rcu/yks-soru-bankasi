@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520393270_0",
+    "id": "ai_1764521016878_0",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi şekilde ifade etmektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, verilen paragraftaki ana fikri en iyi şekilde ifade etmektedir?",
     "options": [
-      "Çalışmak, başarıya giden yolda önemli bir adımdır.",
-      "Başarı, sadece şansa bağlıdır.",
-      "Çalışmanın yanında dinlenmek de gereklidir.",
-      "İnsanlar, farklı alanlarda yeteneklidir.",
-      "Başarı, herkesin ulaşabileceği bir hedeftir."
+      "A) İnsanların doğayla olan ilişkisi karmaşık bir yapıya sahiptir.",
+      "B) Doğa, insan yaşamının vazgeçilmez bir parçasıdır.",
+      "C) Teknolojik gelişmeler, doğanın korunmasına katkı sağlamaktadır.",
+      "D) İnsanlar, doğayı korumak için çeşitli yöntemler geliştirmektedir.",
+      "E) Doğa, insanlara sadece kaynak sağlamaktadır."
     ],
-    "correctAnswer": 0,
-    "explanation": "Ana fikir, paragrafa yön veren temel düşüncedir. İlk seçenek, çalışmanın önemini vurgulayarak ana fikri ifade etmektedir.",
+    "correctAnswer": 1,
+    "explanation": "Paragrafta doğanın insan yaşamındaki önemi vurgulanmakta ve bu ilişki üzerinden ana fikir oluşturulmaktadır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520393270_1",
+    "id": "ai_1764521016879_1",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın detaylandırıcı unsuru olarak kullanılabilir?",
+    "questionText": "Verilen paragrafta hangi kavram üzerinde daha fazla durulmamaktadır?",
     "options": [
-      "Çocukların eğitimde rolü büyüktür.",
-      "Eğitim, bireylerin geleceğini şekillendirir.",
-      "Daha fazla kitap okumak, bilgiyi artırır.",
-      "Çocukların eğitimdeki rolü, toplumsal gelişim açısından önemlidir.",
-      "Eğitim sistemi, sürekli olarak güncellenmelidir."
+      "A) Sürdürülebilirlik",
+      "B) Ekosistem dengesi",
+      "C) İnsan etkisi",
+      "D) Tarımsal üretim",
+      "E) Doğal kaynaklar"
     ],
     "correctAnswer": 3,
-    "explanation": "Detaylandırıcı unsurlar, ana fikri destekleyen açıklamalardır. Dördüncü seçenek, çocukların eğitimdeki rolünü açıklayarak detaylandırıcı bir unsur sunmaktadır.",
+    "explanation": "Paragrafta insan etkisi ve doğal kaynaklar üzerinde durulurken, tarımsal üretim kavramına yeterince yer verilmemiştir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520393270_2",
+    "id": "ai_1764521016879_2",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki paragrafa en uygun başlık hangisidir?",
+    "questionText": "Paragraftaki bilgilerden hangisi yanlıştır?",
     "options": [
-      "Doğa ve İnsan",
-      "Teknolojinin Gelişimi",
-      "Okumanın Önemi",
-      "Sanat ve Kültür",
-      "Eğitimde Yenilikler"
+      "A) Hava kirliliği, insan sağlığını olumsuz etkiler.",
+      "B) Su kaynaklarının azalması, tarımsal üretimi tehdit eder.",
+      "C) Doğal yaşam alanlarının yok olması, biyoçeşitliliği artırır.",
+      "D) Enerji tüketiminin azaltılması, çevre dostu bir yaklaşım olarak görülmektedir.",
+      "E) Atık yönetimi, doğal kaynakların korunmasında önemlidir."
     ],
     "correctAnswer": 2,
-    "explanation": "Paragrafın içeriği, okumanın bireyler üzerindeki etkilerini ve önemini vurguluyorsa, en uygun başlık 'Okumanın Önemi' olacaktır.",
+    "explanation": "Doğal yaşam alanlarının yok olması biyoçeşitliliği artırmaz, aksine azaltır. Bu, paragraftaki yanlış bilgidir.",
     "difficulty": 3
   }
 ]
