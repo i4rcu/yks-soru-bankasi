@@ -1,130 +1,178 @@
 [
   {
-    "id": "ai_1764500727133_0",
+    "id": "ai_1764519904362_0",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = (x² + 3x) / (x - 1) fonksiyonu için f'(2) değeri kaçtır?",
+    "questionText": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevi nedir?",
     "options": [
-      "-10",
-      "-7",
-      "-3",
-      "3",
-      "7"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için bölümün türevi kuralını kullanmalıyız. Bölümün türevi kuralı: (u/v)' = (u'v - uv') / v². Burada u(x) = x² + 3x ve v(x) = x - 1'dir.\n\nu'(x) = 2x + 3\nv'(x) = 1\n\nf'(x) = [(2x + 3)(x - 1) - (x² + 3x)(1)] / (x - 1)²\n\nŞimdi x yerine 2 yazalım:\nf'(2) = [(2*2 + 3)(2 - 1) - (2² + 3*2)(1)] / (2 - 1)²\nf'(2) = [(4 + 3)(1) - (4 + 6)] / 1²\nf'(2) = [7 * 1 - 10] / 1\nf'(2) = 7 - 10 = -3",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500727133_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (x² - 4x + 5)³ fonksiyonu veriliyor. Buna göre, f'(1) değeri kaçtır?",
-    "options": [
-      "-48",
-      "-24",
-      "-12",
-      "12",
-      "24"
+      "3x + 2",
+      "6x + 2",
+      "6x + 1",
+      "2x + 1",
+      "3x^2 + 2"
     ],
     "correctAnswer": 1,
-    "explanation": "Bu soruda zincir kuralını kullanmamız gerekiyor. Zincir kuralı: [g(h(x))]' = g'(h(x)) * h'(x). \n\nFonksiyonun türevini alalım:\nf'(x) = 3 * (x² - 4x + 5)^(3-1) * (x² - 4x + 5)'\nf'(x) = 3 * (x² - 4x + 5)² * (2x - 4)\n\nŞimdi türev fonksiyonunda x yerine 1 yazalım:\nf'(1) = 3 * (1² - 4*1 + 5)² * (2*1 - 4)\nf'(1) = 3 * (1 - 4 + 5)² * (2 - 4)\nf'(1) = 3 * (2)² * (-2)\nf'(1) = 3 * 4 * (-2)\nf'(1) = -24",
+    "explanation": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevi f'(x) = 6x + 2 olarak bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500727133_2",
+    "id": "ai_1764519904363_1",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "y = x³ - 2x² + 3 eğrisine x = 2 apsisli noktasından çizilen teğetin denklemi aşağıdakilerden hangisidir?",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini hesaplayın.",
     "options": [
-      "y = 4x - 5",
-      "y = 4x + 3",
-      "y = 2x - 1",
-      "y = 4x - 8",
-      "y = 2x + 3"
+      "cos(x) - sin(x)",
+      "sin(x) - cos(x)",
+      "-sin(x) + cos(x)",
+      "sin(x) + cos(x)",
+      "cos(x) + sin(x)"
     ],
     "correctAnswer": 0,
-    "explanation": "Bir eğriye bir noktadan çizilen teğetin denklemini bulmak için 3 adım izlenir:\n1. Noktanın koordinatlarını bul: x=2 için y değerini bulalım.\ny = 2³ - 2(2)² + 3 = 8 - 8 + 3 = 3. Demek ki nokta (2, 3).\n\n2. Teğetin eğimini bul: Eğim, fonksiyonun o noktadaki türevine eşittir. Önce fonksiyonun türevini alalım.\ny' = 3x² - 4x\nŞimdi x=2 için eğimi (m) bulalım.\nm = y'(2) = 3(2)² - 4(2) = 12 - 8 = 4.\n\n3. Noktası ve eğimi bilinen doğru denklemini yaz: y - y₁ = m(x - x₁)\ny - 3 = 4(x - 2)\ny - 3 = 4x - 8\ny = 4x - 5",
+    "explanation": "f(x) = sin(x) + cos(x) olduğundan, f'(x) = cos(x) - sin(x) olarak bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500727134_3",
+    "id": "ai_1764519904363_2",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = (1/3)x³ - 2x² - 5x + 1 fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
+    "questionText": "f(x) = e^(2x) fonksiyonunun türevini bulun.",
     "options": [
-      "-5",
-      "-1",
-      "1",
-      "2",
-      "5"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir fonksiyonun yerel ekstremum (maksimum veya minimum) noktalarını bulmak için önce türevini alıp sıfıra eşitleriz. Bu bize kritik noktaları verir.\n\nf'(x) = x² - 4x - 5\n\nf'(x) = 0 => x² - 4x - 5 = 0\nÇarpanlarına ayıralım: (x - 5)(x + 1) = 0\nKritik noktalar x = 5 ve x = -1'dir.\n\nHangi noktanın minimum olduğunu anlamak için ikinci türev testini kullanabiliriz.\nf''(x) = 2x - 4\n\nf''(-1) = 2(-1) - 4 = -6. Sonuç negatif olduğu için x = -1 yerel maksimum noktasının apsisidir.\nf''(5) = 2(5) - 4 = 6. Sonuç pozitif olduğu için x = 5 yerel minimum noktasının apsisidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500727134_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 2x³ - 9x² + 12x - 5 fonksiyonunun artan olduğu en geniş aralık aşağıdakilerden hangisidir?",
-    "options": [
-      "(1, 2)",
-      "(-∞, 1)",
-      "(2, ∞)",
-      "(-∞, 1) U (2, ∞)",
-      "(-∞, -2) U (-1, ∞)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bir fonksiyonun artan olduğu aralık, birinci türevinin pozitif olduğu aralıktır (f'(x) > 0).\n\nÖnce fonksiyonun türevini alalım:\nf'(x) = 6x² - 18x + 12\n\nŞimdi türevin 0'dan büyük olduğu aralığı bulalım:\n6x² - 18x + 12 > 0\nHer tarafı 6'ya bölelim:\nx² - 3x + 2 > 0\nÇarpanlarına ayıralım:\n(x - 1)(x - 2) > 0\n\nBu eşitsizliğin kökleri x=1 ve x=2'dir. Başkatsayısı pozitif olan bir parabol olduğu için, kökler dışında pozitif değerler alır. İşaret tablosu çizerek de görülebilir.\n\n      +      -      +\n-----|------|----->\n     1      2\n\nİşaretin pozitif olduğu aralıklar (-∞, 1) ve (2, ∞)'dur. Bu iki aralığın birleşimi fonksiyonun artan olduğu en geniş aralıktır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500727134_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "Yukarıda y = f'(x) fonksiyonunun grafiği verilmiştir. Buna göre, f(x) fonksiyonu için aşağıdakilerden hangisi kesinlikle doğrudur?",
-    "options": [
-      "f(x) fonksiyonunun x=-3'te yerel minimumu vardır.",
-      "f(x) fonksiyonu (-3, 2) aralığında azalandır.",
-      "f(x) fonksiyonunun x=2'de yerel maksimumu vardır.",
-      "f(5) > f(4)",
-      "f(-4) < f(-5)"
+      "2e^(2x)",
+      "e^(2x)",
+      "e^(2x) + 2",
+      "2x e^(2x)",
+      "e^(x)"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) grafiği, f(x) fonksiyonunun eğimi hakkında bilgi verir.\n- f'(x) > 0 ise f(x) artandır.\n- f'(x) < 0 ise f(x) azalandır.\n- f'(x) = 0 ise f(x)'in yerel ekstremum noktası olabilir.\n\nGrafiği inceleyelim:\n- x < -3 için f'(x) < 0 olduğundan f(x) azalandır.\n- x = -3 için f'(x) = 0'dır.\n- -3 < x < 2 için f'(x) > 0 olduğundan f(x) artandır.\n- x = 2 için f'(x) = 0'dır.\n- x > 2 için f'(x) > 0 olduğundan f(x) artandır.\n\nA) x=-3 noktasında f'(x) negatiften pozitife geçtiği için (fonksiyon azalanlıktan artanlığa geçtiği için) bir yerel minimum vardır. Bu ifade doğrudur.\nB) (-3, 2) aralığında f'(x) > 0 olduğu için f(x) artandır, azalan değil.\nC) x=2 noktasında f'(x) işaret değiştirmediği için (pozitif kalmaya devam ettiği için) bir ekstremum nokta değildir. Burası bir büküm noktasıdır.\nD) (2, ∞) aralığında f'(x) > 0 olduğu için f(x) artandır. Dolayısıyla x değerleri büyüdükçe y değerleri de büyür. f(5) > f(4) ifadesi doğrudur. Ancak soruda kesinlikle doğru olan soruluyor. A şıkkı tanım gereği kesin doğrudur. *Düzeltme: A şıkkı daha temel bir çıkarımdır ve ekstremum tanımıdır. İkisi de doğru gibi görünse de ekstremum tanımı daha güçlüdür.* Tekrar kontrol edelim: A şıkkı x=-3'te fonksiyon azalandan artana geçtiği için yerel minimum tanımına uyar. Bu kesin doğrudur.\nD şıkkı x=4 ve x=5 aralığında f(x) artan olduğu için f(5) > f(4) doğrudur. Ancak seçenekler arasında en temel ve kesin olan ekstremum noktasıdır. YKS formatında A şıkkı beklenir.\nE) (-∞, -3) aralığında f'(x) < 0 olduğu için f(x) azalandır. Yani x değeri küçüldükçe y değeri büyür. f(-4) > f(-5) olmalıdır. Bu ifade yanlıştır.",
+    "explanation": "f(x) = e^(2x) olduğundan, f'(x) = 2e^(2x) olarak bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500727134_6",
+    "id": "ai_1764519904363_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x³ - 2x² + 5 olduğuna göre, lim(h→0) [f(1+h) - f(1)] / h limitinin değeri kaçtır?",
+    "questionText": "f(x) = ln(x) fonksiyonunun türevini hesaplayın.",
     "options": [
-      "-2",
+      "1/x",
+      "ln(x)",
+      "x",
+      "x^2",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = ln(x) olduğundan, f'(x) = 1/x olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 3x^2 + 2 fonksiyonunun türevinin x=1'deki değerini bulun.",
+    "options": [
       "-1",
       "0",
       "1",
+      "2",
       "3"
     ],
-    "correctAnswer": 1,
-    "explanation": "Limit ifadesi, türevin tanımıdır. lim(h→0) [f(a+h) - f(a)] / h = f'(a) şeklindedir.\n\nBu soruda a=1 olarak verilmiştir. Dolayısıyla bizden istenen değer f'(1)'dir.\n\nÖnce f(x) fonksiyonunun türevini bulalım:\nf(x) = x³ - 2x² + 5\nf'(x) = 3x² - 4x\n\nŞimdi türev fonksiyonunda x yerine 1 yazalım:\nf'(1) = 3(1)² - 4(1)\nf'(1) = 3 - 4 = -1\n\nBu nedenle limitin değeri -1'dir.",
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 3x^2 - 6x ve x=1'de f'(1) = 3(1)^2 - 6(1) = -3 olarak hesaplanır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500727134_7",
+    "id": "ai_1764519904363_5",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "Çevresinin uzunluğu 40 metre olan bir dikdörtgenin alanı en çok kaç metrekare olabilir?",
+    "questionText": "f(x) = x^4 + 4x^3 - 2x + 1 fonksiyonunun türevini bulun.",
     "options": [
-      "80",
-      "96",
-      "100",
-      "120",
-      "400"
+      "4x^3 + 12x^2 - 2",
+      "4x^3 + 12x^2 + 2",
+      "3x^3 + 12x^2",
+      "4x^3 - 2",
+      "2x + 1"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bu bir maksimum-minimum (optimizasyon) problemidir.\n\nDikdörtgenin kenarları x ve y olsun.\nÇevresi: 2(x + y) = 40 => x + y = 20 => y = 20 - x\n\nAlanı (A): A = x * y\ny yerine (20 - x) yazarak alanı tek bir değişkene bağlı ifade edelim:\nA(x) = x * (20 - x)\nA(x) = 20x - x²\n\nAlanın maksimum olması için türevini alıp sıfıra eşitlemeliyiz:\nA'(x) = 20 - 2x\n\nA'(x) = 0 => 20 - 2x = 0 => 2x = 20 => x = 10\n\nx = 10 ise, y = 20 - 10 = 10 olur. Bu, şeklin bir kare olduğunu gösterir.\n\nMaksimum alan = x * y = 10 * 10 = 100 metrekare.\n\nİkinci türev ile kontrol edebiliriz: A''(x) = -2. A''(10) = -2 < 0 olduğu için bu değer gerçekten bir maksimumdur.",
+    "correctAnswer": 0,
+    "explanation": "f(x) = x^4 + 4x^3 - 2x + 1 olduğundan, f'(x) = 4x^3 + 12x^2 - 2 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = tan(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "sec^2(x)",
+      "csc^2(x)",
+      "sin^2(x)",
+      "cos^2(x)",
+      "tan^2(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = tan(x) olduğundan, f'(x) = sec^2(x) olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun türevini bulun ve x=0 için değerini hesaplayın.",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 2x + 2 ve x=0'da f'(0) = 2(0) + 2 = 2 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_8",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 5x^2 + 3x - 7 fonksiyonunun x=1'deki türev değerini hesaplayın.",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 10x + 3 ve x=1'de f'(1) = 10(1) + 3 = 13 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "5x^4 - 15x^2 + 4",
+      "5x^4 - 15x^3 + 4",
+      "15x^2 - 5",
+      "5x^4 + 4",
+      "5x^5 - 15x^3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = x^5 - 5x^3 + 4x olduğundan, f'(x) = 5x^4 - 15x^2 + 4 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_10",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2x * ln(x) + x",
+      "2x * ln(x)",
+      "x^2/x",
+      "x^2 * 1/x",
+      "ln(x) + x^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = x^2 * ln(x) olduğundan, f'(x) = 2x * ln(x) + x olarak bulunur.",
     "difficulty": 3
   }
 ]
