@@ -1,66 +1,18 @@
 [
   {
-    "id": "ai_1764520420819_0",
+    "id": "ai_1764500388936_1",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
+    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
     "options": [
-      "A. ;",
-      "B. ,",
-      "C. .",
-      "D. :",
-      "E. ?"
+      "Desem ki vakitlerden bir nisan akşamıdır; rüzgârların en ferahlatıcısı senden esiyor...",
+      "Bu karar, Meclisin 17'nci birleşiminin 2'nci oturumunda oy birliğiyle alındı.",
+      "Ankara'ya -doğup büyüdüğüm o güzel şehre- yıllar sonra tekrar dönmüştüm.",
+      "Eve geldi mi, hemen televizyonu açar, saatlerce kanallar arasında gezinirdi.",
+      "Bu projeyi ya yarın bitireceğiz, ya da sunuma yetiştiremeyeceğiz."
     ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520420819_1",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Hangi cümlede virgül yanlış kullanılmıştır?",
-    "options": [
-      "A. Bugün hava çok sıcak, dışarı çıkmak istemiyorum.",
-      "B. Ahmet, sinema biletlerini almayı unuttu.",
-      "C. Elma, armut, muz ve çilek aldım.",
-      "D. Sabah erken kalktım, kahvaltı yaptım.",
-      "E. Kitap okuyorum, müzik dinliyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "İlk cümlede virgül kullanılmamalıdır çünkü 'çok sıcak' ifadesi bir bütün olarak düşünülmelidir ve cümledeki akışı kesmemelidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520420819_2",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlış kullanılmıştır? 'Bütün gün çalıştım; ama sonuç aldım.'",
-    "options": [
-      "A. ;",
-      "B. ,",
-      "C. .",
-      "D. :",
-      "E. ?"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede bağlaç olan 'ama' öncesinde noktalı virgül yerine virgül kullanılması gerekmektedir. Doğru kullanım: 'Bütün gün çalıştım, ama sonuç aldım.'",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499019123_0",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Genç şairin şiirlerinde üç temel duygu öne çıkıyordu (I) umut, hüzün ve yalnızlık (II) romanlarında ise bambaşka bir dünya vardı (III) macera ve keşif arzusu (IV)",
-    "options": [
-      "(:) (,) (:) (.)",
-      "(:) (;) (:) (.)",
-      "(;) (,) (,) (...)",
-      "(:) (;) (,) (...)",
-      "(...) (,) (:) (.)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu cümlede parantezlerle belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şunlardır: (I) Kendisinden sonra örnek verilecek veya açıklama yapılacak cümlenin sonuna iki nokta (:) konur. Burada 'üç temel duygu' açıklanmaktadır. (II) Cümle içinde virgüllerle ayrılmış tür veya takımları birbirinden ayırmak için noktalı virgül (;) kullanılır. İlk cümle ('Genç şairin... yalnızlık') içinde virgül kullanılarak bir liste verilmiştir. Bu cümlenin, yine anlamca bağlantılı olan ikinci cümleye ('romanlarında ise...') bağlanması için noktalı virgül gereklidir. (III) Yine kendisinden sonra örnek verileceği için iki nokta (:) kullanılmalıdır. Burada 'bambaşka bir dünya'nın ne olduğu açıklanmaktadır. (IV) 'Macera ve keşif arzusu' ifadesiyle cümle tamamlandığı için sonuna nokta (.) konulmalıdır. Bu sıralama B şıkkında doğru olarak verilmiştir.",
+    "correctAnswer": 4,
+    "explanation": "Türkçede tekrarlı bağlaçlardan (hem... hem..., ne... ne..., ya... ya...) önce veya sonra virgül kullanılmaz. E şıkkındaki cümlede \"ya... ya da...\" tekrarlı bağlacı kullanılmıştır ve bu bağlaçların arasına virgül konulması bir noktalama hatasıdır. Cümlenin doğru yazımı \"Bu projeyi ya yarın bitireceğiz ya da sunuma yetiştiremeyeceğiz.\" şeklinde olmalıdır. Diğer şıklardaki noktalama işaretlerinin kullanımları doğrudur: A'da sıralı cümleleri ayırmak için noktalı virgül ve bitmemiş cümle sonunda üç nokta; B'de sıra bildiren sayılardan sonra nokta; C'de ara sözü belirtmek için kısa çizgi; D'de zarf-fiil eki yerine kullanılan \"mi\" edatından sonra virgül doğru kullanılmıştır.",
     "difficulty": 3
   },
   {
@@ -80,6 +32,38 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764520420819_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Ali, kitaplarını kütüphaneden ... aldı.'",
+    "options": [
+      "A. ;",
+      "B. ,",
+      "C. .",
+      "D. :",
+      "E. ?"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede belirtilen durum, bir eylemin tamamlandığını ifade ettiği için cümlenin sonuna nokta (.) konulması gerekmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519453791_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? 'Ahmet çok çalıştı ___ bu sınavı geçecektir.'",
+    "options": [
+      "A) ,",
+      "B) .",
+      "C) ;",
+      "D) :",
+      "E) ?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede neden-sonuç ilişkisi kurmak için virgül (,) kullanılmalıdır. Ahmet'in çok çalışması, sınavı geçmesinin sebebidir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764500388936_0",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -96,19 +80,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500388936_1",
+    "id": "ai_1764520420819_1",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
+    "questionText": "Hangi cümlede virgül yanlış kullanılmıştır?",
     "options": [
-      "Desem ki vakitlerden bir nisan akşamıdır; rüzgârların en ferahlatıcısı senden esiyor...",
-      "Bu karar, Meclisin 17'nci birleşiminin 2'nci oturumunda oy birliğiyle alındı.",
-      "Ankara'ya -doğup büyüdüğüm o güzel şehre- yıllar sonra tekrar dönmüştüm.",
-      "Eve geldi mi, hemen televizyonu açar, saatlerce kanallar arasında gezinirdi.",
-      "Bu projeyi ya yarın bitireceğiz, ya da sunuma yetiştiremeyeceğiz."
+      "A. Bugün hava çok sıcak, dışarı çıkmak istemiyorum.",
+      "B. Ahmet, sinema biletlerini almayı unuttu.",
+      "C. Elma, armut, muz ve çilek aldım.",
+      "D. Sabah erken kalktım, kahvaltı yaptım.",
+      "E. Kitap okuyorum, müzik dinliyorum."
     ],
-    "correctAnswer": 4,
-    "explanation": "Türkçede tekrarlı bağlaçlardan (hem... hem..., ne... ne..., ya... ya...) önce veya sonra virgül kullanılmaz. E şıkkındaki cümlede \"ya... ya da...\" tekrarlı bağlacı kullanılmıştır ve bu bağlaçların arasına virgül konulması bir noktalama hatasıdır. Cümlenin doğru yazımı \"Bu projeyi ya yarın bitireceğiz ya da sunuma yetiştiremeyeceğiz.\" şeklinde olmalıdır. Diğer şıklardaki noktalama işaretlerinin kullanımları doğrudur: A'da sıralı cümleleri ayırmak için noktalı virgül ve bitmemiş cümle sonunda üç nokta; B'de sıra bildiren sayılardan sonra nokta; C'de ara sözü belirtmek için kısa çizgi; D'de zarf-fiil eki yerine kullanılan \"mi\" edatından sonra virgül doğru kullanılmıştır.",
+    "correctAnswer": 0,
+    "explanation": "İlk cümlede virgül kullanılmamalıdır çünkü 'çok sıcak' ifadesi bir bütün olarak düşünülmelidir ve cümledeki akışı kesmemelidir.",
     "difficulty": 3
   },
   {
@@ -128,6 +112,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764499019123_0",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Genç şairin şiirlerinde üç temel duygu öne çıkıyordu (I) umut, hüzün ve yalnızlık (II) romanlarında ise bambaşka bir dünya vardı (III) macera ve keşif arzusu (IV)",
+    "options": [
+      "(:) (,) (:) (.)",
+      "(:) (;) (:) (.)",
+      "(;) (,) (,) (...)",
+      "(:) (;) (,) (...)",
+      "(...) (,) (:) (.)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu cümlede parantezlerle belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şunlardır: (I) Kendisinden sonra örnek verilecek veya açıklama yapılacak cümlenin sonuna iki nokta (:) konur. Burada 'üç temel duygu' açıklanmaktadır. (II) Cümle içinde virgüllerle ayrılmış tür veya takımları birbirinden ayırmak için noktalı virgül (;) kullanılır. İlk cümle ('Genç şairin... yalnızlık') içinde virgül kullanılarak bir liste verilmiştir. Bu cümlenin, yine anlamca bağlantılı olan ikinci cümleye ('romanlarında ise...') bağlanması için noktalı virgül gereklidir. (III) Yine kendisinden sonra örnek verileceği için iki nokta (:) kullanılmalıdır. Burada 'bambaşka bir dünya'nın ne olduğu açıklanmaktadır. (IV) 'Macera ve keşif arzusu' ifadesiyle cümle tamamlandığı için sonuna nokta (.) konulmalıdır. Bu sıralama B şıkkında doğru olarak verilmiştir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764519453790_0",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -144,6 +144,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764520420819_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti yanlış kullanılmıştır? 'Bütün gün çalıştım; ama sonuç aldım.'",
+    "options": [
+      "A. ;",
+      "B. ,",
+      "C. .",
+      "D. :",
+      "E. ?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede bağlaç olan 'ama' öncesinde noktalı virgül yerine virgül kullanılması gerekmektedir. Doğru kullanım: 'Bütün gün çalıştım, ama sonuç aldım.'",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764519453790_1",
     "subjectId": "tur",
     "topic": "Noktalama",
@@ -157,22 +173,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Cümlede 've' bağlacından sonra virgül gereksiz bir kullanım oluşturur. Doğru kullanımda virgül kullanılmamalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519453791_2",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? 'Ahmet çok çalıştı ___ bu sınavı geçecektir.'",
-    "options": [
-      "A) ,",
-      "B) .",
-      "C) ;",
-      "D) :",
-      "E) ?"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede neden-sonuç ilişkisi kurmak için virgül (,) kullanılmalıdır. Ahmet'in çok çalışması, sınavı geçmesinin sebebidir.",
     "difficulty": 3
   }
 ]
