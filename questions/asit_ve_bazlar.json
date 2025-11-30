@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501254018_0",
+    "id": "ai_1764519313122_0",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "NH₃(suda) + H₂O(s) ⇌ NH₄⁺(suda) + OH⁻(suda)\n\nYukarıda verilen denge tepkimesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "Bir asidin su ile tepkimesi sonucunda oluşan çözeltinin pH değeri genellikle nasıl bir değişim gösterir?",
     "options": [
-      "H₂O, NH₃'e karşı baz gibi davranmıştır.",
-      "NH₃, NH₄⁺ iyonunun eşlenik bazıdır.",
-      "Tepkime bir nötralleşme tepkimesidir.",
-      "NH₄⁺ iyonu, OH⁻ iyonuna proton (H⁺) vermiştir.",
-      "H₂O, proton vererek eşlenik bazı olan OH⁻'ye dönüşmüştür."
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Sabitleşir",
+      "Hafif asidik kalır"
     ],
-    "correctAnswer": 4,
-    "explanation": "Brønsted-Lowry asit-baz tanımına göre proton (H⁺) veren madde asit, proton alan madde ise bazdır. \nTepkimede H₂O molekülü, NH₃ molekülüne bir adet proton (H⁺) vererek OH⁻ iyonuna dönüşmüştür. Bu durumda H₂O asit, onun eşlenik (konjuge) bazı ise OH⁻'dir. NH₃ ise H₂O'dan proton aldığı için baz, onun eşlenik asidi de NH₄⁺'dır. \nA) H₂O proton verdiği için asit gibi davranmıştır. Bu şık yanlıştır. \nB) NH₃ bazdır ve eşlenik asidi NH₄⁺'dır. Dolayısıyla NH₄⁺ iyonunun eşlenik bazı NH₃'tür. Bu şık doğru gibi görünse de ifadenin kuruluşu terstir; NH₃, NH₄⁺'nın eşlenik bazıdır ifadesi doğrudur, ancak B şıkkında bu ifade doğru kurulmamıştır. Soruda istenen tepkimeye göre en doğru ifadedir. Fakat E şıkkı daha temel ve net bir doğrudur. Brønsted-Lowry tanımına göre NH₃, NH₄⁺ iyonunun eşlenik bazıdır. Bu ifade doğrudur, ancak E seçeneği tepkimenin kendisini daha doğrudan açıklar.\nC) Bu tepkime bir bazın suda iyonlaşma denklemidir, bir asit ve bazın tepkimeye girerek tuz ve su oluşturduğu nötralleşme tepkimesi değildir. Bu şık yanlıştır. \nD) Tepkime ileri yönde incelendiğinde H₂O, NH₃'e proton vermiştir. Geri yönde ise NH₄⁺, OH⁻'ye proton verir. Ancak ifadenin genel doğruluğu tepkimenin ileri yönüne göre değerlendirilir. Bu şık yanlıştır. \nE) H₂O, NH₃'e bir proton (H⁺) vererek asit gibi davranmış ve eşlenik bazı olan OH⁻ (hidroksit) iyonuna dönüşmüştür. Bu ifade tepkimeyi Brønsted-Lowry tanımına göre doğru bir şekilde açıklamaktadır. Bu nedenle doğru cevap E'dir. (Not: B şıkkı da teknik olarak doğru bir tanım içerir ancak E şıkkı tepkimedeki olayı doğrudan anlatan en net ifadedir.)",
+    "correctAnswer": 1,
+    "explanation": "Asitler su ile tepkimeye girdiğinde hidrojen iyonları (H+) salınır ve bu da çözeltinin pH değerinin düşmesine neden olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501254018_1",
+    "id": "ai_1764519313122_1",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Oda koşullarında (25 °C) hazırlanan eşit derişimli ve eşit hacimli HCl (kuvvetli asit), CH₃COOH (zayıf asit) ve KOH (kuvvetli baz) sulu çözeltileri ile ilgili aşağıdaki yargılardan hangisi *yanlıştır*?",
+    "questionText": "Aşağıdaki maddelerden hangisi güçlü bir bazdır?",
     "options": [
-      "pH değeri en büyük olan KOH çözeltisidir.",
-      "Elektrik iletkenliği en fazla olanlar HCl ve KOH çözeltileridir.",
-      "HCl ve KOH çözeltileri karıştırıldığında oluşan tuz nötr özellik gösterir.",
-      "CH₃COOH çözeltisindeki H⁺ iyonu derişimi, HCl çözeltisindeki H⁺ iyonu derişimine eşittir.",
-      "CH₃COOH ve KOH çözeltileri arasında nötralleşme tepkimesi gerçekleşir."
+      "Sodyum hidroksit (NaOH)",
+      "Amonyak (NH3)",
+      "Karbonat (CO3^2-)",
+      "Sodyum bikarbonat (NaHCO3)",
+      "Kalsiyum sülfat (CaSO4)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Verilen maddelerden HCl kuvvetli asit, CH₃COOH zayıf asit, KOH ise kuvvetli bazdır. \nA) pH ölçeğinde 7'den büyük değerler bazik, 7'den küçük değerler asidiktir. Baz olan KOH çözeltisinin pH'ı 7'den büyük, asit olan HCl ve CH₃COOH çözeltilerinin pH'ı 7'den küçüktür. Dolayısıyla pH'ı en büyük olan KOH'tır. Bu ifade doğrudur.\nB) Elektrik iletkenliği, çözeltideki iyon derişimi ile doğru orantılıdır. HCl ve KOH kuvvetli oldukları için suda %100'e yakın iyonlaşırlar. CH₃COOH ise zayıf asit olduğu için kısmen iyonlaşır ve iyon derişimi daha az olur. Bu nedenle HCl ve KOH çözeltilerinin iletkenliği CH₃COOH'den fazladır. Bu ifade doğrudur.\nC) HCl (kuvvetli asit) ve KOH (kuvvetli baz) tepkimeye girdiğinde KCl (potasyum klorür) tuzu ve su oluşur. Kuvvetli asit ve kuvvetli bazdan oluşan tuzlar nötr özellik gösterir ve hidroliz olmazlar. Bu ifade doğrudur.\nD) Çözeltilerin derişimleri eşit olsa da, HCl kuvvetli bir asit olduğu için tamamen iyonlaşır ([H⁺] = [HCl]). CH₃COOH ise zayıf bir asit olduğu için kısmen iyonlaşır ve denge oluşturur. Bu nedenle CH₃COOH çözeltisindeki [H⁺] iyonu derişimi, başlangıçtaki asit derişiminden daha azdır ve HCl çözeltisindeki [H⁺] derişiminden de küçüktür. Bu ifade yanlıştır.\nE) CH₃COOH bir asit, KOH ise bir bazdır. Asit ve bazların tepkimeleri nötralleşme tepkimesi olarak adlandırılır. Bu ifade doğrudur.",
+    "correctAnswer": 0,
+    "explanation": "Sodyum hidroksit (NaOH), güçlü bir bazdır ve su ile çözündüğünde yüksek oranda hidroksit iyonu (OH-) üretir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519313122_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH'ı 7'den düşükse, bu çözeltinin özelliği nedir?",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Sulu",
+      "İyonik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir çözeltinin pH değeri 7'den düşükse, bu çözeltinin asidik olduğunu gösterir. pH 7 nötr, 7'den yüksek olanlar ise bazik çözeltilerdir.",
     "difficulty": 3
   }
 ]
