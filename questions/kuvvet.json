@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520178392_0",
+    "id": "ai_1764521092961_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan 10 N'lik bir kuvvet, cismi 5 m/s² ivme ile hızlandırıyorsa, cismin kütlesi nedir?",
+    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m'lik bir mesafe kat ediyor. Bu durumda cisme yapılan iş nedir?",
     "options": [
-      "2 kg",
-      "5 kg",
-      "10 kg",
-      "15 kg",
-      "20 kg"
+      "5 J",
+      "10 J",
+      "20 J",
+      "15 J",
+      "25 J"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kuvvet = Kütle x İvme formülünden yola çıkarak, Kütle = Kuvvet / İvme = 10 N / 5 m/s² = 2 kg bulunur.",
+    "correctAnswer": 2,
+    "explanation": "İş, kuvvet ile mesafenin çarpımı ile hesaplanır: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520178392_1",
+    "id": "ai_1764521092961_1",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 20 N'lik bir kuvvet uygulanıyor ve bu kuvvet cismin 4 m/s² ivme kazanmasına neden oluyor. Cisim üzerindeki net kuvvet hangi yönü göstermektedir?",
+    "questionText": "Bir cismin kütlesi 5 kg ve üzerine etki eden kuvvet 30 N'dir. Cisim hangi ivmeyi kazanır?",
     "options": [
-      "Yukarı",
-      "Aşağı",
-      "Sağa",
-      "Sola",
-      "Cismin hareket yönü ile aynı"
+      "3 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "2 m/s²",
+      "4 m/s²"
     ],
-    "correctAnswer": 4,
-    "explanation": "Cisim pozitif bir ivme kazanıyorsa, net kuvvetin yönü cismin hareket yönü ile aynıdır. Dolayısıyla doğru cevap 'Cismin hareket yönü ile aynı' olur.",
+    "correctAnswer": 2,
+    "explanation": "Newton'un ikinci yasasına göre, F = m x a olduğundan, a = F/m = 30 N / 5 kg = 6 m/s².",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520178392_2",
+    "id": "ai_1764521092961_2",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 5 N'lik bir kuvvetle 3 m/s² ivme kazanıyorsa, cisim üzerinde hangi kuvvet etkili olabilir?",
+    "questionText": "Bir cisim 15 N'lik bir kuvvetle sürüklendiğinde, 3 m'lik bir mesafe katetmektedir. Kuvvetin yaptığı iş nedir?",
     "options": [
-      "5 N",
-      "10 N",
-      "15 N",
-      "20 N",
-      "25 N"
+      "10 J",
+      "45 J",
+      "30 J",
+      "50 J",
+      "20 J"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kuvvet = Kütle x İvme formülüne göre, Kütle = Kuvvet / İvme = 5 N / 3 m/s² = 1.67 kg bulunur. Bu durumda cisim üzerinde 5 N'lik bir kuvvet etkili olabilir.",
+    "correctAnswer": 2,
+    "explanation": "Yine iş, kuvvet ile mesafenin çarpımı ile bulunur: İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
     "difficulty": 3
   }
 ]
