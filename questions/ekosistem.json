@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501436482_0",
+    "id": "ai_1764519373123_0",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Bir karasal ekosistemde, üreticilerden son tüketicilere doğru gidildikçe genellikle aşağıdaki grafiklerde gösterilen değişimlerden hangisi gözlenmez?",
+    "questionText": "Bir ekosistemde enerji akışı hangi aşamada başlar?",
     "options": [
-      "Birey sayısının azaldığı",
-      "Aktarılan enerji miktarının azaldığı",
-      "Biyokütlenin (toplam organik madde miktarı) azaldığı",
-      "Biyolojik birikimin (zehirli madde birikimi) arttığı",
-      "Vücut büyüklüğünün azaldığı"
+      "Tüketiciler",
+      "Üreticiler",
+      "Çürükçüler",
+      "Avcılar",
+      "Parazitler"
     ],
-    "correctAnswer": 4,
-    "explanation": "Bir ekosistemdeki besin piramidinde, üretici basamağından son tüketici basamağına doğru çıkıldıkça; \n- Birey sayısı genellikle azalır. \n- Her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedildiği için bir üst basamağa aktarılan enerji miktarı azalır.\n- Birey sayısı ve enerji miktarı azaldığı için toplam biyokütle de genellikle azalır.\n- Dokularda biriken ve parçalanamayan zehirli madde (DDT, ağır metaller vb.) miktarı, yani biyolojik birikim, üst basamaklara doğru artar.\n- Vücut büyüklüğü ise genellikle artar (örneğin; ot -> çekirge -> kurbağa -> yılan). Bu nedenle vücut büyüklüğünün azaldığını söylemek genel bir kural olarak doğru değildir, aksine genellikle arttığı gözlemlenir. Soruda 'gözlenmez' denildiği için doğru cevap E seçeneğidir.",
+    "correctAnswer": 1,
+    "explanation": "Bir ekosistemde enerji akışı, üreticilerin fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürmesi ile başlar. Üreticiler, ekosistemlerin temel enerji kaynağıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501436483_1",
+    "id": "ai_1764519373123_1",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Azot döngüsünde görev alan bazı canlı grupları ve gerçekleştirdikleri olaylar şunlardır:\n\nI. Saprofitler (Ayrıştırıcılar)\nII. Nitrifikasyon bakterileri\nIII. Denitrifikasyon bakterileri\nIV. Azot bağlayıcı bakteriler\n\nBu canlı gruplarından hangileri atmosferdeki serbest azotun (N2) miktarını doğrudan etkiler?",
+    "questionText": "Ekosistemlerde besin zincirinin en üst seviyesindeki canlılar hangileridir?",
     "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "III ve IV",
-      "II, III ve IV"
+      "Birincil tüketiciler",
+      "İkincil tüketiciler",
+      "Üreticiler",
+      "Tercil tüketiciler",
+      "Detritivorlar"
     ],
     "correctAnswer": 3,
-    "explanation": "Azot döngüsünde atmosferdeki serbest azot (N2) gazının miktarını doğrudan etkileyen iki temel olay vardır:\n1. Azot Fiksasyonu (Bağlanması): Atmosferdeki N2 gazının, azot bağlayıcı bakteriler (örneğin Rhizobium bakterileri) ve siyanobakteriler tarafından amonyak (NH3) gibi canlıların kullanabileceği bileşiklere dönüştürülmesidir. Bu olay atmosferdeki azot miktarını azaltır. (IV. öncül)\n2. Denitrifikasyon: Topraktaki nitrat (NO3-) tuzlarının, denitrifikasyon bakterileri tarafından tekrar atmosferik azota (N2) dönüştürülerek atmosfere verilmesidir. Bu olay atmosferdeki azot miktarını artırır. (III. öncül)\n\nSaprofitler (I), organik atıkları amonyağa dönüştürür ancak atmosferdeki N2'ye doğrudan etki etmezler. Nitrifikasyon bakterileri (II), amonyağı nitrite ve nitrata dönüştürür; bu olay da topraktaki azot formları arasında bir dönüşümdür ve atmosferin N2 miktarını doğrudan etkilemez. Dolayısıyla, atmosferdeki serbest azot miktarını doğrudan etkileyen canlı grupları III ve IV'tür.",
+    "explanation": "Besin zincirinde en üst seviyedeki canlılar, genellikle avcı olarak tanımlanan tercil tüketicilerdir. Bu canlılar, ikincil tüketicileri avlayarak enerji alırlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519373124_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki biyoçeşitlilik neden önemlidir?",
+    "options": [
+      "Enerji verimliliğini artırır",
+      "Sadece bitkileri etkiler",
+      "Hava kirliliğini artırır",
+      "Su döngüsünü etkiler",
+      "Tüm canlıların varlığını tehdit eder"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biyoçeşitlilik, ekosistemlerin enerji verimliliğini artırır ve dayanıklılığını sağlar. Çeşitli türler, ekosistemin işleyişini ve dengenin korunmasını sağlar.",
     "difficulty": 3
   }
 ]
