@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519434741_0",
+    "id": "ai_1764520408939_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinde özne ve yüklem arasında bir uyumsuzluk bulunmaktadır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde özne ile yüklem arasında anlamca bir ilişki yoktur?",
     "options": [
-      "Çocuklar parka gitti.",
-      "Kediler bahçede oynuyor.",
-      "Kitaplar masanın üzerinde duruyor.",
-      "Ali ve Ayşe sinemaya gitmek istiyorlar.",
-      "Araba hızlı gidiyor."
+      "Ali kitap okuyor.",
+      "Kediler genelde uykuyu sever.",
+      "Bu akşam dışarı çıkmak istemiyorum.",
+      "Hava soğuyunca üşürüm.",
+      "Sıcak çay döküldü."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Son cümlede 'Sıcak çay döküldü.' ifadesinde özne (çay) ile yüklem (döküldü) arasında doğrudan bir anlam ilişkisi yoktur. Diğer cümlelerde özne ve yüklem arasında anlamca bir bağ vardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520408939_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
+    "options": [
+      "Güzel",
+      "Koşuyor",
+      "Çiçek",
+      "Hızla",
+      "Kedi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520408939_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi birleşik cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Elma taze ve lezzetli.",
+      "Hava güzel ama rüzgarlı.",
+      "Kitap okuyorum.",
+      "Sokakta çocuklar oynuyor."
     ],
     "correctAnswer": 2,
-    "explanation": "Cümlede 'Kitaplar' (çoğul özne) ile 'duruyor' (tekil yüklem) arasında uyumsuzluk vardır. Doğru yüklem 'duruyorlar' olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519434741_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi tam cümle değildir?",
-    "options": [
-      "Hava çok sıcak.",
-      "Sinemaya gitmeyi düşünüyorum.",
-      "Yemek yapmayı seviyorum",
-      "Yarın hava yağmurlu olacak.",
-      "Elma ve armut."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cümle 'Elma ve armut' sadece iki isimden oluşmakta ve yüklem içermemektedir. Bu nedenle tam bir cümle değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519434741_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinin yapısı doğrudur?",
-    "options": [
-      "Ali evde kitap okuyor.",
-      "Ayşe ve Fatma sinemaya gitmek istemiyor.",
-      "Kedim bahçede oynuyor.",
-      "Bizim köpek çok havlıyor.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Verilen tüm cümleler doğru yapıda olup, özne ile yüklem arasında uyum vardır. Bu nedenle 'Hepsi doğrudur.' şıkkı doğrudur.",
+    "explanation": "Birleşik cümle, iki veya daha fazla cümleciğin bir araya gelmesiyle oluşur. 'Hava güzel ama rüzgarlı.' cümlesi, 'ama' bağlacı ile iki cümleciği birleştirdiği için birleşik cümledir.",
     "difficulty": 3
   }
 ]
