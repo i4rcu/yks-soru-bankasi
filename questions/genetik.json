@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ai_1764498742130_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler farklı kromozomlar üzerinde bulunmaktadır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, yeşil ve düzgün tohumlu bir bezelyenin oluşma olasılığı nedir?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4",
+      "3/8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız dağıldığı için her bir özellik için olasılıklar ayrı ayrı hesaplanıp çarpılır. \n1. Tohum rengi için çaprazlama: Ss x Ss -> 1/4 SS, 2/4 Ss, 1/4 ss. Yeşil tohumlu (ss) olma olasılığı 1/4'tür. \n2. Tohum şekli için çaprazlama: Dd x Dd -> 1/4 DD, 2/4 Dd, 1/4 dd. Düzgün tohumlu (DD veya Dd) olma olasılığı (1/4 + 2/4) = 3/4'tür. \n3. Yeşil ve düzgün tohumlu (ssD_) bir bezelyenin oluşma olasılığı, bu iki bağımsız olayın olasılıklarının çarpımına eşittir: P(ss) * P(D_) = (1/4) * (3/4) = 3/16.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498742130_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba (XʳY) ile taşıyıcı bir annenin (XᴿXʳ) doğacak çocukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Erkek çocuklarının yarısı renk körü olur.",
+      "Kız çocuklarının yarısı taşıyıcı olur.",
+      "Renk körü kız çocuklarının doğma ihtimali vardır.",
+      "Sağlam fenotipli kız çocukları doğamaz.",
+      "Kız çocuklarının yarısı renk körü olur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Çaprazlama (XʳY x XᴿXʳ) yapıldığında oluşabilecek genotipler şunlardır: XᴿXʳ (taşıyıcı kız), XʳXʳ (renk körü kız), XᴿY (sağlam erkek) ve XʳY (renk körü erkek). Her bir genotipin oluşma olasılığı 1/4'tür. \n- A) Erkek çocukların (XᴿY, XʳY) yarısı renk körüdür. Doğru.\n- B) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı taşıyıcıdır. Doğru.\n- C) Renk körü kız çocuğu (XʳXʳ) doğma ihtimali 1/4'tür. Doğru.\n- D) Sağlam fenotipli (renkleri normal gören) kız çocuğu doğabilir. Bu çocuk XᴿXʳ genotipinde olup taşıyıcıdır, ancak baskın alel (R) nedeniyle fenotipi sağlıklıdır. Bu nedenle bu ifade yanlıştır.\n- E) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı renk körü (XʳXʳ) olur. Doğru.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498742130_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "A kan grubuna sahip bir anne ile B kan grubuna sahip bir babanın, 0 kan grubuna sahip bir çocukları dünyaya gelmiştir. Bu ailenin doğacak ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
+    "options": [
+      "0",
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çocuğun 0 kan grubunda (genotipi ii) olması, hem anneden hem de babadan 'i' alelini aldığını gösterir. Anne A kan grubunda olduğuna göre genotipi Iᴬi olmalıdır. Baba B kan grubunda olduğuna göre genotipi Iᴮi olmalıdır. Bu iki bireyin çaprazlanması (Iᴬi x Iᴮi) sonucunda oluşabilecek genotipler ve olasılıkları şunlardır:\n- 1/4 IᴬIᴮ (AB kan grubu)\n- 1/4 Iᴬi (A kan grubu)\n- 1/4 Iᴮi (B kan grubu)\n- 1/4 ii (0 kan grubu)\nBu nedenle, ailenin AB kan grubuna sahip bir çocuğunun olma olasılığı 1/4'tür. Her doğum bağımsız bir olay olduğu için önceki çocuğun kan grubu bu olasılığı etkilemez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498742130_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik materyalde meydana gelen değişimlere mutasyon denir. Aşağıdakilerden hangisi bir kromozomun yapısında meydana gelen bir mutasyon (yapısal kromozomal anomali) örneğidir?",
+    "options": [
+      "Orak hücreli anemiye neden olan, hemoglobin genindeki bir nükleotidin değişmesi.",
+      "Bir genin kodladığı proteinin erken sonlanmasına neden olan bir kodonun, durdurma kodonuna dönüşmesi.",
+      "Kromozomun bir parçasının kopup 180 derece ters dönerek aynı yere tekrar bağlanması (inversiyon).",
+      "DNA replikasyonu sırasında bir nükleotidin yanlış eşlenmesi.",
+      "Down sendromuna neden olan 21. kromozomdan üç tane bulunması (trizomi)."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mutasyonlar gen düzeyinde veya kromozom düzeyinde olabilir. Kromozom mutasyonları da yapısal veya sayısal olarak ikiye ayrılır. Soru, kromozomun yapısındaki bir değişimi sormaktadır.\n- A, B ve D seçenekleri, DNA dizisindeki tek veya birkaç nükleotidi etkileyen gen mutasyonlarıdır.\n- E seçeneği (Down sendromu), bir kromozomun sayısının değişmesiyle ortaya çıkan sayısal bir kromozom anomalisidir, yapısal değildir.\n- C seçeneğindeki inversiyon ise, bir kromozom parçasının kopup ters dönerek tekrar aynı yere yapışmasıdır. Bu durum kromozomun gen dizilimini, yani yapısını değiştiren bir mutasyon olduğundan doğru cevaptır.",
+    "difficulty": 3
+  }
+]
