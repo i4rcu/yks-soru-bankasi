@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764498972829_0",
+    "id": "ai_1764500335419_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "(I) Sabahın erken saatlerinde uyanıp pencereden dışarıya baktı. (II) Gökyüzü, pamuk tarlalarını andıran bulutlarla kaplıydı. (III) Uzaklardan gelen bir motor sesi, sessizliği bozuyordu. (IV) Her şey derin bir sessizliğin içindeydi. (V) Birazdan başlayacak olan koşuşturmacanın habercisiydi bu anlar.\n\nBu parçadaki numaralanmış cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "questionText": "Güneşin batışını izlerken, gökyüzünün kızıla boyanmasıyla birlikte içimde tarifsiz bir hüzün belirdi.\n\nBu cümlenin yapısı aşağıdakilerden hangisidir?",
     "options": [
-      "A) I",
-      "B) II",
-      "C) III",
-      "D) IV",
-      "E) V"
+      "Basit Cümle",
+      "Sıralı Cümle",
+      "Girişik Birleşik Cümle",
+      "Bağlı Cümle",
+      "Şartlı Birleşik Cümle"
     ],
-    "correctAnswer": 3,
-    "explanation": "Cümlelerin yapılarını incelediğimizde:\nI. cümlede 'uyanıp' zarf-fiili bulunduğu için girişik birleşik cümledir.\nII. cümlede 'andıran' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIII. cümlede 'gelen' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIV. cümlede tek bir yüklem ('içindeydi') vardır ve içinde fiilimsi bulunmaz. Bu nedenle yapıca basit bir cümledir.\nV. cümlede 'başlayacak olan' sıfat-fiil grubu bulunduğu için girişik birleşik cümledir.\nDört cümle girişik birleşik yapıdayken IV. cümle basit yapıda olduğu için diğerlerinden farklıdır. Bu nedenle doğru cevap D şıkkıdır.",
+    "correctAnswer": 2,
+    "explanation": "Bu cümle, tek bir temel yargı (yüklem: belirdi) içerdiği ve bu temel yargıya bağlı fiilimsi (zarf-fiil: izlerken) barındırdığı için yapıca \"Girişik Birleşik Cümle\"dir. Cümlenin tek bir yüklemi vardır, bu nedenle basit cümle değildir. Birden fazla cümlenin virgül veya noktalı virgülle bağlanmaması nedeniyle sıralı cümle, bağlaçla bağlanmaması nedeniyle de bağlı cümle değildir. İçinde şart anlamı taşıyan bir ek (-se/-sa) bulunmadığı için şartlı birleşik cümle de olamaz. Cümledeki \"izlerken\" zarf-fiili, yan cümlecik kurarak cümleyi birleşik yapılı hale getirmiştir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498972830_1",
+    "id": "ai_1764500335419_1",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerin hangisi yapıca sıralı, yükleminin türüne göre fiil, anlamına göre olumlu ve öge dizilişine göre kurallı bir cümledir?",
+    "questionText": "Uzak diyarlardan gelen bu eski mektubu, yıllardır kimsenin açmadığı o sandıkta buldum dün akşam.\n\nBu cümleyle ilgili aşağıdaki yargılardan hangisi doğrudur?",
     "options": [
-      "A) Hava çok güzeldi, herkes mutluydu.",
-      "B) Uzun süre bekledi ama kimse gelmedi.",
-      "C) Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.",
-      "D) Annesini görünce çok sevindi çocuk.",
-      "E) Ne arayan vardı ne de soran."
+      "Yüklemin türüne göre isim, öge dizilişine göre kurallı bir cümledir.",
+      "Yapısına göre basit, anlamına göre olumlu bir cümledir.",
+      "Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.",
+      "Yapısına göre sıralı, anlamına göre olumlu bir cümledir.",
+      "Yüklemin türüne göre fiil, öge dizilişine göre kurallı bir cümledir."
     ],
     "correctAnswer": 2,
-    "explanation": "Soruda bir cümlenin dört özelliğe sahip olması istenmektedir: sıralı, fiil, olumlu, kurallı.\nA) 'Hava çok güzeldi, herkes mutluydu.' cümlesi sıralı, olumlu ve kurallıdır fakat yüklemleri ('güzeldi', 'mutluydu') isim soylu olduğu için isim cümlesidir.\nB) 'Uzun süre bekledi ama kimse gelmedi.' cümlesi 'ama' bağlacıyla bağlandığı için bağlı cümledir, sıralı değil. Ayrıca 'gelmedi' yüklemi olumsuzdur.\nC) 'Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.' cümlesi, birden çok yüklemi virgülle ayrıldığı için yapıca sıralıdır. Tüm yüklemleri ('kalktı', 'yıkadı', 'yaptı') fiil olduğu için fiil cümlesidir. Yargılar olumlu olduğu için anlamca olumludur. Tüm yüklemler sonda olduğu için öge dizilişine göre kurallıdır. Bu şık, istenen bütün özellikleri taşımaktadır.\nD) 'Annesini görünce çok sevindi çocuk.' cümlesi tek yüklemli olduğu için sıralı değildir ve yüklem sonda olmadığı için devriktir.\nE) 'Ne arayan vardı ne de soran.' cümlesi 'ne... ne...' bağlacıyla kurulduğu için bağlı cümledir. Anlamca olumsuzdur ('arayan ve soran yoktu' anlamı taşır) ve yüklemi ('vardı') isim soylu olduğu için isim cümlesidir.",
+    "explanation": "Cümleyi inceleyelim:\n1. **Yüklem:** \"buldum\" kelimesi bir fiil olduğu için cümle \"fiil cümlesi\"dir.\n2. **Öge Dizilişi:** Yüklem olan \"buldum\" kelimesi cümlenin sonunda yer almadığı için cümle \"devrik cümle\"dir.\n3. **Yapısı:** Cümlenin tek bir yüklemi (\"buldum\") olmasına rağmen içinde \"gelen\" (sıfat-fiil) ve \"açmadığı\" (sıfat-fiil) gibi fiilimsiler bulunmaktadır. İçinde fiilimsi bulunan ve tek yüklemi olan cümleler \"birleşik cümle\"dir.\n4. **Anlamı:** Bulma eylemi gerçekleştiği için cümle \"olumlu cümle\"dir.\nBu bilgilere göre, C seçeneğindeki \"Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.\" ifadesi doğrudur. Diğer şıklar yanlıştır çünkü A'da \"isim\" ve \"kurallı\", B'de \"basit\", D'de \"sıralı\", E'de ise \"kurallı\" ifadeleri hatalıdır.",
     "difficulty": 3
   }
 ]
