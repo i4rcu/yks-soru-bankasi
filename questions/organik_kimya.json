@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764519337330_0",
+    "id": "ai_1764520294760_0",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir alkan değildir?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
     "options": [
-      "C3H8",
-      "C5H12",
       "C4H10",
+      "C5H12",
       "C6H14",
-      "C2H4"
+      "C7H16",
+      "C8H18O"
     ],
     "correctAnswer": 4,
-    "explanation": "C2H4, etilen olarak bilinen bir alken bileşiğidir. Alkalar ise sadece tekli bağ içeren doymuş hidrokarbonlardır. Diğer seçenekler doymuş hidrokarbonlardır.",
+    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519337330_1",
+    "id": "ai_1764520294760_1",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir substitüsyon reaksiyonuna örnek teşkil eder?",
+    "questionText": "Aşağıdaki bileşiklerden hangisi bir karboksil asit değildir?",
     "options": [
-      "C2H6 + Cl2 → C2H5Cl + HCl",
-      "C2H4 + H2 → C2H6",
-      "C3H8 + O2 → CO2 + H2O",
-      "C6H6 + H2 → C6H12",
-      "C4H10 + O2 → CO + H2O"
+      "HCOOH",
+      "CH3COOH",
+      "C2H5OH",
+      "C3H7COOH",
+      "C4H9COOH"
     ],
-    "correctAnswer": 0,
-    "explanation": "C2H6 + Cl2 → C2H5Cl + HCl reaksiyonu bir substitüsyon reaksiyonudur, burada alkandan bir hidrojen atomu, klor atomu ile yer değiştirir. Diğer reaksiyonlar farklı mekanizmaları temsil eder.",
+    "correctAnswer": 2,
+    "explanation": "C2H5OH, etanol olarak bilinen bir alkol bileşiktir ve karboksil asit değildir. Diğer seçenekler karboksil asitlerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520294760_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki reaksiyonlardan hangisi bir esterleşme tepkimesidir?",
+    "options": [
+      "Asidik bir bileşen ile alkali bir bileşen reaksiyona girer.",
+      "Bir asit ile alkol birleşir ve su açığa çıkar.",
+      "Bir alkol, bir keton ile reaksiyona girer.",
+      "Bir alken, halojen ile tepkime verir.",
+      "Bir alkol, bir aldehit ile oksitlenir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Esterleşme, bir asidin alkol ile reaksiyona girmesi sonucu ester ve su oluşumudur. Bu nedenle doğru cevap, asit ile alkolün birleşmesidir.",
     "difficulty": 3
   }
 ]
