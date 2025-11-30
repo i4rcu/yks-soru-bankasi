@@ -1,66 +1,50 @@
 [
   {
-    "id": "ai_1764520089167_0",
+    "id": "ai_1764521002958_0",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) = 2x + 3 fonksiyonunun x = 4 için değeri nedir?",
+    "questionText": "f(x) = 2x + 3 fonksiyonunun x = 5 için değeri nedir?",
     "options": [
       "8",
       "10",
-      "11",
-      "12",
-      "14"
+      "13",
+      "15",
+      "18"
     ],
     "correctAnswer": 2,
-    "explanation": "Fonksiyonu x = 4 için yerine koyarsak: f(4) = 2(4) + 3 = 8 + 3 = 11.",
+    "explanation": "f(5) = 2(5) + 3 = 10 + 3 = 13 bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520089167_1",
+    "id": "ai_1764521002959_1",
     "subjectId": "mat",
     "topic": "Fonksiyonlar",
-    "questionText": "f(x) = x^2 - 5x + 6 fonksiyonunun kökleri nedir?",
+    "questionText": "f(x) = x^2 - 4x + 4 fonksiyonunun x = 2 için değeri nedir?",
     "options": [
-      "1 ve 6",
-      "2 ve 3",
-      "3 ve 5",
-      "0 ve 6",
-      "2 ve 5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kökleri bulmak için denklemi sıfıra eşitleriz: x^2 - 5x + 6 = 0. Bu denklemin çarpanlarına ayrılması: (x-2)(x-3) = 0, dolayısıyla kökler 2 ve 3'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520089167_2",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "f(x) = 3x - 4 ve g(x) = x^2 + 2 fonksiyonları için (f ∘ g)(2) işleminin sonucu nedir?",
-    "options": [
-      "-2",
-      "2",
-      "4",
-      "6",
-      "8"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Önce g(2) hesaplanır: g(2) = 2^2 + 2 = 4 + 2 = 6. Sonra f(6) hesaplanır: f(6) = 3(6) - 4 = 18 - 4 = 14.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520089167_3",
-    "subjectId": "mat",
-    "topic": "Fonksiyonlar",
-    "questionText": "f(x) = -x^2 + 4x - 3 fonksiyonunun maksimum değerini bulunuz.",
-    "options": [
+      "0",
       "1",
       "2",
-      "3",
       "4",
-      "5"
+      "6"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bu bir parabol ve tepe noktası en yüksek değeri verir. Tepe noktası x = -b/(2a) formülü ile bulunur: x = 4/(2*(-1)) = 2. f(2) = -(2^2) + 4(2) - 3 = -4 + 8 - 3 = 1. Maksimum değer 1'dir.",
+    "correctAnswer": 0,
+    "explanation": "f(2) = (2)^2 - 4(2) + 4 = 4 - 8 + 4 = 0 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521002959_2",
+    "subjectId": "mat",
+    "topic": "Fonksiyonlar",
+    "questionText": "f(x) = 3x - 5 fonksiyonunun tersini bulmak için hangi işlemi yapmalıyız?",
+    "options": [
+      "x = 3y - 5",
+      "y = 3x + 5",
+      "y = (x + 5) / 3",
+      "y = (x + 5) * 3",
+      "y = (x + 5) / 3"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tersi bulmak için f(x) = y denkleminde x'i y cinsinden ifade ederiz. 3x - 5 = y denklemini x için düzenlersek, x = (y + 5) / 3 olur. Bu da y = (x + 5) / 3 sonucunu verir.",
     "difficulty": 3
   }
 ]
