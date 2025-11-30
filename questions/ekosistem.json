@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ai_1764498764160_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir orman ekosisteminde meydana gelen ikincil (sekonder) süksesyon süreciyle ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Zamanla biyokütle (toplam canlı kütlesi) artar.",
+      "Komünitenin tür çeşitliliği klimaksa doğru artış gösterir.",
+      "Süreç sonunda rekabet gücü yüksek olan türler baskın hale gelir.",
+      "Ortamın fiziksel ve kimyasal koşulları süreç boyunca kararlı kalır.",
+      "Besin ağındaki trofik ilişkilerin karmaşıklığı artar."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Süksesyon (ardıllık), bir ekosistemdeki türlerin zamanla birbirinin yerini alması sürecidir. İkincil süksesyon, daha önce bir komünitenin var olduğu ancak yangın, sel, insan müdahalesi gibi bir bozulma sonucu yapısı değişmiş bir alanda başlar. Bu süreç dinamiktir. Canlılar, yaşadıkları ortamı değiştirirler. Örneğin, öncü bitkiler toprağı zenginleştirir, gölge oluşturarak ışık miktarını değiştirir ve nemi artırır. Bu değişimler, yeni türlerin gelmesine olanak tanır. Dolayısıyla, ortamın fiziksel ve kimyasal koşulları (toprak yapısı, pH, nem, ışık vb.) süreç boyunca kararlı kalmaz, aksine sürekli olarak değişir. Diğer şıklar süksesyonun genel özellikleridir: Biyokütle ve tür çeşitliliği artar, rekabet gücü yüksek olan K-stratejisti türler zamanla baskınlaşır ve besin ağı karmaşıklaşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498764161_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir su ekosisteminde, besin zincirinin basamakları arasında aktarılan enerji ve biyobirikim özelliğine sahip zehirli bir madde (örneğin cıva) miktarındaki değişim ile ilgili aşağıdaki grafiklerden hangisi doğru olabilir?",
+    "options": [
+      "Enerji artar, Zehirli madde miktarı artar",
+      "Enerji azalır, Zehirli madde miktarı azalır",
+      "Enerji artar, Zehirli madde miktarı azalır",
+      "Enerji azalır, Zehirli madde miktarı artar",
+      "Enerji değişmez, Zehirli madde miktarı artar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Besin piramidinde üreticilerden son tüketicilere doğru gidildikçe her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedilir ve bir üst basamağa sadece %10'u aktarılır. Bu nedenle, yukarı doğru çıkıldıkça aktarılan enerji miktarı azalır. Biyobirikim ise, canlı vücudunda biriken ve atılamayan zehirli maddelerin besin zinciri yoluyla üst basamaklardaki canlılara aktarılması ve bu canlıların dokularındaki derişiminin artması olayıdır. Her canlı, alt trofik düzeyden çok sayıda bireyi tükettiği için, bu maddeler en üstteki tüketicinin vücudunda en yüksek konsantrasyona ulaşır. Dolayısıyla, besin piramidinde yukarı doğru çıkıldıkça aktarılan enerji azalırken, biyobirikim özelliğindeki zehirli madde miktarı (derişimi) artar.",
+    "difficulty": 3
+  }
+]
