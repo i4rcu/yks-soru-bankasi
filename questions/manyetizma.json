@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764501075304_0",
+    "id": "ai_1764519266459_0",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "Sayfa düzlemine dik ve içeri doğru olan düzgün bir B manyetik alanı içerisinde, sayfa düzleminde bulunan ve üzerinden I akımı geçen L uzunluğundaki tele etki eden manyetik kuvvetin büyüklüğü F’dir. Telin manyetik alan içindeki uzunluğu 2L yapılır ve üzerinden geçen akım şiddeti I/2’ye düşürülürse, tele etki eden manyetik kuvvetin yeni büyüklüğü kaç F olur? (Tel, manyetik alana daima dik konumdadır.)",
+    "questionText": "Bir tel üzerinden elektrik akımı geçtiğinde, telin etrafında oluşan manyetik alanın yönü hangi kural ile belirlenir?",
     "options": [
-      "F/4",
-      "F/2",
-      "F",
-      "2F",
-      "4F"
+      "Sol El Kuralı",
+      "Sağ El Kuralı",
+      "Ampere Yasası",
+      "Faraday Yasası",
+      "Lenz Yasası"
     ],
-    "correctAnswer": 2,
-    "explanation": "Manyetik alan içindeki akım taşıyan bir tele etki eden manyetik kuvvetin büyüklüğü F = B * I * L * sin(θ) formülü ile hesaplanır. Burada B manyetik alan şiddeti, I akım şiddeti, L telin manyetik alan içindeki uzunluğu ve θ tel ile manyetik alan çizgileri arasındaki açıdır. Soruda tel, manyetik alana dik olduğu için sin(θ) = sin(90°) = 1'dir. Başlangıçtaki kuvvet F = B * I * L'dir. Yapılan değişiklikler sonrası yeni kuvvet F' = B * (I/2) * (2L) = B * I * L olur. Görüldüğü gibi, telin uzunluğunun iki katına çıkarılması ve akımın yarıya düşürülmesi birbirini dengelemiştir. Bu durumda yeni kuvvetin büyüklüğü başlangıçtaki kuvvetin büyüklüğüne eşittir (F' = F).",
+    "correctAnswer": 1,
+    "explanation": "Elektrik akımının yönü ve telin etrafındaki manyetik alanın yönü, Sağ El Kuralı ile belirlenir. Sağ elin baş parmağı akımın yönünü, diğer parmaklar ise manyetik alanın yönünü gösterir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501075304_1",
+    "id": "ai_1764519266459_1",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "Şekildeki gibi bir çubuk mıknatıs, N kutbu halkaya bakacak şekilde, iletken bir halkaya doğru V hızıyla yaklaştırılmaktadır. Bu sırada halkada oluşan indüksiyon akımının yönü ve halkanın mıknatısa bakan yüzünün kutup cinsi için aşağıdakilerden hangisi doğrudur?",
+    "questionText": "Bir mıknatısın kutupları hakkında hangi ifade doğrudur?",
     "options": [
-      "1 yönünde, N kutbu",
-      "2 yönünde, N kutbu",
-      "1 yönünde, S kutbu",
-      "2 yönünde, S kutbu",
-      "Akım oluşmaz."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Lenz Yasası'na göre, bir devrede indüklenen akım, kendisini oluşturan manyetik akı değişimine karşı koyacak yönde bir manyetik alan oluşturur. Mıknatısın N kutbu halkaya yaklaştırıldığında, halkadan geçen ve mıknatıstan halkaya doğru olan manyetik akı artar. Bu artışı azaltmak için halka, bu akıya zıt yönde, yani halkadan mıknatısa doğru (sola doğru) bir manyetik alan oluşturmalıdır. Sağ el kuralına göre, halkanın merkezinde sola doğru bir manyetik alan oluşması için indüksiyon akımının 1 yönünde (saat yönünün tersi) olması gerekir. Manyetik alan çizgilerinin çıktığı kutup N kutbu olduğundan, halkanın mıknatısa bakan yüzü N kutbu gibi davranır ve yaklaşan N kutbunu iterek manyetik akı değişimine karşı koyar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501075304_2",
-    "subjectId": "fiz",
-    "topic": "Manyetizma",
-    "questionText": "Sayfa düzlemine dik ve içeri doğru yönelmiş düzgün bir B manyetik alanına, +q yüklü, m kütleli bir parçacık v hızıyla dik olarak giriyor ve r yarıçaplı bir çembersel yörünge izliyor. Parçacığın yörünge yarıçapını (r) azaltmak için aşağıdaki işlemlerden hangisi tek başına yapılmalıdır?",
-    "options": [
-      "Manyetik alan şiddetini (B) azaltmak",
-      "Parçacığın kütlesini (m) artırmak",
-      "Parçacığın hızını (v) artırmak",
-      "Manyetik alan şiddetini (B) artırmak",
-      "Parçacığı aynı hızla fakat -q yüklü bir parçacıkla değiştirmek"
+      "İki N kutbu bir araya gelirse çekilir.",
+      "İki S kutbu bir araya gelirse itilir.",
+      "N ve S kutbu birbirini iter.",
+      "N kutbu S kutbuna çekilir.",
+      "Kutuplar arasında enerji transferi gerçekleşmez."
     ],
     "correctAnswer": 3,
-    "explanation": "Manyetik alana dik olarak giren yüklü bir parçacığa etki eden manyetik kuvvet, merkezcil kuvvet görevi görerek parçacığın çembersel hareket yapmasını sağlar. Manyetik kuvvet (F_m = qvB) ile merkezcil kuvvet (F_c = mv²/r) birbirine eşitlenir: qvB = mv²/r. Bu denklemden yörünge yarıçapı r = (mv)/(qB) olarak bulunur. Formüle göre yörünge yarıçapını (r) azaltmak için; pay kısmındaki değerler (kütle 'm' veya hız 'v') azaltılmalı veya payda kısmındaki değerler (yük 'q' veya manyetik alan şiddeti 'B') artırılmalıdır. Seçenekler incelendiğinde, manyetik alan şiddetini (B) artırmak, yarıçapı (r) azaltacaktır. Diğer şıklar (A, B, C) yarıçapı artırır. E şıkkında ise yükün işareti sadece dönme yönünü değiştirir, yarıçapın büyüklüğünü etkilemez.",
+    "explanation": "Mıknatısların kutupları arasında etkileşim vardır. N kutbu S kutbuna çekilirken, iki N veya iki S kutbu birbirini iter. Bu, mıknatısların temel özelliklerindendir.",
     "difficulty": 3
   }
 ]
