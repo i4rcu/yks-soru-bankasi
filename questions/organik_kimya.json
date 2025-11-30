@@ -1,277 +1,5 @@
 [
   {
-    "id": "ai_1764519337330_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir alkan değildir?",
-    "options": [
-      "C3H8",
-      "C5H12",
-      "C4H10",
-      "C6H14",
-      "C2H4"
-    ],
-    "correctAnswer": 4,
-    "explanation": "C2H4, etilen olarak bilinen bir alken bileşiğidir. Alkalar ise sadece tekli bağ içeren doymuş hidrokarbonlardır. Diğer seçenekler doymuş hidrokarbonlardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498618418_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşiklerden hangisi dietil eterin yapı izomeri *değildir*?",
-    "options": [
-      "1-Bütanol",
-      "Metil propil eter",
-      "2-Metil-2-propanol",
-      "2-Bütanon",
-      "2-Bütanol"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yapı izomerleri, kapalı formülleri aynı, açık yapıları farklı olan bileşiklerdir. İlk olarak dietil eterin (CH₃CH₂-O-CH₂CH₃) kapalı formülünü bulmalıyız: C₄H₁₀O. Şimdi şıklardaki bileşiklerin kapalı formüllerini inceleyelim:\nA) 1-Bütanol (CH₃CH₂CH₂CH₂OH): C₄H₁₀O\nB) Metil propil eter (CH₃-O-CH₂CH₂CH₃): C₄H₁₀O\nC) 2-Metil-2-propanol ((CH₃)₃COH): C₄H₁₀O\nD) 2-Bütanon (CH₃-CO-CH₂CH₃): C₄H₈O. Bu bileşiğin formülünde 2 hidrojen eksiktir.\nE) 2-Bütanol (CH₃CH(OH)CH₂CH₃): C₄H₁₀O\nKapalı formülü C₄H₈O olan 2-Bütanon, kapalı formülü C₄H₁₀O olan dietil eterin yapı izomeri değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520294760_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşiklerden hangisi bir karboksil asit değildir?",
-    "options": [
-      "HCOOH",
-      "CH3COOH",
-      "C2H5OH",
-      "C3H7COOH",
-      "C4H9COOH"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C2H5OH, etanol olarak bilinen bir alkol bileşiktir ve karboksil asit değildir. Diğer seçenekler karboksil asitlerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-Metilpropen bileşiğine HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
-    "options": [
-      "A) 1-Bromo-2-metilpropan",
-      "B) 2-Bromo-2-metilpropan",
-      "C) 1-Bromobütan",
-      "D) 2-Bromobütan",
-      "E) 2-Bromo-1-metilpropan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre yürür. Markovnikov kuralı, H-X gibi polar bir molekülün asimetrik bir alkene katılırken, hidrojen atomunun (H+) ikili bağdaki karbonlardan hidrojence zengin olana, X grubunun (Br-) ise hidrojence fakir olana bağlanacağını belirtir. 2-metilpropen [(CH3)2C=CH2] yapısında, ikili bağın C1 karbonunda iki hidrojen, C2 karbonunda ise hiç hidrojen yoktur. Bu nedenle, H+ atomu C1'e bağlanarak -CH3 grubunu oluşturur ve karbokatyon C2'de oluşur. Ardından Br- iyonu bu karbokatyonun bulunduğu C2'ye bağlanır. Sonuç olarak ana ürün 2-Bromo-2-metilpropan'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519337330_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir substitüsyon reaksiyonuna örnek teşkil eder?",
-    "options": [
-      "C2H6 + Cl2 → C2H5Cl + HCl",
-      "C2H4 + H2 → C2H6",
-      "C3H8 + O2 → CO2 + H2O",
-      "C6H6 + H2 → C6H12",
-      "C4H10 + O2 → CO + H2O"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C2H6 + Cl2 → C2H5Cl + HCl reaksiyonu bir substitüsyon reaksiyonudur, burada alkandan bir hidrojen atomu, klor atomu ile yer değiştirir. Diğer reaksiyonlar farklı mekanizmaları temsil eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşik çiftlerinden hangisi birbirinin fonksiyonel grup izomeri *değildir*?",
-    "options": [
-      "A) Propanal - Propanon",
-      "B) Etil alkol - Dimetil eter",
-      "C) 2-Pentanon - 3-Pentanon",
-      "D) Propanoik asit - Metil etanoat",
-      "E) 1-Bütin - 1,3-Bütadien"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Fonksiyonel grup izomerleri, kapalı formülleri aynı ancak fonksiyonel grupları farklı olan bileşiklerdir. A, B, D ve E şıklarındaki çiftler bu tanıma uyar. Örneğin A şıkkında propanal (aldehit) ve propanon (keton) C3H6O kapalı formülüne sahiptir. Ancak C şıkkındaki 2-pentanon ve 3-pentanon, her ikisi de keton fonksiyonel grubuna sahiptir. Bu bileşiklerin kapalı formülleri (C5H10O) aynı olmasına rağmen, fonksiyonel grup olan karbonil grubunun ana zincirdeki yeri farklıdır. Bu nedenle bu iki bileşik birbirinin konum izomeridir, fonksiyonel grup izomeri değil.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_5",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Benzen (C6H6) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Yapısındaki tüm karbon atomları sp3 hibritleşmesi yapmıştır.",
-      "Alkenler gibi bromlu suyun rengini kolayca giderir.",
-      "Kararlı yapısından dolayı katılma tepkimelerine daha yatkındır.",
-      "Yapısındaki tüm karbon-karbon bağları özdeştir ve uzunlukları tek bağ ile çift bağ arasındadır.",
-      "Doymamış bir hidrokarbon olduğu için düzlemsel yapıda değildir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Benzenin özellikleri:\nA) Yapısındaki tüm karbon atomları bir çift, iki tek bağ yaptığı için sp2 hibritleşmesi yapmıştır.\nB) Aromatik kararlılıktan dolayı alkenler gibi katılma tepkimesi vermez ve bromlu suyun rengini gidermez.\nC) Kararlı yapısından dolayı katılma değil, yer değiştirme (sübstitüsyon) tepkimelerine yatkındır.\nD) Benzendeki pi (π) bağları rezonans nedeniyle halka boyunca delokalizedir (yayılmıştır). Bu durum, tüm karbon-karbon bağlarının özdeş olmasını ve bağ uzunluklarının tek bağdan kısa, çift bağdan uzun olmasını sağlar. Bu ifade doğrudur.\nE) Benzen, sp2 hibritleşmesi yapmış karbon atomlarından dolayı altıgen ve düzlemsel bir molekül yapısına sahiptir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_5",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-Bütanol bileşiğinin uygun koşullarda yükseltgenmesi sonucu oluşan ürün ve sülfürik asit katalizörlüğünde ısıtılarak dehidrasyonu (su çekilmesi) sonucu oluşan ana ürün sırasıyla aşağıdakilerden hangisidir?",
-    "options": [
-      "A) Bütanal, 1-Büten",
-      "B) Bütanoik asit, 2-Büten",
-      "C) Bütanon, 2-Büten",
-      "D) Bütanon, 1-Büten",
-      "E) Bütanal, Siklobütan"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1. Yükseltgenme: 2-Bütanol, bir sekonder alkoldür (OH grubunun bağlı olduğu karbon, iki başka karbona bağlıdır). Sekonder alkoller yükseltgendiğinde ketonları oluşturur. 2-Bütanolün yükseltgenmesiyle 2-Bütanon (veya sadece Bütanon) oluşur.\n\n2. Dehidrasyon: Alkollerden asit katalizörlüğünde su çekilmesiyle alkenler oluşur. Bu tepkime Zaitsev kuralına göre yürür. Zaitsev kuralına göre, -OH grubunun ayrıldığı karbona komşu olan karbonlardan hidrojeni az olandan hidrojen ayrılır ve daha kararlı (daha fazla sübstitüe olmuş) alken ana ürün olarak oluşur. 2-Bütanolde, C2'den -OH ayrılır. C1'de 3, C3'te 2 hidrojen vardır. Hidrojeni az olan C3'ten bir hidrojen ayrılmasıyla C2 ve C3 arasında çift bağ oluşur ve ana ürün olarak 2-Büten meydana gelir. (C1'den H ayrılmasıyla oluşan 1-Büten yan üründür).\n\nDolayısıyla, ürünler sırasıyla Bütanon ve 2-Büten'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-metil-2-bütanol bileşiğinin potasyum permanganat (KMnO4) gibi kuvvetli bir yükseltgen ile tepkimesi sonucu ne oluşur?",
-    "options": [
-      "2-metil-2-bütanon",
-      "2-metilbütanal",
-      "2-metilbütanoik asit",
-      "Penton",
-      "Tepkime gerçekleşmez"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Alkollerin yükseltgenme tepkimesi verebilmesi için hidroksil (-OH) grubunun bağlı olduğu karbon atomunda en az bir adet hidrojen atomu bulunmalıdır. 2-metil-2-bütanol, -OH grubunun bağlı olduğu karbon atomuna üç başka karbon grubunun bağlandığı bir tersiyer (üçüncül) alkoldür. Bu karbonda hidrojen atomu bulunmadığı için tersiyer alkoller yükseltgenme tepkimesi vermezler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_4",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Asetik asit (etanoik asit) ile etanolün asit katalizörlüğünde tepkimesi sonucu oluşan esterin IUPAC adı nedir?",
-    "options": [
-      "Metil propanoat",
-      "Etil etanoat",
-      "Propil metanoat",
-      "Etil propanoat",
-      "Metil etanoat"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir esterleşme tepkimesidir. Karboksilik asit ile alkol tepkimeye girerek ester ve su oluşturur. Adlandırma yapılırken önce alkolden gelen alkil grubunun adı, sonra karboksilik asitten gelen ve sonuna '-oat' eki getirilen kısmın adı söylenir. Tepkimeye giren alkol etanol (2 karbonlu) olduğu için 'etil' kısmı, asit ise asetik asit (etanoik asit, 2 karbonlu) olduğu için 'etanoat' kısmı gelir. Oluşan esterin adı etil etanoat'tır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_4",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aldehitler ve ketonlarla ilgili olarak, aşağıdaki tepkimelerden hangisini sadece aldehitler verirken ketonlar vermez?",
-    "options": [
-      "A) NaBH4 ile indirgenme",
-      "B) Fehling ayıracı ile tepkime",
-      "C) HCN ile katılma tepkimesi",
-      "D) Grignard bileşikleri ile katılma",
-      "E) H2/Ni varlığında hidrojenasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aldehitler, karbonil karbonuna bağlı bir hidrojen atomu taşıdıkları için kolayca yükseltgenebilirler. Ketonlarda ise karbonil karbonuna iki alkil/aril grubu bağlıdır ve bu nedenle normal koşullarda yükseltgenmezler. Bu özellik, onları ayırt etmek için kullanılır. \n- Fehling ve Tollens ayıraçları zayıf yükseltgenlerdir ve sadece aldehitleri karboksilik asitlere yükseltgerler. Bu sırada Fehling ayıracı kırmızı renkli Cu2O çökeltisi, Tollens ayıracı ise gümüş aynası (Ag) oluşturur. Ketonlar bu ayıraçlarla tepkime vermez.\n- Diğer şıklardaki tepkimeler (indirgenme, HCN katılması, Grignard tepkimesi) hem aldehitlerin hem de ketonların verdiği ortak karbonil grubu tepkimeleridir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520294760_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
-    "options": [
-      "C4H10",
-      "C5H12",
-      "C6H14",
-      "C7H16",
-      "C8H18O"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Propen bileşiğine Markovnikov kuralına göre HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
-    "options": [
-      "1-brompropan",
-      "2-brompropan",
-      "1,2-dibrompropan",
-      "Propan",
-      "2-brompropen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alkenlere hidrojen halojenür katılması Markovnikov kuralına göre gerçekleşir. Bu kurala göre, katılan moleküldeki pozitif kısım (H+), ikili bağ karbonlarından hidrojeni çok olana bağlanır. Negatif kısım (Br-) ise hidrojeni az olan ikili bağ karbonuna bağlanır. Propen (CH3-CH=CH2) bileşiğinde, H atomu CH2 grubuna, Br atomu ise CH grubuna bağlanır. Sonuç olarak oluşan ana ürün 2-brompropan'dır (CH3-CHBr-CH3).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498618418_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "CH₃-CH(CH₃)-CH=C(CH₃)₂ bileşiğinin IUPAC sistemine göre doğru adlandırılması aşağıdakilerden hangisidir?",
-    "options": [
-      "2,4-Dimetil-2-penten",
-      "2,4-Dimetil-3-penten",
-      "2-İzopropil-1-propen",
-      "2,2,4-Trimetil-3-büten",
-      "2-Metil-4-metil-2-penten"
-    ],
-    "correctAnswer": 0,
-    "explanation": "IUPAC adlandırması için şu adımlar izlenir:\n1. En uzun karbon zinciri seçilir: Çift bağ içeren en uzun zincir 5 karbonludur (penten).\n2. Zincir numaralandırılır: Çift bağın en küçük numarayı alacağı uçtan başlanır. Sağdan başlarsak çift bağ 2. karbonda, soldan başlarsak 3. karbonda başlar. Bu nedenle numaralandırmaya sağdan başlanır.\n3. Numaralandırma: C₅H₃-C₄H(CH₃)-C₃H=C₂(CH₃)-C₁H₃\n4. Dallanmaların yeri ve adı belirtilir: 2. ve 4. karbonlarda metil (CH₃) grupları bağlıdır. İki tane olduğu için 'dimetil' ön eki kullanılır.\n5. Bileşiğin adı oluşturulur: Dallanmaların yeri (2,4), adı (dimetil), ana zincirin adı ve çift bağın yeri (2-penten) birleştirilir. Doğru adlandırma: 2,4-Dimetil-2-penten.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşiklerden hangisi n-pentan'ın (C5H12) yapı izomeridir?",
-    "options": [
-      "2-metilpentan",
-      "Siklopentan",
-      "2,2-dimetilpropan",
-      "3-metilhekzan",
-      "Penten"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yapı izomerleri, kapalı formülleri aynı, ancak atomlarının bağlanma düzeni (yapı formülleri) farklı olan bileşiklerdir. n-pentan'ın kapalı formülü C5H12'dir. Şıkları inceleyelim:\nA) 2-metilpentan: C6H14\nB) Siklopentan: C5H10\nC) 2,2-dimetilpropan: C5H12. Kapalı formülü n-pentan ile aynıdır fakat dallanmış bir yapıya sahiptir. Bu nedenle yapı izomeridir.\nD) 3-metilhekzan: C7H16\nE) Penten: C5H10\nDoğru cevap 2,2-dimetilpropan'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Yapı formülü CH3-CH(CH3)-CH(OH)-CH2-CH3 olan bileşiğin IUPAC sistemine göre adı aşağıdakilerden hangisidir?",
-    "options": [
-      "A) 4-Metil-3-pentanol",
-      "B) 2-Metil-3-pentanol",
-      "C) 2-Etil-3-bütanol",
-      "D) 4-Metil-2-pentanol",
-      "E) 3-Hidroksi-2-metil pentan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "IUPAC adlandırması için şu adımlar izlenir: 1. Hidroksil (-OH) grubunu içeren en uzun karbon zinciri seçilir. Bu zincir 5 karbonludur (pentan). 2. Numaralandırmaya -OH grubunun yakın olduğu uçtan başlanır. Sağdan başlandığında -OH 3. karbonda, soldan başlandığında yine 3. karbondadır. 3. Bu eşitlik durumunda, dallanmanın (metil grubu) küçük numarayı alacağı yönden numaralandırma yapılır. Soldan başlanırsa metil grubu 2. karbona, sağdan başlanırsa 4. karbona denk gelir. Bu yüzden soldan numaralandırma tercih edilir. 4. Buna göre, 2. karbonda bir metil grubu ve 3. karbonda bir hidroksil grubu vardır. Bileşiğin adı 2-Metil-3-pentanol olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_3",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Etil metil eter bileşiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Fonksiyonel grup izomeri olan bir alkol vardır.",
-      "Asimetrik (karışık) bir eterdir.",
-      "Yoğun fazda molekülleri arasında hidrojen bağı bulunur.",
-      "Kapalı formülü C3H8O'dur.",
-      "Suda çözünürlüğü, izomeri olan alkole göre daha düşüktür."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Eter molekülleri arasında oksijen atomuna doğrudan bağlı bir hidrojen atomu bulunmadığı için kendi molekülleri arasında hidrojen bağı oluşturamazlar. Bu nedenle kaynama noktaları, aynı karbon sayılı izomerleri olan alkollerden daha düşüktür. Ancak eter moleküllerindeki oksijen atomu, su molekülleri ile hidrojen bağı yapabildiği için suda bir miktar çözünürler. Diğer şıklar doğrudur:\nA) C3H8O kapalı formülüne sahip propanol (1-propanol veya 2-propanol) ile fonksiyonel grup izomeridir.\nB) Oksijen atomuna bağlı alkil grupları (etil ve metil) farklı olduğu için asimetrik eterdir.\nD) Kapalı formülü 3 karbon, 8 hidrojen ve 1 oksijenden oluşur (C3H8O).\nE) Kendi molekülleri arasında hidrojen bağı yapamadığı için, yapabilen izomeri propanole göre suda daha az çözünür.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764498618418_2",
     "subjectId": "kim",
     "topic": "Organik Kimya",
@@ -285,38 +13,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre gerçekleşir. Markovnikov kuralı, H⁺ iyonunun çift bağ karbonlarından hidrojeni çok olana, halojen (Br⁻) iyonunun ise hidrojeni az olana (daha çok sübstitüe olmuş karbona) bağlanacağını belirtir.\n2-Metil-1-büten'in yapısı: CH₂=C(CH₃)-CH₂-CH₃\nÇift bağ karbonları C1 (CH₂) ve C2 (C)'dir.\n- C1'de 2 hidrojen, C2'de 0 hidrojen vardır.\n- Kurala göre H⁺, C1'e bağlanarak onu -CH₃ grubuna dönüştürür.\n- Br⁻ ise C2'ye bağlanır.\nSonuç olarak oluşan ana ürün: CH₃-C(Br)(CH₃)-CH₂-CH₃, yani 2-Bromo-2-metilbütan'dır. Bu, daha kararlı olan üçüncül (tersiyer) karbokatyon ara ürünü üzerinden ilerleyen bir mekanizmadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_3",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Fenol (C6H5OH) bileşiği ile ilgili aşağıdaki ifadelerden hangisi *yanlıştır*?",
-    "options": [
-      "A) Zayıf asit özelliği gösterir.",
-      "B) NaOH gibi kuvvetli bazlarla tepkimeye girer.",
-      "C) Benzen halkasına doğrudan bağlı -OH grubu içerir.",
-      "D) Yükseltgenerek benzoik asit oluşturur.",
-      "E) Suda çözünürlüğü benzeninkinden fazladır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "A) Fenol, benzen halkasının rezonans etkisiyle -OH grubundaki hidrojeni kolayca iyonlaştırabildiği için zayıf asidik özellik gösterir. Doğru. B) Asidik karakterinden dolayı NaOH gibi kuvvetli bazlarla nötralleşme tepkimesi vererek sodyum fenoksit tuzunu ve suyu oluşturur. Doğru. C) Fenolün tanımı gereği, bir -OH grubu doğrudan benzen halkasına bağlıdır. Doğru. D) Fenol yükseltgenme tepkimeleri verebilir ancak bu tepkimelerle benzoik asit oluşmaz. Benzoik asit, toluenin (metilbenzen) yükseltgenmesiyle elde edilir. Bu ifade yanlıştır. E) Fenol, yapısındaki -OH grubu sayesinde su molekülleriyle hidrojen bağı kurabilir, bu nedenle apolar olan benzene göre suda daha iyi çözünür. Doğru.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520294760_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki reaksiyonlardan hangisi bir esterleşme tepkimesidir?",
-    "options": [
-      "Asidik bir bileşen ile alkali bir bileşen reaksiyona girer.",
-      "Bir asit ile alkol birleşir ve su açığa çıkar.",
-      "Bir alkol, bir keton ile reaksiyona girer.",
-      "Bir alken, halojen ile tepkime verir.",
-      "Bir alkol, bir aldehit ile oksitlenir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Esterleşme, bir asidin alkol ile reaksiyona girmesi sonucu ester ve su oluşumudur. Bu nedenle doğru cevap, asit ile alkolün birleşmesidir.",
     "difficulty": 3
   },
   {
@@ -336,20 +32,20 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764524524922_0",
+    "id": "ai_1764498618418_1",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Alkenlerin hidrojene doymuş hale gelmesi için hangi reaksiyon gerçekleşir?",
+    "questionText": "CH₃-CH(CH₃)-CH=C(CH₃)₂ bileşiğinin IUPAC sistemine göre doğru adlandırılması aşağıdakilerden hangisidir?",
     "options": [
-      "Elektrofilik ekleme",
-      "Polimerleşme",
-      "Hidrogenasyon",
-      "Oksidasyon",
-      "Dehidratasyon"
+      "2,4-Dimetil-2-penten",
+      "2,4-Dimetil-3-penten",
+      "2-İzopropil-1-propen",
+      "2,2,4-Trimetil-3-büten",
+      "2-Metil-4-metil-2-penten"
     ],
-    "correctAnswer": 2,
-    "explanation": "Alkenler, çift bağlarını kırarak hidrogenasyon ile doymuş hale gelirler. Bu reaksiyonda alken, hidrojen gazı ile tepkimeye girer.",
-    "difficulty": 5
+    "correctAnswer": 0,
+    "explanation": "IUPAC adlandırması için şu adımlar izlenir:\n1. En uzun karbon zinciri seçilir: Çift bağ içeren en uzun zincir 5 karbonludur (penten).\n2. Zincir numaralandırılır: Çift bağın en küçük numarayı alacağı uçtan başlanır. Sağdan başlarsak çift bağ 2. karbonda, soldan başlarsak 3. karbonda başlar. Bu nedenle numaralandırmaya sağdan başlanır.\n3. Numaralandırma: C₅H₃-C₄H(CH₃)-C₃H=C₂(CH₃)-C₁H₃\n4. Dallanmaların yeri ve adı belirtilir: 2. ve 4. karbonlarda metil (CH₃) grupları bağlıdır. İki tane olduğu için 'dimetil' ön eki kullanılır.\n5. Bileşiğin adı oluşturulur: Dallanmaların yeri (2,4), adı (dimetil), ana zincirin adı ve çift bağın yeri (2-penten) birleştirilir. Doğru adlandırma: 2,4-Dimetil-2-penten.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764524524922_1",
@@ -368,387 +64,19 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524524922_2",
+    "id": "ai_1764524524925_28",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Benzin içerisinde bulunan aromatik hidrokarbonların en temel örneği hangisidir?",
+    "questionText": "Aminler, hangi grupta yer alır?",
     "options": [
-      "Toluene",
-      "Benzen",
-      "Xilen",
-      "Tetrahin",
-      "Naphthalene"
+      "Hidrofobik",
+      "Hidrofilik",
+      "Aromatik",
+      "Alifatik",
+      "İkisi de"
     ],
     "correctAnswer": 1,
-    "explanation": "Benzen, en basit aromatik hidrokarbon olup, benzin içerisinde bulunan önemli bir bileşiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524922_3",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Siklik alkane moleküllerinin genel formülü nedir?",
-    "options": [
-      "CnH2n",
-      "CnH2n+2",
-      "CnH2n-2",
-      "CnH2n+1",
-      "CnH2n-1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Siklik alkanların genel formülü CnH2n şeklindedir. Bu formül, halkalı yapıya sahip olan alkanları tanımlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524922_4",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Karbonhidratların temel yapı taşları nelerdir?",
-    "options": [
-      "Amino asitler",
-      "Yağ asitleri",
-      "Monosakkaritler",
-      "Nükleotidler",
-      "Alkoller"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Karbonhidratlar, monosakkarit adı verilen basit şekerlerden oluşur. Glikoz ve fruktoz en yaygın örneklerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524922_5",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Hidrojen peroksit, hangi organik bileşiğin oksidasyon ürünü olarak ortaya çıkar?",
-    "options": [
-      "Alkol",
-      "Aldehit",
-      "Ketone",
-      "Karboksilik asit",
-      "Alkan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alkolün oksitlenmesi ile aldehit oluşur ve bazı koşullarda bu aldehitler hidrojen peroksit ile tepkimeye girerek daha karmaşık bileşikler oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524922_6",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Bir organik moleküldeki işlevsel grubun belirlenmesinde hangi faktörler dikkate alınmalıdır?",
-    "options": [
-      "Molekülün ağırlığı",
-      "Molekülün simetrisi",
-      "Kimyasal bağların türü",
-      "Bileşenlerin sayısı",
-      "Yapısal formül"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir organik molekülün işlevsel grubu, moleküldeki kimyasal bağların türü ve yerleşimi ile belirlenir. Bu, molekülün reaktivitesini etkiler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524922_7",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Alkol ve karboksilik asit arasındaki temel fark nedir?",
-    "options": [
-      "Alkolde OH grubu vardır",
-      "Asitte C=O bağı vardır",
-      "Alkol daha reaktiftir",
-      "Asitte daha fazla hidrojen bulunur",
-      "Asitler su ile çözünmez"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Karboksilik asitler, C=O bağına ve OH grubuna sahipken, alkol sadece OH grubuna sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_8",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aromatik bileşiklerin özelliklerinden biri nedir?",
-    "options": [
-      "Daha fazla yoğunluk",
-      "Daha az reaktivite",
-      "Daha fazla su çözünebilirlik",
-      "Daha yüksek kaynama noktası",
-      "Daha az stabilite"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aromatik bileşenler, genellikle düşük reaktiviteye sahiptirler. Bu, aromatik halkalar içindeki π elektronlarının dağılımı nedeniyle oluşur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_9",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Alkinlerin genel formülü nedir?",
-    "options": [
-      "CnH2n",
-      "CnH2n+2",
-      "CnH2n-2",
-      "CnH2n-1",
-      "CnH2n+1"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Alkinlerin genel formülü CnH2n-2 şeklindedir. Bu, alkinlerin üçlü bağ içeren hidrokarbonlar olduğunu gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_10",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Furfural, hangi organik bileşikten türetilmiştir?",
-    "options": [
-      "Hücre duvarı",
-      "Selüloz",
-      "Protein",
-      "Yağ asidi",
-      "Alkol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Furfural, selüloz ve pentoz şekerlerinin ısıtılmasıyla elde edilen bir bileşiktir. Özellikle gıda endüstrisinde kullanılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_11",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Nitrasyon reaksiyonu ile hangi bileşik türü elde edilir?",
-    "options": [
-      "Aromatik bileşikler",
-      "Alkoller",
-      "Aminler",
-      "Alkanlar",
-      "Aldehitler"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Nitrasyon, aromatik bileşiklerin nitro grubu (-NO2) almasını sağlar. Bu, genellikle benzen ile nitrik asidin tepkimesi ile yapılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_12",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Bir alkol ile karboksilik asit arasındaki esterleşme tepkimesi sonucunda hangi ürün oluşur?",
-    "options": [
-      "Alkol",
-      "Aldehit",
-      "Ester",
-      "Ketone",
-      "Asit"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Alkol ve karboksilik asidin tepkimesi sonucunda ester ve su oluşur. Bu tepkime, esterleşme olarak bilinir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_13",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Farklı alkenlerin birbirine dönüşümünde hangi mekanizma rol oynar?",
-    "options": [
-      "Radikal mekanizma",
-      "Elektrofilik ekleme",
-      "Nükleofilik saldırı",
-      "Substitüsyon",
-      "Eliminasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alkenlerin birbirine dönüşümü genellikle elektrofilik ekleme mekanizması ile gerçekleşir. Bu süreç, alkenin çift bağının kırılması ile başlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_14",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Alkoller, hangi tür bağları içerir?",
-    "options": [
-      "İkili bağlar",
-      "Üçlü bağlar",
-      "Tek bağlar",
-      "Aromatik bağlar",
-      "Hidrojen bağları"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Alkoller, karbon ve hidrojen arasında tek bağlar içerir. OH grubu da bu bileşiklerin karakteristik özelliklerindendir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_15",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Karboksilik asitlerin asidik özellikleri hangi gruptan kaynaklanır?",
-    "options": [
-      "Alkoller",
-      "Alkenler",
-      "Karboksil grubu",
-      "Amin grubu",
-      "Alkinler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Karboksilik asitlerin asidik özellikleri, karboksil grubu (-COOH) içermesinden kaynaklanır. Bu grup, asidik özellikler gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524923_16",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Bir alkenin hidrojenle doymasında hangi tür bir mekanizma etkili olur?",
-    "options": [
-      "Radikal mekanizma",
-      "Elektrofilik ekleme",
-      "Nükleofilik saldırı",
-      "Substitüsyon",
-      "Eliminasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alkenler, hidrojenle doyması için elektrofilik ekleme mekanizmasıyla tepkimeye girerler. Bu süreçte hidrojen atomları eklenir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_17",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Karbonhidratlar, hangi tür moleküllerdir?",
-    "options": [
-      "Polimerler",
-      "Monomerler",
-      "Dimerler",
-      "Trimerler",
-      "Tetramerler"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Karbonhidratlar, genellikle monosakkaritlerden oluşan polimerlerdir. Bu yapılar, enerji depolamak ve yapı sağlamak için önemlidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_18",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aminlerin genel formülü nedir?",
-    "options": [
-      "CnH2n+1NH2",
-      "CnH2n",
-      "CnH2n-2",
-      "CnH2n+2",
-      "CnH2n-1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Aminlerin genel formülü CnH2n+1NH2 şeklindedir. Bu formül, bir veya daha fazla amino grubu içeren bileşikleri tanımlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_19",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Silikon bileşikleri hangi tür bileşikleri içerir?",
-    "options": [
-      "Alkenler",
-      "Aromatikler",
-      "Alkoller",
-      "Silikon oksit",
-      "Alkoller"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Silikon bileşikleri, silikon ve oksijen atomlarının birleşiminden oluşan bileşiklerdir. Silikon oksit, bu tür bileşiklere örnektir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_20",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Alkenlerin oluşumu için hangi tür bir mekanizma gereklidir?",
-    "options": [
-      "Polimerizasyon",
-      "Eliminasyon",
-      "Nükleofilik saldırı",
-      "Substitüsyon",
-      "Redoks"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alkenler, iki atom arasındaki bir bağın kırılması ve iki atom arasındaki başka bir bağın oluşması ile eliminasyon reaksiyonu sonucu oluşur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_21",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Doymamış yağ asitleri, hangi tür bağları içerir?",
-    "options": [
-      "Tek bağlar",
-      "İkili bağlar",
-      "Üçlü bağlar",
-      "Aromatik bağlar",
-      "Hepsi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Doymamış yağ asitleri, en az bir ikili bağ içerir. Bu bağlar, yağ asitlerinin fiziksel özelliklerini etkiler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_22",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Alkilaminlerin genel formülü nedir?",
-    "options": [
-      "CnH2n+1NH2",
-      "CnH2n",
-      "CnH2n-1",
-      "CnH2n-2",
-      "CnH2n+2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alkilaminlerin genel formülü CnH2n+1NH2'dir. Bu formül, alkil grubu ve amino grubunu içeren bileşikleri tanımlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_23",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Esterler, hangi işlemler sonucu elde edilir?",
-    "options": [
-      "Nitrasyon",
-      "Esterleşme",
-      "Hidroliz",
-      "Dehidratasyon",
-      "Biyolojik sentez"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Esterler, alkol ve karboksilik asidin tepkimesi sonucu esterleşme işlemi ile elde edilir. Bu işlem sırasında su açığa çıkar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_24",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aromatik bileşiklerin en yaygın örneği hangisidir?",
-    "options": [
-      "Benzen",
-      "Etilen",
-      "Propilen",
-      "Metan",
-      "Asetilen"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Benzen, aromatik bileşiklerin en yaygın örneğidir. Aromatik bileşenler, benzen halkasına sahip olan bileşiklerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524524924_25",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Alkol ve fenoller arasındaki temel fark nedir?",
-    "options": [
-      "Fenoller su ile çözünür",
-      "Alkol daha asidiktir",
-      "Fenoller daha reaktiftir",
-      "Fenoller OH grubuna sahiptir",
-      "Alkol daha fazla bağ içerir"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Fenoller, OH grubunun bir aromatik halka ile bağlanması ile oluşan bileşiklerdir. Alkoller ise sadece alifatik yapıda OH grubuna sahiptir.",
+    "explanation": "Aminler, su ile iyi çözünebilen hidrojen bağları kurabilen moleküllerdir. Bu nedenle hidrofilik özellik gösterirler.",
     "difficulty": 5
   },
   {
@@ -768,6 +96,134 @@
     "difficulty": 5
   },
   {
+    "id": "ai_1764499998125_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşik çiftlerinden hangisi birbirinin fonksiyonel grup izomeri *değildir*?",
+    "options": [
+      "A) Propanal - Propanon",
+      "B) Etil alkol - Dimetil eter",
+      "C) 2-Pentanon - 3-Pentanon",
+      "D) Propanoik asit - Metil etanoat",
+      "E) 1-Bütin - 1,3-Bütadien"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fonksiyonel grup izomerleri, kapalı formülleri aynı ancak fonksiyonel grupları farklı olan bileşiklerdir. A, B, D ve E şıklarındaki çiftler bu tanıma uyar. Örneğin A şıkkında propanal (aldehit) ve propanon (keton) C3H6O kapalı formülüne sahiptir. Ancak C şıkkındaki 2-pentanon ve 3-pentanon, her ikisi de keton fonksiyonel grubuna sahiptir. Bu bileşiklerin kapalı formülleri (C5H10O) aynı olmasına rağmen, fonksiyonel grup olan karbonil grubunun ana zincirdeki yeri farklıdır. Bu nedenle bu iki bileşik birbirinin konum izomeridir, fonksiyonel grup izomeri değil.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524923_16",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Bir alkenin hidrojenle doymasında hangi tür bir mekanizma etkili olur?",
+    "options": [
+      "Radikal mekanizma",
+      "Elektrofilik ekleme",
+      "Nükleofilik saldırı",
+      "Substitüsyon",
+      "Eliminasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkenler, hidrojenle doyması için elektrofilik ekleme mekanizmasıyla tepkimeye girerler. Bu süreçte hidrojen atomları eklenir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524923_10",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Furfural, hangi organik bileşikten türetilmiştir?",
+    "options": [
+      "Hücre duvarı",
+      "Selüloz",
+      "Protein",
+      "Yağ asidi",
+      "Alkol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Furfural, selüloz ve pentoz şekerlerinin ısıtılmasıyla elde edilen bir bileşiktir. Özellikle gıda endüstrisinde kullanılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501322828_3",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Etil metil eter bileşiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Fonksiyonel grup izomeri olan bir alkol vardır.",
+      "Asimetrik (karışık) bir eterdir.",
+      "Yoğun fazda molekülleri arasında hidrojen bağı bulunur.",
+      "Kapalı formülü C3H8O'dur.",
+      "Suda çözünürlüğü, izomeri olan alkole göre daha düşüktür."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eter molekülleri arasında oksijen atomuna doğrudan bağlı bir hidrojen atomu bulunmadığı için kendi molekülleri arasında hidrojen bağı oluşturamazlar. Bu nedenle kaynama noktaları, aynı karbon sayılı izomerleri olan alkollerden daha düşüktür. Ancak eter moleküllerindeki oksijen atomu, su molekülleri ile hidrojen bağı yapabildiği için suda bir miktar çözünürler. Diğer şıklar doğrudur:\nA) C3H8O kapalı formülüne sahip propanol (1-propanol veya 2-propanol) ile fonksiyonel grup izomeridir.\nB) Oksijen atomuna bağlı alkil grupları (etil ve metil) farklı olduğu için asimetrik eterdir.\nD) Kapalı formülü 3 karbon, 8 hidrojen ve 1 oksijenden oluşur (C3H8O).\nE) Kendi molekülleri arasında hidrojen bağı yapamadığı için, yapabilen izomeri propanole göre suda daha az çözünür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524923_9",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkinlerin genel formülü nedir?",
+    "options": [
+      "CnH2n",
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnH2n-1",
+      "CnH2n+1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alkinlerin genel formülü CnH2n-2 şeklindedir. Bu, alkinlerin üçlü bağ içeren hidrokarbonlar olduğunu gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499998125_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-Metilpropen bileşiğine HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 1-Bromo-2-metilpropan",
+      "B) 2-Bromo-2-metilpropan",
+      "C) 1-Bromobütan",
+      "D) 2-Bromobütan",
+      "E) 2-Bromo-1-metilpropan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre yürür. Markovnikov kuralı, H-X gibi polar bir molekülün asimetrik bir alkene katılırken, hidrojen atomunun (H+) ikili bağdaki karbonlardan hidrojence zengin olana, X grubunun (Br-) ise hidrojence fakir olana bağlanacağını belirtir. 2-metilpropen [(CH3)2C=CH2] yapısında, ikili bağın C1 karbonunda iki hidrojen, C2 karbonunda ise hiç hidrojen yoktur. Bu nedenle, H+ atomu C1'e bağlanarak -CH3 grubunu oluşturur ve karbokatyon C2'de oluşur. Ardından Br- iyonu bu karbokatyonun bulunduğu C2'ye bağlanır. Sonuç olarak ana ürün 2-Bromo-2-metilpropan'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501322828_5",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Benzen (C6H6) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Yapısındaki tüm karbon atomları sp3 hibritleşmesi yapmıştır.",
+      "Alkenler gibi bromlu suyun rengini kolayca giderir.",
+      "Kararlı yapısından dolayı katılma tepkimelerine daha yatkındır.",
+      "Yapısındaki tüm karbon-karbon bağları özdeştir ve uzunlukları tek bağ ile çift bağ arasındadır.",
+      "Doymamış bir hidrokarbon olduğu için düzlemsel yapıda değildir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Benzenin özellikleri:\nA) Yapısındaki tüm karbon atomları bir çift, iki tek bağ yaptığı için sp2 hibritleşmesi yapmıştır.\nB) Aromatik kararlılıktan dolayı alkenler gibi katılma tepkimesi vermez ve bromlu suyun rengini gidermez.\nC) Kararlı yapısından dolayı katılma değil, yer değiştirme (sübstitüsyon) tepkimelerine yatkındır.\nD) Benzendeki pi (π) bağları rezonans nedeniyle halka boyunca delokalizedir (yayılmıştır). Bu durum, tüm karbon-karbon bağlarının özdeş olmasını ve bağ uzunluklarının tek bağdan kısa, çift bağdan uzun olmasını sağlar. Bu ifade doğrudur.\nE) Benzen, sp2 hibritleşmesi yapmış karbon atomlarından dolayı altıgen ve düzlemsel bir molekül yapısına sahiptir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524923_15",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Karboksilik asitlerin asidik özellikleri hangi gruptan kaynaklanır?",
+    "options": [
+      "Alkoller",
+      "Alkenler",
+      "Karboksil grubu",
+      "Amin grubu",
+      "Alkinler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karboksilik asitlerin asidik özellikleri, karboksil grubu (-COOH) içermesinden kaynaklanır. Bu grup, asidik özellikler gösterir.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764524524925_27",
     "subjectId": "kim",
     "topic": "Organik Kimya",
@@ -784,19 +240,595 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524524925_28",
+    "id": "ai_1764524524923_11",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Aminler, hangi grupta yer alır?",
+    "questionText": "Nitrasyon reaksiyonu ile hangi bileşik türü elde edilir?",
     "options": [
-      "Hidrofobik",
-      "Hidrofilik",
-      "Aromatik",
-      "Alifatik",
-      "İkisi de"
+      "Aromatik bileşikler",
+      "Alkoller",
+      "Aminler",
+      "Alkanlar",
+      "Aldehitler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nitrasyon, aromatik bileşiklerin nitro grubu (-NO2) almasını sağlar. Bu, genellikle benzen ile nitrik asidin tepkimesi ile yapılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524923_14",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkoller, hangi tür bağları içerir?",
+    "options": [
+      "İkili bağlar",
+      "Üçlü bağlar",
+      "Tek bağlar",
+      "Aromatik bağlar",
+      "Hidrojen bağları"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alkoller, karbon ve hidrojen arasında tek bağlar içerir. OH grubu da bu bileşiklerin karakteristik özelliklerindendir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499998125_5",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-Bütanol bileşiğinin uygun koşullarda yükseltgenmesi sonucu oluşan ürün ve sülfürik asit katalizörlüğünde ısıtılarak dehidrasyonu (su çekilmesi) sonucu oluşan ana ürün sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bütanal, 1-Büten",
+      "B) Bütanoik asit, 2-Büten",
+      "C) Bütanon, 2-Büten",
+      "D) Bütanon, 1-Büten",
+      "E) Bütanal, Siklobütan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1. Yükseltgenme: 2-Bütanol, bir sekonder alkoldür (OH grubunun bağlı olduğu karbon, iki başka karbona bağlıdır). Sekonder alkoller yükseltgendiğinde ketonları oluşturur. 2-Bütanolün yükseltgenmesiyle 2-Bütanon (veya sadece Bütanon) oluşur.\n\n2. Dehidrasyon: Alkollerden asit katalizörlüğünde su çekilmesiyle alkenler oluşur. Bu tepkime Zaitsev kuralına göre yürür. Zaitsev kuralına göre, -OH grubunun ayrıldığı karbona komşu olan karbonlardan hidrojeni az olandan hidrojen ayrılır ve daha kararlı (daha fazla sübstitüe olmuş) alken ana ürün olarak oluşur. 2-Bütanolde, C2'den -OH ayrılır. C1'de 3, C3'te 2 hidrojen vardır. Hidrojeni az olan C3'ten bir hidrojen ayrılmasıyla C2 ve C3 arasında çift bağ oluşur ve ana ürün olarak 2-Büten meydana gelir. (C1'den H ayrılmasıyla oluşan 1-Büten yan üründür).\n\nDolayısıyla, ürünler sırasıyla Bütanon ve 2-Büten'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Yapı formülü CH3-CH(CH3)-CH(OH)-CH2-CH3 olan bileşiğin IUPAC sistemine göre adı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 4-Metil-3-pentanol",
+      "B) 2-Metil-3-pentanol",
+      "C) 2-Etil-3-bütanol",
+      "D) 4-Metil-2-pentanol",
+      "E) 3-Hidroksi-2-metil pentan"
     ],
     "correctAnswer": 1,
-    "explanation": "Aminler, su ile iyi çözünebilen hidrojen bağları kurabilen moleküllerdir. Bu nedenle hidrofilik özellik gösterirler.",
+    "explanation": "IUPAC adlandırması için şu adımlar izlenir: 1. Hidroksil (-OH) grubunu içeren en uzun karbon zinciri seçilir. Bu zincir 5 karbonludur (pentan). 2. Numaralandırmaya -OH grubunun yakın olduğu uçtan başlanır. Sağdan başlandığında -OH 3. karbonda, soldan başlandığında yine 3. karbondadır. 3. Bu eşitlik durumunda, dallanmanın (metil grubu) küçük numarayı alacağı yönden numaralandırma yapılır. Soldan başlanırsa metil grubu 2. karbona, sağdan başlanırsa 4. karbona denk gelir. Bu yüzden soldan numaralandırma tercih edilir. 4. Buna göre, 2. karbonda bir metil grubu ve 3. karbonda bir hidroksil grubu vardır. Bileşiğin adı 2-Metil-3-pentanol olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520294760_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki reaksiyonlardan hangisi bir esterleşme tepkimesidir?",
+    "options": [
+      "Asidik bir bileşen ile alkali bir bileşen reaksiyona girer.",
+      "Bir asit ile alkol birleşir ve su açığa çıkar.",
+      "Bir alkol, bir keton ile reaksiyona girer.",
+      "Bir alken, halojen ile tepkime verir.",
+      "Bir alkol, bir aldehit ile oksitlenir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Esterleşme, bir asidin alkol ile reaksiyona girmesi sonucu ester ve su oluşumudur. Bu nedenle doğru cevap, asit ile alkolün birleşmesidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501322828_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-metil-2-bütanol bileşiğinin potasyum permanganat (KMnO4) gibi kuvvetli bir yükseltgen ile tepkimesi sonucu ne oluşur?",
+    "options": [
+      "2-metil-2-bütanon",
+      "2-metilbütanal",
+      "2-metilbütanoik asit",
+      "Penton",
+      "Tepkime gerçekleşmez"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Alkollerin yükseltgenme tepkimesi verebilmesi için hidroksil (-OH) grubunun bağlı olduğu karbon atomunda en az bir adet hidrojen atomu bulunmalıdır. 2-metil-2-bütanol, -OH grubunun bağlı olduğu karbon atomuna üç başka karbon grubunun bağlandığı bir tersiyer (üçüncül) alkoldür. Bu karbonda hidrojen atomu bulunmadığı için tersiyer alkoller yükseltgenme tepkimesi vermezler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524924_22",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkilaminlerin genel formülü nedir?",
+    "options": [
+      "CnH2n+1NH2",
+      "CnH2n",
+      "CnH2n-1",
+      "CnH2n-2",
+      "CnH2n+2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alkilaminlerin genel formülü CnH2n+1NH2'dir. Bu formül, alkil grubu ve amino grubunu içeren bileşikleri tanımlar.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764520294760_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
+    "options": [
+      "C4H10",
+      "C5H12",
+      "C6H14",
+      "C7H16",
+      "C8H18O"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524922_3",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Siklik alkane moleküllerinin genel formülü nedir?",
+    "options": [
+      "CnH2n",
+      "CnH2n+2",
+      "CnH2n-2",
+      "CnH2n+1",
+      "CnH2n-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Siklik alkanların genel formülü CnH2n şeklindedir. Bu formül, halkalı yapıya sahip olan alkanları tanımlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520294760_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşiklerden hangisi bir karboksil asit değildir?",
+    "options": [
+      "HCOOH",
+      "CH3COOH",
+      "C2H5OH",
+      "C3H7COOH",
+      "C4H9COOH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C2H5OH, etanol olarak bilinen bir alkol bileşiktir ve karboksil asit değildir. Diğer seçenekler karboksil asitlerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524923_13",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Farklı alkenlerin birbirine dönüşümünde hangi mekanizma rol oynar?",
+    "options": [
+      "Radikal mekanizma",
+      "Elektrofilik ekleme",
+      "Nükleofilik saldırı",
+      "Substitüsyon",
+      "Eliminasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkenlerin birbirine dönüşümü genellikle elektrofilik ekleme mekanizması ile gerçekleşir. Bu süreç, alkenin çift bağının kırılması ile başlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519337330_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir substitüsyon reaksiyonuna örnek teşkil eder?",
+    "options": [
+      "C2H6 + Cl2 → C2H5Cl + HCl",
+      "C2H4 + H2 → C2H6",
+      "C3H8 + O2 → CO2 + H2O",
+      "C6H6 + H2 → C6H12",
+      "C4H10 + O2 → CO + H2O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C2H6 + Cl2 → C2H5Cl + HCl reaksiyonu bir substitüsyon reaksiyonudur, burada alkandan bir hidrojen atomu, klor atomu ile yer değiştirir. Diğer reaksiyonlar farklı mekanizmaları temsil eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524922_6",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Bir organik moleküldeki işlevsel grubun belirlenmesinde hangi faktörler dikkate alınmalıdır?",
+    "options": [
+      "Molekülün ağırlığı",
+      "Molekülün simetrisi",
+      "Kimyasal bağların türü",
+      "Bileşenlerin sayısı",
+      "Yapısal formül"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir organik molekülün işlevsel grubu, moleküldeki kimyasal bağların türü ve yerleşimi ile belirlenir. Bu, molekülün reaktivitesini etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_19",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Silikon bileşikleri hangi tür bileşikleri içerir?",
+    "options": [
+      "Alkenler",
+      "Aromatikler",
+      "Alkoller",
+      "Silikon oksit",
+      "Alkoller"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Silikon bileşikleri, silikon ve oksijen atomlarının birleşiminden oluşan bileşiklerdir. Silikon oksit, bu tür bileşiklere örnektir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_25",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkol ve fenoller arasındaki temel fark nedir?",
+    "options": [
+      "Fenoller su ile çözünür",
+      "Alkol daha asidiktir",
+      "Fenoller daha reaktiftir",
+      "Fenoller OH grubuna sahiptir",
+      "Alkol daha fazla bağ içerir"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Fenoller, OH grubunun bir aromatik halka ile bağlanması ile oluşan bileşiklerdir. Alkoller ise sadece alifatik yapıda OH grubuna sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_20",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkenlerin oluşumu için hangi tür bir mekanizma gereklidir?",
+    "options": [
+      "Polimerizasyon",
+      "Eliminasyon",
+      "Nükleofilik saldırı",
+      "Substitüsyon",
+      "Redoks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkenler, iki atom arasındaki bir bağın kırılması ve iki atom arasındaki başka bir bağın oluşması ile eliminasyon reaksiyonu sonucu oluşur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499998125_4",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aldehitler ve ketonlarla ilgili olarak, aşağıdaki tepkimelerden hangisini sadece aldehitler verirken ketonlar vermez?",
+    "options": [
+      "A) NaBH4 ile indirgenme",
+      "B) Fehling ayıracı ile tepkime",
+      "C) HCN ile katılma tepkimesi",
+      "D) Grignard bileşikleri ile katılma",
+      "E) H2/Ni varlığında hidrojenasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aldehitler, karbonil karbonuna bağlı bir hidrojen atomu taşıdıkları için kolayca yükseltgenebilirler. Ketonlarda ise karbonil karbonuna iki alkil/aril grubu bağlıdır ve bu nedenle normal koşullarda yükseltgenmezler. Bu özellik, onları ayırt etmek için kullanılır. \n- Fehling ve Tollens ayıraçları zayıf yükseltgenlerdir ve sadece aldehitleri karboksilik asitlere yükseltgerler. Bu sırada Fehling ayıracı kırmızı renkli Cu2O çökeltisi, Tollens ayıracı ise gümüş aynası (Ag) oluşturur. Ketonlar bu ayıraçlarla tepkime vermez.\n- Diğer şıklardaki tepkimeler (indirgenme, HCN katılması, Grignard tepkimesi) hem aldehitlerin hem de ketonların verdiği ortak karbonil grubu tepkimeleridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524922_5",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Hidrojen peroksit, hangi organik bileşiğin oksidasyon ürünü olarak ortaya çıkar?",
+    "options": [
+      "Alkol",
+      "Aldehit",
+      "Ketone",
+      "Karboksilik asit",
+      "Alkan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkolün oksitlenmesi ile aldehit oluşur ve bazı koşullarda bu aldehitler hidrojen peroksit ile tepkimeye girerek daha karmaşık bileşikler oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524922_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkenlerin hidrojene doymuş hale gelmesi için hangi reaksiyon gerçekleşir?",
+    "options": [
+      "Elektrofilik ekleme",
+      "Polimerleşme",
+      "Hidrogenasyon",
+      "Oksidasyon",
+      "Dehidratasyon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alkenler, çift bağlarını kırarak hidrogenasyon ile doymuş hale gelirler. Bu reaksiyonda alken, hidrojen gazı ile tepkimeye girer.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_24",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aromatik bileşiklerin en yaygın örneği hangisidir?",
+    "options": [
+      "Benzen",
+      "Etilen",
+      "Propilen",
+      "Metan",
+      "Asetilen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benzen, aromatik bileşiklerin en yaygın örneğidir. Aromatik bileşenler, benzen halkasına sahip olan bileşiklerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498618418_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşiklerden hangisi dietil eterin yapı izomeri *değildir*?",
+    "options": [
+      "1-Bütanol",
+      "Metil propil eter",
+      "2-Metil-2-propanol",
+      "2-Bütanon",
+      "2-Bütanol"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yapı izomerleri, kapalı formülleri aynı, açık yapıları farklı olan bileşiklerdir. İlk olarak dietil eterin (CH₃CH₂-O-CH₂CH₃) kapalı formülünü bulmalıyız: C₄H₁₀O. Şimdi şıklardaki bileşiklerin kapalı formüllerini inceleyelim:\nA) 1-Bütanol (CH₃CH₂CH₂CH₂OH): C₄H₁₀O\nB) Metil propil eter (CH₃-O-CH₂CH₂CH₃): C₄H₁₀O\nC) 2-Metil-2-propanol ((CH₃)₃COH): C₄H₁₀O\nD) 2-Bütanon (CH₃-CO-CH₂CH₃): C₄H₈O. Bu bileşiğin formülünde 2 hidrojen eksiktir.\nE) 2-Bütanol (CH₃CH(OH)CH₂CH₃): C₄H₁₀O\nKapalı formülü C₄H₈O olan 2-Bütanon, kapalı formülü C₄H₁₀O olan dietil eterin yapı izomeri değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524922_4",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Karbonhidratların temel yapı taşları nelerdir?",
+    "options": [
+      "Amino asitler",
+      "Yağ asitleri",
+      "Monosakkaritler",
+      "Nükleotidler",
+      "Alkoller"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karbonhidratlar, monosakkarit adı verilen basit şekerlerden oluşur. Glikoz ve fruktoz en yaygın örneklerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_21",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Doymamış yağ asitleri, hangi tür bağları içerir?",
+    "options": [
+      "Tek bağlar",
+      "İkili bağlar",
+      "Üçlü bağlar",
+      "Aromatik bağlar",
+      "Hepsi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Doymamış yağ asitleri, en az bir ikili bağ içerir. Bu bağlar, yağ asitlerinin fiziksel özelliklerini etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524922_7",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Alkol ve karboksilik asit arasındaki temel fark nedir?",
+    "options": [
+      "Alkolde OH grubu vardır",
+      "Asitte C=O bağı vardır",
+      "Alkol daha reaktiftir",
+      "Asitte daha fazla hidrojen bulunur",
+      "Asitler su ile çözünmez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Karboksilik asitler, C=O bağına ve OH grubuna sahipken, alkol sadece OH grubuna sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524922_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Benzin içerisinde bulunan aromatik hidrokarbonların en temel örneği hangisidir?",
+    "options": [
+      "Toluene",
+      "Benzen",
+      "Xilen",
+      "Tetrahin",
+      "Naphthalene"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benzen, en basit aromatik hidrokarbon olup, benzin içerisinde bulunan önemli bir bileşiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_18",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aminlerin genel formülü nedir?",
+    "options": [
+      "CnH2n+1NH2",
+      "CnH2n",
+      "CnH2n-2",
+      "CnH2n+2",
+      "CnH2n-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aminlerin genel formülü CnH2n+1NH2 şeklindedir. Bu formül, bir veya daha fazla amino grubu içeren bileşikleri tanımlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519337330_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir alkan değildir?",
+    "options": [
+      "C3H8",
+      "C5H12",
+      "C4H10",
+      "C6H14",
+      "C2H4"
+    ],
+    "correctAnswer": 4,
+    "explanation": "C2H4, etilen olarak bilinen bir alken bileşiğidir. Alkalar ise sadece tekli bağ içeren doymuş hidrokarbonlardır. Diğer seçenekler doymuş hidrokarbonlardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524923_8",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aromatik bileşiklerin özelliklerinden biri nedir?",
+    "options": [
+      "Daha fazla yoğunluk",
+      "Daha az reaktivite",
+      "Daha fazla su çözünebilirlik",
+      "Daha yüksek kaynama noktası",
+      "Daha az stabilite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aromatik bileşenler, genellikle düşük reaktiviteye sahiptirler. Bu, aromatik halkalar içindeki π elektronlarının dağılımı nedeniyle oluşur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501322828_4",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Asetik asit (etanoik asit) ile etanolün asit katalizörlüğünde tepkimesi sonucu oluşan esterin IUPAC adı nedir?",
+    "options": [
+      "Metil propanoat",
+      "Etil etanoat",
+      "Propil metanoat",
+      "Etil propanoat",
+      "Metil etanoat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu bir esterleşme tepkimesidir. Karboksilik asit ile alkol tepkimeye girerek ester ve su oluşturur. Adlandırma yapılırken önce alkolden gelen alkil grubunun adı, sonra karboksilik asitten gelen ve sonuna '-oat' eki getirilen kısmın adı söylenir. Tepkimeye giren alkol etanol (2 karbonlu) olduğu için 'etil' kısmı, asit ise asetik asit (etanoik asit, 2 karbonlu) olduğu için 'etanoat' kısmı gelir. Oluşan esterin adı etil etanoat'tır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501322828_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Propen bileşiğine Markovnikov kuralına göre HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
+    "options": [
+      "1-brompropan",
+      "2-brompropan",
+      "1,2-dibrompropan",
+      "Propan",
+      "2-brompropen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkenlere hidrojen halojenür katılması Markovnikov kuralına göre gerçekleşir. Bu kurala göre, katılan moleküldeki pozitif kısım (H+), ikili bağ karbonlarından hidrojeni çok olana bağlanır. Negatif kısım (Br-) ise hidrojeni az olan ikili bağ karbonuna bağlanır. Propen (CH3-CH=CH2) bileşiğinde, H atomu CH2 grubuna, Br atomu ise CH grubuna bağlanır. Sonuç olarak oluşan ana ürün 2-brompropan'dır (CH3-CHBr-CH3).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_3",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Fenol (C6H5OH) bileşiği ile ilgili aşağıdaki ifadelerden hangisi *yanlıştır*?",
+    "options": [
+      "A) Zayıf asit özelliği gösterir.",
+      "B) NaOH gibi kuvvetli bazlarla tepkimeye girer.",
+      "C) Benzen halkasına doğrudan bağlı -OH grubu içerir.",
+      "D) Yükseltgenerek benzoik asit oluşturur.",
+      "E) Suda çözünürlüğü benzeninkinden fazladır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A) Fenol, benzen halkasının rezonans etkisiyle -OH grubundaki hidrojeni kolayca iyonlaştırabildiği için zayıf asidik özellik gösterir. Doğru. B) Asidik karakterinden dolayı NaOH gibi kuvvetli bazlarla nötralleşme tepkimesi vererek sodyum fenoksit tuzunu ve suyu oluşturur. Doğru. C) Fenolün tanımı gereği, bir -OH grubu doğrudan benzen halkasına bağlıdır. Doğru. D) Fenol yükseltgenme tepkimeleri verebilir ancak bu tepkimelerle benzoik asit oluşmaz. Benzoik asit, toluenin (metilbenzen) yükseltgenmesiyle elde edilir. Bu ifade yanlıştır. E) Fenol, yapısındaki -OH grubu sayesinde su molekülleriyle hidrojen bağı kurabilir, bu nedenle apolar olan benzene göre suda daha iyi çözünür. Doğru.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524924_23",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Esterler, hangi işlemler sonucu elde edilir?",
+    "options": [
+      "Nitrasyon",
+      "Esterleşme",
+      "Hidroliz",
+      "Dehidratasyon",
+      "Biyolojik sentez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Esterler, alkol ve karboksilik asidin tepkimesi sonucu esterleşme işlemi ile elde edilir. Bu işlem sırasında su açığa çıkar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501322828_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşiklerden hangisi n-pentan'ın (C5H12) yapı izomeridir?",
+    "options": [
+      "2-metilpentan",
+      "Siklopentan",
+      "2,2-dimetilpropan",
+      "3-metilhekzan",
+      "Penten"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yapı izomerleri, kapalı formülleri aynı, ancak atomlarının bağlanma düzeni (yapı formülleri) farklı olan bileşiklerdir. n-pentan'ın kapalı formülü C5H12'dir. Şıkları inceleyelim:\nA) 2-metilpentan: C6H14\nB) Siklopentan: C5H10\nC) 2,2-dimetilpropan: C5H12. Kapalı formülü n-pentan ile aynıdır fakat dallanmış bir yapıya sahiptir. Bu nedenle yapı izomeridir.\nD) 3-metilhekzan: C7H16\nE) Penten: C5H10\nDoğru cevap 2,2-dimetilpropan'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524524923_12",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Bir alkol ile karboksilik asit arasındaki esterleşme tepkimesi sonucunda hangi ürün oluşur?",
+    "options": [
+      "Alkol",
+      "Aldehit",
+      "Ester",
+      "Ketone",
+      "Asit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alkol ve karboksilik asidin tepkimesi sonucunda ester ve su oluşur. Bu tepkime, esterleşme olarak bilinir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524524924_17",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Karbonhidratlar, hangi tür moleküllerdir?",
+    "options": [
+      "Polimerler",
+      "Monomerler",
+      "Dimerler",
+      "Trimerler",
+      "Tetramerler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karbonhidratlar, genellikle monosakkaritlerden oluşan polimerlerdir. Bu yapılar, enerji depolamak ve yapı sağlamak için önemlidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526185347_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşiklerden hangisi bir alken değildir?",
+    "options": [
+      "Etilen",
+      "Propilen",
+      "Butadien",
+      "Benzin",
+      "Asetilen"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alkenler, en az bir çift bağ içeren hidrokarbonlardır. Etilen, propilen ve asetilen alkenlerdir. Ancak benzin, aromatik bir bileşiktir ve butadien de bir alken olmasına rağmen, burada doğru cevap 'Benzin' seçeneğidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526185347_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdakilerden hangisi bir karboksilik asidin genel formülünü ifade eder?",
+    "options": [
+      "R-COOH",
+      "R-CHO",
+      "R-CO-R'",
+      "R-NH2",
+      "R-OH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karboksilik asitlerin genel formülü R-COOH şeklindedir. R, bir alkil grubunu temsil eder. Diğer şıklar farklı organik bileşenlerin formülleridir; aldehit (R-CHO), keton (R-CO-R'), amine (R-NH2) ve alkol (R-OH) gibi.",
+    "difficulty": 4
   }
 ]
