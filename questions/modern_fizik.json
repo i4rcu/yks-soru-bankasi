@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764498447597_0",
+    "id": "ai_1764499796212_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Bir metal yüzeye, bağlanma enerjisi (eşik enerjisi) E olan fotonlar gönderildiğinde sökülen elektronların maksimum kinetik enerjisi 2E oluyor. Bu metal yüzeye gönderilen ışığın sadece şiddeti iki katına çıkarılırsa, sökülen elektronların maksimum kinetik enerjisi ve birim zamanda sökülen fotoelektron sayısı nasıl değişir?",
+    "questionText": "Eşik enerjisi 2 eV olan bir metal yüzeye, enerjisi 5 eV olan fotonlar gönderiliyor. Bu deneyde, yüzeyden sökülen fotoelektronların maksimum kinetik enerjisi E, sökülen elektron sayısını etkileyen temel faktör ise I ile gösteriliyor. Buna göre, metal yüzeye gönderilen fotonların sadece frekansı artırılırsa E ve I nicelikleri nasıl değişir?",
     "options": [
-      "Kinetik enerji değişmez, fotoelektron sayısı iki katına çıkar.",
-      "Kinetik enerji iki katına çıkar, fotoelektron sayısı değişmez.",
-      "Kinetik enerji değişmez, fotoelektron sayısı değişmez.",
-      "Kinetik enerji yarıya iner, fotoelektron sayısı iki katına çıkar.",
-      "Kinetik enerji iki katına çıkar, fotoelektron sayısı da iki katına çıkar."
+      "E artar, I artar.",
+      "E artar, I değişmez.",
+      "E azalır, I artar.",
+      "E değişmez, I artar.",
+      "E değişmez, I değişmez."
     ],
-    "correctAnswer": 0,
-    "explanation": "Fotoelektrik olayda, sökülen bir elektronun maksimum kinetik enerjisi, gelen fotonun enerjisi (hf) ile metalin bağlanma enerjisi (E_bağlanma) arasındaki farka eşittir: KE_max = hf - E_bağlanma. Soruda KE_max = 2E ve E_bağlanma = E olarak verilmiş. Buradan gelen fotonun enerjisi hf = 3E bulunur. Işığın şiddeti, birim zamanda yüzeye düşen foton sayısıyla ilgilidir. Fotonun enerjisi ise frekansına bağlıdır. Işığın şiddetini iki katına çıkarmak, foton sayısını iki katına çıkarır ancak her bir fotonun enerjisini (yani frekansını) değiştirmez. Fotonun enerjisi değişmediği için, sökülen elektronların maksimum kinetik enerjisi de (KE_max = 3E - E = 2E) değişmez. Ancak birim zamanda yüzeye çarpan foton sayısı iki katına çıktığı için, birim zamanda sökülen fotoelektron sayısı da iki katına çıkar.",
+    "correctAnswer": 1,
+    "explanation": "Fotoelektrik olayda, bir fotonun enerjisi (hf) metalin eşik enerjisini (W₀) aştığında elektron sökülür. Sökülen elektronun maksimum kinetik enerjisi Einstein'ın fotoelektrik denklemi ile verilir: E_kinetik = hf - W₀. Burada hf gelen fotonun enerjisidir. Gelen ışığın frekansı (f) artırılırsa, fotonun enerjisi (hf) de artar. Metalin eşik enerjisi (W₀) sabit olduğundan, sökülen elektronların maksimum kinetik enerjisi (E) artar. Sökülen elektron sayısı (akım şiddeti), birim zamanda yüzeye düşen foton sayısına, yani ışık şiddetine (yoğunluğuna) bağlıdır. Soruda sadece frekansın artırıldığı belirtildiği için, ışık şiddeti (I) değişmez kabul edilir. Bu nedenle sökülen elektron sayısı değişmez. Sonuç olarak E artar, I değişmez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498447597_1",
+    "id": "ai_1764499796212_1",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Durgun bir gözlemciye göre 0,6c hızıyla hareket eden bir uzay mekiğinin içindeki astronot, mekiğin boyunu L₀ olarak ve kendi kol saatinin 60 saniye ilerlediğini ölçüyor. Durgun gözlemci, uzay mekiğinin boyunu L ve astronotun saatindeki bu 60 saniyelik süreyi t olarak ölçtüğüne göre, L ve t için aşağıdakilerden hangisi doğrudur? (c: ışık hızı)",
+    "questionText": "Compton saçılması deneyinde, durgun haldeki bir elektrona gönderilen X-ışını fotonu, elektrona çarparak şekildeki gibi saçılıyor. Gelen fotonun dalga boyu λ, saçılan fotonun dalga boyu λ' ve saçılan elektronun kinetik enerjisi E_k olduğuna göre, aşağıdaki yargılardan hangisi yanlıştır?",
     "options": [
-      "L = L₀ , t = 60 s",
-      "L > L₀ , t < 60 s",
-      "L < L₀ , t > 60 s",
-      "L > L₀ , t > 60 s",
-      "L < L₀ , t < 60 s"
+      "Olayda enerji korunur.",
+      "Olayda momentum korunur.",
+      "Saçılan fotonun dalga boyu, gelen fotonun dalga boyundan büyüktür (λ' > λ).",
+      "Gelen fotonun enerjisi, saçılan fotonun enerjisi ile saçılan elektronun kinetik enerjisinin toplamına eşittir.",
+      "Saçılan fotonun frekansı, gelen fotonun frekansından büyüktür."
     ],
-    "correctAnswer": 2,
-    "explanation": "Özel görelilik teorisinin iki temel postülası vardır: zaman genişlemesi ve uzunluk büzülmesi. 1) Uzunluk Büzülmesi: Bir cismin hızı arttıkça, hareket doğrultusundaki boyu, durgun bir gözlemci tarafından daha kısa ölçülür. Astronot, mekikle aynı referans sisteminde olduğu için mekiğin 'durgun boyu' olan L₀'ı ölçer. Durgun gözlemci ise hareketli mekiğin boyunu daha kısa, yani L < L₀ olarak ölçer. 2) Zaman Genişlemesi: Hareketli bir sistemdeki zaman, durgun bir gözlemciye göre daha yavaş akar. Astronotun saatinde geçen 60 saniye, onun için 'durgun zaman'dır. Durgun gözlemci, hareket halindeki astronotun saatine baktığında zamanın daha yavaş aktığını, yani aynı olay için kendi saatinde daha fazla süre geçtiğini görür. Dolayısıyla, durgun gözlemcinin ölçtüğü süre t > 60 saniye olacaktır. Sonuç olarak, L < L₀ ve t > 60 s olur.",
+    "correctAnswer": 4,
+    "explanation": "Compton saçılması, bir fotonun serbest bir elektrona esnek çarpması olarak modellenebilir. Bu olayda hem enerji hem de momentum korunur. Gelen foton, enerjisinin bir kısmını elektrona aktararak onun kinetik enerji kazanmasını sağlar ve kendisi daha düşük bir enerjiyle saçılır. Enerji korunumuna göre; E_gelen = E_saçılan + E_kinetik (elektron). Bu nedenle D şıkkı doğrudur. Bir fotonun enerjisi E = hf = hc/λ ile ifade edilir. Saçılan fotonun enerjisi azaldığı için frekansı azalır (f' < f) ve dalga boyu artar (λ' > λ). Dolayısıyla C şıkkı doğru, E şıkkı yanlıştır. Olay bir esnek çarpışma olduğu için A ve B şıklarında belirtildiği gibi enerji ve momentum korunur. Yanlış olan ifade E şıkkındadır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498447597_2",
+    "id": "ai_1764499796212_2",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Compton saçılması deneyinde, durgun haldeki bir elektrona gönderilen X-ışını fotonu, elektrona çarparak şekildeki gibi saçılıyor. Gelen fotonun dalga boyu λ₁, enerjisi E₁ ve momentumu P₁ iken; saçılan fotonun dalga boyu λ₂, enerjisi E₂ ve momentumu P₂'dir. Buna göre, aşağıdaki yargılardan hangisi yanlıştır?",
+    "questionText": "Özel görelilik teorisine göre, durgun bir gözlemciye göre 0,6c hızıyla hareket eden bir uzay mekiğinin içindeki bir saatin 10 saniye ilerlediği gözlemleniyor. Buna göre, mekiğin içindeki astronota göre aynı zaman aralığı kaç saniye olarak ölçülür? (c: ışık hızı)",
     "options": [
-      "λ₂ > λ₁",
-      "E₁ > E₂",
-      "Sistemin toplam momentumu korunur.",
-      "Sistemin toplam kinetik enerjisi korunur.",
-      "Fotonun frekansı azalır."
+      "6 s",
+      "8 s",
+      "10 s",
+      "12,5 s",
+      "16,7 s"
     ],
-    "correctAnswer": 3,
-    "explanation": "Compton saçılması, bir fotonun serbest bir elektrona çarpıp enerjisinin bir kısmını elektrona aktararak saçılması olayıdır. Bu olayda enerji ve momentum korunur. A) Foton enerjisinin bir kısmını elektrona aktardığı için enerjisi azalır. Enerji ile dalga boyu ters orantılı olduğundan (E = hc/λ), saçılan fotonun dalga boyu gelen fotonunkinden büyük olur (λ₂ > λ₁). Bu ifade doğrudur. B) Enerjinin bir kısmı elektrona aktarıldığı için E₁ > E₂ olur. Bu ifade doğrudur. C) Compton saçılması bir çarpışma olayıdır ve tüm çarpışmalarda olduğu gibi sistemin (foton + elektron) toplam momentumu korunur. Bu ifade doğrudur. D) Bu çarpışma esnek bir çarpışma değildir. Foton enerjisinin bir kısmı, elektronun kinetik enerjisine dönüşür. Sistemin toplam enerjisi korunur, ancak toplam kinetik enerji korunmaz. Çarpışmadan önce elektronun kinetik enerjisi sıfırken, çarpışmadan sonra hem saçılan fotonun hem de elektronun enerjisi vardır. Bu ifade yanlıştır. E) Fotonun enerjisi azaldığı için (E = hf), frekansı da azalır. Bu ifade doğrudur.",
+    "correctAnswer": 1,
+    "explanation": "Özel görelilik teorisine göre, hareketli bir referans sisteminde zaman, durgun referans sistemine göre daha yavaş akar. Bu olaya 'zaman genişlemesi' denir. Durgun gözlemcinin ölçtüğü zaman (Δt) ile hareketli gözlemcinin (astronotun) ölçtüğü zaman (Δt₀ - öz zaman) arasındaki ilişki şu formülle verilir: Δt = γ * Δt₀. Burada γ (Lorentz faktörü) = 1 / √(1 - v²/c²)'dir. Soruda verilenler: v = 0,6c ve durgun gözlemcinin ölçtüğü zaman Δt = 10 s. Astronotun kendi saatine göre ölçtüğü zaman Δt₀ sorulmaktadır. Önce γ'yı hesaplayalım: γ = 1 / √(1 - (0,6c)²/c²) = 1 / √(1 - 0,36c²/c²) = 1 / √(1 - 0,36) = 1 / √0,64 = 1 / 0,8 = 10/8 = 1,25. Şimdi formülü kullanarak Δt₀'ı bulalım: 10 = 1,25 * Δt₀ => Δt₀ = 10 / 1,25 = 8 saniye. Dolayısıyla, mekiğin içindeki astronot için geçen süre 8 saniyedir.",
     "difficulty": 3
   }
 ]
