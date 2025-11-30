@@ -1,18 +1,34 @@
 [
   {
-    "id": "ai_1764417206772_0",
+    "id": "ai_1764498174752_0",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "5'i doktor ve 6'sı hemşire olan 11 kişilik bir sağlık ekibinden, içinde en az 2 doktorun bulunduğu 4 kişilik bir nöbet ekibi kaç farklı şekilde oluşturulabilir?",
+    "questionText": "Aralarında 5 doktor ve 4 hemşirenin bulunduğu bir gruptan, en az 2'si doktor olmak şartıyla 3 kişilik bir sağlık ekibi kaç farklı şekilde oluşturulabilir?",
     "options": [
-      "150",
-      "185",
-      "215",
-      "275",
-      "330"
+      "40",
+      "44",
+      "50",
+      "70",
+      "84"
     ],
     "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için iki farklı yöntem kullanabiliriz. İstenen durum, ekipte en az 2 doktor olmasıdır. Bu, ekipte 2, 3 veya 4 doktor olabileceği anlamına gelir.\n\n**Yöntem 1: Durumları Ayrı Ayrı Hesaplama**\n\nOluşturulacak 4 kişilik ekipteki doktor ve hemşire sayılarına göre durumları inceleriz:\n\n*   **Durum 1: 2 Doktor ve 2 Hemşire seçilmesi**\n    5 doktordan 2'si C(5, 2) şekilde, 6 hemşireden 2'si C(6, 2) şekilde seçilir.\n    C(5, 2) = (5 * 4) / (2 * 1) = 10\n    C(6, 2) = (6 * 5) / (2 * 1) = 15\n    Bu durum için toplam kombinasyon: 10 * 15 = 150\n\n*   **Durum 2: 3 Doktor ve 1 Hemşire seçilmesi**\n    5 doktordan 3'ü C(5, 3) şekilde, 6 hemşireden 1'i C(6, 1) şekilde seçilir.\n    C(5, 3) = (5 * 4 * 3) / (3 * 2 * 1) = 10\n    C(6, 1) = 6\n    Bu durum için toplam kombinasyon: 10 * 6 = 60\n\n*   **Durum 3: 4 Doktor ve 0 Hemşire seçilmesi**\n    5 doktordan 4'ü C(5, 4) şekilde seçilir.\n    C(5, 4) = 5\n    Bu durum için toplam kombinasyon: 5 * 1 = 5\n\nBu üç durumun toplamı, istenen sonucu verir:\nToplam = 150 + 60 + 5 = 215\n\n**Yöntem 2: Tüm Durumdan İstenmeyen Durumları Çıkarma**\n\n*   **Tüm Durum:** 11 kişiden 4 kişilik bir ekibin kaç farklı şekilde seçilebileceğidir.\n    C(11, 4) = (11 * 10 * 9 * 8) / (4 * 3 * 2 * 1) = 11 * 10 * 3 = 330\n\n*   **İstenmeyen Durumlar:** İçinde 2'den az doktor bulunan ekiplerdir (yani 0 veya 1 doktorlu ekipler).\n    *   **0 Doktor, 4 Hemşire:** C(5, 0) * C(6, 4) = 1 * 15 = 15\n    *   **1 Doktor, 3 Hemşire:** C(5, 1) * C(6, 3) = 5 * 20 = 100\n    Toplam istenmeyen durum sayısı: 15 + 100 = 115\n\n*   **Sonuç:** Tüm Durum - İstenmeyen Durumlar\n    330 - 115 = 215\n\nHer iki yöntem de aynı sonuca ulaşır. Doğru cevap 215'tir.",
+    "explanation": "Bu soruyu çözmek için iki durumu ele almalıyız, çünkü ekipte en az 2 doktor olması isteniyor. Toplam ekip 3 kişilik olacak.\n\nDurum 1: Ekipte tam olarak 2 doktor ve 1 hemşire bulunur.\n5 doktordan 2'si seçilir: C(5, 2) = (5 * 4) / (2 * 1) = 10\n4 hemşireden 1'i seçilir: C(4, 1) = 4\nBu durum için oluşturulabilecek ekip sayısı: 10 * 4 = 40\n\nDurum 2: Ekipte tam olarak 3 doktor ve 0 hemşire bulunur.\n5 doktordan 3'ü seçilir: C(5, 3) = C(5, 2) = (5 * 4) / (2 * 1) = 10\n4 hemşireden 0'ı seçilir: C(4, 0) = 1\nBu durum için oluşturulabilecek ekip sayısı: 10 * 1 = 10\n\nToplam farklı ekip sayısı, bu iki durumun toplamıdır:\nToplam = 40 + 10 = 50.\nBu nedenle, en az 2'si doktor olan 3 kişilik bir sağlık ekibi 50 farklı şekilde oluşturulabilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498174752_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "\"MATEMATİK\" kelimesinin harflerinin yerleri değiştirilerek yazılabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesinde tüm sesli harfler (A, E, A, İ) yan yana bulunur?",
+    "options": [
+      "180",
+      "360",
+      "1080",
+      "2160",
+      "4320"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu tür sorularda yan yana olması istenen elemanları tek bir blok olarak kabul ederiz.\n\n1. Harfleri ayıralım:\nSesli harfler: A, E, A, İ (Toplam 4 adet, 2 tanesi A tekrar ediyor)\nSessiz harfler: M, T, M, T, K (Toplam 5 adet, M ve T ikişer kez tekrar ediyor)\n\n2. Sesli harfleri tek bir blok olarak düşünelim:\n(AEAI) bloğunu 'X' olarak isimlendirelim. Artık sıralamamız gereken elemanlar: X, M, T, M, T, K. Bu, toplam 6 elemandır.\n\n3. Bu 6 elemanın sıralamasını bulalım (Tekrarlı Permütasyon):\nElimizde 6 eleman var, ancak M harfi 2 kez, T harfi 2 kez tekrar ediyor.\nSıralama sayısı = 6! / (2! * 2!) = 720 / (2 * 2) = 720 / 4 = 180.\n\n4. Sesli harflerin kendi içindeki sıralamasını bulalım:\n'X' bloğunun içindeki A, E, A, İ harflerinin kendi aralarındaki sıralamasını bulmalıyız. Bu 4 harften A harfi 2 kez tekrar ediyor.\nKendi içlerindeki sıralama sayısı = 4! / 2! = 24 / 2 = 12.\n\n5. Toplam sıralama sayısını bulalım:\nÇarpma kuralına göre, blokların sıralanma sayısı ile blok içindeki elemanların sıralanma sayısını çarparız.\nToplam farklı kelime sayısı = 180 * 12 = 2160.\nBu nedenle, sesli harflerin yan yana olduğu 2160 farklı kelime yazılabilir.",
     "difficulty": 3
   }
 ]
