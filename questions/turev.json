@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764521086205_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini alınız.",
+    "options": [
+      "cos(x) - sin(x)",
+      "sin(x) + cos(x)",
+      "-cos(x) - sin(x)",
+      "-sin(x) + cos(x)",
+      "-sin(x) - cos(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = sin(x) + cos(x) fonksiyonunun türevi f'(x) = cos(x) - sin(x) olarak hesaplanır. Türev alırken sinüs ve kosinüs fonksiyonlarının türevleri kullanılır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764521086205_0",
     "subjectId": "mat",
     "topic": "Türev",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Öncelikle f'(x) = 3x^2 - 4 türevini buluruz. x = 2 için f'(2) = 3(2^2) - 4 = 12 - 4 = 8 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521086205_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini alınız.",
-    "options": [
-      "cos(x) - sin(x)",
-      "sin(x) + cos(x)",
-      "-cos(x) - sin(x)",
-      "-sin(x) + cos(x)",
-      "-sin(x) - cos(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = sin(x) + cos(x) fonksiyonunun türevi f'(x) = cos(x) - sin(x) olarak hesaplanır. Türev alırken sinüs ve kosinüs fonksiyonlarının türevleri kullanılır.",
     "difficulty": 3
   },
   {
