@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764520224011_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "İnterferans",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520224011_1",
     "subjectId": "fiz",
     "topic": "Optik",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Odak uzaklığı pozitif olan mercekler konveks merceklerdir. Dışbükey (konkav) merceklerin odak uzaklığı negatiftir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520224011_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "İnterferans",
-      "Polarizasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
     "difficulty": 3
   },
   {
