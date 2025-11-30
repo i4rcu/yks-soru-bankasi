@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764519363571_0",
+    "id": "ai_1764520322576_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Hücre bölünmesi sırasında homolog kromozomların birbirine yaklaşarak genetik materyal alışverişinde bulunduğu olay hangisidir?",
+    "questionText": "DNA'nın yapısında bulunan temel birim nedir?",
     "options": [
-      "Meiosis",
-      "Mitoz",
-      "Krossing over",
-      "Transkripsiyon",
-      "Translasyon"
+      "Amino asit",
+      "Nükleotid",
+      "Karbonhidrat",
+      "Lipid",
+      "Protein"
     ],
-    "correctAnswer": 2,
-    "explanation": "Krossing over, homolog kromozomlar arasında genetik materyal değişimi gerçekleştiği bir süreçtir. Bu olay, özellikle mayoz bölünme sırasında görülür ve genetik çeşitliliği artırır.",
+    "correctAnswer": 1,
+    "explanation": "DNA, nükleotid adı verilen temel birimlerden oluşur. Her nükleotid, bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519363571_1",
+    "id": "ai_1764520322576_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi DNA'nın yapısal özellikleri ile ilgili yanlıştır?",
+    "questionText": "Hangi genetik terim, bir organizmanın genetik yapısını ifade eder?",
     "options": [
-      "DNA çift sarmallıdır.",
-      "Adenin ve Timin arasında iki hidrojen bağı bulunur.",
-      "DNA'da urasil bulunur.",
-      "DNA nükleotidleri deoksiriboz, fosfat ve baz içerir.",
-      "DNA'nın yapısında adenozin bulunur."
+      "Fenotip",
+      "Genotip",
+      "Alel",
+      "Kromozom",
+      "Gen"
     ],
-    "correctAnswer": 2,
-    "explanation": "DNA'nın yapısında urasil bulunmaz; urasil, RNA'nın yapısında yer alır. DNA'da bulunan bazlar adenin, timin, sitozin ve guanindir.",
+    "correctAnswer": 1,
+    "explanation": "Genotip, bir organizmanın genetik yapısını ifade ederken, fenotip ise organizmanın gözlemlenebilir özelliklerini ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520322576_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik olaylardan hangisi, genlerin yeni kombinasyonlarının oluşmasına neden olur?",
+    "options": [
+      "Mutasyon",
+      "Meiosis",
+      "Fertilizasyon",
+      "Transkripsiyon",
+      "Translasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meiosis, hücre bölünmesi sırasında genetik materyalin yeniden düzenlenmesiyle yeni gen kombinasyonlarının oluşmasına olanak tanır.",
     "difficulty": 3
   }
 ]
