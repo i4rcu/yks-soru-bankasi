@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764499825851_0",
+    "id": "ai_1764501189834_0",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
-    "questionText": "Baş grup elementi olan X'in ilk dört iyonlaşma enerjisi (İE) kJ/mol cinsinden aşağıda verilmiştir:\n\nİE₁: 738\nİE₂: 1451\nİE₃: 7733\nİE₄: 10540\n\nBu bilgilere göre X elementi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "X²⁺ iyonunun 18 elektronu ve 20 nötronu bulunmaktadır. Buna göre, nötr X atomu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Değerlik elektron sayısı 3'tür.",
-      "Periyodik sistemin 13. grubunda yer alır.",
-      "Oksijen ile oluşturduğu bileşiğin formülü XO'dur.",
-      "Atom numarası 11 olabilir.",
-      "Bir halojendir."
+      "Atom numarası 20'dir.",
+      "Kütle numarası 40'tır.",
+      "Periyodik sistemin 4. periyot 2A grubunda yer alır.",
+      "Toprak alkali metalidir.",
+      "Değerlik elektronları 3d orbitalindedir."
     ],
-    "correctAnswer": 2,
-    "explanation": "Bir elementin ardışık iyonlaşma enerjileri incelendiğinde, genellikle 3,5-4 katından daha büyük olan ani bir artış, elektronun bir iç katmandan (soygaz düzeninden) koptuğunu gösterir. Tablodaki değerlere bakıldığında, ikinci (İE₂) ve üçüncü (İE₃) iyonlaşma enerjileri arasında yaklaşık 5,3 katlık (7733 / 1451 ≈ 5,3) büyük bir artış görülmektedir. Bu durum, X elementinin 2 adet değerlik elektronu olduğunu ve bu iki elektronu verdikten sonra soygaz elektron düzenine ulaştığını gösterir. Dolayısıyla X elementi, periyodik sistemin 2A grubunda (2. grup) yer alan bir toprak alkali metalidir.\n\nŞıkları inceleyelim:\nA) Değerlik elektron sayısı 2'dir. Bu ifade yanlıştır.\nB) Periyodik sistemin 2A grubunda, yani 2. grubunda yer alır. Bu ifade yanlıştır.\nC) 2A grubundaki elementler bileşiklerinde +2 değerlik alırlar. Oksijen ise -2 değerlik alır. Bu ikisi arasında iyonik bağ ile oluşacak bileşiğin formülü çaprazlama kuralına göre X₂O₂ olur ve en sade haliyle XO şeklinde yazılır. Bu ifade doğrudur.\nD) Atom numarası 11 olan element sodyumdur (Na) ve 1A grubunda yer alır. X elementi 2A grubunda olduğundan bu ifade yanlıştır.\nE) Halojenler 7A grubunda yer alır. Bu ifade yanlıştır.",
+    "correctAnswer": 4,
+    "explanation": "X²⁺ iyonu 2 elektron verdiğinde 18 elektronu kalıyorsa, nötr halinin elektron sayısı 18 + 2 = 20'dir. Nötr atomda proton sayısı elektron sayısına eşit olduğu için atom numarası 20'dir (A şıkkı doğru). Kütle numarası, proton ve nötron sayılarının toplamıdır: 20 (proton) + 20 (nötron) = 40'tır (B şıkkı doğru). Atom numarası 20 olan elementin elektron dizilimi 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² şeklindedir. En yüksek baş kuantum sayısı 4 olduğu için 4. periyotta, son orbitali s² ile bittiği için 2A grubunda yer alır (C şıkkı doğru). 2A grubu elementleri toprak alkali metaller olarak adlandırılır (D şıkkı doğru). Değerlik elektronları en dış kabuktaki elektronlardır ve bu atom için 4s orbitalindeki 2 elektrondur. Bu nedenle E şıkkındaki ifade yanlıştır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499825851_1",
+    "id": "ai_1764501189834_1",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
-    "questionText": "³⁹₁₉K⁺, ⁴⁰₁₈Ar ve ⁴⁰₂₀Ca²⁺ tanecikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "₁₂Mg, ₁₃Al ve ₁₅P elementlerinin birinci iyonlaşma enerjilerinin (İE₁) büyükten küçüğe doğru karşılaştırılması aşağıdakilerden hangisinde doğru olarak verilmiştir?",
     "options": [
-      "K⁺ ve Ar taneciklerinin elektron sayıları eşittir.",
-      "Ar ve Ca²⁺ tanecikleri izobardır.",
-      "K⁺ ve Ca²⁺ taneciklerinin nötron sayıları farklıdır.",
-      "Tanecik yarıçapı en büyük olan Ar'dir.",
-      "Üç tanecik de birbiriyle izoelektroniktir."
+      "Mg > Al > P",
+      "P > Mg > Al",
+      "P > Al > Mg",
+      "Al > Mg > P",
+      "Mg > P > Al"
     ],
-    "correctAnswer": 3,
-    "explanation": "Öncelikle taneciklerin proton (p), nötron (n) ve elektron (e) sayılarını bulalım:\n\n1. ³⁹₁₉K⁺:\n   p = 19\n   n = Kütle No - Proton No = 39 - 19 = 20\n   e = Proton No - Yük = 19 - (+1) = 18\n\n2. ⁴⁰₁₈Ar:\n   p = 18\n   n = 40 - 18 = 22\n   e = 18 (nötr atom)\n\n3. ⁴⁰₂₀Ca²⁺:\n   p = 20\n   n = 40 - 20 = 20\n   e = 20 - (+2) = 18\n\nŞimdi şıkları değerlendirelim:\nA) K⁺ taneciğinin 18 elektronu, Ar taneciğinin 18 elektronu vardır. Sayıları eşittir. Bu ifade doğrudur.\nB) İzobar, kütle numaraları aynı, proton sayıları farklı olan atomlardır. Ar ve Ca²⁺ taneciklerinin ikisinin de kütle numarası 40, proton sayıları ise sırasıyla 18 ve 20'dir. Dolayısıyla izobardırlar. Bu ifade doğrudur.\nC) K⁺ taneciğinin nötron sayısı 20, Ca²⁺ taneciğinin nötron sayısı 20'dir. Nötron sayıları eşittir, yani bu iki tanecik izotondur. İfadede 'farklıdır' dendiği için bu ifade yanlıştır.\nD) Üç tanecik de izoelektroniktir (hepsi 18 elektrona sahiptir). İzoelektronik taneciklerde proton sayısı en az olanın yarıçapı en büyüktür çünkü çekirdeğin elektronlar üzerindeki çekim kuvveti daha azdır. Proton sayıları K⁺(19), Ar(18) ve Ca²⁺(20) olduğundan, en az protona sahip Ar'nin yarıçapı en büyüktür. Bu ifade doğrudur.\nE) Üç taneciğin de elektron sayısı 18 olduğu için birbirleriyle izoelektroniktirler. Bu ifade doğrudur.",
+    "correctAnswer": 1,
+    "explanation": "Birinci iyonlaşma enerjisi, periyodik cetvelde aynı periyotta genellikle soldan sağa doğru artar. Ancak, küresel simetri özelliği nedeniyle bu sıralamada istisnalar bulunur. Elementlerin grup numaraları: ₁₂Mg (2A), ₁₃Al (3A), ₁₅P (5A). Küresel simetri nedeniyle, elektron dizilimi s² ile biten 2A grubu elementlerinin iyonlaşma enerjisi, p¹ ile biten 3A grubu elementlerinden daha yüksektir. Bu duruma '3 aşağı 5 yukarı' kuralı denir. Dolayısıyla İE₁(Mg) > İE₁(Al) olmalıdır. 5A grubundaki P elementi ise yarı dolu p orbitali (p³) sayesinde küresel simetri gösterir ve iyonlaşma enerjisi hem 2A hem de 3A grubundan daha yüksektir. Bu bilgilere göre doğru sıralama P > Mg > Al şeklindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501189834_2",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "Nötr Kükürt (₁₆S) atomunun en yüksek enerjili orbitalinde bulunan bir elektron için aşağıdaki kuantum sayısı setlerinden hangisi mümkündür?",
+    "options": [
+      "n=3, l=0, mₗ=0, mₛ=+1/2",
+      "n=3, l=1, mₗ=-1, mₛ=+1/2",
+      "n=3, l=2, mₗ=-1, mₛ=+1/2",
+      "n=4, l=0, mₗ=0, mₛ=-1/2",
+      "n=3, l=1, mₗ=+2, mₛ=-1/2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İlk olarak Kükürt (₁₆S) atomunun temel hal elektron dizilimi yazılır: 1s² 2s² 2p⁶ 3s² 3p⁴. Bu dizilime göre, en yüksek enerjili orbital 3p orbitalidir. Bu orbitaldeki bir elektronun kuantum sayıları şu şekilde olmalıdır: Baş kuantum sayısı (n) = 3. Açısal momentum kuantum sayısı (l) 'p' orbitali için 1'dir. Manyetik kuantum sayısı (mₗ) ise -l'den +l'ye kadar değerler alabilir, yani -1, 0, +1 olabilir. Spin kuantum sayısı (mₛ) ise +1/2 veya -1/2 olabilir. Şıkları incelersek: A şıkkı 3s orbitalini, C şıkkı 3d orbitalini, D şıkkı 4s orbitalini tanımlar. E şıkkında ise mₗ değeri +2 olarak verilmiştir ki l=1 için bu imkansızdır. B şıkkındaki (n=3, l=1, mₗ=-1, mₛ=+1/2) kuantum sayıları seti, 3p orbitalindeki bir elektron için tüm kurallara uymaktadır.",
     "difficulty": 3
   }
 ]
