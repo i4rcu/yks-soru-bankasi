@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764520258136_0",
+    "id": "ai_1764521026139_0",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi tür kimyasal bağ, elektronların iki atom arasında eşit olarak paylaşıldığı durumu tanımlar?",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
     "options": [
-      "Iyonik bağ",
-      "Kovalent bağ",
-      "Metalik bağ",
-      "Hidrojen bağı",
-      "Van der Waals bağı"
+      "Elektron paylaşımı ile oluşur.",
+      "İki atom arasında güçlü bir çekim kuvveti vardır.",
+      "Genellikle metal atomları arasında görülür.",
+      "Düşük erime noktalarına sahiptir.",
+      "Moleküler yapılar oluşturur."
     ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağ, iki atomun elektronları eşit olarak paylaştığı bir bağdır. Bu, iki nonmetalin birleşiminde sıkça görülür.",
+    "correctAnswer": 2,
+    "explanation": "Kovalent bağlar genellikle ametal atomları arasında görülür. Metal atomları genellikle iyonik bağlar oluşturur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520258136_1",
+    "id": "ai_1764521026139_1",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağlardan hangisi en güçlü kimyasal bağ olarak kabul edilir?",
+    "questionText": "Iyonik bağ ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Iyonik bağ",
-      "Kovalent bağ",
-      "Metal bağ",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
+      "Atomlar arasında elektron paylaşımı ile oluşur.",
+      "Düşük erime noktalarına sahiptir.",
+      "Yüksek elektriksel iletkenlik gösterir.",
+      "Sadece gaz halinde bulunur.",
+      "Moleküler yapılar oluşturur."
     ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağlar, atomlar arasında güçlü bir bağ oluşturur ve genellikle en güçlü bağlar arasında yer alır.",
+    "correctAnswer": 2,
+    "explanation": "İyonik bağlar genellikle katı halde bulunur ve çözündüklerinde yüksek elektriksel iletkenlik gösterirler.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520258136_2",
+    "id": "ai_1764521026139_2",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Iyonik bağlı bir bileşikte hangi özellik beklenir?",
+    "questionText": "Aşağıdaki bileşiklerden hangisi kovalent bağ ile oluşmuştur?",
     "options": [
-      "Düşük erime noktası",
-      "İyi elektrik iletkenliği",
-      "Uçucu olması",
-      "Yüksek kaynama noktası",
-      "Düşük çözünürlük"
+      "NaCl",
+      "MgO",
+      "H2O",
+      "CaF2",
+      "K2SO4"
     ],
-    "correctAnswer": 1,
-    "explanation": "Iyonik bağlı bileşikler, katı haldeyken elektrik iletkenliği göstermezler ancak çözündüklerinde veya sıvı hale geldiklerinde iyi elektrik iletkenleri olurlar.",
+    "correctAnswer": 2,
+    "explanation": "H2O (su) molekülü, oksijen ve hidrojen arasında elektron paylaşımı ile oluşan bir kovalent bağa sahiptir. Diğer bileşikler ise iyonik bağ içerir.",
     "difficulty": 3
   }
 ]
