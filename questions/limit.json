@@ -1,5 +1,21 @@
 [
   {
+    "id": "ai_1764520128426_0",
+    "subjectId": "mat",
+    "topic": "Limit",
+    "questionText": "Aşağıdaki limit ifadelerinden hangisinin sonucu 2'dir?",
+    "options": [
+      "lim (x → 1) (x^2 + x)",
+      "lim (x → 0) (sin(x)/x)",
+      "lim (x → 2) (3x - 4)",
+      "lim (x → -1) (x^3 + 1)",
+      "lim (x → 3) (2x^2 - 5x + 1)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "lim (x → 2) (3x - 4) ifadesini değerlendirdiğimizde, x yerine 2 koyduğumuzda 3(2) - 4 = 6 - 4 = 2 sonucunu elde ederiz. Diğer seçeneklerin limit sonuçları farklıdır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764520128426_2",
     "subjectId": "mat",
     "topic": "Limit",
@@ -29,22 +45,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Bu limit ifadesi L'Hospital kuralı ile çözülebilir. 1 - cos(x) ifadesinin türevini alarak ve x^2'nin türevini alarak limit hesaplanır. Sonuç 1/2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520128426_0",
-    "subjectId": "mat",
-    "topic": "Limit",
-    "questionText": "Aşağıdaki limit ifadelerinden hangisinin sonucu 2'dir?",
-    "options": [
-      "lim (x → 1) (x^2 + x)",
-      "lim (x → 0) (sin(x)/x)",
-      "lim (x → 2) (3x - 4)",
-      "lim (x → -1) (x^3 + 1)",
-      "lim (x → 3) (2x^2 - 5x + 1)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "lim (x → 2) (3x - 4) ifadesini değerlendirdiğimizde, x yerine 2 koyduğumuzda 3(2) - 4 = 6 - 4 = 2 sonucunu elde ederiz. Diğer seçeneklerin limit sonuçları farklıdır.",
     "difficulty": 3
   },
   {
