@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764498244238_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme yatay doğrultuda, büyüklüğü yavaş yavaş artırılan bir F kuvveti uygulanıyor. F kuvvetinin büyüklüğü 25 N olduğunda cisme etki eden net kuvvet kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "0",
+      "5",
+      "9",
+      "16",
+      "20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini ve kinetik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Kinetik sürtünme kuvveti (fk) = μk * N = 0,4 * 40 N = 16 N. Uygulanan kuvvet F = 25 N, maksimum statik sürtünme kuvveti olan 20 N'dan büyük olduğu için cisim harekete geçer. Cisim hareket halindeyken ona etki eden sürtünme kuvveti, kinetik sürtünme kuvvetidir (fk = 16 N). Newton'un ikinci hareket yasasına göre net kuvvet (Fnet), uygulanan kuvvet ile kinetik sürtünme kuvvetinin farkıdır: Fnet = F - fk = 25 N - 16 N = 9 N.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498244238_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Sürtünmesiz eğik düzlem üzerinde bulunan 5 kg kütleli bir cisim, eğik düzleme paralel bir F kuvveti ile şekildeki gibi dengede tutulmaktadır. Eğik düzlemin yatay ile yaptığı açı 37° olduğuna göre, F kuvvetinin büyüklüğü kaç N'dur? (g = 10 m/s², sin37° = 0,6, cos37° = 0,8)",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cismin dengede olabilmesi için cisme etki eden net kuvvetin sıfır olması gerekir. Cismin ağırlığı (G = m*g = 5*10 = 50 N) eğik düzleme paralel ve dik bileşenlerine ayrılır. Ağırlığın eğik düzleme paralel bileşeni, cismi aşağı doğru çekmeye çalışan kuvvettir ve G_paralel = G * sin37° formülü ile hesaplanır. G_paralel = 50 N * 0,6 = 30 N. Dengenin sağlanması için, eğik düzleme paralel olarak yukarı yönde uygulanan F kuvvetinin, ağırlığın paralel bileşenine eşit büyüklükte ve zıt yönde olması gerekir. Bu nedenle F = 30 N'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498244238_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir asansörün tabanında bulunan baskülün üzerinde 60 kg kütleli bir kişi durmaktadır. Asansör yukarı yönde 2 m/s²'lik ivme ile hızlanırken baskülün gösterdiği değer kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "120",
+      "480",
+      "600",
+      "720",
+      "800"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Baskül, üzerine uygulanan normal kuvveti (tepki kuvvetini) ölçer. Asansör yukarı yönde ivmelendiğinde, kişiye etki eden net kuvvet yukarı yönde olmalıdır. Newton'un ikinci hareket yasasına (F_net = m*a) göre, kişiye etki eden kuvvetleri yazalım. Yukarı yönde normal kuvvet (N) ve aşağı yönde ağırlık (G = m*g) vardır. Net kuvvet, F_net = N - G'dir. Bu durumda, N - G = m*a olur. N'i bulmak için denklemi düzenlersek: N = G + m*a = m*g + m*a = m*(g+a). Verilen değerleri yerine koyarsak: N = 60 kg * (10 m/s² + 2 m/s²) = 60 kg * 12 m/s² = 720 N. Dolayısıyla baskül 720 N değerini gösterir.",
+    "difficulty": 3
+  }
+]
