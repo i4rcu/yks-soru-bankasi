@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764521032843_1",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
-    "options": [
-      "Ribozom",
-      "Kloroplast",
-      "Lizozom",
-      "Golgi aygıtı",
-      "Endoplazmik retikulum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521032843_0",
     "subjectId": "biy",
     "topic": "Hücre",
@@ -29,6 +13,22 @@
     ],
     "correctAnswer": 2,
     "explanation": "Hücre zarı, hücre içi ve dışı arasındaki madde alışverişini kontrol ederek seçici geçirgenlik sağlar. Bu özellik, hücrenin homeostazisini korumasına yardımcı olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521032843_1",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Aşağıdaki organellerden hangisi enerji üretimi ile doğrudan ilişkilidir?",
+    "options": [
+      "Ribozom",
+      "Kloroplast",
+      "Lizozom",
+      "Golgi aygıtı",
+      "Endoplazmik retikulum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kloroplastlar, fotosentez yoluyla bitki hücrelerinde enerji üretiminde önemli rol oynar. Mitoz ve metabolik süreçlerdeki enerji döngüsü için kloroplastlar gereklidir.",
     "difficulty": 3
   },
   {
