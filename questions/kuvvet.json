@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764521092961_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m'lik bir mesafe kat ediyor. Bu durumda cisme yapılan iş nedir?",
-    "options": [
-      "5 J",
-      "10 J",
-      "20 J",
-      "15 J",
-      "25 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İş, kuvvet ile mesafenin çarpımı ile hesaplanır: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521092961_1",
     "subjectId": "fiz",
     "topic": "Kuvvet",
@@ -45,6 +29,198 @@
     ],
     "correctAnswer": 2,
     "explanation": "Yine iş, kuvvet ile mesafenin çarpımı ile bulunur: İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521092961_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m'lik bir mesafe kat ediyor. Bu durumda cisme yapılan iş nedir?",
+    "options": [
+      "5 J",
+      "10 J",
+      "20 J",
+      "15 J",
+      "25 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İş, kuvvet ile mesafenin çarpımı ile hesaplanır: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498244238_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme yatay doğrultuda, büyüklüğü yavaş yavaş artırılan bir F kuvveti uygulanıyor. F kuvvetinin büyüklüğü 25 N olduğunda cisme etki eden net kuvvet kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "0",
+      "5",
+      "9",
+      "16",
+      "20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini ve kinetik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Kinetik sürtünme kuvveti (fk) = μk * N = 0,4 * 40 N = 16 N. Uygulanan kuvvet F = 25 N, maksimum statik sürtünme kuvveti olan 20 N'dan büyük olduğu için cisim harekete geçer. Cisim hareket halindeyken ona etki eden sürtünme kuvveti, kinetik sürtünme kuvvetidir (fk = 16 N). Newton'un ikinci hareket yasasına göre net kuvvet (Fnet), uygulanan kuvvet ile kinetik sürtünme kuvvetinin farkıdır: Fnet = F - fk = 25 N - 16 N = 9 N.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498244238_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Sürtünmesiz eğik düzlem üzerinde bulunan 5 kg kütleli bir cisim, eğik düzleme paralel bir F kuvveti ile şekildeki gibi dengede tutulmaktadır. Eğik düzlemin yatay ile yaptığı açı 37° olduğuna göre, F kuvvetinin büyüklüğü kaç N'dur? (g = 10 m/s², sin37° = 0,6, cos37° = 0,8)",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cismin dengede olabilmesi için cisme etki eden net kuvvetin sıfır olması gerekir. Cismin ağırlığı (G = m*g = 5*10 = 50 N) eğik düzleme paralel ve dik bileşenlerine ayrılır. Ağırlığın eğik düzleme paralel bileşeni, cismi aşağı doğru çekmeye çalışan kuvvettir ve G_paralel = G * sin37° formülü ile hesaplanır. G_paralel = 50 N * 0,6 = 30 N. Dengenin sağlanması için, eğik düzleme paralel olarak yukarı yönde uygulanan F kuvvetinin, ağırlığın paralel bileşenine eşit büyüklükte ve zıt yönde olması gerekir. Bu nedenle F = 30 N'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498244238_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir asansörün tabanında bulunan baskülün üzerinde 60 kg kütleli bir kişi durmaktadır. Asansör yukarı yönde 2 m/s²'lik ivme ile hızlanırken baskülün gösterdiği değer kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "120",
+      "480",
+      "600",
+      "720",
+      "800"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Baskül, üzerine uygulanan normal kuvveti (tepki kuvvetini) ölçer. Asansör yukarı yönde ivmelendiğinde, kişiye etki eden net kuvvet yukarı yönde olmalıdır. Newton'un ikinci hareket yasasına (F_net = m*a) göre, kişiye etki eden kuvvetleri yazalım. Yukarı yönde normal kuvvet (N) ve aşağı yönde ağırlık (G = m*g) vardır. Net kuvvet, F_net = N - G'dir. Bu durumda, N - G = m*a olur. N'i bulmak için denklemi düzenlersek: N = G + m*a = m*g + m*a = m*(g+a). Verilen değerleri yerine koyarsak: N = 60 kg * (10 m/s² + 2 m/s²) = 60 kg * 12 m/s² = 720 N. Dolayısıyla baskül 720 N değerini gösterir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499617668_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Yatay bir zemin üzerinde durmakta olan bir cisme, yatay doğrultuda büyüklüğü sıfırdan başlayarak düzgün şekilde artırılan bir F kuvveti uygulanıyor. Cisim harekete başlayana kadar geçen sürede cisme etki eden sürtünme kuvveti (fs) ve cisim sabit hızla hareket ederken etki eden sürtünme kuvveti (fk) için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "fs sabittir; fk ise F kuvvetiyle birlikte artar.",
+      "fs, F kuvvetiyle birlikte artar; fk sabittir.",
+      "fs ve fk her zaman uygulanan F kuvvetine eşittir.",
+      "fs her zaman F kuvvetinden büyüktür; fk ise F kuvvetine eşittir.",
+      "fs ve fk daima sabittir ve birbirine eşittir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir cisim duruyorken cisme etki eden sürtünme kuvveti statik sürtünme kuvvetidir (fs). Statik sürtünme kuvvetinin büyüklüğü, cismi harekete zorlayan kuvvete eşittir ve bu kuvvetle birlikte artar. Ancak bu artışın bir maksimum değeri vardır (fs_max = μs * N). Cisim bu maksimum değer aşıldığında harekete başlar. Cisim harekete geçtikten sonra ise cisme etki eden sürtünme kuvveti kinetik sürtünme kuvvetidir (fk). Kinetik sürtünme kuvveti (fk = μk * N) genellikle statik sürtünmenin maksimum değerinden daha küçüktür ve cismin hızı (çok yüksek hızlar hariç) değişmediği sürece sabit bir değere sahiptir. Bu nedenle, cisim dururken fs, F ile birlikte artar; cisim hareket ederken fk ise sabit kalır. Doğru cevap B şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499617668_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir asansörün tavanına asılı dinamometrenin ucunda 5 kg kütleli bir cisim bulunmaktadır. Asansör aşağı yönde 2 m/s²'lik ivme ile yavaşlarken dinamometrenin gösterdiği değer kaç Newton'dur? (g = 10 m/s²)",
+    "options": [
+      "40 N",
+      "50 N",
+      "60 N",
+      "70 N",
+      "80 N"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cisme etki eden kuvvetler, yukarı yönde dinamometrenin uyguladığı gerilme kuvveti (T) ve aşağı yönde yer çekimi kuvvetidir (G = m*g). Newton'un ikinci hareket yasasına göre net kuvvet, kütle ile ivmenin çarpımına eşittir (F_net = m*a). Asansör aşağı yönde yavaşladığı için, net kuvvet ve ivme yukarı yöndedir. Bu durumda hareket denklemi şu şekilde yazılır:\n\nF_net = T - G\nm*a = T - m*g\n\nBurada 'a' ivmenin büyüklüğüdür. Dinamometrenin gösterdiği değer T gerilme kuvvetidir. Denklemi T için düzenlersek:\n\nT = m*g + m*a = m*(g + a)\nVerilen değerleri yerine koyalım:\nm = 5 kg\ng = 10 m/s²\na = 2 m/s²\n\nT = 5 * (10 + 2)\nT = 5 * 12\nT = 60 N\n\nBu nedenle dinamometrenin gösterdiği değer 60 N'dur. Doğru cevap C şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500964126_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme 18 N büyüklüğünde yatay bir kuvvet uygulandığında cisme etki eden sürtünme kuvvetinin büyüklüğü kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "0",
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Uygulanan kuvvet (F = 18 N), maksimum statik sürtünme kuvvetinden (20 N) küçüktür. Bu nedenle cisim hareket etmez. Cisim hareket etmediği için, cisme etki eden statik sürtünme kuvveti, uygulanan kuvvete eşit büyüklükte ve zıt yönde olur. Dolayısıyla sürtünme kuvveti 18 N'dur. Kinetik sürtünme katsayısı, cisim harekete geçtikten sonra kullanılacağı için bu soruda bir çeldiricidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500964126_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Kütlesi m olan bir cisim, yatay düzlemle 37° açı yapan sürtünmesiz bir eğik düzlem üzerinde serbest bırakılıyor. Cismin ivmesinin büyüklüğü kaç m/s² olur? (g = 10 m/s²; sin37° = 0,6; cos37° = 0,8)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Newton'un ikinci hareket yasası F_net = m * a'dır. Sürtünmesiz eğik düzlemde cismi hareket ettiren net kuvvet, ağırlığın eğik düzleme paralel olan bileşenidir. Ağırlık G = m * g'dir. Ağırlığın eğik düzleme paralel bileşeni G_paralel = G * sin(37°) = m * g * sin(37°)'dir. Bu kuvvet net kuvvete eşittir. F_net = m * g * sin(37°). Şimdi Newton'un ikinci yasasını yazalım: m * a = m * g * sin(37°). Eşitliğin her iki tarafındaki 'm' kütleleri sadeleşir. a = g * sin(37°). Verilen değerleri yerine koyarsak: a = 10 m/s² * 0,6 = 6 m/s². Cismin ivmesi 6 m/s²'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500964126_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Yatay bir yolda hareket eden bir araba aniden fren yaptığında, sürücünün öne doğru savrulması olayı Newton'un hareket yasalarından hangisi ile en iyi açıklanır?",
+    "options": [
+      "Etki-Tepki Prensibi (III. Yasa)",
+      "Eylemsizlik Prensibi (I. Yasa)",
+      "Dinamik Prensibi (II. Yasa)",
+      "Kütle Çekim Yasası",
+      "Enerjinin Korunumu Yasası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton'un birinci hareket yasası olan Eylemsizlik Prensibi, bir cisme etki eden net kuvvet sıfır ise cismin hareket durumunu (durgunsa durgunluğunu, hareketliyse sabit hızlı hareketini) koruyacağını belirtir. Araba fren yaptığında, araba ve koltuk yavaşlar, ancak sürücünün vücudu eylemsizlik nedeniyle o anki hareket durumunu, yani ileriye doğru olan hızını koruma eğilimindedir. Bu nedenle, araba yavaşlarken sürücü öne doğru savrulur. Bu durum doğrudan eylemsizlik prensibi ile açıklanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520178392_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan 10 N'lik bir kuvvet, cismi 5 m/s² ivme ile hızlandırıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "2 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kuvvet = Kütle x İvme formülünden yola çıkarak, Kütle = Kuvvet / İvme = 10 N / 5 m/s² = 2 kg bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520178392_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 20 N'lik bir kuvvet uygulanıyor ve bu kuvvet cismin 4 m/s² ivme kazanmasına neden oluyor. Cisim üzerindeki net kuvvet hangi yönü göstermektedir?",
+    "options": [
+      "Yukarı",
+      "Aşağı",
+      "Sağa",
+      "Sola",
+      "Cismin hareket yönü ile aynı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cisim pozitif bir ivme kazanıyorsa, net kuvvetin yönü cismin hareket yönü ile aynıdır. Dolayısıyla doğru cevap 'Cismin hareket yönü ile aynı' olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520178392_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 5 N'lik bir kuvvetle 3 m/s² ivme kazanıyorsa, cisim üzerinde hangi kuvvet etkili olabilir?",
+    "options": [
+      "5 N",
+      "10 N",
+      "15 N",
+      "20 N",
+      "25 N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kuvvet = Kütle x İvme formülüne göre, Kütle = Kuvvet / İvme = 5 N / 3 m/s² = 1.67 kg bulunur. Bu durumda cisim üzerinde 5 N'lik bir kuvvet etkili olabilir.",
     "difficulty": 3
   }
 ]
