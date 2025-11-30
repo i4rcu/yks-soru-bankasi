@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520435528_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
-    "options": [
-      "Hava çok sıcak olduğu için denize girmek istiyorum.",
-      "Ders çalışmak zorundayım, ama çok yorgunum.",
-      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
-      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
-      "Okuldan sonra sinemaya gitmeyi planlıyorum."
-    ],
-    "correctAnswer": 1,
-    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520435528_2",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
@@ -29,6 +13,22 @@
     ],
     "correctAnswer": 0,
     "explanation": "İlk cümlede 'elma, armut, muz' kelimeleri ile 'çeşitli meyveler' ifadesine örnekler verilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520435528_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
+    "options": [
+      "Hava çok sıcak olduğu için denize girmek istiyorum.",
+      "Ders çalışmak zorundayım, ama çok yorgunum.",
+      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
+      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
+      "Okuldan sonra sinemaya gitmeyi planlıyorum."
+    ],
+    "correctAnswer": 1,
+    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
     "difficulty": 3
   },
   {
