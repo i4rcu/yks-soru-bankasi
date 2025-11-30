@@ -1,34 +1,18 @@
 [
   {
-    "id": "ai_1764500388936_0",
+    "id": "ai_1764501665344_0",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede ayraçla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\n\"At ölür ( ) meydan kalır ( ) yiğit ölür ( ) şan kalır ( ) derler atalarımız.\"",
+    "questionText": "Aşağıdaki cümlede ayraçlarla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\nO konuşmasında edebiyatın iki ana damarından bahsetti ( ) roman ve şiir. Sevdiği romancılar şunlardı ( ) Tolstoy, Dostoyevski, Stendhal ( ) vazgeçemediği şairler ise Rilke, Baudelaire ve Pessoa'ydı ( )",
     "options": [
-      "(,) (;) (,) (,)",
-      "(;) (,) (;) (,)",
-      "(,) (,) (,) (;)",
-      "(,) (;) (;) (,)",
-      "(;) (,) (,) (;)"
+      "( : ) ( , ) ( , ) ( . )",
+      "( ; ) ( : ) ( , ) ( ... )",
+      "( : ) ( : ) ( ; ) ( . )",
+      "( . ) ( ; ) ( : ) ( . )",
+      "( : ) ( : ) ( , ) ( . )"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bu atasözü, kendi içinde virgül bulunan sıralı cümlelerden oluşmuş iki ayrı grubu barındırır. Birinci grup \"At ölür, meydan kalır\" ve ikinci grup \"yiğit ölür, şan kalır\" şeklindedir. Türk Dil Kurumu'nun kurallarına göre, ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için noktalı virgül (;) kullanılır. Bu nedenle \"meydan kalır\" ifadesinden sonra noktalı virgül getirilmelidir. Grupların kendi içindeki sıralı cümleleri ayırmak için ise virgül (,) kullanılır. Cümlenin sonundaki virgül ise, alıntı cümlenin bitip ana cümlenin yükleminin (\"derler\") başladığını belirtmek için konulmuştur. Bu durumda doğru sıralama virgül, noktalı virgül, virgül, virgül şeklinde olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500388936_1",
-    "subjectId": "tur",
-    "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
-    "options": [
-      "Desem ki vakitlerden bir nisan akşamıdır; rüzgârların en ferahlatıcısı senden esiyor...",
-      "Bu karar, Meclisin 17'nci birleşiminin 2'nci oturumunda oy birliğiyle alındı.",
-      "Ankara'ya -doğup büyüdüğüm o güzel şehre- yıllar sonra tekrar dönmüştüm.",
-      "Eve geldi mi, hemen televizyonu açar, saatlerce kanallar arasında gezinirdi.",
-      "Bu projeyi ya yarın bitireceğiz, ya da sunuma yetiştiremeyeceğiz."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Türkçede tekrarlı bağlaçlardan (hem... hem..., ne... ne..., ya... ya...) önce veya sonra virgül kullanılmaz. E şıkkındaki cümlede \"ya... ya da...\" tekrarlı bağlacı kullanılmıştır ve bu bağlaçların arasına virgül konulması bir noktalama hatasıdır. Cümlenin doğru yazımı \"Bu projeyi ya yarın bitireceğiz ya da sunuma yetiştiremeyeceğiz.\" şeklinde olmalıdır. Diğer şıklardaki noktalama işaretlerinin kullanımları doğrudur: A'da sıralı cümleleri ayırmak için noktalı virgül ve bitmemiş cümle sonunda üç nokta; B'de sıra bildiren sayılardan sonra nokta; C'de ara sözü belirtmek için kısa çizgi; D'de zarf-fiil eki yerine kullanılan \"mi\" edatından sonra virgül doğru kullanılmıştır.",
+    "correctAnswer": 2,
+    "explanation": "Cümlede ayraçlarla belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şöyledir:\n1. İlk ayraç: Cümlede \"iki ana damar\" ifadesinden sonra bir açıklama yapılacağı için kendisinden sonra açıklama yapılacak cümlenin sonuna iki nokta (:) konur.\n2. İkinci ayraç: \"şunlardı\" ifadesi, kendisinden sonra bir liste veya örnekleme yapılacağını belirtir. Bu nedenle iki nokta (:) kullanılmalıdır.\n3. Üçüncü ayraç: Cümle, kendi içinde virgüllerle ayrılmış farklı grupları (romancılar ve şairler) sıralamaktadır. Bu tür durumlarda, anlam karışıklığını önlemek ve grupları birbirinden ayırmak için noktalı virgül (;) kullanılır. \"Tolstoy, Dostoyevski, Stendhal\" bir grup, \"Rilke, Baudelaire ve Pessoa\" ise diğer gruptur. Bu iki farklı öğe grubunu barındıran cümleler noktalı virgülle ayrılır.\n4. Dördüncü ayraç: Cümlenin sonuna, yargı tamamlandığı için nokta (.) konulmalıdır.\nBu kurallara göre doğru sıralama \":, :, ;, .\" şeklinde olmalıdır. Dolayısıyla doğru cevap C seçeneğidir.",
     "difficulty": 3
   }
 ]
