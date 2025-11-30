@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764498876982_0",
+    "id": "ai_1764500245934_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Yolun kenarında, zamana yenik düşmüş iki katlı ahşap ev, yorgun bir bilge gibi suskunluğa bürünmüştü. Kırık pencereleri, hayata küsmüş gözler misali boşluğa bakıyordu. Çatısındaki yosunlar, onun yaşanmışlıklarla dolu saçları gibiydi. Rüzgâr, kırık panjurlarına her çarptığında sanki eski anıları hüzünlü bir şarkı gibi fısıldıyordu.",
+    "questionText": "Kapıyı yavaşça araladı. Odanın ortasında, ceviz ağacından yapılmış masanın üzerinde antika bir gaz lambası duruyordu. Lambanın titrek ışığı, duvardaki solgun portrelere vuruyor, zamanın yüzlerde açtığı derin çizgileri daha da belirginleştiriyordu. Adam, parke zeminde hiç ses çıkarmadan masaya doğru ilerledi, parmak uçlarıyla lambanın soğuk camına dokundu. Bu odanın havasında yılların birikmiş hüznü ve anıları saklı gibiydi.",
     "options": [
-      "Öyküleme - Karşılaştırma",
-      "Açıklama - Tanımlama",
-      "Betimleme - Kişileştirme",
-      "Tartışma - Örnekleme",
-      "Tanık Gösterme - Benzetme"
+      "Öyküleme",
+      "Açıklama",
+      "Betimleme",
+      "Tartışma",
+      "Karşılaştırma"
     ],
     "correctAnswer": 2,
-    "explanation": "Parçada, okuyucunun zihninde bir sahne canlandırılmak istendiği için “betimleme” ağır basmaktadır. Ahşap evin “yorgun bir bilge” gibi olması, pencerelerinin “hayata küsmüş gözler” gibi bakması ve rüzgârın “anıları fısıldaması” gibi ifadelerle cansız varlıklara insani özellikler yüklendiği için “kişileştirme” sanatına başvurulmuştur. Bu iki anlatım tekniği metnin bütününe hâkimdir.",
+    "explanation": "Paragrafta bir olay akışı (kapıyı aralamak, ilerlemek, dokunmak) olsa da yazarın asıl amacı, okuyucunun zihninde bir sahne canlandırmaktır. Odanın, masanın, lambanın ve portrelerin görsel özelliklerini ayrıntılarıyla vererek bir atmosfer oluşturmaya odaklanılmıştır. Varlıklar ve mekan, ayırt edici nitelikleriyle anlatıldığı için ağır basan anlatım tekniği betimlemedir. Öyküleme, betimlemeye hizmet eden bir araç olarak kullanılmıştır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498876982_1",
+    "id": "ai_1764500245934_1",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Dijital kitapların pratikliği ve kolay erişilebilirliği sıkça övülür. Binlerce kitabı küçücük bir cihazda taşıma fikri şüphesiz cezbedici. Ancak bu durum, kâğıdın o eşsiz dokusunu, mürekkep kokusunu ve sayfa çevirmenin o tanıdık hissini göz ardı etmektir. Asıl okuma deneyimi, fiziksel bir bağ kurduğumuz kitapla mümkündür. Dijital ekranların yaydığı mavi ışığın göz yorgunluğuna yol açtığı da biliniyor. Bu yüzden teknoloji ne kadar ilerlerse ilerlesin, gerçek kitapseverler için basılı kitabın yeri doldurulamaz.",
+    "questionText": "Ali, masasında oturmuş, önündeki boş kağıda bakıyordu. Son teslim tarihi yarındı ama aklına tek bir kelime bile gelmiyordu. Bu projenin kariyeri için ne kadar önemli olduğunu biliyordu ve bu bilgi omuzlarına ağır bir yük bindiriyordu. Başarısız olma düşüncesi zihnini bir zehir gibi sarmıştı. Yıllardır kurduğu hayallerin bir anda yıkılmasından ölesiye korkuyor, içindeki sesin 'Yapamayacaksın!' diye bağırdığını duyuyordu sanki. Bu korku, mantıklı düşünme yetisini neredeyse tamamen elinden almıştı.",
     "options": [
-      "Tartışmacı anlatım tekniği kullanılmıştır.",
-      "Farklı durumlar arasında karşılaştırma yapılmıştır.",
-      "Yazar, düşüncelerini kanıtlama amacı gütmüştür.",
-      "Okuyucuya bilgi vermek amacıyla nesnel bir dil kullanılmıştır.",
-      "Metnin genelinde öznel yargılara yer verilmiştir."
+      "Bilinç akışı",
+      "İç konuşma (iç monolog)",
+      "Geriye dönüş",
+      "İç çözümleme",
+      "Diyalog"
     ],
     "correctAnswer": 3,
-    "explanation": "Parçada yazar, dijital kitap ve basılı kitap konusundaki iki farklı görüşü ele alıp kendi tezini (basılı kitabın üstünlüğünü) savunmaktadır. Bu durum “tartışmacı anlatım” olduğunu gösterir (A seçeneği doğrudur). Dijital ve basılı kitaplar çeşitli yönleriyle kıyaslandığı için “karşılaştırma” yapılmıştır (B seçeneği doğrudur). Yazar, “Asıl okuma deneyimi...”, “yeri doldurulamaz” gibi ifadelerle kendi görüşünü savunduğu için metin “öznel” bir nitelik taşır (E seçeneği doğrudur) ve okuyucuyu ikna etmeye çalıştığı için “kanıtlama amacı” güder (C seçeneği doğrudur). Ancak yazar, nesnel bir dille sadece bilgi vermeyi değil, kendi öznel görüşünü kabul ettirmeyi amaçladığı için D seçeneğindeki ifade yanlıştır.",
+    "explanation": "Bu paragrafta, anlatıcı üçüncü kişidir (O anlatıcı). Anlatıcı, kahraman Ali'nin zihninin içine girerek onun düşüncelerini, korkularını ve ruhsal durumunu okuyucuya aktarmaktadır. Ali'nin düşünceleri, 'Ben korkuyorum, yapamayacağım.' gibi doğrudan kendi ağzından değil, anlatıcının süzgecinden geçirilerek '...ölesiye korkuyor, ...elinden almıştı.' gibi ifadelerle anlatılmıştır. Kahramanın iç dünyasının, psikolojisinin anlatıcı tarafından tahlil edilerek sunulması tekniğine 'iç çözümleme' denir. Eğer bu düşünceler, araya anlatıcı girmeden, birinci tekil şahıs ağzından aktarılsaydı 'iç konuşma' olurdu.",
     "difficulty": 3
   }
 ]
