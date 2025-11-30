@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764497550966_0",
+    "id": "ai_1764498693499_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre dışına salgılanmak üzere sentezlenen bir glikoprotein molekülünün üretim ve salgılanma sürecinde, aşağıdaki yapılardan hangisi en son görev alır?",
+    "questionText": "Aşağıdaki hücresel yapılardan hangisi, hem oksijenli solunum yapan bir bakteri hücresinde hem de bir hayvan hücresinde ortak olarak bulunur?",
     "options": [
+      "Mitokondri",
+      "Hücre duvarı",
       "Ribozom",
-      "Golgi Aygıtı",
-      "Hücre zarı",
-      "Granüllü Endoplazmik Retikulum",
-      "Çekirdekçik"
+      "Çekirdek",
+      "Lizozom"
     ],
     "correctAnswer": 2,
-    "explanation": "Hücre dışına salgılanacak bir glikoproteinin izlediği yol şu şekildedir: 1. Çekirdekçikte sentezlenen rRNA'lar ribozomun yapısına katılır. 2. Ribozomda protein kısmı sentezlenir ve Granüllü E.R. kanallarına bırakılır. 3. Granüllü E.R.'de protein üç boyutlu yapı kazanır ve glikoz eklenerek glikoprotein olur. 4. Taşıma kofuluyla Golgi Aygıtı'na taşınır. 5. Golgi Aygıtı'nda son düzenlemeler yapılır ve paketlenerek salgı kofulu oluşturulur. 6. Salgı kofulu hücre zarına tutunarak ekzositoz ile içeriğini dışarı bırakır. Bu süreçte en son görev alan yapı, ekzositoz olayının gerçekleştiği hücre zarıdır.",
+    "explanation": "Ribozom, protein sentezinden sorumlu olan ve zarsız bir organeldir. Bu nedenle hem prokaryotik (bakteri) hem de ökaryotik (hayvan) hücrelerde ortak olarak bulunur. Mitokondri, çekirdek ve lizozom zarlı organeller olup sadece ökaryotik hücrelerde bulunur. Hayvan hücrelerinde hücre duvarı bulunmazken, bakterilerde peptidoglikan yapılı bir hücre duvarı bulunur. Ancak soru her iki hücrede de 'ortak olarak' bulunan yapıyı sorduğu için doğru cevap ribozomdur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764497550966_1",
+    "id": "ai_1764498693499_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Bir tatlı su algi olan Nitella'nın hücre içi potasyum (K+) derişimi, yaşadığı ortamdaki potasyum derişiminden yaklaşık 1000 kat daha fazladır. Buna rağmen hücre, ortamdan potasyum iyonu almaya devam etmektedir. Bu durum, potasyum iyonlarının hücreye alınmasında aşağıdaki olaylardan hangisinin gerçekleştiğini kesin olarak kanıtlar?",
+    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir glikoprotein molekülünün üretim ve salgılanma sürecinde aşağıdaki organellerden hangisi en son görev alır?",
     "options": [
-      "Osmoz",
-      "Basit Difüzyon",
-      "Kolaylaştırılmış Difüzyon",
-      "Aktif Taşıma",
-      "Pinositoz"
+      "Granüllü endoplazmik retikulum",
+      "Ribozom",
+      "Golgi cisimciği",
+      "Mitokondri",
+      "Lizozom"
     ],
-    "correctAnswer": 3,
-    "explanation": "Madde taşınmasının temel kuralı, moleküllerin çok yoğun ortamdan az yoğun ortama doğru kendiliğinden geçmesidir (pasif taşıma). Soruda, hücre içindeki potasyum derişiminin ortamdan çok daha yüksek olmasına rağmen hücrenin hala potasyum aldığı belirtilmektedir. Bu, potasyum iyonlarının az yoğun oldukları ortamdan (tatlı su) çok yoğun oldukları ortama (hücre içi) doğru hareket ettiğini gösterir. Derişim farkına karşı gerçekleştirilen ve ATP enerjisi harcanan bu taşıma şekli 'Aktif Taşıma'dır. Osmoz suyun, difüzyon ve kolaylaştırılmış difüzyon maddelerin çok yoğundan az yoğuna geçişidir. Pinositoz ise sıvı ve büyük moleküllerin hücre içine alınmasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497550966_2",
-    "subjectId": "biy",
-    "topic": "Hücre",
-    "questionText": "Mitokondri ve kloroplast organelleri için aşağıdaki özelliklerden hangisi ortak *değildir*?",
-    "options": [
-      "Kendilerine özgü DNA, RNA ve ribozom içermeleri",
-      "Çift katlı zar sistemine sahip olmaları",
-      "Enerji dönüşümü reaksiyonları gerçekleştirmeleri",
-      "Oksijen tüketerek ATP sentezlemeleri",
-      "Çekirdek kontrolünde bölünerek sayılarını artırabilmeleri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Mitokondri ve kloroplast, endosimbiyotik hipoteze göre ortak özelliklere sahiptir. Her ikisi de çift zarlıdır, kendilerine ait DNA, RNA ve ribozomları vardır, bu sayede çekirdek kontrolünde çoğalabilirler ve enerji dönüşümü (ATP sentezi) yaparlar. Ancak aralarında temel farklar vardır. Mitokondri, oksijenli solunum ile besinleri parçalayarak, yani oksijen tüketerek ATP sentezler. Kloroplast ise fotosentez yapar; bu süreçte ışık enerjisini kullanarak ATP sentezler (fotofosforilasyon) ve yan ürün olarak oksijen üretir, oksijen tüketmez. Dolayısıyla 'Oksijen tüketerek ATP sentezlemeleri' sadece mitokondriye ait bir özelliktir.",
+    "correctAnswer": 2,
+    "explanation": "Hücre dışına salgılanacak bir glikoproteinin sentez süreci şu sırayla gerçekleşir: 1) Ribozomda protein kısmı sentezlenir. 2) Sentezlenen protein, granüllü endoplazmik retikulum (GER) kanalına girer ve burada ilk şeker eklemeleri (glikozilasyon) yapılarak üç boyutlu yapısını kazanır. 3) GER'den ayrılan taşıma kofulu, proteini Golgi cisimciğine taşır. 4) Golgi cisimciğinde protein son halini alır, sınıflandırılır, paketlenir ve salgı kofulu oluşturulur. Bu koful daha sonra hücre zarına giderek içeriğini ekzositozla dışarı bırakır. Bu sıralamada en son görev alan organel Golgi cisimciğidir. Mitokondri bu süreç için enerji (ATP) üretir ancak sentez yolunda doğrudan yer almaz. Lizozom ise hücre içi sindirimde görevlidir.",
     "difficulty": 3
   }
 ]
