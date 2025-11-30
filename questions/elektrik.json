@@ -1,5 +1,85 @@
 [
   {
+    "id": "ai_1764501038499_0",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "İç direnci önemsiz bir üreteç, 2 Ω ve 4 Ω'luk iki dirençle seri olarak bağlanmıştır. Üretecin potansiyel farkı 18 V olduğuna göre, 4 Ω'luk direncin uçları arasındaki potansiyel fark kaç Volt'tur?",
+    "options": [
+      "A) 3",
+      "B) 6",
+      "C) 9",
+      "D) 12",
+      "E) 18"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Seri bağlı devrelerde eşdeğer direnç, dirençlerin toplamına eşittir. Bu nedenle, R_eş = R1 + R2 = 2 Ω + 4 Ω = 6 Ω'dur. Devreden geçen ana kol akımını Ohm Yasası (V = I * R) kullanarak bulabiliriz: I = V / R_eş = 18 V / 6 Ω = 3 A. Seri bağlı devrelerde akım her dirençten aynı miktarda geçer. Bu yüzden 4 Ω'luk dirençten de 3 A akım geçer. 4 Ω'luk direncin uçları arasındaki potansiyel farkı yine Ohm Yasası ile hesaplarız: V_4Ω = I * R_4Ω = 3 A * 4 Ω = 12 V.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523986211_13",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devrenin toplam direnci, paralel bağlantıda nasıl hesaplanır?",
+    "options": [
+      "1/R toplam = 1/R1 + 1/R2",
+      "R toplam = R1 + R2",
+      "R toplam = R1 * R2",
+      "R toplam = R1 - R2",
+      "R toplam = 1/(R1 + R2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Paralel bağlı dirençlerin toplam direnci, 1/R toplam = 1/R1 + 1/R2 formülü ile hesaplanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986209_2",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki toplam direnç, dirençlerin seri bağlantısında nasıl hesaplanır?",
+    "options": [
+      "R toplam = R1 + R2",
+      "R toplam = R1 * R2",
+      "R toplam = R1 - R2",
+      "R toplam = R1 / R2",
+      "R toplam = R1 + 1/R2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seri bağlı dirençlerin toplam direnci, her bir direnç değerinin toplanması ile bulunur: R toplam = R1 + R2.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986211_19",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki gerilim kaynağı, aynı zamanda neyi temsil eder?",
+    "options": [
+      "Enerji depolama",
+      "Akım kaynağı",
+      "Potansiyel farkı",
+      "Direnç",
+      "İletkenlik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gerilim kaynağı, iki nokta arasındaki potansiyel farkını temsil eder ve bu fark, akımın akmasını sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986209_3",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki akımın yönü nedir?",
+    "options": [
+      "Pozitif yükten negatif yüke",
+      "Negatif yükten pozitif yüke",
+      "Herhangi bir yön yoktur",
+      "Yalnızca pozitif yükte",
+      "Yalnızca negatif yükte"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akım, pozitif yüklerin hareket yönü olarak tanımlanır ve bu nedenle pozitif yükten negatif yüke doğru akar.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764523986209_7",
     "subjectId": "fiz",
     "topic": "Elektrik",
@@ -13,166 +93,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Direncin birimi Ohm'dur. Direnç, bir iletkenin akıma karşı gösterdiği direnci ölçer.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498341304_1",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Üzerinde '220V - 1100W' yazan bir elektrikli su ısıtıcısı, 220V'luk bir gerilim altında 5 dakika boyunca çalıştırılıyor. Bu süre boyunca ısıtıcının harcadığı elektrik enerjisi kaç kilojoule (kJ)'dür?",
-    "options": [
-      "55",
-      "110",
-      "330",
-      "5500",
-      "66000"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Elektriksel enerji (E), güç (P) ile zamanın (t) çarpımına eşittir: E = P * t. Soruda verilen değerleri SI birim sistemine çevirmemiz gerekir. Güç P = 1100 Watt. Zaman t = 5 dakika = 5 * 60 saniye = 300 saniye. Bu değerleri formülde yerine koyarsak: E = 1100 W * 300 s = 330000 Joule. Sonuç kilojoule cinsinden istendiği için, sonucu 1000'e böleriz: E = 330000 J / 1000 = 330 kJ.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986212_24",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki akımın yönünü değiştiren eleman hangisidir?",
-    "options": [
-      "Diyot",
-      "Transistör",
-      "Anahtar",
-      "Kondansatör",
-      "Pil"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Anahtar, bir devredeki akımın yönünü değiştirmek veya devreyi açıp kapamak için kullanılan bir elemandır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520201176_0",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir elektrik devresinde direnç, voltaj ve akım arasındaki ilişkiyi belirten Ohm Yasası'na göre, akımın arttığı durumlarda gerilimin nasıl değişeceği aşağıdakilerden hangisidir?",
-    "options": [
-      "Gerilim artar",
-      "Gerilim azalır",
-      "Gerilim sabit kalır",
-      "Gerilim sıfıra yaklaşır",
-      "Gerilim değişmez"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ohm Yasası'na göre (V = I * R), direnç sabit olduğunda akım arttıkça gerilim de artar. Bu nedenle, akım arttığında gerilim de artar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519259618_0",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir iletken üzerinden geçen akım, iletkenin direnci ve gerilimi ile nasıl bir ilişkiye sahiptir?",
-    "options": [
-      "Ohm Yasası'na göre akım, dirençle ters orantılıdır.",
-      "Akım, gerilim ile bağımsızdır.",
-      "Ohm Yasası'na göre akım, gerilimle doğru orantılıdır.",
-      "Akım, direnç ile doğru orantılıdır.",
-      "Gerilim, yalnızca dirençten etkilenir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ohm Yasası, bir iletken üzerinden geçen akımın (I), iletkenin gerilimi (V) ile doğrudan orantılı ve direnci (R) ile ters orantılı olduğunu belirtir. Yani, I = V/R şeklinde ifade edilir. Bu nedenle doğru cevap C şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986212_28",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki gerilimi artırmak için ne yapılmalıdır?",
-    "options": [
-      "Direnç eklemek",
-      "Daha fazla pil eklemek",
-      "Kondansatör eklemek",
-      "Akımı artırmak",
-      "Kısa devre yapmak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Gerilimi artırmak için devreye daha fazla pil eklemek gereklidir. Bu, toplam gerilimi artırır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986212_25",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir iletkenin iletkenliği, aşağıdakilerden hangisi ile doğru orantılıdır?",
-    "options": [
-      "Sıcaklık",
-      "Uzunluk",
-      "Kesit alanı",
-      "Direnç",
-      "Dalgaboyu"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İletkenlik, iletkenin kesit alanı ile doğru orantılıdır. Daha geniş bir kesit alanı, daha yüksek iletkenlik anlamına gelir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986209_6",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki akım, direnç arttıkça nasıl değişir?",
-    "options": [
-      "Artar",
-      "Azalır",
-      "Değişmez",
-      "Sonsuz olur",
-      "Sıfıra iner"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ohm yasasına göre, direnç arttıkça akım azalır. Formül I = V/R olduğundan, R arttıkça I azalır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499684836_1",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Dirençleri sırasıyla R ve 2R olan K ve L lambaları, iç direnci önemsiz bir üretece önce seri, sonra paralel olarak bağlanıyor. Lambaların parlaklıkları güçleri ile doğru orantılı olduğuna göre, her iki durumda lambaların parlaklıkları (P_K ve P_L) arasındaki ilişki aşağıdakilerden hangisidir?",
-    "options": [
-      "Seri: P_K > P_L, Paralel: P_K > P_L",
-      "Seri: P_L > P_K, Paralel: P_L > P_K",
-      "Seri: P_K = P_L, Paralel: P_K > P_L",
-      "Seri: P_L > P_K, Paralel: P_K > P_L",
-      "Seri: P_K > P_L, Paralel: P_L > P_K"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Lamba parlaklığı, gücüyle (P) doğru orantılıdır. Güç P = I²R veya P = V²/R formülleriyle hesaplanabilir. \n1. **Seri Bağlantı:** Lambalar seri bağlandığında her ikisinden de aynı akım (I) geçer. Bu durumda P = I²R formülünü kullanmak daha uygundur. K'nin gücü P_K = I²R, L'nin gücü P_L = I²(2R) olur. Görüldüğü gibi P_L = 2 * P_K'dir, yani P_L > P_K. Direnci büyük olan daha parlak yanar. \n2. **Paralel Bağlantı:** Lambalar paralel bağlandığında her ikisinin de uçları arasındaki potansiyel farkı (V) aynı olur (üretecin gerilimine eşit). Bu durumda P = V²/R formülünü kullanmak daha uygundur. K'nin gücü P_K = V²/R, L'nin gücü P_L = V²/(2R) olur. Görüldüğü gibi P_K = 2 * P_L'dir, yani P_K > P_L. Direnci küçük olan daha parlak yanar. \nSonuç olarak, seri bağlantıda P_L > P_K ve paralel bağlantıda P_K > P_L ilişkisi doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499684836_3",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Sayfa düzlemine dik ve içeri doğru olan düzgün bir B manyetik alanı içerisinde, sayfa düzleminde bulunan L uzunluğundaki bir telden I akımı geçmektedir. Bu durumda tele etki eden manyetik kuvvetin büyüklüğü F'dir. Telden geçen akım şiddeti 3 katına çıkarılır ve manyetik alanın şiddeti yarıya düşürülürse, tele etki eden yeni manyetik kuvvetin büyüklüğü kaç F olur? (Tel, manyetik alana her zaman dik konumdadır.)",
-    "options": [
-      "1/2",
-      "2/3",
-      "1",
-      "3/2",
-      "6"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Manyetik alan içindeki akım taşıyan bir tele etki eden kuvvetin büyüklüğü F = B·I·L·sinθ formülü ile hesaplanır. Başlangıçta tel, manyetik alana dik olduğu için (θ=90°, sin90°=1), kuvvetin büyüklüğü F = B·I·L'dir. \nYapılan değişiklikler sonrası yeni akım şiddeti I' = 3I ve yeni manyetik alan şiddeti B' = B/2 olur. Telin konumu değişmediği için açı aynı kalır. \nYeni kuvvet (F'), bu yeni değerlerle hesaplanır: \nF' = B'·I'·L = (B/2)·(3I)·L = (3/2)·(B·I·L). \nBaşlangıçtaki kuvvet F = B·I·L olduğuna göre, bu ifadeyi yerine koyarsak F' = (3/2)F elde edilir. Dolayısıyla yeni kuvvet, ilk kuvvetin 3/2 katıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986212_27",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Akımın zamanla değişimi hangi kavramla ifade edilir?",
-    "options": [
-      "Sürekli akım",
-      "Alternatif akım",
-      "Dönme",
-      "Hız",
-      "Frekans"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Akımın zamanla değişimi, alternatif akımda gözlemlenmektedir. Alternatif akım, belirli bir frekansta yön değiştirir.",
     "difficulty": 5
   },
   {
@@ -192,36 +112,68 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764520201176_1",
+    "id": "ai_1764499684836_0",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Aşağıdakilerden hangisi elektriksel güç hesaplamasında kullanılan formüldür?",
+    "questionText": "İç direnci önemsiz bir üretece bağlanan şekildeki elektrik devresinde R₁ = 2Ω, R₂ = 6Ω ve R₃ = 3Ω'dur. Üretecin gerilimi 12V olduğuna göre, R₂ direncinden geçen akım şiddeti kaç Amper'dir?",
     "options": [
-      "P = V / I",
-      "P = I * R",
-      "P = V * I",
-      "P = R / V",
-      "P = I^2 * R"
+      "0.5",
+      "1",
+      "1.5",
+      "2",
+      "3"
     ],
-    "correctAnswer": 2,
-    "explanation": "Elektriksel güç, voltaj (V) ve akım (I) çarpımı ile hesaplanır. Bu nedenle doğru formül P = V * I'dir.",
+    "correctAnswer": 1,
+    "explanation": "1. Öncelikle birbirine paralel bağlı olan R₂ ve R₃ dirençlerinin eşdeğer direnci (R_p) bulunur: 1/R_p = 1/R₂ + 1/R₃ => 1/R_p = 1/6 + 1/3 = 1/6 + 2/6 = 3/6. Buradan R_p = 6/3 = 2Ω bulunur. \n2. R₁ direnci, bu paralel kola seri bağlı olduğu için devrenin toplam eşdeğer direnci (R_eş) hesaplanır: R_eş = R₁ + R_p = 2Ω + 2Ω = 4Ω. \n3. Devrenin ana kolundan geçen akım (I_ana), Ohm Kanunu (V = I * R) kullanılarak bulunur: I_ana = V / R_eş = 12V / 4Ω = 3A. \n4. Ana koldan gelen 3A'lik akım, R₁ üzerinden geçtikten sonra R₂ ve R₃'e ayrılır. Paralel kolların gerilimi eşittir. Bu gerilim (V_p) hesaplanır: V_p = I_ana * R_p = 3A * 2Ω = 6V. \n5. R₂ direncinden geçen akım (I₂) Ohm Kanunu ile bulunur: I₂ = V_p / R₂ = 6V / 6Ω = 1A.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764523986211_15",
+    "id": "ai_1764523986212_27",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Kısa devre durumu, devrede neye yol açar?",
+    "questionText": "Akımın zamanla değişimi hangi kavramla ifade edilir?",
     "options": [
-      "Artan direnç",
-      "Düşük akım",
-      "Yüksek akım",
-      "Düşük gerilim",
-      "Enerji kaybı"
+      "Sürekli akım",
+      "Alternatif akım",
+      "Dönme",
+      "Hız",
+      "Frekans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Akımın zamanla değişimi, alternatif akımda gözlemlenmektedir. Alternatif akım, belirli bir frekansta yön değiştirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986211_11",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki akımın yönünü değiştirmek için ne yapılmalıdır?",
+    "options": [
+      "Direnci artırmak",
+      "Gerilimi azaltmak",
+      "Gerilimi değiştirmek",
+      "Kondansatör eklemek",
+      "Akımı kesmek"
     ],
     "correctAnswer": 2,
-    "explanation": "Kısa devre durumunda, devrede direncin ani olarak düşmesi nedeniyle akım çok yükselebilir. Bu durum tehlikeli sonuçlar doğurabilir.",
+    "explanation": "Akımın yönünü değiştirmek için gerilimin yönünün değiştirilmesi gerekmektedir. Bu, devredeki akımın yönünü de değiştirir.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764499684836_1",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Dirençleri sırasıyla R ve 2R olan K ve L lambaları, iç direnci önemsiz bir üretece önce seri, sonra paralel olarak bağlanıyor. Lambaların parlaklıkları güçleri ile doğru orantılı olduğuna göre, her iki durumda lambaların parlaklıkları (P_K ve P_L) arasındaki ilişki aşağıdakilerden hangisidir?",
+    "options": [
+      "Seri: P_K > P_L, Paralel: P_K > P_L",
+      "Seri: P_L > P_K, Paralel: P_L > P_K",
+      "Seri: P_K = P_L, Paralel: P_K > P_L",
+      "Seri: P_L > P_K, Paralel: P_K > P_L",
+      "Seri: P_K > P_L, Paralel: P_L > P_K"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lamba parlaklığı, gücüyle (P) doğru orantılıdır. Güç P = I²R veya P = V²/R formülleriyle hesaplanabilir. \n1. **Seri Bağlantı:** Lambalar seri bağlandığında her ikisinden de aynı akım (I) geçer. Bu durumda P = I²R formülünü kullanmak daha uygundur. K'nin gücü P_K = I²R, L'nin gücü P_L = I²(2R) olur. Görüldüğü gibi P_L = 2 * P_K'dir, yani P_L > P_K. Direnci büyük olan daha parlak yanar. \n2. **Paralel Bağlantı:** Lambalar paralel bağlandığında her ikisinin de uçları arasındaki potansiyel farkı (V) aynı olur (üretecin gerilimine eşit). Bu durumda P = V²/R formülünü kullanmak daha uygundur. K'nin gücü P_K = V²/R, L'nin gücü P_L = V²/(2R) olur. Görüldüğü gibi P_K = 2 * P_L'dir, yani P_K > P_L. Direnci küçük olan daha parlak yanar. \nSonuç olarak, seri bağlantıda P_L > P_K ve paralel bağlantıda P_K > P_L ilişkisi doğrudur.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764523986209_1",
@@ -240,35 +192,35 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764498341304_0",
+    "id": "ai_1764523986209_8",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "İç direnci önemsiz bir üretece, R1=2Ω, R2=3Ω ve R3=6Ω'luk dirençler şekildeki gibi bağlanmıştır. R2 ve R3 dirençleri birbirine paralel, bu grup ise R1 direncine seridir. Üretecin gerilimi 12V olduğuna göre, ana koldan geçen I akımı kaç Amper'dir?",
+    "questionText": "Bir bobinin enerji depolama yeteneği hangi özellik ile ilgilidir?",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "6"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle paralel bağlı R2 ve R3 dirençlerinin eşdeğer direncini (Rp) bulalım. 1/Rp = 1/R2 + 1/R3 formülünden 1/Rp = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 bulunur. Buradan Rp = 2Ω olur. Bu 2Ω'luk eşdeğer direnç, R1 direncine seri bağlıdır. Dolayısıyla devrenin toplam eşdeğer direnci R_eş = R1 + Rp = 2Ω + 2Ω = 4Ω'dur. Ohm Yasası (V = I * R) kullanılarak ana kol akımı I = V / R_eş = 12V / 4Ω = 3 Amper olarak hesaplanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986209_0",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir iletkenin direnci, sıcaklık arttıkça nasıl değişir?",
-    "options": [
-      "Azalır",
-      "Artar",
-      "Değişmez",
-      "Sıfıra iner",
-      "Sonsuz olur"
+      "Kapasitans",
+      "Endüktans",
+      "Direnç",
+      "Gerilim",
+      "Akım"
     ],
     "correctAnswer": 1,
-    "explanation": "Bir iletkenin direnci sıcaklık arttıkça genellikle artar. Bu, iletkenin atomlarının daha fazla titreşmesi nedeniyle elektronların akışını engellemesinden kaynaklanır.",
+    "explanation": "Bir bobinin enerji depolama yeteneği endüktans ile ilgilidir. Bobin, akımın değişimine karşı direnç gösterir ve bu sayede enerji depolar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986209_10",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki güç, gerilim ve akım arasında nasıl hesaplanır?",
+    "options": [
+      "P = V * I",
+      "P = V / I",
+      "P = I / V",
+      "P = V + I",
+      "P = V - I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güç (P), gerilim (V) ve akım (I) arasındaki ilişki P = V * I formülü ile belirlenir.",
     "difficulty": 5
   },
   {
@@ -288,26 +240,42 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764501038499_1",
+    "id": "ai_1764520201176_2",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Üzerinde \"220 V - 1100 W\" yazan bir elektrikli ısıtıcı, 220 V'luk bir gerilimle 5 dakika boyunca çalıştırılıyor. Bu süre boyunca ısıtıcının harcadığı elektrik enerjisi kaç kilojoule (kJ)'dür?",
+    "questionText": "Bir devredeki toplam direnç, dirençlerin paralel bağlanması durumunda nasıl hesaplanır?",
     "options": [
-      "A) 5,5",
-      "B) 55",
-      "C) 330",
-      "D) 5500",
-      "E) 330000"
+      "R_toplam = R1 + R2 + R3",
+      "1/R_toplam = 1/R1 + 1/R2 + 1/R3",
+      "R_toplam = R1 * R2 * R3",
+      "R_toplam = R1 / R2",
+      "R_toplam = R1 - R2"
     ],
-    "correctAnswer": 2,
-    "explanation": "Elektriksel enerji (E), güç (P) ile zamanın (t) çarpımına eşittir (E = P * t). Enerjiyi Joule cinsinden bulmak için gücü Watt, zamanı ise saniye cinsinden kullanmalıyız. Isıtıcının gücü P = 1100 W olarak verilmiştir. Çalışma süresi t = 5 dakika = 5 * 60 = 300 saniyedir. Bu değerleri formülde yerine koyarsak: E = 1100 W * 300 s = 330.000 Joule. Soru, enerjiyi kilojoule (kJ) cinsinden istediği için sonucu 1000'e böleriz: E = 330.000 J / 1000 = 330 kJ.",
+    "correctAnswer": 1,
+    "explanation": "Paralel bağlı dirençlerin toplam direnci, her bir direnç için 1/R toplam formülü ile hesaplanır. Yani, 1/R_toplam = 1/R1 + 1/R2 + 1/R3 şeklindedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764523986209_8",
+    "id": "ai_1764498341304_1",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Bir bobinin enerji depolama yeteneği hangi özellik ile ilgilidir?",
+    "questionText": "Üzerinde '220V - 1100W' yazan bir elektrikli su ısıtıcısı, 220V'luk bir gerilim altında 5 dakika boyunca çalıştırılıyor. Bu süre boyunca ısıtıcının harcadığı elektrik enerjisi kaç kilojoule (kJ)'dür?",
+    "options": [
+      "55",
+      "110",
+      "330",
+      "5500",
+      "66000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elektriksel enerji (E), güç (P) ile zamanın (t) çarpımına eşittir: E = P * t. Soruda verilen değerleri SI birim sistemine çevirmemiz gerekir. Güç P = 1100 Watt. Zaman t = 5 dakika = 5 * 60 saniye = 300 saniye. Bu değerleri formülde yerine koyarsak: E = 1100 W * 300 s = 330000 Joule. Sonuç kilojoule cinsinden istendiği için, sonucu 1000'e böleriz: E = 330000 J / 1000 = 330 kJ.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523986211_16",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir bobinin akım geçişine karşı gösterdiği direnç nedir?",
     "options": [
       "Kapasitans",
       "Endüktans",
@@ -316,7 +284,103 @@
       "Akım"
     ],
     "correctAnswer": 1,
-    "explanation": "Bir bobinin enerji depolama yeteneği endüktans ile ilgilidir. Bobin, akımın değişimine karşı direnç gösterir ve bu sayede enerji depolar.",
+    "explanation": "Bir bobin, akım geçişine karşı gösterdiği direnç endüktans olarak adlandırılır. Endüktans, bobinin akımın değişimine karşı gösterdiği dirençtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986212_23",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki güç kaybı, hangi faktörle ilişkilidir?",
+    "options": [
+      "Akım",
+      "Gerilim",
+      "Direnç",
+      "Kapasitans",
+      "Endüktans"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Güç kaybı, devredeki direnç ile ilişkilidir. Direnç üzerinden geçen akım, ısınmaya ve dolayısıyla güç kaybına yol açar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986211_15",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Kısa devre durumu, devrede neye yol açar?",
+    "options": [
+      "Artan direnç",
+      "Düşük akım",
+      "Yüksek akım",
+      "Düşük gerilim",
+      "Enerji kaybı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kısa devre durumunda, devrede direncin ani olarak düşmesi nedeniyle akım çok yükselebilir. Bu durum tehlikeli sonuçlar doğurabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986209_0",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir iletkenin direnci, sıcaklık arttıkça nasıl değişir?",
+    "options": [
+      "Azalır",
+      "Artar",
+      "Değişmez",
+      "Sıfıra iner",
+      "Sonsuz olur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir iletkenin direnci sıcaklık arttıkça genellikle artar. Bu, iletkenin atomlarının daha fazla titreşmesi nedeniyle elektronların akışını engellemesinden kaynaklanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498341304_2",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Yatay ve sürtünmesiz bir düzlemde bulunan K ve L noktasal cisimlerinin yükleri sırasıyla +4q ve +q'dur. Bu iki yükün arasına, M noktasal cismi hangi noktaya konulursa dengede kalır? (Noktalar arası uzaklıklar eşittir.)\n[K] --1-- [P] --1-- [R] --1-- [S] --1-- [T] --1-- [L]",
+    "options": [
+      "P noktası",
+      "R noktası",
+      "S noktası",
+      "T noktası",
+      "P ve R arası"
+    ],
+    "correctAnswer": 2,
+    "explanation": "M cisminin dengede kalabilmesi için üzerine etki eden net kuvvetin sıfır olması gerekir. Bunun için K ve L cisimlerinin M cismine uyguladığı elektriksel kuvvetlerin büyüklükleri eşit ve yönleri zıt olmalıdır. M cisminin yükü ne olursa olsun (pozitif veya negatif), K ve L aynı işaretli olduğu için M cismi aralarında bir yere konulmalıdır ki kuvvetler zıt yönlü olsun. K cisminden uzaklığına x dersek, L cisminden uzaklığı (5-x) olur (K-L arası toplam mesafe 5 birim). Kuvvetlerin büyüklüklerini eşitleyelim (Coulomb Yasası: F = k*q1*q2/d²):\nF_KM = F_LM\nk * (4q * q_M) / x² = k * (q * q_M) / (5-x)²\nSadeleştirmeler yapıldığında: 4/x² = 1/(5-x)²\nHer iki tarafın karekökü alınırsa: 2/x = 1/(5-x)\nİçler dışlar çarpımı ile: 2 * (5-x) = x => 10 - 2x = x => 10 = 3x => x = 10/3 ≈ 3.33 birim.\nK noktasından 3.33 birim uzaklıktaki nokta S noktasıdır (K-S arası 3 birim, K-T arası 4 birim).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520201176_0",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir elektrik devresinde direnç, voltaj ve akım arasındaki ilişkiyi belirten Ohm Yasası'na göre, akımın arttığı durumlarda gerilimin nasıl değişeceği aşağıdakilerden hangisidir?",
+    "options": [
+      "Gerilim artar",
+      "Gerilim azalır",
+      "Gerilim sabit kalır",
+      "Gerilim sıfıra yaklaşır",
+      "Gerilim değişmez"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ohm Yasası'na göre (V = I * R), direnç sabit olduğunda akım arttıkça gerilim de artar. Bu nedenle, akım arttığında gerilim de artar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523986211_12",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir iletkenin özelliklerini etkileyen faktörlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Uzunluk",
+      "Renk",
+      "Şekil",
+      "Sıcaklık",
+      "Hava durumu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İletkenin direnci, uzunluğuna, kesit alanına ve sıcaklığına bağlıdır. Uzunluk arttıkça direnç de artar.",
     "difficulty": 5
   },
   {
@@ -336,115 +400,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764523986209_2",
+    "id": "ai_1764501038499_1",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Bir devredeki toplam direnç, dirençlerin seri bağlantısında nasıl hesaplanır?",
+    "questionText": "Üzerinde \"220 V - 1100 W\" yazan bir elektrikli ısıtıcı, 220 V'luk bir gerilimle 5 dakika boyunca çalıştırılıyor. Bu süre boyunca ısıtıcının harcadığı elektrik enerjisi kaç kilojoule (kJ)'dür?",
     "options": [
-      "R toplam = R1 + R2",
-      "R toplam = R1 * R2",
-      "R toplam = R1 - R2",
-      "R toplam = R1 / R2",
-      "R toplam = R1 + 1/R2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Seri bağlı dirençlerin toplam direnci, her bir direnç değerinin toplanması ile bulunur: R toplam = R1 + R2.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986211_21",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki akımın zamanla değişimi hangi kavramla ifade edilir?",
-    "options": [
-      "Frekans",
-      "Periyot",
-      "Dalgaboyu",
-      "Dalga hareketi",
-      "Osilasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akımın zamanla değişimi frekans ile ifade edilir. Frekans, birim zamanda gerçekleşen döngü sayısını belirtir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986209_5",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Kondansatörlerin bir devredeki rolü nedir?",
-    "options": [
-      "Enerji depolamak",
-      "Akımı artırmak",
-      "Gerilimi düşürmek",
-      "Direnci artırmak",
-      "Akımı kesmek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kondansatörler, devrelerde enerji depolamak için kullanılır ve bu özellikleri sayesinde alternatif akım devrelerinde önemli bir rol oynarlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499684836_0",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "İç direnci önemsiz bir üretece bağlanan şekildeki elektrik devresinde R₁ = 2Ω, R₂ = 6Ω ve R₃ = 3Ω'dur. Üretecin gerilimi 12V olduğuna göre, R₂ direncinden geçen akım şiddeti kaç Amper'dir?",
-    "options": [
-      "0.5",
-      "1",
-      "1.5",
-      "2",
-      "3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "1. Öncelikle birbirine paralel bağlı olan R₂ ve R₃ dirençlerinin eşdeğer direnci (R_p) bulunur: 1/R_p = 1/R₂ + 1/R₃ => 1/R_p = 1/6 + 1/3 = 1/6 + 2/6 = 3/6. Buradan R_p = 6/3 = 2Ω bulunur. \n2. R₁ direnci, bu paralel kola seri bağlı olduğu için devrenin toplam eşdeğer direnci (R_eş) hesaplanır: R_eş = R₁ + R_p = 2Ω + 2Ω = 4Ω. \n3. Devrenin ana kolundan geçen akım (I_ana), Ohm Kanunu (V = I * R) kullanılarak bulunur: I_ana = V / R_eş = 12V / 4Ω = 3A. \n4. Ana koldan gelen 3A'lik akım, R₁ üzerinden geçtikten sonra R₂ ve R₃'e ayrılır. Paralel kolların gerilimi eşittir. Bu gerilim (V_p) hesaplanır: V_p = I_ana * R_p = 3A * 2Ω = 6V. \n5. R₂ direncinden geçen akım (I₂) Ohm Kanunu ile bulunur: I₂ = V_p / R₂ = 6V / 6Ω = 1A.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986212_23",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki güç kaybı, hangi faktörle ilişkilidir?",
-    "options": [
-      "Akım",
-      "Gerilim",
-      "Direnç",
-      "Kapasitans",
-      "Endüktans"
+      "A) 5,5",
+      "B) 55",
+      "C) 330",
+      "D) 5500",
+      "E) 330000"
     ],
     "correctAnswer": 2,
-    "explanation": "Güç kaybı, devredeki direnç ile ilişkilidir. Direnç üzerinden geçen akım, ısınmaya ve dolayısıyla güç kaybına yol açar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501038499_0",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "İç direnci önemsiz bir üreteç, 2 Ω ve 4 Ω'luk iki dirençle seri olarak bağlanmıştır. Üretecin potansiyel farkı 18 V olduğuna göre, 4 Ω'luk direncin uçları arasındaki potansiyel fark kaç Volt'tur?",
-    "options": [
-      "A) 3",
-      "B) 6",
-      "C) 9",
-      "D) 12",
-      "E) 18"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Seri bağlı devrelerde eşdeğer direnç, dirençlerin toplamına eşittir. Bu nedenle, R_eş = R1 + R2 = 2 Ω + 4 Ω = 6 Ω'dur. Devreden geçen ana kol akımını Ohm Yasası (V = I * R) kullanarak bulabiliriz: I = V / R_eş = 18 V / 6 Ω = 3 A. Seri bağlı devrelerde akım her dirençten aynı miktarda geçer. Bu yüzden 4 Ω'luk dirençten de 3 A akım geçer. 4 Ω'luk direncin uçları arasındaki potansiyel farkı yine Ohm Yasası ile hesaplarız: V_4Ω = I * R_4Ω = 3 A * 4 Ω = 12 V.",
+    "explanation": "Elektriksel enerji (E), güç (P) ile zamanın (t) çarpımına eşittir (E = P * t). Enerjiyi Joule cinsinden bulmak için gücü Watt, zamanı ise saniye cinsinden kullanmalıyız. Isıtıcının gücü P = 1100 W olarak verilmiştir. Çalışma süresi t = 5 dakika = 5 * 60 = 300 saniyedir. Bu değerleri formülde yerine koyarsak: E = 1100 W * 300 s = 330.000 Joule. Soru, enerjiyi kilojoule (kJ) cinsinden istediği için sonucu 1000'e böleriz: E = 330.000 J / 1000 = 330 kJ.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764523986211_16",
+    "id": "ai_1764519259618_0",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Bir bobinin akım geçişine karşı gösterdiği direnç nedir?",
+    "questionText": "Bir iletken üzerinden geçen akım, iletkenin direnci ve gerilimi ile nasıl bir ilişkiye sahiptir?",
     "options": [
-      "Kapasitans",
-      "Endüktans",
-      "Direnç",
-      "Gerilim",
-      "Akım"
+      "Ohm Yasası'na göre akım, dirençle ters orantılıdır.",
+      "Akım, gerilim ile bağımsızdır.",
+      "Ohm Yasası'na göre akım, gerilimle doğru orantılıdır.",
+      "Akım, direnç ile doğru orantılıdır.",
+      "Gerilim, yalnızca dirençten etkilenir."
     ],
-    "correctAnswer": 1,
-    "explanation": "Bir bobin, akım geçişine karşı gösterdiği direnç endüktans olarak adlandırılır. Endüktans, bobinin akımın değişimine karşı gösterdiği dirençtir.",
+    "correctAnswer": 2,
+    "explanation": "Ohm Yasası, bir iletken üzerinden geçen akımın (I), iletkenin gerilimi (V) ile doğrudan orantılı ve direnci (R) ile ters orantılı olduğunu belirtir. Yani, I = V/R şeklinde ifade edilir. Bu nedenle doğru cevap C şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523986211_17",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki toplam güç, hangi formülle hesaplanır?",
+    "options": [
+      "P = I^2 * R",
+      "P = R^2 * I",
+      "P = V * R",
+      "P = I / R",
+      "P = V^2 / R"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Toplam güç, akımın karesi ile direncin çarpımına eşittir: P = I^2 * R.",
     "difficulty": 5
   },
   {
@@ -480,35 +480,19 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764523986211_13",
+    "id": "ai_1764523986209_5",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Bir devrenin toplam direnci, paralel bağlantıda nasıl hesaplanır?",
+    "questionText": "Kondansatörlerin bir devredeki rolü nedir?",
     "options": [
-      "1/R toplam = 1/R1 + 1/R2",
-      "R toplam = R1 + R2",
-      "R toplam = R1 * R2",
-      "R toplam = R1 - R2",
-      "R toplam = 1/(R1 + R2)"
+      "Enerji depolamak",
+      "Akımı artırmak",
+      "Gerilimi düşürmek",
+      "Direnci artırmak",
+      "Akımı kesmek"
     ],
     "correctAnswer": 0,
-    "explanation": "Paralel bağlı dirençlerin toplam direnci, 1/R toplam = 1/R1 + 1/R2 formülü ile hesaplanır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986211_19",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki gerilim kaynağı, aynı zamanda neyi temsil eder?",
-    "options": [
-      "Enerji depolama",
-      "Akım kaynağı",
-      "Potansiyel farkı",
-      "Direnç",
-      "İletkenlik"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Gerilim kaynağı, iki nokta arasındaki potansiyel farkını temsil eder ve bu fark, akımın akmasını sağlar.",
+    "explanation": "Kondansatörler, devrelerde enerji depolamak için kullanılır ve bu özellikleri sayesinde alternatif akım devrelerinde önemli bir rol oynarlar.",
     "difficulty": 5
   },
   {
@@ -528,131 +512,19 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764523986211_12",
+    "id": "ai_1764499684836_3",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Bir iletkenin özelliklerini etkileyen faktörlerden biri aşağıdakilerden hangisidir?",
+    "questionText": "Sayfa düzlemine dik ve içeri doğru olan düzgün bir B manyetik alanı içerisinde, sayfa düzleminde bulunan L uzunluğundaki bir telden I akımı geçmektedir. Bu durumda tele etki eden manyetik kuvvetin büyüklüğü F'dir. Telden geçen akım şiddeti 3 katına çıkarılır ve manyetik alanın şiddeti yarıya düşürülürse, tele etki eden yeni manyetik kuvvetin büyüklüğü kaç F olur? (Tel, manyetik alana her zaman dik konumdadır.)",
     "options": [
-      "Uzunluk",
-      "Renk",
-      "Şekil",
-      "Sıcaklık",
-      "Hava durumu"
+      "1/2",
+      "2/3",
+      "1",
+      "3/2",
+      "6"
     ],
-    "correctAnswer": 0,
-    "explanation": "İletkenin direnci, uzunluğuna, kesit alanına ve sıcaklığına bağlıdır. Uzunluk arttıkça direnç de artar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986211_11",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki akımın yönünü değiştirmek için ne yapılmalıdır?",
-    "options": [
-      "Direnci artırmak",
-      "Gerilimi azaltmak",
-      "Gerilimi değiştirmek",
-      "Kondansatör eklemek",
-      "Akımı kesmek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Akımın yönünü değiştirmek için gerilimin yönünün değiştirilmesi gerekmektedir. Bu, devredeki akımın yönünü de değiştirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986209_10",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki güç, gerilim ve akım arasında nasıl hesaplanır?",
-    "options": [
-      "P = V * I",
-      "P = V / I",
-      "P = I / V",
-      "P = V + I",
-      "P = V - I"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Güç (P), gerilim (V) ve akım (I) arasındaki ilişki P = V * I formülü ile belirlenir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523986211_17",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki toplam güç, hangi formülle hesaplanır?",
-    "options": [
-      "P = I^2 * R",
-      "P = R^2 * I",
-      "P = V * R",
-      "P = I / R",
-      "P = V^2 / R"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Toplam güç, akımın karesi ile direncin çarpımına eşittir: P = I^2 * R.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501038499_3",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Aralarında d mesafesi bulunan +q ve +4q yüklü noktasal cisimler sabitlenmiştir. +q yükünden ne kadar uzakta, bu iki yükün oluşturduğu bileşke elektrik alan sıfır olur?",
-    "options": [
-      "A) d/5",
-      "B) d/4",
-      "C) d/3",
-      "D) d/2",
-      "E) 2d/3"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bileşke elektrik alanın sıfır olabilmesi için, iki yükün oluşturduğu elektrik alanların o noktada eşit büyüklükte ve zıt yönlü olması gerekir. Yüklerin ikisi de pozitif olduğu için, bu durum sadece iki yükün arasında bir noktada gerçekleşebilir. Bu noktaya P diyelim ve +q yüküne olan uzaklığına x diyelim. Bu durumda +4q yüküne olan uzaklığı (d-x) olur. Elektrik alan formülü E = k*Q/r²'dir. P noktasında alanların büyüklüklerini eşitleyelim: E_q = E_4q => k*|q|/x² = k*|4q|/(d-x)². Sadeleştirme yaparsak: 1/x² = 4/(d-x)². Her iki tarafın karekökünü alırsak: 1/x = 2/(d-x). İçler dışlar çarpımı yaparsak: d - x = 2x => d = 3x => x = d/3. Sonuç olarak, bileşke elektrik alan +q yükünden d/3 uzaklıkta sıfır olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498341304_2",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Yatay ve sürtünmesiz bir düzlemde bulunan K ve L noktasal cisimlerinin yükleri sırasıyla +4q ve +q'dur. Bu iki yükün arasına, M noktasal cismi hangi noktaya konulursa dengede kalır? (Noktalar arası uzaklıklar eşittir.)\n[K] --1-- [P] --1-- [R] --1-- [S] --1-- [T] --1-- [L]",
-    "options": [
-      "P noktası",
-      "R noktası",
-      "S noktası",
-      "T noktası",
-      "P ve R arası"
-    ],
-    "correctAnswer": 2,
-    "explanation": "M cisminin dengede kalabilmesi için üzerine etki eden net kuvvetin sıfır olması gerekir. Bunun için K ve L cisimlerinin M cismine uyguladığı elektriksel kuvvetlerin büyüklükleri eşit ve yönleri zıt olmalıdır. M cisminin yükü ne olursa olsun (pozitif veya negatif), K ve L aynı işaretli olduğu için M cismi aralarında bir yere konulmalıdır ki kuvvetler zıt yönlü olsun. K cisminden uzaklığına x dersek, L cisminden uzaklığı (5-x) olur (K-L arası toplam mesafe 5 birim). Kuvvetlerin büyüklüklerini eşitleyelim (Coulomb Yasası: F = k*q1*q2/d²):\nF_KM = F_LM\nk * (4q * q_M) / x² = k * (q * q_M) / (5-x)²\nSadeleştirmeler yapıldığında: 4/x² = 1/(5-x)²\nHer iki tarafın karekökü alınırsa: 2/x = 1/(5-x)\nİçler dışlar çarpımı ile: 2 * (5-x) = x => 10 - 2x = x => 10 = 3x => x = 10/3 ≈ 3.33 birim.\nK noktasından 3.33 birim uzaklıktaki nokta S noktasıdır (K-S arası 3 birim, K-T arası 4 birim).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986212_26",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Devredeki toplam güç, hangi formül ile hesaplanır?",
-    "options": [
-      "P = V^2 / R",
-      "P = R^2 / I",
-      "P = V * I",
-      "P = I * R",
-      "P = R / V"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Devredeki toplam güç, gerilimin karesi ile direncin bölünmesi ile hesaplanır: P = V^2 / R.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501038499_2",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "3 Ω ve 6 Ω'luk iki direnç birbirine paralel olarak bağlanmıştır. Bu paralel bağlı direnç grubundan geçen ana kol akımı 9 A olduğuna göre, 6 Ω'luk direncin üzerinden geçen akım şiddeti kaç Amper'dir?",
-    "options": [
-      "A) 1,5",
-      "B) 3",
-      "C) 4,5",
-      "D) 6",
-      "E) 9"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paralel bağlı kollarda potansiyel farkları (gerilim) eşittir. Akım ise dirençlerle ters orantılı olarak kollara ayrılır. Yani, büyük dirençten az akım, küçük dirençten çok akım geçer. Dirençlerin oranı R1/R2 = 3/6 = 1/2'dir. Bu durumda akımlar I1/I2 = 2/1 oranında paylaşılacaktır. Toplam akım 9 A, toplam oran ise 2+1=3'tür. Bir oran birimi 9 A / 3 = 3 A'e eşittir. 6 Ω'luk direnç (büyük olan), 1 birim akım alacaktır, yani 1 * 3 A = 3 A. 3 Ω'luk direnç (küçük olan) ise 2 birim akım alacaktır, yani 2 * 3 A = 6 A. Toplam akım 3 A + 6 A = 9 A olarak doğrulanır. Dolayısıyla, 6 Ω'luk dirençten geçen akım 3 A'dir.",
+    "correctAnswer": 3,
+    "explanation": "Manyetik alan içindeki akım taşıyan bir tele etki eden kuvvetin büyüklüğü F = B·I·L·sinθ formülü ile hesaplanır. Başlangıçta tel, manyetik alana dik olduğu için (θ=90°, sin90°=1), kuvvetin büyüklüğü F = B·I·L'dir. \nYapılan değişiklikler sonrası yeni akım şiddeti I' = 3I ve yeni manyetik alan şiddeti B' = B/2 olur. Telin konumu değişmediği için açı aynı kalır. \nYeni kuvvet (F'), bu yeni değerlerle hesaplanır: \nF' = B'·I'·L = (B/2)·(3I)·L = (3/2)·(B·I·L). \nBaşlangıçtaki kuvvet F = B·I·L olduğuna göre, bu ifadeyi yerine koyarsak F' = (3/2)F elde edilir. Dolayısıyla yeni kuvvet, ilk kuvvetin 3/2 katıdır.",
     "difficulty": 3
   },
   {
@@ -672,38 +544,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764520201176_2",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki toplam direnç, dirençlerin paralel bağlanması durumunda nasıl hesaplanır?",
-    "options": [
-      "R_toplam = R1 + R2 + R3",
-      "1/R_toplam = 1/R1 + 1/R2 + 1/R3",
-      "R_toplam = R1 * R2 * R3",
-      "R_toplam = R1 / R2",
-      "R_toplam = R1 - R2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paralel bağlı dirençlerin toplam direnci, her bir direnç için 1/R toplam formülü ile hesaplanır. Yani, 1/R_toplam = 1/R1 + 1/R2 + 1/R3 şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523986209_3",
-    "subjectId": "fiz",
-    "topic": "Elektrik",
-    "questionText": "Bir devredeki akımın yönü nedir?",
-    "options": [
-      "Pozitif yükten negatif yüke",
-      "Negatif yükten pozitif yüke",
-      "Herhangi bir yön yoktur",
-      "Yalnızca pozitif yükte",
-      "Yalnızca negatif yükte"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akım, pozitif yüklerin hareket yönü olarak tanımlanır ve bu nedenle pozitif yükten negatif yüke doğru akar.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764523986209_9",
     "subjectId": "fiz",
     "topic": "Elektrik",
@@ -717,6 +557,118 @@
     ],
     "correctAnswer": 0,
     "explanation": "Alternatif akım, belirli bir frekansta yön değiştiren akımdır. Bu, AC gerilim kaynaklarında görülen temel bir özelliktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498341304_0",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "İç direnci önemsiz bir üretece, R1=2Ω, R2=3Ω ve R3=6Ω'luk dirençler şekildeki gibi bağlanmıştır. R2 ve R3 dirençleri birbirine paralel, bu grup ise R1 direncine seridir. Üretecin gerilimi 12V olduğuna göre, ana koldan geçen I akımı kaç Amper'dir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Öncelikle paralel bağlı R2 ve R3 dirençlerinin eşdeğer direncini (Rp) bulalım. 1/Rp = 1/R2 + 1/R3 formülünden 1/Rp = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 bulunur. Buradan Rp = 2Ω olur. Bu 2Ω'luk eşdeğer direnç, R1 direncine seri bağlıdır. Dolayısıyla devrenin toplam eşdeğer direnci R_eş = R1 + Rp = 2Ω + 2Ω = 4Ω'dur. Ohm Yasası (V = I * R) kullanılarak ana kol akımı I = V / R_eş = 12V / 4Ω = 3 Amper olarak hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523986212_25",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir iletkenin iletkenliği, aşağıdakilerden hangisi ile doğru orantılıdır?",
+    "options": [
+      "Sıcaklık",
+      "Uzunluk",
+      "Kesit alanı",
+      "Direnç",
+      "Dalgaboyu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İletkenlik, iletkenin kesit alanı ile doğru orantılıdır. Daha geniş bir kesit alanı, daha yüksek iletkenlik anlamına gelir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986209_6",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki akım, direnç arttıkça nasıl değişir?",
+    "options": [
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Sonsuz olur",
+      "Sıfıra iner"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ohm yasasına göre, direnç arttıkça akım azalır. Formül I = V/R olduğundan, R arttıkça I azalır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986212_26",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Devredeki toplam güç, hangi formül ile hesaplanır?",
+    "options": [
+      "P = V^2 / R",
+      "P = R^2 / I",
+      "P = V * I",
+      "P = I * R",
+      "P = R / V"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Devredeki toplam güç, gerilimin karesi ile direncin bölünmesi ile hesaplanır: P = V^2 / R.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986211_21",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki akımın zamanla değişimi hangi kavramla ifade edilir?",
+    "options": [
+      "Frekans",
+      "Periyot",
+      "Dalgaboyu",
+      "Dalga hareketi",
+      "Osilasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akımın zamanla değişimi frekans ile ifade edilir. Frekans, birim zamanda gerçekleşen döngü sayısını belirtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986212_28",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki gerilimi artırmak için ne yapılmalıdır?",
+    "options": [
+      "Direnç eklemek",
+      "Daha fazla pil eklemek",
+      "Kondansatör eklemek",
+      "Akımı artırmak",
+      "Kısa devre yapmak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gerilimi artırmak için devreye daha fazla pil eklemek gereklidir. Bu, toplam gerilimi artırır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523986212_24",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki akımın yönünü değiştiren eleman hangisidir?",
+    "options": [
+      "Diyot",
+      "Transistör",
+      "Anahtar",
+      "Kondansatör",
+      "Pil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Anahtar, bir devredeki akımın yönünü değiştirmek veya devreyi açıp kapamak için kullanılan bir elemandır.",
     "difficulty": 5
   },
   {
@@ -734,6 +686,54 @@
     "correctAnswer": 3,
     "explanation": "Ohm Kanunu'na göre gerilim (V), akım (I) ve direnç (R) arasındaki ilişki V = I * R şeklindedir. Bu nedenle, 'V = R / I' ifadesi yanlıştır. Doğru ifade V = I * R'dir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764501038499_3",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Aralarında d mesafesi bulunan +q ve +4q yüklü noktasal cisimler sabitlenmiştir. +q yükünden ne kadar uzakta, bu iki yükün oluşturduğu bileşke elektrik alan sıfır olur?",
+    "options": [
+      "A) d/5",
+      "B) d/4",
+      "C) d/3",
+      "D) d/2",
+      "E) 2d/3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bileşke elektrik alanın sıfır olabilmesi için, iki yükün oluşturduğu elektrik alanların o noktada eşit büyüklükte ve zıt yönlü olması gerekir. Yüklerin ikisi de pozitif olduğu için, bu durum sadece iki yükün arasında bir noktada gerçekleşebilir. Bu noktaya P diyelim ve +q yüküne olan uzaklığına x diyelim. Bu durumda +4q yüküne olan uzaklığı (d-x) olur. Elektrik alan formülü E = k*Q/r²'dir. P noktasında alanların büyüklüklerini eşitleyelim: E_q = E_4q => k*|q|/x² = k*|4q|/(d-x)². Sadeleştirme yaparsak: 1/x² = 4/(d-x)². Her iki tarafın karekökünü alırsak: 1/x = 2/(d-x). İçler dışlar çarpımı yaparsak: d - x = 2x => d = 3x => x = d/3. Sonuç olarak, bileşke elektrik alan +q yükünden d/3 uzaklıkta sıfır olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520201176_1",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Aşağıdakilerden hangisi elektriksel güç hesaplamasında kullanılan formüldür?",
+    "options": [
+      "P = V / I",
+      "P = I * R",
+      "P = V * I",
+      "P = R / V",
+      "P = I^2 * R"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elektriksel güç, voltaj (V) ve akım (I) çarpımı ile hesaplanır. Bu nedenle doğru formül P = V * I'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501038499_2",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "3 Ω ve 6 Ω'luk iki direnç birbirine paralel olarak bağlanmıştır. Bu paralel bağlı direnç grubundan geçen ana kol akımı 9 A olduğuna göre, 6 Ω'luk direncin üzerinden geçen akım şiddeti kaç Amper'dir?",
+    "options": [
+      "A) 1,5",
+      "B) 3",
+      "C) 4,5",
+      "D) 6",
+      "E) 9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paralel bağlı kollarda potansiyel farkları (gerilim) eşittir. Akım ise dirençlerle ters orantılı olarak kollara ayrılır. Yani, büyük dirençten az akım, küçük dirençten çok akım geçer. Dirençlerin oranı R1/R2 = 3/6 = 1/2'dir. Bu durumda akımlar I1/I2 = 2/1 oranında paylaşılacaktır. Toplam akım 9 A, toplam oran ise 2+1=3'tür. Bir oran birimi 9 A / 3 = 3 A'e eşittir. 6 Ω'luk direnç (büyük olan), 1 birim akım alacaktır, yani 1 * 3 A = 3 A. 3 Ω'luk direnç (küçük olan) ise 2 birim akım alacaktır, yani 2 * 3 A = 6 A. Toplam akım 3 A + 6 A = 9 A olarak doğrulanır. Dolayısıyla, 6 Ω'luk dirençten geçen akım 3 A'dir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764526124795_1",
