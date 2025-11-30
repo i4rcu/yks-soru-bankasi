@@ -1,69 +1,5 @@
 [
   {
-    "id": "ai_1764520294760_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşiklerden hangisi bir karboksil asit değildir?",
-    "options": [
-      "HCOOH",
-      "CH3COOH",
-      "C2H5OH",
-      "C3H7COOH",
-      "C4H9COOH"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C2H5OH, etanol olarak bilinen bir alkol bileşiktir ve karboksil asit değildir. Diğer seçenekler karboksil asitlerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520294760_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki reaksiyonlardan hangisi bir esterleşme tepkimesidir?",
-    "options": [
-      "Asidik bir bileşen ile alkali bir bileşen reaksiyona girer.",
-      "Bir asit ile alkol birleşir ve su açığa çıkar.",
-      "Bir alkol, bir keton ile reaksiyona girer.",
-      "Bir alken, halojen ile tepkime verir.",
-      "Bir alkol, bir aldehit ile oksitlenir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Esterleşme, bir asidin alkol ile reaksiyona girmesi sonucu ester ve su oluşumudur. Bu nedenle doğru cevap, asit ile alkolün birleşmesidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520294760_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
-    "options": [
-      "C4H10",
-      "C5H12",
-      "C6H14",
-      "C7H16",
-      "C8H18O"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498618418_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşiklerden hangisi dietil eterin yapı izomeri *değildir*?",
-    "options": [
-      "1-Bütanol",
-      "Metil propil eter",
-      "2-Metil-2-propanol",
-      "2-Bütanon",
-      "2-Bütanol"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yapı izomerleri, kapalı formülleri aynı, açık yapıları farklı olan bileşiklerdir. İlk olarak dietil eterin (CH₃CH₂-O-CH₂CH₃) kapalı formülünü bulmalıyız: C₄H₁₀O. Şimdi şıklardaki bileşiklerin kapalı formüllerini inceleyelim:\nA) 1-Bütanol (CH₃CH₂CH₂CH₂OH): C₄H₁₀O\nB) Metil propil eter (CH₃-O-CH₂CH₂CH₃): C₄H₁₀O\nC) 2-Metil-2-propanol ((CH₃)₃COH): C₄H₁₀O\nD) 2-Bütanon (CH₃-CO-CH₂CH₃): C₄H₈O. Bu bileşiğin formülünde 2 hidrojen eksiktir.\nE) 2-Bütanol (CH₃CH(OH)CH₂CH₃): C₄H₁₀O\nKapalı formülü C₄H₈O olan 2-Bütanon, kapalı formülü C₄H₁₀O olan dietil eterin yapı izomeri değildir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764498618418_1",
     "subjectId": "kim",
     "topic": "Organik Kimya",
@@ -77,134 +13,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "IUPAC adlandırması için şu adımlar izlenir:\n1. En uzun karbon zinciri seçilir: Çift bağ içeren en uzun zincir 5 karbonludur (penten).\n2. Zincir numaralandırılır: Çift bağın en küçük numarayı alacağı uçtan başlanır. Sağdan başlarsak çift bağ 2. karbonda, soldan başlarsak 3. karbonda başlar. Bu nedenle numaralandırmaya sağdan başlanır.\n3. Numaralandırma: C₅H₃-C₄H(CH₃)-C₃H=C₂(CH₃)-C₁H₃\n4. Dallanmaların yeri ve adı belirtilir: 2. ve 4. karbonlarda metil (CH₃) grupları bağlıdır. İki tane olduğu için 'dimetil' ön eki kullanılır.\n5. Bileşiğin adı oluşturulur: Dallanmaların yeri (2,4), adı (dimetil), ana zincirin adı ve çift bağın yeri (2-penten) birleştirilir. Doğru adlandırma: 2,4-Dimetil-2-penten.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498618418_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-Metil-1-büten bileşiğine HBr (Hidrojen bromür) katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
-    "options": [
-      "1-Bromo-2-metilbütan",
-      "2-Bromo-3-metilbütan",
-      "2-Bromo-2-metilbütan",
-      "1-Bromo-3-metilbütan",
-      "3-Bromo-2-metilbütan"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre gerçekleşir. Markovnikov kuralı, H⁺ iyonunun çift bağ karbonlarından hidrojeni çok olana, halojen (Br⁻) iyonunun ise hidrojeni az olana (daha çok sübstitüe olmuş karbona) bağlanacağını belirtir.\n2-Metil-1-büten'in yapısı: CH₂=C(CH₃)-CH₂-CH₃\nÇift bağ karbonları C1 (CH₂) ve C2 (C)'dir.\n- C1'de 2 hidrojen, C2'de 0 hidrojen vardır.\n- Kurala göre H⁺, C1'e bağlanarak onu -CH₃ grubuna dönüştürür.\n- Br⁻ ise C2'ye bağlanır.\nSonuç olarak oluşan ana ürün: CH₃-C(Br)(CH₃)-CH₂-CH₃, yani 2-Bromo-2-metilbütan'dır. Bu, daha kararlı olan üçüncül (tersiyer) karbokatyon ara ürünü üzerinden ilerleyen bir mekanizmadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498618418_3",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Etanol (C₂H₅OH), Dimetil eter (CH₃OCH₃) ve Propan (C₃H₈) bileşiklerinin aynı dış basınç altında kaynama noktalarının büyükten küçüğe doğru sıralanışı aşağıdakilerden hangisidir?\n(Mol kütleleri: Etanol ≈ 46 g/mol, Dimetil eter ≈ 46 g/mol, Propan ≈ 44 g/mol)",
-    "options": [
-      "Propan > Dimetil eter > Etanol",
-      "Etanol > Propan > Dimetil eter",
-      "Dimetil eter > Etanol > Propan",
-      "Propan > Etanol > Dimetil eter",
-      "Etanol > Dimetil eter > Propan"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bileşiklerin kaynama noktaları, moleküller arası çekim kuvvetlerinin gücüne bağlıdır. Mol kütleleri birbirine çok yakın olan bu bileşiklerde, moleküller arası kuvvet türü belirleyicidir.\n1. **Etanol (C₂H₅OH):** Moleküllerinde bulunan -OH grubu sayesinde molekülleri arasında etkin hidrojen bağları kurabilir. Hidrojen bağları, en güçlü zayıf etkileşim türüdür.\n2. **Dimetil eter (CH₃OCH₃):** Polar bir moleküldür, ancak hidrojen bağı yapacak H atomu (F, O, N'ye bağlı H) içermez. Bu nedenle molekülleri arasında dipol-dipol etkileşimleri etkindir. Dipol-dipol etkileşimleri, hidrojen bağlarından daha zayıftır.\n3. **Propan (C₃H₈):** Apolar bir moleküldür. Molekülleri arasında yalnızca en zayıf olan London (indüklenmiş dipol) kuvvetleri etkindir.\nEtkileşim kuvvetlerinin gücü: Hidrojen Bağı > Dipol-Dipol > London Kuvvetleri. Bu nedenle kaynama noktası sıralaması: Etanol > Dimetil eter > Propan şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_0",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşik çiftlerinden hangisi birbirinin fonksiyonel grup izomeri *değildir*?",
-    "options": [
-      "A) Propanal - Propanon",
-      "B) Etil alkol - Dimetil eter",
-      "C) 2-Pentanon - 3-Pentanon",
-      "D) Propanoik asit - Metil etanoat",
-      "E) 1-Bütin - 1,3-Bütadien"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Fonksiyonel grup izomerleri, kapalı formülleri aynı ancak fonksiyonel grupları farklı olan bileşiklerdir. A, B, D ve E şıklarındaki çiftler bu tanıma uyar. Örneğin A şıkkında propanal (aldehit) ve propanon (keton) C3H6O kapalı formülüne sahiptir. Ancak C şıkkındaki 2-pentanon ve 3-pentanon, her ikisi de keton fonksiyonel grubuna sahiptir. Bu bileşiklerin kapalı formülleri (C5H10O) aynı olmasına rağmen, fonksiyonel grup olan karbonil grubunun ana zincirdeki yeri farklıdır. Bu nedenle bu iki bileşik birbirinin konum izomeridir, fonksiyonel grup izomeri değil.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Yapı formülü CH3-CH(CH3)-CH(OH)-CH2-CH3 olan bileşiğin IUPAC sistemine göre adı aşağıdakilerden hangisidir?",
-    "options": [
-      "A) 4-Metil-3-pentanol",
-      "B) 2-Metil-3-pentanol",
-      "C) 2-Etil-3-bütanol",
-      "D) 4-Metil-2-pentanol",
-      "E) 3-Hidroksi-2-metil pentan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "IUPAC adlandırması için şu adımlar izlenir: 1. Hidroksil (-OH) grubunu içeren en uzun karbon zinciri seçilir. Bu zincir 5 karbonludur (pentan). 2. Numaralandırmaya -OH grubunun yakın olduğu uçtan başlanır. Sağdan başlandığında -OH 3. karbonda, soldan başlandığında yine 3. karbondadır. 3. Bu eşitlik durumunda, dallanmanın (metil grubu) küçük numarayı alacağı yönden numaralandırma yapılır. Soldan başlanırsa metil grubu 2. karbona, sağdan başlanırsa 4. karbona denk gelir. Bu yüzden soldan numaralandırma tercih edilir. 4. Buna göre, 2. karbonda bir metil grubu ve 3. karbonda bir hidroksil grubu vardır. Bileşiğin adı 2-Metil-3-pentanol olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-Metilpropen bileşiğine HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
-    "options": [
-      "A) 1-Bromo-2-metilpropan",
-      "B) 2-Bromo-2-metilpropan",
-      "C) 1-Bromobütan",
-      "D) 2-Bromobütan",
-      "E) 2-Bromo-1-metilpropan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre yürür. Markovnikov kuralı, H-X gibi polar bir molekülün asimetrik bir alkene katılırken, hidrojen atomunun (H+) ikili bağdaki karbonlardan hidrojence zengin olana, X grubunun (Br-) ise hidrojence fakir olana bağlanacağını belirtir. 2-metilpropen [(CH3)2C=CH2] yapısında, ikili bağın C1 karbonunda iki hidrojen, C2 karbonunda ise hiç hidrojen yoktur. Bu nedenle, H+ atomu C1'e bağlanarak -CH3 grubunu oluşturur ve karbokatyon C2'de oluşur. Ardından Br- iyonu bu karbokatyonun bulunduğu C2'ye bağlanır. Sonuç olarak ana ürün 2-Bromo-2-metilpropan'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_3",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Fenol (C6H5OH) bileşiği ile ilgili aşağıdaki ifadelerden hangisi *yanlıştır*?",
-    "options": [
-      "A) Zayıf asit özelliği gösterir.",
-      "B) NaOH gibi kuvvetli bazlarla tepkimeye girer.",
-      "C) Benzen halkasına doğrudan bağlı -OH grubu içerir.",
-      "D) Yükseltgenerek benzoik asit oluşturur.",
-      "E) Suda çözünürlüğü benzeninkinden fazladır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "A) Fenol, benzen halkasının rezonans etkisiyle -OH grubundaki hidrojeni kolayca iyonlaştırabildiği için zayıf asidik özellik gösterir. Doğru. B) Asidik karakterinden dolayı NaOH gibi kuvvetli bazlarla nötralleşme tepkimesi vererek sodyum fenoksit tuzunu ve suyu oluşturur. Doğru. C) Fenolün tanımı gereği, bir -OH grubu doğrudan benzen halkasına bağlıdır. Doğru. D) Fenol yükseltgenme tepkimeleri verebilir ancak bu tepkimelerle benzoik asit oluşmaz. Benzoik asit, toluenin (metilbenzen) yükseltgenmesiyle elde edilir. Bu ifade yanlıştır. E) Fenol, yapısındaki -OH grubu sayesinde su molekülleriyle hidrojen bağı kurabilir, bu nedenle apolar olan benzene göre suda daha iyi çözünür. Doğru.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_4",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Aldehitler ve ketonlarla ilgili olarak, aşağıdaki tepkimelerden hangisini sadece aldehitler verirken ketonlar vermez?",
-    "options": [
-      "A) NaBH4 ile indirgenme",
-      "B) Fehling ayıracı ile tepkime",
-      "C) HCN ile katılma tepkimesi",
-      "D) Grignard bileşikleri ile katılma",
-      "E) H2/Ni varlığında hidrojenasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aldehitler, karbonil karbonuna bağlı bir hidrojen atomu taşıdıkları için kolayca yükseltgenebilirler. Ketonlarda ise karbonil karbonuna iki alkil/aril grubu bağlıdır ve bu nedenle normal koşullarda yükseltgenmezler. Bu özellik, onları ayırt etmek için kullanılır. \n- Fehling ve Tollens ayıraçları zayıf yükseltgenlerdir ve sadece aldehitleri karboksilik asitlere yükseltgerler. Bu sırada Fehling ayıracı kırmızı renkli Cu2O çökeltisi, Tollens ayıracı ise gümüş aynası (Ag) oluşturur. Ketonlar bu ayıraçlarla tepkime vermez.\n- Diğer şıklardaki tepkimeler (indirgenme, HCN katılması, Grignard tepkimesi) hem aldehitlerin hem de ketonların verdiği ortak karbonil grubu tepkimeleridir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499998125_5",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-Bütanol bileşiğinin uygun koşullarda yükseltgenmesi sonucu oluşan ürün ve sülfürik asit katalizörlüğünde ısıtılarak dehidrasyonu (su çekilmesi) sonucu oluşan ana ürün sırasıyla aşağıdakilerden hangisidir?",
-    "options": [
-      "A) Bütanal, 1-Büten",
-      "B) Bütanoik asit, 2-Büten",
-      "C) Bütanon, 2-Büten",
-      "D) Bütanon, 1-Büten",
-      "E) Bütanal, Siklobütan"
-    ],
-    "correctAnswer": 2,
-    "explanation": "1. Yükseltgenme: 2-Bütanol, bir sekonder alkoldür (OH grubunun bağlı olduğu karbon, iki başka karbona bağlıdır). Sekonder alkoller yükseltgendiğinde ketonları oluşturur. 2-Bütanolün yükseltgenmesiyle 2-Bütanon (veya sadece Bütanon) oluşur.\n\n2. Dehidrasyon: Alkollerden asit katalizörlüğünde su çekilmesiyle alkenler oluşur. Bu tepkime Zaitsev kuralına göre yürür. Zaitsev kuralına göre, -OH grubunun ayrıldığı karbona komşu olan karbonlardan hidrojeni az olandan hidrojen ayrılır ve daha kararlı (daha fazla sübstitüe olmuş) alken ana ürün olarak oluşur. 2-Bütanolde, C2'den -OH ayrılır. C1'de 3, C3'te 2 hidrojen vardır. Hidrojeni az olan C3'ten bir hidrojen ayrılmasıyla C2 ve C3 arasında çift bağ oluşur ve ana ürün olarak 2-Büten meydana gelir. (C1'den H ayrılmasıyla oluşan 1-Büten yan üründür).\n\nDolayısıyla, ürünler sırasıyla Bütanon ve 2-Büten'dir.",
     "difficulty": 3
   },
   {
@@ -224,35 +32,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501322828_1",
+    "id": "ai_1764501322828_5",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Propen bileşiğine Markovnikov kuralına göre HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
+    "questionText": "Benzen (C6H6) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "1-brompropan",
-      "2-brompropan",
-      "1,2-dibrompropan",
-      "Propan",
-      "2-brompropen"
+      "Yapısındaki tüm karbon atomları sp3 hibritleşmesi yapmıştır.",
+      "Alkenler gibi bromlu suyun rengini kolayca giderir.",
+      "Kararlı yapısından dolayı katılma tepkimelerine daha yatkındır.",
+      "Yapısındaki tüm karbon-karbon bağları özdeştir ve uzunlukları tek bağ ile çift bağ arasındadır.",
+      "Doymamış bir hidrokarbon olduğu için düzlemsel yapıda değildir."
     ],
-    "correctAnswer": 1,
-    "explanation": "Alkenlere hidrojen halojenür katılması Markovnikov kuralına göre gerçekleşir. Bu kurala göre, katılan moleküldeki pozitif kısım (H+), ikili bağ karbonlarından hidrojeni çok olana bağlanır. Negatif kısım (Br-) ise hidrojeni az olan ikili bağ karbonuna bağlanır. Propen (CH3-CH=CH2) bileşiğinde, H atomu CH2 grubuna, Br atomu ise CH grubuna bağlanır. Sonuç olarak oluşan ana ürün 2-brompropan'dır (CH3-CHBr-CH3).",
+    "correctAnswer": 3,
+    "explanation": "Benzenin özellikleri:\nA) Yapısındaki tüm karbon atomları bir çift, iki tek bağ yaptığı için sp2 hibritleşmesi yapmıştır.\nB) Aromatik kararlılıktan dolayı alkenler gibi katılma tepkimesi vermez ve bromlu suyun rengini gidermez.\nC) Kararlı yapısından dolayı katılma değil, yer değiştirme (sübstitüsyon) tepkimelerine yatkındır.\nD) Benzendeki pi (π) bağları rezonans nedeniyle halka boyunca delokalizedir (yayılmıştır). Bu durum, tüm karbon-karbon bağlarının özdeş olmasını ve bağ uzunluklarının tek bağdan kısa, çift bağdan uzun olmasını sağlar. Bu ifade doğrudur.\nE) Benzen, sp2 hibritleşmesi yapmış karbon atomlarından dolayı altıgen ve düzlemsel bir molekül yapısına sahiptir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501322828_2",
+    "id": "ai_1764498618418_3",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "2-metil-2-bütanol bileşiğinin potasyum permanganat (KMnO4) gibi kuvvetli bir yükseltgen ile tepkimesi sonucu ne oluşur?",
+    "questionText": "Etanol (C₂H₅OH), Dimetil eter (CH₃OCH₃) ve Propan (C₃H₈) bileşiklerinin aynı dış basınç altında kaynama noktalarının büyükten küçüğe doğru sıralanışı aşağıdakilerden hangisidir?\n(Mol kütleleri: Etanol ≈ 46 g/mol, Dimetil eter ≈ 46 g/mol, Propan ≈ 44 g/mol)",
     "options": [
-      "2-metil-2-bütanon",
-      "2-metilbütanal",
-      "2-metilbütanoik asit",
-      "Penton",
-      "Tepkime gerçekleşmez"
+      "Propan > Dimetil eter > Etanol",
+      "Etanol > Propan > Dimetil eter",
+      "Dimetil eter > Etanol > Propan",
+      "Propan > Etanol > Dimetil eter",
+      "Etanol > Dimetil eter > Propan"
     ],
     "correctAnswer": 4,
-    "explanation": "Alkollerin yükseltgenme tepkimesi verebilmesi için hidroksil (-OH) grubunun bağlı olduğu karbon atomunda en az bir adet hidrojen atomu bulunmalıdır. 2-metil-2-bütanol, -OH grubunun bağlı olduğu karbon atomuna üç başka karbon grubunun bağlandığı bir tersiyer (üçüncül) alkoldür. Bu karbonda hidrojen atomu bulunmadığı için tersiyer alkoller yükseltgenme tepkimesi vermezler.",
+    "explanation": "Bileşiklerin kaynama noktaları, moleküller arası çekim kuvvetlerinin gücüne bağlıdır. Mol kütleleri birbirine çok yakın olan bu bileşiklerde, moleküller arası kuvvet türü belirleyicidir.\n1. **Etanol (C₂H₅OH):** Moleküllerinde bulunan -OH grubu sayesinde molekülleri arasında etkin hidrojen bağları kurabilir. Hidrojen bağları, en güçlü zayıf etkileşim türüdür.\n2. **Dimetil eter (CH₃OCH₃):** Polar bir moleküldür, ancak hidrojen bağı yapacak H atomu (F, O, N'ye bağlı H) içermez. Bu nedenle molekülleri arasında dipol-dipol etkileşimleri etkindir. Dipol-dipol etkileşimleri, hidrojen bağlarından daha zayıftır.\n3. **Propan (C₃H₈):** Apolar bir moleküldür. Molekülleri arasında yalnızca en zayıf olan London (indüklenmiş dipol) kuvvetleri etkindir.\nEtkileşim kuvvetlerinin gücü: Hidrojen Bağı > Dipol-Dipol > London Kuvvetleri. Bu nedenle kaynama noktası sıralaması: Etanol > Dimetil eter > Propan şeklindedir.",
     "difficulty": 3
   },
   {
@@ -272,38 +80,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501322828_4",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Asetik asit (etanoik asit) ile etanolün asit katalizörlüğünde tepkimesi sonucu oluşan esterin IUPAC adı nedir?",
-    "options": [
-      "Metil propanoat",
-      "Etil etanoat",
-      "Propil metanoat",
-      "Etil propanoat",
-      "Metil etanoat"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir esterleşme tepkimesidir. Karboksilik asit ile alkol tepkimeye girerek ester ve su oluşturur. Adlandırma yapılırken önce alkolden gelen alkil grubunun adı, sonra karboksilik asitten gelen ve sonuna '-oat' eki getirilen kısmın adı söylenir. Tepkimeye giren alkol etanol (2 karbonlu) olduğu için 'etil' kısmı, asit ise asetik asit (etanoik asit, 2 karbonlu) olduğu için 'etanoat' kısmı gelir. Oluşan esterin adı etil etanoat'tır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_5",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Benzen (C6H6) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Yapısındaki tüm karbon atomları sp3 hibritleşmesi yapmıştır.",
-      "Alkenler gibi bromlu suyun rengini kolayca giderir.",
-      "Kararlı yapısından dolayı katılma tepkimelerine daha yatkındır.",
-      "Yapısındaki tüm karbon-karbon bağları özdeştir ve uzunlukları tek bağ ile çift bağ arasındadır.",
-      "Doymamış bir hidrokarbon olduğu için düzlemsel yapıda değildir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Benzenin özellikleri:\nA) Yapısındaki tüm karbon atomları bir çift, iki tek bağ yaptığı için sp2 hibritleşmesi yapmıştır.\nB) Aromatik kararlılıktan dolayı alkenler gibi katılma tepkimesi vermez ve bromlu suyun rengini gidermez.\nC) Kararlı yapısından dolayı katılma değil, yer değiştirme (sübstitüsyon) tepkimelerine yatkındır.\nD) Benzendeki pi (π) bağları rezonans nedeniyle halka boyunca delokalizedir (yayılmıştır). Bu durum, tüm karbon-karbon bağlarının özdeş olmasını ve bağ uzunluklarının tek bağdan kısa, çift bağdan uzun olmasını sağlar. Bu ifade doğrudur.\nE) Benzen, sp2 hibritleşmesi yapmış karbon atomlarından dolayı altıgen ve düzlemsel bir molekül yapısına sahiptir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764519337330_0",
     "subjectId": "kim",
     "topic": "Organik Kimya",
@@ -320,6 +96,38 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764499998125_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşik çiftlerinden hangisi birbirinin fonksiyonel grup izomeri *değildir*?",
+    "options": [
+      "A) Propanal - Propanon",
+      "B) Etil alkol - Dimetil eter",
+      "C) 2-Pentanon - 3-Pentanon",
+      "D) Propanoik asit - Metil etanoat",
+      "E) 1-Bütin - 1,3-Bütadien"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fonksiyonel grup izomerleri, kapalı formülleri aynı ancak fonksiyonel grupları farklı olan bileşiklerdir. A, B, D ve E şıklarındaki çiftler bu tanıma uyar. Örneğin A şıkkında propanal (aldehit) ve propanon (keton) C3H6O kapalı formülüne sahiptir. Ancak C şıkkındaki 2-pentanon ve 3-pentanon, her ikisi de keton fonksiyonel grubuna sahiptir. Bu bileşiklerin kapalı formülleri (C5H10O) aynı olmasına rağmen, fonksiyonel grup olan karbonil grubunun ana zincirdeki yeri farklıdır. Bu nedenle bu iki bileşik birbirinin konum izomeridir, fonksiyonel grup izomeri değil.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520294760_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki reaksiyonlardan hangisi bir esterleşme tepkimesidir?",
+    "options": [
+      "Asidik bir bileşen ile alkali bir bileşen reaksiyona girer.",
+      "Bir asit ile alkol birleşir ve su açığa çıkar.",
+      "Bir alkol, bir keton ile reaksiyona girer.",
+      "Bir alken, halojen ile tepkime verir.",
+      "Bir alkol, bir aldehit ile oksitlenir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Esterleşme, bir asidin alkol ile reaksiyona girmesi sonucu ester ve su oluşumudur. Bu nedenle doğru cevap, asit ile alkolün birleşmesidir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764519337330_1",
     "subjectId": "kim",
     "topic": "Organik Kimya",
@@ -333,6 +141,198 @@
     ],
     "correctAnswer": 0,
     "explanation": "C2H6 + Cl2 → C2H5Cl + HCl reaksiyonu bir substitüsyon reaksiyonudur, burada alkandan bir hidrojen atomu, klor atomu ile yer değiştirir. Diğer reaksiyonlar farklı mekanizmaları temsil eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_3",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Fenol (C6H5OH) bileşiği ile ilgili aşağıdaki ifadelerden hangisi *yanlıştır*?",
+    "options": [
+      "A) Zayıf asit özelliği gösterir.",
+      "B) NaOH gibi kuvvetli bazlarla tepkimeye girer.",
+      "C) Benzen halkasına doğrudan bağlı -OH grubu içerir.",
+      "D) Yükseltgenerek benzoik asit oluşturur.",
+      "E) Suda çözünürlüğü benzeninkinden fazladır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A) Fenol, benzen halkasının rezonans etkisiyle -OH grubundaki hidrojeni kolayca iyonlaştırabildiği için zayıf asidik özellik gösterir. Doğru. B) Asidik karakterinden dolayı NaOH gibi kuvvetli bazlarla nötralleşme tepkimesi vererek sodyum fenoksit tuzunu ve suyu oluşturur. Doğru. C) Fenolün tanımı gereği, bir -OH grubu doğrudan benzen halkasına bağlıdır. Doğru. D) Fenol yükseltgenme tepkimeleri verebilir ancak bu tepkimelerle benzoik asit oluşmaz. Benzoik asit, toluenin (metilbenzen) yükseltgenmesiyle elde edilir. Bu ifade yanlıştır. E) Fenol, yapısındaki -OH grubu sayesinde su molekülleriyle hidrojen bağı kurabilir, bu nedenle apolar olan benzene göre suda daha iyi çözünür. Doğru.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520294760_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşenlerden hangisi alkanların genel formülüne uygun değildir?",
+    "options": [
+      "C4H10",
+      "C5H12",
+      "C6H14",
+      "C7H16",
+      "C8H18O"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Alkanların genel formülü CnH2n+2 şeklindedir. C8H18O bileşiği, alkol veya eter gibi bir fonksiyonel gruba sahip olduğu için alkan olarak kabul edilemez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498618418_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-Metil-1-büten bileşiğine HBr (Hidrojen bromür) katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
+    "options": [
+      "1-Bromo-2-metilbütan",
+      "2-Bromo-3-metilbütan",
+      "2-Bromo-2-metilbütan",
+      "1-Bromo-3-metilbütan",
+      "3-Bromo-2-metilbütan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre gerçekleşir. Markovnikov kuralı, H⁺ iyonunun çift bağ karbonlarından hidrojeni çok olana, halojen (Br⁻) iyonunun ise hidrojeni az olana (daha çok sübstitüe olmuş karbona) bağlanacağını belirtir.\n2-Metil-1-büten'in yapısı: CH₂=C(CH₃)-CH₂-CH₃\nÇift bağ karbonları C1 (CH₂) ve C2 (C)'dir.\n- C1'de 2 hidrojen, C2'de 0 hidrojen vardır.\n- Kurala göre H⁺, C1'e bağlanarak onu -CH₃ grubuna dönüştürür.\n- Br⁻ ise C2'ye bağlanır.\nSonuç olarak oluşan ana ürün: CH₃-C(Br)(CH₃)-CH₂-CH₃, yani 2-Bromo-2-metilbütan'dır. Bu, daha kararlı olan üçüncül (tersiyer) karbokatyon ara ürünü üzerinden ilerleyen bir mekanizmadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501322828_4",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Asetik asit (etanoik asit) ile etanolün asit katalizörlüğünde tepkimesi sonucu oluşan esterin IUPAC adı nedir?",
+    "options": [
+      "Metil propanoat",
+      "Etil etanoat",
+      "Propil metanoat",
+      "Etil propanoat",
+      "Metil etanoat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu bir esterleşme tepkimesidir. Karboksilik asit ile alkol tepkimeye girerek ester ve su oluşturur. Adlandırma yapılırken önce alkolden gelen alkil grubunun adı, sonra karboksilik asitten gelen ve sonuna '-oat' eki getirilen kısmın adı söylenir. Tepkimeye giren alkol etanol (2 karbonlu) olduğu için 'etil' kısmı, asit ise asetik asit (etanoik asit, 2 karbonlu) olduğu için 'etanoat' kısmı gelir. Oluşan esterin adı etil etanoat'tır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498618418_0",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşiklerden hangisi dietil eterin yapı izomeri *değildir*?",
+    "options": [
+      "1-Bütanol",
+      "Metil propil eter",
+      "2-Metil-2-propanol",
+      "2-Bütanon",
+      "2-Bütanol"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yapı izomerleri, kapalı formülleri aynı, açık yapıları farklı olan bileşiklerdir. İlk olarak dietil eterin (CH₃CH₂-O-CH₂CH₃) kapalı formülünü bulmalıyız: C₄H₁₀O. Şimdi şıklardaki bileşiklerin kapalı formüllerini inceleyelim:\nA) 1-Bütanol (CH₃CH₂CH₂CH₂OH): C₄H₁₀O\nB) Metil propil eter (CH₃-O-CH₂CH₂CH₃): C₄H₁₀O\nC) 2-Metil-2-propanol ((CH₃)₃COH): C₄H₁₀O\nD) 2-Bütanon (CH₃-CO-CH₂CH₃): C₄H₈O. Bu bileşiğin formülünde 2 hidrojen eksiktir.\nE) 2-Bütanol (CH₃CH(OH)CH₂CH₃): C₄H₁₀O\nKapalı formülü C₄H₈O olan 2-Bütanon, kapalı formülü C₄H₁₀O olan dietil eterin yapı izomeri değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Yapı formülü CH3-CH(CH3)-CH(OH)-CH2-CH3 olan bileşiğin IUPAC sistemine göre adı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 4-Metil-3-pentanol",
+      "B) 2-Metil-3-pentanol",
+      "C) 2-Etil-3-bütanol",
+      "D) 4-Metil-2-pentanol",
+      "E) 3-Hidroksi-2-metil pentan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "IUPAC adlandırması için şu adımlar izlenir: 1. Hidroksil (-OH) grubunu içeren en uzun karbon zinciri seçilir. Bu zincir 5 karbonludur (pentan). 2. Numaralandırmaya -OH grubunun yakın olduğu uçtan başlanır. Sağdan başlandığında -OH 3. karbonda, soldan başlandığında yine 3. karbondadır. 3. Bu eşitlik durumunda, dallanmanın (metil grubu) küçük numarayı alacağı yönden numaralandırma yapılır. Soldan başlanırsa metil grubu 2. karbona, sağdan başlanırsa 4. karbona denk gelir. Bu yüzden soldan numaralandırma tercih edilir. 4. Buna göre, 2. karbonda bir metil grubu ve 3. karbonda bir hidroksil grubu vardır. Bileşiğin adı 2-Metil-3-pentanol olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_4",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aldehitler ve ketonlarla ilgili olarak, aşağıdaki tepkimelerden hangisini sadece aldehitler verirken ketonlar vermez?",
+    "options": [
+      "A) NaBH4 ile indirgenme",
+      "B) Fehling ayıracı ile tepkime",
+      "C) HCN ile katılma tepkimesi",
+      "D) Grignard bileşikleri ile katılma",
+      "E) H2/Ni varlığında hidrojenasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aldehitler, karbonil karbonuna bağlı bir hidrojen atomu taşıdıkları için kolayca yükseltgenebilirler. Ketonlarda ise karbonil karbonuna iki alkil/aril grubu bağlıdır ve bu nedenle normal koşullarda yükseltgenmezler. Bu özellik, onları ayırt etmek için kullanılır. \n- Fehling ve Tollens ayıraçları zayıf yükseltgenlerdir ve sadece aldehitleri karboksilik asitlere yükseltgerler. Bu sırada Fehling ayıracı kırmızı renkli Cu2O çökeltisi, Tollens ayıracı ise gümüş aynası (Ag) oluşturur. Ketonlar bu ayıraçlarla tepkime vermez.\n- Diğer şıklardaki tepkimeler (indirgenme, HCN katılması, Grignard tepkimesi) hem aldehitlerin hem de ketonların verdiği ortak karbonil grubu tepkimeleridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-Metilpropen bileşiğine HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 1-Bromo-2-metilpropan",
+      "B) 2-Bromo-2-metilpropan",
+      "C) 1-Bromobütan",
+      "D) 2-Bromobütan",
+      "E) 2-Bromo-1-metilpropan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu tepkime, bir alkene asit katılmasıdır ve Markovnikov kuralına göre yürür. Markovnikov kuralı, H-X gibi polar bir molekülün asimetrik bir alkene katılırken, hidrojen atomunun (H+) ikili bağdaki karbonlardan hidrojence zengin olana, X grubunun (Br-) ise hidrojence fakir olana bağlanacağını belirtir. 2-metilpropen [(CH3)2C=CH2] yapısında, ikili bağın C1 karbonunda iki hidrojen, C2 karbonunda ise hiç hidrojen yoktur. Bu nedenle, H+ atomu C1'e bağlanarak -CH3 grubunu oluşturur ve karbokatyon C2'de oluşur. Ardından Br- iyonu bu karbokatyonun bulunduğu C2'ye bağlanır. Sonuç olarak ana ürün 2-Bromo-2-metilpropan'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520294760_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Aşağıdaki bileşiklerden hangisi bir karboksil asit değildir?",
+    "options": [
+      "HCOOH",
+      "CH3COOH",
+      "C2H5OH",
+      "C3H7COOH",
+      "C4H9COOH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C2H5OH, etanol olarak bilinen bir alkol bileşiktir ve karboksil asit değildir. Diğer seçenekler karboksil asitlerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499998125_5",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-Bütanol bileşiğinin uygun koşullarda yükseltgenmesi sonucu oluşan ürün ve sülfürik asit katalizörlüğünde ısıtılarak dehidrasyonu (su çekilmesi) sonucu oluşan ana ürün sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bütanal, 1-Büten",
+      "B) Bütanoik asit, 2-Büten",
+      "C) Bütanon, 2-Büten",
+      "D) Bütanon, 1-Büten",
+      "E) Bütanal, Siklobütan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1. Yükseltgenme: 2-Bütanol, bir sekonder alkoldür (OH grubunun bağlı olduğu karbon, iki başka karbona bağlıdır). Sekonder alkoller yükseltgendiğinde ketonları oluşturur. 2-Bütanolün yükseltgenmesiyle 2-Bütanon (veya sadece Bütanon) oluşur.\n\n2. Dehidrasyon: Alkollerden asit katalizörlüğünde su çekilmesiyle alkenler oluşur. Bu tepkime Zaitsev kuralına göre yürür. Zaitsev kuralına göre, -OH grubunun ayrıldığı karbona komşu olan karbonlardan hidrojeni az olandan hidrojen ayrılır ve daha kararlı (daha fazla sübstitüe olmuş) alken ana ürün olarak oluşur. 2-Bütanolde, C2'den -OH ayrılır. C1'de 3, C3'te 2 hidrojen vardır. Hidrojeni az olan C3'ten bir hidrojen ayrılmasıyla C2 ve C3 arasında çift bağ oluşur ve ana ürün olarak 2-Büten meydana gelir. (C1'den H ayrılmasıyla oluşan 1-Büten yan üründür).\n\nDolayısıyla, ürünler sırasıyla Bütanon ve 2-Büten'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501322828_2",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "2-metil-2-bütanol bileşiğinin potasyum permanganat (KMnO4) gibi kuvvetli bir yükseltgen ile tepkimesi sonucu ne oluşur?",
+    "options": [
+      "2-metil-2-bütanon",
+      "2-metilbütanal",
+      "2-metilbütanoik asit",
+      "Penton",
+      "Tepkime gerçekleşmez"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Alkollerin yükseltgenme tepkimesi verebilmesi için hidroksil (-OH) grubunun bağlı olduğu karbon atomunda en az bir adet hidrojen atomu bulunmalıdır. 2-metil-2-bütanol, -OH grubunun bağlı olduğu karbon atomuna üç başka karbon grubunun bağlandığı bir tersiyer (üçüncül) alkoldür. Bu karbonda hidrojen atomu bulunmadığı için tersiyer alkoller yükseltgenme tepkimesi vermezler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501322828_1",
+    "subjectId": "kim",
+    "topic": "Organik Kimya",
+    "questionText": "Propen bileşiğine Markovnikov kuralına göre HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
+    "options": [
+      "1-brompropan",
+      "2-brompropan",
+      "1,2-dibrompropan",
+      "Propan",
+      "2-brompropen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alkenlere hidrojen halojenür katılması Markovnikov kuralına göre gerçekleşir. Bu kurala göre, katılan moleküldeki pozitif kısım (H+), ikili bağ karbonlarından hidrojeni çok olana bağlanır. Negatif kısım (Br-) ise hidrojeni az olan ikili bağ karbonuna bağlanır. Propen (CH3-CH=CH2) bileşiğinde, H atomu CH2 grubuna, Br atomu ise CH grubuna bağlanır. Sonuç olarak oluşan ana ürün 2-brompropan'dır (CH3-CHBr-CH3).",
     "difficulty": 3
   }
 ]
