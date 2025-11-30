@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519356975_0",
+    "id": "ai_1764520314198_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
+    "questionText": "Hücre zarı, hangi özellikleri sayesinde hücre içi ve dışı arasında madde geçişini kontrol eder?",
     "options": [
-      "Besin maddelerini depolamak",
-      "Hücre içi organellerin üretimini sağlamak",
-      "Hücre içi ve dışı arasında madde geçişini kontrol etmek",
-      "Enerji üretimini gerçekleştirmek",
-      "Genetik bilgiyi taşımak"
+      "Seçici geçirgenlik",
+      "Biyosentez",
+      "Enerji üretimi",
+      "Protein sentezi",
+      "DNA replikasyonu"
     ],
-    "correctAnswer": 2,
-    "explanation": "Hücre zarı, hücrenin dış çevresi ile içi arasında seçici geçirgenlik sağlar ve bu sayede hücre içi ve dışı arasında madde geçişini kontrol eder.",
+    "correctAnswer": 0,
+    "explanation": "Hücre zarı, seçici geçirgenlik özelliği sayesinde belirli moleküllerin geçişine izin verirken, diğerlerinin geçişini engelleyerek hücre içi ortamın dengede kalmasını sağlar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519356975_1",
+    "id": "ai_1764520314198_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Aşağıdaki organellerden hangisi hücrenin enerji santrali olarak bilinir?",
+    "questionText": "Aşağıdakilerden hangisi hücre organellerinden biri değildir?",
     "options": [
       "Ribozom",
-      "Kloroplast",
       "Mitokondri",
-      "Golgi aygıtı",
-      "Endoplazmik retikulum"
+      "Kloroplast",
+      "Endoplazmik retikulum",
+      "Sitoz"
     ],
-    "correctAnswer": 2,
-    "explanation": "Mitokondri, hücre içinde enerji üretiminden sorumlu organeldir ve bu özelliği nedeniyle 'hücrenin enerji santrali' olarak adlandırılır.",
+    "correctAnswer": 4,
+    "explanation": "Ribozom, mitokondri, kloroplast ve endoplazmik retikulum hücre organelleridir. Sitoz ise, hücre içindeki sıvı kısmını ifade eder ve bir organel değildir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519356975_2",
+    "id": "ai_1764520314199_2",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre bölünmesi sırasında DNA'nın kopyalanması hangi aşamada gerçekleşir?",
+    "questionText": "Hücre bölünmesi sırasında hangi aşamada kromozomlar en belirgin hale gelir?",
     "options": [
+      "İnterfaz",
       "Profaz",
       "Metafaz",
       "Anafaz",
-      "Telofaz",
-      "Sentez fazı"
+      "Telofaz"
     ],
-    "correctAnswer": 4,
-    "explanation": "DNA'nın kopyalanması, hücre döngüsünün S (sentez) fazında gerçekleşir. Bu aşamada hücre, bölünmeden önce genetik materyalini çoğaltır.",
+    "correctAnswer": 1,
+    "explanation": "Hücre bölünmesi sırasında kromozomlar en belirgin hale profaz aşamasında gelir. Bu aşamada kromatin yoğunlaşarak kromozomları oluşturur ve mikrotübüller ile hücre merkezlerine doğru hareket eder.",
     "difficulty": 3
   }
 ]
