@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764500200762_0",
+    "id": "ai_1764501480375_0",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "İnsanın dolaşım sisteminde yer alan damarlarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "İnsan dolaşım sisteminde, sol karıncıktan pompalanan kanın sağ kulakçığa gelene kadar izlediği yolda aşağıdaki damarların hangisinden geçmesi beklenmez?",
     "options": [
-      "Atardamarların duvarları, toplardamarlara göre daha kalın ve elastik lifler bakımından daha zengindir.",
-      "Vücudun alt kısımlarındaki toplardamarlarda kanın geri akışını engelleyen tek yönlü kapakçıklar bulunur.",
-      "Kan akış hızının en yavaş olduğu damarlar, madde alışverişinin gerçekleştiği kılcal damarlardır.",
-      "Bir organa giren atardamar ile o organdan çıkan toplardamar arasındaki kanın alyuvar sayısı yaklaşık olarak aynıdır.",
-      "Vücuttaki toplam kan hacminin en büyük kısmı, yüksek basınç nedeniyle atardamarlarda depolanır."
+      "Aort atardamarı",
+      "Böbrek atardamarı",
+      "Akciğer atardamarı",
+      "Kapı toplardamarı",
+      "Alt ana toplardamar"
     ],
-    "correctAnswer": 4,
-    "explanation": "Vücuttaki toplam kan hacminin en büyük kısmı (%60-70 civarı) atardamarlarda değil, toplardamarlarda bulunur. Toplardamarların duvarları daha az elastik ve daha geniştir, bu da onların daha fazla kan depolamasına olanak tanır. Atardamarlar ise kanı yüksek basınçla taşıdıkları için duvarları kalındır ancak kanı depolama kapasiteleri toplardamarlara göre daha azdır. Diğer şıklar doğrudur: A) Atardamarlar yüksek basınca dayanıklı olmalıdır. B) Yerçekimine karşı kanın taşınmasına kapakçıklar yardım eder. C) Toplam kesit alanı en fazla olan kılcal damarlarda kan akışı yavaşlayarak madde alışverişine imkan tanır. D) Sağlıklı bir bireyde kan üretimi ve yıkımı dengede olduğu için, bir organdan geçen kanda alyuvar sayısı önemli ölçüde değişmez.",
+    "correctAnswer": 2,
+    "explanation": "Sol karıncıktan pompalanan temiz kan, büyük kan dolaşımına katılır. Bu dolaşım, kanın aort atardamarı ile tüm vücuda dağıtılmasıyla başlar. Kan, böbrek atardamarı gibi organ atardamarlarıyla organlara ulaşır. Sindirim organlarından gelen kan, kapı toplardamarı ile karaciğere uğradıktan sonra, vücudun alt kısımlarından gelen diğer kanla birlikte alt ana toplardamar aracılığıyla kalbin sağ kulakçığına döner. Akciğer atardamarı ise küçük kan dolaşımına aittir ve sağ karıncıktan pompalanan kirli kanı temizlenmesi için akciğerlere taşır. Dolayısıyla, büyük kan dolaşımı sırasında kan akciğer atardamarından geçmez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500200762_1",
+    "id": "ai_1764501480375_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Sağlıklı bir insanda, sol karıncıktan pompalanan ve oksijence zengin kanın, böbreklere ulaştıktan sonra tekrar sağ kulakçığa dönene kadar izlediği yolda aşağıdaki yapılardan hangisinden geçmesi beklenmez?",
+    "questionText": "İnsan kalbinin çalışmasını düzenleyen faktörlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Aort atardamarı",
-      "Böbrek toplardamarı",
-      "Akciğer atardamarı",
-      "Alt ana toplardamar",
-      "Böbrek kılcalları"
+      "Kandaki karbondioksit miktarının artması, kan pH'ını düşürerek omurilik soğanını uyarır ve kalp atışını hızlandırır.",
+      "Sempatik sinirlerden salgılanan noradrenalin, kalp atış hızını artıran bir etki gösterir.",
+      "Vücut sıcaklığının normalin üzerine çıkması, sinoatriyal düğümün uyarılmasını yavaşlatarak kalp atışını düşürür.",
+      "Parasempatik sinirlerden olan vagus sinirinden salgılanan asetilkolin, kalp atışını yavaşlatır.",
+      "Adrenalin ve tiroksin gibi hormonlar, metabolizmayı hızlandırarak kalbin çalışma hızını artırır."
     ],
     "correctAnswer": 2,
-    "explanation": "Bu soru, büyük kan dolaşımının (sistemik dolaşım) yolunu sormaktadır. Sol karıncıktan pompalanan kan şu yolu izler: Sol karıncık → Aort atardamarı → Böbrek atardamarı → Böbrek kılcalları → Böbrek toplardamarı → Alt ana toplardamar → Sağ kulakçık. Bu yolculuk sırasında kan, vücut dokularını (bu örnekte böbrekleri) dolaşır ve oksijenini bırakıp karbondioksit alır. Akciğer atardamarı ise küçük kan dolaşımının (pulmoner dolaşım) bir parçasıdır. Küçük kan dolaşımı, sağ karıncıktan başlar, kirli kanı akciğer atardamarı ile akciğerlere taşır, kanın temizlenmesini sağlar ve akciğer toplardamarı ile temiz kanı sol kulakçığa geri getirir. Dolayısıyla, sol karıncıktan başlayıp sağ kulakçıkta biten büyük dolaşım sırasında kan akciğer atardamarından geçmez.",
+    "explanation": "Kalp atış hızı, otonom sinir sistemi ve hormonal faktörler tarafından kontrol edilir. Vücut sıcaklığının yükselmesi (ateş gibi durumlarda), metabolizmayı ve sinirsel iletimi hızlandırır. Bu durum, kalbin pacemaker'ı olan sinoatriyal (SA) düğümün daha sık uyarılmasına neden olarak kalp atış hızını artırır, yavaşlatmaz. Diğer seçenekler doğrudur: Yüksek CO2 (düşük pH) kalp atışını hızlandırır. Sempatik sistem (noradrenalin ile) 'savaş ya da kaç' tepkisiyle kalbi hızlandırır. Parasempatik sistem (asetilkolin ile) ise 'dinlen ve sindir' durumuyla kalbi yavaşlatır. Adrenalin ve tiroksin hormonları da metabolizmayı ve dolayısıyla kalp atışını hızlandırır.",
     "difficulty": 3
   }
 ]
