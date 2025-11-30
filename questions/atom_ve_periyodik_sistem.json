@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764519294727_0",
+    "id": "ai_1764520247217_0",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
     "questionText": "Bir atomun çekirdeğinde bulunan proton sayısı, atomun hangi özelliğini belirler?",
     "options": [
-      "Atom numarası",
-      "Kütle numarası",
-      "İzotop sayısı",
-      "Elektron sayısı",
-      "Periyodik grup"
+      "Atom numarasını",
+      "Kütle numarasını",
+      "İzopeptit sayısını",
+      "Elektron sayısını",
+      "Valans elektron sayısını"
     ],
     "correctAnswer": 0,
-    "explanation": "Proton sayısı, atomun atom numarasını belirler. Atom numarası, elementin kimliğini belirleyen en önemli özelliklerden biridir ve periyodik tabloda elementlerin sıralanmasında kullanılır.",
+    "explanation": "Atom numarası, bir atomun çekirdeğindeki proton sayısını ifade eder. Atom numarası, elementin kimyasal özelliklerini belirleyen temel bir özelliktir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520247217_1",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "Periyodik tabloda elementler, hangi kritere göre sıralanmıştır?",
+    "options": [
+      "Kütle numarasına göre",
+      "Atom numarasına göre",
+      "Elektron sayısına göre",
+      "İzopeptit sayısına göre",
+      "Valans elektron sayısına göre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Periyodik tabloda elementler, artan atom numarasına göre sıralanmıştır. Bu sıralama, elementlerin kimyasal özelliklerini anlamak için önemlidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520247217_2",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "Aşağıdaki elementlerden hangisi soy gazdır?",
+    "options": [
+      "Helyum",
+      "Klor",
+      "Sodyum",
+      "Karbon",
+      "Oksijen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Helyum, periyodik tabloda bulunan bir soy gazdır. Soy gazlar, genellikle reaktif olmayan ve tek başlarına bulunabilen gazlardır.",
     "difficulty": 3
   }
 ]
