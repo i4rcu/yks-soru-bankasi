@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501369437_0",
+    "id": "ai_1764519356975_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Prokaryot ve ökaryot hücreler, yaşamsal faaliyetlerini sürdürebilmek için çeşitli yapılara sahiptir. Bu iki hücre tipi arasındaki temel farklardan biri, zarla çevrili organellerin varlığı veya yokluğudur. Buna göre, aşağıdakilerden hangisi hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunan bir yapıdır?",
+    "questionText": "Hücre zarının temel işlevlerinden biri aşağıdakilerden hangisidir?",
     "options": [
-      "Mitokondri",
-      "Golgi cisimciği",
-      "Lizozom",
-      "Ribozom",
-      "Endoplazmik retikulum"
+      "Besin maddelerini depolamak",
+      "Hücre içi organellerin üretimini sağlamak",
+      "Hücre içi ve dışı arasında madde geçişini kontrol etmek",
+      "Enerji üretimini gerçekleştirmek",
+      "Genetik bilgiyi taşımak"
     ],
-    "correctAnswer": 3,
-    "explanation": "Prokaryot hücreler, zarla çevrili organellere (mitokondri, golgi, lizozom, endoplazmik retikulum vb.) ve çekirdeğe sahip değildir. Ökaryot hücreler ise bu yapılara sahiptir. Ancak, protein sentezinin gerçekleştiği ribozomlar zarsız yapılardır ve bu nedenle hem prokaryot hem de ökaryot hücrelerde ortak olarak bulunur. Ribozom, bu özelliğiyle evrensel bir organel olarak kabul edilir. Diğer şıklarda verilen organeller ise sadece ökaryot hücrelerde bulunan zarlı organellerdir.",
+    "correctAnswer": 2,
+    "explanation": "Hücre zarı, hücrenin dış çevresi ile içi arasında seçici geçirgenlik sağlar ve bu sayede hücre içi ve dışı arasında madde geçişini kontrol eder.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501369437_1",
+    "id": "ai_1764519356975_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Hücre zarından madde geçişleriyle ilgili olarak, aktif taşıma mekanizması için aşağıdakilerden hangisi söylenemez?",
+    "questionText": "Aşağıdaki organellerden hangisi hücrenin enerji santrali olarak bilinir?",
     "options": [
-      "Madde geçişi az yoğun ortamdan çok yoğun ortama doğru gerçekleşir.",
-      "Taşıyıcı proteinler ve enzimler görev yapar.",
-      "Sadece canlı hücrelerde gözlemlenir.",
-      "Gerçekleşmesi için ATP enerjisi harcanır.",
-      "Hücredeki yoğunluk farkını ortadan kaldırarak dengeyi sağlar."
+      "Ribozom",
+      "Kloroplast",
+      "Mitokondri",
+      "Golgi aygıtı",
+      "Endoplazmik retikulum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mitokondri, hücre içinde enerji üretiminden sorumlu organeldir ve bu özelliği nedeniyle 'hücrenin enerji santrali' olarak adlandırılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519356975_2",
+    "subjectId": "biy",
+    "topic": "Hücre",
+    "questionText": "Hücre bölünmesi sırasında DNA'nın kopyalanması hangi aşamada gerçekleşir?",
+    "options": [
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "Sentez fazı"
     ],
     "correctAnswer": 4,
-    "explanation": "Aktif taşıma, maddelerin derişimlerinin (yoğunluklarının) az olduğu ortamdan çok olduğu ortama doğru, yani derişim gradyanının tersine taşınmasıdır. Bu işlem için metabolik enerji (ATP) harcanır ve taşıyıcı proteinler ile enzimler görev alır. Enerji gerektirdiği için sadece canlı hücrelerde gerçekleşebilir. Aktif taşımanın amacı, hücre içi ve dışı arasındaki yoğunluk farkını korumak veya artırmaktır; yoğunluk farkını ortadan kaldırarak denge durumunu (izotonik ortam) sağlayan mekanizma ise pasif taşıma (örneğin, difüzyon) yöntemleridir. Bu nedenle E şıkkındaki ifade aktif taşıma için yanlıştır.",
+    "explanation": "DNA'nın kopyalanması, hücre döngüsünün S (sentez) fazında gerçekleşir. Bu aşamada hücre, bölünmeden önce genetik materyalini çoğaltır.",
     "difficulty": 3
   }
 ]
