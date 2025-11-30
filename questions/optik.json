@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519275674_0",
+    "id": "ai_1764520224011_0",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliklerine bağlıdır?",
+    "questionText": "Bir merceğin odak uzaklığı 10 cm'dir. Bu mercek hangi tip mercektir?",
     "options": [
-      "Merceğin kalınlığı",
-      "Merceğin şekli",
-      "Işık kaynağının rengi",
-      "Merceğin malzemesi",
-      "Tüm seçenekler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir merceğin odak noktası, merceğin kalınlığı, şekli ve malzemesi gibi faktörlere bağlıdır. Bu nedenle doğru cevap 'Tüm seçenekler' seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519275674_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demeti, bir prizma üzerinden geçerken ne olur?",
-    "options": [
-      "Kırılmaz",
-      "Kırılır ve dağılır",
-      "Dikey olarak yansır",
-      "Dikey olarak kırılır",
-      "Yansıma gerçekleşmez"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık demeti bir prizma üzerinden geçtiğinde, farklı dalga boyları farklı açılarda kırılır ve bu da demetin dağılmasına neden olur. Doğru cevap 'Kırılır ve dağılır' seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519275674_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi durumda bir mercek, paralel gelen ışınları bir noktada toplar?",
-    "options": [
-      "Diverjan mercek kullanıldığında",
-      "Küresel mercek kullanıldığında",
-      "Konverjan mercek kullanıldığında",
-      "Dikey mercek kullanıldığında",
-      "Hiçbiri"
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Konveks mercek",
+      "Konkav mercek",
+      "Silindirik mercek"
     ],
     "correctAnswer": 2,
-    "explanation": "Konverjan mercek, paralel gelen ışınları bir odak noktasında toplar. Bu nedenle doğru cevap 'Konverjan mercek kullanıldığında' seçeneğidir.",
+    "explanation": "Odak uzaklığı pozitif olan mercekler konveks merceklerdir. Dışbükey (konkav) merceklerin odak uzaklığı negatiftir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520224011_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, suyun içinden havaya geçerken ne tür bir kırılma yaşar?",
+    "options": [
+      "Tam yansıma",
+      "Işık hızı artışı",
+      "Işık hızı azalışı",
+      "Kırılma",
+      "Yansıma"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık, daha yoğun bir ortamdan (su) daha az yoğun bir ortama (hava) geçerken kırılır ve bu durumda ışığın hızı artar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520224011_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "İnterferans",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
     "difficulty": 3
   }
 ]
