@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519291136_0",
+    "id": "ai_1764520235336_0",
     "subjectId": "fiz",
     "topic": "Modern Fizik",
-    "questionText": "Bir elektron bir elektrik alanında hareket ederken hangi özellikleri göz önünde bulundurulmalıdır?",
+    "questionText": "Bir elektron, bir elektrik alanı içerisinde hızlanırken hangi fiziksel büyüklüğün korunumu geçerlidir?",
     "options": [
-      "Yalnızca kütlesi",
-      "Yalnızca yükü",
-      "Hız ve yönü",
-      "Kütlesi ve yükü",
-      "Yükü ve enerji seviyesi"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Elektron gibi yüklü parçacıkların hareketi, hem kütlesine hem de yüküne bağlıdır. Elektrik alanında, yükü nedeniyle kuvvet etkisi altında kalırken, kütlesi nedeniyle de ivme kazanır. Bu nedenle kütlesi ve yükü dikkate alınmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519291136_1",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Kütle-enerji eşitliği E=mc² ifadesinde, c'nin değeri nedir?",
-    "options": [
-      "Işık hızıdır",
-      "Ses hızıdır",
-      "Ağır parçacık hızıdır",
-      "Maddenin ortalama hızıdır",
-      "Hidrodinamik hızdır"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kütle-enerji eşitliği E=mc² ifadesinde c, boşluktaki ışık hızını temsil eder. Bu hız, yaklaşık 3 x 10^8 m/s'dir ve enerji ile kütle arasındaki ilişkiyi tanımlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519291136_2",
-    "subjectId": "fiz",
-    "topic": "Modern Fizik",
-    "questionText": "Bir fotonun enerjisi hangi formülle hesaplanır?",
-    "options": [
-      "E=mv²",
-      "E=hf",
-      "E=mc²",
-      "E=qV",
-      "E=F.d"
+      "Enerji",
+      "Momentum",
+      "Kütle",
+      "Yük",
+      "Hız"
     ],
     "correctAnswer": 1,
-    "explanation": "Bir fotonun enerjisi, E=hf formülü ile hesaplanır. Burada h Planck sabiti ve f fotonun frekansıdır. Bu formül, fotonların enerjisini tanımlamak için kullanılır.",
+    "explanation": "Elektron gibi yüklü parçacıklar, elektrik alanında hareket ederken enerji ve momentum korunumu geçerlidir. Elektrik alanına giren bir elektron, potansiyel enerji kazanır ve bu enerji kinetik enerjiye dönüşür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520235336_1",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Einstein'ın özel görelilik teorisine göre, ışık hızına yaklaşan bir cismin hangi özelliği gözlemlenen bir gözlemciye göre değişir?",
+    "options": [
+      "Kütlesi",
+      "Zamanı",
+      "Hızı",
+      "Enerjisi",
+      "Yükü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Özel görelilik teorisine göre, bir cismin ışık hızına yaklaşması durumunda zaman genişlemesi gözlemlenir. Bu, hareketli bir cismin zamanının, durgun bir gözlemciye göre daha yavaş geçtiği anlamına gelir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520235336_2",
+    "subjectId": "fiz",
+    "topic": "Modern Fizik",
+    "questionText": "Kütle-enerji eşitliğini ifade eden formül hangisidir?",
+    "options": [
+      "E = mc^2",
+      "E = mv^2",
+      "E = mgh",
+      "E = Fd",
+      "E = pV"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kütle-enerji eşitliği, Einstein tarafından geliştirilen E = mc^2 formülü ile ifade edilir. Bu formülde E enerji, m kütle ve c ışık hızıdır. Bu eşitlik, kütle ve enerjinin birbirine dönüştürülebilir olduğunu gösterir.",
     "difficulty": 3
   }
 ]
