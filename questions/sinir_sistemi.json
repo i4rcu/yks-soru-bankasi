@@ -1,117 +1,5 @@
 [
   {
-    "id": "ai_1764520349823_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
-    "options": [
-      "Otonom sinir sistemi",
-      "Somatik sinir sistemi",
-      "Merkezi sinir sistemi",
-      "Periferik sinir sistemi",
-      "Duyusal sinir sistemi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520349824_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Refleks arc'inin temel işlevi nedir?",
-    "options": [
-      "Hormon üretmek",
-      "Duyusal bilgiyi işlemek",
-      "İstemli hareketleri başlatmak",
-      "Hızlı yanıt vermek",
-      "Duyusal algıları artırmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520349824_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
-    "options": [
-      "Dendrit",
-      "Akson",
-      "Soma",
-      "Sinaps",
-      "Nükleoz"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Aksiyon potansiyelinin repolarizasyon evresinde, zar potansiyelinin tekrar negatif değerlere dönmesinden temel olarak sorumlu olan iyon hareketi aşağıdakilerden hangisidir?",
-    "options": [
-      "Na+ iyonlarının hücre içine girmesi (influks)",
-      "K+ iyonlarının hücre dışına çıkması (efluks)",
-      "Ca2+ iyonlarının hücre içine girmesi (influks)",
-      "Voltaj kapılı Na+ kanallarının aktifleşmesi",
-      "Cl- iyonlarının hücre içine girmesi (influks)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Repolarizasyon, hücre zarının yeniden kutuplaşarak dinlenme potansiyeline dönmesidir. Bu evrede, voltaj kapılı Na+ kanalları inaktif duruma geçerken, voltaj kapılı K+ kanalları açılır. Bu durum, K+ iyonlarının derişim gradyanına uygun olarak hücre dışına çıkmasına (efluks) neden olur. Pozitif yüklü iyonların (K+) hücre dışına çıkması, hücre içinin tekrar negatif hale gelmesini sağlar ve zar potansiyelini dinlenme potansiyeline yaklaştırır. Na+ girişi depolarizasyonda, Ca2+ girişi ise genellikle sinaptik iletimde rol oynar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Alkolün etkisi altındayken bir kişinin denge kurmakta zorlanması, yürümede güçlük çekmesi ve hareketlerini koordine edememesi, alkolün öncelikli olarak beynin hangi bölümünü etkilediğini gösterir?",
-    "options": [
-      "Omurilik soğanı",
-      "Uç beyin (Serebrum)",
-      "Hipotalamus",
-      "Talamus",
-      "Beyincik (Serebellum)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Beyincik (serebellum), vücudun denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde gerçekleşmesini sağlar. Alkol, beyinciğin fonksiyonlarını baskılayarak denge kaybı, yürüme bozuklukları (ataksi) ve ince motor becerilerinde bozulma gibi semptomlara yol açar. Soruda tarif edilen belirtiler, doğrudan beyinciğin görevleriyle ilgilidir. Diğer şıklar ise farklı fonksiyonlardan sorumludur (Omurilik soğanı: Hayati refleksler, Hipotalamus: Homeostazi, Talamus: Duyu merkezi, Uç beyin: İstemli hareketler ve bilinç).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498792328_2",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
-    "options": [
-      "Miyelin kılıfın varlığı",
-      "Akson çapının genişliği",
-      "Ranvier boğum sayısı",
-      "Uyarının şiddeti",
-      "Sıcaklık"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500179499_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda miyelin kılıf bulunması, impuls iletimi sırasında aşağıdaki olaylardan hangisine neden olmaz?",
-    "options": [
-      "İmpuls iletim hızının artması",
-      "Sodyum-potasyum pompasının daha az çalışması nedeniyle enerji tasarrufu sağlanması",
-      "Aksiyon potansiyelinin sadece Ranvier boğumlarında oluşması",
-      "Uyartının şiddetinin akson boyunca artarak ilerlemesi",
-      "İmpulsun bir boğumdan diğerine atlayarak iletilmesi (saltatorik iletim)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sinir hücrelerinde impuls iletimi \"hep ya da hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöron eşik değerde veya üzerinde bir uyarı aldığında her zaman aynı şiddette ve hızda bir aksiyon potansiyeli oluşturur. Uyartının şiddeti, impulsun şiddetini (amplitüdünü) değil, sıklığını (frekansını) etkiler. Miyelin kılıf, impulsun Ranvier boğumlarında atlayarak (saltatorik) iletilmesini sağlar, bu da hızı artırır ve sadece boğumlarda iyon değişimi olduğu için enerji tasarrufu sağlar. Ancak miyelin kılıf, impulsun şiddetini akson boyunca artırmaz, şiddet sabit kalır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764500179499_1",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -125,54 +13,6 @@
     ],
     "correctAnswer": 4,
     "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501455383_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
-    "options": [
-      "Aksiyon potansiyelinin şiddetinin artması",
-      "İmpuls iletim hızının artması",
-      "İmpuls iletimi için harcanan ATP miktarının artması",
-      "Uyarılma için gerekli eşik değerinin düşmesi",
-      "Repolarizasyon süresinin kısalması"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501455383_1",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
-    "options": [
-      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
-      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
-      "Acı ve sıcaklık gibi duyuların algılanamaması",
-      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
-      "Konuşulanları anlama fakat konuşarak cevap verememe"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519384777_0",
-    "subjectId": "biy",
-    "topic": "Sinir Sistemi",
-    "questionText": "Sinir sisteminin temel birimi nedir?",
-    "options": [
-      "Nöron",
-      "Glial hücre",
-      "Sinaps",
-      "Akson",
-      "Dendrit"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinir sisteminin temel işlevsel birimi nörondur. Nöronlar elektriksel sinyalleri iletmek ve bilgi işlemek için özelleşmiştir.",
     "difficulty": 3
   },
   {
@@ -192,6 +32,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764520349824_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Aşağıdakilerden hangisi sinir hücresinin temel bileşenlerinden biri değildir?",
+    "options": [
+      "Dendrit",
+      "Akson",
+      "Soma",
+      "Sinaps",
+      "Nükleoz"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dendrit, akson ve soma sinir hücresinin temel bileşenleridir. Sinaps, iki sinir hücresi arasında iletişimi sağlayan bölgedir, nükleoz ise hücre çekirdeğinde bulunan bir bileşendir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764519384777_2",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
@@ -205,6 +61,150 @@
     ],
     "correctAnswer": 0,
     "explanation": "Merkezi sinir sistemi, beyin ve omurilikten oluşur. Bu yapı, vücutta bilgi işleme ve yönlendirme görevlerini üstlenir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519384777_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin temel birimi nedir?",
+    "options": [
+      "Nöron",
+      "Glial hücre",
+      "Sinaps",
+      "Akson",
+      "Dendrit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinir sisteminin temel işlevsel birimi nörondur. Nöronlar elektriksel sinyalleri iletmek ve bilgi işlemek için özelleşmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520349824_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Refleks arc'inin temel işlevi nedir?",
+    "options": [
+      "Hormon üretmek",
+      "Duyusal bilgiyi işlemek",
+      "İstemli hareketleri başlatmak",
+      "Hızlı yanıt vermek",
+      "Duyusal algıları artırmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Refleks arc'inin temel işlevi, çevresel uyarıcılara karşı hızlı ve otomatik yanıtlar vermektir. Bu, sinir sisteminin hızlı tepki vermesine olanak sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500179499_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronda miyelin kılıf bulunması, impuls iletimi sırasında aşağıdaki olaylardan hangisine neden olmaz?",
+    "options": [
+      "İmpuls iletim hızının artması",
+      "Sodyum-potasyum pompasının daha az çalışması nedeniyle enerji tasarrufu sağlanması",
+      "Aksiyon potansiyelinin sadece Ranvier boğumlarında oluşması",
+      "Uyartının şiddetinin akson boyunca artarak ilerlemesi",
+      "İmpulsun bir boğumdan diğerine atlayarak iletilmesi (saltatorik iletim)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sinir hücrelerinde impuls iletimi \"hep ya da hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöron eşik değerde veya üzerinde bir uyarı aldığında her zaman aynı şiddette ve hızda bir aksiyon potansiyeli oluşturur. Uyartının şiddeti, impulsun şiddetini (amplitüdünü) değil, sıklığını (frekansını) etkiler. Miyelin kılıf, impulsun Ranvier boğumlarında atlayarak (saltatorik) iletilmesini sağlar, bu da hızı artırır ve sadece boğumlarda iyon değişimi olduğu için enerji tasarrufu sağlar. Ancak miyelin kılıf, impulsun şiddetini akson boyunca artırmaz, şiddet sabit kalır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520349823_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Sinir sisteminin hangi kısmı, vücudun istemli hareketlerini kontrol eder?",
+    "options": [
+      "Otonom sinir sistemi",
+      "Somatik sinir sistemi",
+      "Merkezi sinir sistemi",
+      "Periferik sinir sistemi",
+      "Duyusal sinir sistemi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Somatik sinir sistemi, istemli hareketleri kontrol eden sinir sistemi kısmıdır. İstemli hareketler, kasların kasılmasını sağlayarak gerçekleştirilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498792328_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Alkolün etkisi altındayken bir kişinin denge kurmakta zorlanması, yürümede güçlük çekmesi ve hareketlerini koordine edememesi, alkolün öncelikli olarak beynin hangi bölümünü etkilediğini gösterir?",
+    "options": [
+      "Omurilik soğanı",
+      "Uç beyin (Serebrum)",
+      "Hipotalamus",
+      "Talamus",
+      "Beyincik (Serebellum)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Beyincik (serebellum), vücudun denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde gerçekleşmesini sağlar. Alkol, beyinciğin fonksiyonlarını baskılayarak denge kaybı, yürüme bozuklukları (ataksi) ve ince motor becerilerinde bozulma gibi semptomlara yol açar. Soruda tarif edilen belirtiler, doğrudan beyinciğin görevleriyle ilgilidir. Diğer şıklar ise farklı fonksiyonlardan sorumludur (Omurilik soğanı: Hayati refleksler, Hipotalamus: Homeostazi, Talamus: Duyu merkezi, Uç beyin: İstemli hareketler ve bilinç).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501455383_1",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "options": [
+      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
+      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
+      "Acı ve sıcaklık gibi duyuların algılanamaması",
+      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
+      "Konuşulanları anlama fakat konuşarak cevap verememe"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498792328_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Aksiyon potansiyelinin repolarizasyon evresinde, zar potansiyelinin tekrar negatif değerlere dönmesinden temel olarak sorumlu olan iyon hareketi aşağıdakilerden hangisidir?",
+    "options": [
+      "Na+ iyonlarının hücre içine girmesi (influks)",
+      "K+ iyonlarının hücre dışına çıkması (efluks)",
+      "Ca2+ iyonlarının hücre içine girmesi (influks)",
+      "Voltaj kapılı Na+ kanallarının aktifleşmesi",
+      "Cl- iyonlarının hücre içine girmesi (influks)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Repolarizasyon, hücre zarının yeniden kutuplaşarak dinlenme potansiyeline dönmesidir. Bu evrede, voltaj kapılı Na+ kanalları inaktif duruma geçerken, voltaj kapılı K+ kanalları açılır. Bu durum, K+ iyonlarının derişim gradyanına uygun olarak hücre dışına çıkmasına (efluks) neden olur. Pozitif yüklü iyonların (K+) hücre dışına çıkması, hücre içinin tekrar negatif hale gelmesini sağlar ve zar potansiyelini dinlenme potansiyeline yaklaştırır. Na+ girişi depolarizasyonda, Ca2+ girişi ise genellikle sinaptik iletimde rol oynar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498792328_2",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Bir nöronda impuls iletim hızı, aşağıdaki faktörlerden hangisine bağlı olarak **değişmez**?",
+    "options": [
+      "Miyelin kılıfın varlığı",
+      "Akson çapının genişliği",
+      "Ranvier boğum sayısı",
+      "Uyarının şiddeti",
+      "Sıcaklık"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nöronlarda impuls iletimi \"ya hep ya hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöronun uyarılabilmesi için uyarının en azından eşik değerde olması gerekir. Uyarı eşik değeri aştıktan sonra, şiddetinin daha da artması aksiyon potansiyelinin hızını veya büyüklüğünü değiştirmez; sadece birim zamandaki impuls sayısını (frekansını) artırır. Miyelin kılıf varlığı ve akson çapının artması hızı artırır. Ranvier boğum sayısı ve sıcaklık gibi faktörler de iletim hızını etkiler. Ancak uyarının şiddeti, eşik değer aşıldıktan sonra hızı etkilemez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501455383_0",
+    "subjectId": "biy",
+    "topic": "Sinir Sistemi",
+    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
+    "options": [
+      "Aksiyon potansiyelinin şiddetinin artması",
+      "İmpuls iletim hızının artması",
+      "İmpuls iletimi için harcanan ATP miktarının artması",
+      "Uyarılma için gerekli eşik değerinin düşmesi",
+      "Repolarizasyon süresinin kısalması"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
     "difficulty": 3
   }
 ]
