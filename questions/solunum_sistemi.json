@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501512467_0",
+    "id": "ai_1764519405524_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Egzersiz yapan bir bireyin kas dokusu kılcallarında, kanda bulunan hemoglobinin oksijene olan ilgisinin (afinitesinin) azalarak oksijeni dokuya daha kolay bırakmasını sağlayan \"Bohr Etkisi\" ile ilgili olarak, aşağıdaki faktörlerden hangisinin bu etkiye doğrudan katkısı **en azdır**?",
+    "questionText": "İnsanlarda solunum sırasında oksijenin akciğerlerden kana geçişi hangi yapı aracılığıyla gerçekleşir?",
     "options": [
-      "Kandaki karbondioksit parsiyel basıncının artması",
-      "Kan plazmasındaki bikarbonat iyonu (HCO₃⁻) derişiminin artması",
-      "Kan pH değerinin düşmesi (asitliğin artması)",
-      "Kas dokusunun sıcaklığının artması",
-      "Kandaki oksijen parsiyel basıncının düşmesi"
+      "Bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Yutak",
+      "Gırtlak"
     ],
-    "correctAnswer": 4,
-    "explanation": "Bohr etkisi, hemoglobinin oksijen doygunluğunun, ortamdaki karbondioksit konsantrasyonu ve buna bağlı pH değişikliğinden etkilenmesidir. Egzersiz sırasında artan metabolik aktivite sonucu kas dokusunda CO₂ üretimi artar. Artan CO₂, H₂O ile birleşerek karbonik asit (H₂CO₃) oluşturur, bu da H⁺ ve bikarbonat (HCO₃⁻) iyonlarına ayrışır. Ortamdaki H⁺ iyonlarının artması pH'ı düşürür (asitliği artırır). Düşük pH ve yüksek CO₂ konsantrasyonu, hemoglobinin yapısını değiştirerek oksijene olan ilgisini azaltır ve oksijenin dokulara salınımını kolaylaştırır. Ayrıca artan kas aktivitesi sıcaklığı da yükseltir ve bu durum da hemoglobinin oksijeni bırakma eğilimini artırır. Ancak kandaki oksijen parsiyel basıncının düşmesi, Bohr etkisinin bir nedeni değil, hemoglobinin oksijeni dokuya bırakmasının bir sonucudur. Oksijen basıncının dokularda düşük olması zaten difüzyonun temel sebebidir, ancak hemoglobinin afinitesini doğrudan değiştiren ana faktörlerden (Bohr etkisi kapsamında) biri değildir.",
+    "correctAnswer": 1,
+    "explanation": "Oksijen, alveoller aracılığıyla akciğerlerden kana geçer. Alveoller, gaz alışverişinin gerçekleştiği hava kesecikleridir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501512467_1",
+    "id": "ai_1764519405524_1",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "İnsanlarda solunum hızının düzenlenmesinde görevli olan omurilik soğanı ve ponstaki solunum merkezlerinin uyarılmasında en etkili ve birincil kimyasal faktör aşağıdakilerden hangisidir?",
+    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
     "options": [
-      "Kandaki oksijen konsantrasyonunun kritik seviyenin altına düşmesi",
-      "Kan ve beyin-omurilik sıvısındaki (BOS) karbondioksit miktarının artması",
-      "Akciğerlerdeki alveollerin aşırı gerilmesiyle oluşan sinirsel uyarılar",
-      "Kandaki adrenalin hormonunun seviyesindeki artış",
-      "Kan plazmasındaki laktik asit miktarının artması"
+      "Üst solunum yolu - Alt solunum yolu",
+      "Akciğerler - Kalp",
+      "Bronşlar - Trakea",
+      "Yutak - Gırtlak",
+      "Alveoller - Bronşlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi, üst solunum yolu (burnu, yutak ve gırtlak) ve alt solunum yolu (trakea ve akciğerler) olmak üzere iki ana bölümden oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519405524_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi gaz, solunum sırasında vücut hücrelerine oksijen sağlarken, aynı zamanda karbondioksitin atılmasını sağlar?",
+    "options": [
+      "Azot",
+      "Oksijen",
+      "Karbonmonoksit",
+      "Hidrojen",
+      "Karbondioksit"
     ],
     "correctAnswer": 1,
-    "explanation": "Solunum hızının düzenlenmesindeki en önemli ve birincil faktör, kan ve özellikle beyin-omurilik sıvısındaki (BOS) karbondioksit seviyesidir. Kandaki CO₂ seviyesi arttığında, CO₂ kan-beyin bariyerini kolayca geçerek BOS'a ulaşır. Burada su ile reaksiyona girerek karbonik asit oluşturur ve bu da H⁺ iyonu konsantrasyonunu artırarak BOS'un pH'ını düşürür. Omurilik soğanında bulunan merkezi kemoreseptörler, BOS'taki bu pH düşüşüne karşı çok hassastır ve solunum merkezlerini güçlü bir şekilde uyararak soluk alıp vermeyi hızlandırır. Kandaki oksijen seviyesinin düşmesi (hipoksi) ise daha çok aort ve şah damarındaki periferik kemoreseptörleri uyarır ve bu, CO₂'ye kıyasla ikincil ve daha az etkili bir uyarıcıdır. Adrenalin ve laktik asit solunumu hızlandırsa da birincil düzenleyici CO₂ ve buna bağlı pH değişimidir.",
+    "explanation": "Oksijen, solunum sürecinde önemli bir gazdır. Vücut hücrelerine enerji üretiminde gerekli olan oksijen sağlarken, karbondioksit atılmasını sağlar.",
     "difficulty": 3
   }
 ]
