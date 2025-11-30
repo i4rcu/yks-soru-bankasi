@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764498693499_0",
+    "id": "ai_1764500061240_0",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Aşağıdaki hücresel yapılardan hangisi, hem oksijenli solunum yapan bir bakteri hücresinde hem de bir hayvan hücresinde ortak olarak bulunur?",
+    "questionText": "Bir bilim insanı, mikroskop altında incelediği bir hücrede hücre duvarı, ribozom ve zarsız bir kalıtım materyali (nükleoid) bulunduğunu gözlemliyor. Bu hücrede aşağıdaki organellerden hangisinin bulunması **beklenmez**?",
     "options": [
-      "Mitokondri",
-      "Hücre duvarı",
+      "Hücre zarı",
+      "Sitoplazma",
+      "Lizozom",
       "Ribozom",
-      "Çekirdek",
-      "Lizozom"
+      "Kamçı"
     ],
     "correctAnswer": 2,
-    "explanation": "Ribozom, protein sentezinden sorumlu olan ve zarsız bir organeldir. Bu nedenle hem prokaryotik (bakteri) hem de ökaryotik (hayvan) hücrelerde ortak olarak bulunur. Mitokondri, çekirdek ve lizozom zarlı organeller olup sadece ökaryotik hücrelerde bulunur. Hayvan hücrelerinde hücre duvarı bulunmazken, bakterilerde peptidoglikan yapılı bir hücre duvarı bulunur. Ancak soru her iki hücrede de 'ortak olarak' bulunan yapıyı sorduğu için doğru cevap ribozomdur.",
+    "explanation": "Soruda tarif edilen hücre; hücre duvarı, ribozom içermesi ve en önemlisi kalıtım materyalinin zarla çevrili bir çekirdek içinde olmaması (nükleoid bölgesi) nedeniyle bir prokaryot hücredir (örneğin bakteri). Prokaryot hücrelerde zarlı organeller bulunmaz. A, B ve D şıklarındaki yapılar (Hücre zarı, Sitoplazma, Ribozom) tüm canlı hücrelerde ortakken, E şıkkındaki kamçı bazı prokaryotlarda bulunabilir. Ancak C şıkkındaki lizozom, tek zarlı bir organel olup sadece ökaryot hücrelerde (özellikle hayvan hücrelerinde) bulunur. Bu nedenle prokaryot bir hücrede lizozomun bulunması beklenmez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498693499_1",
+    "id": "ai_1764500061240_1",
     "subjectId": "biy",
     "topic": "Hücre",
-    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir glikoprotein molekülünün üretim ve salgılanma sürecinde aşağıdaki organellerden hangisi en son görev alır?",
+    "questionText": "Ökaryotik bir hücrede, hücre dışına salgılanacak bir polipeptit hormonun (örneğin insülin) sentezlenip salgılanması sürecinde aşağıdaki olaylardan hangisi **en son** gerçekleşir?",
     "options": [
-      "Granüllü endoplazmik retikulum",
-      "Ribozom",
-      "Golgi cisimciği",
-      "Mitokondri",
-      "Lizozom"
+      "Ribozomda amino asitler arasında peptit bağlarının kurulması.",
+      "DNA'daki genetik bilginin mRNA'ya aktarılması.",
+      "Endoplazmik retikulumda proteinin üç boyutlu yapı kazanması.",
+      "Golgi aygıtında proteinin paketlenerek salgı kofulu oluşturulması.",
+      "Salgı kofulunun hücre zarı ile birleşerek içeriğini ekzositozla dışarı vermesi."
     ],
-    "correctAnswer": 2,
-    "explanation": "Hücre dışına salgılanacak bir glikoproteinin sentez süreci şu sırayla gerçekleşir: 1) Ribozomda protein kısmı sentezlenir. 2) Sentezlenen protein, granüllü endoplazmik retikulum (GER) kanalına girer ve burada ilk şeker eklemeleri (glikozilasyon) yapılarak üç boyutlu yapısını kazanır. 3) GER'den ayrılan taşıma kofulu, proteini Golgi cisimciğine taşır. 4) Golgi cisimciğinde protein son halini alır, sınıflandırılır, paketlenir ve salgı kofulu oluşturulur. Bu koful daha sonra hücre zarına giderek içeriğini ekzositozla dışarı bırakır. Bu sıralamada en son görev alan organel Golgi cisimciğidir. Mitokondri bu süreç için enerji (ATP) üretir ancak sentez yolunda doğrudan yer almaz. Lizozom ise hücre içi sindirimde görevlidir.",
+    "correctAnswer": 4,
+    "explanation": "Hücre dışına salgılanacak bir proteinin üretim ve salgılanma süreci belirli bir sıra izler (endomembran sistemi). Bu süreç şu adımlardan oluşur: 1. (B) Çekirdekte DNA'dan mRNA sentezi (transkripsiyon). 2. (A) mRNA'nın sitoplazmaya geçerek granüllü endoplazmik retikulum üzerindeki ribozomlarda polipeptit zincirine çevrilmesi (translasyon). 3. (C) Sentezlenen polipeptitin endoplazmik retikulum lümenine girerek katlanması ve üç boyutlu yapı kazanması. 4. (D) Proteinlerin taşıma kofullarıyla Golgi aygıtına taşınması, burada son değişikliklerin yapılması ve salgı kofullarına paketlenmesi. 5. (E) Salgı kofulunun hücre zarına hareket edip zarla kaynaşarak içeriğini ekzositoz yoluyla hücre dışına bırakması. Bu sıralamaya göre en son gerçekleşen olay ekzositozdur.",
     "difficulty": 3
   }
 ]
