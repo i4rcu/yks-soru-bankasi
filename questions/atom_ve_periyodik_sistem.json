@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764498489561_0",
+    "id": "ai_1764499825851_0",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
-    "questionText": "X, Y ve Z baş grup elementleri olup aynı periyotta yer almaktadırlar. Atom numaraları ardışık olan bu elementlerin birinci iyonlaşma enerjileri (İE₁) arasındaki ilişki Y > Z > X şeklindedir. Buna göre bu elementlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "Baş grup elementi olan X'in ilk dört iyonlaşma enerjisi (İE) kJ/mol cinsinden aşağıda verilmiştir:\n\nİE₁: 738\nİE₂: 1451\nİE₃: 7733\nİE₄: 10540\n\nBu bilgilere göre X elementi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "X elementi 3A grubundadır.",
-      "Z'nin atom yarıçapı X'ten büyüktür.",
-      "Y'nin elektron ilgisi Z'den büyüktür.",
-      "Y elementi küresel simetri özelliği gösterir.",
-      "X'in elektronegatifliği en büyüktür."
+      "Değerlik elektron sayısı 3'tür.",
+      "Periyodik sistemin 13. grubunda yer alır.",
+      "Oksijen ile oluşturduğu bileşiğin formülü XO'dur.",
+      "Atom numarası 11 olabilir.",
+      "Bir halojendir."
     ],
-    "correctAnswer": 3,
-    "explanation": "Aynı periyotta iyonlaşma enerjisi genellikle sağa doğru artar ancak küresel simetri nedeniyle 2A > 3A ve 5A > 6A sapmaları görülür. Atom numaraları ardışık olan X, Y, Z elementleri için İE₁ sırasının Y > Z > X şeklinde olması, bu elementlerin sırasıyla 4A (X), 5A (Y) ve 6A (Z) grubunda olduğunu gösterir. Çünkü 5A grubunun iyonlaşma enerjisi (Y), 6A grubundan (Z) ve 4A grubundan (X) daha büyüktür. Bu durumda:\nA) X elementi 4A grubundadır. (Yanlış)\nB) Aynı periyotta atom yarıçapı sağa doğru azalır. Bu nedenle X > Y > Z olmalıdır. Z'nin yarıçapı X'ten küçük olur. (Yanlış)\nC) Elektron ilgisi genellikle sağa doğru artar. Ancak küresel simetriden dolayı 5A grubunun (Y) elektron ilgisi, 6A grubuna (Z) göre daha düşüktür. (Yanlış)\nD) Y elementi 5A grubundadır. 5A grubundaki elementlerin son orbitali p³ ile biter ve yarı dolu olduğu için küresel simetri özelliği gösterir. (Doğru)\nE) Elektronegatiflik aynı periyotta sağa doğru artar. Sıralama Z > Y > X şeklinde olmalıdır. (Yanlış)",
+    "correctAnswer": 2,
+    "explanation": "Bir elementin ardışık iyonlaşma enerjileri incelendiğinde, genellikle 3,5-4 katından daha büyük olan ani bir artış, elektronun bir iç katmandan (soygaz düzeninden) koptuğunu gösterir. Tablodaki değerlere bakıldığında, ikinci (İE₂) ve üçüncü (İE₃) iyonlaşma enerjileri arasında yaklaşık 5,3 katlık (7733 / 1451 ≈ 5,3) büyük bir artış görülmektedir. Bu durum, X elementinin 2 adet değerlik elektronu olduğunu ve bu iki elektronu verdikten sonra soygaz elektron düzenine ulaştığını gösterir. Dolayısıyla X elementi, periyodik sistemin 2A grubunda (2. grup) yer alan bir toprak alkali metalidir.\n\nŞıkları inceleyelim:\nA) Değerlik elektron sayısı 2'dir. Bu ifade yanlıştır.\nB) Periyodik sistemin 2A grubunda, yani 2. grubunda yer alır. Bu ifade yanlıştır.\nC) 2A grubundaki elementler bileşiklerinde +2 değerlik alırlar. Oksijen ise -2 değerlik alır. Bu ikisi arasında iyonik bağ ile oluşacak bileşiğin formülü çaprazlama kuralına göre X₂O₂ olur ve en sade haliyle XO şeklinde yazılır. Bu ifade doğrudur.\nD) Atom numarası 11 olan element sodyumdur (Na) ve 1A grubunda yer alır. X elementi 2A grubunda olduğundan bu ifade yanlıştır.\nE) Halojenler 7A grubunda yer alır. Bu ifade yanlıştır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498489561_1",
+    "id": "ai_1764499825851_1",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
-    "questionText": "Aşağıda bazı tanecikler ve bu taneciklerle ilgili yapılan sınıflandırmalar verilmiştir.\n\nI. ³⁹K⁺ ve ⁴⁰Ca²⁺ izoelektronik taneciklerdir.\nII. ¹⁴C ve ¹⁵N izoton atomlardır.\nIII. ³⁵Cl ve ³⁷Cl izotop atomlardır.\n\nYukarıdaki sınıflandırmalardan hangileri doğrudur?",
+    "questionText": "³⁹₁₉K⁺, ⁴⁰₁₈Ar ve ⁴⁰₂₀Ca²⁺ tanecikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Yalnız I",
-      "I ve II",
-      "I ve III",
-      "II ve III",
-      "I, II ve III"
+      "K⁺ ve Ar taneciklerinin elektron sayıları eşittir.",
+      "Ar ve Ca²⁺ tanecikleri izobardır.",
+      "K⁺ ve Ca²⁺ taneciklerinin nötron sayıları farklıdır.",
+      "Tanecik yarıçapı en büyük olan Ar'dir.",
+      "Üç tanecik de birbiriyle izoelektroniktir."
     ],
-    "correctAnswer": 2,
-    "explanation": "Verilen ifadeleri tek tek inceleyelim:\n\nI. İzoelektronik, elektron sayıları ve dizilimleri aynı olan tanecikler demektir.\n³⁹K⁺: Proton sayısı 19'dur. İyon olduğu için elektron sayısı 19 - 1 = 18'dir.\n⁴⁰Ca²⁺: Proton sayısı 20'dir. İyon olduğu için elektron sayısı 20 - 2 = 18'dir.\nHer iki taneciğin de 18 elektronu olduğundan izoelektroniktirler. Bu ifade doğrudur.\n\nII. İzoton, nötron sayıları aynı, proton sayıları farklı olan atomlar demektir.\n¹⁴C: Nötron sayısı = Kütle No - Proton No = 14 - 6 = 8'dir.\n¹⁵N: Nötron sayısı = Kütle No - Proton No = 15 - 7 = 8'dir.\nNötron sayıları aynı (8) ve proton sayıları farklı (6 ve 7) olduğu için bu atomlar izotondur. Bu ifade doğrudur. Ancak soruda 'izoton atomlar' denmiş, genellikle bu terim kullanılsa da burada bir hata var. İzoton taneciklerdir. Fakat YKS kapsamında bu ifade genellikle doğru kabul edilir. Dur, tekrar kontrol edeyim. ¹⁴C (8 nötron), ¹⁵N (8 nötron). Evet, izotonlar. İfade doğru. Bir dakika, şıklara bakalım. Eğer I ve III doğruysa cevap C olmalı. Bir daha kontrol edeyim. ¹⁴C nötron: 14-6=8. ¹⁵N nötron: 15-7=8. Evet, izotonlar. Belki de bir hata yaptım. I ve III'e bakalım.\n\nI. K⁺ (19p, 18e), Ca²⁺ (20p, 18e). Elektron sayıları aynı. İzoelektronik. Doğru.\nIII. İzotop, proton sayıları aynı, nötron (ve dolayısıyla kütle numaraları) farklı olan atomlar demektir.\n³⁵Cl: Proton sayısı 17, nötron sayısı 35 - 17 = 18'dir.\n³⁷Cl: Proton sayısı 17, nötron sayısı 37 - 17 = 20'dir.\nProton sayıları aynı (17) olduğu için izotop atomlardır. Bu ifade doğrudur.\n\nBu durumda I ve III kesinlikle doğru. II. ifade de teknik olarak doğru. ¹⁴C (8 nötron) ve ¹⁵N (8 nötron) izoton taneciklerdir. Bu durumda cevap I, II ve III olmalı. Ancak, bazen sorularda kasıtlı olarak bir tanesi yanlış verilir. Soruyu tekrar kurgulayalım. II. ifadeyi değiştirelim: '¹⁴N ve ¹⁵N izoton atomlardır.' yapalım. ¹⁴N (7 nötron), ¹⁵N (8 nötron). Bu yanlış olur. Soruyu bu şekilde düzeltelim.\n\nYENİ SORU KONTROLÜ:\nSoru: \"...II. ¹⁴N ve ¹⁵N izoton atomlardır...\"\nI. ³⁹K⁺ (18e) ve ⁴⁰Ca²⁺ (18e) izoelektroniktir. (DOĞRU)\nII. ¹⁴N (7n) ve ¹⁵N (8n) izoton değildir, izotoptur. (YANLIŞ)\nIII. ³⁵Cl (17p) ve ³⁷Cl (17p) izotoptur. (DOĞRU)\nBu durumda doğru cevap I ve III olur, yani C şıkkı. Bu daha iyi bir soru oldu.\n\nAçıklama: \nI. İzoelektronik, elektron sayıları ve dizilimleri aynı olan taneciklerdir. ³⁹K⁺ (Proton:19) 19-1=18 elektrona, ⁴⁰Ca²⁺ (Proton:20) 20-2=18 elektrona sahiptir. Elektron sayıları eşit olduğu için bu ifade doğrudur.\nII. İzoton, nötron sayıları aynı olan taneciklerdir. ¹⁴C'nin nötron sayısı 14-6=8, ¹⁵N'nin nötron sayısı 15-7=8'dir. Nötron sayıları eşit olduğu için izotondurlar. Bu ifade de doğrudur. \nIII. İzotop, proton sayıları aynı, kütle numaraları farklı olan atomlardır. ³⁵Cl ve ³⁷Cl'nin ikisinin de proton sayısı 17'dir. Kütle numaraları farklı olduğu için izotopturlar. Bu ifade de doğrudur.\nSonuç: Her üç ifade de doğrudur. Doğru cevap E seçeneğidir.",
+    "correctAnswer": 3,
+    "explanation": "Öncelikle taneciklerin proton (p), nötron (n) ve elektron (e) sayılarını bulalım:\n\n1. ³⁹₁₉K⁺:\n   p = 19\n   n = Kütle No - Proton No = 39 - 19 = 20\n   e = Proton No - Yük = 19 - (+1) = 18\n\n2. ⁴⁰₁₈Ar:\n   p = 18\n   n = 40 - 18 = 22\n   e = 18 (nötr atom)\n\n3. ⁴⁰₂₀Ca²⁺:\n   p = 20\n   n = 40 - 20 = 20\n   e = 20 - (+2) = 18\n\nŞimdi şıkları değerlendirelim:\nA) K⁺ taneciğinin 18 elektronu, Ar taneciğinin 18 elektronu vardır. Sayıları eşittir. Bu ifade doğrudur.\nB) İzobar, kütle numaraları aynı, proton sayıları farklı olan atomlardır. Ar ve Ca²⁺ taneciklerinin ikisinin de kütle numarası 40, proton sayıları ise sırasıyla 18 ve 20'dir. Dolayısıyla izobardırlar. Bu ifade doğrudur.\nC) K⁺ taneciğinin nötron sayısı 20, Ca²⁺ taneciğinin nötron sayısı 20'dir. Nötron sayıları eşittir, yani bu iki tanecik izotondur. İfadede 'farklıdır' dendiği için bu ifade yanlıştır.\nD) Üç tanecik de izoelektroniktir (hepsi 18 elektrona sahiptir). İzoelektronik taneciklerde proton sayısı en az olanın yarıçapı en büyüktür çünkü çekirdeğin elektronlar üzerindeki çekim kuvveti daha azdır. Proton sayıları K⁺(19), Ar(18) ve Ca²⁺(20) olduğundan, en az protona sahip Ar'nin yarıçapı en büyüktür. Bu ifade doğrudur.\nE) Üç taneciğin de elektron sayısı 18 olduğu için birbirleriyle izoelektroniktirler. Bu ifade doğrudur.",
     "difficulty": 3
   }
 ]
