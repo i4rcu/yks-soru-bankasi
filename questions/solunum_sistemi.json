@@ -16,22 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520366755_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
-    "options": [
-      "Faranks",
-      "Larenks",
-      "Trakea",
-      "Bronş",
-      "Alveol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520366755_1",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 3,
     "explanation": "Sindirim, sindirim sistemi tarafından gerçekleştirilen bir işlem olup, solunum sisteminin görevleri arasında yer almaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520366755_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
+    "options": [
+      "Faranks",
+      "Larenks",
+      "Trakea",
+      "Bronş",
+      "Alveol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
     "difficulty": 3
   },
   {
