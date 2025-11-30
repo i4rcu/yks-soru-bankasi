@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501122795_0",
+    "id": "ai_1764519275674_0",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan ince kenarlı (yakınsak) bir merceğin önüne, mercekten 1,5f uzaklığa bir cisim konuluyor. Oluşan görüntü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliklerine bağlıdır?",
     "options": [
-      "Görüntü sanaldır ve cisimle aynı taraftadır.",
-      "Görüntünün boyu cismin boyundan küçüktür.",
-      "Görüntü mercekten 3f uzaklıkta ve gerçektir.",
-      "Görüntü cisme göre düzdür.",
-      "Görüntü merceğin odak noktası (f) ile 2f noktası arasında oluşur."
+      "Merceğin kalınlığı",
+      "Merceğin şekli",
+      "Işık kaynağının rengi",
+      "Merceğin malzemesi",
+      "Tüm seçenekler"
     ],
-    "correctAnswer": 2,
-    "explanation": "İnce kenarlı merceklerde görüntü oluşumunu bulmak için mercek formülü kullanılır: 1/f = 1/d_c + 1/d_g. Burada f odak uzaklığı, d_c cismin uzaklığı ve d_g görüntünün uzaklığıdır. Soruda d_c = 1,5f verilmiştir. Formülde yerine koyarsak:\n1/f = 1/(1,5f) + 1/d_g\n1/d_g = 1/f - 1/(1,5f)\n1/d_g = 1/f - 2/(3f)\n1/d_g = (3 - 2) / (3f)\n1/d_g = 1/(3f)  =>  d_g = 3f\n\nSonucun pozitif çıkması, görüntünün merceğin diğer tarafında ve gerçek olduğunu gösterir. Büyütme formülü m = -d_g/d_c = |h_g/h_c| olduğundan, m = -3f / 1,5f = -2 bulunur. Büyütme değerinin 1'den büyük olması (|m|>1) görüntünün cisimden büyük olduğunu, negatif olması ise görüntünün cisme göre ters (baş aşağı) olduğunu gösterir. Bu bilgilere göre şıkları değerlendirelim:\nA) Yanlış. Görüntü gerçektir (d_g > 0).\nB) Yanlış. Görüntünün boyu cismin boyunun 2 katıdır, yani daha büyüktür.\nC) Doğru. Görüntü mercekten 3f uzaklıkta oluşur ve gerçektir.\nD) Yanlış. Görüntü gerçektir ve cisme göre terstir.\nE) Yanlış. Görüntü 3f noktasında, yani 2f'nin dışında oluşur. Genel bir kural olarak, cisim F ile 2F arasındaysa, görüntü 2F'nin dışında oluşur.",
+    "correctAnswer": 4,
+    "explanation": "Bir merceğin odak noktası, merceğin kalınlığı, şekli ve malzemesi gibi faktörlere bağlıdır. Bu nedenle doğru cevap 'Tüm seçenekler' seçeneğidir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501122795_1",
+    "id": "ai_1764519275674_1",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Kırıcılık indisi n₁ olan saydam ortamdan, kırıcılık indisi n₂ olan saydam ortama gönderilen tek renkli bir ışık ışını, ara kesit yüzeyine α gelme açısıyla çarptığında tam yansımaya uğramaktadır. (n₁ > n₂). Buna göre, gelme açısı α değiştirilmeden, ışının yine tam yansımaya uğramasını garantilemek için aşağıdaki işlemlerden hangisi tek başına yapılabilir?",
+    "questionText": "Bir ışık demeti, bir prizma üzerinden geçerken ne olur?",
     "options": [
-      "n₁ indisini azaltmak.",
-      "n₂ indisini artırmak.",
-      "Daha büyük dalga boylu bir ışık kullanmak.",
-      "n₁ ve n₂ indisleri arasındaki farkı (n₁-n₂) azaltmak.",
-      "n₁ indisini artırmak."
+      "Kırılmaz",
+      "Kırılır ve dağılır",
+      "Dikey olarak yansır",
+      "Dikey olarak kırılır",
+      "Yansıma gerçekleşmez"
     ],
-    "correctAnswer": 4,
-    "explanation": "Tam yansıma olayının gerçekleşmesi için iki şart vardır:\n1. Işık çok yoğun ortamdan az yoğun ortama geçmelidir (soruda n₁ > n₂ olarak verilmiş, bu şart sağlanıyor).\n2. Gelme açısı (α), sınır açısından (θ_s) büyük veya ona eşit olmalıdır (α ≥ θ_s).\nSınır açısı sin(θ_s) = n₂/n₁ formülü ile hesaplanır.\nSoruda, α açısıyla gelen ışının tam yansımaya uğradığı belirtilmiştir. Yani α ≥ θ_s durumu mevcuttur. Bu durumun devam etmesini veya garantilenmesini istiyoruz.\n\nSınır açısı (θ_s) nelere bağlıdır? n₁ ve n₂'ye. Eğer sınır açısını küçültürsek, α ≥ θ_s eşitsizliğinin sağlanması daha da kolaylaşır ve tam yansıma devam eder.\nSınır açısını (θ_s) küçültmek için sin(θ_s) değerini, yani n₂/n₁ oranını küçültmemiz gerekir.\n\nŞıkları inceleyelim:\nA) n₁'i azaltmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nB) n₂'yi artırmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nC) Ortamların normal dağılım (dispersiyon) özelliğine göre, genellikle dalga boyu arttıkça (kırmızıya yaklaştıkça) kırıcılık indisi azalır. Daha büyük dalga boylu ışık kullanmak hem n₁'i hem de n₂'yi azaltır. Oranın nasıl değişeceği kesin değildir, ancak genellikle fark azaldığı için oran büyür ve sınır açısı artar. Bu durum tam yansımayı bozabilir.\nD) n₁-n₂ farkını azaltmak demek, n₂/n₁ oranını 1'e yaklaştırmak demektir. Bu da oranı büyüterek sınır açısını artırır. Tam yansıma bozulabilir.\nE) n₁'i artırmak, n₂/n₁ oranını azaltır. Bu durum sınır açısını (θ_s) küçültür. Sınır açısı küçüldüğü için, mevcut α gelme açısı yeni ve daha küçük olan sınır açısından kesinlikle büyük olacaktır (α > θ_s_yeni). Dolayısıyla tam yansıma olayı kesinlikle devam eder.",
+    "correctAnswer": 1,
+    "explanation": "Işık demeti bir prizma üzerinden geçtiğinde, farklı dalga boyları farklı açılarda kırılır ve bu da demetin dağılmasına neden olur. Doğru cevap 'Kırılır ve dağılır' seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519275674_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi durumda bir mercek, paralel gelen ışınları bir noktada toplar?",
+    "options": [
+      "Diverjan mercek kullanıldığında",
+      "Küresel mercek kullanıldığında",
+      "Konverjan mercek kullanıldığında",
+      "Dikey mercek kullanıldığında",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Konverjan mercek, paralel gelen ışınları bir odak noktasında toplar. Bu nedenle doğru cevap 'Konverjan mercek kullanıldığında' seçeneğidir.",
     "difficulty": 3
   }
 ]
