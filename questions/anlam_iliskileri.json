@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764499051452_0",
+    "id": "ai_1764500415115_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir koşula bağlanmamıştır?",
+    "questionText": "Aşağıdaki cümlelerin hangisinde yargılar arasında diğerlerinden farklı bir anlam ilişkisi vardır?",
     "options": [
-      "Ödevlerini bitirirsen dışarı çıkıp arkadaşlarınla oynayabilirsin.",
-      "İstediği üniversiteyi kazandı mı, ona hayalindeki arabayı alacaklar.",
-      "Yarın hava güzel olursa hep birlikte pikniğe gideceğiz.",
-      "Onu gördüm diye bütün planlarımı değiştirecek değilim.",
-      "Akşam yemeğine yetişmek üzere toplantıdan erken ayrıldı."
+      "Yollar buzlandığı için trafik akışı yavaşladı.",
+      "İyi bir üniversite kazanmak amacıyla gece gündüz ders çalışıyordu.",
+      "Annesini çok özlediğinden ilk uçakla memleketine gitti.",
+      "Uykusunu alamadığından gün boyu kendini yorgun hissetti.",
+      "Gürültüden rahatsız olunca pencereyi kapattı."
     ],
-    "correctAnswer": 4,
-    "explanation": "Bu soruda, seçeneklerdeki cümlelerde bulunan anlam ilişkileri incelenmelidir. A, B, C ve D seçeneklerinde koşul-sonuç ilişkisi varken, E seçeneğinde amaç-sonuç ilişkisi bulunmaktadır.\nA) Dışarı çıkıp oynamanın koşulu, ödevlerin bitirilmesidir. (-se şart eki)\nB) Araba alınmasının koşulu, istediği üniversiteyi kazanmasıdır. (mı soru eki ile sağlanmış)\nC) Pikniğe gidilmesinin koşulu, yarın havanın güzel olmasıdır. (-se şart eki)\nD) \"Onu gördüm diye\" ifadesi \"onu gördüğüm için\" anlamında bir neden belirtir gibi görünse de cümlenin bütününe bakıldığında, \"Onu görsem bile planlarımı değiştirmem\" anlamı çıkar, bu da örtük bir koşul ifadesidir.\nE) Toplantıdan erken ayrılmasının amacı, akşam yemeğine yetişmektir. Henüz yemeğe yetişip yetişmediği belli değildir, bir hedef söz konusudur. Bu nedenle bu cümlede eylemin gerçekleşmesi bir koşula değil, bir amaca bağlanmıştır.",
+    "correctAnswer": 1,
+    "explanation": "Bu soruda cümlelerdeki anlam ilişkileri incelenmelidir. A, C, D ve E şıklarında neden-sonuç (sebep-sonuç) ilişkisi varken, B şıkkında amaç-sonuç ilişkisi vardır. Neden-sonuç cümlelerinde eylemin gerçekleşme nedeni belirtilirken ('Neden yavaşladı?' -> 'Yollar buzlandığı için'), amaç-sonuç cümlelerinde eylemin hangi hedefle yapıldığı belirtilir ('Hangi amaçla ders çalışıyordu?' -> 'İyi bir üniversite kazanmak amacıyla'). B seçeneğindeki 'kazanmak' eylemi henüz gerçekleşmemiş bir hedeftir, bu da cümleyi diğerlerinden ayırır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499051452_1",
+    "id": "ai_1764500415115_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "(I) Sanatçı, eserlerinde kullandığı dilin süslü ve ağdalı olmasından özellikle kaçınır. (II) Ona göre önemli olan, anlatmak istediği düşünceyi en dolaysız yoldan okura ulaştırmaktır. (III) Bu yüzden eserlerinde estetik kaygıdan çok, içeriğin etkileyiciliğine odaklanır. (IV) Eserlerinin sanatsal değerinin, seçtiği sözcüklerin ahenginden ve imgelerin zenginliğinden geldiğine inanır. (V) Anlaşılır olmak, onun için kalıcı olmaktan daha öncelikli bir hedeftir.\n\nBu parçada numaralanmış cümlelerden hangileri anlamca birbiriyle çelişmektedir?",
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir eylemin gerçekleşmesi başka bir durumun gerçekleşmesine bağlıdır?",
     "options": [
-      "I ve II",
-      "I ve V",
-      "II ve III",
-      "III ve IV",
-      "IV ve V"
+      "Yoğun kar yağışı yüzünden okullar tatil edildi.",
+      "Hava kararmadan eve dönmüş olmalıyız.",
+      "İstediğin bölümü kazanman, düzenli çalışmana bağlı.",
+      "Yazar, son romanında toplumsal sorunlara değinmiş.",
+      "Toplantı salonuna girdiğinde herkes onu bekliyordu."
     ],
-    "correctAnswer": 3,
-    "explanation": "Parçadaki cümlelerin anlamları incelendiğinde birbiriyle çelişen ifadelerin tespit edilmesi istenmektedir. \nI, II, III ve V numaralı cümleler birbiriyle tutarlıdır. Bu cümlelerde sanatçının sadelikten, anlaşılırlıktan, süsten kaçınmaktan ve içerik odaklı olmaktan yana olduğu vurgulanmaktadır.\nAncak IV. cümlede, sanatçının eserlerinin değerinin \"seçtiği sözcüklerin ahenginden ve imgelerin zenginliğinden\" geldiğine inandığı belirtilmektedir. Bu ifade, süslü, sanatlı bir söyleyişi, yani estetik kaygıyı ön plana çıkaran bir anlayışı yansıtır.\nIII. cümlede ise sanatçının \"estetik kaygıdan çok, içeriğin etkileyiciliğine odaklandığı\" belirtilmektedir. Bu iki ifade (III ve IV) sanatçının öncelikleri konusunda birbiriyle taban tabana zıttır. Birinde estetik kaygının geri plana atıldığı, diğerinde ise eserin değerinin estetik unsurlara (ahenk, imge) dayandığı söylenerek çelişki oluşturulmuştur.",
+    "correctAnswer": 2,
+    "explanation": "Bu soruda koşul-sonuç (şart-sonuç) ilişkisi içeren cümle sorulmaktadır. Koşul-sonuç cümlelerinde bir eylemin veya durumun gerçekleşmesi, başka bir eylemin veya durumun gerçekleşmesi şartına bağlanır. C seçeneğinde 'istediğin bölümü kazanman' sonucu, 'düzenli çalışman' koşuluna bağlanmıştır. Diğer seçeneklerde ise bu tür bir koşul ilişkisi yoktur. A'da neden-sonuç, B'de gereklilik, D'de içerik belirtme, E'de ise zaman ilişkisi bulunmaktadır.",
     "difficulty": 3
   }
 ]
