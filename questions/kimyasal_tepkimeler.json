@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764519329695_0",
+    "id": "ai_1764520282734_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermik bir tepki olarak sınıflandırılabilir?",
+    "questionText": "Aşağıdaki tepkimelerden hangisi ekzotermik bir tepkimedir?",
     "options": [
-      "A + B → C + D + enerji",
-      "X + Y → Z + ısı",
-      "2H₂ + O₂ → 2H₂O + 572 kJ",
-      "C + O₂ → CO₂ + ısı",
-      "D + E → F + G"
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "N2(g) + 3H2(g) → 2NH3(g)",
+      "2H2O(l) → 2H2(g) + O2(g)"
     ],
     "correctAnswer": 2,
-    "explanation": "Ekzotermik tepkimeler, çevreye enerji (genellikle ısı) salan tepkimelerdir. 2H₂ + O₂ → 2H₂O + 572 kJ tepkimesi su oluşumu sırasında 572 kJ enerji saldığı için ekzotermik bir tepkimedir. Diğer seçeneklerde ya enerji çıkışı belirtilmemiş ya da ekzotermik bir özellik taşımamaktadır.",
+    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü dışarıya ısı verir. Diğer seçenekler ya endotermik ya da farklı bir özellik taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520282734_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
+    "options": [
+      "NaOH",
+      "HCl",
+      "K2CO3",
+      "Ca(OH)2",
+      "MgO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520282734_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
+    "options": [
+      "2Na + Cl2 → 2NaCl",
+      "H2 + O2 → 2H2O",
+      "Ca + 2H2O → Ca(OH)2 + H2",
+      "C + O2 → CO",
+      "2Fe2O3 + 3C → 4Fe + 3CO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2Na + Cl2 → 2NaCl tepkimesi bir redoks tepkimesidir çünkü sodyum elektron vererek oksitlenirken, klor elektron alarak indirgenir. Diğer seçenekler ya redoks değil ya da farklı bir mekanizma içerir.",
     "difficulty": 3
   }
 ]
