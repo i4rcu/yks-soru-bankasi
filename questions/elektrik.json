@@ -1,18 +1,66 @@
 [
   {
-    "id": "ai_1764417262437_0",
+    "id": "ai_1764498341304_0",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "İç direnci önemsiz bir üreteç ve özdeş K, L, M lambaları ile bir elektrik devresi kurulmuştur. Devrede K lambası, birbirine paralel bağlı olan L ve M lambalarına seri olarak bağlanmıştır. Başlangıçta tüm lambalar ışık verirken, bir süre sonra M lambasının filamanı koparak devreyi açık hale getiriyor. Bu durumda K ve L lambalarının parlaklıkları ilk duruma göre nasıl değişir?",
+    "questionText": "İç direnci önemsiz bir üretece, R1=2Ω, R2=3Ω ve R3=6Ω'luk dirençler şekildeki gibi bağlanmıştır. R2 ve R3 dirençleri birbirine paralel, bu grup ise R1 direncine seridir. Üretecin gerilimi 12V olduğuna göre, ana koldan geçen I akımı kaç Amper'dir?",
     "options": [
-      "K: Artar, L: Azalır",
-      "K: Değişmez, L: Artar",
-      "K: Azalır, L: Artar",
-      "K: Artar, L: Artar",
-      "K: Azalır, L: Azalır"
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
     ],
     "correctAnswer": 2,
-    "explanation": "Lambaların parlaklığı, üzerinden geçen akımın karesiyle (veya gücüyle) doğru orantılıdır. Her bir lambanın direncine R diyelim.\n\n**İlk Durum:**\nL ve M lambaları paralel bağlı olduğu için bu kolun eşdeğer direnci R_LM = (R * R) / (R + R) = R/2 olur. K lambası bu kola seri bağlı olduğu için devrenin toplam eşdeğer direnci R_eş1 = R_K + R_LM = R + R/2 = 3R/2'dir. Üretecin gerilimi V ise, ana koldan geçen akım (yani K'nin akımı) I_ana1 = V / R_eş1 = V / (3R/2) = 2V/3R olur. Bu akım L ve M kollarına eşit olarak (lambalar özdeş olduğu için) paylaşılır. Dolayısıyla L'nin üzerinden geçen akım I_L1 = I_ana1 / 2 = (2V/3R) / 2 = V/3R'dir.\n\n**Son Durum (M'nin filamanı koptuktan sonra):**\nM lambasının olduğu kol açık devre olur ve o koldan akım geçmez. Devre, sadece birbirine seri bağlı K ve L lambalarından oluşur. Yeni toplam eşdeğer direnç R_eş2 = R_K + R_L = R + R = 2R olur. Devreden geçen yeni ana kol akımı I_ana2 = V / R_eş2 = V/2R olur. Bu akım hem K'nin hem de L'nin üzerinden geçer. Yani I_K2 = V/2R ve I_L2 = V/2R'dir.\n\n**Karşılaştırma:**\n*   **K Lambası:** İlk akım I_K1 = 2V/3R ≈ 0.67(V/R) iken, son akım I_K2 = V/2R = 0.5(V/R) oldu. Akım azaldığı için K'nin parlaklığı **azalır**.\n*   **L Lambası:** İlk akım I_L1 = V/3R ≈ 0.33(V/R) iken, son akım I_L2 = V/2R = 0.5(V/R) oldu. Akım arttığı için L'nin parlaklığı **artar**.\n\nSonuç olarak, K'nin parlaklığı azalır, L'nin parlaklığı artar.",
+    "explanation": "Öncelikle paralel bağlı R2 ve R3 dirençlerinin eşdeğer direncini (Rp) bulalım. 1/Rp = 1/R2 + 1/R3 formülünden 1/Rp = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2 bulunur. Buradan Rp = 2Ω olur. Bu 2Ω'luk eşdeğer direnç, R1 direncine seri bağlıdır. Dolayısıyla devrenin toplam eşdeğer direnci R_eş = R1 + Rp = 2Ω + 2Ω = 4Ω'dur. Ohm Yasası (V = I * R) kullanılarak ana kol akımı I = V / R_eş = 12V / 4Ω = 3 Amper olarak hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498341304_1",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Üzerinde '220V - 1100W' yazan bir elektrikli su ısıtıcısı, 220V'luk bir gerilim altında 5 dakika boyunca çalıştırılıyor. Bu süre boyunca ısıtıcının harcadığı elektrik enerjisi kaç kilojoule (kJ)'dür?",
+    "options": [
+      "55",
+      "110",
+      "330",
+      "5500",
+      "66000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elektriksel enerji (E), güç (P) ile zamanın (t) çarpımına eşittir: E = P * t. Soruda verilen değerleri SI birim sistemine çevirmemiz gerekir. Güç P = 1100 Watt. Zaman t = 5 dakika = 5 * 60 saniye = 300 saniye. Bu değerleri formülde yerine koyarsak: E = 1100 W * 300 s = 330000 Joule. Sonuç kilojoule cinsinden istendiği için, sonucu 1000'e böleriz: E = 330000 J / 1000 = 330 kJ.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498341304_2",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Yatay ve sürtünmesiz bir düzlemde bulunan K ve L noktasal cisimlerinin yükleri sırasıyla +4q ve +q'dur. Bu iki yükün arasına, M noktasal cismi hangi noktaya konulursa dengede kalır? (Noktalar arası uzaklıklar eşittir.)\n[K] --1-- [P] --1-- [R] --1-- [S] --1-- [T] --1-- [L]",
+    "options": [
+      "P noktası",
+      "R noktası",
+      "S noktası",
+      "T noktası",
+      "P ve R arası"
+    ],
+    "correctAnswer": 2,
+    "explanation": "M cisminin dengede kalabilmesi için üzerine etki eden net kuvvetin sıfır olması gerekir. Bunun için K ve L cisimlerinin M cismine uyguladığı elektriksel kuvvetlerin büyüklükleri eşit ve yönleri zıt olmalıdır. M cisminin yükü ne olursa olsun (pozitif veya negatif), K ve L aynı işaretli olduğu için M cismi aralarında bir yere konulmalıdır ki kuvvetler zıt yönlü olsun. K cisminden uzaklığına x dersek, L cisminden uzaklığı (5-x) olur (K-L arası toplam mesafe 5 birim). Kuvvetlerin büyüklüklerini eşitleyelim (Coulomb Yasası: F = k*q1*q2/d²):\nF_KM = F_LM\nk * (4q * q_M) / x² = k * (q * q_M) / (5-x)²\nSadeleştirmeler yapıldığında: 4/x² = 1/(5-x)²\nHer iki tarafın karekökü alınırsa: 2/x = 1/(5-x)\nİçler dışlar çarpımı ile: 2 * (5-x) = x => 10 - 2x = x => 10 = 3x => x = 10/3 ≈ 3.33 birim.\nK noktasından 3.33 birim uzaklıktaki nokta S noktasıdır (K-S arası 3 birim, K-T arası 4 birim).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498341304_3",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Sayfa düzlemine dik ve içeri doğru olan düzgün bir B manyetik alanı içerisindeki iletken telden I şiddetinde akım geçtiğinde, tele etki eden manyetik kuvvetin büyüklüğü F olmaktadır. Buna göre, manyetik alanın şiddeti yarıya düşürülüp (B/2), telden geçen akım şiddeti 4 katına çıkarılırsa (4I), tele etki eden yeni manyetik kuvvetin büyüklüğü kaç F olur?",
+    "options": [
+      "F/2",
+      "F",
+      "2F",
+      "4F",
+      "8F"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manyetik alan içindeki akım taşıyan tele etki eden kuvvetin büyüklüğü F = B * I * L * sin(θ) formülü ile bulunur. Soruda tel ile manyetik alan birbirine dik olduğundan θ = 90° ve sin(90°) = 1'dir. Dolayısıyla ilk durumdaki kuvvet F = B * I * L'dir. İkinci durumda manyetik alan B' = B/2 ve akım I' = 4I olmuştur. Telin uzunluğu L değişmemiştir. Yeni kuvvet F' = B' * I' * L = (B/2) * (4I) * L = 2 * (B * I * L). İlk kuvvet F = B * I * L olduğuna göre, yeni kuvvet F' = 2F olur.",
     "difficulty": 3
   }
 ]
