@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764499767243_0",
+    "id": "ai_1764501122795_0",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Kırıcılık indisi n₁ olan ortamdan, kırıcılık indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Buna göre, ışığın bu ortamlardaki frekansı (f), hızı (v) ve dalga boyu (λ) ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
+    "questionText": "Odak uzaklığı f olan ince kenarlı (yakınsak) bir merceğin önüne, mercekten 1,5f uzaklığa bir cisim konuluyor. Oluşan görüntü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "f₁ = f₂, v₁ > v₂, λ₁ > λ₂",
-      "f₁ > f₂, v₁ < v₂, λ₁ < λ₂",
-      "f₁ = f₂, v₁ < v₂, λ₁ < λ₂",
-      "f₁ < f₂, v₁ > v₂, λ₁ > λ₂",
-      "f₁ = f₂, v₁ < v₂, λ₁ > λ₂"
+      "Görüntü sanaldır ve cisimle aynı taraftadır.",
+      "Görüntünün boyu cismin boyundan küçüktür.",
+      "Görüntü mercekten 3f uzaklıkta ve gerçektir.",
+      "Görüntü cisme göre düzdür.",
+      "Görüntü merceğin odak noktası (f) ile 2f noktası arasında oluşur."
     ],
     "correctAnswer": 2,
-    "explanation": "Işık bir ortamdan başka bir ortama geçtiğinde frekansı değişmez, çünkü frekans kaynağa bağlıdır. Dolayısıyla f₁ = f₂'dir. Şekilde ışının normalden uzaklaşarak kırıldığı görülmektedir. Snell Yasası'na göre, ışın normalden uzaklaşıyorsa az yoğun ortama geçiyor demektir. Bu durumda n₁ > n₂'dir. Işığın ortamdaki hızı kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğu için, v₁ < v₂ olmalıdır. v = λf formülüne göre frekans (f) sabitken, hız (v) ile dalga boyu (λ) doğru orantılıdır. v₁ < v₂ olduğu için, λ₁ < λ₂ olmalıdır. Sonuç olarak doğru sıralama: f₁ = f₂, v₁ < v₂, λ₁ < λ₂'dir.",
+    "explanation": "İnce kenarlı merceklerde görüntü oluşumunu bulmak için mercek formülü kullanılır: 1/f = 1/d_c + 1/d_g. Burada f odak uzaklığı, d_c cismin uzaklığı ve d_g görüntünün uzaklığıdır. Soruda d_c = 1,5f verilmiştir. Formülde yerine koyarsak:\n1/f = 1/(1,5f) + 1/d_g\n1/d_g = 1/f - 1/(1,5f)\n1/d_g = 1/f - 2/(3f)\n1/d_g = (3 - 2) / (3f)\n1/d_g = 1/(3f)  =>  d_g = 3f\n\nSonucun pozitif çıkması, görüntünün merceğin diğer tarafında ve gerçek olduğunu gösterir. Büyütme formülü m = -d_g/d_c = |h_g/h_c| olduğundan, m = -3f / 1,5f = -2 bulunur. Büyütme değerinin 1'den büyük olması (|m|>1) görüntünün cisimden büyük olduğunu, negatif olması ise görüntünün cisme göre ters (baş aşağı) olduğunu gösterir. Bu bilgilere göre şıkları değerlendirelim:\nA) Yanlış. Görüntü gerçektir (d_g > 0).\nB) Yanlış. Görüntünün boyu cismin boyunun 2 katıdır, yani daha büyüktür.\nC) Doğru. Görüntü mercekten 3f uzaklıkta oluşur ve gerçektir.\nD) Yanlış. Görüntü gerçektir ve cisme göre terstir.\nE) Yanlış. Görüntü 3f noktasında, yani 2f'nin dışında oluşur. Genel bir kural olarak, cisim F ile 2F arasındaysa, görüntü 2F'nin dışında oluşur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499767243_1",
+    "id": "ai_1764501122795_1",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan ince kenarlı bir merceğin önüne, optik eksene dik olarak konulan bir cismin görüntüsü, merceğin diğer tarafında ve mercekten 3f uzaklıkta oluşuyor. Buna göre, cisim mercekten ne kadar uzaktadır ve oluşan görüntünün özellikleri nelerdir?",
+    "questionText": "Kırıcılık indisi n₁ olan saydam ortamdan, kırıcılık indisi n₂ olan saydam ortama gönderilen tek renkli bir ışık ışını, ara kesit yüzeyine α gelme açısıyla çarptığında tam yansımaya uğramaktadır. (n₁ > n₂). Buna göre, gelme açısı α değiştirilmeden, ışının yine tam yansımaya uğramasını garantilemek için aşağıdaki işlemlerden hangisi tek başına yapılabilir?",
     "options": [
-      "Cisim 1.5f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
-      "Cisim 2f uzağındadır; görüntü gerçek, ters ve boyu cismin boyuna eşittir.",
-      "Cisim 3f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 1.5 katıdır.",
-      "Cisim 1.5f uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır.",
-      "Cisim f/2 uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır."
+      "n₁ indisini azaltmak.",
+      "n₂ indisini artırmak.",
+      "Daha büyük dalga boylu bir ışık kullanmak.",
+      "n₁ ve n₂ indisleri arasındaki farkı (n₁-n₂) azaltmak.",
+      "n₁ indisini artırmak."
     ],
-    "correctAnswer": 0,
-    "explanation": "İnce kenarlı mercek formülü 1/f = 1/d_c + 1/d_g 'dir. Burada d_c cismin uzaklığı, d_g ise görüntünün uzaklığıdır. Görüntü merceğin diğer tarafında oluştuğu için gerçektir ve d_g = +3f olarak alınır. Formülde yerine koyarsak: 1/f = 1/d_c + 1/(3f). Buradan 1/d_c = 1/f - 1/(3f) = (3-1)/3f = 2/(3f) bulunur. Yani d_c = 3f/2 = 1.5f'dir. Büyütme oranı m = -d_g / d_c = -(3f) / (1.5f) = -2'dir. Büyütmenin negatif olması görüntünün terse döndüğünü, mutlak değerinin 1'den büyük olması ise görüntünün cisimden daha büyük olduğunu (2 katı) gösterir. d_g'nin pozitif olması da görüntünün gerçek olduğunu teyit eder. Sonuç olarak, cisim 1.5f uzağındadır ve görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499767243_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir gözlemci, hava ortamından suyun içindeki bir balığa baktığında, balığı gerçek derinliğinden daha yakında görür. Bu olayın temel nedeni aşağıdakilerden hangisidir?",
-    "options": [
-      "Işığın yansıması",
-      "Işığın tam yansımaya uğraması",
-      "Işığın kırılması",
-      "Işığın renklerine ayrılması (kırınım)",
-      "Işığın soğurulması"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Gözlemcinin bir cismi görebilmesi için cisimden gelen ışınların göze ulaşması gerekir. Sudan (çok yoğun ortam) havaya (az yoğun ortam) çıkan ışınlar, iki ortamı ayıran yüzeyde normalden uzaklaşarak kırılır. Gözlemcinin gözü, bu kırılan ışınların uzantılarının kesiştiği noktada bir sanal görüntü algılar. Işınlar normalden uzaklaşarak kırıldığı için, uzantıları su yüzeyine daha yakın bir noktada kesişir. Bu nedenle gözlemci, su içindeki balığı gerçekte olduğundan daha sığ bir derinlikte, yani kendisine daha yakın görür. Bu olayın temel nedeni ışığın sudan havaya geçerken kırılmasıdır.",
+    "correctAnswer": 4,
+    "explanation": "Tam yansıma olayının gerçekleşmesi için iki şart vardır:\n1. Işık çok yoğun ortamdan az yoğun ortama geçmelidir (soruda n₁ > n₂ olarak verilmiş, bu şart sağlanıyor).\n2. Gelme açısı (α), sınır açısından (θ_s) büyük veya ona eşit olmalıdır (α ≥ θ_s).\nSınır açısı sin(θ_s) = n₂/n₁ formülü ile hesaplanır.\nSoruda, α açısıyla gelen ışının tam yansımaya uğradığı belirtilmiştir. Yani α ≥ θ_s durumu mevcuttur. Bu durumun devam etmesini veya garantilenmesini istiyoruz.\n\nSınır açısı (θ_s) nelere bağlıdır? n₁ ve n₂'ye. Eğer sınır açısını küçültürsek, α ≥ θ_s eşitsizliğinin sağlanması daha da kolaylaşır ve tam yansıma devam eder.\nSınır açısını (θ_s) küçültmek için sin(θ_s) değerini, yani n₂/n₁ oranını küçültmemiz gerekir.\n\nŞıkları inceleyelim:\nA) n₁'i azaltmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nB) n₂'yi artırmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nC) Ortamların normal dağılım (dispersiyon) özelliğine göre, genellikle dalga boyu arttıkça (kırmızıya yaklaştıkça) kırıcılık indisi azalır. Daha büyük dalga boylu ışık kullanmak hem n₁'i hem de n₂'yi azaltır. Oranın nasıl değişeceği kesin değildir, ancak genellikle fark azaldığı için oran büyür ve sınır açısı artar. Bu durum tam yansımayı bozabilir.\nD) n₁-n₂ farkını azaltmak demek, n₂/n₁ oranını 1'e yaklaştırmak demektir. Bu da oranı büyüterek sınır açısını artırır. Tam yansıma bozulabilir.\nE) n₁'i artırmak, n₂/n₁ oranını azaltır. Bu durum sınır açısını (θ_s) küçültür. Sınır açısı küçüldüğü için, mevcut α gelme açısı yeni ve daha küçük olan sınır açısından kesinlikle büyük olacaktır (α > θ_s_yeni). Dolayısıyla tam yansıma olayı kesinlikle devam eder.",
     "difficulty": 3
   }
 ]
