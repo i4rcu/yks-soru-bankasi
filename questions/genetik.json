@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764521061445_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin artırılmasında önemli bir rol oynar?",
-    "options": [
-      "Mutasyonlar",
-      "Bölünme",
-      "Eşeysel üreme",
-      "Klonlama",
-      "Hayvanların evcilleştirilmesi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Eşeysel üreme, genetik çeşitliliğin artmasına katkıda bulunan önemli bir mekanizmadır. Bu süreç, genetik materyalin farklı bireylerden bir araya gelmesiyle yeni kombinasyonların oluşmasına olanak tanır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521061445_2",
     "subjectId": "biy",
     "topic": "Genetik",
@@ -29,6 +13,22 @@
     ],
     "correctAnswer": 0,
     "explanation": "DNA molekülünde adenine (A) bazının karşısında her zaman timin (T) bulunur. Bu baz eşleşmesi, DNA'nın yapısal bütünlüğünü korur ve genetik bilginin doğru bir şekilde kopyalanmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521061445_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin artırılmasında önemli bir rol oynar?",
+    "options": [
+      "Mutasyonlar",
+      "Bölünme",
+      "Eşeysel üreme",
+      "Klonlama",
+      "Hayvanların evcilleştirilmesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eşeysel üreme, genetik çeşitliliğin artmasına katkıda bulunan önemli bir mekanizmadır. Bu süreç, genetik materyalin farklı bireylerden bir araya gelmesiyle yeni kombinasyonların oluşmasına olanak tanır.",
     "difficulty": 3
   },
   {
