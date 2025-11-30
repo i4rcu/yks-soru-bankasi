@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764499591781_0",
+    "id": "ai_1764500939716_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda hareket eden bir araca ait hız-zaman grafiği şekildeki gibidir. Aracın 0-8 saniye zaman aralığındaki ortalama sürati V₁ ve ortalama hızının büyüklüğü V₂ olduğuna göre, V₁/V₂ oranı kaçtır?",
+    "questionText": "Doğrusal bir yolda K noktasından L noktasına 10 saniyede giden bir araç, hiç durmadan L noktasından K noktasına 15 saniyede geri dönüyor. K ve L noktaları arasındaki uzaklık 300 metre olduğuna göre, aracın tüm hareketi boyunca ortalama hızı ve ortalama sürati sırasıyla kaç m/s'dir?",
     "options": [
-      "1",
-      "5/4",
-      "4/3",
-      "5/3",
-      "2"
+      "24 ve 0",
+      "0 ve 24",
+      "12 ve 12",
+      "0 ve 12",
+      "12 ve 0"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bir hareketlinin ortalama sürati, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Hız-zaman grafiğinin altında kalan alan, yer değiştirmeyi verir.\n\n1. Toplam Alınan Yolu Hesaplayalım:\nAlınan yol, alanların mutlak değerlerinin toplamıdır.\n- (0-4 s) aralığındaki alan (yamuk alanı): [(10 + 20)/2] * 4 = 60 m\n- (4-8 s) aralığındaki alan (üçgen alanı): (4 * -10) / 2 = -20 m\nToplam alınan yol = |60| + |-20| = 60 + 20 = 80 m\n\n2. Toplam Yer Değiştirmeyi Hesaplayalım:\nYer değiştirme, alanların cebirsel toplamıdır.\nToplam yer değiştirme (Δx) = 60 + (-20) = 40 m\n\n3. Ortalama Sürati (V₁) ve Ortalama Hızı (V₂) Hesaplayalım:\nToplam zaman (Δt) = 8 s\nOrtalama sürat (V₁) = Toplam Alınan Yol / Toplam Zaman = 80 m / 8 s = 10 m/s\nOrtalama hızın büyüklüğü (V₂) = |Toplam Yer Değiştirme| / Toplam Zaman = |40 m| / 8 s = 5 m/s\n\n4. Oranı Bulalım:\nV₁/V₂ = 10 / 5 = 2. \n\n**Düzeltme ve Yeniden Değerlendirme:** Grafik yorumlamada hata yapıldı, yeniden çözelim.\n- (0-2 s) alanı (üçgen): (2 * 20) / 2 = 20 m\n- (2-4 s) alanı (dikdörtgen): 2 * 20 = 40 m\n- (4-8 s) alanı (üçgen): (4 * -10) / 2 = -20 m\n\n1. Toplam Alınan Yol:\n|20| + |40| + |-20| = 20 + 40 + 20 = 80 m\n\n2. Toplam Yer Değiştirme:\n20 + 40 + (-20) = 40 m\n\n3. Ortalama Sürat (V₁) ve Ortalama Hız (V₂):\nToplam zaman = 8 s\nOrtalama sürat (V₁) = 80 / 8 = 10 m/s\nOrtalama hızın büyüklüğü (V₂) = 40 / 8 = 5 m/s\n\n4. Oran:\nV₁/V₂ = 10 / 5 = 2. \n\n**Soruyu yeniden tasarlayarak zorluk seviyesini ayarlayalım:**\n(0-2s): 0'dan 10 m/s'ye çıkan hız. Alan = (2*10)/2 = 10m.\n(2-6s): 10 m/s'den -10 m/s'ye inen hız. (4-0) arasında t=4s'de sıfır olur. Alan_pozitif = (2*10)/2 = 10m. Alan_negatif = (2*-10)/2 = -10m.\n(6-8s): -10 m/s sabit hız. Alan = 2*(-10) = -20m.\n\nToplam zaman = 8 s\nAlınan Yol = |10| + |10| + |-10| + |-20| = 10 + 10 + 10 + 20 = 50 m\nYer Değiştirme = 10 + 10 - 10 - 20 = -10 m\n\nOrtalama Sürat (V₁) = 50 / 8 = 25/4 m/s\nOrtalama Hız Büyüklüğü (V₂) = |-10| / 8 = 10/8 = 5/4 m/s\n\nOran: V₁/V₂ = (25/4) / (5/4) = 25/5 = 5. Şıklara uymadı. \n\n**Orijinal çözüme geri dönelim ve soruyu basitleştirelim:**\nDoğrusal yolda hareket eden K aracının hız-zaman grafiği verilmiştir. (0-6s) aralığında aracın aldığı yol x, yer değiştirmesinin büyüklüğü y ise x/y oranı nedir?\n(0-4s) alanı: (4*10)/2 = 20 m\n(4-6s) alanı: (2*(-10))/2 = -10 m\nAlınan yol (x) = |20| + |-10| = 30 m\nYer değiştirme (y) = 20 + (-10) = 10 m\nOran x/y = 30/10 = 3.\n\n**Son Karar: Ortalama sürat ve ortalama hız sorusu daha klasik ve uygun.**\n(0-4s) aralığı yer değiştirme: (4*20)/2 = 40m\n(4-8s) aralığı yer değiştirme: (4*(-20))/2 = -40m\n(0-8s) aralığında;\nAlınan Yol = |40| + |-40| = 80 m\nYer Değiştirme = 40 + (-40) = 0 m\nOrtalama Sürat (V₁) = 80/8 = 10 m/s\nOrtalama Hız (V₂) = 0/8 = 0 m/s. Bu soru tanımsız bir orana yol açar.\n\n**Final Soru 1 Tasarımı:**\nDoğrusal bir yolda hareket eden bir araca ait hız-zaman grafiği şekildeki gibidir. Grafik, (0,0), (2,10), (4,10), (6,0) ve (8,-10) noktalarından geçmektedir.\n(0-8s) aralığı için;\nAlınan Yol = Alan(0-2) + Alan(2-4) + Alan(4-6) + Alan(6-8) = (2*10)/2 + (2*10) + (2*10)/2 + |(2*(-10))/2| = 10 + 20 + 10 + 10 = 50 m.\nYer Değiştirme = 10 + 20 + 10 + (-10) = 30 m.\nToplam Zaman = 8 s.\nOrtalama Sürat (V₁) = 50 / 8 = 25/4 m/s\nOrtalama Hızın Büyüklüğü (V₂) = 30 / 8 = 15/4 m/s\nOran V₁/V₂ = (25/4) / (15/4) = 25/15 = 5/3. Bu soru tam istenen zorlukta.\n\n**Soru 1 Metni:** \"Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği verilmiştir. Buna göre aracın (0-8 s) zaman aralığındaki ortalama süratinin, ortalama hızının büyüklüğüne oranı kaçtır?\" (Grafik zihinde canlandırılacak: (0,0)->(2,10)->(4,10)->(6,0)->(8,-10))\n**Cevap 5/3 olacak, D şıkkı (index 3).**",
+    "correctAnswer": 1,
+    "explanation": "Ortalama sürat, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. \n\n1. **Toplam Alınan Yol:** Araç K'dan L'ye 300 m gitmiş ve L'den K'ya 300 m geri dönmüştür. Toplam yol = 300 m + 300 m = 600 m.\n2. **Toplam Zaman:** Gidiş 10 s, dönüş 15 s sürmüştür. Toplam zaman = 10 s + 15 s = 25 s.\n3. **Ortalama Sürat:** Toplam Yol / Toplam Zaman = 600 m / 25 s = 24 m/s.\n4. **Toplam Yer Değiştirme:** Araç K noktasından başlayıp yine K noktasına geri dönmüştür. Başlangıç ve bitiş noktası aynı olduğu için toplam yer değiştirme 0'dır.\n5. **Ortalama Hız:** Toplam Yer Değiştirme / Toplam Zaman = 0 m / 25 s = 0 m/s.\n\nSonuç olarak, ortalama hız 0 m/s ve ortalama sürat 24 m/s'dir. Soruda sırasıyla istendiği için cevap '0 ve 24' olmalıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764499591781_1",
+    "id": "ai_1764500939716_1",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Yatay ve sürtünmesiz bir düzlemde, K aracı 30 m/s sabit hızla doğuya, L aracı ise 40 m/s sabit hızla kuzeye doğru hareket etmektedir. Buna göre, K aracının sürücüsüne göre L aracının hızının büyüklüğü ve yönü aşağıdakilerden hangisidir?",
+    "questionText": "Durgun halden doğrusal bir yolda harekete başlayan bir aracın hız-zaman grafiğine göre, araç ilk 2 saniyede hızını düzgün artırarak 10 m/s'ye çıkarıyor. 2-4 saniye aralığında bu sabit hızla hareket ediyor ve 4-8 saniye aralığında düzgün yavaşlayarak duruyor. Buna göre, aracın ilk 2 saniyedeki ivmesinin büyüklüğünün (a₁), 4-8 saniye aralığındaki ivmesinin büyüklüğüne (a₂) oranı (|a₁|/|a₂|) kaçtır?",
     "options": [
-      "50 m/s, Kuzeydoğu",
-      "70 m/s, Kuzeybatı",
-      "50 m/s, Kuzeybatı",
-      "10 m/s, Kuzey",
-      "70 m/s, Kuzeydoğu"
+      "1/2",
+      "1",
+      "4",
+      "1/4",
+      "2"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bağıl hız, vektörel bir niceliktir ve V(bağıl) = V(gözlenen) - V(gözlemci) formülü ile bulunur. Bu soruda gözlemci K aracı, gözlenen ise L aracıdır.\n\n1. Vektörleri Tanımlayalım:\n- K aracının hızı: Vₖ = 30 m/s (Doğu yönünde, +x ekseni)\n- L aracının hızı: Vₗ = 40 m/s (Kuzey yönünde, +y ekseni)\n\n2. Bağıl Hız Formülünü Uygulayalım:\nK'ye göre L'nin hızı: V(L,K) = Vₗ - Vₖ\nBu bir vektörel çıkarma işlemidir. Vektörel çıkarmayı, Vₗ vektörü ile -Vₖ vektörünü toplamak olarak düşünebiliriz.\n-Vₖ vektörü, Vₖ vektörünün tersidir, yani 30 m/s büyüklüğünde ve Batı yönündedir (-x ekseni).\n\n3. Vektörel Toplama Yapalım:\nBağıl hız vektörü, ucuna -Vₖ eklenmiş Vₗ vektörüdür. Bu iki vektör (biri Kuzey'e 40 m/s, diğeri Batı'ya 30 m/s) birbirine diktir. Bileşke vektörün (bağıl hızın) büyüklüğünü Pisagor teoremi ile bulabiliriz:\n|V(L,K)|² = |Vₗ|² + |-Vₖ|²\n|V(L,K)|² = (40)² + (30)²\n|V(L,K)|² = 1600 + 900 = 2500\n|V(L,K)| = √2500 = 50 m/s\n\n4. Yönü Belirleyelim:\nBileşke vektörün bileşenleri Kuzey (40 m/s) ve Batı (30 m/s) yönlerinde olduğundan, bağıl hızın yönü Kuzeybatı'dır. Sonuç olarak, K aracının sürücüsü L aracını 50 m/s hızla Kuzeybatı yönünde gidiyormuş gibi görür.",
+    "correctAnswer": 4,
+    "explanation": "İvme, hız-zaman grafiğinin eğimine eşittir. Eğim = (Hızdaki Değişim) / (Zamandaki Değişim) = Δv / Δt.\n\n1. **İlk 2 saniyedeki ivme (a₁):**\n   - Araç durgun halden (0 m/s) 2 saniyede 10 m/s hıza ulaşmıştır.\n   - a₁ = (10 m/s - 0 m/s) / (2 s - 0 s) = 10 / 2 = 5 m/s².\n   - a₁'in büyüklüğü |a₁| = 5 m/s².\n\n2. **4-8 saniye aralığındaki ivme (a₂):**\n   - Araç 4. saniyede 10 m/s hızla giderken 8. saniyede durmuştur (0 m/s).\n   - a₂ = (0 m/s - 10 m/s) / (8 s - 4 s) = -10 / 4 = -2.5 m/s².\n   - a₂'nin büyüklüğü |a₂| = |-2.5| = 2.5 m/s².\n\n3. **İvmelerin büyüklüklerinin oranı:**\n   - |a₁| / |a₂| = 5 / 2.5 = 2.\n\nBu nedenle doğru cevap 2'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500939716_2",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Doğu yönünde 90 km/h sabit süratle giden bir K aracı ile aynı doğrultuda ve paralel bir yolda batı yönünde 60 km/h sabit süratle giden bir L aracı bulunmaktadır. K aracının sürücüsüne göre L aracının hızı ve yönü nedir?",
+    "options": [
+      "Doğu yönünde 30 km/h",
+      "Batı yönünde 30 km/h",
+      "Doğu yönünde 150 km/h",
+      "Batı yönünde 150 km/h",
+      "Batı yönünde 90 km/h"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bağıl hız, vektörel bir büyüklüktür ve V(bağıl) = V(gözlenen) - V(gözlemci) formülü ile bulunur. Bu soruda gözlemci K aracı, gözlenen ise L aracıdır.\n\n1. **Yön Belirleme:** Doğu yönünü pozitif (+), batı yönünü negatif (-) olarak kabul edelim.\n2. **Hızları Vektörel Olarak Yazma:**\n   - K aracının hızı (Gözlemci): Vₖ = +90 km/h\n   - L aracının hızı (Gözlenen): Vₗ = -60 km/h\n3. **Formülü Uygulama:**\n   - K'ye göre L'nin hızı: V(L'ye göre K) = Vₗ - Vₖ\n   - V(L'ye göre K) = (-60 km/h) - (+90 km/h)\n   - V(L'ye göre K) = -150 km/h\n\nSonucun negatif (-) çıkması, hızın batı yönünde olduğunu gösterir. Büyüklüğü ise 150 km/h'dir. Dolayısıyla, K aracının sürücüsü, L aracını batı yönünde 150 km/h hızla gidiyormuş gibi görür.",
     "difficulty": 3
   }
 ]
