@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ai_1764498516247_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Azot (₇N) ve hidrojen (₁H) atomlarından oluşan amonyak (NH₃) molekülü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Molekül geometrisi üçgen piramittir.",
+      "VSEPR gösterimi AX₃E₁ şeklindedir.",
+      "Merkez atom olan azotun hibritleşme türü sp²'dir.",
+      "Molekül polardır.",
+      "Bağ açısı 109,5°'den küçüktür."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Azot atomunun (₇N) elektron dizilimi 1s² 2s² 2p³'tür. NH₃ molekülünde azot atomu, üç hidrojen atomu ile üç sigma (σ) bağı yapar ve bir tane de ortaklanmamış elektron çifti (lone pair) bulundurur. Bu durumda, merkez atom çevresinde 3 bağlayıcı elektron çifti ve 1 ortaklanmamış elektron çifti olmak üzere toplam 4 elektron çifti bölgesi vardır. VSEPR gösterimi AX₃E₁'dir. Toplam elektron çifti bölgesi sayısı 4 olduğu için azot atomunun hibritleşme türü sp³'tür. Ortaklanmamış elektron çiftinin bağ yapan elektron çiftlerine uyguladığı itme kuvveti, bağ açısını ideal tetrahedral açı olan 109,5°'den daha küçük bir değere (yaklaşık 107°) düşürür ve molekül geometrisi üçgen piramit olur. Moleküldeki yük dağılımı simetrik olmadığı için molekül polardır. Bu nedenle C şıkkındaki 'sp² hibritleşmesi yaptığı' ifadesi yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498516247_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "NaCl, H₂O ve CH₄ bileşiklerinin standart koşullardaki erime noktaları arasındaki ilişki aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "NaCl > H₂O > CH₄",
+      "H₂O > NaCl > CH₄",
+      "CH₄ > H₂O > NaCl",
+      "NaCl > CH₄ > H₂O",
+      "H₂O > CH₄ > NaCl"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maddelerin erime noktaları, tanecikler arası çekim kuvvetlerinin gücüne bağlıdır.\n1. **NaCl (Sodyum klorür):** İyonik bir bileşiktir. Katı halde iyonik kristal örgü yapısındadır ve zıt yüklü iyonlar arasında çok güçlü elektrostatik çekim kuvvetleri bulunur. Bu kuvvetleri kırmak için çok yüksek enerji gerekir, bu yüzden erime noktası çok yüksektir (801 °C).\n2. **H₂O (Su):** Polar kovalent bağlara sahip polar bir moleküldür. Molekülleri arasında etkin olan en güçlü zayıf etkileşim türü hidrojen bağlarıdır. Hidrojen bağları, London kuvvetlerinden çok daha güçlüdür. Erime noktası 0 °C'dir.\n3. **CH₄ (Metan):** Apolar kovalent bağlara sahip apolar bir moleküldür. Molekülleri arasında yalnızca zayıf London dağılım kuvvetleri etkindir. Bu kuvvetler çok zayıf olduğu için erime noktası çok düşüktür (-182 °C).\nBu bilgilere göre, tanecikler arası çekim kuvvetleri en güçlü olan NaCl'nin erime noktası en yüksek, en zayıf olan CH₄'ün erime noktası ise en düşüktür. Dolayısıyla doğru sıralama NaCl > H₂O > CH₄ şeklindedir.",
+    "difficulty": 3
+  }
+]
