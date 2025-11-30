@@ -1,50 +1,66 @@
 [
   {
-    "id": "ai_1764498573456_0",
+    "id": "ai_1764499951495_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında gümüş klorür (AgCl) katısının çöktüğü bir çözünme-çökelme tepkimesi gerçekleşmektedir. Bu tepkimenin net iyon denklemi aşağıdakilerden hangisidir?",
+    "questionText": "I.  CaCO₃(k) → CaO(k) + CO₂(g)\nII. 2H₂(g) + O₂(g) → 2H₂O(s)\nIII. Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)\n\nYukarıda verilen tepkimelerin türleri aşağıdakilerden hangisinde doğru olarak sınıflandırılmıştır?",
     "options": [
-      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
-      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
-      "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(suda)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)"
+      "I. Analiz, II. Sentez, III. Çözünme-çökelme",
+      "I. Sentez, II. Yanma, III. Asit-baz",
+      "I. Analiz, II. Sentez, III. Yer değiştirme",
+      "I. Yanma, II. Analiz, III. Sentez",
+      "I. Asit-baz, II. Yanma, III. Yer değiştirme"
     ],
     "correctAnswer": 2,
-    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi, sadece çökeltiyi oluşturan iyonları ve oluşan katıyı gösterir. Tepkimenin tam iyon denklemi: Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq). Bu denklemde Na⁺ ve NO₃⁻ iyonları tepkimeye girmemiş, sadece ortamda seyirci olarak kalmışlardır. Seyirci iyonlar denklemden çıkarıldığında geriye net iyon denklemi kalır: Ag⁺(aq) + Cl⁻(aq) → AgCl(k).",
+    "explanation": "I. Tepkime (Analiz/Ayrışma): CaCO₃(k) → CaO(k) + CO₂(g) tepkimesinde, bir bileşik (kalsiyum karbonat) ısıtılarak daha basit yapılı iki farklı maddeye (kalsiyum oksit ve karbondioksit) ayrışmıştır. Bu tür tepkimelere analiz (ayrışma) tepkimesi denir.\nII. Tepkime (Sentez/Oluşum): 2H₂(g) + O₂(g) → 2H₂O(s) tepkimesinde, iki farklı element (hidrojen ve oksijen) birleşerek yeni bir bileşik (su) oluşturmuştur. Bu tür tepkimelere sentez (oluşum) tepkimesi denir. Bu tepkime aynı zamanda bir yanma tepkimesidir, ancak sentez daha genel bir sınıflandırmadır.\nIII. Tepkime (Yer Değiştirme): Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g) tepkimesinde, aktif bir metal olan çinko (Zn), hidroklorik asitteki hidrojenden (H) daha aktif olduğu için onun yerine geçerek hidrojen gazı açığa çıkarmıştır. Bir elementin bir bileşikteki başka bir elementin yerini almasıyla gerçekleşen bu tür tepkimelere yer değiştirme (tekli yer değiştirme) tepkimesi denir.\nBu nedenle doğru sınıflandırma 'Analiz, Sentez, Yer değiştirme' şeklindedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498573456_1",
+    "id": "ai_1764499951496_1",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Propan (C₃H₈) gazının tam yanması sonucu karbondioksit (CO₂) ve su (H₂O) oluşmaktadır. Bu tepkimenin denklemi en küçük tam sayılarla denkleştirildiğinde, oksijenin (O₂) katsayısı kaç olur?",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında, suda az çözünen gümüş klorür (AgCl) katısı oluşur. Bu olaya ilişkin net iyon denklemi aşağıdakilerden hangisidir?",
     "options": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "7"
+      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
+      "Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)",
+      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
+      "Ag⁺(aq) + NaCl(k) → AgCl(k) + Na⁺(aq)"
     ],
     "correctAnswer": 3,
-    "explanation": "Yanma tepkimesinin denklemi C₃H₈ + O₂ → CO₂ + H₂O şeklindedir. Denkleştirme için önce karbon (C), sonra hidrojen (H) ve en son oksijen (O) atomları denkleştirilir.\n1. Karbon denkleştirme: Girenlerde 3 C atomu var, ürünlere 3 CO₂ yazılır. C₃H₈ + O₂ → 3CO₂ + H₂O\n2. Hidrojen denkleştirme: Girenlerde 8 H atomu var, ürünlere 4 H₂O yazılır. C₃H₈ + O₂ → 3CO₂ + 4H₂O\n3. Oksijen denkleştirme: Ürünlerde (3x2) + (4x1) = 10 O atomu var. Girenlerde de 10 O atomu olması için O₂'nin katsayısı 5 olmalıdır.\nDenkleştirilmiş tam denklem: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Dolayısıyla O₂'nin katsayısı 5'tir.",
+    "explanation": "1. **Moleküler Denklem:** İlk olarak tepkimenin denkleştirilmiş moleküler denklemi yazılır: AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılarak yazılır. Katı, sıvı ve gazlar moleküler halde bırakılır. Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)\n3. **Seyirci İyonların Belirlenmesi:** Tepkimeye girmeyen, yani denklemin her iki tarafında da aynı formda bulunan iyonlar 'seyirci iyon' olarak adlandırılır. Bu tepkimede Na⁺(aq) ve NO₃⁻(aq) iyonları seyirci iyonlardır.\n4. **Net İyon Denklemi:** Seyirci iyonlar tam iyonik denklemden çıkarılarak net iyon denklemi elde edilir. Bu denklem, çökelmeyi oluşturan asıl kimyasal değişimi gösterir. Ag⁺(aq) + Cl⁻(aq) → AgCl(k)\nBu nedenle doğru cevap D şıkkıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498573457_2",
+    "id": "ai_1764499951496_2",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Sülfürik asit (H₂SO₄) ve potasyum hidroksit (KOH) çözeltileri arasında tam nötralleşme tepkimesi gerçekleşiyor. Bu tepkime sonucunda oluşan ana ürünler aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "questionText": "MnO₂(k) + 4HCl(aq) → MnCl₂(aq) + Cl₂(g) + 2H₂O(s)\n\ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Potasyum sülfit (K₂SO₃) ve su (H₂O)",
-      "Potasyum sülfat (K₂SO₄) ve hidrojen gazı (H₂)",
-      "Potasyum (K), kükürt (S) ve su (H₂O)",
-      "Potasyum sülfat (K₂SO₄) ve su (H₂O)",
-      "Potasyum hidrosülfat (KHSO₄) ve su (H₂O)"
+      "MnO₂ yükseltgen maddedir.",
+      "Manganez (Mn) atomu indirgenmiştir.",
+      "Klor (Cl) atomu yükseltgenmiştir.",
+      "HCl hem indirgen hem de yükseltgen olarak davranmıştır.",
+      "1 mol MnO₂ tepkimeye girdiğinde 2 mol elektron alınır."
     ],
     "correctAnswer": 3,
-    "explanation": "Bu bir asit-baz nötralleşme tepkimesidir. Asitten gelen H⁺ iyonu ile bazdan gelen OH⁻ iyonu birleşerek suyu (H₂O) oluşturur. Geriye kalan iyonlar ise tuzu oluşturur. Asitten SO₄²⁻ (sülfat) iyonu ve bazdan K⁺ (potasyum) iyonu gelir. Bu iyonların birleşmesiyle potasyum sülfat (K₂SO₄) tuzu oluşur. Denkleştirilmiş tepkime şöyledir: H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l). Dolayısıyla ürünler potasyum sülfat ve sudur.",
+    "explanation": "Tepkimedeki elementlerin yükseltgenme basamaklarını inceleyelim:\nGirenler:\n- MnO₂: Oksijen -2, dolayısıyla Mn +4'tür.\n- HCl: Hidrojen +1, dolayısıyla Klor (Cl) -1'dir.\nÜrünler:\n- MnCl₂: Klor -1, dolayısıyla Mn +2'dir.\n- Cl₂: Elementel halde olduğu için Cl 0'dır.\n- H₂O: H +1, O -2'dir.\n\nDeğişimler:\n- **Manganez (Mn):** Yükseltgenme basamağı +4'ten +2'ye düşmüştür. Elektron almıştır, dolayısıyla **indirgenmiştir**. (B doğru). Kendisi indirgenen madde **yükseltgen** maddedir. (A doğru). Mn⁴⁺ + 2e⁻ → Mn²⁺ olduğundan, 1 mol MnO₂ 2 mol elektron alır. (E doğru).\n- **Klor (Cl):** Yükseltgenme basamağı -1'den (HCl'de) 0'a (Cl₂'de) yükselmiştir. Elektron vermiştir, dolayısıyla **yükseltgenmiştir**. (C doğru).\n- **D şıkkının analizi:** HCl'deki klor atomları yükseltgenerek Cl₂ gazını oluşturmuştur, bu da HCl'nin indirgen özellik gösterdiğini kanıtlar. Ancak HCl'deki hiçbir atom indirgenmemiştir. Dolayısıyla HCl sadece indirgen olarak davranmıştır. Bu nedenle bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499951496_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Kapalı bir kapta 14 gram N₂ gazı ile 6 gram H₂ gazı, N₂(g) + 3H₂(g) → 2NH₃(g) denklemine göre tam verimle tepkimeye sokuluyor. Tepkime sonunda kapta hangi maddelerden kaçar gram bulunur? (N: 14 g/mol, H: 1 g/mol)",
+    "options": [
+      "17 g NH₃ ve 3 g H₂",
+      "20 g NH₃",
+      "17 g NH₃",
+      "8,5 g NH₃ ve 7 g N₂",
+      "17 g NH₃ ve 1 g H₂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. **Mol Hesaplaması:** Tepkimeye giren maddelerin mol sayıları bulunur.\n   - n(N₂) = kütle / mol kütlesi = 14 g / (2 * 14 g/mol) = 0,5 mol N₂\n   - n(H₂) = kütle / mol kütlesi = 6 g / (2 * 1 g/mol) = 3,0 mol H₂\n2. **Sınırlayıcı Bileşenin Belirlenmesi:** Tepkime denklemine göre 1 mol N₂ ile 3 mol H₂ tepkimeye girer.\n   - Elimizdeki 0,5 mol N₂'nin tamamının tepkimeye girmesi için 0,5 * 3 = 1,5 mol H₂ gereklidir.\n   - Elimizde 3,0 mol H₂ bulunmaktadır. Bu miktar, gerekenden (1,5 mol) daha fazladır. Bu nedenle H₂ artar, N₂ ise tamamen tükenir. **Sınırlayıcı bileşen N₂**'dir.\n3. **Hesaplamaların Yapılması:** Bütün hesaplamalar sınırlayıcı bileşen olan N₂'ye göre yapılır.\n   - Harcanan N₂ = 0,5 mol\n   - Harcanan H₂ = 1,5 mol (0,5 mol N₂'nin 3 katı)\n   - Oluşan NH₃ = 1,0 mol (0,5 mol N₂'nin 2 katı)\n4. **Son Durum (Mol):**\n   - Kalan N₂: 0,5 mol - 0,5 mol = 0 mol\n   - Kalan H₂: 3,0 mol - 1,5 mol = 1,5 mol\n   - Oluşan NH₃: 1,0 mol\n5. **Son Durum (Kütle):**\n   - m(H₂) = mol * mol kütlesi = 1,5 mol * 2 g/mol = 3 g H₂\n   - m(NH₃) = mol * mol kütlesi = 1,0 mol * (14 + 3*1) g/mol = 1,0 mol * 17 g/mol = 17 g NH₃\nSonuç olarak, kapta 17 g NH₃ ve 3 g H₂ bulunur.",
     "difficulty": 3
   }
 ]
