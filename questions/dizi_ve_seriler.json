@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519215546_0",
+    "id": "ai_1764520136350_0",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Aşağıdaki dizilerden hangisi artan bir aritmetik dizi değildir?",
-    "options": [
-      "2, 5, 8, 11",
-      "3, 6, 9, 12",
-      "1, 2, 4, 8",
-      "5, 10, 15, 20",
-      "7, 14, 21, 28"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Artan bir aritmetik dizi, her terimin bir öncekine sabit bir sayı eklenerek elde edildiği dizidir. 1, 2, 4, 8 dizisi ise çarpan ile ilerlediği için aritmetik değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519215546_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 3, 6, 12, 24, ... ile devam etmektedir. Bu dizinin 5. terimi nedir?",
+    "questionText": "Aritmetik bir dizinin ilk terimi 3 ve ortak farkı 5 ise, dizinin 10. terimi nedir?",
     "options": [
       "48",
-      "60",
-      "72",
-      "96",
-      "120"
+      "53",
+      "58",
+      "63",
+      "68"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bu dizi her terimde bir önceki terimin 2 katına çıkarılmasıyla elde edilmektedir. 4. terim 24 olduğuna göre, 5. terim 24 x 2 = 48'dir.",
+    "correctAnswer": 3,
+    "explanation": "Aritmetik dizinin n. terimi a_n = a_1 + (n-1) * d formülü ile bulunur. Burada a_1 = 3, d = 5 ve n = 10. Yani a_{10} = 3 + (10-1) * 5 = 3 + 45 = 48.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519215546_2",
+    "id": "ai_1764520136350_1",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Aşağıdaki serilerden hangisi geometrik bir dizi oluşturur?",
+    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 3 ise, dizinin 5. terimi nedir?",
     "options": [
-      "1, 2, 3, 4",
-      "2, 4, 8, 16",
-      "3, 5, 7, 9",
-      "10, 20, 30, 40",
-      "5, 10, 15, 20"
+      "54",
+      "162",
+      "486",
+      "1458",
+      "4374"
     ],
-    "correctAnswer": 1,
-    "explanation": "Geometrik dizilerde her terim bir önceki terimin belirli bir çarpanıyla elde edilir. 2, 4, 8, 16 dizisinde her terim 2 ile çarpılarak elde edildiği için geometrik bir dizidir.",
+    "correctAnswer": 3,
+    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile bulunur. Burada a_1 = 2, r = 3 ve n = 5. Yani a_{5} = 2 * 3^(5-1) = 2 * 81 = 162.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520136350_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "1, 4, 9, 16, 25,... dizisi hangi terim dizisidir?",
+    "options": [
+      "Aritmetik Dizi",
+      "Geometrik Dizi",
+      "Kare Sayılar Dizisi",
+      "Fibonacci Dizisi",
+      "Üslü Dizi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Verilen dizi, her terimin sırasıyla 1'in karesi, 2'nin karesi, 3'ün karesi gibi geliştiği bir dizidir. Yani bu bir kare sayılar dizisidir.",
     "difficulty": 3
   }
 ]
