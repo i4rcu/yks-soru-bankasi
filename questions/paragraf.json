@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai_1764497605988_0",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Sanılanın aksine, yaratıcılık yalnızca sanatçılara özgü bir ilham anı değildir. Aksine, farklı alanlardaki bilgileri birleştirme, alışılmışın dışında bağlantılar kurma ve problemlere yeni çözüm yolları bulma becerisidir. Bir mühendisin daha verimli bir motor tasarlaması da bir aşçının daha önce denenmemiş malzemelerle harika bir lezzet yaratması da bu becerinin bir ürünüdür. Dolayısıyla yaratıcılığı, dar kalıplara sıkıştırmak yerine onu hayatın her alanında karşılaşılabilecek bir zihinsel esneklik olarak görmek gerekir.",
+    "options": [
+      "Sanatsal faaliyetler, yaratıcılığın en saf halidir.",
+      "Yaratıcı olabilmek için belirli bir alanda uzmanlaşmak şarttır.",
+      "Yaratıcılık, farklı disiplinlerde ortaya çıkabilen genel bir problem çözme yeteneğidir.",
+      "İnsanlar doğuştan gelen yaratıcılık potansiyellerini zamanla kaybederler.",
+      "Teknolojik gelişmeler, insanın yaratıcı düşünme becerisini köreltmektedir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada yaratıcılığın sadece sanatla sınırlı olmadığı, mühendislik ve aşçılık gibi farklı alanlarda da ortaya çıkabilen, bilgileri birleştirme ve yeni çözümler üretme becerisi olduğu vurgulanmaktadır. Bu durum, yaratıcılığın genel bir zihinsel esneklik ve problem çözme yeteneği olduğu anlamına gelir. A şıkkı, parçanın \"sanatçılara özgü değildir\" fikriyle çelişir. B şıkkı, uzmanlaşmaktan değil, farklı bilgileri birleştirmekten bahsedildiği için yanlıştır. D ve E şıkları ise parçada hiç değinilmeyen konulardır. Bu nedenle en kapsayıcı ve doğru ifade C şıkkında verilmiştir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497605988_1",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "(I) Eleştirel düşünme, bireyin bilgiyi pasif bir şekilde kabul etmek yerine onu aktif olarak analiz etme, sorgulama ve değerlendirme sürecidir. (II) Bu beceri, özellikle bilgi kirliliğinin yoğun olduğu günümüz dünyasında doğruyu yanlıştan ayırmak için hayati bir önem taşır. (III) Eğitim sistemleri, öğrencilere erken yaşlardan itibaren ezbercilik yerine bu yeteneği kazandırmayı hedeflemelidir. (IV) Okullarda yapılan münazara etkinlikleri de bu becerinin gelişimine katkı sağlar. (V) Sorgulanmadan kabul edilen her bilgi, bireyin düşünsel bağımsızlığını zedeler ve onu manipülasyona açık hale getirir.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paragrafın genelinde eleştirel düşünmenin tanımı, önemi ve bu düşünce biçiminden yoksun olmanın getireceği tehlikeler üzerinde durulmaktadır. I, II, III ve V numaralı cümleler bu genel konsept etrafında bir bütünlük oluşturur. I. cümlede tanım yapılır, II. cümlede günümüzdeki önemi vurgulanır, III. cümlede eğitimdeki rolüne değinilir ve V. cümlede ise eksikliğinin sonuçları belirtilir. Ancak IV. cümle, konunun genel akışından saparak çok daha spesifik bir örnek olan \"münazara etkinlikleri\" konusuna girer. Parçanın genel felsefi ve teorik havasından ayrılarak somut bir uygulama örneği verdiği için düşüncenin akışını bozmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497605988_2",
+    "subjectId": "tur",
+    "topic": "Paragraf",
+    "questionText": "Dijital minimalizm, teknolojiyle daha bilinçli ve amaç odaklı bir ilişki kurmayı savunan bir felsefedir. Bu yaklaşıma göre, her yeni uygulamayı indirmek veya her sosyal medya platformunda yer almak yerine, dijital araçları yalnızca hayatımıza gerçekten değer katanları seçerek kullanmalıyız. Amaç, teknolojiyi tamamen reddetmek değil, onun hayatımızdaki rolünü kontrol altına alarak dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır. Bu sayede kazanılan zaman ve enerji, daha anlamlı ve derinlikli faaliyetlere yönlendirilebilir. Böylece teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür.",
+    "options": [
+      "Teknolojik araçların seçici bir şekilde kullanılması gerektiğini öne sürdüğüne",
+      "Zihinsel odaklanmayı ve verimliliği artırmayı hedeflediğine",
+      "Teknolojinin tamamen hayattan çıkarılması gerektiğini savunduğuna",
+      "Kişinin teknoloji üzerindeki kontrolünü artırmayı amaçladığına",
+      "Dijital araçların bir amaç değil, araç olarak görülmesini teşvik ettiğine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parçada dijital minimalizmin teknolojiyi \"tamamen reddetmek değil\", aksine \"bilinçli ve amaç odaklı\" kullanarak kontrol altına almak olduğu açıkça belirtilmektedir. A şıkkına \"gerçekten değer katanları seçerek kullanmalıyız\" ifadesinden, B şıkkına \"dikkat dağınıklığını azaltmak ve zihinsel berraklığı artırmaktır\" ifadesinden, D şıkkına \"onun hayatımızdaki rolünü kontrol altına alarak\" ifadesinden ve E şıkkına \"teknoloji, bir amaç olmaktan çıkıp hedeflere ulaşmada bir araca dönüşür\" ifadesinden ulaşılabilir. Ancak C şıkkındaki \"teknolojinin tamamen hayattan çıkarılması gerektiği\" ifadesi, parçadaki \"teknolojiyi tamamen reddetmek değil\" yargısıyla doğrudan çelişmektedir. Bu nedenle bu yargıya parçadan ulaşılamaz.",
+    "difficulty": 3
+  }
+]
