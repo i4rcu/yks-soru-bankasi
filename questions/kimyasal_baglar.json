@@ -16,22 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764521026139_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
-    "options": [
-      "Elektron paylaşımı ile oluşur.",
-      "İki atom arasında güçlü bir çekim kuvveti vardır.",
-      "Genellikle metal atomları arasında görülür.",
-      "Düşük erime noktalarına sahiptir.",
-      "Moleküler yapılar oluşturur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kovalent bağlar genellikle ametal atomları arasında görülür. Metal atomları genellikle iyonik bağlar oluşturur.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521026139_2",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 2,
     "explanation": "H2O (su) molekülü, oksijen ve hidrojen arasında elektron paylaşımı ile oluşan bir kovalent bağa sahiptir. Diğer bileşikler ise iyonik bağ içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521026139_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
+    "options": [
+      "Elektron paylaşımı ile oluşur.",
+      "İki atom arasında güçlü bir çekim kuvveti vardır.",
+      "Genellikle metal atomları arasında görülür.",
+      "Düşük erime noktalarına sahiptir.",
+      "Moleküler yapılar oluşturur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kovalent bağlar genellikle ametal atomları arasında görülür. Metal atomları genellikle iyonik bağlar oluşturur.",
     "difficulty": 3
   },
   {
