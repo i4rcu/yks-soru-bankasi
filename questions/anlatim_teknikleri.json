@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764500245934_0",
+    "id": "ai_1764501540019_0",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Kapıyı yavaşça araladı. Odanın ortasında, ceviz ağacından yapılmış masanın üzerinde antika bir gaz lambası duruyordu. Lambanın titrek ışığı, duvardaki solgun portrelere vuruyor, zamanın yüzlerde açtığı derin çizgileri daha da belirginleştiriyordu. Adam, parke zeminde hiç ses çıkarmadan masaya doğru ilerledi, parmak uçlarıyla lambanın soğuk camına dokundu. Bu odanın havasında yılların birikmiş hüznü ve anıları saklı gibiydi.",
+    "questionText": "Karlı bir kış sabahıydı. Pencereden dışarı baktığımda her yerin bembeyaz bir örtüyle kaplandığını gördüm. Ağaçların dalları karın ağırlığıyla eğilmiş, sanki yorgun savaşçılar gibi duruyorlardı. Uzaklardaki dağların zirveleri, pamuktan bir yorganla örtülmüş gibiydi. Soğuk hava, camda buğu yapmıştı. Sonra sıcak kahvemden bir yudum aldım ve günü planlamaya başladım. \n\nBu parçanın anlatımında aşağıdakilerden hangisi ağır basmaktadır?",
     "options": [
       "Öyküleme",
-      "Açıklama",
-      "Betimleme",
       "Tartışma",
-      "Karşılaştırma"
+      "Betimleme",
+      "Açıklama",
+      "Tanık Gösterme"
     ],
     "correctAnswer": 2,
-    "explanation": "Paragrafta bir olay akışı (kapıyı aralamak, ilerlemek, dokunmak) olsa da yazarın asıl amacı, okuyucunun zihninde bir sahne canlandırmaktır. Odanın, masanın, lambanın ve portrelerin görsel özelliklerini ayrıntılarıyla vererek bir atmosfer oluşturmaya odaklanılmıştır. Varlıklar ve mekan, ayırt edici nitelikleriyle anlatıldığı için ağır basan anlatım tekniği betimlemedir. Öyküleme, betimlemeye hizmet eden bir araç olarak kullanılmıştır.",
+    "explanation": "Parçada yazar, bir kış sabahı gördüğü manzarayı okuyucunun zihninde canlandırmayı amaçlamaktadır. 'Bembeyaz örtü', 'yorgun savaşçılar gibi duran ağaçlar', 'pamuktan yorgan gibi dağlar' gibi ifadelerle varlıkların ve ortamın nitelikleri, görsel özellikleriyle aktarılmıştır. Metinde 'baktım', 'aldım', 'başladım' gibi eylemler bulunsa da bunlar, asıl amaç olan manzarayı tasvir etmeye hizmet eden yan unsurlardır. Anlatımın temel amacı bir olayı anlatmak (öyküleme) değil, bir durumu veya manzarayı kelimelerle resmetmektir (betimleme). Bu nedenle ağır basan anlatım tekniği betimlemedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500245934_1",
+    "id": "ai_1764501540020_1",
     "subjectId": "tur",
     "topic": "Anlatım Teknikleri",
-    "questionText": "Ali, masasında oturmuş, önündeki boş kağıda bakıyordu. Son teslim tarihi yarındı ama aklına tek bir kelime bile gelmiyordu. Bu projenin kariyeri için ne kadar önemli olduğunu biliyordu ve bu bilgi omuzlarına ağır bir yük bindiriyordu. Başarısız olma düşüncesi zihnini bir zehir gibi sarmıştı. Yıllardır kurduğu hayallerin bir anda yıkılmasından ölesiye korkuyor, içindeki sesin 'Yapamayacaksın!' diye bağırdığını duyuyordu sanki. Bu korku, mantıklı düşünme yetisini neredeyse tamamen elinden almıştı.",
+    "questionText": "Okyanuslar, Dünya yüzeyinin yaklaşık %71'ini kaplar ve gezegenimizdeki yaşamın temelini oluşturur. Ortalama derinliği 3.700 metre olan bu devasa su kütleleri, bilinen yaşam formlarının %80'ine ev sahipliği yapar. Buna karşılık, insanlığın detaylı olarak haritalandırdığı okyanus tabanı oranı ise sadece %20 civarındadır. Bu durum, uzayın derinlikleri hakkında okyanusların dibinden daha fazla bilgiye sahip olduğumuzu göstermesi açısından oldukça düşündürücüdür. Mars'ın yüzeyi bile okyanus tabanından daha iyi bilinmektedir.\n\nBu parçanın anlatımında aşağıdaki düşünceyi geliştirme yollarından hangilerine başvurulmuştur?",
     "options": [
-      "Bilinç akışı",
-      "İç konuşma (iç monolog)",
-      "Geriye dönüş",
-      "İç çözümleme",
-      "Diyalog"
+      "Tanımlama - Örnekleme",
+      "Benzetme - Tanık Gösterme",
+      "Betimleme - Öyküleme",
+      "Açıklama - Tartışma",
+      "Sayısal Verilerden Yararlanma - Karşılaştırma"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bu paragrafta, anlatıcı üçüncü kişidir (O anlatıcı). Anlatıcı, kahraman Ali'nin zihninin içine girerek onun düşüncelerini, korkularını ve ruhsal durumunu okuyucuya aktarmaktadır. Ali'nin düşünceleri, 'Ben korkuyorum, yapamayacağım.' gibi doğrudan kendi ağzından değil, anlatıcının süzgecinden geçirilerek '...ölesiye korkuyor, ...elinden almıştı.' gibi ifadelerle anlatılmıştır. Kahramanın iç dünyasının, psikolojisinin anlatıcı tarafından tahlil edilerek sunulması tekniğine 'iç çözümleme' denir. Eğer bu düşünceler, araya anlatıcı girmeden, birinci tekil şahıs ağzından aktarılsaydı 'iç konuşma' olurdu.",
+    "correctAnswer": 4,
+    "explanation": "Parçada okyanuslar hakkında bilgi verilirken istatistiksel veriler kullanılmıştır. '%71', '3.700 metre', '%80', '%20' gibi ifadeler 'sayısal verilerden yararlanma' yönteminin kullanıldığını gösterir. Ayrıca, okyanus tabanı hakkındaki bilgimiz ile uzay ve Mars hakkındaki bilgimiz arasında bir kıyaslama yapılmıştır ('...okyanusların dibinden daha fazla bilgiye sahip olduğumuz...', 'Mars'ın yüzeyi bile ... daha iyi bilinmektedir'). Bu da 'karşılaştırma' yöntemine başvurulduğunu kanıtlar. Parçanın genel amacı bilgi vermek olduğu için ana anlatım biçimi 'açıklama'dır ve bu anlatım biçimi 'sayısal verilerden yararlanma' ve 'karşılaştırma' yollarıyla desteklenmiştir. Seçenekler arasında bu iki yöntemi bir arada sunan E şıkkı doğru cevaptır.",
     "difficulty": 3
   }
 ]
