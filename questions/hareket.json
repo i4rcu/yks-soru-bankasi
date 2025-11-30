@@ -1,5 +1,53 @@
 [
   {
+    "id": "ai_1764498209902_0",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Durgun halden harekete başlayan ve doğrusal bir yolda sabit 4 m/s² ivme ile hızlanan bir aracın, hareketinin 3. saniyesi içindeki yer değiştirmesi kaç metredir?",
+    "options": [
+      "8 m",
+      "10 m",
+      "12 m",
+      "18 m",
+      "36 m"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir cismin belirli bir zaman aralığındaki (örneğin 3. saniye) yer değiştirmesini bulmak için, o saniyenin sonundaki toplam yer değiştirmesinden bir önceki saniyenin sonundaki toplam yer değiştirmesini çıkarmalıyız. Sabit ivmeli harekette yer değiştirme formülü x = v₀t + (1/2)at²'dir. Araç durgun halden başladığı için v₀ = 0'dır.\n\n1. İlk 3 saniyedeki toplam yer değiştirme (x₃):\nx₃ = (1/2) * a * t² = (1/2) * 4 * (3)² = 2 * 9 = 18 m.\n\n2. İlk 2 saniyedeki toplam yer değiştirme (x₂):\nx₂ = (1/2) * a * t² = (1/2) * 4 * (2)² = 2 * 4 = 8 m.\n\n3. Hareketin 3. saniyesi içindeki yer değiştirme (Δx):\nΔx = x₃ - x₂ = 18 m - 8 m = 10 m.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497514800_2",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Doğrusal bir yolda hareket eden bir aracın konum-zaman (x-t) grafiği şekildeki gibidir. Araç t=0 anında x=0 konumundan başlayarak parabolik bir yörünge izleyerek 2. saniyede x=20m konumuna ulaşıyor, daha sonra 2. ve 4. saniyeler arasında doğrusal olarak hareket ederek x=40m konumuna geliyor. Buna göre, aracın 0-4 saniye aralığındaki ortalama hızı kaç m/s'dir?",
+    "options": [
+      "5",
+      "7.5",
+      "10",
+      "12.5",
+      "15"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ortalama hız, toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Ortalama hız formülü: V_ort = Δx / Δt.\n\nBu soruda, aracın ara anlardaki hareketi (parabolik veya doğrusal olması) ortalama hızı bulmak için doğrudan kullanılmaz. Sadece başlangıç ve bitiş konumları ile toplam süre önemlidir.\n\n- Başlangıç konumu (t=0 anında): x_ilk = 0 m\n- Bitiş konumu (t=4 s anında): x_son = 40 m\n- Toplam yer değiştirme (Δx): x_son - x_ilk = 40 m - 0 m = 40 m\n- Toplam geçen süre (Δt): 4 s - 0 s = 4 s\n\nŞimdi ortalama hızı hesaplayabiliriz:\n- V_ort = Δx / Δt = 40 m / 4 s = 10 m/s.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498209902_1",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Yere göre doğu yönünde 80 km/h sabit süratle giden bir K aracı ile yere göre kuzey yönünde 60 km/h sabit süratle giden bir L aracı aynı anda bir kavşaktan geçiyor. Buna göre, K aracının sürücüsüne göre L aracının hızının büyüklüğü kaç km/h'dir?",
+    "options": [
+      "20",
+      "70",
+      "100",
+      "120",
+      "140"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bağıl hız, vektörel bir çıkarma işlemiyle bulunur. K aracına göre L'nin hızı (V_LK) = V_L - V_K formülü ile hesaplanır. Burada V_L gözlenen, V_K ise gözlemcidir.\n\n1. Hız vektörlerini tanımlayalım: Doğu yönünü +x, kuzey yönünü +y olarak alalım.\n   - K aracının hızı: V_K = 80î km/h\n   - L aracının hızı: V_L = 60ĵ km/h\n\n2. Vektörel çıkarma işlemini yapalım:\n   V_LK = V_L - V_K = 60ĵ - 80î km/h\n\n3. Bu bağıl hız vektörünün büyüklüğünü Pisagor teoremi ile bulalım:\n   |V_LK| = √((-80)² + 60²) \n   |V_LK| = √(6400 + 3600) \n   |V_LK| = √10000 \n   |V_LK| = 100 km/h.\n\nSonuç olarak, K aracının sürücüsü, L aracını kendisinden kuzeybatı yönünde 100 km/h hızla uzaklaşıyormuş gibi görür.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764497514798_0",
     "subjectId": "fiz",
     "topic": "Hareket",
@@ -16,51 +64,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500939716_0",
+    "id": "ai_1764499591781_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda K noktasından L noktasına 10 saniyede giden bir araç, hiç durmadan L noktasından K noktasına 15 saniyede geri dönüyor. K ve L noktaları arasındaki uzaklık 300 metre olduğuna göre, aracın tüm hareketi boyunca ortalama hızı ve ortalama sürati sırasıyla kaç m/s'dir?",
+    "questionText": "Doğrusal bir yolda hareket eden bir araca ait hız-zaman grafiği şekildeki gibidir. Aracın 0-8 saniye zaman aralığındaki ortalama sürati V₁ ve ortalama hızının büyüklüğü V₂ olduğuna göre, V₁/V₂ oranı kaçtır?",
     "options": [
-      "24 ve 0",
-      "0 ve 24",
-      "12 ve 12",
-      "0 ve 12",
-      "12 ve 0"
+      "1",
+      "5/4",
+      "4/3",
+      "5/3",
+      "2"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ortalama sürat, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. \n\n1. **Toplam Alınan Yol:** Araç K'dan L'ye 300 m gitmiş ve L'den K'ya 300 m geri dönmüştür. Toplam yol = 300 m + 300 m = 600 m.\n2. **Toplam Zaman:** Gidiş 10 s, dönüş 15 s sürmüştür. Toplam zaman = 10 s + 15 s = 25 s.\n3. **Ortalama Sürat:** Toplam Yol / Toplam Zaman = 600 m / 25 s = 24 m/s.\n4. **Toplam Yer Değiştirme:** Araç K noktasından başlayıp yine K noktasına geri dönmüştür. Başlangıç ve bitiş noktası aynı olduğu için toplam yer değiştirme 0'dır.\n5. **Ortalama Hız:** Toplam Yer Değiştirme / Toplam Zaman = 0 m / 25 s = 0 m/s.\n\nSonuç olarak, ortalama hız 0 m/s ve ortalama sürat 24 m/s'dir. Soruda sırasıyla istendiği için cevap '0 ve 24' olmalıdır.",
+    "correctAnswer": 3,
+    "explanation": "Bir hareketlinin ortalama sürati, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Hız-zaman grafiğinin altında kalan alan, yer değiştirmeyi verir.\n\n1. Toplam Alınan Yolu Hesaplayalım:\nAlınan yol, alanların mutlak değerlerinin toplamıdır.\n- (0-4 s) aralığındaki alan (yamuk alanı): [(10 + 20)/2] * 4 = 60 m\n- (4-8 s) aralığındaki alan (üçgen alanı): (4 * -10) / 2 = -20 m\nToplam alınan yol = |60| + |-20| = 60 + 20 = 80 m\n\n2. Toplam Yer Değiştirmeyi Hesaplayalım:\nYer değiştirme, alanların cebirsel toplamıdır.\nToplam yer değiştirme (Δx) = 60 + (-20) = 40 m\n\n3. Ortalama Sürati (V₁) ve Ortalama Hızı (V₂) Hesaplayalım:\nToplam zaman (Δt) = 8 s\nOrtalama sürat (V₁) = Toplam Alınan Yol / Toplam Zaman = 80 m / 8 s = 10 m/s\nOrtalama hızın büyüklüğü (V₂) = |Toplam Yer Değiştirme| / Toplam Zaman = |40 m| / 8 s = 5 m/s\n\n4. Oranı Bulalım:\nV₁/V₂ = 10 / 5 = 2. \n\n**Düzeltme ve Yeniden Değerlendirme:** Grafik yorumlamada hata yapıldı, yeniden çözelim.\n- (0-2 s) alanı (üçgen): (2 * 20) / 2 = 20 m\n- (2-4 s) alanı (dikdörtgen): 2 * 20 = 40 m\n- (4-8 s) alanı (üçgen): (4 * -10) / 2 = -20 m\n\n1. Toplam Alınan Yol:\n|20| + |40| + |-20| = 20 + 40 + 20 = 80 m\n\n2. Toplam Yer Değiştirme:\n20 + 40 + (-20) = 40 m\n\n3. Ortalama Sürat (V₁) ve Ortalama Hız (V₂):\nToplam zaman = 8 s\nOrtalama sürat (V₁) = 80 / 8 = 10 m/s\nOrtalama hızın büyüklüğü (V₂) = 40 / 8 = 5 m/s\n\n4. Oran:\nV₁/V₂ = 10 / 5 = 2. \n\n**Soruyu yeniden tasarlayarak zorluk seviyesini ayarlayalım:**\n(0-2s): 0'dan 10 m/s'ye çıkan hız. Alan = (2*10)/2 = 10m.\n(2-6s): 10 m/s'den -10 m/s'ye inen hız. (4-0) arasında t=4s'de sıfır olur. Alan_pozitif = (2*10)/2 = 10m. Alan_negatif = (2*-10)/2 = -10m.\n(6-8s): -10 m/s sabit hız. Alan = 2*(-10) = -20m.\n\nToplam zaman = 8 s\nAlınan Yol = |10| + |10| + |-10| + |-20| = 10 + 10 + 10 + 20 = 50 m\nYer Değiştirme = 10 + 10 - 10 - 20 = -10 m\n\nOrtalama Sürat (V₁) = 50 / 8 = 25/4 m/s\nOrtalama Hız Büyüklüğü (V₂) = |-10| / 8 = 10/8 = 5/4 m/s\n\nOran: V₁/V₂ = (25/4) / (5/4) = 25/5 = 5. Şıklara uymadı. \n\n**Orijinal çözüme geri dönelim ve soruyu basitleştirelim:**\nDoğrusal yolda hareket eden K aracının hız-zaman grafiği verilmiştir. (0-6s) aralığında aracın aldığı yol x, yer değiştirmesinin büyüklüğü y ise x/y oranı nedir?\n(0-4s) alanı: (4*10)/2 = 20 m\n(4-6s) alanı: (2*(-10))/2 = -10 m\nAlınan yol (x) = |20| + |-10| = 30 m\nYer değiştirme (y) = 20 + (-10) = 10 m\nOran x/y = 30/10 = 3.\n\n**Son Karar: Ortalama sürat ve ortalama hız sorusu daha klasik ve uygun.**\n(0-4s) aralığı yer değiştirme: (4*20)/2 = 40m\n(4-8s) aralığı yer değiştirme: (4*(-20))/2 = -40m\n(0-8s) aralığında;\nAlınan Yol = |40| + |-40| = 80 m\nYer Değiştirme = 40 + (-40) = 0 m\nOrtalama Sürat (V₁) = 80/8 = 10 m/s\nOrtalama Hız (V₂) = 0/8 = 0 m/s. Bu soru tanımsız bir orana yol açar.\n\n**Final Soru 1 Tasarımı:**\nDoğrusal bir yolda hareket eden bir araca ait hız-zaman grafiği şekildeki gibidir. Grafik, (0,0), (2,10), (4,10), (6,0) ve (8,-10) noktalarından geçmektedir.\n(0-8s) aralığı için;\nAlınan Yol = Alan(0-2) + Alan(2-4) + Alan(4-6) + Alan(6-8) = (2*10)/2 + (2*10) + (2*10)/2 + |(2*(-10))/2| = 10 + 20 + 10 + 10 = 50 m.\nYer Değiştirme = 10 + 20 + 10 + (-10) = 30 m.\nToplam Zaman = 8 s.\nOrtalama Sürat (V₁) = 50 / 8 = 25/4 m/s\nOrtalama Hızın Büyüklüğü (V₂) = 30 / 8 = 15/4 m/s\nOran V₁/V₂ = (25/4) / (15/4) = 25/15 = 5/3. Bu soru tam istenen zorlukta.\n\n**Soru 1 Metni:** \"Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği verilmiştir. Buna göre aracın (0-8 s) zaman aralığındaki ortalama süratinin, ortalama hızının büyüklüğüne oranı kaçtır?\" (Grafik zihinde canlandırılacak: (0,0)->(2,10)->(4,10)->(6,0)->(8,-10))\n**Cevap 5/3 olacak, D şıkkı (index 3).**",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498209902_2",
+    "id": "ai_1764520167024_1",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda hareket eden bir cismin hız-zaman grafiği verilmiştir. Cismin hızı t=0 anında 0 iken, t=2 s anında 10 m/s'ye düzgün olarak artmakta, 2s-4s aralığında 10 m/s sabit hızla hareket etmekte ve 4s-6s aralığında ise hızı düzgün olarak azalarak 0 olmaktadır. Buna göre, cismin 0-6 saniye aralığındaki toplam yer değiştirmesi kaç metredir?",
+    "questionText": "Bir cismin hareketi sırasında aldığı mesafe 100 m, geçen süre ise 5 saniye ise cismin ortalama hızı nedir?",
     "options": [
-      "20",
-      "30",
-      "40",
-      "50",
-      "60"
+      "15 m/s",
+      "20 m/s",
+      "25 m/s",
+      "30 m/s",
+      "35 m/s"
     ],
     "correctAnswer": 2,
-    "explanation": "Hız-zaman grafiğinin altında kalan alan, cismin yer değiştirmesini verir. Verilen grafiğin altındaki alanı hesaplamak için, grafiği üç geometrik bölgeye ayırabiliriz: bir üçgen (0-2s), bir dikdörtgen (2-4s) ve bir başka üçgen (4-6s).\n\n1. 0-2 saniye aralığındaki yer değiştirme (birinci üçgenin alanı):\n   Alan₁ = (taban × yükseklik) / 2 = (2 s × 10 m/s) / 2 = 10 m.\n\n2. 2-4 saniye aralığındaki yer değiştirme (dikdörtgenin alanı):\n   Alan₂ = taban × yükseklik = (4-2) s × 10 m/s = 2 s × 10 m/s = 20 m.\n\n3. 4-6 saniye aralığındaki yer değiştirme (ikinci üçgenin alanı):\n   Alan₃ = (taban × yükseklik) / 2 = ((6-4) s × 10 m/s) / 2 = (2 s × 10 m/s) / 2 = 10 m.\n\nToplam yer değiştirme, bu alanların toplamıdır:\nΔx_toplam = Alan₁ + Alan₂ + Alan₃ = 10 m + 20 m + 10 m = 40 m.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521102712_0",
-    "subjectId": "fiz",
-    "topic": "Hareket",
-    "questionText": "Bir aracın saatteki hızı 72 km/s'dir. Bu araç, 2 saat boyunca sabit hızla ilerlediğine göre toplamda ne kadar mesafe alır?",
-    "options": [
-      "120 km",
-      "144 km",
-      "160 km",
-      "180 km",
-      "200 km"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hız = Mesafe / Zaman formülünü kullanarak, mesafe = hız x zaman. Burada: 72 km/saat x 2 saat = 144 km.",
+    "explanation": "Ortalama hız, alınan mesafenin geçen süreye bölünmesiyle hesaplanır. Ortalama hız = Mesafe / Zaman = 100 m / 5 s = 20 m/s.",
     "difficulty": 3
   },
   {
@@ -80,6 +112,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764500939716_0",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Doğrusal bir yolda K noktasından L noktasına 10 saniyede giden bir araç, hiç durmadan L noktasından K noktasına 15 saniyede geri dönüyor. K ve L noktaları arasındaki uzaklık 300 metre olduğuna göre, aracın tüm hareketi boyunca ortalama hızı ve ortalama sürati sırasıyla kaç m/s'dir?",
+    "options": [
+      "24 ve 0",
+      "0 ve 24",
+      "12 ve 12",
+      "0 ve 12",
+      "12 ve 0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ortalama sürat, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. \n\n1. **Toplam Alınan Yol:** Araç K'dan L'ye 300 m gitmiş ve L'den K'ya 300 m geri dönmüştür. Toplam yol = 300 m + 300 m = 600 m.\n2. **Toplam Zaman:** Gidiş 10 s, dönüş 15 s sürmüştür. Toplam zaman = 10 s + 15 s = 25 s.\n3. **Ortalama Sürat:** Toplam Yol / Toplam Zaman = 600 m / 25 s = 24 m/s.\n4. **Toplam Yer Değiştirme:** Araç K noktasından başlayıp yine K noktasına geri dönmüştür. Başlangıç ve bitiş noktası aynı olduğu için toplam yer değiştirme 0'dır.\n5. **Ortalama Hız:** Toplam Yer Değiştirme / Toplam Zaman = 0 m / 25 s = 0 m/s.\n\nSonuç olarak, ortalama hız 0 m/s ve ortalama sürat 24 m/s'dir. Soruda sırasıyla istendiği için cevap '0 ve 24' olmalıdır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764521102712_2",
     "subjectId": "fiz",
     "topic": "Hareket",
@@ -96,19 +144,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764497514800_1",
+    "id": "ai_1764520167024_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Durgun halden harekete başlayan bir cismin ivme-zaman grafiği şekildeki gibidir. Cismin 0-2 saniye aralığında ivmesi 4 m/s², 2-4 saniye aralığında ivmesi 0 ve 4-6 saniye aralığında ivmesi -2 m/s²'dir. Bu cismin 6. saniye sonundaki hızı kaç m/s'dir?",
+    "questionText": "Bir cismin hızı, 10 m/s'den 20 m/s'ye çıkıyorsa, bu cismin ivmesi nedir?",
     "options": [
-      "4",
-      "6",
-      "8",
-      "10",
-      "12"
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
     ],
     "correctAnswer": 1,
-    "explanation": "Hızdaki değişim (Δv), ivme-zaman (a-t) grafiğinin altında kalan alana eşittir. Cisim durgun halden başladığı için ilk hızı (v₀) sıfırdır.\n\n1. Bölge (0-2 s): Hızdaki değişim, Δv₁ = Alan₁ = 4 m/s² * 2 s = 8 m/s. Cismin 2. saniyedeki hızı v₂ = v₀ + Δv₁ = 0 + 8 = 8 m/s olur.\n\n2. Bölge (2-4 s): İvme sıfır olduğu için hız sabittir. Hızdaki değişim Δv₂ = 0'dır. Cismin 4. saniyedeki hızı v₄ = v₂ = 8 m/s'dir.\n\n3. Bölge (4-6 s): Hızdaki değişim, Δv₃ = Alan₃ = (-2 m/s²) * (6-4) s = -4 m/s. Bu bölgedeki hız değişimi negatif olduğu için cisim yavaşlamaktadır.\n\n6. saniye sonundaki toplam hızı bulmak için 4. saniyedeki hıza bu değişimi ekleriz: v₆ = v₄ + Δv₃ = 8 m/s + (-4 m/s) = 4 m/s. \n\nAlternatif olarak, toplam hız değişimi grafiğin altındaki toplam alandır: Δv_toplam = 8 + 0 + (-4) = 4 m/s. İlk hız sıfır olduğu için son hız 4 m/s olur.",
+    "explanation": "İvme, hız değişiminin zamanla oranıdır. Eğer hız 10 m/s'den 20 m/s'ye çıkıyorsa, hız değişimi 20 m/s - 10 m/s = 10 m/s'dir. Eğer bu değişim 5 saniyede gerçekleşiyorsa, ivme = 10 m/s / 5 s = 2 m/s² olur.",
     "difficulty": 3
   },
   {
@@ -144,38 +192,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498209902_0",
-    "subjectId": "fiz",
-    "topic": "Hareket",
-    "questionText": "Durgun halden harekete başlayan ve doğrusal bir yolda sabit 4 m/s² ivme ile hızlanan bir aracın, hareketinin 3. saniyesi içindeki yer değiştirmesi kaç metredir?",
-    "options": [
-      "8 m",
-      "10 m",
-      "12 m",
-      "18 m",
-      "36 m"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir cismin belirli bir zaman aralığındaki (örneğin 3. saniye) yer değiştirmesini bulmak için, o saniyenin sonundaki toplam yer değiştirmesinden bir önceki saniyenin sonundaki toplam yer değiştirmesini çıkarmalıyız. Sabit ivmeli harekette yer değiştirme formülü x = v₀t + (1/2)at²'dir. Araç durgun halden başladığı için v₀ = 0'dır.\n\n1. İlk 3 saniyedeki toplam yer değiştirme (x₃):\nx₃ = (1/2) * a * t² = (1/2) * 4 * (3)² = 2 * 9 = 18 m.\n\n2. İlk 2 saniyedeki toplam yer değiştirme (x₂):\nx₂ = (1/2) * a * t² = (1/2) * 4 * (2)² = 2 * 4 = 8 m.\n\n3. Hareketin 3. saniyesi içindeki yer değiştirme (Δx):\nΔx = x₃ - x₂ = 18 m - 8 m = 10 m.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520167024_0",
-    "subjectId": "fiz",
-    "topic": "Hareket",
-    "questionText": "Bir cismin hızı, 10 m/s'den 20 m/s'ye çıkıyorsa, bu cismin ivmesi nedir?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme, hız değişiminin zamanla oranıdır. Eğer hız 10 m/s'den 20 m/s'ye çıkıyorsa, hız değişimi 20 m/s - 10 m/s = 10 m/s'dir. Eğer bu değişim 5 saniyede gerçekleşiyorsa, ivme = 10 m/s / 5 s = 2 m/s² olur.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764500939716_1",
     "subjectId": "fiz",
     "topic": "Hareket",
@@ -192,35 +208,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764499591781_0",
+    "id": "ai_1764498209902_2",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda hareket eden bir araca ait hız-zaman grafiği şekildeki gibidir. Aracın 0-8 saniye zaman aralığındaki ortalama sürati V₁ ve ortalama hızının büyüklüğü V₂ olduğuna göre, V₁/V₂ oranı kaçtır?",
+    "questionText": "Doğrusal bir yolda hareket eden bir cismin hız-zaman grafiği verilmiştir. Cismin hızı t=0 anında 0 iken, t=2 s anında 10 m/s'ye düzgün olarak artmakta, 2s-4s aralığında 10 m/s sabit hızla hareket etmekte ve 4s-6s aralığında ise hızı düzgün olarak azalarak 0 olmaktadır. Buna göre, cismin 0-6 saniye aralığındaki toplam yer değiştirmesi kaç metredir?",
     "options": [
-      "1",
-      "5/4",
-      "4/3",
-      "5/3",
-      "2"
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bir hareketlinin ortalama sürati, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Hız-zaman grafiğinin altında kalan alan, yer değiştirmeyi verir.\n\n1. Toplam Alınan Yolu Hesaplayalım:\nAlınan yol, alanların mutlak değerlerinin toplamıdır.\n- (0-4 s) aralığındaki alan (yamuk alanı): [(10 + 20)/2] * 4 = 60 m\n- (4-8 s) aralığındaki alan (üçgen alanı): (4 * -10) / 2 = -20 m\nToplam alınan yol = |60| + |-20| = 60 + 20 = 80 m\n\n2. Toplam Yer Değiştirmeyi Hesaplayalım:\nYer değiştirme, alanların cebirsel toplamıdır.\nToplam yer değiştirme (Δx) = 60 + (-20) = 40 m\n\n3. Ortalama Sürati (V₁) ve Ortalama Hızı (V₂) Hesaplayalım:\nToplam zaman (Δt) = 8 s\nOrtalama sürat (V₁) = Toplam Alınan Yol / Toplam Zaman = 80 m / 8 s = 10 m/s\nOrtalama hızın büyüklüğü (V₂) = |Toplam Yer Değiştirme| / Toplam Zaman = |40 m| / 8 s = 5 m/s\n\n4. Oranı Bulalım:\nV₁/V₂ = 10 / 5 = 2. \n\n**Düzeltme ve Yeniden Değerlendirme:** Grafik yorumlamada hata yapıldı, yeniden çözelim.\n- (0-2 s) alanı (üçgen): (2 * 20) / 2 = 20 m\n- (2-4 s) alanı (dikdörtgen): 2 * 20 = 40 m\n- (4-8 s) alanı (üçgen): (4 * -10) / 2 = -20 m\n\n1. Toplam Alınan Yol:\n|20| + |40| + |-20| = 20 + 40 + 20 = 80 m\n\n2. Toplam Yer Değiştirme:\n20 + 40 + (-20) = 40 m\n\n3. Ortalama Sürat (V₁) ve Ortalama Hız (V₂):\nToplam zaman = 8 s\nOrtalama sürat (V₁) = 80 / 8 = 10 m/s\nOrtalama hızın büyüklüğü (V₂) = 40 / 8 = 5 m/s\n\n4. Oran:\nV₁/V₂ = 10 / 5 = 2. \n\n**Soruyu yeniden tasarlayarak zorluk seviyesini ayarlayalım:**\n(0-2s): 0'dan 10 m/s'ye çıkan hız. Alan = (2*10)/2 = 10m.\n(2-6s): 10 m/s'den -10 m/s'ye inen hız. (4-0) arasında t=4s'de sıfır olur. Alan_pozitif = (2*10)/2 = 10m. Alan_negatif = (2*-10)/2 = -10m.\n(6-8s): -10 m/s sabit hız. Alan = 2*(-10) = -20m.\n\nToplam zaman = 8 s\nAlınan Yol = |10| + |10| + |-10| + |-20| = 10 + 10 + 10 + 20 = 50 m\nYer Değiştirme = 10 + 10 - 10 - 20 = -10 m\n\nOrtalama Sürat (V₁) = 50 / 8 = 25/4 m/s\nOrtalama Hız Büyüklüğü (V₂) = |-10| / 8 = 10/8 = 5/4 m/s\n\nOran: V₁/V₂ = (25/4) / (5/4) = 25/5 = 5. Şıklara uymadı. \n\n**Orijinal çözüme geri dönelim ve soruyu basitleştirelim:**\nDoğrusal yolda hareket eden K aracının hız-zaman grafiği verilmiştir. (0-6s) aralığında aracın aldığı yol x, yer değiştirmesinin büyüklüğü y ise x/y oranı nedir?\n(0-4s) alanı: (4*10)/2 = 20 m\n(4-6s) alanı: (2*(-10))/2 = -10 m\nAlınan yol (x) = |20| + |-10| = 30 m\nYer değiştirme (y) = 20 + (-10) = 10 m\nOran x/y = 30/10 = 3.\n\n**Son Karar: Ortalama sürat ve ortalama hız sorusu daha klasik ve uygun.**\n(0-4s) aralığı yer değiştirme: (4*20)/2 = 40m\n(4-8s) aralığı yer değiştirme: (4*(-20))/2 = -40m\n(0-8s) aralığında;\nAlınan Yol = |40| + |-40| = 80 m\nYer Değiştirme = 40 + (-40) = 0 m\nOrtalama Sürat (V₁) = 80/8 = 10 m/s\nOrtalama Hız (V₂) = 0/8 = 0 m/s. Bu soru tanımsız bir orana yol açar.\n\n**Final Soru 1 Tasarımı:**\nDoğrusal bir yolda hareket eden bir araca ait hız-zaman grafiği şekildeki gibidir. Grafik, (0,0), (2,10), (4,10), (6,0) ve (8,-10) noktalarından geçmektedir.\n(0-8s) aralığı için;\nAlınan Yol = Alan(0-2) + Alan(2-4) + Alan(4-6) + Alan(6-8) = (2*10)/2 + (2*10) + (2*10)/2 + |(2*(-10))/2| = 10 + 20 + 10 + 10 = 50 m.\nYer Değiştirme = 10 + 20 + 10 + (-10) = 30 m.\nToplam Zaman = 8 s.\nOrtalama Sürat (V₁) = 50 / 8 = 25/4 m/s\nOrtalama Hızın Büyüklüğü (V₂) = 30 / 8 = 15/4 m/s\nOran V₁/V₂ = (25/4) / (15/4) = 25/15 = 5/3. Bu soru tam istenen zorlukta.\n\n**Soru 1 Metni:** \"Doğrusal bir yolda hareket eden bir aracın hız-zaman grafiği verilmiştir. Buna göre aracın (0-8 s) zaman aralığındaki ortalama süratinin, ortalama hızının büyüklüğüne oranı kaçtır?\" (Grafik zihinde canlandırılacak: (0,0)->(2,10)->(4,10)->(6,0)->(8,-10))\n**Cevap 5/3 olacak, D şıkkı (index 3).**",
+    "correctAnswer": 2,
+    "explanation": "Hız-zaman grafiğinin altında kalan alan, cismin yer değiştirmesini verir. Verilen grafiğin altındaki alanı hesaplamak için, grafiği üç geometrik bölgeye ayırabiliriz: bir üçgen (0-2s), bir dikdörtgen (2-4s) ve bir başka üçgen (4-6s).\n\n1. 0-2 saniye aralığındaki yer değiştirme (birinci üçgenin alanı):\n   Alan₁ = (taban × yükseklik) / 2 = (2 s × 10 m/s) / 2 = 10 m.\n\n2. 2-4 saniye aralığındaki yer değiştirme (dikdörtgenin alanı):\n   Alan₂ = taban × yükseklik = (4-2) s × 10 m/s = 2 s × 10 m/s = 20 m.\n\n3. 4-6 saniye aralığındaki yer değiştirme (ikinci üçgenin alanı):\n   Alan₃ = (taban × yükseklik) / 2 = ((6-4) s × 10 m/s) / 2 = (2 s × 10 m/s) / 2 = 10 m.\n\nToplam yer değiştirme, bu alanların toplamıdır:\nΔx_toplam = Alan₁ + Alan₂ + Alan₃ = 10 m + 20 m + 10 m = 40 m.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764497514800_2",
+    "id": "ai_1764497514800_1",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda hareket eden bir aracın konum-zaman (x-t) grafiği şekildeki gibidir. Araç t=0 anında x=0 konumundan başlayarak parabolik bir yörünge izleyerek 2. saniyede x=20m konumuna ulaşıyor, daha sonra 2. ve 4. saniyeler arasında doğrusal olarak hareket ederek x=40m konumuna geliyor. Buna göre, aracın 0-4 saniye aralığındaki ortalama hızı kaç m/s'dir?",
+    "questionText": "Durgun halden harekete başlayan bir cismin ivme-zaman grafiği şekildeki gibidir. Cismin 0-2 saniye aralığında ivmesi 4 m/s², 2-4 saniye aralığında ivmesi 0 ve 4-6 saniye aralığında ivmesi -2 m/s²'dir. Bu cismin 6. saniye sonundaki hızı kaç m/s'dir?",
     "options": [
-      "5",
-      "7.5",
+      "4",
+      "6",
+      "8",
       "10",
-      "12.5",
-      "15"
+      "12"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ortalama hız, toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. Ortalama hız formülü: V_ort = Δx / Δt.\n\nBu soruda, aracın ara anlardaki hareketi (parabolik veya doğrusal olması) ortalama hızı bulmak için doğrudan kullanılmaz. Sadece başlangıç ve bitiş konumları ile toplam süre önemlidir.\n\n- Başlangıç konumu (t=0 anında): x_ilk = 0 m\n- Bitiş konumu (t=4 s anında): x_son = 40 m\n- Toplam yer değiştirme (Δx): x_son - x_ilk = 40 m - 0 m = 40 m\n- Toplam geçen süre (Δt): 4 s - 0 s = 4 s\n\nŞimdi ortalama hızı hesaplayabiliriz:\n- V_ort = Δx / Δt = 40 m / 4 s = 10 m/s.",
+    "correctAnswer": 1,
+    "explanation": "Hızdaki değişim (Δv), ivme-zaman (a-t) grafiğinin altında kalan alana eşittir. Cisim durgun halden başladığı için ilk hızı (v₀) sıfırdır.\n\n1. Bölge (0-2 s): Hızdaki değişim, Δv₁ = Alan₁ = 4 m/s² * 2 s = 8 m/s. Cismin 2. saniyedeki hızı v₂ = v₀ + Δv₁ = 0 + 8 = 8 m/s olur.\n\n2. Bölge (2-4 s): İvme sıfır olduğu için hız sabittir. Hızdaki değişim Δv₂ = 0'dır. Cismin 4. saniyedeki hızı v₄ = v₂ = 8 m/s'dir.\n\n3. Bölge (4-6 s): Hızdaki değişim, Δv₃ = Alan₃ = (-2 m/s²) * (6-4) s = -4 m/s. Bu bölgedeki hız değişimi negatif olduğu için cisim yavaşlamaktadır.\n\n6. saniye sonundaki toplam hızı bulmak için 4. saniyedeki hıza bu değişimi ekleriz: v₆ = v₄ + Δv₃ = 8 m/s + (-4 m/s) = 4 m/s. \n\nAlternatif olarak, toplam hız değişimi grafiğin altındaki toplam alandır: Δv_toplam = 8 + 0 + (-4) = 4 m/s. İlk hız sıfır olduğu için son hız 4 m/s olur.",
     "difficulty": 3
   },
   {
@@ -240,35 +256,467 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498209902_1",
+    "id": "ai_1764521102712_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Yere göre doğu yönünde 80 km/h sabit süratle giden bir K aracı ile yere göre kuzey yönünde 60 km/h sabit süratle giden bir L aracı aynı anda bir kavşaktan geçiyor. Buna göre, K aracının sürücüsüne göre L aracının hızının büyüklüğü kaç km/h'dir?",
+    "questionText": "Bir aracın saatteki hızı 72 km/s'dir. Bu araç, 2 saat boyunca sabit hızla ilerlediğine göre toplamda ne kadar mesafe alır?",
     "options": [
-      "20",
-      "70",
-      "100",
-      "120",
-      "140"
+      "120 km",
+      "144 km",
+      "160 km",
+      "180 km",
+      "200 km"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bağıl hız, vektörel bir çıkarma işlemiyle bulunur. K aracına göre L'nin hızı (V_LK) = V_L - V_K formülü ile hesaplanır. Burada V_L gözlenen, V_K ise gözlemcidir.\n\n1. Hız vektörlerini tanımlayalım: Doğu yönünü +x, kuzey yönünü +y olarak alalım.\n   - K aracının hızı: V_K = 80î km/h\n   - L aracının hızı: V_L = 60ĵ km/h\n\n2. Vektörel çıkarma işlemini yapalım:\n   V_LK = V_L - V_K = 60ĵ - 80î km/h\n\n3. Bu bağıl hız vektörünün büyüklüğünü Pisagor teoremi ile bulalım:\n   |V_LK| = √((-80)² + 60²) \n   |V_LK| = √(6400 + 3600) \n   |V_LK| = √10000 \n   |V_LK| = 100 km/h.\n\nSonuç olarak, K aracının sürücüsü, L aracını kendisinden kuzeybatı yönünde 100 km/h hızla uzaklaşıyormuş gibi görür.",
+    "correctAnswer": 1,
+    "explanation": "Hız = Mesafe / Zaman formülünü kullanarak, mesafe = hız x zaman. Burada: 72 km/saat x 2 saat = 144 km.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520167024_1",
+    "id": "ai_1764523760146_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Bir cismin hareketi sırasında aldığı mesafe 100 m, geçen süre ise 5 saniye ise cismin ortalama hızı nedir?",
+    "questionText": "Bir cismin hızının zamanla değişimi, cisim üzerinde hangi tür bir hareket olduğunu gösterir?",
     "options": [
+      "Düzenli hareket",
+      "Düzgün hareket",
+      "İvmesiz hareket",
+      "Düzgün ivmeli hareket",
+      "Düzensiz hareket"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Düzgün ivmeli hareket, cismin hızının sabit bir ivme ile değiştiği hareket türüdür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760146_1",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir aracın sabit bir hızla gittiği yolda, 10 saniye boyunca aldığı yol 100 metredir. Aracın hızı nedir?",
+    "options": [
+      "5 m/s",
+      "10 m/s",
       "15 m/s",
       "20 m/s",
-      "25 m/s",
-      "30 m/s",
-      "35 m/s"
+      "25 m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hız = Alınan yol / Geçen zaman formülü ile hesaplandığında, 100 m / 10 s = 10 m/s bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760146_2",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Cismin konumunu belirlemek için hangi büyüklük gereklidir?",
+    "options": [
+      "Sadece hız",
+      "Sadece zaman",
+      "Sadece mesafe",
+      "Hız ve zaman",
+      "Hız, zaman ve yön"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cismin konumunu belirlemek için hız, zaman ve yön bilgisine ihtiyaç vardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760147_3",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 0 m/s hızla hareket etmeye başlayıp 10 m/s hıza 5 saniyede ulaşırsa, cismin ivmesi nedir?",
+    "options": [
+      "0,5 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "5 m/s²",
+      "10 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme = (Son hız - İlk hız) / Geçen zaman formülü ile hesaplanır: (10 m/s - 0 m/s) / 5 s = 2 m/s².",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760148_4",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 4 m/s² ivme ile hareket ediyorsa, bu cisim sabit bir kuvvet altında mı hareket ediyor?",
+    "options": [
+      "Evet",
+      "Hayır",
+      "Sadece başlangıçta",
+      "Sadece son hızda",
+      "Duru durumda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sabit bir kuvvet altında hareket eden bir cisim, sabit bir ivmeye sahiptir. Bu durumda cisim 4 m/s² ivme ile hareket ediyor.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760148_5",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cismin hareketi sırasında sürtünme kuvveti etkili olursa, hareketin hangi yönü etkilenir?",
+    "options": [
+      "Hız",
+      "İvme",
+      "Kuvvet",
+      "Yol",
+      "Tüm yönler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sürtünme kuvveti, cismin hızını, ivmesini ve dolayısıyla aldığı yolu etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760148_6",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim 20 m/s hızla hareket ederken, 5 m/s² ivme ile durabilmek için ne kadar süreye ihtiyaç duyar?",
+    "options": [
+      "2 saniye",
+      "3 saniye",
+      "4 saniye",
+      "5 saniye",
+      "6 saniye"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Durma süresi = Hız / İvme formülü ile hesaplanır: 20 m/s / 5 m/s² = 4 s.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760148_7",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, y ekseninde yukarı doğru 10 m/s² ivme ile hareket ediyorsa, bu cismin hareketi hakkında hangi bilgi doğrudur?",
+    "options": [
+      "Sadece aşağıya düşer",
+      "Yukarı doğru hareket eder",
+      "Daha fazla ivme kazanır",
+      "Duru durumda kalır",
+      "Hız azalır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yukarı doğru hareket eden bir cisim, yukarı yönlü ivme ile hızı artar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_8",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 3 m/s² ivme ile hareket etmeye başladığında, 6 saniye sonunda ne kadar yol alır?",
+    "options": [
+      "0 m",
+      "9 m",
+      "18 m",
+      "36 m",
+      "72 m"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alınan yol = 0,5 * ivme * zaman^2 formülü ile hesaplanır: 0,5 * 3 m/s² * (6 s)² = 54 m.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_9",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Düzgün hareket eden bir cisim için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İvme sıfırdır",
+      "Hız sürekli değişir",
+      "Yol sabittir",
+      "Kuvvet sürekli uygulanır",
+      "Hız zamanla artar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Düzgün hareket eden bir cisimde ivme sıfırdır; bu nedenle hızı sabittir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_10",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir araba, 25 m/s hızla hareket ederken fren yaptığında, 5 m/s² ivme ile durabilmek için ne kadar yol alır?",
+    "options": [
+      "12,5 m",
+      "25 m",
+      "50 m",
+      "100 m",
+      "125 m"
     ],
     "correctAnswer": 2,
-    "explanation": "Ortalama hız, alınan mesafenin geçen süreye bölünmesiyle hesaplanır. Ortalama hız = Mesafe / Zaman = 100 m / 5 s = 20 m/s.",
-    "difficulty": 3
+    "explanation": "Durma mesafesi = (Hız^2) / (2 * İvme) formülü ile hesaplanır: (25 m/s)² / (2 * 5 m/s²) = 62,5 m.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_11",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim 10 m/s hızla 5 saniye boyunca sabit hareket ederse, toplam aldığı mesafe nedir?",
+    "options": [
+      "10 m",
+      "25 m",
+      "50 m",
+      "75 m",
+      "100 m"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alınan yol = Hız * Zaman formülü ile hesaplanır: 10 m/s * 5 s = 50 m.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_12",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 8 m/s² ivme ile düşüyorsa, 2 saniye sonra hızı ne olur?",
+    "options": [
+      "8 m/s",
+      "16 m/s",
+      "24 m/s",
+      "32 m/s",
+      "40 m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hız = İlk hız + (İvme * Zaman) formülü ile hesaplanır: 0 + (8 m/s² * 2 s) = 16 m/s.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_13",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 4 m/s² ivme ile yukarı doğru hareket ediyorsa, aşağıdaki durumlardan hangisi gerçekleşir?",
+    "options": [
+      "Hız azalır",
+      "Hız sabit kalır",
+      "Hız artar",
+      "Cisim durur",
+      "Cisim düşer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yukarı doğru ivme ile hareket eden bir cisim, hızını artırır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760149_14",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 0 m/s hızla hareket etmeye başlıyorsa, 3 m/s² ivme ile 4 saniye sonra hızı ne olur?",
+    "options": [
+      "6 m/s",
+      "9 m/s",
+      "10 m/s",
+      "12 m/s",
+      "15 m/s"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hız = İlk hız + (İvme * Zaman) formülü ile hesaplanır: 0 + (3 m/s² * 4 s) = 12 m/s.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_15",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Sabit hızla hareket eden bir cisim için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "İvmesi sıfırdır",
+      "Hızı sabittir",
+      "Duru durumda kalır",
+      "Yol zamanla artar",
+      "Kuvvet dengededir"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sabit hızla hareket eden bir cisim, durumu değişmez ve yol alır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_16",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 10 m/s hızla hareket ederken, 2 m/s² ivme ile durabilmek için ne kadar süreye ihtiyaç duyar?",
+    "options": [
+      "2 saniye",
+      "3 saniye",
+      "4 saniye",
+      "5 saniye",
+      "6 saniye"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Durma süresi = Hız / İvme formülü ile hesaplanır: 10 m/s / 2 m/s² = 5 s.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_17",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cismin 5 m/s² ivme ile yukarı doğru hareket etmesi, cismin hangi kuvvetin etkisinde olduğunu gösterir?",
+    "options": [
+      "Sadece yer çekimi",
+      "Sadece itici kuvvet",
+      "Sadece sürtünme",
+      "İtici kuvvet ve yer çekimi",
+      "Sadece sabit kuvvet"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cismin yukarı doğru hareket etmesi, itici kuvvetin yer çekimini aştığını gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_18",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 60 m/s hızla hareket ederken 6 m/s² ivme ile durursa, ne kadar mesafe alır?",
+    "options": [
+      "30 m",
+      "50 m",
+      "90 m",
+      "120 m",
+      "150 m"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Durma mesafesi = (Hız^2) / (2 * İvme) formülü ile hesaplanır: (60 m/s)² / (2 * 6 m/s²) = 300 m.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_19",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 20 m/s hızla hareket ediyorsa, 10 m/s² ivme ile ne kadar süre sonra durur?",
+    "options": [
+      "1 saniye",
+      "2 saniye",
+      "3 saniye",
+      "4 saniye",
+      "5 saniye"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Durma süresi = Hız / İvme formülü ile hesaplanır: 20 m/s / 10 m/s² = 2 s.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_20",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 15 m/s hızla hareket ederken, 3 m/s² ivme ile hızlanıyorsa, 5 saniye sonra hızı ne olur?",
+    "options": [
+      "15 m/s",
+      "30 m/s",
+      "45 m/s",
+      "60 m/s",
+      "75 m/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hız = İlk hız + (İvme * Zaman) formülü ile hesaplanır: 15 m/s + (3 m/s² * 5 s) = 30 m/s.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_21",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 4 m/s² ivme ile hareket ederken, 2 saniye sonra aldığı mesafe nedir?",
+    "options": [
+      "8 m",
+      "12 m",
+      "16 m",
+      "20 m",
+      "24 m"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alınan yol = 0,5 * ivme * zaman^2 formülü ile hesaplanır: 0,5 * 4 m/s² * (2 s)² = 8 m.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_22",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 5 m/s² ivme ile aşağıya doğru hareket ediyorsa, bu durumda hangi kuvvet baskındır?",
+    "options": [
+      "Sadece yer çekimi",
+      "Sadece itici kuvvet",
+      "Sadece sürtünme",
+      "İtici kuvvet ve yer çekimi",
+      "Sadece sabit kuvvet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aşağı doğru hareket eden bir cisim, yer çekimi kuvvetinin etkisi altındadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_23",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Sabit hızla hareket eden bir cisim için hangi durum doğrudur?",
+    "options": [
+      "İvme sıfırdır",
+      "Yavaşlar",
+      "Hız artar",
+      "Hız azalır",
+      "Duru durumda kalır"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sabit hızla hareket eden bir cismin ivmesi sıfırdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_24",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Düzgün hareket eden bir cisim, ne zaman durur?",
+    "options": [
+      "Sürekli hızlanır",
+      "Sürekli yavaşlar",
+      "Sadece dış kuvvet etkisiyle",
+      "Hız sabit kalırsa",
+      "Her zaman durur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Düzgün hareket eden bir cisim, dış kuvvet etkisiyle durabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_25",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 8 m/s² ivme ile yukarı doğru hareket etmektedir. Bu durumda cisim hangi kuvvet altında olabilir?",
+    "options": [
+      "Sadece yer çekimi",
+      "Sadece itici kuvvet",
+      "Sadece sürtünme",
+      "İtici kuvvet ve yer çekimi",
+      "Duru durumda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yukarı doğru hareket eden bir cisim, itici kuvvetin etkisi altındadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_26",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 30 m/s hızla hareket ederken 5 m/s² ivme ile durursa, durma mesafesi ne olur?",
+    "options": [
+      "75 m",
+      "100 m",
+      "150 m",
+      "200 m",
+      "250 m"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Durma mesafesi = (Hız^2) / (2 * İvme) formülü ile hesaplanır: (30 m/s)² / (2 * 5 m/s²) = 90 m.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523760150_27",
+    "subjectId": "fiz",
+    "topic": "Hareket",
+    "questionText": "Bir cisim, 0 m/s hızla hareket etmeye başlıyor ve 4 m/s² ivme ile 3 saniye sonra ne kadar mesafe alır?",
+    "options": [
+      "2 m",
+      "4 m",
+      "6 m",
+      "12 m",
+      "18 m"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alınan yol = 0,5 * ivme * zaman^2 formülü ile hesaplanır: 0,5 * 4 m/s² * (3 s)² = 18 m.",
+    "difficulty": 5
   }
 ]
