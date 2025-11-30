@@ -1,18 +1,18 @@
 [
   {
-    "id": "ai_1764520359327_2",
+    "id": "ai_1764520359327_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
+    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
     "options": [
-      "Aort",
-      "Venöz sistem",
-      "Kapiller damarlar",
-      "Pulmoner arter",
-      "Vena kava"
+      "Düz kas",
+      "İskelet kası",
+      "Kalp kası",
+      "Epitelyal doku",
+      "Bağ doku"
     ],
-    "correctAnswer": 0,
-    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
+    "correctAnswer": 2,
+    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
     "difficulty": 3
   },
   {
@@ -32,19 +32,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520359327_1",
+    "id": "ai_1764520359327_2",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
+    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
     "options": [
-      "Düz kas",
-      "İskelet kası",
-      "Kalp kası",
-      "Epitelyal doku",
-      "Bağ doku"
+      "Aort",
+      "Venöz sistem",
+      "Kapiller damarlar",
+      "Pulmoner arter",
+      "Vena kava"
     ],
-    "correctAnswer": 2,
-    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
+    "correctAnswer": 0,
+    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
     "difficulty": 3
   },
   {
