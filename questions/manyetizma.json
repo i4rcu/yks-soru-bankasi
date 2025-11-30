@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764417303425_0",
+    "id": "ai_1764498379445_0",
     "subjectId": "fiz",
     "topic": "Manyetizma",
-    "questionText": "x-y düzlemine yerleştirilmiş, L noktasında dik olarak bükülmüş iletken bir telden I akımı geçmektedir. Telin KL kısmı y ekseni boyunca +y yönünde, LM kısmı ise x ekseni boyunca +x yönünde akım taşımaktadır. Bu tel, sayfa düzlemine dik ve içeri doğru yönelmiş düzgün bir B manyetik alanının içerisindedir. |KL| = |LM| = L olduğuna göre, telin KLM kısmına etki eden bileşke manyetik kuvvetin yönü nedir?",
+    "questionText": "Sayfa düzlemine dik ve içeri doğru olan düzgün bir B manyetik alanı içerisinde bulunan iletken K-L-M-N çerçevesi, v sabit hızıyla şekildeki gibi hareket ettirilmektedir. Çerçevenin L-M kenarının uzunluğu ℓ'dir. Buna göre, çerçeve manyetik alana girerken, tamamen içindeyken ve alandan çıkarken L-M telinde oluşan indüksiyon emk'sı (elektromotor kuvveti) ε ve yönü için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "+x yönü",
-      "-y yönü",
-      "+y yönü ile -x yönü arasında",
-      "+x yönü ile +y yönü arasında",
-      "-x yönü ile -y yönü arasında"
+      "Girerken: ε = B⋅ℓ⋅v (M'den L'ye doğru), İçindeyken: Sıfır, Çıkarken: ε = B⋅ℓ⋅v (L'den M'ye doğru)",
+      "Girerken: ε = B⋅ℓ⋅v (L'den M'ye doğru), İçindeyken: Sıfır, Çıkarken: ε = B⋅ℓ⋅v (M'den L'ye doğru)",
+      "Girerken: Sıfır, İçindeyken: ε = B⋅ℓ⋅v (L'den M'ye doğru), Çıkarken: Sıfır",
+      "Girerken: ε = B⋅ℓ⋅v (M'den L'ye doğru), İçindeyken: ε = B⋅ℓ⋅v (M'den L'ye doğru), Çıkarken: Sıfır",
+      "Girerken: ε = B⋅ℓ⋅v (L'den M'ye doğru), İçindeyken: Sıfır, Çıkarken: Sıfır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Faraday'ın İndüksiyon Yasası'na göre, bir tel çerçeveden geçen manyetik akı değiştiğinde bir indüksiyon emk'sı oluşur. \n1. **Alana Girerken:** Çerçeve alana girdikçe, içerisinden geçen manyetik akı (Φ = B⋅A) artar. Bu artışı azaltacak yönde bir manyetik alan oluşturmak için çerçevede indüksiyon akımı oluşur. Lenz Yasası'na göre, bu akımın yönü saatin tersi yönünde olmalıdır. Akım L'den M'ye doğru akar. Bu durumda L-M teli, bir üreteç gibi davranır. Sağ el kuralına göre (başparmak hız yönü, işaret parmağı manyetik alan yönü, avuç içi pozitif yüklerin toplandığı yönü gösterir), pozitif yükler M ucunda, negatif yükler L ucunda toplanır. Dolayısıyla emk yönü L'den M'ye doğrudur ve değeri ε = B⋅ℓ⋅v'dir.\n2. **Tamamen İçindeyken:** Çerçeve tamamen manyetik alanın içindeyken sabit hızla hareket ettiğinde, çerçeveden geçen manyetik akı değişmez (ΔΦ = 0). Bu nedenle indüksiyon emk'sı ve indüksiyon akımı oluşmaz (ε = 0). (Not: K-N ve L-M tellerinde emk oluşur ancak zıt yönlü oldukları için birbirini sönümlerler ve net emk sıfır olur.)\n3. **Alandan Çıkarken:** Çerçeve alandan çıkarken, içerisinden geçen manyetik akı azalır. Bu azalışı artıracak yönde (yani içeri doğru) bir manyetik alan oluşturmak için çerçevede indüksiyon akımı oluşur. Lenz Yasası'na göre, bu akımın yönü saat yönünde olmalıdır. Akım M'den L'ye doğru akar. Sağ el kuralına göre pozitif yükler L ucunda, negatif yükler M ucunda toplanır. Dolayısıyla emk yönü M'den L'ye doğrudur ve değeri ε = B⋅ℓ⋅v'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498379445_1",
+    "subjectId": "fiz",
+    "topic": "Manyetizma",
+    "questionText": "Üzerinden I akımı geçen sonsuz uzunluktaki düz bir tel ile aynı düzlemde bulunan iletken halka, şekildeki konumlarda v hızıyla hareket ettirilmektedir. Buna göre, hangi durumlarda halkada indüksiyon akımı oluşur?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
     ],
     "correctAnswer": 2,
-    "explanation": "Manyetik alan içindeki akım taşıyan bir tele etki eden kuvvet, F = I.(L x B) vektörel çarpımı ile bulunur. Yönü ise sağ el kuralı ile belirlenir. Sağ elin baş parmağı akım (I) yönünü, işaret parmağı manyetik alan (B) yönünü gösterecek şekilde tutulduğunda, avuç içine dik olan yön manyetik kuvvetin (F) yönünü verir.\n\n1. **KL teline etki eden kuvvet (F_KL):**\n   - Akım yönü: +y\n   - Manyetik alan yönü: Sayfa düzleminden içeri (-z yönü)\n   - Sağ el kuralı uygulandığında, baş parmak +y yönünü, işaret parmağı içeri yönü gösterir. Bu durumda avuç içi -x yönünü gösterir. Dolayısıyla F_KL, -x yönündedir.\n   - Büyüklüğü: F_KL = B.I.L\n\n2. **LM teline etki eden kuvvet (F_LM):**\n   - Akım yönü: +x\n   - Manyetik alan yönü: Sayfa düzleminden içeri (-z yönü)\n   - Sağ el kuralı uygulandığında, baş parmak +x yönünü, işaret parmağı içeri yönü gösterir. Bu durumda avuç içi +y yönünü gösterir. Dolayısıyla F_LM, +y yönündedir.\n   - Büyüklüğü: F_LM = B.I.L\n\n3. **Bileşke Kuvvet (F_net):**\n   - Tele etki eden net kuvvet, bu iki kuvvetin vektörel toplamıdır: F_net = F_KL + F_LM.\n   - Biri -x yönünde (F_KL), diğeri +y yönünde (F_LM) olan iki vektörün bileşkesi, bu iki yönün arasında bir yönde olacaktır. Yani bileşke kuvvet, koordinat sisteminin ikinci bölgesinde, +y yönü ile -x yönü arasındadır.\n\nBu nedenle doğru cevap C seçeneğidir.",
+    "explanation": "Bir halkada indüksiyon akımının oluşması için halkadan geçen manyetik akının (Φ) zamanla değişmesi gerekir. Sonsuz uzunluktaki düz telin etrafında oluşturduğu manyetik alanın büyüklüğü, telden uzaklaştıkça azalır (B ∝ 1/d). \n*   **I. Durum:** Halka, tele paralel hareket etmektedir. Bu hareket sırasında halkanın tele olan uzaklığı (d) değişmez. Halkanın her noktasındaki manyetik alan şiddeti sabit kaldığı için halkadan geçen toplam manyetik akı da değişmez (ΔΦ = 0). Bu yüzden indüksiyon akımı oluşmaz.\n*   **II. Durum:** Halka, telden uzaklaşacak şekilde hareket etmektedir. Hareket sırasında halkanın tele olan uzaklığı (d) artar. Uzaklık arttıkça manyetik alan şiddeti (B) azalır. Manyetik alan azaldığı için halkadan geçen manyetik akı da azalır (ΔΦ < 0). Akı değişimi olduğu için halkada indüksiyon akımı oluşur.\n*   **III. Durum:** Halka, tele yaklaşacak şekilde hareket etmektedir. Hareket sırasında halkanın tele olan uzaklığı (d) azalır. Uzaklık azaldıkça manyetik alan şiddeti (B) artar. Manyetik alan arttığı için halkadan geçen manyetik akı da artar (ΔΦ > 0). Akı değişimi olduğu için halkada indüksiyon akımı oluşur. \nBu nedenle, I ve III durumlarında halkadan geçen manyetik akı değiştiği için indüksiyon akımı oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498379445_2",
+    "subjectId": "fiz",
+    "topic": "Manyetizma",
+    "questionText": "Sayfa düzlemine dik ve dışarı doğru olan düzgün bir B manyetik alanı içinde bulunan, r yarıçaplı dairesel yörüngede v büyüklüğünde hızla dolanan +q yüklü bir parçacık için aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Parçacığa etki eden manyetik kuvvet, hız vektörüne daima diktir.",
+      "Manyetik kuvvet, parçacığın kinetik enerjisini değiştirmez.",
+      "Parçacığın periyodu, yörünge yarıçapına bağlıdır.",
+      "Manyetik alanın şiddeti (B) artırılırsa, parçacığın yörünge yarıçapı (r) azalır.",
+      "Parçacığın dolanım yönü saat yönündedir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manyetik alan içinde hareket eden yüklü bir parçacığa etki eden manyetik kuvvet (Lorentz Kuvveti) F = qvBsinθ formülüyle bulunur. Bu kuvvet, parçacığın dairesel hareket yapmasını sağlayan merkezcil kuvvete eşittir.\n*   **A) Doğru:** Manyetik kuvvetin yönü, sağ el kuralına göre hem hız vektörüne (v) hem de manyetik alan vektörüne (B) daima diktir. Bu nedenle ifade doğrudur.\n*   **B) Doğru:** Manyetik kuvvet, hız vektörüne daima dik olduğu için iş yapmaz (W = F⋅d⋅cos90° = 0). İş yapılmadığı için parçacığın kinetik enerjisi ve dolayısıyla hızının büyüklüğü değişmez. Sadece hızı yönü değişir. Bu ifade doğrudur.\n*   **C) Yanlış:** Manyetik kuvveti merkezcil kuvvete eşitleyelim: F_manyetik = F_merkezcil ⇒ qvB = mv²/r. Bu denklemden yarıçap r = mv/qB olarak bulunur. Periyot (T), yörünge çevresinin hıza bölünmesiyle bulunur: T = 2πr/v = 2π(mv/qB)/v = 2πm/qB. Görüldüğü gibi, periyot kütle (m), yük (q) ve manyetik alana (B) bağlı olup, hız (v) ve yarıçapa (r) bağlı değildir. Bu nedenle ifade yanlıştır.\n*   **D) Doğru:** r = mv/qB formülüne göre, parçacığın kütlesi, yükü ve hızı sabitken, manyetik alan şiddeti (B) artırılırsa yörünge yarıçapı (r) azalır. Bu ifade doğrudur.\n*   **E) Doğru:** Sağ el kuralı uygulandığında; başparmak hız yönünü (örneğin teğetsel olarak yukarı), dört parmak sayfa düzleminden dışarı doğru olan manyetik alan yönünü gösterecek şekilde tutulursa, avuç içi (+q yükü olduğu için) merkeze doğru olan manyetik kuvveti gösterir. Bu durum, parçacığın saat yönünde dolanmasını gerektirir. Bu ifade doğrudur.",
     "difficulty": 3
   }
 ]
