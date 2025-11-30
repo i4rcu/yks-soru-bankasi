@@ -1,82 +1,34 @@
 [
   {
-    "id": "ai_1764520282734_0",
+    "id": "ai_1764501286645_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi ekzotermik bir tepkimedir?",
+    "questionText": "Propan (C₃H₈) gazının standart koşullarda oksijen gazı (O₂) ile tam verimli yanma tepkimesi aşağıdaki gibidir:\n\nC₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(s)\n\nBu tepkime ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "C(s) + O2(g) → CO2(g)",
-      "N2(g) + 3H2(g) → 2NH3(g)",
-      "2H2O(l) → 2H2(g) + O2(g)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü dışarıya ısı verir. Diğer seçenekler ya endotermik ya da farklı bir özellik taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520282734_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
-    "options": [
-      "2Na + Cl2 → 2NaCl",
-      "H2 + O2 → 2H2O",
-      "Ca + 2H2O → Ca(OH)2 + H2",
-      "C + O2 → CO",
-      "2Fe2O3 + 3C → 4Fe + 3CO2"
+      "Sentez (oluşum) tepkimesidir.",
+      "Tepkime süresince molekül sayısı artar.",
+      "1 mol C₃H₈ gazı yandığında 3 mol CO₂ gazı oluşur.",
+      "Heterojen bir tepkimedir.",
+      "Ekzotermik (ısı veren) bir olaydır."
     ],
     "correctAnswer": 0,
-    "explanation": "2Na + Cl2 → 2NaCl tepkimesi bir redoks tepkimesidir çünkü sodyum elektron vererek oksitlenirken, klor elektron alarak indirgenir. Diğer seçenekler ya redoks değil ya da farklı bir mekanizma içerir.",
+    "explanation": "Tepkimeyi inceleyelim:\nA) Sentez (oluşum) tepkimeleri, iki veya daha fazla basit maddenin birleşerek tek bir bileşik oluşturduğu tepkimelerdir. Bu tepkimede ise bir bileşik (C₃H₈) daha basit maddelere (CO₂ ve H₂O) ayrışmamış, aksine oksijenle reaksiyona girerek birden fazla ürün oluşturmuştur. Bu bir yanma tepkimesidir, sentez tepkimesi değildir. Bu ifade yanlıştır.\nB) Girenler tarafında 1 + 5 = 6 mol gaz varken, ürünler tarafında 3 mol gaz (CO₂) ve 4 mol sıvı (H₂O) oluşur. Maddenin halleri dikkate alındığında toplam mol sayısı (1+5=6 giren, 3+4=7 ürün) artar. Bu ifade doğrudur. (Not: Sadece gaz molekülü sayısı sorulsaydı 6'dan 3'e düştüğü için azalırdı.)\nC) Tepkime denklemindeki katsayılara göre, 1 mol C₃H₈ tepkimeye girdiğinde 3 mol CO₂ oluşur. Bu ifade doğrudur.\nD) Tepkimeye giren maddeler (C₃H₈ ve O₂) gaz fazında iken, ürünlerden biri (H₂O) sıvı fazdadır. Tepkimedeki maddeler farklı fiziksel hallerde olduğu için tepkime heterojendir. Bu ifade doğrudur.\nE) Yanma tepkimeleri, azotun yanması hariç, genellikle ekzotermiktir, yani dışarıya ısı verir. Bu ifade doğrudur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764520282734_1",
+    "id": "ai_1764519329695_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
+    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermik bir tepki olarak sınıflandırılabilir?",
     "options": [
-      "NaOH",
-      "HCl",
-      "K2CO3",
-      "Ca(OH)2",
-      "MgO"
-    ],
-    "correctAnswer": 1,
-    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498573456_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında gümüş klorür (AgCl) katısının çöktüğü bir çözünme-çökelme tepkimesi gerçekleşmektedir. Bu tepkimenin net iyon denklemi aşağıdakilerden hangisidir?",
-    "options": [
-      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
-      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
-      "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(suda)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)"
+      "A + B → C + D + enerji",
+      "X + Y → Z + ısı",
+      "2H₂ + O₂ → 2H₂O + 572 kJ",
+      "C + O₂ → CO₂ + ısı",
+      "D + E → F + G"
     ],
     "correctAnswer": 2,
-    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi, sadece çökeltiyi oluşturan iyonları ve oluşan katıyı gösterir. Tepkimenin tam iyon denklemi: Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq). Bu denklemde Na⁺ ve NO₃⁻ iyonları tepkimeye girmemiş, sadece ortamda seyirci olarak kalmışlardır. Seyirci iyonlar denklemden çıkarıldığında geriye net iyon denklemi kalır: Ag⁺(aq) + Cl⁻(aq) → AgCl(k).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498573456_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Propan (C₃H₈) gazının tam yanması sonucu karbondioksit (CO₂) ve su (H₂O) oluşmaktadır. Bu tepkimenin denklemi en küçük tam sayılarla denkleştirildiğinde, oksijenin (O₂) katsayısı kaç olur?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "7"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yanma tepkimesinin denklemi C₃H₈ + O₂ → CO₂ + H₂O şeklindedir. Denkleştirme için önce karbon (C), sonra hidrojen (H) ve en son oksijen (O) atomları denkleştirilir.\n1. Karbon denkleştirme: Girenlerde 3 C atomu var, ürünlere 3 CO₂ yazılır. C₃H₈ + O₂ → 3CO₂ + H₂O\n2. Hidrojen denkleştirme: Girenlerde 8 H atomu var, ürünlere 4 H₂O yazılır. C₃H₈ + O₂ → 3CO₂ + 4H₂O\n3. Oksijen denkleştirme: Ürünlerde (3x2) + (4x1) = 10 O atomu var. Girenlerde de 10 O atomu olması için O₂'nin katsayısı 5 olmalıdır.\nDenkleştirilmiş tam denklem: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Dolayısıyla O₂'nin katsayısı 5'tir.",
+    "explanation": "Ekzotermik tepkimeler, çevreye enerji (genellikle ısı) salan tepkimelerdir. 2H₂ + O₂ → 2H₂O + 572 kJ tepkimesi su oluşumu sırasında 572 kJ enerji saldığı için ekzotermik bir tepkimedir. Diğer seçeneklerde ya enerji çıkışı belirtilmemiş ya da ekzotermik bir özellik taşımamaktadır.",
     "difficulty": 3
   },
   {
@@ -96,51 +48,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764499951495_0",
+    "id": "ai_1764501286645_2",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "I.  CaCO₃(k) → CaO(k) + CO₂(g)\nII. 2H₂(g) + O₂(g) → 2H₂O(s)\nIII. Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)\n\nYukarıda verilen tepkimelerin türleri aşağıdakilerden hangisinde doğru olarak sınıflandırılmıştır?",
+    "questionText": "Aşağıda verilen redoks tepkimesi ile ilgili:\n\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\nyargılarından hangileri doğrudur?\n\nI. Zn metali yükseltgenmiştir.\nII. HCl bileşiğindeki H⁺ iyonu indirgendir.\nIII. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.",
     "options": [
-      "I. Analiz, II. Sentez, III. Çözünme-çökelme",
-      "I. Sentez, II. Yanma, III. Asit-baz",
-      "I. Analiz, II. Sentez, III. Yer değiştirme",
-      "I. Yanma, II. Analiz, III. Sentez",
-      "I. Asit-baz, II. Yanma, III. Yer değiştirme"
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
     ],
-    "correctAnswer": 2,
-    "explanation": "I. Tepkime (Analiz/Ayrışma): CaCO₃(k) → CaO(k) + CO₂(g) tepkimesinde, bir bileşik (kalsiyum karbonat) ısıtılarak daha basit yapılı iki farklı maddeye (kalsiyum oksit ve karbondioksit) ayrışmıştır. Bu tür tepkimelere analiz (ayrışma) tepkimesi denir.\nII. Tepkime (Sentez/Oluşum): 2H₂(g) + O₂(g) → 2H₂O(s) tepkimesinde, iki farklı element (hidrojen ve oksijen) birleşerek yeni bir bileşik (su) oluşturmuştur. Bu tür tepkimelere sentez (oluşum) tepkimesi denir. Bu tepkime aynı zamanda bir yanma tepkimesidir, ancak sentez daha genel bir sınıflandırmadır.\nIII. Tepkime (Yer Değiştirme): Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g) tepkimesinde, aktif bir metal olan çinko (Zn), hidroklorik asitteki hidrojenden (H) daha aktif olduğu için onun yerine geçerek hidrojen gazı açığa çıkarmıştır. Bir elementin bir bileşikteki başka bir elementin yerini almasıyla gerçekleşen bu tür tepkimelere yer değiştirme (tekli yer değiştirme) tepkimesi denir.\nBu nedenle doğru sınıflandırma 'Analiz, Sentez, Yer değiştirme' şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499951496_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında, suda az çözünen gümüş klorür (AgCl) katısı oluşur. Bu olaya ilişkin net iyon denklemi aşağıdakilerden hangisidir?",
-    "options": [
-      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
-      "Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)",
-      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
-      "Ag⁺(aq) + NaCl(k) → AgCl(k) + Na⁺(aq)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "1. **Moleküler Denklem:** İlk olarak tepkimenin denkleştirilmiş moleküler denklemi yazılır: AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılarak yazılır. Katı, sıvı ve gazlar moleküler halde bırakılır. Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)\n3. **Seyirci İyonların Belirlenmesi:** Tepkimeye girmeyen, yani denklemin her iki tarafında da aynı formda bulunan iyonlar 'seyirci iyon' olarak adlandırılır. Bu tepkimede Na⁺(aq) ve NO₃⁻(aq) iyonları seyirci iyonlardır.\n4. **Net İyon Denklemi:** Seyirci iyonlar tam iyonik denklemden çıkarılarak net iyon denklemi elde edilir. Bu denklem, çökelmeyi oluşturan asıl kimyasal değişimi gösterir. Ag⁺(aq) + Cl⁻(aq) → AgCl(k)\nBu nedenle doğru cevap D şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499951496_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "MnO₂(k) + 4HCl(aq) → MnCl₂(aq) + Cl₂(g) + 2H₂O(s)\n\ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "MnO₂ yükseltgen maddedir.",
-      "Manganez (Mn) atomu indirgenmiştir.",
-      "Klor (Cl) atomu yükseltgenmiştir.",
-      "HCl hem indirgen hem de yükseltgen olarak davranmıştır.",
-      "1 mol MnO₂ tepkimeye girdiğinde 2 mol elektron alınır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tepkimedeki elementlerin yükseltgenme basamaklarını inceleyelim:\nGirenler:\n- MnO₂: Oksijen -2, dolayısıyla Mn +4'tür.\n- HCl: Hidrojen +1, dolayısıyla Klor (Cl) -1'dir.\nÜrünler:\n- MnCl₂: Klor -1, dolayısıyla Mn +2'dir.\n- Cl₂: Elementel halde olduğu için Cl 0'dır.\n- H₂O: H +1, O -2'dir.\n\nDeğişimler:\n- **Manganez (Mn):** Yükseltgenme basamağı +4'ten +2'ye düşmüştür. Elektron almıştır, dolayısıyla **indirgenmiştir**. (B doğru). Kendisi indirgenen madde **yükseltgen** maddedir. (A doğru). Mn⁴⁺ + 2e⁻ → Mn²⁺ olduğundan, 1 mol MnO₂ 2 mol elektron alır. (E doğru).\n- **Klor (Cl):** Yükseltgenme basamağı -1'den (HCl'de) 0'a (Cl₂'de) yükselmiştir. Elektron vermiştir, dolayısıyla **yükseltgenmiştir**. (C doğru).\n- **D şıkkının analizi:** HCl'deki klor atomları yükseltgenerek Cl₂ gazını oluşturmuştur, bu da HCl'nin indirgen özellik gösterdiğini kanıtlar. Ancak HCl'deki hiçbir atom indirgenmemiştir. Dolayısıyla HCl sadece indirgen olarak davranmıştır. Bu nedenle bu ifade yanlıştır.",
+    "correctAnswer": 0,
+    "explanation": "Tepkimedeki atomların yükseltgenme basamaklarını inceleyelim:\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\n- Girenlerdeki Zn(k) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n- Girenlerdeki HCl'de H, +1; Cl, -1 değerliklidir.\n- Ürünlerdeki ZnCl₂'de Cl, -1; Zn, +2 değerliklidir.\n- Ürünlerdeki H₂(g) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n\nDeğişimleri değerlendirelim:\n- **Zn:** 0'dan +2'ye yükseltgenmiştir. (Elektron vermiştir.)\n- **H:** +1'den 0'a indirgenmiştir. (Elektron almıştır.)\n- **Cl:** -1'den -1'e, yükseltgenme basamağı değişmemiştir.\n\nŞimdi öncülleri analiz edelim:\n**I. Zn metali yükseltgenmiştir.** Çinko (Zn) atomunun yükseltgenme basamağı 0'dan +2'ye çıktığı için elektron vermiş ve yükseltgenmiştir. Bu ifade **doğrudur**.\n**II. HCl bileşiğindeki H⁺ iyonu indirgendir.** HCl'deki H⁺ iyonu elektron alarak H₂'ye indirgenmiştir. Elektron alarak indirgenen madde, karşısındaki maddeyi yükseltgediği için **yükseltgen** özellik gösterir. İndirgen özellik gösteren ise Zn'dir. Bu ifade **yanlıştır**.\n**III. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.** Verilen tepkime denklemi (Zn + 2HCl → ZnCl₂ + H₂) zaten denktir. Girenlerde 1 Zn, 2 H, 2 Cl; ürünlerde 1 Zn, 2 Cl, 2 H atomu vardır. Bu denklemde ZnCl₂'nin katsayısı 1'dir. Bu ifade **yanlıştır**.\n\nSonuç olarak, sadece I. öncül doğrudur.",
     "difficulty": 3
   },
   {
@@ -160,19 +80,99 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501286645_0",
+    "id": "ai_1764499951495_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Propan (C₃H₈) gazının standart koşullarda oksijen gazı (O₂) ile tam verimli yanma tepkimesi aşağıdaki gibidir:\n\nC₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(s)\n\nBu tepkime ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "I.  CaCO₃(k) → CaO(k) + CO₂(g)\nII. 2H₂(g) + O₂(g) → 2H₂O(s)\nIII. Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)\n\nYukarıda verilen tepkimelerin türleri aşağıdakilerden hangisinde doğru olarak sınıflandırılmıştır?",
     "options": [
-      "Sentez (oluşum) tepkimesidir.",
-      "Tepkime süresince molekül sayısı artar.",
-      "1 mol C₃H₈ gazı yandığında 3 mol CO₂ gazı oluşur.",
-      "Heterojen bir tepkimedir.",
-      "Ekzotermik (ısı veren) bir olaydır."
+      "I. Analiz, II. Sentez, III. Çözünme-çökelme",
+      "I. Sentez, II. Yanma, III. Asit-baz",
+      "I. Analiz, II. Sentez, III. Yer değiştirme",
+      "I. Yanma, II. Analiz, III. Sentez",
+      "I. Asit-baz, II. Yanma, III. Yer değiştirme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "I. Tepkime (Analiz/Ayrışma): CaCO₃(k) → CaO(k) + CO₂(g) tepkimesinde, bir bileşik (kalsiyum karbonat) ısıtılarak daha basit yapılı iki farklı maddeye (kalsiyum oksit ve karbondioksit) ayrışmıştır. Bu tür tepkimelere analiz (ayrışma) tepkimesi denir.\nII. Tepkime (Sentez/Oluşum): 2H₂(g) + O₂(g) → 2H₂O(s) tepkimesinde, iki farklı element (hidrojen ve oksijen) birleşerek yeni bir bileşik (su) oluşturmuştur. Bu tür tepkimelere sentez (oluşum) tepkimesi denir. Bu tepkime aynı zamanda bir yanma tepkimesidir, ancak sentez daha genel bir sınıflandırmadır.\nIII. Tepkime (Yer Değiştirme): Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g) tepkimesinde, aktif bir metal olan çinko (Zn), hidroklorik asitteki hidrojenden (H) daha aktif olduğu için onun yerine geçerek hidrojen gazı açığa çıkarmıştır. Bir elementin bir bileşikteki başka bir elementin yerini almasıyla gerçekleşen bu tür tepkimelere yer değiştirme (tekli yer değiştirme) tepkimesi denir.\nBu nedenle doğru sınıflandırma 'Analiz, Sentez, Yer değiştirme' şeklindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498573456_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Propan (C₃H₈) gazının tam yanması sonucu karbondioksit (CO₂) ve su (H₂O) oluşmaktadır. Bu tepkimenin denklemi en küçük tam sayılarla denkleştirildiğinde, oksijenin (O₂) katsayısı kaç olur?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yanma tepkimesinin denklemi C₃H₈ + O₂ → CO₂ + H₂O şeklindedir. Denkleştirme için önce karbon (C), sonra hidrojen (H) ve en son oksijen (O) atomları denkleştirilir.\n1. Karbon denkleştirme: Girenlerde 3 C atomu var, ürünlere 3 CO₂ yazılır. C₃H₈ + O₂ → 3CO₂ + H₂O\n2. Hidrojen denkleştirme: Girenlerde 8 H atomu var, ürünlere 4 H₂O yazılır. C₃H₈ + O₂ → 3CO₂ + 4H₂O\n3. Oksijen denkleştirme: Ürünlerde (3x2) + (4x1) = 10 O atomu var. Girenlerde de 10 O atomu olması için O₂'nin katsayısı 5 olmalıdır.\nDenkleştirilmiş tam denklem: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Dolayısıyla O₂'nin katsayısı 5'tir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520282734_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
+    "options": [
+      "NaOH",
+      "HCl",
+      "K2CO3",
+      "Ca(OH)2",
+      "MgO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499951496_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "MnO₂(k) + 4HCl(aq) → MnCl₂(aq) + Cl₂(g) + 2H₂O(s)\n\ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "MnO₂ yükseltgen maddedir.",
+      "Manganez (Mn) atomu indirgenmiştir.",
+      "Klor (Cl) atomu yükseltgenmiştir.",
+      "HCl hem indirgen hem de yükseltgen olarak davranmıştır.",
+      "1 mol MnO₂ tepkimeye girdiğinde 2 mol elektron alınır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tepkimedeki elementlerin yükseltgenme basamaklarını inceleyelim:\nGirenler:\n- MnO₂: Oksijen -2, dolayısıyla Mn +4'tür.\n- HCl: Hidrojen +1, dolayısıyla Klor (Cl) -1'dir.\nÜrünler:\n- MnCl₂: Klor -1, dolayısıyla Mn +2'dir.\n- Cl₂: Elementel halde olduğu için Cl 0'dır.\n- H₂O: H +1, O -2'dir.\n\nDeğişimler:\n- **Manganez (Mn):** Yükseltgenme basamağı +4'ten +2'ye düşmüştür. Elektron almıştır, dolayısıyla **indirgenmiştir**. (B doğru). Kendisi indirgenen madde **yükseltgen** maddedir. (A doğru). Mn⁴⁺ + 2e⁻ → Mn²⁺ olduğundan, 1 mol MnO₂ 2 mol elektron alır. (E doğru).\n- **Klor (Cl):** Yükseltgenme basamağı -1'den (HCl'de) 0'a (Cl₂'de) yükselmiştir. Elektron vermiştir, dolayısıyla **yükseltgenmiştir**. (C doğru).\n- **D şıkkının analizi:** HCl'deki klor atomları yükseltgenerek Cl₂ gazını oluşturmuştur, bu da HCl'nin indirgen özellik gösterdiğini kanıtlar. Ancak HCl'deki hiçbir atom indirgenmemiştir. Dolayısıyla HCl sadece indirgen olarak davranmıştır. Bu nedenle bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520282734_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
+    "options": [
+      "2Na + Cl2 → 2NaCl",
+      "H2 + O2 → 2H2O",
+      "Ca + 2H2O → Ca(OH)2 + H2",
+      "C + O2 → CO",
+      "2Fe2O3 + 3C → 4Fe + 3CO2"
     ],
     "correctAnswer": 0,
-    "explanation": "Tepkimeyi inceleyelim:\nA) Sentez (oluşum) tepkimeleri, iki veya daha fazla basit maddenin birleşerek tek bir bileşik oluşturduğu tepkimelerdir. Bu tepkimede ise bir bileşik (C₃H₈) daha basit maddelere (CO₂ ve H₂O) ayrışmamış, aksine oksijenle reaksiyona girerek birden fazla ürün oluşturmuştur. Bu bir yanma tepkimesidir, sentez tepkimesi değildir. Bu ifade yanlıştır.\nB) Girenler tarafında 1 + 5 = 6 mol gaz varken, ürünler tarafında 3 mol gaz (CO₂) ve 4 mol sıvı (H₂O) oluşur. Maddenin halleri dikkate alındığında toplam mol sayısı (1+5=6 giren, 3+4=7 ürün) artar. Bu ifade doğrudur. (Not: Sadece gaz molekülü sayısı sorulsaydı 6'dan 3'e düştüğü için azalırdı.)\nC) Tepkime denklemindeki katsayılara göre, 1 mol C₃H₈ tepkimeye girdiğinde 3 mol CO₂ oluşur. Bu ifade doğrudur.\nD) Tepkimeye giren maddeler (C₃H₈ ve O₂) gaz fazında iken, ürünlerden biri (H₂O) sıvı fazdadır. Tepkimedeki maddeler farklı fiziksel hallerde olduğu için tepkime heterojendir. Bu ifade doğrudur.\nE) Yanma tepkimeleri, azotun yanması hariç, genellikle ekzotermiktir, yani dışarıya ısı verir. Bu ifade doğrudur.",
+    "explanation": "2Na + Cl2 → 2NaCl tepkimesi bir redoks tepkimesidir çünkü sodyum elektron vererek oksitlenirken, klor elektron alarak indirgenir. Diğer seçenekler ya redoks değil ya da farklı bir mekanizma içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499951496_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında, suda az çözünen gümüş klorür (AgCl) katısı oluşur. Bu olaya ilişkin net iyon denklemi aşağıdakilerden hangisidir?",
+    "options": [
+      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
+      "Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)",
+      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
+      "Ag⁺(aq) + NaCl(k) → AgCl(k) + Na⁺(aq)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1. **Moleküler Denklem:** İlk olarak tepkimenin denkleştirilmiş moleküler denklemi yazılır: AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılarak yazılır. Katı, sıvı ve gazlar moleküler halde bırakılır. Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)\n3. **Seyirci İyonların Belirlenmesi:** Tepkimeye girmeyen, yani denklemin her iki tarafında da aynı formda bulunan iyonlar 'seyirci iyon' olarak adlandırılır. Bu tepkimede Na⁺(aq) ve NO₃⁻(aq) iyonları seyirci iyonlardır.\n4. **Net İyon Denklemi:** Seyirci iyonlar tam iyonik denklemden çıkarılarak net iyon denklemi elde edilir. Bu denklem, çökelmeyi oluşturan asıl kimyasal değişimi gösterir. Ag⁺(aq) + Cl⁻(aq) → AgCl(k)\nBu nedenle doğru cevap D şıkkıdır.",
     "difficulty": 3
   },
   {
@@ -192,35 +192,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501286645_2",
+    "id": "ai_1764498573456_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıda verilen redoks tepkimesi ile ilgili:\n\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\nyargılarından hangileri doğrudur?\n\nI. Zn metali yükseltgenmiştir.\nII. HCl bileşiğindeki H⁺ iyonu indirgendir.\nIII. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında gümüş klorür (AgCl) katısının çöktüğü bir çözünme-çökelme tepkimesi gerçekleşmektedir. Bu tepkimenin net iyon denklemi aşağıdakilerden hangisidir?",
     "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "I ve III",
-      "II ve III"
+      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
+      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
+      "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(suda)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tepkimedeki atomların yükseltgenme basamaklarını inceleyelim:\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\n- Girenlerdeki Zn(k) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n- Girenlerdeki HCl'de H, +1; Cl, -1 değerliklidir.\n- Ürünlerdeki ZnCl₂'de Cl, -1; Zn, +2 değerliklidir.\n- Ürünlerdeki H₂(g) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n\nDeğişimleri değerlendirelim:\n- **Zn:** 0'dan +2'ye yükseltgenmiştir. (Elektron vermiştir.)\n- **H:** +1'den 0'a indirgenmiştir. (Elektron almıştır.)\n- **Cl:** -1'den -1'e, yükseltgenme basamağı değişmemiştir.\n\nŞimdi öncülleri analiz edelim:\n**I. Zn metali yükseltgenmiştir.** Çinko (Zn) atomunun yükseltgenme basamağı 0'dan +2'ye çıktığı için elektron vermiş ve yükseltgenmiştir. Bu ifade **doğrudur**.\n**II. HCl bileşiğindeki H⁺ iyonu indirgendir.** HCl'deki H⁺ iyonu elektron alarak H₂'ye indirgenmiştir. Elektron alarak indirgenen madde, karşısındaki maddeyi yükseltgediği için **yükseltgen** özellik gösterir. İndirgen özellik gösteren ise Zn'dir. Bu ifade **yanlıştır**.\n**III. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.** Verilen tepkime denklemi (Zn + 2HCl → ZnCl₂ + H₂) zaten denktir. Girenlerde 1 Zn, 2 H, 2 Cl; ürünlerde 1 Zn, 2 Cl, 2 H atomu vardır. Bu denklemde ZnCl₂'nin katsayısı 1'dir. Bu ifade **yanlıştır**.\n\nSonuç olarak, sadece I. öncül doğrudur.",
+    "correctAnswer": 2,
+    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi, sadece çökeltiyi oluşturan iyonları ve oluşan katıyı gösterir. Tepkimenin tam iyon denklemi: Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq). Bu denklemde Na⁺ ve NO₃⁻ iyonları tepkimeye girmemiş, sadece ortamda seyirci olarak kalmışlardır. Seyirci iyonlar denklemden çıkarıldığında geriye net iyon denklemi kalır: Ag⁺(aq) + Cl⁻(aq) → AgCl(k).",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519329695_0",
+    "id": "ai_1764520282734_0",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermik bir tepki olarak sınıflandırılabilir?",
+    "questionText": "Aşağıdaki tepkimelerden hangisi ekzotermik bir tepkimedir?",
     "options": [
-      "A + B → C + D + enerji",
-      "X + Y → Z + ısı",
-      "2H₂ + O₂ → 2H₂O + 572 kJ",
-      "C + O₂ → CO₂ + ısı",
-      "D + E → F + G"
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "N2(g) + 3H2(g) → 2NH3(g)",
+      "2H2O(l) → 2H2(g) + O2(g)"
     ],
     "correctAnswer": 2,
-    "explanation": "Ekzotermik tepkimeler, çevreye enerji (genellikle ısı) salan tepkimelerdir. 2H₂ + O₂ → 2H₂O + 572 kJ tepkimesi su oluşumu sırasında 572 kJ enerji saldığı için ekzotermik bir tepkimedir. Diğer seçeneklerde ya enerji çıkışı belirtilmemiş ya da ekzotermik bir özellik taşımamaktadır.",
+    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü dışarıya ısı verir. Diğer seçenekler ya endotermik ya da farklı bir özellik taşır.",
     "difficulty": 3
   }
 ]
