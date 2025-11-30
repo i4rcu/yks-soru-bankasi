@@ -1,34 +1,34 @@
 [
   {
-    "id": "ai_1764500179499_0",
+    "id": "ai_1764501455383_0",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Bir nöronda miyelin kılıf bulunması, impuls iletimi sırasında aşağıdaki olaylardan hangisine neden olmaz?",
+    "questionText": "Miyelin kılıfı hasar görmüş bir nöronda, impuls iletimiyle ilgili olarak aşağıdaki değişikliklerden hangisinin meydana gelmesi beklenir?",
     "options": [
+      "Aksiyon potansiyelinin şiddetinin artması",
       "İmpuls iletim hızının artması",
-      "Sodyum-potasyum pompasının daha az çalışması nedeniyle enerji tasarrufu sağlanması",
-      "Aksiyon potansiyelinin sadece Ranvier boğumlarında oluşması",
-      "Uyartının şiddetinin akson boyunca artarak ilerlemesi",
-      "İmpulsun bir boğumdan diğerine atlayarak iletilmesi (saltatorik iletim)"
+      "İmpuls iletimi için harcanan ATP miktarının artması",
+      "Uyarılma için gerekli eşik değerinin düşmesi",
+      "Repolarizasyon süresinin kısalması"
     ],
-    "correctAnswer": 3,
-    "explanation": "Sinir hücrelerinde impuls iletimi \"hep ya da hiç\" prensibine göre çalışır. Bu prensibe göre, bir nöron eşik değerde veya üzerinde bir uyarı aldığında her zaman aynı şiddette ve hızda bir aksiyon potansiyeli oluşturur. Uyartının şiddeti, impulsun şiddetini (amplitüdünü) değil, sıklığını (frekansını) etkiler. Miyelin kılıf, impulsun Ranvier boğumlarında atlayarak (saltatorik) iletilmesini sağlar, bu da hızı artırır ve sadece boğumlarda iyon değişimi olduğu için enerji tasarrufu sağlar. Ancak miyelin kılıf, impulsun şiddetini akson boyunca artırmaz, şiddet sabit kalır.",
+    "correctAnswer": 2,
+    "explanation": "Miyelin kılıf, akson üzerinde bir yalıtım tabakası oluşturarak impulsun sadece Ranvier boğumlarında oluşmasını sağlar. Bu duruma 'atlamalı iletim' denir. Atlamalı iletim, hem impulsun çok daha hızlı ilerlemesini hem de sadece boğumlarda iyon değişimi olduğu için enerji (ATP) tasarrufu sağlar. Miyelin kılıf hasar gördüğünde, atlamalı iletim ortadan kalkar ve impuls akson boyunca her noktada yeniden oluşturulmak zorunda kalır. Bu durum, sodyum-potasyum pompasının çok daha fazla çalışmasına ve dolayısıyla harcanan ATP miktarının önemli ölçüde artmasına neden olur. Ayrıca impuls iletim hızı da yavaşlar. Aksiyon potansiyelinin şiddeti ve eşik değer ise 'hep ya da hiç' prensibi gereği değişmez.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500179499_1",
+    "id": "ai_1764501455383_1",
     "subjectId": "biy",
     "topic": "Sinir Sistemi",
-    "questionText": "Bir kaza sonucu beyinciği hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
+    "questionText": "Bir kaza sonucu beynin sadece beyincik (serebellum) bölgesi hasar gören bir bireyde, aşağıdaki durumlardan hangisinin gözlenmesi en olasıdır?",
     "options": [
-      "Solunum ve dolaşım gibi hayati faaliyetlerin durması",
-      "Hafıza kaybı ve öğrenme güçlüğü yaşanması",
-      "Vücut sıcaklığı ve kan basıncının düzenlenememesi",
-      "Refleks hareketlerinin kontrol edilememesi",
-      "Denge kaybı ve hareketlerde koordinasyon bozukluğu yaşanması"
+      "Hafıza kaybı ve yeni bilgileri öğrenmede güçlük",
+      "Solunum ve dolaşım gibi hayati fonksiyonların durması",
+      "Acı ve sıcaklık gibi duyuların algılanamaması",
+      "İki elini kullanarak düz bir çizgi üzerinde yürümede zorlanma",
+      "Konuşulanları anlama fakat konuşarak cevap verememe"
     ],
-    "correctAnswer": 4,
-    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. Göz, kulak ve kaslardan gelen bilgileri işleyerek istemli kas hareketlerinin düzenli ve uyumlu bir şekilde yapılmasını sağlar. Bu nedenle beyinciği hasar gören bir kişide en belirgin sorunlar denge kaybı, yürümede zorluk ve hareketlerde (örneğin bir nesneyi tutmaya çalışırken) koordinasyon bozukluğu olacaktır. Diğer şıklardaki işlevler ise farklı beyin bölgeleri tarafından kontrol edilir: A) Omurilik soğanı, B) Uç beyin (serebral korteks), C) Hipotalamus, D) Omurilik.",
+    "correctAnswer": 3,
+    "explanation": "Beyincik (serebellum), vücudun temel denge ve hareket koordinasyon merkezidir. İstemli kas hareketlerinin düzenli ve uyumlu bir şekilde çalışmasını sağlar. Beyincik hasar gördüğünde, kişi hareketlerini koordine etmekte zorlanır, denge sorunları yaşar ve yürüme gibi karmaşık motor becerilerde bozulmalar görülür. Diğer şıklar ise beynin farklı bölgeleriyle ilgilidir: A) Hafıza ve öğrenme (Hipokampus ve serebral korteks), B) Hayati fonksiyonlar (Omurilik soğanı - Beyin sapı), C) Duyu algısı (Talamus ve serebral korteks), E) Konuşma (Broca ve Wernicke alanları - Serebral korteks).",
     "difficulty": 3
   }
 ]
