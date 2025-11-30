@@ -16,22 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520212561_2",
-    "subjectId": "fiz",
-    "topic": "Manyetizma",
-    "questionText": "Bir parçacığın manyetik alanda hareket ederken maruz kaldığı kuvvet hangi yasaya göre hesaplanır?",
-    "options": [
-      "Newton'un Hareket Yasası",
-      "Lorentz Kuvvet Yasası",
-      "Faraday Yasası",
-      "Ampere Yasası",
-      "Ohm Yasası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir parçacığın manyetik alanda hareket ederken maruz kaldığı kuvvet, Lorentz kuvvet yasası ile hesaplanır. Bu yasa, elektrik yükü taşıyan bir parçacığın manyetik alandaki hareketi sırasında üzerine etki eden kuvveti tanımlar.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520212561_1",
     "subjectId": "fiz",
     "topic": "Manyetizma",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 0,
     "explanation": "Mıknatısların iki kutbu vardır: kuzey ve güney. Farklı kutuplar birbirini çekerken, aynı kutuplar birbirini iter. Bu, manyetizmanın temel prensiplerinden biridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520212561_2",
+    "subjectId": "fiz",
+    "topic": "Manyetizma",
+    "questionText": "Bir parçacığın manyetik alanda hareket ederken maruz kaldığı kuvvet hangi yasaya göre hesaplanır?",
+    "options": [
+      "Newton'un Hareket Yasası",
+      "Lorentz Kuvvet Yasası",
+      "Faraday Yasası",
+      "Ampere Yasası",
+      "Ohm Yasası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir parçacığın manyetik alanda hareket ederken maruz kaldığı kuvvet, Lorentz kuvvet yasası ile hesaplanır. Bu yasa, elektrik yükü taşıyan bir parçacığın manyetik alandaki hareketi sırasında üzerine etki eden kuvveti tanımlar.",
     "difficulty": 3
   },
   {
