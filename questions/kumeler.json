@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ai_1764497878558_0",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "Matematik, Fizik ve Kimya derslerinden en az birini alan öğrencilerden oluşan 38 kişilik bir sınıfta; Matematik alan 20, Fizik alan 18 ve Kimya alan 15 öğrenci bulunmaktadır. Bu derslerden Matematik ve Fizik derslerini alan 7, Fizik ve Kimya derslerini alan 6, Matematik ve Kimya derslerini alan 5 öğrenci olduğuna göre, her üç dersi de alan kaç öğrenci vardır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu tür problemler, 'Birleşim Kümesinin Eleman Sayısı' formülü (içerme-dışarma prensibi) kullanılarak çözülür. M, F ve K sırasıyla Matematik, Fizik ve Kimya derslerini alanların kümesini göstersin. Formül şöyledir: s(M ∪ F ∪ K) = s(M) + s(F) + s(K) - [s(M ∩ F) + s(M ∩ K) + s(F ∩ K)] + s(M ∩ F ∩ K). Verilen değerleri yerine koyalım: Sınıftaki herkes en az bir ders aldığı için s(M ∪ F ∪ K) = 38'dir. 38 = 20 + 18 + 15 - (7 + 5 + 6) + s(M ∩ F ∩ K). İşlemleri yaparsak: 38 = 53 - 18 + s(M ∩ F ∩ K). 38 = 35 + s(M ∩ F ∩ K). Buradan, her üç dersi de alanların sayısı olan s(M ∩ F ∩ K) = 38 - 35 = 3 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764497878560_1",
+    "subjectId": "mat",
+    "topic": "Kümeler",
+    "questionText": "A = {1, 2, 3, 4, 5, 6} kümesinin alt kümelerinden kaç tanesinin elemanları çarpımı bir çift sayıdır?",
+    "options": [
+      "8",
+      "32",
+      "48",
+      "56",
+      "63"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bir kümenin elemanları çarpımının çift sayı olması için, kümenin içinde en az bir tane çift sayı bulunması yeterlidir. Bu soruyu çözmenin en kolay yolu, tüm durumdan istenmeyen durumu çıkarmaktır (tümleyen mantığı). İstenmeyen durum, elemanları çarpımının tek sayı olmasıdır. Bir çarpımın tek sayı olabilmesi için bütün çarpanların tek sayı olması gerekir. A kümesindeki tek sayılar {1, 3, 5}'tir. Sadece bu elemanlardan oluşan alt kümelerin elemanları çarpımı tek sayı olacaktır. {1, 3, 5} kümesinin alt küme sayısı 2³ = 8'dir. (Bu 8 kümenin içinde elemanları çarpımı 1 kabul edilen boş küme de vardır). A kümesinin toplam alt küme sayısı ise 2⁶ = 64'tür. Toplam alt küme sayısından, elemanları çarpımı tek olan alt küme sayısını çıkarırsak, elemanları çarpımı çift olan alt küme sayısını buluruz. Sonuç: 64 - 8 = 56.",
+    "difficulty": 3
+  }
+]
