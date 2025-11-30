@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520408939_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
-    "options": [
-      "Güzel",
-      "Koşuyor",
-      "Çiçek",
-      "Hızla",
-      "Kedi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520408939_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 2,
     "explanation": "Birleşik cümle, iki veya daha fazla cümleciğin bir araya gelmesiyle oluşur. 'Hava güzel ama rüzgarlı.' cümlesi, 'ama' bağlacı ile iki cümleciği birleştirdiği için birleşik cümledir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520408939_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
+    "options": [
+      "Güzel",
+      "Koşuyor",
+      "Çiçek",
+      "Hızla",
+      "Kedi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
     "difficulty": 3
   },
   {
