@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764520188410_1",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Potansiyel enerji hangi durumlarda en yüksek olur?",
-    "options": [
-      "Cismin en alt noktada olduğu durumlarda",
-      "Cismin en üst noktada olduğu durumlarda",
-      "Cismin hızının en yüksek olduğu durumlarda",
-      "Cismin sıcaklığının en düşük olduğu durumlarda",
-      "Cismin şeklinin en büyük olduğu durumlarda"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Potansiyel enerji, bir cismin konumuna bağlıdır. Özellikle yer çekimi etkisi altında, cismin en yüksek noktada olduğu durumlarda potansiyel enerji maksimum düzeye ulaşır.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764520188409_0",
     "subjectId": "fiz",
     "topic": "Enerji",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 2,
     "explanation": "Isı enerjisi, sıcaklık farkı nedeniyle yüksek sıcaklıktan düşük sıcaklığa doğru akar. Bu, termodinamiğin temel prensiplerinden biridir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520188410_1",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Potansiyel enerji hangi durumlarda en yüksek olur?",
+    "options": [
+      "Cismin en alt noktada olduğu durumlarda",
+      "Cismin en üst noktada olduğu durumlarda",
+      "Cismin hızının en yüksek olduğu durumlarda",
+      "Cismin sıcaklığının en düşük olduğu durumlarda",
+      "Cismin şeklinin en büyük olduğu durumlarda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Potansiyel enerji, bir cismin konumuna bağlıdır. Özellikle yer çekimi etkisi altında, cismin en yüksek noktada olduğu durumlarda potansiyel enerji maksimum düzeye ulaşır.",
     "difficulty": 3
   },
   {
