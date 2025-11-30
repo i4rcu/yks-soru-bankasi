@@ -16,22 +16,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764521092961_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 15 N'lik bir kuvvetle sürüklendiğinde, 3 m'lik bir mesafe katetmektedir. Kuvvetin yaptığı iş nedir?",
-    "options": [
-      "10 J",
-      "45 J",
-      "30 J",
-      "50 J",
-      "20 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yine iş, kuvvet ile mesafenin çarpımı ile bulunur: İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521092961_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
@@ -45,6 +29,22 @@
     ],
     "correctAnswer": 2,
     "explanation": "İş, kuvvet ile mesafenin çarpımı ile hesaplanır: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521092961_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 15 N'lik bir kuvvetle sürüklendiğinde, 3 m'lik bir mesafe katetmektedir. Kuvvetin yaptığı iş nedir?",
+    "options": [
+      "10 J",
+      "45 J",
+      "30 J",
+      "50 J",
+      "20 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yine iş, kuvvet ile mesafenin çarpımı ile bulunur: İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
     "difficulty": 3
   },
   {
