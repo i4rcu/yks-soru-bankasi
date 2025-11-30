@@ -1,34 +1,18 @@
 [
   {
-    "id": "ai_1764520188409_0",
+    "id": "ai_1764519242509_0",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Bir cismin kinetik enerjisi neye bağlıdır?",
+    "questionText": "Bir cismin potansiyel enerjisi, yükseklik ile nasıl ilişkilidir?",
     "options": [
-      "Cismin şekline",
-      "Cismin sıcaklığına",
-      "Cismin hızına ve kütlesine",
-      "Cismin rengine",
-      "Cismin yaşına"
+      "Yükseklik arttıkça potansiyel enerji azalır.",
+      "Yükseklik ile potansiyel enerji arasında bir ilişki yoktur.",
+      "Yükseklik arttıkça potansiyel enerji artar.",
+      "Potansiyel enerji sadece cismin kütlesine bağlıdır.",
+      "Potansiyel enerji sadece cismin hareketine bağlıdır."
     ],
     "correctAnswer": 2,
-    "explanation": "Kinetik enerji, bir cismin hareket etme durumunu ifade eder ve cismin hızı ile kütlesine bağlıdır. Kinetik enerji, E_k = 1/2 mv^2 formülü ile hesaplanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520188414_2",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Isı enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Isı enerjisi her zaman artar.",
-      "Isı enerjisi yalnızca gazlarda bulunur.",
-      "Isı enerjisi, sıcaklık farkı ile akar.",
-      "Isı enerjisi, cisimlerin rengine bağlıdır.",
-      "Isı enerjisi yalnızca elektrik enerjisinden elde edilir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Isı enerjisi, sıcaklık farkı nedeniyle yüksek sıcaklıktan düşük sıcaklığa doğru akar. Bu, termodinamiğin temel prensiplerinden biridir.",
+    "explanation": "Potansiyel enerji, bir cismin yerden yüksekliği ile doğru orantılıdır. Yükseklik arttıkça, cismin potansiyel enerjisi de artar. Bu, mgh formülü ile ifade edilir; burada m kütle, g yerçekimi ivmesi ve h yüksekliktir.",
     "difficulty": 3
   },
   {
@@ -48,22 +32,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498303717_0",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Sürtünmesiz bir ortamda, yerden belirli bir yükseklikteki K noktasından serbest bırakılan m kütleli noktasal bir cisim, L noktasından geçerek M noktasında yere çarpıyor. Cismin L noktasındaki kinetik enerjisi, yere göre potansiyel enerjisine eşittir. K noktasının yerden yüksekliği h olduğuna göre, L noktasının yerden yüksekliği kaç h'dir?",
-    "options": [
-      "1/4",
-      "1/3",
-      "1/2",
-      "2/3",
-      "3/4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sürtünmesiz ortamda mekanik enerji korunur. Cismin K noktasındaki toplam enerjisi, sadece potansiyel enerjisine eşittir ve E_K = mgh'dir. L noktasının yerden yüksekliğine h_L diyelim. Bu noktada cismin hem kinetik (E_kL) hem de potansiyel (E_pL) enerjisi vardır. Soruda E_kL = E_pL olduğu verilmiştir. L noktasındaki toplam mekanik enerji E_L = E_kL + E_pL = 2 * E_pL'dir. E_pL = mgh_L olduğundan, E_L = 2mgh_L olur. Mekanik enerji korunumundan E_K = E_L olmalıdır. Yani, mgh = 2mgh_L olur. Eşitlikten m ve g'ler sadeleştiğinde h = 2h_L bulunur, bu da h_L = h/2 sonucunu verir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764498303717_1",
     "subjectId": "fiz",
     "topic": "Enerji",
@@ -77,38 +45,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "Öncelikle asansörün kazandığı potansiyel enerji, yani motorun yaptığı işi bulalım. Yapılan iş (W) = Potansiyel enerji değişimi = m * g * h = 500 kg * 10 m/s² * 20 m = 100.000 Joule. Motorun bu işi yaparken ortaya çıkardığı faydalı güç (P_faydalı) = W / t = 100.000 J / 10 s = 10.000 Watt = 10 kW. Motorun verimi %80 olarak verilmiştir. Verim = (P_faydalı / P_harcanan) formülü kullanılır. 0,80 = 10 kW / P_harcanan. Buradan motorun harcadığı güç (P_harcanan) = 10 kW / 0,80 = 12,5 kW olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498303717_2",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Yatay ve sürtünmesiz bir düzlemde durmakta olan 2 kg kütleli bir cisme, yatay bir kuvvet etki ediyor. Cismin bu kuvvet etkisindeki hız-zaman grafiği şekildeki gibidir. Buna göre, 0-4 saniye aralığında kuvvetin yaptığı iş kaç Joule'dür?",
-    "options": [
-      "16",
-      "32",
-      "64",
-      "100",
-      "128"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir cisme etki eden net kuvvetin yaptığı iş, o cismin kinetik enerjisindeki değişime eşittir (İş-Kinetik Enerji Teoremi). W_net = ΔE_k = E_k_son - E_k_ilk. Cisim başlangıçta durmakta olduğu için ilk hızı (v_ilk) ve dolayısıyla ilk kinetik enerjisi (E_k_ilk) sıfırdır. Hız-zaman grafiğinden, cismin 4. saniyedeki hızının (v_son) 8 m/s olduğunu görmekteyiz. Cismin son kinetik enerjisi: E_k_son = (1/2) * m * v_son². Değerleri yerine koyarsak: E_k_son = (1/2) * 2 kg * (8 m/s)² = 1 * 64 = 64 Joule. Ancak grafikte hızlanma düzgün değil. 0-2s arası ivme a1=(8-0)/2=4m/s^2, 2-4s arası ivme a2=(16-8)/2=4m/s^2. Hata! Grafik sorusu olarak tasarlanmış ama metinde verilmemiş. Soruyu metne göre düzeltelim. 'Cismin hızı 4 saniye sonunda 16 m/s'ye ulaşıyor.' şeklinde olmalıydı. Tekrar çözelim: v_son = 16 m/s. E_k_son = (1/2) * 2 kg * (16 m/s)² = 1 * 256 = 256 Joule. Bu da seçeneklerde yok. Soruyu baştan tasarlayalım. **Soru metnini düzeltiyoruz:** '...Cismin hızı 4 saniye sonunda 8 m/s'ye ulaşıyor.' **Çözüm:** v_son = 8 m/s. E_k_son = (1/2) * 2 kg * (8 m/s)² = 1 * 64 = 64 Joule. Yapılan iş, kinetik enerji değişimine eşit olduğundan W = 64 J - 0 J = 64 Joule'dür. **Düzeltme: Seçenekleri ve cevabı daha dikkatli kontrol edelim. Soru metni doğru, ama hız-zaman grafiği ima ediliyor. Grafik olmadan, metindeki verilerle çözelim. 'Cismin hızı 0'dan 4 saniyede düzgün hızlanarak 8 m/s'ye ulaşıyor.' varsayımıyla çözüm:** E_k_son = (1/2) * m * v_son² = (1/2) * 2 * (8)² = 64 J. W = ΔE_k = 64 - 0 = 64 J. **Yeniden kurgu:** Soru metnini değiştirip daha zor hale getirelim. **Yeni soru:** 'Yatay sürtünmesiz düzlemde duran 4 kg'lık cisme uygulanan net kuvvetin yola bağlı değişim grafiği şekildeki gibidir. Cisim 10 metre yol aldığında kinetik enerjisi kaç Joule olur?' (Grafik: F=20N, 0-10m arası sabit). **Çözüm:** F-x grafiğinin altındaki alan yapılan işi verir. İş (W) = Alan = F * x = 20 N * 10 m = 200 J. İş-kinetik enerji teoremine göre W_net = ΔE_k. Cisim durduğu için ilk kinetik enerji 0'dır. W = E_k_son. Dolayısıyla E_k_son = 200 J. **Son Karar: Orijinal soruyu basit ve net tutalım.** 'Yatay ve sürtünmesiz bir düzlemde durmakta olan 4 kg kütleli bir cisme, 5 saniye boyunca 8 N'luk sabit ve yatay bir kuvvet uygulanıyor. 5. saniye sonunda cismin kinetik enerjisi kaç Joule'dür?' **Çözüm:** Önce cismin ivmesini bulalım: F = m*a -> 8 = 4*a -> a = 2 m/s². 5 saniye sonraki hızını bulalım: v = a*t = 2*5 = 10 m/s. Son kinetik enerjisi: E_k = (1/2)*m*v² = (1/2)*4*(10)² = 2 * 100 = 200 Joule. Alternatif yol: Yapılan işi bulalım. Alınan yol: x = (1/2)at² = (1/2)*2*(5)² = 25 m. İş: W = F*x = 8 N * 25 m = 200 Joule. İş-enerji teoreminden W = ΔE_k = 200 J. Bu daha iyi bir soru oldu. JSON'a bunu ekleyelim. **Düzeltilmiş 3. Soru:**",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499640304_0",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Kütlesi m olan bir cisim, sürtünmeli eğik düzlemin K noktasından serbest bırakıldığında L noktasına v hızıyla ulaşıyor. K noktasının yerden yüksekliği h olduğuna göre, sürtünme kuvvetinin yaptığı iş (ısıya dönüşen enerji) aşağıdaki ifadelerden hangisine eşittir? (g: yer çekimi ivmesi)",
-    "options": [
-      "1/2 mv²",
-      "mgh",
-      "mgh - 1/2 mv²",
-      "mgh + 1/2 mv²",
-      "1/2 mv² - mgh"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Enerjinin korunumu ilkesine göre, sürtünme gibi korunumsuz bir kuvvetin varlığında sistemin başlangıçtaki mekanik enerjisi, son durumdaki mekanik enerjisi ile ısıya dönüşen enerjinin toplamına eşittir. Başlangıçta cisim serbest bırakıldığı için sadece potansiyel enerjisi vardır (E_ilk = mgh). L noktasına ulaştığında ise sadece kinetik enerjisi vardır (E_son = 1/2 mv²). Aradaki fark, sürtünme kuvvetinin yaptığı işe, yani ısıya dönüşen enerjiye (W_sürtünme) eşittir. Bu durumda denklem: E_ilk = E_son + W_sürtünme => mgh = 1/2 mv² + W_sürtünme. Buradan W_sürtünme = mgh - 1/2 mv² bulunur.",
     "difficulty": 3
   },
   {
@@ -128,19 +64,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501001352_0",
+    "id": "ai_1764520188414_2",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Kütlesi m olan bir cisim, sürtünmeli bir eğik düzlemin K noktasından serbest bırakılıyor ve L noktasına ulaşıyor. Bu süreçle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "questionText": "Isı enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Cismin kinetik enerjisi değişmez.",
-      "Cismin potansiyel enerjisi artar.",
-      "Cismin mekanik enerjisi korunur.",
-      "Sürtünme kuvvetinin yaptığı iş, cismin kazandığı kinetik enerjiye eşittir.",
-      "Cismin potansiyel enerjisindeki azalma, kinetik enerjisindeki artış ile ısıya dönüşen enerjinin toplamına eşittir."
+      "Isı enerjisi her zaman artar.",
+      "Isı enerjisi yalnızca gazlarda bulunur.",
+      "Isı enerjisi, sıcaklık farkı ile akar.",
+      "Isı enerjisi, cisimlerin rengine bağlıdır.",
+      "Isı enerjisi yalnızca elektrik enerjisinden elde edilir."
     ],
-    "correctAnswer": 4,
-    "explanation": "Sürtünmeli bir sistemde mekanik enerji (kinetik + potansiyel) korunmaz. Enerjinin bir kısmı sürtünme nedeniyle ısıya dönüşür. Enerjinin korunumu ilkesine göre, başlangıçtaki toplam enerji sondaki toplam enerjiye eşit olmalıdır. Başlangıçta sadece potansiyel enerji vardır. Süreç sonunda bu potansiyel enerjinin bir kısmı kinetik enerjiye, bir kısmı da sürtünme yoluyla ısı enerjisine dönüşmüştür. Dolayısıyla, potansiyel enerjideki azalma (ΔEp), kinetik enerjideki artış (ΔEk) ile sürtünmenin yaptığı işin (W_sürtünme, yani ısı) toplamına eşittir: |ΔEp| = ΔEk + W_sürtünme.",
+    "correctAnswer": 2,
+    "explanation": "Isı enerjisi, sıcaklık farkı nedeniyle yüksek sıcaklıktan düşük sıcaklığa doğru akar. Bu, termodinamiğin temel prensiplerinden biridir.",
     "difficulty": 3
   },
   {
@@ -176,19 +112,83 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519242509_0",
+    "id": "ai_1764498303717_2",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Bir cismin potansiyel enerjisi, yükseklik ile nasıl ilişkilidir?",
+    "questionText": "Yatay ve sürtünmesiz bir düzlemde durmakta olan 2 kg kütleli bir cisme, yatay bir kuvvet etki ediyor. Cismin bu kuvvet etkisindeki hız-zaman grafiği şekildeki gibidir. Buna göre, 0-4 saniye aralığında kuvvetin yaptığı iş kaç Joule'dür?",
     "options": [
-      "Yükseklik arttıkça potansiyel enerji azalır.",
-      "Yükseklik ile potansiyel enerji arasında bir ilişki yoktur.",
-      "Yükseklik arttıkça potansiyel enerji artar.",
-      "Potansiyel enerji sadece cismin kütlesine bağlıdır.",
-      "Potansiyel enerji sadece cismin hareketine bağlıdır."
+      "16",
+      "32",
+      "64",
+      "100",
+      "128"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir cisme etki eden net kuvvetin yaptığı iş, o cismin kinetik enerjisindeki değişime eşittir (İş-Kinetik Enerji Teoremi). W_net = ΔE_k = E_k_son - E_k_ilk. Cisim başlangıçta durmakta olduğu için ilk hızı (v_ilk) ve dolayısıyla ilk kinetik enerjisi (E_k_ilk) sıfırdır. Hız-zaman grafiğinden, cismin 4. saniyedeki hızının (v_son) 8 m/s olduğunu görmekteyiz. Cismin son kinetik enerjisi: E_k_son = (1/2) * m * v_son². Değerleri yerine koyarsak: E_k_son = (1/2) * 2 kg * (8 m/s)² = 1 * 64 = 64 Joule. Ancak grafikte hızlanma düzgün değil. 0-2s arası ivme a1=(8-0)/2=4m/s^2, 2-4s arası ivme a2=(16-8)/2=4m/s^2. Hata! Grafik sorusu olarak tasarlanmış ama metinde verilmemiş. Soruyu metne göre düzeltelim. 'Cismin hızı 4 saniye sonunda 16 m/s'ye ulaşıyor.' şeklinde olmalıydı. Tekrar çözelim: v_son = 16 m/s. E_k_son = (1/2) * 2 kg * (16 m/s)² = 1 * 256 = 256 Joule. Bu da seçeneklerde yok. Soruyu baştan tasarlayalım. **Soru metnini düzeltiyoruz:** '...Cismin hızı 4 saniye sonunda 8 m/s'ye ulaşıyor.' **Çözüm:** v_son = 8 m/s. E_k_son = (1/2) * 2 kg * (8 m/s)² = 1 * 64 = 64 Joule. Yapılan iş, kinetik enerji değişimine eşit olduğundan W = 64 J - 0 J = 64 Joule'dür. **Düzeltme: Seçenekleri ve cevabı daha dikkatli kontrol edelim. Soru metni doğru, ama hız-zaman grafiği ima ediliyor. Grafik olmadan, metindeki verilerle çözelim. 'Cismin hızı 0'dan 4 saniyede düzgün hızlanarak 8 m/s'ye ulaşıyor.' varsayımıyla çözüm:** E_k_son = (1/2) * m * v_son² = (1/2) * 2 * (8)² = 64 J. W = ΔE_k = 64 - 0 = 64 J. **Yeniden kurgu:** Soru metnini değiştirip daha zor hale getirelim. **Yeni soru:** 'Yatay sürtünmesiz düzlemde duran 4 kg'lık cisme uygulanan net kuvvetin yola bağlı değişim grafiği şekildeki gibidir. Cisim 10 metre yol aldığında kinetik enerjisi kaç Joule olur?' (Grafik: F=20N, 0-10m arası sabit). **Çözüm:** F-x grafiğinin altındaki alan yapılan işi verir. İş (W) = Alan = F * x = 20 N * 10 m = 200 J. İş-kinetik enerji teoremine göre W_net = ΔE_k. Cisim durduğu için ilk kinetik enerji 0'dır. W = E_k_son. Dolayısıyla E_k_son = 200 J. **Son Karar: Orijinal soruyu basit ve net tutalım.** 'Yatay ve sürtünmesiz bir düzlemde durmakta olan 4 kg kütleli bir cisme, 5 saniye boyunca 8 N'luk sabit ve yatay bir kuvvet uygulanıyor. 5. saniye sonunda cismin kinetik enerjisi kaç Joule'dür?' **Çözüm:** Önce cismin ivmesini bulalım: F = m*a -> 8 = 4*a -> a = 2 m/s². 5 saniye sonraki hızını bulalım: v = a*t = 2*5 = 10 m/s. Son kinetik enerjisi: E_k = (1/2)*m*v² = (1/2)*4*(10)² = 2 * 100 = 200 Joule. Alternatif yol: Yapılan işi bulalım. Alınan yol: x = (1/2)at² = (1/2)*2*(5)² = 25 m. İş: W = F*x = 8 N * 25 m = 200 Joule. İş-enerji teoreminden W = ΔE_k = 200 J. Bu daha iyi bir soru oldu. JSON'a bunu ekleyelim. **Düzeltilmiş 3. Soru:**",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499640304_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Kütlesi m olan bir cisim, sürtünmeli eğik düzlemin K noktasından serbest bırakıldığında L noktasına v hızıyla ulaşıyor. K noktasının yerden yüksekliği h olduğuna göre, sürtünme kuvvetinin yaptığı iş (ısıya dönüşen enerji) aşağıdaki ifadelerden hangisine eşittir? (g: yer çekimi ivmesi)",
+    "options": [
+      "1/2 mv²",
+      "mgh",
+      "mgh - 1/2 mv²",
+      "mgh + 1/2 mv²",
+      "1/2 mv² - mgh"
     ],
     "correctAnswer": 2,
-    "explanation": "Potansiyel enerji, bir cismin yerden yüksekliği ile doğru orantılıdır. Yükseklik arttıkça, cismin potansiyel enerjisi de artar. Bu, mgh formülü ile ifade edilir; burada m kütle, g yerçekimi ivmesi ve h yüksekliktir.",
+    "explanation": "Enerjinin korunumu ilkesine göre, sürtünme gibi korunumsuz bir kuvvetin varlığında sistemin başlangıçtaki mekanik enerjisi, son durumdaki mekanik enerjisi ile ısıya dönüşen enerjinin toplamına eşittir. Başlangıçta cisim serbest bırakıldığı için sadece potansiyel enerjisi vardır (E_ilk = mgh). L noktasına ulaştığında ise sadece kinetik enerjisi vardır (E_son = 1/2 mv²). Aradaki fark, sürtünme kuvvetinin yaptığı işe, yani ısıya dönüşen enerjiye (W_sürtünme) eşittir. Bu durumda denklem: E_ilk = E_son + W_sürtünme => mgh = 1/2 mv² + W_sürtünme. Buradan W_sürtünme = mgh - 1/2 mv² bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501001352_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Kütlesi m olan bir cisim, sürtünmeli bir eğik düzlemin K noktasından serbest bırakılıyor ve L noktasına ulaşıyor. Bu süreçle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Cismin kinetik enerjisi değişmez.",
+      "Cismin potansiyel enerjisi artar.",
+      "Cismin mekanik enerjisi korunur.",
+      "Sürtünme kuvvetinin yaptığı iş, cismin kazandığı kinetik enerjiye eşittir.",
+      "Cismin potansiyel enerjisindeki azalma, kinetik enerjisindeki artış ile ısıya dönüşen enerjinin toplamına eşittir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sürtünmeli bir sistemde mekanik enerji (kinetik + potansiyel) korunmaz. Enerjinin bir kısmı sürtünme nedeniyle ısıya dönüşür. Enerjinin korunumu ilkesine göre, başlangıçtaki toplam enerji sondaki toplam enerjiye eşit olmalıdır. Başlangıçta sadece potansiyel enerji vardır. Süreç sonunda bu potansiyel enerjinin bir kısmı kinetik enerjiye, bir kısmı da sürtünme yoluyla ısı enerjisine dönüşmüştür. Dolayısıyla, potansiyel enerjideki azalma (ΔEp), kinetik enerjideki artış (ΔEk) ile sürtünmenin yaptığı işin (W_sürtünme, yani ısı) toplamına eşittir: |ΔEp| = ΔEk + W_sürtünme.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520188409_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin kinetik enerjisi neye bağlıdır?",
+    "options": [
+      "Cismin şekline",
+      "Cismin sıcaklığına",
+      "Cismin hızına ve kütlesine",
+      "Cismin rengine",
+      "Cismin yaşına"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kinetik enerji, bir cismin hareket etme durumunu ifade eder ve cismin hızı ile kütlesine bağlıdır. Kinetik enerji, E_k = 1/2 mv^2 formülü ile hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498303717_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Sürtünmesiz bir ortamda, yerden belirli bir yükseklikteki K noktasından serbest bırakılan m kütleli noktasal bir cisim, L noktasından geçerek M noktasında yere çarpıyor. Cismin L noktasındaki kinetik enerjisi, yere göre potansiyel enerjisine eşittir. K noktasının yerden yüksekliği h olduğuna göre, L noktasının yerden yüksekliği kaç h'dir?",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "2/3",
+      "3/4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sürtünmesiz ortamda mekanik enerji korunur. Cismin K noktasındaki toplam enerjisi, sadece potansiyel enerjisine eşittir ve E_K = mgh'dir. L noktasının yerden yüksekliğine h_L diyelim. Bu noktada cismin hem kinetik (E_kL) hem de potansiyel (E_pL) enerjisi vardır. Soruda E_kL = E_pL olduğu verilmiştir. L noktasındaki toplam mekanik enerji E_L = E_kL + E_pL = 2 * E_pL'dir. E_pL = mgh_L olduğundan, E_L = 2mgh_L olur. Mekanik enerji korunumundan E_K = E_L olmalıdır. Yani, mgh = 2mgh_L olur. Eşitlikten m ve g'ler sadeleştiğinde h = 2h_L bulunur, bu da h_L = h/2 sonucunu verir.",
     "difficulty": 3
   }
 ]
