@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764500939716_0",
+    "id": "ai_1764520167024_0",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğrusal bir yolda K noktasından L noktasına 10 saniyede giden bir araç, hiç durmadan L noktasından K noktasına 15 saniyede geri dönüyor. K ve L noktaları arasındaki uzaklık 300 metre olduğuna göre, aracın tüm hareketi boyunca ortalama hızı ve ortalama sürati sırasıyla kaç m/s'dir?",
+    "questionText": "Bir cismin hızı, 10 m/s'den 20 m/s'ye çıkıyorsa, bu cismin ivmesi nedir?",
     "options": [
-      "24 ve 0",
-      "0 ve 24",
-      "12 ve 12",
-      "0 ve 12",
-      "12 ve 0"
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
     ],
     "correctAnswer": 1,
-    "explanation": "Ortalama sürat, toplam alınan yolun toplam zamana bölünmesiyle bulunur. Ortalama hız ise toplam yer değiştirmenin toplam zamana bölünmesiyle bulunur. \n\n1. **Toplam Alınan Yol:** Araç K'dan L'ye 300 m gitmiş ve L'den K'ya 300 m geri dönmüştür. Toplam yol = 300 m + 300 m = 600 m.\n2. **Toplam Zaman:** Gidiş 10 s, dönüş 15 s sürmüştür. Toplam zaman = 10 s + 15 s = 25 s.\n3. **Ortalama Sürat:** Toplam Yol / Toplam Zaman = 600 m / 25 s = 24 m/s.\n4. **Toplam Yer Değiştirme:** Araç K noktasından başlayıp yine K noktasına geri dönmüştür. Başlangıç ve bitiş noktası aynı olduğu için toplam yer değiştirme 0'dır.\n5. **Ortalama Hız:** Toplam Yer Değiştirme / Toplam Zaman = 0 m / 25 s = 0 m/s.\n\nSonuç olarak, ortalama hız 0 m/s ve ortalama sürat 24 m/s'dir. Soruda sırasıyla istendiği için cevap '0 ve 24' olmalıdır.",
+    "explanation": "İvme, hız değişiminin zamanla oranıdır. Eğer hız 10 m/s'den 20 m/s'ye çıkıyorsa, hız değişimi 20 m/s - 10 m/s = 10 m/s'dir. Eğer bu değişim 5 saniyede gerçekleşiyorsa, ivme = 10 m/s / 5 s = 2 m/s² olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500939716_1",
+    "id": "ai_1764520167024_1",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Durgun halden doğrusal bir yolda harekete başlayan bir aracın hız-zaman grafiğine göre, araç ilk 2 saniyede hızını düzgün artırarak 10 m/s'ye çıkarıyor. 2-4 saniye aralığında bu sabit hızla hareket ediyor ve 4-8 saniye aralığında düzgün yavaşlayarak duruyor. Buna göre, aracın ilk 2 saniyedeki ivmesinin büyüklüğünün (a₁), 4-8 saniye aralığındaki ivmesinin büyüklüğüne (a₂) oranı (|a₁|/|a₂|) kaçtır?",
+    "questionText": "Bir cismin hareketi sırasında aldığı mesafe 100 m, geçen süre ise 5 saniye ise cismin ortalama hızı nedir?",
     "options": [
-      "1/2",
-      "1",
-      "4",
-      "1/4",
-      "2"
+      "15 m/s",
+      "20 m/s",
+      "25 m/s",
+      "30 m/s",
+      "35 m/s"
     ],
-    "correctAnswer": 4,
-    "explanation": "İvme, hız-zaman grafiğinin eğimine eşittir. Eğim = (Hızdaki Değişim) / (Zamandaki Değişim) = Δv / Δt.\n\n1. **İlk 2 saniyedeki ivme (a₁):**\n   - Araç durgun halden (0 m/s) 2 saniyede 10 m/s hıza ulaşmıştır.\n   - a₁ = (10 m/s - 0 m/s) / (2 s - 0 s) = 10 / 2 = 5 m/s².\n   - a₁'in büyüklüğü |a₁| = 5 m/s².\n\n2. **4-8 saniye aralığındaki ivme (a₂):**\n   - Araç 4. saniyede 10 m/s hızla giderken 8. saniyede durmuştur (0 m/s).\n   - a₂ = (0 m/s - 10 m/s) / (8 s - 4 s) = -10 / 4 = -2.5 m/s².\n   - a₂'nin büyüklüğü |a₂| = |-2.5| = 2.5 m/s².\n\n3. **İvmelerin büyüklüklerinin oranı:**\n   - |a₁| / |a₂| = 5 / 2.5 = 2.\n\nBu nedenle doğru cevap 2'dir.",
+    "correctAnswer": 2,
+    "explanation": "Ortalama hız, alınan mesafenin geçen süreye bölünmesiyle hesaplanır. Ortalama hız = Mesafe / Zaman = 100 m / 5 s = 20 m/s.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500939716_2",
+    "id": "ai_1764520167024_2",
     "subjectId": "fiz",
     "topic": "Hareket",
-    "questionText": "Doğu yönünde 90 km/h sabit süratle giden bir K aracı ile aynı doğrultuda ve paralel bir yolda batı yönünde 60 km/h sabit süratle giden bir L aracı bulunmaktadır. K aracının sürücüsüne göre L aracının hızı ve yönü nedir?",
+    "questionText": "Bir cisim, sabit bir hızla hareket ediyorsa, bu cisim için hangi ifade doğrudur?",
     "options": [
-      "Doğu yönünde 30 km/h",
-      "Batı yönünde 30 km/h",
-      "Doğu yönünde 150 km/h",
-      "Batı yönünde 150 km/h",
-      "Batı yönünde 90 km/h"
+      "İvmesi sıfırdır.",
+      "İvmesi pozitiftir.",
+      "İvmesi negatiftir.",
+      "Hızı sürekli değişir.",
+      "Hiçbir bilgi verilemez."
     ],
-    "correctAnswer": 3,
-    "explanation": "Bağıl hız, vektörel bir büyüklüktür ve V(bağıl) = V(gözlenen) - V(gözlemci) formülü ile bulunur. Bu soruda gözlemci K aracı, gözlenen ise L aracıdır.\n\n1. **Yön Belirleme:** Doğu yönünü pozitif (+), batı yönünü negatif (-) olarak kabul edelim.\n2. **Hızları Vektörel Olarak Yazma:**\n   - K aracının hızı (Gözlemci): Vₖ = +90 km/h\n   - L aracının hızı (Gözlenen): Vₗ = -60 km/h\n3. **Formülü Uygulama:**\n   - K'ye göre L'nin hızı: V(L'ye göre K) = Vₗ - Vₖ\n   - V(L'ye göre K) = (-60 km/h) - (+90 km/h)\n   - V(L'ye göre K) = -150 km/h\n\nSonucun negatif (-) çıkması, hızın batı yönünde olduğunu gösterir. Büyüklüğü ise 150 km/h'dir. Dolayısıyla, K aracının sürücüsü, L aracını batı yönünde 150 km/h hızla gidiyormuş gibi görür.",
+    "correctAnswer": 0,
+    "explanation": "Sabit hızla hareket eden bir cismin hızı zamanla değişmediği için ivmesi de sıfırdır. Bu durumda cisim düzgün hareket etmektedir.",
     "difficulty": 3
   }
 ]
