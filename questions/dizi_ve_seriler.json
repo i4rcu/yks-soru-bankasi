@@ -1,51 +1,131 @@
 [
   {
-    "id": "ai_1764523542600_0",
+    "id": "ai_1764522002495_4",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 3, 6, 12, 24, ... şeklindedir. Bu dizinin 8. terimi nedir?",
+    "options": [
+      "768",
+      "512",
+      "256",
+      "128",
+      "64"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu dizi her terimi 2 ile çarparak elde edilmektedir. 3 * 2^n formülüne göre a_8 = 3 * 2^7 = 3 * 128 = 384.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542600_6",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 5, 10, 20, 40, ... şeklinde devam ediyor. Bu dizinin genel formülü nedir?",
+    "options": [
+      "5 * 2^(n-1)",
+      "5 * n",
+      "5 * 2*n",
+      "10 * n",
+      "2n + 5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dizi, her terimin bir önceki terimin 2 katı olduğunu gösterir. Genel formül 5 * 2^(n-1)'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_12",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 1, 3, 6, 10, ... şeklinde devam ediyor. Bu dizinin 5. terimi kaçtır?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18",
+      "19"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dizi, ardışık doğal sayıların toplamını gösterir. 5. terim 15'tir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526079308_4",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir aritmetik dizinin 5. terimi 20 ve 10. terimi 45 ise, bu dizinin ilk terimini bulun.",
+    "options": [
+      "10",
+      "15",
+      "5",
+      "20",
+      "25"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aritmetik dizinin n'inci terimi a_n = a1 + (n-1)d şeklindedir. 5. terim için a5 = a1 + 4d = 20 ve 10. terim için a10 = a1 + 9d = 45 denklemleri kurulur. Bu iki denklemi çözdüğümüzde a1 = 15 ve d = 5 bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522002495_0",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
     "questionText": "Aritmetik bir dizinin ilk terimi 5 ve ortak farkı 3'tür. Bu dizinin 10. terimi nedir?",
     "options": [
       "32",
       "30",
-      "35",
-      "27",
-      "40"
+      "29",
+      "33",
+      "28"
     ],
     "correctAnswer": 0,
-    "explanation": "Aritmetik dizinin n. terimi a_n = a_1 + (n-1)d formülü ile hesaplanır. Burada a_1 = 5, d = 3 ve n = 10. 5 + (10-1) * 3 = 5 + 27 = 32.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520136350_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "1, 4, 9, 16, 25,... dizisi hangi terim dizisidir?",
-    "options": [
-      "Aritmetik Dizi",
-      "Geometrik Dizi",
-      "Kare Sayılar Dizisi",
-      "Fibonacci Dizisi",
-      "Üslü Dizi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Verilen dizi, her terimin sırasıyla 1'in karesi, 2'nin karesi, 3'ün karesi gibi geliştiği bir dizidir. Yani bu bir kare sayılar dizisidir.",
+    "explanation": "Aritmetik dizinin n'inci terimi a_n = a_1 + (n - 1) * d formülü ile hesaplanır. Burada a_1 = 5, d = 3 ve n = 10. a_10 = 5 + (10 - 1) * 3 = 5 + 27 = 32.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764526079308_3",
+    "id": "ai_1764498111227_0",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "1, 4, 9, 16, 25, ... dizisi hangi tür bir dizidir ve 6. terimi nedir?",
+    "questionText": "Bir (a_n) aritmetik dizisinde a₅ + a₁₁ = 30 olduğuna göre, bu dizinin 8. terimi (a₈) kaçtır?",
     "options": [
-      "Aritmetik dizi, 36",
-      "Geometrik dizi, 36",
-      "Kare sayılar dizisi, 36",
-      "Aritmetik dizi, 25",
-      "Geometrik dizi, 25"
+      "10",
+      "12",
+      "15",
+      "18",
+      "30"
     ],
     "correctAnswer": 2,
-    "explanation": "Verilen dizi, 1^2, 2^2, 3^2, ... şeklinde kare sayıların dizisidir. Bu durumda 6. terim 6^2 = 36 olacaktır.",
-    "difficulty": 4
+    "explanation": "Bir aritmetik dizide, herhangi bir terim kendisine eşit uzaklıktaki terimlerin aritmetik ortalamasına eşittir. Yani aₙ = (aₙ₋ₖ + aₙ₊ₖ) / 2'dir. Bu soruda a₈ terimi, a₅ ve a₁₁ terimlerine eşit uzaklıktadır (8 - 5 = 3 ve 11 - 8 = 3). Dolayısıyla a₈ = (a₅ + a₁₁) / 2'dir. Verilen a₅ + a₁₁ = 30 eşitliğini kullanarak a₈ = 30 / 2 = 15 buluruz. Alternatif olarak, aritmetik dizi özelliğinden p + q = r + s ise aₚ + a_q = a_r + a_s'dir. 5 + 11 = 16 ve 8 + 8 = 16 olduğundan, a₅ + a₁₁ = a₈ + a₈ = 2a₈ olur. Buradan 2a₈ = 30 ve a₈ = 15 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498111227_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinin ilk terimi 3 ve ortak çarpanı 2'dir. Bu dizinin ilk n teriminin toplamı 381 olduğuna göre, n kaçtır?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir geometrik dizinin ilk n terim toplamı (Sₙ) formülü: Sₙ = a₁ * (rⁿ - 1) / (r - 1) şeklindedir. Soruda verilenler: ilk terim a₁ = 3, ortak çarpan r = 2 ve ilk n terim toplamı Sₙ = 381. Bu değerleri formülde yerine yazalım: 381 = 3 * (2ⁿ - 1) / (2 - 1). Paydadaki (2-1) = 1 olduğu için denklem 381 = 3 * (2ⁿ - 1) haline gelir. Her iki tarafı 3'e böldüğümüzde 127 = 2ⁿ - 1 olur. -1'i karşıya attığımızda 128 = 2ⁿ elde ederiz. 128, 2'nin 7. kuvveti olduğundan (128 = 2⁷), n = 7 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520136350_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik bir dizinin ilk terimi 3 ve ortak farkı 5 ise, dizinin 10. terimi nedir?",
+    "options": [
+      "48",
+      "53",
+      "58",
+      "63",
+      "68"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aritmetik dizinin n. terimi a_n = a_1 + (n-1) * d formülü ile bulunur. Burada a_1 = 3, d = 5 ve n = 10. Yani a_{10} = 3 + (10-1) * 5 = 3 + 45 = 48.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764526079308_5",
@@ -80,342 +160,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764523542601_18",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 1, 4, 9, 16, ... ile başlıyor. Bu dizinin genel formülü nedir?",
-    "options": [
-      "n^2",
-      "(n-1)^2",
-      "n^2 + 1",
-      "n^2 - 1",
-      "2n"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dizinin terimleri tam sayıların kareleridir. Genel formül n^2'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498111227_0",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir (a_n) aritmetik dizisinde a₅ + a₁₁ = 30 olduğuna göre, bu dizinin 8. terimi (a₈) kaçtır?",
-    "options": [
-      "10",
-      "12",
-      "15",
-      "18",
-      "30"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir aritmetik dizide, herhangi bir terim kendisine eşit uzaklıktaki terimlerin aritmetik ortalamasına eşittir. Yani aₙ = (aₙ₋ₖ + aₙ₊ₖ) / 2'dir. Bu soruda a₈ terimi, a₅ ve a₁₁ terimlerine eşit uzaklıktadır (8 - 5 = 3 ve 11 - 8 = 3). Dolayısıyla a₈ = (a₅ + a₁₁) / 2'dir. Verilen a₅ + a₁₁ = 30 eşitliğini kullanarak a₈ = 30 / 2 = 15 buluruz. Alternatif olarak, aritmetik dizi özelliğinden p + q = r + s ise aₚ + a_q = a_r + a_s'dir. 5 + 11 = 16 ve 8 + 8 = 16 olduğundan, a₅ + a₁₁ = a₈ + a₈ = 2a₈ olur. Buradan 2a₈ = 30 ve a₈ = 15 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523542601_22",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir doğal sayı dizisi 1, 2, 3, ... şeklinde devam ediyor. Bu dizinin 100. teriminin toplamı nedir?",
-    "options": [
-      "5050",
-      "5000",
-      "10000",
-      "100",
-      "1000"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Toplam = n(n+1)/2 formülü ile hesaplanır. 100 * 101 / 2 = 5050.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_11",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "A, B, C, D, E dizisi 1, 1, 2, 3, 5, ... şeklinde gidiyor. Bu dizinin 7. terimi nedir?",
-    "options": [
-      "8",
-      "13",
-      "21",
-      "34",
-      "55"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dizi Fibonacci dizisidir. 7. terim 13'tür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522002495_6",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir aritmetik dizinin ilk terimi 3 ve ortak farkı 2'dir. Bu dizinin 15. terimi nedir?",
-    "options": [
-      "31",
-      "33",
-      "35",
-      "29",
-      "30"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aritmetik dizinin n'inci terimi a_n = a_1 + (n - 1) * d formülü ile hesaplanır. Burada a_1 = 3, d = 2 ve n = 15. a_15 = 3 + (15 - 1) * 2 = 3 + 28 = 31.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522002495_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizideki terimler: 1, 4, 9, 16, ... şeklindedir. Bu dizinin 6. terimi nedir?",
-    "options": [
-      "36",
-      "25",
-      "30",
-      "20",
-      "18"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu dizi kare sayılardan oluşmaktadır. 1^2, 2^2, 3^2, 4^2, 5^2, 6^2 = 36.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519215546_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 3, 6, 12, 24, ... ile devam etmektedir. Bu dizinin 5. terimi nedir?",
-    "options": [
-      "48",
-      "60",
-      "72",
-      "96",
-      "120"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu dizi her terimde bir önceki terimin 2 katına çıkarılmasıyla elde edilmektedir. 4. terim 24 olduğuna göre, 5. terim 24 x 2 = 48'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526079308_6",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Fibonacci dizisinin ilk dört terimi 0, 1, 1, 2 olduğu bilinmektedir. Bu dizinin 8. terimi nedir?",
-    "options": [
-      "21",
-      "34",
-      "55",
-      "13",
-      "8"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fibonacci dizisinde her terim, kendisinden önceki iki terimin toplamına eşittir. İlk dört terim 0, 1, 1, 2 iken, 5. terim 3, 6. terim 5, 7. terim 8 ve 8. terim 13 + 21 = 34 olarak bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522002495_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 4'tür. Bu dizinin 5. terimi nedir?",
-    "options": [
-      "128",
-      "64",
-      "32",
-      "16",
-      "8"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Geometrik dizinin n'inci terimi a_n = a_1 * r^(n-1) formülü ile hesaplanır. Burada a_1 = 2, r = 4 ve n = 5. a_5 = 2 * 4^(5-1) = 2 * 256 = 512.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520136350_0",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik bir dizinin ilk terimi 3 ve ortak farkı 5 ise, dizinin 10. terimi nedir?",
-    "options": [
-      "48",
-      "53",
-      "58",
-      "63",
-      "68"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Aritmetik dizinin n. terimi a_n = a_1 + (n-1) * d formülü ile bulunur. Burada a_1 = 3, d = 5 ve n = 10. Yani a_{10} = 3 + (10-1) * 5 = 3 + 45 = 48.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523542600_12",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 1, 3, 6, 10, ... şeklinde devam ediyor. Bu dizinin 5. terimi kaçtır?",
-    "options": [
-      "15",
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dizi, ardışık doğal sayıların toplamını gösterir. 5. terim 15'tir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_6",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 5, 10, 20, 40, ... şeklinde devam ediyor. Bu dizinin genel formülü nedir?",
-    "options": [
-      "5 * 2^(n-1)",
-      "5 * n",
-      "5 * 2*n",
-      "10 * n",
-      "2n + 5"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dizi, her terimin bir önceki terimin 2 katı olduğunu gösterir. Genel formül 5 * 2^(n-1)'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_15",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 3, 5, 7, 11, ... terimleri arasındaki ortak fark nedir?",
-    "options": [
-      "2",
-      "4",
-      "6",
-      "8",
-      "10"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ortak fark 2'dir. 5 - 3 = 2, 7 - 5 = 2.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542601_24",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik dizide ilk terim 4 ve ortak fark 2 olduğunda, bu dizinin 15. terimi nedir?",
-    "options": [
-      "32",
-      "34",
-      "30",
-      "28",
-      "36"
-    ],
-    "correctAnswer": 0,
-    "explanation": "15. terim a_15 = a_1 + (15-1)d = 4 + 28 = 32.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500829088_0",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "İlk n teriminin toplamı S_n = 2n² + 3n olan bir (a_n) aritmetik dizisinin 7. terimi kaçtır?",
-    "options": [
-      "25",
-      "27",
-      "29",
-      "31",
-      "33"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir dizide n. terimi (a_n) bulmak için ilk n terim toplamından (S_n), ilk (n-1) terim toplamını (S_{n-1}) çıkarırız. Formül: a_n = S_n - S_{n-1}.\n\nBu soruda 7. terimi (a_7) bulmak için S_7'den S_6'yı çıkarmalıyız.\n\n1. Adım: S_7'yi hesaplayalım.\nS_n = 2n² + 3n\nS_7 = 2(7)² + 3(7)\nS_7 = 2(49) + 21\nS_7 = 98 + 21 = 119\n\n2. Adım: S_6'yı hesaplayalım.\nS_n = 2n² + 3n\nS_6 = 2(6)² + 3(6)\nS_6 = 2(36) + 18\nS_6 = 72 + 18 = 90\n\n3. Adım: a_7'yi bulalım.\na_7 = S_7 - S_6\na_7 = 119 - 90 = 29\n\nDolayısıyla, dizinin 7. terimi 29'dur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522002495_4",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 3, 6, 12, 24, ... şeklindedir. Bu dizinin 8. terimi nedir?",
-    "options": [
-      "768",
-      "512",
-      "256",
-      "128",
-      "64"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu dizi her terimi 2 ile çarparak elde edilmektedir. 3 * 2^n formülüne göre a_8 = 3 * 2^7 = 3 * 128 = 384.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526079308_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "A, B, C ve D terimlerinden oluşan bir geometrik dizinin a1 = 2, a2 = 6 olduğu biliniyor. Bu dizinin a3 terimini bulun.",
-    "options": [
-      "18",
-      "24",
-      "12",
-      "36",
-      "30"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Geometrik dizide terimler arasındaki oran sabittir. a1 = 2 ve a2 = 6 olduğuna göre, oran 6/2 = 3'tür. Bu durumda a3 = a2 * oran = 6 * 3 = 18 olmalıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523542600_9",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Geometrik bir dizinin ilk terimi 1 ve ortak çarpanı 3'tür. Bu dizinin 4. terimi nedir?",
-    "options": [
-      "9",
-      "27",
-      "81",
-      "243",
-      "729"
-    ],
-    "correctAnswer": 3,
-    "explanation": "4. terim: 1 * 3^(4-1) = 1 * 27 = 27.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522002495_7",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizinin terimleri: 2, 4, 8, 16, ... şeklindedir. Bu dizinin 10. terimi nedir?",
-    "options": [
-      "1024",
-      "512",
-      "256",
-      "128",
-      "64"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu dizi her terimi 2 ile çarparak elde edilmektedir. 2 * 2^(n-1) formülüne göre a_10 = 2 * 2^9 = 2 * 512 = 1024.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498111227_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinin ilk terimi 3 ve ortak çarpanı 2'dir. Bu dizinin ilk n teriminin toplamı 381 olduğuna göre, n kaçtır?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir geometrik dizinin ilk n terim toplamı (Sₙ) formülü: Sₙ = a₁ * (rⁿ - 1) / (r - 1) şeklindedir. Soruda verilenler: ilk terim a₁ = 3, ortak çarpan r = 2 ve ilk n terim toplamı Sₙ = 381. Bu değerleri formülde yerine yazalım: 381 = 3 * (2ⁿ - 1) / (2 - 1). Paydadaki (2-1) = 1 olduğu için denklem 381 = 3 * (2ⁿ - 1) haline gelir. Her iki tarafı 3'e böldüğümüzde 127 = 2ⁿ - 1 olur. -1'i karşıya attığımızda 128 = 2ⁿ elde ederiz. 128, 2'nin 7. kuvveti olduğundan (128 = 2⁷), n = 7 olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526079308_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizinin ilk terimi 5 ve ikinci terimi 15 ise, bu dizinin genel terimi için doğru ifade hangisidir?",
-    "options": [
-      "a_n = 5n",
-      "a_n = 5 + 10(n - 1)",
-      "a_n = 10n - 5",
-      "a_n = 5n^2",
-      "a_n = 15n"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Verilen dizinin ilk terimi 5 iken ikinci terimi 15'tir. İlk terimi 5, ikinci terimi 15 olduğundan, dizinin genel terimi a_n = 5 + 10(n - 1) şeklinde yazılabilir.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764523542601_16",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
@@ -429,389 +173,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "Dizi, n² + 1 şeklindedir. 5. terim 5² + 1 = 25 + 1 = 26.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500829088_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir kenar uzunluğu 12 cm olan bir karenin kenarlarının orta noktaları birleştirilerek yeni bir kare elde ediliyor. Bu işlem sonsuz defa tekrarlandığında oluşan tüm karelerin alanları toplamı kaç cm² olur?",
-    "options": [
-      "144",
-      "192",
-      "216",
-      "288",
-      "324"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu problem, bir geometrik serinin toplamını bulma problemidir.\n\n1. Adım: İlk karenin alanını bulalım.\nBirinci karenin kenarı a₁ = 12 cm.\nAlanı A₁ = a₁² = 12² = 144 cm².\n\n2. Adım: İkinci karenin kenarını ve alanını bulalım.\nİkinci karenin kenarı (a₂), birinci karenin kenarlarının orta noktalarını birleştiren köşegendir. Oluşan dik üçgenin kenarları 12/2 = 6 cm ve 6 cm'dir. Pisagor teoreminden:\na₂² = 6² + 6² = 36 + 36 = 72\nİkinci karenin alanı A₂ = a₂² = 72 cm².\n\n3. Adım: Geometrik seriyi tanımlayalım.\nOluşan alanlar bir geometrik dizi oluşturur: A₁, A₂, A₃, ...\nA₁ = 144\nA₂ = 72\nDizinin ortak oranı (r) = A₂ / A₁ = 72 / 144 = 1/2.\n\n4. Adım: Sonsuz geometrik serinin toplamını hesaplayalım.\nOrtak oran r = 1/2 olduğundan ve |-1 < r < 1| koşulu sağlandığından, seri yakınsaktır ve toplamı vardır.\nSonsuz seri toplam formülü: Toplam = a₁ / (1 - r)\nBurada a₁, serinin ilk terimidir (A₁ = 144).\nToplam Alan = 144 / (1 - 1/2)\nToplam Alan = 144 / (1/2)\nToplam Alan = 144 * 2 = 288 cm².\n\nOluşan tüm karelerin alanları toplamı 288 cm²'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520136350_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 3 ise, dizinin 5. terimi nedir?",
-    "options": [
-      "54",
-      "162",
-      "486",
-      "1458",
-      "4374"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile bulunur. Burada a_1 = 2, r = 3 ve n = 5. Yani a_{5} = 2 * 3^(5-1) = 2 * 81 = 162.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523542600_10",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik dizide 10. terim 30 ve 20. terim 60 ise, bu dizinin ortak farkı nedir?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ortak fark d = (a_20 - a_10) / (20 - 10) = (60 - 30) / 10 = 30 / 10 = 3.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542601_17",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik dizide n. terim ile n+1. terim arasındaki ilişki nedir?",
-    "options": [
-      "n-1",
-      "n",
-      "n+1",
-      "d",
-      "d+1"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Aritmetik dizide n. terim a_n = a_1 + (n-1)d formülüne göre hesaplanır. n+1. terim ise a_(n+1) = a_1 + nd'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 4'tür. Bu dizinin 5. terimi nedir?",
-    "options": [
-      "128",
-      "64",
-      "32",
-      "16",
-      "8"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile hesaplanır. Burada a_1 = 2, r = 4 ve n = 5. 2 * 4^(5-1) = 2 * 256 = 512.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_7",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 2, 4, 8, 16, ... şeklinde devam ediyor. Bu dizinin toplamı ilk 5 terim için nedir?",
-    "options": [
-      "30",
-      "31",
-      "32",
-      "33",
-      "34"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Toplam = 2 + 4 + 8 + 16 + 32 = 62.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499467400_0",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "İlk n terim toplamı S_n = n² + 3n olan bir (a_n) aritmetik dizisinin 7. terimi kaçtır?",
-    "options": [
-      "14",
-      "15",
-      "16",
-      "18",
-      "70"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir aritmetik dizide n. terim (a_n), ilk n terim toplamı (S_n) ile ilk (n-1) terim toplamının (S_{n-1}) farkına eşittir. Yani, a_n = S_n - S_{n-1}. Bu soruda 7. terim sorulmaktadır. Bu durumda, a_7 = S_7 - S_6 olacaktır.\n\n1. S_7'yi hesaplayalım: S_7 = 7² + 3(7) = 49 + 21 = 70.\n2. S_6'yı hesaplayalım: S_6 = 6² + 3(6) = 36 + 18 = 54.\n3. a_7'yi bulalım: a_7 = S_7 - S_6 = 70 - 54 = 16.\n\nAlternatif bir yol olarak:\n1. İlk terimi (a_1) bulalım: a_1 = S_1 = 1² + 3(1) = 4.\n2. İlk iki terim toplamını bulalım: S_2 = 2² + 3(2) = 4 + 6 = 10.\n3. İkinci terimi (a_2) bulalım: a_2 = S_2 - S_1 = 10 - 4 = 6.\n4. Ortak farkı (d) bulalım: d = a_2 - a_1 = 6 - 4 = 2.\n5. Dizinin genel terim formülünü (a_n = a_1 + (n-1)d) kullanarak 7. terimi bulalım: a_7 = 4 + (7-1) * 2 = 4 + 6 * 2 = 4 + 12 = 16. Her iki yöntemle de doğru cevap 16 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519215546_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aşağıdaki serilerden hangisi geometrik bir dizi oluşturur?",
-    "options": [
-      "1, 2, 3, 4",
-      "2, 4, 8, 16",
-      "3, 5, 7, 9",
-      "10, 20, 30, 40",
-      "5, 10, 15, 20"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Geometrik dizilerde her terim bir önceki terimin belirli bir çarpanıyla elde edilir. 2, 4, 8, 16 dizisinde her terim 2 ile çarpılarak elde edildiği için geometrik bir dizidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523542601_20",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir harmonik dizinin ilk terimi 1, ikinci terimi 1/2, üçüncü terimi 1/3'tür. Bu dizinin 5. terimi nedir?",
-    "options": [
-      "1/5",
-      "1/4",
-      "1/3",
-      "1/2",
-      "1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Harmonik dizinin genel formülü 1/n'dir. 5. terim 1/5'tir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526079308_0",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aynı aritmetik diziye ait olan a1, a2, a3, a4 terimleri sırasıyla 3, 7, 11, x ise x'in değeri nedir?",
-    "options": [
-      "15",
-      "12",
-      "14",
-      "10",
-      "9"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aritmetik dizideki terimler arasındaki fark sabittir. Burada a1 = 3, a2 = 7, a3 = 11 olduğuna göre, fark 4'tür. Bu durumda a4 = a3 + 4 = 11 + 4 = 15 olmalıdır. Ancak soruda x'in değeri sorulmaktadır, burada x = 15 olmalıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519215546_0",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aşağıdaki dizilerden hangisi artan bir aritmetik dizi değildir?",
-    "options": [
-      "2, 5, 8, 11",
-      "3, 6, 9, 12",
-      "1, 2, 4, 8",
-      "5, 10, 15, 20",
-      "7, 14, 21, 28"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Artan bir aritmetik dizi, her terimin bir öncekine sabit bir sayı eklenerek elde edildiği dizidir. 1, 2, 4, 8 dizisi ise çarpan ile ilerlediği için aritmetik değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522002495_3",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Dizinin ilk 4 terimi 2, 5, 10, 17 şeklindedir. Bu dizinin genel formu nedir?",
-    "options": [
-      "n^2 + 1",
-      "n^2 + n",
-      "n^2 + 2",
-      "n^2 - 1",
-      "2n + 1"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dizinin terimleri arasında farkları incelediğimizde: 3, 5, 7... şeklinde artıyor. Bu da n^2 + 1 formunu verir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498111227_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "(a_n) ortak farkı sıfırdan farklı bir aritmetik dizidir. Bu dizinin a₁, a₂ ve a₆ terimleri sırasıyla bir geometrik dizinin ardışık üç terimini oluşturmaktadır. a₁ = 2 olduğuna göre, bu aritmetik dizinin ortak farkı (d) kaçtır?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "6",
-      "8"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Aritmetik dizinin ortak farkına 'd' diyelim. a₁ = 2 olarak verilmiş. Dizinin terimlerini 'd' cinsinden yazalım: a₁ = 2, a₂ = a₁ + d = 2 + d, a₆ = a₁ + 5d = 2 + 5d. Bu üç terim (2, 2+d, 2+5d) aynı zamanda bir geometrik dizinin ardışık terimleridir. Bir geometrik dizide ortadaki terimin karesi, diğer iki terimin çarpımına eşittir. Yani (a₂)² = a₁ * a₆. Değerleri yerine koyalım: (2 + d)² = 2 * (2 + 5d). Parantezleri açalım: 4 + 4d + d² = 4 + 10d. Denklemi düzenleyelim: d² + 4d - 10d + 4 - 4 = 0, bu da d² - 6d = 0 olur. Denklemi d parantezine alırsak d(d - 6) = 0 buluruz. Bu denklemin kökleri d=0 ve d=6'dır. Soruda ortak farkın sıfırdan farklı olduğu belirtildiği için d=0 çözümünü alamayız. Dolayısıyla, ortak fark d = 6'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523542600_5",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Fibonacci dizisi başlangıçları 0 ve 1 ile başlar. Bu dizinin 8. terimi kaçtır?",
-    "options": [
-      "21",
-      "34",
-      "55",
-      "44",
-      "13"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fibonacci dizisi 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 şeklindedir. 8. terim 21'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542601_23",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 1, 2, 4, 8, ... şeklinde devam ediyor. Bu dizinin genel formülü nedir?",
-    "options": [
-      "2^(n-1)",
-      "2*n",
-      "n^2",
-      "n!"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dizi her terimin 2 katıdır. Genel formül 2^(n-1)'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522002495_9",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik bir dizinin 5. terimi 20 ve 10. terimi 35'tir. Bu dizinin ortak farkı nedir?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "2",
-      "6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aritmetik dizinin genel formu a_n = a_1 + (n-1)d'dir. 10. terim - 5. terim = 5d'den d = (35 - 20) / 5 = 3.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499467400_1",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinde a₄ + a₆ = 20 ve a₅ + a₇ = 60 olduğuna göre, dizinin ilk terimi (a₁) kaçtır?",
-    "options": [
-      "1/9",
-      "2/27",
-      "2/9",
-      "1/3",
-      "3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Geometrik dizinin genel terimi a_n = a₁ * rⁿ⁻¹ formülüyle ifade edilir. Verilen denklemleri bu formülü kullanarak açalım:\n\n1. Denklem: a₄ + a₆ = a₁r³ + a₁r⁵ = 20\n   Bu denklemi a₁r³ parantezine alalım: a₁r³(1 + r²) = 20\n\n2. Denklem: a₅ + a₇ = a₁r⁴ + a₁r⁶ = 60\n   Bu denklemi a₁r⁴ parantezine alalım: a₁r⁴(1 + r²) = 60\n\nŞimdi, 2. denklemi 1. denkleme oranlayarak ortak çarpanı (r) bulalım:\n(a₁r⁴(1 + r²)) / (a₁r³(1 + r²)) = 60 / 20\n\nSadeleştirme yaptığımızda:\nr = 3\n\nDizi pozitif terimli olduğu için r = 3 değeri uygundur. Şimdi r değerini 1. denklemde yerine koyarak ilk terimi (a₁) bulalım:\na₁ * (3)³ * (1 + 3²) = 20\na₁ * 27 * (1 + 9) = 20\na₁ * 27 * 10 = 20\na₁ * 270 = 20\na₁ = 20 / 270 = 2/27\n\nBu nedenle, dizinin ilk terimi 2/27'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523542600_2",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "1, 4, 9, 16, ... dizisi hangi tür bir dizidir?",
-    "options": [
-      "Aritmetik dizi",
-      "Geometrik dizi",
-      "Kare sayılar dizisi",
-      "Harmonik dizi",
-      "Fibonacci dizisi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dizi, ardışık tam sayıların karelerini gösterir. 1², 2², 3², 4², ... şeklindedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_13",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Harmonik dizi tanımına göre, 1, 1/2, 1/3, ... dizisinin 4. terimi nedir?",
-    "options": [
-      "1/4",
-      "1/2",
-      "2",
-      "4",
-      "1/3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dizinin n. terimi 1/n şeklindedir. 4. terim 1/4'tür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_8",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik dizi tanımına göre, 7, 10, 13, ... dizisinin ortak farkı nedir?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ortak fark, ardışık terimler arasındaki farktır. 10 - 7 = 3.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523542600_14",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizi 1, 2, 4, 8, ... şeklinde devam ediyor. Bu dizinin 6. terimi nedir?",
-    "options": [
-      "32",
-      "16",
-      "64",
-      "128",
-      "256"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dizi her terimin 2 katıdır. 5. terim 16, 6. terim ise 32'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522002495_5",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir dizinin terimleri: 5, 10, 20, 40, ... şeklindedir. Bu dizinin 7. terimi nedir?",
-    "options": [
-      "160",
-      "320",
-      "640",
-      "1280",
-      "2560"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu dizi her terimi 2 ile çarparak elde edilmektedir. 5 * 2^(n-1) formülüne göre a_7 = 5 * 2^6 = 5 * 64 = 320.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526079308_4",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Bir aritmetik dizinin 5. terimi 20 ve 10. terimi 45 ise, bu dizinin ilk terimini bulun.",
-    "options": [
-      "10",
-      "15",
-      "5",
-      "20",
-      "25"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Aritmetik dizinin n'inci terimi a_n = a1 + (n-1)d şeklindedir. 5. terim için a5 = a1 + 4d = 20 ve 10. terim için a10 = a1 + 9d = 45 denklemleri kurulur. Bu iki denklemi çözdüğümüzde a1 = 15 ve d = 5 bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523542600_4",
-    "subjectId": "mat",
-    "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik dizinin toplamı S_n = n/2 * (a_1 + a_n) formülü ile bulunur. İlk terimi 10 ve son terimi 50 olan 20 terimli bir dizinin toplamı nedir?",
-    "options": [
-      "600",
-      "800",
-      "1200",
-      "1300",
-      "1000"
-    ],
-    "correctAnswer": 1,
-    "explanation": "S_n = 20/2 * (10 + 50) = 10 * 60 = 600.",
     "difficulty": 5
   },
   {
@@ -831,6 +192,501 @@
     "difficulty": 5
   },
   {
+    "id": "ai_1764523542601_18",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 1, 4, 9, 16, ... ile başlıyor. Bu dizinin genel formülü nedir?",
+    "options": [
+      "n^2",
+      "(n-1)^2",
+      "n^2 + 1",
+      "n^2 - 1",
+      "2n"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dizinin terimleri tam sayıların kareleridir. Genel formül n^2'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499467400_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Pozitif terimli bir (a_n) geometrik dizisinde a₄ + a₆ = 20 ve a₅ + a₇ = 60 olduğuna göre, dizinin ilk terimi (a₁) kaçtır?",
+    "options": [
+      "1/9",
+      "2/27",
+      "2/9",
+      "1/3",
+      "3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geometrik dizinin genel terimi a_n = a₁ * rⁿ⁻¹ formülüyle ifade edilir. Verilen denklemleri bu formülü kullanarak açalım:\n\n1. Denklem: a₄ + a₆ = a₁r³ + a₁r⁵ = 20\n   Bu denklemi a₁r³ parantezine alalım: a₁r³(1 + r²) = 20\n\n2. Denklem: a₅ + a₇ = a₁r⁴ + a₁r⁶ = 60\n   Bu denklemi a₁r⁴ parantezine alalım: a₁r⁴(1 + r²) = 60\n\nŞimdi, 2. denklemi 1. denkleme oranlayarak ortak çarpanı (r) bulalım:\n(a₁r⁴(1 + r²)) / (a₁r³(1 + r²)) = 60 / 20\n\nSadeleştirme yaptığımızda:\nr = 3\n\nDizi pozitif terimli olduğu için r = 3 değeri uygundur. Şimdi r değerini 1. denklemde yerine koyarak ilk terimi (a₁) bulalım:\na₁ * (3)³ * (1 + 3²) = 20\na₁ * 27 * (1 + 9) = 20\na₁ * 27 * 10 = 20\na₁ * 270 = 20\na₁ = 20 / 270 = 2/27\n\nBu nedenle, dizinin ilk terimi 2/27'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526079308_6",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Fibonacci dizisinin ilk dört terimi 0, 1, 1, 2 olduğu bilinmektedir. Bu dizinin 8. terimi nedir?",
+    "options": [
+      "21",
+      "34",
+      "55",
+      "13",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fibonacci dizisinde her terim, kendisinden önceki iki terimin toplamına eşittir. İlk dört terim 0, 1, 1, 2 iken, 5. terim 3, 6. terim 5, 7. terim 8 ve 8. terim 13 + 21 = 34 olarak bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522002495_6",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir aritmetik dizinin ilk terimi 3 ve ortak farkı 2'dir. Bu dizinin 15. terimi nedir?",
+    "options": [
+      "31",
+      "33",
+      "35",
+      "29",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aritmetik dizinin n'inci terimi a_n = a_1 + (n - 1) * d formülü ile hesaplanır. Burada a_1 = 3, d = 2 ve n = 15. a_15 = 3 + (15 - 1) * 2 = 3 + 28 = 31.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526079308_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aynı aritmetik diziye ait olan a1, a2, a3, a4 terimleri sırasıyla 3, 7, 11, x ise x'in değeri nedir?",
+    "options": [
+      "15",
+      "12",
+      "14",
+      "10",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aritmetik dizideki terimler arasındaki fark sabittir. Burada a1 = 3, a2 = 7, a3 = 11 olduğuna göre, fark 4'tür. Bu durumda a4 = a3 + 4 = 11 + 4 = 15 olmalıdır. Ancak soruda x'in değeri sorulmaktadır, burada x = 15 olmalıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526079308_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizinin ilk terimi 5 ve ikinci terimi 15 ise, bu dizinin genel terimi için doğru ifade hangisidir?",
+    "options": [
+      "a_n = 5n",
+      "a_n = 5 + 10(n - 1)",
+      "a_n = 10n - 5",
+      "a_n = 5n^2",
+      "a_n = 15n"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verilen dizinin ilk terimi 5 iken ikinci terimi 15'tir. İlk terimi 5, ikinci terimi 15 olduğundan, dizinin genel terimi a_n = 5 + 10(n - 1) şeklinde yazılabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523542600_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik bir dizinin ilk terimi 5 ve ortak farkı 3'tür. Bu dizinin 10. terimi nedir?",
+    "options": [
+      "32",
+      "30",
+      "35",
+      "27",
+      "40"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aritmetik dizinin n. terimi a_n = a_1 + (n-1)d formülü ile hesaplanır. Burada a_1 = 5, d = 3 ve n = 10. 5 + (10-1) * 3 = 5 + 27 = 32.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522002495_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 4'tür. Bu dizinin 5. terimi nedir?",
+    "options": [
+      "128",
+      "64",
+      "32",
+      "16",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geometrik dizinin n'inci terimi a_n = a_1 * r^(n-1) formülü ile hesaplanır. Burada a_1 = 2, r = 4 ve n = 5. a_5 = 2 * 4^(5-1) = 2 * 256 = 512.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520136350_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 3 ise, dizinin 5. terimi nedir?",
+    "options": [
+      "54",
+      "162",
+      "486",
+      "1458",
+      "4374"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile bulunur. Burada a_1 = 2, r = 3 ve n = 5. Yani a_{5} = 2 * 3^(5-1) = 2 * 81 = 162.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522002495_3",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Dizinin ilk 4 terimi 2, 5, 10, 17 şeklindedir. Bu dizinin genel formu nedir?",
+    "options": [
+      "n^2 + 1",
+      "n^2 + n",
+      "n^2 + 2",
+      "n^2 - 1",
+      "2n + 1"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dizinin terimleri arasında farkları incelediğimizde: 3, 5, 7... şeklinde artıyor. Bu da n^2 + 1 formunu verir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542600_11",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "A, B, C, D, E dizisi 1, 1, 2, 3, 5, ... şeklinde gidiyor. Bu dizinin 7. terimi nedir?",
+    "options": [
+      "8",
+      "13",
+      "21",
+      "34",
+      "55"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dizi Fibonacci dizisidir. 7. terim 13'tür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519215546_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 3, 6, 12, 24, ... ile devam etmektedir. Bu dizinin 5. terimi nedir?",
+    "options": [
+      "48",
+      "60",
+      "72",
+      "96",
+      "120"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu dizi her terimde bir önceki terimin 2 katına çıkarılmasıyla elde edilmektedir. 4. terim 24 olduğuna göre, 5. terim 24 x 2 = 48'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498111227_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "(a_n) ortak farkı sıfırdan farklı bir aritmetik dizidir. Bu dizinin a₁, a₂ ve a₆ terimleri sırasıyla bir geometrik dizinin ardışık üç terimini oluşturmaktadır. a₁ = 2 olduğuna göre, bu aritmetik dizinin ortak farkı (d) kaçtır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aritmetik dizinin ortak farkına 'd' diyelim. a₁ = 2 olarak verilmiş. Dizinin terimlerini 'd' cinsinden yazalım: a₁ = 2, a₂ = a₁ + d = 2 + d, a₆ = a₁ + 5d = 2 + 5d. Bu üç terim (2, 2+d, 2+5d) aynı zamanda bir geometrik dizinin ardışık terimleridir. Bir geometrik dizide ortadaki terimin karesi, diğer iki terimin çarpımına eşittir. Yani (a₂)² = a₁ * a₆. Değerleri yerine koyalım: (2 + d)² = 2 * (2 + 5d). Parantezleri açalım: 4 + 4d + d² = 4 + 10d. Denklemi düzenleyelim: d² + 4d - 10d + 4 - 4 = 0, bu da d² - 6d = 0 olur. Denklemi d parantezine alırsak d(d - 6) = 0 buluruz. Bu denklemin kökleri d=0 ve d=6'dır. Soruda ortak farkın sıfırdan farklı olduğu belirtildiği için d=0 çözümünü alamayız. Dolayısıyla, ortak fark d = 6'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522002495_7",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizinin terimleri: 2, 4, 8, 16, ... şeklindedir. Bu dizinin 10. terimi nedir?",
+    "options": [
+      "1024",
+      "512",
+      "256",
+      "128",
+      "64"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu dizi her terimi 2 ile çarparak elde edilmektedir. 2 * 2^(n-1) formülüne göre a_10 = 2 * 2^9 = 2 * 512 = 1024.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542600_8",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik dizi tanımına göre, 7, 10, 13, ... dizisinin ortak farkı nedir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ortak fark, ardışık terimler arasındaki farktır. 10 - 7 = 3.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542601_17",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik dizide n. terim ile n+1. terim arasındaki ilişki nedir?",
+    "options": [
+      "n-1",
+      "n",
+      "n+1",
+      "d",
+      "d+1"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aritmetik dizide n. terim a_n = a_1 + (n-1)d formülüne göre hesaplanır. n+1. terim ise a_(n+1) = a_1 + nd'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_4",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik dizinin toplamı S_n = n/2 * (a_1 + a_n) formülü ile bulunur. İlk terimi 10 ve son terimi 50 olan 20 terimli bir dizinin toplamı nedir?",
+    "options": [
+      "600",
+      "800",
+      "1200",
+      "1300",
+      "1000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "S_n = 20/2 * (10 + 50) = 10 * 60 = 600.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_7",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 2, 4, 8, 16, ... şeklinde devam ediyor. Bu dizinin toplamı ilk 5 terim için nedir?",
+    "options": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Toplam = 2 + 4 + 8 + 16 + 32 = 62.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526079308_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "A, B, C ve D terimlerinden oluşan bir geometrik dizinin a1 = 2, a2 = 6 olduğu biliniyor. Bu dizinin a3 terimini bulun.",
+    "options": [
+      "18",
+      "24",
+      "12",
+      "36",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geometrik dizide terimler arasındaki oran sabittir. a1 = 2 ve a2 = 6 olduğuna göre, oran 6/2 = 3'tür. Bu durumda a3 = a2 * oran = 6 * 3 = 18 olmalıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523542600_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "1, 4, 9, 16, ... dizisi hangi tür bir dizidir?",
+    "options": [
+      "Aritmetik dizi",
+      "Geometrik dizi",
+      "Kare sayılar dizisi",
+      "Harmonik dizi",
+      "Fibonacci dizisi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dizi, ardışık tam sayıların karelerini gösterir. 1², 2², 3², 4², ... şeklindedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522002495_5",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizinin terimleri: 5, 10, 20, 40, ... şeklindedir. Bu dizinin 7. terimi nedir?",
+    "options": [
+      "160",
+      "320",
+      "640",
+      "1280",
+      "2560"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu dizi her terimi 2 ile çarparak elde edilmektedir. 5 * 2^(n-1) formülüne göre a_7 = 5 * 2^6 = 5 * 64 = 320.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542600_15",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 3, 5, 7, 11, ... terimleri arasındaki ortak fark nedir?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ortak fark 2'dir. 5 - 3 = 2, 7 - 5 = 2.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_5",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Fibonacci dizisi başlangıçları 0 ve 1 ile başlar. Bu dizinin 8. terimi kaçtır?",
+    "options": [
+      "21",
+      "34",
+      "55",
+      "44",
+      "13"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fibonacci dizisi 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 şeklindedir. 8. terim 21'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542601_20",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir harmonik dizinin ilk terimi 1, ikinci terimi 1/2, üçüncü terimi 1/3'tür. Bu dizinin 5. terimi nedir?",
+    "options": [
+      "1/5",
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Harmonik dizinin genel formülü 1/n'dir. 5. terim 1/5'tir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500829088_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "İlk n teriminin toplamı S_n = 2n² + 3n olan bir (a_n) aritmetik dizisinin 7. terimi kaçtır?",
+    "options": [
+      "25",
+      "27",
+      "29",
+      "31",
+      "33"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir dizide n. terimi (a_n) bulmak için ilk n terim toplamından (S_n), ilk (n-1) terim toplamını (S_{n-1}) çıkarırız. Formül: a_n = S_n - S_{n-1}.\n\nBu soruda 7. terimi (a_7) bulmak için S_7'den S_6'yı çıkarmalıyız.\n\n1. Adım: S_7'yi hesaplayalım.\nS_n = 2n² + 3n\nS_7 = 2(7)² + 3(7)\nS_7 = 2(49) + 21\nS_7 = 98 + 21 = 119\n\n2. Adım: S_6'yı hesaplayalım.\nS_n = 2n² + 3n\nS_6 = 2(6)² + 3(6)\nS_6 = 2(36) + 18\nS_6 = 72 + 18 = 90\n\n3. Adım: a_7'yi bulalım.\na_7 = S_7 - S_6\na_7 = 119 - 90 = 29\n\nDolayısıyla, dizinin 7. terimi 29'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526079308_3",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "1, 4, 9, 16, 25, ... dizisi hangi tür bir dizidir ve 6. terimi nedir?",
+    "options": [
+      "Aritmetik dizi, 36",
+      "Geometrik dizi, 36",
+      "Kare sayılar dizisi, 36",
+      "Aritmetik dizi, 25",
+      "Geometrik dizi, 25"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Verilen dizi, 1^2, 2^2, 3^2, ... şeklinde kare sayıların dizisidir. Bu durumda 6. terim 6^2 = 36 olacaktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499467400_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "İlk n terim toplamı S_n = n² + 3n olan bir (a_n) aritmetik dizisinin 7. terimi kaçtır?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18",
+      "70"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir aritmetik dizide n. terim (a_n), ilk n terim toplamı (S_n) ile ilk (n-1) terim toplamının (S_{n-1}) farkına eşittir. Yani, a_n = S_n - S_{n-1}. Bu soruda 7. terim sorulmaktadır. Bu durumda, a_7 = S_7 - S_6 olacaktır.\n\n1. S_7'yi hesaplayalım: S_7 = 7² + 3(7) = 49 + 21 = 70.\n2. S_6'yı hesaplayalım: S_6 = 6² + 3(6) = 36 + 18 = 54.\n3. a_7'yi bulalım: a_7 = S_7 - S_6 = 70 - 54 = 16.\n\nAlternatif bir yol olarak:\n1. İlk terimi (a_1) bulalım: a_1 = S_1 = 1² + 3(1) = 4.\n2. İlk iki terim toplamını bulalım: S_2 = 2² + 3(2) = 4 + 6 = 10.\n3. İkinci terimi (a_2) bulalım: a_2 = S_2 - S_1 = 10 - 4 = 6.\n4. Ortak farkı (d) bulalım: d = a_2 - a_1 = 6 - 4 = 2.\n5. Dizinin genel terim formülünü (a_n = a_1 + (n-1)d) kullanarak 7. terimi bulalım: a_7 = 4 + (7-1) * 2 = 4 + 6 * 2 = 4 + 12 = 16. Her iki yöntemle de doğru cevap 16 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542601_24",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik dizide ilk terim 4 ve ortak fark 2 olduğunda, bu dizinin 15. terimi nedir?",
+    "options": [
+      "32",
+      "34",
+      "30",
+      "28",
+      "36"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15. terim a_15 = a_1 + (15-1)d = 4 + 28 = 32.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542601_23",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 1, 2, 4, 8, ... şeklinde devam ediyor. Bu dizinin genel formülü nedir?",
+    "options": [
+      "2^(n-1)",
+      "2*n",
+      "n^2",
+      "n!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dizi her terimin 2 katıdır. Genel formül 2^(n-1)'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_10",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik dizide 10. terim 30 ve 20. terim 60 ise, bu dizinin ortak farkı nedir?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ortak fark d = (a_20 - a_10) / (20 - 10) = (60 - 30) / 10 = 30 / 10 = 3.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522002495_9",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aritmetik bir dizinin 5. terimi 20 ve 10. terimi 35'tir. Bu dizinin ortak farkı nedir?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aritmetik dizinin genel formu a_n = a_1 + (n-1)d'dir. 10. terim - 5. terim = 5d'den d = (35 - 20) / 5 = 3.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764523542601_21",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
@@ -847,19 +703,35 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764522002495_0",
+    "id": "ai_1764523542600_9",
     "subjectId": "mat",
     "topic": "Dizi ve Seriler",
-    "questionText": "Aritmetik bir dizinin ilk terimi 5 ve ortak farkı 3'tür. Bu dizinin 10. terimi nedir?",
+    "questionText": "Geometrik bir dizinin ilk terimi 1 ve ortak çarpanı 3'tür. Bu dizinin 4. terimi nedir?",
     "options": [
-      "32",
-      "30",
-      "29",
-      "33",
-      "28"
+      "9",
+      "27",
+      "81",
+      "243",
+      "729"
     ],
-    "correctAnswer": 0,
-    "explanation": "Aritmetik dizinin n'inci terimi a_n = a_1 + (n - 1) * d formülü ile hesaplanır. Burada a_1 = 5, d = 3 ve n = 10. a_10 = 5 + (10 - 1) * 3 = 5 + 27 = 32.",
+    "correctAnswer": 3,
+    "explanation": "4. terim: 1 * 3^(4-1) = 1 * 27 = 27.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519215546_0",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aşağıdaki dizilerden hangisi artan bir aritmetik dizi değildir?",
+    "options": [
+      "2, 5, 8, 11",
+      "3, 6, 9, 12",
+      "1, 2, 4, 8",
+      "5, 10, 15, 20",
+      "7, 14, 21, 28"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Artan bir aritmetik dizi, her terimin bir öncekine sabit bir sayı eklenerek elde edildiği dizidir. 1, 2, 4, 8 dizisi ise çarpan ile ilerlediği için aritmetik değildir.",
     "difficulty": 3
   },
   {
@@ -877,5 +749,133 @@
     "correctAnswer": 0,
     "explanation": "Dizi, 10'un katlarıdır. 15. terim 10 * 15 = 150.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Geometrik bir dizinin ilk terimi 2 ve ortak çarpanı 4'tür. Bu dizinin 5. terimi nedir?",
+    "options": [
+      "128",
+      "64",
+      "32",
+      "16",
+      "8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Geometrik dizinin n. terimi a_n = a_1 * r^(n-1) formülü ile hesaplanır. Burada a_1 = 2, r = 4 ve n = 5. 2 * 4^(5-1) = 2 * 256 = 512.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520136350_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "1, 4, 9, 16, 25,... dizisi hangi terim dizisidir?",
+    "options": [
+      "Aritmetik Dizi",
+      "Geometrik Dizi",
+      "Kare Sayılar Dizisi",
+      "Fibonacci Dizisi",
+      "Üslü Dizi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Verilen dizi, her terimin sırasıyla 1'in karesi, 2'nin karesi, 3'ün karesi gibi geliştiği bir dizidir. Yani bu bir kare sayılar dizisidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542600_13",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Harmonik dizi tanımına göre, 1, 1/2, 1/3, ... dizisinin 4. terimi nedir?",
+    "options": [
+      "1/4",
+      "1/2",
+      "2",
+      "4",
+      "1/3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dizinin n. terimi 1/n şeklindedir. 4. terim 1/4'tür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523542600_14",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizi 1, 2, 4, 8, ... şeklinde devam ediyor. Bu dizinin 6. terimi nedir?",
+    "options": [
+      "32",
+      "16",
+      "64",
+      "128",
+      "256"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dizi her terimin 2 katıdır. 5. terim 16, 6. terim ise 32'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519215546_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Aşağıdaki serilerden hangisi geometrik bir dizi oluşturur?",
+    "options": [
+      "1, 2, 3, 4",
+      "2, 4, 8, 16",
+      "3, 5, 7, 9",
+      "10, 20, 30, 40",
+      "5, 10, 15, 20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Geometrik dizilerde her terim bir önceki terimin belirli bir çarpanıyla elde edilir. 2, 4, 8, 16 dizisinde her terim 2 ile çarpılarak elde edildiği için geometrik bir dizidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500829088_1",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir kenar uzunluğu 12 cm olan bir karenin kenarlarının orta noktaları birleştirilerek yeni bir kare elde ediliyor. Bu işlem sonsuz defa tekrarlandığında oluşan tüm karelerin alanları toplamı kaç cm² olur?",
+    "options": [
+      "144",
+      "192",
+      "216",
+      "288",
+      "324"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu problem, bir geometrik serinin toplamını bulma problemidir.\n\n1. Adım: İlk karenin alanını bulalım.\nBirinci karenin kenarı a₁ = 12 cm.\nAlanı A₁ = a₁² = 12² = 144 cm².\n\n2. Adım: İkinci karenin kenarını ve alanını bulalım.\nİkinci karenin kenarı (a₂), birinci karenin kenarlarının orta noktalarını birleştiren köşegendir. Oluşan dik üçgenin kenarları 12/2 = 6 cm ve 6 cm'dir. Pisagor teoreminden:\na₂² = 6² + 6² = 36 + 36 = 72\nİkinci karenin alanı A₂ = a₂² = 72 cm².\n\n3. Adım: Geometrik seriyi tanımlayalım.\nOluşan alanlar bir geometrik dizi oluşturur: A₁, A₂, A₃, ...\nA₁ = 144\nA₂ = 72\nDizinin ortak oranı (r) = A₂ / A₁ = 72 / 144 = 1/2.\n\n4. Adım: Sonsuz geometrik serinin toplamını hesaplayalım.\nOrtak oran r = 1/2 olduğundan ve |-1 < r < 1| koşulu sağlandığından, seri yakınsaktır ve toplamı vardır.\nSonsuz seri toplam formülü: Toplam = a₁ / (1 - r)\nBurada a₁, serinin ilk terimidir (A₁ = 144).\nToplam Alan = 144 / (1 - 1/2)\nToplam Alan = 144 / (1/2)\nToplam Alan = 144 * 2 = 288 cm².\n\nOluşan tüm karelerin alanları toplamı 288 cm²'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523542601_22",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir doğal sayı dizisi 1, 2, 3, ... şeklinde devam ediyor. Bu dizinin 100. teriminin toplamı nedir?",
+    "options": [
+      "5050",
+      "5000",
+      "10000",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Toplam = n(n+1)/2 formülü ile hesaplanır. 100 * 101 / 2 = 5050.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522002495_2",
+    "subjectId": "mat",
+    "topic": "Dizi ve Seriler",
+    "questionText": "Bir dizideki terimler: 1, 4, 9, 16, ... şeklindedir. Bu dizinin 6. terimi nedir?",
+    "options": [
+      "36",
+      "25",
+      "30",
+      "20",
+      "18"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu dizi kare sayılardan oluşmaktadır. 1^2, 2^2, 3^2, 4^2, 5^2, 6^2 = 36.",
+    "difficulty": 3
   }
 ]
