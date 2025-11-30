@@ -1,34 +1,50 @@
 [
   {
-    "id": "ai_1764501350652_0",
+    "id": "ai_1764519346832_0",
     "subjectId": "kim",
     "topic": "Gazlar",
-    "questionText": "Normal koşullar altında (0 °C ve 1 atm) özkütlesi 1,25 g/L olan ideal X gazının mol kütlesi (Mₐ) kaç g/mol'dür? (İdeal gaz sabiti R = 0,082 L·atm/mol·K veya 22,4/273 L·atm/mol·K alınabilir.)",
+    "questionText": "Bir gazın sıcaklığı artırıldığında, hacminin sabit kalması durumunda basıncının nasıl değişeceğini gösteren yasa hangisidir?",
     "options": [
-      "16",
-      "22,4",
-      "28",
-      "32",
-      "44"
+      "Boyle Yasası",
+      "Charles Yasası",
+      "Avogadro Yasası",
+      "Gay-Lussac Yasası",
+      "Dalton Yasası"
     ],
-    "correctAnswer": 2,
-    "explanation": "İdeal gazlar için özkütle, basınç, mol kütlesi ve sıcaklık arasındaki ilişki P·Mₐ = d·R·T formülü ile ifade edilir. Bu formülde P basıncı (atm), Mₐ mol kütlesini (g/mol), d özkütleyi (g/L), R ideal gaz sabitini ve T mutlak sıcaklığı (Kelvin) temsil eder.\n\nVerilenler:\n- P = 1 atm (Normal koşullar)\n- T = 0 °C = 0 + 273 = 273 K (Normal koşullar)\n- d = 1,25 g/L\n- R = 22,4/273 L·atm/mol·K (Hesaplama kolaylığı için bu değer kullanılır)\n\nFormülde değerleri yerine koyalım:\n1 · Mₐ = 1,25 · (22,4 / 273) · 273\n\nBurada 273'ler sadeleşir:\nMₐ = 1,25 · 22,4\n\n1,25 ondalık sayısını 5/4 olarak yazabiliriz:\nMₐ = (5/4) · 22,4\nMₐ = 5 · (22,4 / 4)\nMₐ = 5 · 5,6\nMₐ = 28 g/mol\n\nAlternatif Çözüm:\nNormal koşullar altında 1 mol ideal gaz 22,4 litre hacim kaplar. Özkütle (d) = Kütle (m) / Hacim (V) formülünden, 1 mol gaz için d = Mₐ / Vₘ (Vₘ: molar hacim) yazılabilir.\nMₐ = d · Vₘ\nMₐ = 1,25 g/L · 22,4 L/mol\nMₐ = 28 g/mol",
+    "correctAnswer": 3,
+    "explanation": "Gay-Lussac Yasası, sabit hacimdeki bir gazın sıcaklığının artması durumunda basıncının da artacağını belirtir. Bu yasa, P1/T1 = P2/T2 şeklinde ifade edilir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501350652_1",
+    "id": "ai_1764519346832_1",
     "subjectId": "kim",
     "topic": "Gazlar",
-    "questionText": "Sabit hacimli bir kapta, belirli bir sıcaklıkta 8 gram He ve 32 gram CH₄ gazları bulunmaktadır. Kaptaki toplam basınç 6 atm olduğuna göre, He gazının kısmi basıncı kaç atm'dir? (He: 4 g/mol, C: 12 g/mol, H: 1 g/mol)",
+    "questionText": "Bir gazın ideal gaz olarak kabul edilebilmesi için hangi koşul sağlanmalıdır?",
     "options": [
-      "1,5",
-      "2",
-      "2,5",
-      "3",
-      "4"
+      "Düşük sıcaklık ve yüksek basınç",
+      "Yüksek sıcaklık ve düşük basınç",
+      "Düşük sıcaklık ve düşük basınç",
+      "Yüksek sıcaklık ve yüksek basınç",
+      "Sadece düşük hacim"
     ],
-    "correctAnswer": 3,
-    "explanation": "Dalton'un Kısmi Basınçlar Yasası'na göre, bir gaz karışımındaki herhangi bir gazın kısmi basıncı (Pᵢ), o gazın mol kesri (Xᵢ) ile toplam basıncın (Pₜ) çarpımına eşittir: Pᵢ = Xᵢ · Pₜ. Bir gazın mol kesri ise, o gazın mol sayısının (nᵢ) karışımdaki toplam mol sayısına (nₜ) oranıdır: Xᵢ = nᵢ / nₜ.\n\nAdım 1: Her bir gazın mol sayısını hesaplayalım.\n- He'nin mol kütlesi (Mₐ) = 4 g/mol\n- n(He) = kütle / Mₐ = 8 g / 4 g/mol = 2 mol\n\n- CH₄'ün mol kütlesi (Mₐ) = 12 + (4 · 1) = 16 g/mol\n- n(CH₄) = kütle / Mₐ = 32 g / 16 g/mol = 2 mol\n\nAdım 2: Toplam mol sayısını bulalım.\n- n(toplam) = n(He) + n(CH₄) = 2 mol + 2 mol = 4 mol\n\nAdım 3: He gazının mol kesrini hesaplayalım.\n- X(He) = n(He) / n(toplam) = 2 mol / 4 mol = 0,5\n\nAdım 4: He gazının kısmi basıncını hesaplayalım.\n- Verilen toplam basınç P(toplam) = 6 atm\n- P(He) = X(He) · P(toplam)\n- P(He) = 0,5 · 6 atm\n- P(He) = 3 atm\n\nDolayısıyla, He gazının kısmi basıncı 3 atm'dir.",
+    "correctAnswer": 1,
+    "explanation": "İdeal gazlar, yüksek sıcaklık ve düşük basınç koşullarında davranışlarını ideal gaz yasalarına uygun olarak gösterir. Bu koşullar altında gaz molekülleri arasındaki etkileşimler ihmal edilebilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519346832_2",
+    "subjectId": "kim",
+    "topic": "Gazlar",
+    "questionText": "Aynı sıcaklık ve basınçta, farklı gazların hacimlerinin oranı neyi ifade eder?",
+    "options": [
+      "Molekül sayısını",
+      "Gazların yoğunluğunu",
+      "Gazların mol sayısını",
+      "Gazların sıcaklığını",
+      "Gazların basıncını"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Avogadro Yasası'na göre, aynı sıcaklık ve basınç altında eşit hacimdeki gazlar, molekül sayısı bakımından eşittir. Bu nedenle, hacim oranı gazların mol sayısını ifade eder.",
     "difficulty": 3
   }
 ]
