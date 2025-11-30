@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764501665344_0",
+    "id": "ai_1764519453790_0",
     "subjectId": "tur",
     "topic": "Noktalama",
-    "questionText": "Aşağıdaki cümlede ayraçlarla ( ) belirtilen yerlere sırasıyla hangi noktalama işaretleri getirilmelidir?\n\nO konuşmasında edebiyatın iki ana damarından bahsetti ( ) roman ve şiir. Sevdiği romancılar şunlardı ( ) Tolstoy, Dostoyevski, Stendhal ( ) vazgeçemediği şairler ise Rilke, Baudelaire ve Pessoa'ydı ( )",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti eksiktir? 'Bu akşam sinemaya gideceğiz ___ çok güzel bir film var.'",
     "options": [
-      "( : ) ( , ) ( , ) ( . )",
-      "( ; ) ( : ) ( , ) ( ... )",
-      "( : ) ( : ) ( ; ) ( . )",
-      "( . ) ( ; ) ( : ) ( . )",
-      "( : ) ( : ) ( , ) ( . )"
+      "A) ;",
+      "B) :",
+      "C) ,",
+      "D) .",
+      "E) ?"
     ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede ayraçlarla belirtilen yerlere getirilmesi gereken noktalama işaretleri sırasıyla şöyledir:\n1. İlk ayraç: Cümlede \"iki ana damar\" ifadesinden sonra bir açıklama yapılacağı için kendisinden sonra açıklama yapılacak cümlenin sonuna iki nokta (:) konur.\n2. İkinci ayraç: \"şunlardı\" ifadesi, kendisinden sonra bir liste veya örnekleme yapılacağını belirtir. Bu nedenle iki nokta (:) kullanılmalıdır.\n3. Üçüncü ayraç: Cümle, kendi içinde virgüllerle ayrılmış farklı grupları (romancılar ve şairler) sıralamaktadır. Bu tür durumlarda, anlam karışıklığını önlemek ve grupları birbirinden ayırmak için noktalı virgül (;) kullanılır. \"Tolstoy, Dostoyevski, Stendhal\" bir grup, \"Rilke, Baudelaire ve Pessoa\" ise diğer gruptur. Bu iki farklı öğe grubunu barındıran cümleler noktalı virgülle ayrılır.\n4. Dördüncü ayraç: Cümlenin sonuna, yargı tamamlandığı için nokta (.) konulmalıdır.\nBu kurallara göre doğru sıralama \":, :, ;, .\" şeklinde olmalıdır. Dolayısıyla doğru cevap C seçeneğidir.",
+    "correctAnswer": 1,
+    "explanation": "Cümlede iki bağımsız cümle arasında bir ilişki kurmak için iki nokta üst üste (:) kullanılmalıdır. Bu şekilde ilk cümlenin nedenini belirten ikinci cümle vurgulanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519453790_1",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümledeki noktalama işareti hatası hangisidir? 'Ali, kitabını masaya koydu ve, hemen dışarı çıktı.'",
+    "options": [
+      "A) '",
+      "B) ,",
+      "C) .",
+      "D) ve",
+      "E) masaya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede 've' bağlacından sonra virgül gereksiz bir kullanım oluşturur. Doğru kullanımda virgül kullanılmamalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519453791_2",
+    "subjectId": "tur",
+    "topic": "Noktalama",
+    "questionText": "Aşağıdaki cümlede hangi noktalama işareti gereklidir? 'Ahmet çok çalıştı ___ bu sınavı geçecektir.'",
+    "options": [
+      "A) ,",
+      "B) .",
+      "C) ;",
+      "D) :",
+      "E) ?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede neden-sonuç ilişkisi kurmak için virgül (,) kullanılmalıdır. Ahmet'in çok çalışması, sınavı geçmesinin sebebidir.",
     "difficulty": 3
   }
 ]
