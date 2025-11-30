@@ -1,5 +1,53 @@
 [
   {
+    "id": "ai_1764501001352_2",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Güçleri sırasıyla P ve 2P olan K ve L motorları, özdeş cisimleri yer seviyesinden sabit hızlarla h yüksekliğine çıkarıyor. K motoru bu işi t sürede yaptığına göre, L motoru aynı işi kaç t sürede yapar?",
+    "options": [
+      "t/4",
+      "t/2",
+      "t",
+      "2t",
+      "4t"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Güç (P), birim zamanda yapılan iştir (P = W/t). Soruda, iki motorun da özdeş cisimleri aynı h yüksekliğine çıkardığı belirtilmiştir. Bu nedenle, yer çekimine karşı yapılan iş (W = mgh) her iki motor için de aynıdır.\nK motoru için denklem: P_K = W / t_K  =>  P = W / t\nL motoru için denklem: P_L = W / t_L  =>  2P = W / t_L\nİlk denklemden işi çekersek: W = P * t. Bu ifadeyi ikinci denklemde yerine koyalım:\n2P = (P * t) / t_L\nDenklemdeki P'ler sadeleşir: 2 = t / t_L\nBuradan L motorunun işi yapma süresi olan t_L'yi çekersek, t_L = t / 2 sonucuna ulaşırız.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520188409_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin kinetik enerjisi neye bağlıdır?",
+    "options": [
+      "Cismin şekline",
+      "Cismin sıcaklığına",
+      "Cismin hızına ve kütlesine",
+      "Cismin rengine",
+      "Cismin yaşına"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kinetik enerji, bir cismin hareket etme durumunu ifade eder ve cismin hızı ile kütlesine bağlıdır. Kinetik enerji, E_k = 1/2 mv^2 formülü ile hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499640304_0",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Kütlesi m olan bir cisim, sürtünmeli eğik düzlemin K noktasından serbest bırakıldığında L noktasına v hızıyla ulaşıyor. K noktasının yerden yüksekliği h olduğuna göre, sürtünme kuvvetinin yaptığı iş (ısıya dönüşen enerji) aşağıdaki ifadelerden hangisine eşittir? (g: yer çekimi ivmesi)",
+    "options": [
+      "1/2 mv²",
+      "mgh",
+      "mgh - 1/2 mv²",
+      "mgh + 1/2 mv²",
+      "1/2 mv² - mgh"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enerjinin korunumu ilkesine göre, sürtünme gibi korunumsuz bir kuvvetin varlığında sistemin başlangıçtaki mekanik enerjisi, son durumdaki mekanik enerjisi ile ısıya dönüşen enerjinin toplamına eşittir. Başlangıçta cisim serbest bırakıldığı için sadece potansiyel enerjisi vardır (E_ilk = mgh). L noktasına ulaştığında ise sadece kinetik enerjisi vardır (E_son = 1/2 mv²). Aradaki fark, sürtünme kuvvetinin yaptığı işe, yani ısıya dönüşen enerjiye (W_sürtünme) eşittir. Bu durumda denklem: E_ilk = E_son + W_sürtünme => mgh = 1/2 mv² + W_sürtünme. Buradan W_sürtünme = mgh - 1/2 mv² bulunur.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764519242509_0",
     "subjectId": "fiz",
     "topic": "Enerji",
@@ -16,19 +64,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520188410_1",
+    "id": "ai_1764520188414_2",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Potansiyel enerji hangi durumlarda en yüksek olur?",
+    "questionText": "Isı enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Cismin en alt noktada olduğu durumlarda",
-      "Cismin en üst noktada olduğu durumlarda",
-      "Cismin hızının en yüksek olduğu durumlarda",
-      "Cismin sıcaklığının en düşük olduğu durumlarda",
-      "Cismin şeklinin en büyük olduğu durumlarda"
+      "Isı enerjisi her zaman artar.",
+      "Isı enerjisi yalnızca gazlarda bulunur.",
+      "Isı enerjisi, sıcaklık farkı ile akar.",
+      "Isı enerjisi, cisimlerin rengine bağlıdır.",
+      "Isı enerjisi yalnızca elektrik enerjisinden elde edilir."
     ],
-    "correctAnswer": 1,
-    "explanation": "Potansiyel enerji, bir cismin konumuna bağlıdır. Özellikle yer çekimi etkisi altında, cismin en yüksek noktada olduğu durumlarda potansiyel enerji maksimum düzeye ulaşır.",
+    "correctAnswer": 2,
+    "explanation": "Isı enerjisi, sıcaklık farkı nedeniyle yüksek sıcaklıktan düşük sıcaklığa doğru akar. Bu, termodinamiğin temel prensiplerinden biridir.",
     "difficulty": 3
   },
   {
@@ -64,22 +112,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520188414_2",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Isı enerjisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Isı enerjisi her zaman artar.",
-      "Isı enerjisi yalnızca gazlarda bulunur.",
-      "Isı enerjisi, sıcaklık farkı ile akar.",
-      "Isı enerjisi, cisimlerin rengine bağlıdır.",
-      "Isı enerjisi yalnızca elektrik enerjisinden elde edilir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Isı enerjisi, sıcaklık farkı nedeniyle yüksek sıcaklıktan düşük sıcaklığa doğru akar. Bu, termodinamiğin temel prensiplerinden biridir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764501001352_1",
     "subjectId": "fiz",
     "topic": "Enerji",
@@ -96,19 +128,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764501001352_2",
+    "id": "ai_1764498303717_0",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Güçleri sırasıyla P ve 2P olan K ve L motorları, özdeş cisimleri yer seviyesinden sabit hızlarla h yüksekliğine çıkarıyor. K motoru bu işi t sürede yaptığına göre, L motoru aynı işi kaç t sürede yapar?",
+    "questionText": "Sürtünmesiz bir ortamda, yerden belirli bir yükseklikteki K noktasından serbest bırakılan m kütleli noktasal bir cisim, L noktasından geçerek M noktasında yere çarpıyor. Cismin L noktasındaki kinetik enerjisi, yere göre potansiyel enerjisine eşittir. K noktasının yerden yüksekliği h olduğuna göre, L noktasının yerden yüksekliği kaç h'dir?",
     "options": [
-      "t/4",
-      "t/2",
-      "t",
-      "2t",
-      "4t"
+      "1/4",
+      "1/3",
+      "1/2",
+      "2/3",
+      "3/4"
     ],
-    "correctAnswer": 1,
-    "explanation": "Güç (P), birim zamanda yapılan iştir (P = W/t). Soruda, iki motorun da özdeş cisimleri aynı h yüksekliğine çıkardığı belirtilmiştir. Bu nedenle, yer çekimine karşı yapılan iş (W = mgh) her iki motor için de aynıdır.\nK motoru için denklem: P_K = W / t_K  =>  P = W / t\nL motoru için denklem: P_L = W / t_L  =>  2P = W / t_L\nİlk denklemden işi çekersek: W = P * t. Bu ifadeyi ikinci denklemde yerine koyalım:\n2P = (P * t) / t_L\nDenklemdeki P'ler sadeleşir: 2 = t / t_L\nBuradan L motorunun işi yapma süresi olan t_L'yi çekersek, t_L = t / 2 sonucuna ulaşırız.",
+    "correctAnswer": 2,
+    "explanation": "Sürtünmesiz ortamda mekanik enerji korunur. Cismin K noktasındaki toplam enerjisi, sadece potansiyel enerjisine eşittir ve E_K = mgh'dir. L noktasının yerden yüksekliğine h_L diyelim. Bu noktada cismin hem kinetik (E_kL) hem de potansiyel (E_pL) enerjisi vardır. Soruda E_kL = E_pL olduğu verilmiştir. L noktasındaki toplam mekanik enerji E_L = E_kL + E_pL = 2 * E_pL'dir. E_pL = mgh_L olduğundan, E_L = 2mgh_L olur. Mekanik enerji korunumundan E_K = E_L olmalıdır. Yani, mgh = 2mgh_L olur. Eşitlikten m ve g'ler sadeleştiğinde h = 2h_L bulunur, bu da h_L = h/2 sonucunu verir.",
     "difficulty": 3
   },
   {
@@ -128,22 +160,6 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764499640304_0",
-    "subjectId": "fiz",
-    "topic": "Enerji",
-    "questionText": "Kütlesi m olan bir cisim, sürtünmeli eğik düzlemin K noktasından serbest bırakıldığında L noktasına v hızıyla ulaşıyor. K noktasının yerden yüksekliği h olduğuna göre, sürtünme kuvvetinin yaptığı iş (ısıya dönüşen enerji) aşağıdaki ifadelerden hangisine eşittir? (g: yer çekimi ivmesi)",
-    "options": [
-      "1/2 mv²",
-      "mgh",
-      "mgh - 1/2 mv²",
-      "mgh + 1/2 mv²",
-      "1/2 mv² - mgh"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Enerjinin korunumu ilkesine göre, sürtünme gibi korunumsuz bir kuvvetin varlığında sistemin başlangıçtaki mekanik enerjisi, son durumdaki mekanik enerjisi ile ısıya dönüşen enerjinin toplamına eşittir. Başlangıçta cisim serbest bırakıldığı için sadece potansiyel enerjisi vardır (E_ilk = mgh). L noktasına ulaştığında ise sadece kinetik enerjisi vardır (E_son = 1/2 mv²). Aradaki fark, sürtünme kuvvetinin yaptığı işe, yani ısıya dönüşen enerjiye (W_sürtünme) eşittir. Bu durumda denklem: E_ilk = E_son + W_sürtünme => mgh = 1/2 mv² + W_sürtünme. Buradan W_sürtünme = mgh - 1/2 mv² bulunur.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764501001352_0",
     "subjectId": "fiz",
     "topic": "Enerji",
@@ -160,35 +176,483 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520188409_0",
+    "id": "ai_1764520188410_1",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Bir cismin kinetik enerjisi neye bağlıdır?",
+    "questionText": "Potansiyel enerji hangi durumlarda en yüksek olur?",
     "options": [
-      "Cismin şekline",
-      "Cismin sıcaklığına",
-      "Cismin hızına ve kütlesine",
-      "Cismin rengine",
-      "Cismin yaşına"
+      "Cismin en alt noktada olduğu durumlarda",
+      "Cismin en üst noktada olduğu durumlarda",
+      "Cismin hızının en yüksek olduğu durumlarda",
+      "Cismin sıcaklığının en düşük olduğu durumlarda",
+      "Cismin şeklinin en büyük olduğu durumlarda"
     ],
-    "correctAnswer": 2,
-    "explanation": "Kinetik enerji, bir cismin hareket etme durumunu ifade eder ve cismin hızı ile kütlesine bağlıdır. Kinetik enerji, E_k = 1/2 mv^2 formülü ile hesaplanır.",
+    "correctAnswer": 1,
+    "explanation": "Potansiyel enerji, bir cismin konumuna bağlıdır. Özellikle yer çekimi etkisi altında, cismin en yüksek noktada olduğu durumlarda potansiyel enerji maksimum düzeye ulaşır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498303717_0",
+    "id": "ai_1764523924262_0",
     "subjectId": "fiz",
     "topic": "Enerji",
-    "questionText": "Sürtünmesiz bir ortamda, yerden belirli bir yükseklikteki K noktasından serbest bırakılan m kütleli noktasal bir cisim, L noktasından geçerek M noktasında yere çarpıyor. Cismin L noktasındaki kinetik enerjisi, yere göre potansiyel enerjisine eşittir. K noktasının yerden yüksekliği h olduğuna göre, L noktasının yerden yüksekliği kaç h'dir?",
+    "questionText": "Bir cismin potansiyel enerjisi, yüksekliği ile nasıl bir ilişki içerisindedir?",
     "options": [
-      "1/4",
-      "1/3",
-      "1/2",
-      "2/3",
-      "3/4"
+      "Yükseklikle ters orantılıdır",
+      "Yükseklikle doğrudan orantılıdır",
+      "Yükseklikle sabittir",
+      "Yükseklikle değişmez",
+      "Yükseklikle negatif orantılıdır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Potansiyel enerji, cismin yüksekliği ile doğru orantılıdır. Yüksekliği arttıkça potansiyel enerji de artar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_1",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir aracın kinetik enerjisi, hızı ile nasıl değişir?",
+    "options": [
+      "Hızla ters orantılıdır",
+      "Hızla doğrudan orantılıdır",
+      "Hızın karesi ile orantılıdır",
+      "Sabittir",
+      "Hızın küpü ile orantılıdır"
     ],
     "correctAnswer": 2,
-    "explanation": "Sürtünmesiz ortamda mekanik enerji korunur. Cismin K noktasındaki toplam enerjisi, sadece potansiyel enerjisine eşittir ve E_K = mgh'dir. L noktasının yerden yüksekliğine h_L diyelim. Bu noktada cismin hem kinetik (E_kL) hem de potansiyel (E_pL) enerjisi vardır. Soruda E_kL = E_pL olduğu verilmiştir. L noktasındaki toplam mekanik enerji E_L = E_kL + E_pL = 2 * E_pL'dir. E_pL = mgh_L olduğundan, E_L = 2mgh_L olur. Mekanik enerji korunumundan E_K = E_L olmalıdır. Yani, mgh = 2mgh_L olur. Eşitlikten m ve g'ler sadeleştiğinde h = 2h_L bulunur, bu da h_L = h/2 sonucunu verir.",
-    "difficulty": 3
+    "explanation": "Kinetik enerji, cismin hızının karesi ile orantılıdır. Yani hız iki katına çıktığında, kinetik enerji dört katına çıkar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_2",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Isı enerjisi, hangi madde durumunda en hızlı hareket eder?",
+    "options": [
+      "Katı",
+      "Sıvı",
+      "Gaz",
+      "Plazma",
+      "Hepsi eşit hızda hareket eder"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gaz halindeki maddelerin tanecikleri daha fazla hareket eder ve dolayısıyla ısı enerjisi gazda en hızlıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_3",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Termodinamikte bir sistemin iş yapabilme yeteneği hangi terimle ifade edilir?",
+    "options": [
+      "Entropi",
+      "Enerji",
+      "Isı",
+      "Hız",
+      "Basınç"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir sistemin iş yapabilme yeteneği enerji ile ifade edilir. Enerji, işin temel kaynağıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_4",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir makinede işin verimliliği ne ile ölçülür?",
+    "options": [
+      "Girdi enerjisi",
+      "Çıktı enerjisi",
+      "Girdi ve çıktı enerjisinin oranı",
+      "Mekanik enerji",
+      "Dönüşüm oranı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir makinenin verimliliği, girdi ve çıktı enerjisinin oranı ile ölçülür. Bu oran makinenin ne kadar etkin çalıştığını gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_5",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin iç enerjisi hangi faktörlere bağlıdır?",
+    "options": [
+      "Sadece sıcaklık",
+      "Sıcaklık ve hacim",
+      "Sıcaklık, hacim ve basınç",
+      "Sıcaklık, hacim, basınç ve kütle",
+      "Sadece kütle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bir cismin iç enerjisi, sıcaklık, hacim, basınç ve kütle gibi faktörlere bağlıdır. Bu faktörler, taneciklerin hareketi ve düzeni üzerinde etkilidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_6",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Enerji dönüşümlerinde en çok kayıplar hangi türde görülür?",
+    "options": [
+      "Mekanik enerji",
+      "Elektrik enerjisi",
+      "Isı enerjisi",
+      "Kimyasal enerji",
+      "Nükleer enerji"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enerji dönüşümlerinde en çok kayıplar ısı enerjisi şeklinde görülür. Isı kaybı, verimsiz enerji dönüşümlerinin başlıca nedenidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_7",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Yenilenebilir enerji kaynakları hangileridir?",
+    "options": [
+      "Petrol, doğalgaz, kömür",
+      "Güneş, rüzgar, hidroelektrik",
+      "Nükleer enerji, kömür",
+      "Biyokütle, fosil yakıtlar",
+      "Jeotermal enerji, uranyum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yenilenebilir enerji kaynakları, doğaya zarar vermeden sürekli olarak yenilenen kaynaklardır. Güneş, rüzgar ve hidroelektrik bu kaynaklar arasındadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_8",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin toplam mekanik enerjisi hangi iki enerji türünün toplamıdır?",
+    "options": [
+      "Potansiyel ve kinetik enerji",
+      "Isı ve potansiyel enerji",
+      "Kinetik ve ısı enerjisi",
+      "Potansiyel ve iç enerji",
+      "Kinetik ve elektrik enerjisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir cismin toplam mekanik enerjisi, potansiyel enerji ve kinetik enerjinin toplamıdır. Bu iki enerji, mekanik sistemlerin davranışını belirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_9",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Isı transferi hangi üç şekilde gerçekleşebilir?",
+    "options": [
+      "İletim, yayılma, buharlaşma",
+      "İletim, konveksiyon, radyasyon",
+      "İletim, yoğunlaşma, buharlaşma",
+      "Buharlaşma, yoğunlaşma, süblimleşme",
+      "Sıcaklık, soğukluk, ısı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Isı transferi üç farklı şekilde gerçekleşir: iletim, konveksiyon ve radyasyon. Her biri farklı fiziksel prensiplere dayanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_10",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Enerji tasarrufu sağlamak için hangi yöntemler kullanılır?",
+    "options": [
+      "Yalnızca daha az enerji kullanmak",
+      "Daha verimli cihazlar kullanmak",
+      "Yalnızca yenilenebilir enerji kaynakları kullanmak",
+      "Tüm enerji kaynaklarını kullanmak",
+      "Yalnızca fosil yakıtlar kullanmak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enerji tasarrufu sağlamak için daha verimli cihazlar kullanmak ve enerji kaynaklarını etkin bir şekilde kullanmak önemlidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_11",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Mekanik enerji korunumu yasası hangi koşullar altında geçerlidir?",
+    "options": [
+      "Dış kuvvetlerin etkisinde",
+      "Kapalı sistemlerde",
+      "Açık sistemlerde",
+      "Sadece potansiyel enerji için",
+      "Sadece kinetik enerji için"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mekanik enerji korunumu yasası, dış kuvvetlerin etkisi olmadan kapalı sistemlerde geçerlidir. Bu durumda toplam enerji değişmez.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_12",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Güneş enerjisi, hangi enerji dönüşüm sürecine örnektir?",
+    "options": [
+      "Kinetik enerjiye dönüşüm",
+      "Kimyasal enerjiye dönüşüm",
+      "Termal enerjiye dönüşüm",
+      "Elektrik enerjisine dönüşüm",
+      "Potansiyel enerjiye dönüşüm"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Güneş enerjisi, fotovoltaik hücreler aracılığıyla elektrik enerjisine dönüşür. Bu, güneş enerjisinin kullanımının temel örneklerinden biridir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_13",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin sıcaklığının artması, hangi enerjinin artmasına neden olur?",
+    "options": [
+      "Potansiyel enerji",
+      "Kinetik enerji",
+      "İç enerji",
+      "Mekanik enerji",
+      "Dönme enerjisi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir cismin sıcaklığının artması, cismin iç enerjisinin artmasına neden olur. Sıcaklık, taneciklerin hareket enerjisini belirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_14",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir enerji dönüşüm sürecinde kaybolan enerji genellikle hangi formda olur?",
+    "options": [
+      "Potansiyel enerji",
+      "Kinetik enerji",
+      "Isı enerjisi",
+      "Elektrik enerjisi",
+      "Kimyasal enerji"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enerji dönüşüm sürecinde kaybolan enerji genellikle ısı enerjisi biçimindedir. Bu kayıplar, verimliliği azaltır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_15",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir enerji kaynağının sürdürülebilir olması için hangi özelliğe sahip olmalıdır?",
+    "options": [
+      "Sonsuz miktarda olmalıdır",
+      "Doğaya zarar vermemelidir",
+      "Yüksek verimli olmalıdır",
+      "Uygun maliyetli olmalıdır",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sürdürülebilir bir enerji kaynağı, doğaya zarar vermemeli, yüksek verimli olmalı ve uygun maliyetli olmalıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_16",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Termodinamik yasaları arasında hangisi enerjinin korunumu ile ilgilidir?",
+    "options": [
+      "1. yasa",
+      "2. yasa",
+      "3. yasa",
+      "4. yasa",
+      "5. yasa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Termodinamiğin birinci yasası, enerjinin korunumu ile ilgilidir. Enerji yoktan var edilemez veya yok edilemez.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_17",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Elektrik enerjisinin mekanik enerjiye dönüşümünde kullanılan cihaz nedir?",
+    "options": [
+      "Jeneratör",
+      "Motor",
+      "Alternatör",
+      "Transformator",
+      "İzolator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elektrik enerjisinin mekanik enerjiye dönüşümünde motorlar kullanılır. Motorlar, elektrik akımını mekanik harekete dönüştürür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_18",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin hareket halinde olduğu durumlarda hangi enerji türü etkindir?",
+    "options": [
+      "Potansiyel enerji",
+      "Kinetik enerji",
+      "Isı enerjisi",
+      "Kimyasal enerji",
+      "Elektrik enerjisi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir cismin hareket halinde olduğu durumlarda kinetik enerji etkindir. Kinetik enerji, cismin hızına bağlıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_19",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir enerji dönüşüm sürecindeki verimliliği en çok etkileyen faktör nedir?",
+    "options": [
+      "Enerji kaynağı",
+      "Dönüşüm yöntemi",
+      "Çevresel etmenler",
+      "Cihaz kalitesi",
+      "İnsan hatası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enerji dönüşüm sürecindeki verimliliği en çok etkileyen faktör, dönüşüm yöntemidir. Verimsiz yöntemler, enerji kaybına yol açar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924263_20",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Güneş panellerinin verimliliğini artırmak için hangi özellik önemlidir?",
+    "options": [
+      "Yüksek sıcaklık",
+      "Düşük maliyet",
+      "Işık yoğunluğu",
+      "Hava durumu",
+      "Rüzgar hızı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Güneş panellerinin verimliliğini artırmak için ışık yoğunluğu önemlidir. Işık yoğunluğu arttıkça, enerji üretimi de artar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_21",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Hidroelektrik santrallerinin enerji üretiminde hangi enerji türü kullanılır?",
+    "options": [
+      "Potansiyel enerji",
+      "Kinetik enerji",
+      "Isı enerjisi",
+      "Kimyasal enerji",
+      "Elektrik enerjisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidroelektrik santrallerinde suyun yüksekliği ve hareketi, potansiyel ve kinetik enerjiyi kullanarak elektrik enerjisi üretir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_22",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Enerjinin en temel birimi nedir?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Kalori",
+      "Elektronvolt",
+      "Kilowatt"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enerjinin en temel birimi Joule'dur. Diğer birimler enerji akışını veya dönüşüm oranını ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_23",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Isı enerjisinin cisimler arasında nasıl yayıldığını belirten terim nedir?",
+    "options": [
+      "Isı transferi",
+      "Isı akışı",
+      "Isı kaybı",
+      "Isı dengesizliği",
+      "Isı eşitlenmesi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Isı enerjisinin cisimler arasında nasıl yayıldığını belirten terim ısı transferidir. Bu, iletim, konveksiyon ve radyasyon ile gerçekleşir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_24",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir enerji kaynağının çevreye olan etkilerini değerlendiren terim nedir?",
+    "options": [
+      "Sürdürülebilirlik",
+      "Verimlilik",
+      "Etkililik",
+      "Çevresel etki",
+      "Enerji kaybı"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bir enerji kaynağının çevreye olan etkilerini değerlendiren terim çevresel etkidir. Bu, enerji üretiminin doğaya olan katkılarını ve zararlarını içerir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_25",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Nükleer enerji üretiminde hangi süreç kullanılır?",
+    "options": [
+      "Füzyon",
+      "Fisyon",
+      "Yanma",
+      "Kimyasal reaksiyon",
+      "Elektromanyetik dönüşüm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nükleer enerji üretiminde fisyon süreci kullanılır. Atom çekirdeklerinin bölünmesiyle büyük miktarda enerji açığa çıkar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_26",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Enerji dönüşüm süreçlerinde kayıpları en aza indirmek için hangi yöntemler uygulanabilir?",
+    "options": [
+      "Yüksek ısıda çalışmak",
+      "Verimli cihazlar kullanmak",
+      "Enerji kaynaklarını sınırlamak",
+      "İnsan hatasını artırmak",
+      "Daha fazla yakıt kullanmak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enerji dönüşüm süreçlerinde kayıpları en aza indirmek için verimli cihazlar kullanmak önemlidir. Verimli cihazlar enerji kaybını azaltır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_27",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir sistemde entropi artışı neyi ifade eder?",
+    "options": [
+      "Enerji kaybı",
+      "Düzenin artışı",
+      "Düzensizliğin artışı",
+      "Sıcaklığın artışı",
+      "Enerjinin korunumu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Entropi artışı, bir sistemde düzensizliğin artışını ifade eder. Termodinamiğin ikinci yasası ile ilişkilidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523924264_28",
+    "subjectId": "fiz",
+    "topic": "Enerji",
+    "questionText": "Bir cismin ısınması, hangi enerji değişiminin sonucudur?",
+    "options": [
+      "Potansiyel enerji artışı",
+      "Kinetik enerji artışı",
+      "İç enerji artışı",
+      "Mekanik enerji artışı",
+      "Kimyasal enerji artışı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir cismin ısınması, iç enerji artışının sonucudur. Sıcaklık artışı, taneciklerin hareket enerjisindeki artışı gösterir.",
+    "difficulty": 5
   }
 ]
