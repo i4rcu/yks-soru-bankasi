@@ -1,50 +1,50 @@
 [
   {
-    "id": "ai_1764519425608_0",
+    "id": "ai_1764520393270_0",
     "subjectId": "tur",
     "topic": "Paragraf",
     "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın ana fikrini en iyi şekilde ifade etmektedir?",
     "options": [
-      "Kış mevsiminde hava çok soğuk olur.",
-      "Kış mevsimi, kar yağışı ile birlikte gelir.",
-      "Kışın doğa, birçok canlı için zorluklarla doludur.",
-      "Kış mevsiminde insanlar genellikle sıcak içecekler tercih eder.",
-      "Kış aylarında bazı hayvanlar uykuya yatar."
+      "Çalışmak, başarıya giden yolda önemli bir adımdır.",
+      "Başarı, sadece şansa bağlıdır.",
+      "Çalışmanın yanında dinlenmek de gereklidir.",
+      "İnsanlar, farklı alanlarda yeteneklidir.",
+      "Başarı, herkesin ulaşabileceği bir hedeftir."
     ],
-    "correctAnswer": 2,
-    "explanation": "Bu cümle, kış mevsiminin genel etkisini ve doğadaki zorlukları vurguladığı için ana fikri en iyi şekilde ifade etmektedir.",
+    "correctAnswer": 0,
+    "explanation": "Ana fikir, paragrafa yön veren temel düşüncedir. İlk seçenek, çalışmanın önemini vurgulayarak ana fikri ifade etmektedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519425608_1",
+    "id": "ai_1764520393270_1",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki paragrafa göre, sanatın toplum üzerindeki etkisi nedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın detaylandırıcı unsuru olarak kullanılabilir?",
     "options": [
-      "Sanat, bireylerin düşüncelerini şekillendirir.",
-      "Sanat, sadece eğlence aracı olarak görülmelidir.",
-      "Sanat, toplumun kültürel kimliğini oluşturan bir unsurdur.",
-      "Sanat, ekonomik kazanç sağlamanın bir yoludur.",
-      "Sanat, bireysel duyguları ifade etmenin tek yoludur."
+      "Çocukların eğitimde rolü büyüktür.",
+      "Eğitim, bireylerin geleceğini şekillendirir.",
+      "Daha fazla kitap okumak, bilgiyi artırır.",
+      "Çocukların eğitimdeki rolü, toplumsal gelişim açısından önemlidir.",
+      "Eğitim sistemi, sürekli olarak güncellenmelidir."
     ],
-    "correctAnswer": 2,
-    "explanation": "Paragrafta sanatın toplumsal kimlik üzerindeki etkisi vurgulanmaktadır, bu nedenle en uygun seçenek budur.",
+    "correctAnswer": 3,
+    "explanation": "Detaylandırıcı unsurlar, ana fikri destekleyen açıklamalardır. Dördüncü seçenek, çocukların eğitimdeki rolünü açıklayarak detaylandırıcı bir unsur sunmaktadır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519425608_2",
+    "id": "ai_1764520393270_2",
     "subjectId": "tur",
     "topic": "Paragraf",
-    "questionText": "Aşağıdaki cümlelerden hangisi, bir paragrafın destekleyici cümlesi olarak kabul edilebilir?",
+    "questionText": "Aşağıdaki paragrafa en uygun başlık hangisidir?",
     "options": [
-      "Okul, öğrencilerin öğrenim hayatlarının temelidir.",
-      "Okulda birçok farklı etkinlik düzenlenir.",
-      "Okul, çocukların sosyal becerilerini geliştirdiği bir yerdir.",
-      "Okulda ders çalışmak önemlidir.",
-      "Okul, sadece bilgi edinme yeri değildir."
+      "Doğa ve İnsan",
+      "Teknolojinin Gelişimi",
+      "Okumanın Önemi",
+      "Sanat ve Kültür",
+      "Eğitimde Yenilikler"
     ],
     "correctAnswer": 2,
-    "explanation": "Bu cümle, okulun işlevselliği ve önemine dair bir destekleyici bilgi sunarak ana fikri güçlendirmektedir.",
+    "explanation": "Paragrafın içeriği, okumanın bireyler üzerindeki etkilerini ve önemini vurguluyorsa, en uygun başlık 'Okumanın Önemi' olacaktır.",
     "difficulty": 3
   }
 ]
