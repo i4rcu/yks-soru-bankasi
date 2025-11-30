@@ -1,18 +1,50 @@
 [
   {
-    "id": "ai_1764519259618_0",
+    "id": "ai_1764520201176_0",
     "subjectId": "fiz",
     "topic": "Elektrik",
-    "questionText": "Bir iletken üzerinden geçen akım, iletkenin direnci ve gerilimi ile nasıl bir ilişkiye sahiptir?",
+    "questionText": "Bir elektrik devresinde direnç, voltaj ve akım arasındaki ilişkiyi belirten Ohm Yasası'na göre, akımın arttığı durumlarda gerilimin nasıl değişeceği aşağıdakilerden hangisidir?",
     "options": [
-      "Ohm Yasası'na göre akım, dirençle ters orantılıdır.",
-      "Akım, gerilim ile bağımsızdır.",
-      "Ohm Yasası'na göre akım, gerilimle doğru orantılıdır.",
-      "Akım, direnç ile doğru orantılıdır.",
-      "Gerilim, yalnızca dirençten etkilenir."
+      "Gerilim artar",
+      "Gerilim azalır",
+      "Gerilim sabit kalır",
+      "Gerilim sıfıra yaklaşır",
+      "Gerilim değişmez"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ohm Yasası'na göre (V = I * R), direnç sabit olduğunda akım arttıkça gerilim de artar. Bu nedenle, akım arttığında gerilim de artar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520201176_1",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Aşağıdakilerden hangisi elektriksel güç hesaplamasında kullanılan formüldür?",
+    "options": [
+      "P = V / I",
+      "P = I * R",
+      "P = V * I",
+      "P = R / V",
+      "P = I^2 * R"
     ],
     "correctAnswer": 2,
-    "explanation": "Ohm Yasası, bir iletken üzerinden geçen akımın (I), iletkenin gerilimi (V) ile doğrudan orantılı ve direnci (R) ile ters orantılı olduğunu belirtir. Yani, I = V/R şeklinde ifade edilir. Bu nedenle doğru cevap C şıkkıdır.",
+    "explanation": "Elektriksel güç, voltaj (V) ve akım (I) çarpımı ile hesaplanır. Bu nedenle doğru formül P = V * I'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520201176_2",
+    "subjectId": "fiz",
+    "topic": "Elektrik",
+    "questionText": "Bir devredeki toplam direnç, dirençlerin paralel bağlanması durumunda nasıl hesaplanır?",
+    "options": [
+      "R_toplam = R1 + R2 + R3",
+      "1/R_toplam = 1/R1 + 1/R2 + 1/R3",
+      "R_toplam = R1 * R2 * R3",
+      "R_toplam = R1 / R2",
+      "R_toplam = R1 - R2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paralel bağlı dirençlerin toplam direnci, her bir direnç için 1/R toplam formülü ile hesaplanır. Yani, 1/R_toplam = 1/R1 + 1/R2 + 1/R3 şeklindedir.",
     "difficulty": 3
   }
 ]
