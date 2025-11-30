@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764498848935_0",
+    "id": "ai_1764500220717_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Sağlıklı bir insanda, doku kılcallarından geçmekte olan kanda oksijenin hemoglobinden ayrılma eğiliminin artmasında aşağıdakilerden hangisi etkili olmaz?",
-    "options": [
-      "Kan pH değerinin düşmesi",
-      "Kandaki karbondioksit kısmi basıncının artması",
-      "Vücut sıcaklığının artması",
-      "Alveollerdeki oksijen kısmi basıncının yüksek olması",
-      "Kanda laktik asit miktarının artması"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Hemoglobinin oksijeni bağlama veya serbest bırakma eğilimi çeşitli faktörlere bağlıdır. Bu duruma Bohr etkisi denir. Doku kılcallarında hücresel solunum sonucu CO2 artar. CO2'nin artması kan pH'sını düşürür (asitliği artırır). Ayrıca egzersiz gibi durumlarda vücut sıcaklığı ve laktik asit miktarı artar. Bu üç faktör (düşük pH, yüksek CO2, yüksek sıcaklık) hemoglobinin oksijene olan ilgisini azaltır ve oksijenin dokulara daha kolay bırakılmasını sağlar. Ancak, alveollerdeki oksijen kısmi basıncının yüksek olması, oksijenin hemoglobinden ayrılmasını değil, tam tersine hemoglobine bağlanmasını kolaylaştıran bir faktördür. Bu olay akciğer kılcallarında gerçekleşir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498848935_1",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "İnsanda soluk verme (ekspirasyon) sırasında aşağıdaki olaylardan hangisi gerçekleşir?",
+    "questionText": "İnsanlarda normal bir soluk alma (inspirasyon) süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "Diyafram kası kasılarak düzleşir.",
-      "Kaburgalar arası kaslar kasılarak göğüs kafesini yukarı ve dışa doğru hareket ettirir.",
-      "Göğüs boşluğunun hacmi artar.",
-      "Akciğerlerin iç basıncı atmosfer basıncının altına düşer.",
-      "Göğüs boşluğunun hacminin azalmasıyla akciğerler sıkışır ve iç basınç artar."
+      "Kaburgalar arası kaslar kasılarak göğüs kafesini yukarı ve öne doğru hareket ettirir.",
+      "Göğüs boşluğunun hacmi artar, iç basıncı düşer.",
+      "Akciğerler genişler ve akciğer iç basıncı atmosfer basıncının altına düşer.",
+      "Karın boşluğunun hacmi artar ve karın iç basıncı düşer."
     ],
     "correctAnswer": 4,
-    "explanation": "Soluk verme, genellikle pasif bir olaydır. Bu sırada soluk almada kasılan kaslar gevşer. Diyafram kası gevşeyerek kubbeleşir. Kaburgalar arası kaslar gevşer ve göğüs kafesi aşağı ve içe doğru hareket eder. Bu iki olay sonucunda göğüs boşluğunun hacmi azalır. Göğüs boşluğu hacminin azalması, akciğerlerin sıkışmasına ve akciğer içindeki havanın basıncının atmosfer basıncından daha yüksek bir seviyeye çıkmasına neden olur. Bu basınç farkı, havanın akciğerlerden dışarı çıkmasını sağlar. Diğer şıklardaki olaylar (A, B, C) soluk alma (inspirasyon) sırasında gerçekleşir. D şıkkı da soluk alma sırasında gerçekleşen bir durumdur.",
+    "explanation": "Soluk alma sırasında diyafram kası kasılarak aşağı doğru hareket eder ve düzleşir. Bu durum, üstteki göğüs boşluğunun hacmini artırırken, alttaki karın boşluğunu sıkıştırır. Dolayısıyla karın boşluğunun hacmi azalır ve karın iç basıncı artar. Diğer şıklardaki olaylar ise soluk alma sırasında doğru bir şekilde gerçekleşir: Kaburgalar arası kasların kasılması ve diyaframın düzleşmesi göğüs boşluğu hacmini artırır. Hacim artışıyla düşen basınç (akciğer iç basıncı < atmosfer basıncı), havanın akciğerlere dolmasını sağlar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498848935_2",
+    "id": "ai_1764500220717_1",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Kanda karbondioksit taşınması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "Aşağıdakilerden hangisi, kan ile doku hücreleri arasında gerçekleşen gaz alışverişi sırasında karbondioksitin taşınma yollarından biri değildir?",
     "options": [
-      "Karbondioksitin büyük bir bölümü, alyuvarlarda karbonik anhidraz enzimi aracılığıyla bikarbonat iyonlarına dönüştürülerek kan plazmasında taşınır.",
-      "Alyuvarlarda oluşan bikarbonat iyonları, klor iyonları ile yer değiştirerek plazmaya geçer.",
-      "Karbondioksitin bir kısmı doğrudan hemoglobinin amino grubuna bağlanarak karbominohemoglobin şeklinde taşınır.",
-      "Kan plazmasında çözünmüş halde de bir miktar karbondioksit taşınır.",
-      "Karbonik anhidraz enzimi hem doku kılcallarında hem de akciğer kılcallarında sadece tek yönlü reaksiyon gerçekleştirir."
+      "Kan plazmasında çözünmüş olarak taşınması",
+      "Alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin şeklinde taşınması",
+      "Alyuvarlarda karbonik anhidraz enzimiyle su ile birleştirilip plazmaya oksihemoglobin olarak verilmesi",
+      "Kan plazmasında bikarbonat (HCO₃⁻) iyonları şeklinde taşınması",
+      "Alyuvarların sitoplazmasında bikarbonat iyonlarına dönüştürülmesi"
     ],
-    "correctAnswer": 4,
-    "explanation": "Karbondioksit kanda üç şekilde taşınır: 1) Kan plazmasında çözünmüş halde (en az), 2) Hemoglobine bağlanarak (karbominohemoglobin), 3) Bikarbonat iyonları (HCO3-) şeklinde (en fazla). Doku kılcallarında, CO2 alyuvarlara girer ve karbonik anhidraz enzimi ile suyla birleşerek karbonik asit (H2CO3) oluşturur. Karbonik asit daha sonra H+ ve bikarbonat (HCO3-) iyonlarına ayrışır. HCO3-, \"klor kayması\" adı verilen bir olayla plazmaya çıkar. Akciğer kılcallarında ise bu reaksiyonlar tersine işler. Plazmadaki HCO3- tekrar alyuvara girer, H+ ile birleşerek H2CO3'ü oluşturur ve aynı karbonik anhidraz enzimi bu sefer H2CO3'ü CO2 ve H2O'ya parçalar. Dolayısıyla karbonik anhidraz enzimi çift yönlü (tersinir) çalışan bir enzimdir. Bu nedenle E şıkkı yanlıştır.",
+    "correctAnswer": 2,
+    "explanation": "Karbondioksitin kanda taşınmasının üç temel yolu vardır: 1) Çok küçük bir kısmı (%7) kan plazmasında çözünmüş halde. 2) Bir kısmı (%23) alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin (HbCO₂) şeklinde. 3) En büyük kısmı (%70) ise alyuvarlarda karbonik anhidraz enzimi sayesinde su ile birleşerek karbonik aside (H₂CO₃) dönüşür, bu asit de bikarbonat (HCO₃⁻) ve H⁺ iyonlarına ayrışır. Oluşan bikarbonat iyonları plazmaya geçerek taşınır. C şıkkında belirtilen \"oksihemoglobin\" ise hemoglobinin oksijen bağlamış halidir ve oksijenin taşınmasıyla ilgilidir, karbondioksit taşınmasıyla doğrudan bir ilişkisi bu şekilde yoktur. Bu nedenle C şıkkı yanlıştır.",
     "difficulty": 3
   }
 ]
