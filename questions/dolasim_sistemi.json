@@ -1,66 +1,18 @@
 [
   {
-    "id": "ai_1764520359327_1",
+    "id": "ai_1764519392436_2",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
+    "questionText": "Kalp kası hücrelerinin özelliği olan otomatikite, hangi özellik ile sağlanır?",
     "options": [
-      "Düz kas",
-      "İskelet kası",
-      "Kalp kası",
-      "Epitelyal doku",
-      "Bağ doku"
+      "Sinir hücreleri",
+      "Özel hücreler",
+      "Kan akışı",
+      "Hormonlar",
+      "Dışsal uyarılar"
     ],
-    "correctAnswer": 2,
-    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520359327_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdakilerden hangisi insan dolaşım sisteminin ana işlevlerinden biri değildir?",
-    "options": [
-      "Oksijen taşımak",
-      "Karbon dioksit taşımak",
-      "Besin maddelerini taşımak",
-      "Hormonları taşımak",
-      "Sıcaklık düzenlemek"
-    ],
-    "correctAnswer": 4,
-    "explanation": "İnsan dolaşım sistemi, oksijen, karbon dioksit, besin maddeleri ve hormonların taşınmasında önemli rol oynar. Ancak sıcaklık düzenlemek dolaşım sisteminin birincil işlevi değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520359327_2",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
-    "options": [
-      "Aort",
-      "Venöz sistem",
-      "Kapiller damarlar",
-      "Pulmoner arter",
-      "Vena kava"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498820887_0",
-    "subjectId": "biy",
-    "topic": "Dolaşım Sistemi",
-    "questionText": "Starling hipotezine göre, kılcal damarlardan doku sıvısına madde geçişini artıran ve ödem oluşumuna neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
-    "options": [
-      "Kan basıncının normalden yüksek olması",
-      "Kan proteinlerinin (albümin vb.) azalması sonucu kanın osmotik basıncının düşmesi",
-      "Lenf damarlarının tıkanması",
-      "Doku sıvısının osmotik basıncının artması",
-      "Kanın osmotik basıncının normalden yüksek olması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Starling hipotezine göre, kılcal damarlardaki kan basıncı, kanı damar dışına iten temel kuvvettir. Kanın osmotik basıncı (protein osmotik basıncı) ise doku sıvısını damar içine çeken kuvvettir. Ödem, doku sıvısının artması durumudur. A, B, C ve D şıklarındaki durumlar, damardan doku sıvısına madde geçişini artırır veya doku sıvısının geri emilimini azaltarak ödeme yol açar. Kan basıncının artması (A) itici gücü artırır. Kanın osmotik basıncının düşmesi (B) çekici gücü azaltır. Lenf damarlarının tıkanması (C) biriken doku sıvısının dolaşıma katılmasını engeller. Doku sıvısı osmotik basıncının artması (D) doku sıvısının suyu tutma gücünü artırır. Ancak kanın osmotik basıncının normalden yüksek olması (E), damar içine daha fazla sıvı çekilmesine neden olacağından ödem oluşumunu engeller veya azaltır.",
+    "correctAnswer": 1,
+    "explanation": "Kalp kası hücreleri, otomatikite özelliğine sahip özel hücreler (özellikle sinoatriyal düğüm hücreleri) sayesinde kendi kendine uyarılarak kasılma yeteneğine sahiptir.",
     "difficulty": 3
   },
   {
@@ -80,19 +32,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764498820887_2",
+    "id": "ai_1764498820887_0",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Aşağıdaki damarlardan hangisindeki kanın oksijen derişiminin diğerlerinden farklı olması beklenir?",
+    "questionText": "Starling hipotezine göre, kılcal damarlardan doku sıvısına madde geçişini artıran ve ödem oluşumuna neden olabilen faktörler arasında aşağıdakilerden hangisi yer almaz?",
     "options": [
-      "Aort atardamarı",
-      "Böbrek atardamarı",
-      "Akciğer atardamarı",
-      "Karaciğer atardamarı",
-      "Şah damarı (Karotis arteri)"
+      "Kan basıncının normalden yüksek olması",
+      "Kan proteinlerinin (albümin vb.) azalması sonucu kanın osmotik basıncının düşmesi",
+      "Lenf damarlarının tıkanması",
+      "Doku sıvısının osmotik basıncının artması",
+      "Kanın osmotik basıncının normalden yüksek olması"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dolaşım sisteminde atardamarlar genellikle oksijence zengin (temiz) kan taşırken, toplardamarlar oksijence fakir (kirli) kan taşır. Ancak bu kuralın iki önemli istisnası vardır. Akciğer atardamarı, kalbin sağ karıncığından çıkan ve oksijence fakir kanı temizlenmesi için akciğerlere götüren damardır. Akciğer toplardamarı ise akciğerlerde temizlenen oksijence zengin kanı kalbin sol kulakçığına getirir. Soruda verilen şıklardan Aort, Böbrek atardamarı, Karaciğer atardamarı ve Şah damarı sistemik dolaşıma ait atardamarlardır ve hepsi kalbin sol karıncığından pompalanan oksijence zengin kanı taşır. Akciğer atardamarı ise pulmoner (küçük) dolaşıma aittir ve oksijence fakir kan taşıdığı için diğerlerinden farklıdır.",
+    "correctAnswer": 4,
+    "explanation": "Starling hipotezine göre, kılcal damarlardaki kan basıncı, kanı damar dışına iten temel kuvvettir. Kanın osmotik basıncı (protein osmotik basıncı) ise doku sıvısını damar içine çeken kuvvettir. Ödem, doku sıvısının artması durumudur. A, B, C ve D şıklarındaki durumlar, damardan doku sıvısına madde geçişini artırır veya doku sıvısının geri emilimini azaltarak ödeme yol açar. Kan basıncının artması (A) itici gücü artırır. Kanın osmotik basıncının düşmesi (B) çekici gücü azaltır. Lenf damarlarının tıkanması (C) biriken doku sıvısının dolaşıma katılmasını engeller. Doku sıvısı osmotik basıncının artması (D) doku sıvısının suyu tutma gücünü artırır. Ancak kanın osmotik basıncının normalden yüksek olması (E), damar içine daha fazla sıvı çekilmesine neden olacağından ödem oluşumunu engeller veya azaltır.",
     "difficulty": 3
   },
   {
@@ -112,19 +64,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500200762_1",
+    "id": "ai_1764498820887_2",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Sağlıklı bir insanda, sol karıncıktan pompalanan ve oksijence zengin kanın, böbreklere ulaştıktan sonra tekrar sağ kulakçığa dönene kadar izlediği yolda aşağıdaki yapılardan hangisinden geçmesi beklenmez?",
+    "questionText": "Aşağıdaki damarlardan hangisindeki kanın oksijen derişiminin diğerlerinden farklı olması beklenir?",
     "options": [
       "Aort atardamarı",
-      "Böbrek toplardamarı",
+      "Böbrek atardamarı",
       "Akciğer atardamarı",
-      "Alt ana toplardamar",
-      "Böbrek kılcalları"
+      "Karaciğer atardamarı",
+      "Şah damarı (Karotis arteri)"
     ],
     "correctAnswer": 2,
-    "explanation": "Bu soru, büyük kan dolaşımının (sistemik dolaşım) yolunu sormaktadır. Sol karıncıktan pompalanan kan şu yolu izler: Sol karıncık → Aort atardamarı → Böbrek atardamarı → Böbrek kılcalları → Böbrek toplardamarı → Alt ana toplardamar → Sağ kulakçık. Bu yolculuk sırasında kan, vücut dokularını (bu örnekte böbrekleri) dolaşır ve oksijenini bırakıp karbondioksit alır. Akciğer atardamarı ise küçük kan dolaşımının (pulmoner dolaşım) bir parçasıdır. Küçük kan dolaşımı, sağ karıncıktan başlar, kirli kanı akciğer atardamarı ile akciğerlere taşır, kanın temizlenmesini sağlar ve akciğer toplardamarı ile temiz kanı sol kulakçığa geri getirir. Dolayısıyla, sol karıncıktan başlayıp sağ kulakçıkta biten büyük dolaşım sırasında kan akciğer atardamarından geçmez.",
+    "explanation": "Dolaşım sisteminde atardamarlar genellikle oksijence zengin (temiz) kan taşırken, toplardamarlar oksijence fakir (kirli) kan taşır. Ancak bu kuralın iki önemli istisnası vardır. Akciğer atardamarı, kalbin sağ karıncığından çıkan ve oksijence fakir kanı temizlenmesi için akciğerlere götüren damardır. Akciğer toplardamarı ise akciğerlerde temizlenen oksijence zengin kanı kalbin sol kulakçığına getirir. Soruda verilen şıklardan Aort, Böbrek atardamarı, Karaciğer atardamarı ve Şah damarı sistemik dolaşıma ait atardamarlardır ve hepsi kalbin sol karıncığından pompalanan oksijence zengin kanı taşır. Akciğer atardamarı ise pulmoner (küçük) dolaşıma aittir ve oksijence fakir kan taşıdığı için diğerlerinden farklıdır.",
     "difficulty": 3
   },
   {
@@ -144,6 +96,22 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764520359327_2",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Aşağıdaki damar tiplerinden hangisi oksijen açısından zengin kan taşır?",
+    "options": [
+      "Aort",
+      "Venöz sistem",
+      "Kapiller damarlar",
+      "Pulmoner arter",
+      "Vena kava"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aort, kalpten çıkan ve oksijen açısından zengin kanı tüm vücuda taşıyan ana damardır. Venöz sistem ve vena kava ise oksijen açısından fakir kan taşır. Pulmoner arter ise akciğerlere giden, oksijen açısından fakir kan taşır.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764501480375_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
@@ -160,19 +128,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519392436_0",
+    "id": "ai_1764520359327_0",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Dolaşım sisteminde kanın kalpten vücuda pompalanması hangi damar aracılığıyla gerçekleşir?",
+    "questionText": "Aşağıdakilerden hangisi insan dolaşım sisteminin ana işlevlerinden biri değildir?",
     "options": [
-      "Pulmoner Arter",
-      "Aort",
-      "Vena Kava",
-      "Pulmoner Ven",
-      "Koroner Damarlar"
+      "Oksijen taşımak",
+      "Karbon dioksit taşımak",
+      "Besin maddelerini taşımak",
+      "Hormonları taşımak",
+      "Sıcaklık düzenlemek"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kalpten vücuda kanın pompalanması aort damarından gerçekleşir. Aort, kalpten çıkan en büyük atardamardır ve oksijen bakımından zengin kanı vücuda dağıtır.",
+    "correctAnswer": 4,
+    "explanation": "İnsan dolaşım sistemi, oksijen, karbon dioksit, besin maddeleri ve hormonların taşınmasında önemli rol oynar. Ancak sıcaklık düzenlemek dolaşım sisteminin birincil işlevi değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520359327_1",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Kalp kası hangi tür kas dokusundan oluşur?",
+    "options": [
+      "Düz kas",
+      "İskelet kası",
+      "Kalp kası",
+      "Epitelyal doku",
+      "Bağ doku"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kalp kası, sadece kalpte bulunan ve kasılma yeteneğine sahip olan özel bir kas dokusu olan 'kalp kası' (miyokard) olarak adlandırılır. Düz kas ve iskelet kası, farklı işlevlere sahip kas dokularıdır.",
     "difficulty": 3
   },
   {
@@ -192,19 +176,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519392436_2",
+    "id": "ai_1764500200762_1",
     "subjectId": "biy",
     "topic": "Dolaşım Sistemi",
-    "questionText": "Kalp kası hücrelerinin özelliği olan otomatikite, hangi özellik ile sağlanır?",
+    "questionText": "Sağlıklı bir insanda, sol karıncıktan pompalanan ve oksijence zengin kanın, böbreklere ulaştıktan sonra tekrar sağ kulakçığa dönene kadar izlediği yolda aşağıdaki yapılardan hangisinden geçmesi beklenmez?",
     "options": [
-      "Sinir hücreleri",
-      "Özel hücreler",
-      "Kan akışı",
-      "Hormonlar",
-      "Dışsal uyarılar"
+      "Aort atardamarı",
+      "Böbrek toplardamarı",
+      "Akciğer atardamarı",
+      "Alt ana toplardamar",
+      "Böbrek kılcalları"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soru, büyük kan dolaşımının (sistemik dolaşım) yolunu sormaktadır. Sol karıncıktan pompalanan kan şu yolu izler: Sol karıncık → Aort atardamarı → Böbrek atardamarı → Böbrek kılcalları → Böbrek toplardamarı → Alt ana toplardamar → Sağ kulakçık. Bu yolculuk sırasında kan, vücut dokularını (bu örnekte böbrekleri) dolaşır ve oksijenini bırakıp karbondioksit alır. Akciğer atardamarı ise küçük kan dolaşımının (pulmoner dolaşım) bir parçasıdır. Küçük kan dolaşımı, sağ karıncıktan başlar, kirli kanı akciğer atardamarı ile akciğerlere taşır, kanın temizlenmesini sağlar ve akciğer toplardamarı ile temiz kanı sol kulakçığa geri getirir. Dolayısıyla, sol karıncıktan başlayıp sağ kulakçıkta biten büyük dolaşım sırasında kan akciğer atardamarından geçmez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519392436_0",
+    "subjectId": "biy",
+    "topic": "Dolaşım Sistemi",
+    "questionText": "Dolaşım sisteminde kanın kalpten vücuda pompalanması hangi damar aracılığıyla gerçekleşir?",
+    "options": [
+      "Pulmoner Arter",
+      "Aort",
+      "Vena Kava",
+      "Pulmoner Ven",
+      "Koroner Damarlar"
     ],
     "correctAnswer": 1,
-    "explanation": "Kalp kası hücreleri, otomatikite özelliğine sahip özel hücreler (özellikle sinoatriyal düğüm hücreleri) sayesinde kendi kendine uyarılarak kasılma yeteneğine sahiptir.",
+    "explanation": "Kalpten vücuda kanın pompalanması aort damarından gerçekleşir. Aort, kalpten çıkan en büyük atardamardır ve oksijen bakımından zengin kanı vücuda dağıtır.",
     "difficulty": 3
   }
 ]
