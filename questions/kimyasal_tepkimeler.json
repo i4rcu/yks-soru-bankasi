@@ -1,19 +1,35 @@
 [
   {
-    "id": "ai_1764524461945_20",
+    "id": "ai_1764524461945_16",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir çözünürlük tepkimesi değildir?",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir katı madde ile gaz arasında gerçekleşir?",
     "options": [
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
-      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "2Na(s) + Cl2(g) → 2NaCl(s)",
+      "H2O(l) + NaCl(s) → NaCl(aq)",
       "H2(g) + Cl2(g) → 2HCl(g)",
-      "KNO3(s) + H2O(l) → K+(aq) + NO3-(aq)",
-      "C(s) + O2(g) → CO2(g)"
+      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)"
     ],
-    "correctAnswer": 4,
-    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi bir çözünürlük tepkimesi değildir, burada çözünme gerçekleşmez.",
+    "correctAnswer": 0,
+    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi bir katı madde ile gaz arasında gerçekleşir.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821701_16",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir ayrışma tepkimesidir?",
+    "options": [
+      "2H2O → 2H2 + O2",
+      "NaCl → Na + Cl2",
+      "C + O2 → CO2",
+      "H2 + Cl2 → 2HCl",
+      "H2 + I2 → 2HI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2H2O → 2H2 + O2 tepkimesi, bir bileşiğin basit bileşenlerine ayrıştığı bir ayrışma tepkimesidir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764501286645_0",
@@ -32,867 +48,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764524461945_17",
+    "id": "ai_1764526821702_27",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir çözünme tepkimesidir?",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir aşırı çözünme tepkimesidir?",
     "options": [
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)",
-      "C(s) + O2(g) → CO2(g)",
-      "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq) tepkimesi bir çözünme tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526177311_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir redoks tepkimesidir?",
-    "options": [
+      "FeCl3 + 3NaOH → Fe(OH)3 + 3NaCl",
+      "NaOH + HCl → NaCl + H2O",
+      "AgNO3 + NaCl → AgCl + NaNO3",
       "H2 + O2 → 2H2O",
-      "NaCl → Na+ + Cl-",
-      "CaCO3 → CaO + CO2",
-      "HCl + NaOH → NaCl + H2O",
-      "CH4 + O2 → CO2 + H2O"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Redoks tepkimeleri, elektron transferi içeren tepkimelerdir. CH4 + O2 → CO2 + H2O tepkimesinde karbon atomu oksitlenir ve oksijen indirgenir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524461945_22",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir gazın katı hale dönüşümünü gösterir?",
-    "options": [
-      "H2O(g) → H2O(s)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
-      "2H2O(l) → 2H2(g) + O2(g)",
-      "C(s) + O2(g) → CO2(g)"
+      "CaCO3 + HCl → CaCl2 + H2O + CO2"
     ],
     "correctAnswer": 0,
-    "explanation": "H2O(g) → H2O(s) tepkimesi bir gazın katı hale dönüşümünü gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499951496_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "MnO₂(k) + 4HCl(aq) → MnCl₂(aq) + Cl₂(g) + 2H₂O(s)\n\ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "MnO₂ yükseltgen maddedir.",
-      "Manganez (Mn) atomu indirgenmiştir.",
-      "Klor (Cl) atomu yükseltgenmiştir.",
-      "HCl hem indirgen hem de yükseltgen olarak davranmıştır.",
-      "1 mol MnO₂ tepkimeye girdiğinde 2 mol elektron alınır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tepkimedeki elementlerin yükseltgenme basamaklarını inceleyelim:\nGirenler:\n- MnO₂: Oksijen -2, dolayısıyla Mn +4'tür.\n- HCl: Hidrojen +1, dolayısıyla Klor (Cl) -1'dir.\nÜrünler:\n- MnCl₂: Klor -1, dolayısıyla Mn +2'dir.\n- Cl₂: Elementel halde olduğu için Cl 0'dır.\n- H₂O: H +1, O -2'dir.\n\nDeğişimler:\n- **Manganez (Mn):** Yükseltgenme basamağı +4'ten +2'ye düşmüştür. Elektron almıştır, dolayısıyla **indirgenmiştir**. (B doğru). Kendisi indirgenen madde **yükseltgen** maddedir. (A doğru). Mn⁴⁺ + 2e⁻ → Mn²⁺ olduğundan, 1 mol MnO₂ 2 mol elektron alır. (E doğru).\n- **Klor (Cl):** Yükseltgenme basamağı -1'den (HCl'de) 0'a (Cl₂'de) yükselmiştir. Elektron vermiştir, dolayısıyla **yükseltgenmiştir**. (C doğru).\n- **D şıkkının analizi:** HCl'deki klor atomları yükseltgenerek Cl₂ gazını oluşturmuştur, bu da HCl'nin indirgen özellik gösterdiğini kanıtlar. Ancak HCl'deki hiçbir atom indirgenmemiştir. Dolayısıyla HCl sadece indirgen olarak davranmıştır. Bu nedenle bu ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526177311_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir asidik çözeltidir?",
-    "options": [
-      "NaOH",
-      "K2CO3",
-      "HCl",
-      "NaCl",
-      "Ca(OH)2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "HCl, hidroklorik asit olarak bilinir ve su içinde dissosiyasyon yaparak H+ iyonları verir, bu nedenle asidik bir çözeltidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526177311_5",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki maddelerden hangisi bir bazdır?",
-    "options": [
-      "H2SO4",
-      "NaOH",
-      "HCl",
-      "CH3COOH",
-      "NH4Cl"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaOH, sodyum hidroksit olarak bilinir ve su içinde H+ iyonlarını azaltarak baz özellik gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526177311_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi endotermik bir tepkime örneğidir?",
-    "options": [
-      "CaCO3 → CaO + CO2",
-      "NH4Cl + H2O → NH4+ + Cl-",
-      "N2 + 3H2 → 2NH3",
-      "C + O2 → CO2",
-      "H2 + Cl2 → 2HCl"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NH4Cl + H2O → NH4+ + Cl- tepkimesi, ısı alarak gerçekleştiği için endotermik bir tepkimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526177311_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Bir tepkimenin denge durumunu etkileyen faktörlerden biri aşağıdakilerden hangisidir?",
-    "options": [
-      "Sıcaklık",
-      "Basınç",
-      "Konsantrasyon",
-      "Tüm şıklar",
-      "Hız"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kimyasal dengeyi etkileyen faktörler sıcaklık, basınç ve konsantrasyondur. Bu nedenle doğru cevap tüm şıkları içeren 'Tüm şıklar' ifadesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526177311_7",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Oksitlerin asidik veya bazik özelliklerini belirlemede hangi faktör en önemlidir?",
-    "options": [
-      "Metal veya ametal olma durumu",
-      "Ayrışma sıcaklığı",
-      "Molekül ağırlığı",
-      "Bağ türü",
-      "Kristal yapısı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Oksitlerin asidik veya bazik olma durumu, bileşikteki elementin metal veya ametal olmasına bağlıdır. Ametaller genellikle asidik, metaller ise bazik özellik gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520282734_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
-    "options": [
-      "2Na + Cl2 → 2NaCl",
-      "H2 + O2 → 2H2O",
-      "Ca + 2H2O → Ca(OH)2 + H2",
-      "C + O2 → CO",
-      "2Fe2O3 + 3C → 4Fe + 3CO2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2Na + Cl2 → 2NaCl tepkimesi bir redoks tepkimesidir çünkü sodyum elektron vererek oksitlenirken, klor elektron alarak indirgenir. Diğer seçenekler ya redoks değil ya da farklı bir mekanizma içerir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524461945_18",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir tepkime hızını artıran faktör değildir?",
-    "options": [
-      "Sıcaklık artışı",
-      "Yüzey alanının artırılması",
-      "Katalizör kullanımı",
-      "Basıncın artırılması",
-      "Çözücünün miktarının artırılması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Çözücünün miktarının artırılması, tepkime hızını artıran bir faktör değildir. Diğerleri tepkime hızını artırır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461944_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
-    "options": [
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "2Na(s) + Cl2(g) → 2NaCl(s)",
-      "2H2(g) + O2(g) → 2H2O(l)",
-      "CaO(s) + CO2(g) → CaCO3(s)",
-      "C6H12O6(s) + 6O2(g) → 6CO2(g) + 6H2O(l)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "2Na(s) + Cl2(g) → 2NaCl(s) tepkimesi, sodyumun elektron vermesi ve klorun elektron alması ile redoks tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499951495_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "I.  CaCO₃(k) → CaO(k) + CO₂(g)\nII. 2H₂(g) + O₂(g) → 2H₂O(s)\nIII. Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)\n\nYukarıda verilen tepkimelerin türleri aşağıdakilerden hangisinde doğru olarak sınıflandırılmıştır?",
-    "options": [
-      "I. Analiz, II. Sentez, III. Çözünme-çökelme",
-      "I. Sentez, II. Yanma, III. Asit-baz",
-      "I. Analiz, II. Sentez, III. Yer değiştirme",
-      "I. Yanma, II. Analiz, III. Sentez",
-      "I. Asit-baz, II. Yanma, III. Yer değiştirme"
-    ],
-    "correctAnswer": 2,
-    "explanation": "I. Tepkime (Analiz/Ayrışma): CaCO₃(k) → CaO(k) + CO₂(g) tepkimesinde, bir bileşik (kalsiyum karbonat) ısıtılarak daha basit yapılı iki farklı maddeye (kalsiyum oksit ve karbondioksit) ayrışmıştır. Bu tür tepkimelere analiz (ayrışma) tepkimesi denir.\nII. Tepkime (Sentez/Oluşum): 2H₂(g) + O₂(g) → 2H₂O(s) tepkimesinde, iki farklı element (hidrojen ve oksijen) birleşerek yeni bir bileşik (su) oluşturmuştur. Bu tür tepkimelere sentez (oluşum) tepkimesi denir. Bu tepkime aynı zamanda bir yanma tepkimesidir, ancak sentez daha genel bir sınıflandırmadır.\nIII. Tepkime (Yer Değiştirme): Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g) tepkimesinde, aktif bir metal olan çinko (Zn), hidroklorik asitteki hidrojenden (H) daha aktif olduğu için onun yerine geçerek hidrojen gazı açığa çıkarmıştır. Bir elementin bir bileşikteki başka bir elementin yerini almasıyla gerçekleşen bu tür tepkimelere yer değiştirme (tekli yer değiştirme) tepkimesi denir.\nBu nedenle doğru sınıflandırma 'Analiz, Sentez, Yer değiştirme' şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499951496_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında, suda az çözünen gümüş klorür (AgCl) katısı oluşur. Bu olaya ilişkin net iyon denklemi aşağıdakilerden hangisidir?",
-    "options": [
-      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
-      "Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)",
-      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
-      "Ag⁺(aq) + NaCl(k) → AgCl(k) + Na⁺(aq)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "1. **Moleküler Denklem:** İlk olarak tepkimenin denkleştirilmiş moleküler denklemi yazılır: AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılarak yazılır. Katı, sıvı ve gazlar moleküler halde bırakılır. Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)\n3. **Seyirci İyonların Belirlenmesi:** Tepkimeye girmeyen, yani denklemin her iki tarafında da aynı formda bulunan iyonlar 'seyirci iyon' olarak adlandırılır. Bu tepkimede Na⁺(aq) ve NO₃⁻(aq) iyonları seyirci iyonlardır.\n4. **Net İyon Denklemi:** Seyirci iyonlar tam iyonik denklemden çıkarılarak net iyon denklemi elde edilir. Bu denklem, çökelmeyi oluşturan asıl kimyasal değişimi gösterir. Ag⁺(aq) + Cl⁻(aq) → AgCl(k)\nBu nedenle doğru cevap D şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524461945_15",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir hidrasyon tepkimesidir?",
-    "options": [
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
-      "H2(g) + O2(g) → 2H2O(l)",
-      "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)",
-      "CaO(s) + H2O(l) → Ca(OH)2(aq)",
-      "C(s) + O2(g) → CO2(g)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq) tepkimesi bir hidrasyon tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_16",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir katı madde ile gaz arasında gerçekleşir?",
-    "options": [
-      "C(s) + O2(g) → CO2(g)",
-      "2Na(s) + Cl2(g) → 2NaCl(s)",
-      "H2O(l) + NaCl(s) → NaCl(aq)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi bir katı madde ile gaz arasında gerçekleşir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_13",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi hidrojen peroksidin ayrışma tepkimesidir?",
-    "options": [
-      "2H2O2(l) → 2H2O(l) + O2(g)",
-      "H2(g) + O2(g) → 2H2O(l)",
-      "2H2O(l) → 2H2(g) + O2(g)",
-      "H2O(g) + O2(g) → 2H2O(l)",
-      "H2O2(l) + H2(g) → 2H2O(l)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2H2O2(l) → 2H2O(l) + O2(g) tepkimesi hidrojen peroksidin ayrışma tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_10",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir asit ile bir baz arasında gerçekleşir?",
-    "options": [
-      "H2SO4(aq) + NaOH(aq) → Na2SO4(aq) + 2H2O(l)",
-      "HCl(aq) + NH3(aq) → NH4Cl(aq)",
-      "C6H12O6(s) + O2(g) → CO2(g) + H2O(l)",
-      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)",
-      "H2(g) + Cl2(g) → 2HCl(g)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "HCl(aq) + NH3(aq) → NH4Cl(aq) tepkimesi asit-baz tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526177311_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir çift yönlü tepkimedir?",
-    "options": [
-      "A + B → C",
-      "C + D → E",
-      "F → G + H",
-      "2H2 + O2 ↔ 2H2O",
-      "X + Y → Z"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Çift yönlü tepkimeler, hem ileri hem de geri yönlü gerçekleşebilen tepkimelerdir. 2H2 + O2 ↔ 2H2O, bu tanıma uygun bir örnektir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524461944_5",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi heterojen denge örneğidir?",
-    "options": [
-      "H2(g) + I2(g) ⇌ 2HI(g)",
-      "2NO2(g) ⇌ N2O4(g)",
-      "C(s) + CO2(g) ⇌ 2CO(g)",
-      "H2O(l) ⇌ H2(g) + O2(g)",
-      "2H2(g) + O2(g) ⇌ 2H2O(l)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C(s) + CO2(g) ⇌ 2CO(g) tepkimesi katı ve gaz fazları arasında bir denge kurar, bu nedenle heterojen dengedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526177311_6",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir dehidrasyon tepkimesidir?",
-    "options": [
-      "C6H12O6 → 2C2H5OH + 2CO2",
-      "C2H5OH + H2O → C2H6 + O2",
-      "C2H5OH → C2H4 + H2O",
-      "H2 + O2 → H2O",
-      "C + O2 → CO2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C2H5OH → C2H4 + H2O tepkimesinde bir su molekülü çıkarıldığı için bu tepkime bir dehidrasyon tepkimesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524461944_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi endotermik bir tepkimeyi temsil eder?",
-    "options": [
-      "N2(g) + 3H2(g) → 2NH3(g)",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "C(s) + O2(g) → CO2(g)",
-      "2H2O(l) → 2H2(g) + O2(g)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "2H2O(l) → 2H2(g) + O2(g) tepkimesi endotermikdir çünkü suyun elektrolizi sırasında enerji gereklidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461944_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermiktir?",
-    "options": [
-      "2H2(g) + O2(g) → 2H2O(l)",
-      "C(s) + O2(g) → CO2(g)",
-      "N2(g) + 3H2(g) → 2NH3(g)",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "H2(g) + Cl2(g) → 2HCl(g)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü enerji açığa çıkar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519329695_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermik bir tepki olarak sınıflandırılabilir?",
-    "options": [
-      "A + B → C + D + enerji",
-      "X + Y → Z + ısı",
-      "2H₂ + O₂ → 2H₂O + 572 kJ",
-      "C + O₂ → CO₂ + ısı",
-      "D + E → F + G"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ekzotermik tepkimeler, çevreye enerji (genellikle ısı) salan tepkimelerdir. 2H₂ + O₂ → 2H₂O + 572 kJ tepkimesi su oluşumu sırasında 572 kJ enerji saldığı için ekzotermik bir tepkimedir. Diğer seçeneklerde ya enerji çıkışı belirtilmemiş ya da ekzotermik bir özellik taşımamaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501286645_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Sulu ortamda gerçekleşen gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) çözeltilerinin karıştırılması sonucu gümüş klorür (AgCl) katısı çökmektedir. Bu olaya ait net iyon denklemi aşağıdakilerden hangisidir?",
-    "options": [
-      "Na⁺(suda) + NO₃⁻(suda) → NaNO₃(suda)",
-      "Ag⁺(suda) + Cl⁻(suda) → AgCl(k)",
-      "AgNO₃(suda) + NaCl(suda) → AgCl(k) + NaNO₃(suda)",
-      "Ag⁺(suda) + NO₃⁻(suda) + Na⁺(suda) + Cl⁻(suda) → AgCl(k) + Na⁺(suda) + NO₃⁻(suda)",
-      "Ag(k) + Cl(g) → AgCl(k)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi yazılırken şu adımlar izlenir:\n1. **Moleküler Denklem:** Tepkimenin tam denklemi yazılır.\nAgNO₃(suda) + NaCl(suda) → AgCl(k) + NaNO₃(suda)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılır. Çöken katı (AgCl) ise moleküler halde kalır.\nAg⁺(suda) + NO₃⁻(suda) + Na⁺(suda) + Cl⁻(suda) → AgCl(k) + Na⁺(suda) + NO₃⁻(suda)\n3. **Net İyon Denklemi:** Tepkimenin her iki tarafında da değişmeden kalan iyonlar (seyirci iyonlar) denklemden çıkarılır. Bu tepkimede Na⁺ ve NO₃⁻ iyonları seyirci iyonlardır.\nSeyirci iyonlar çıkarıldığında geriye sadece çökeltiyi oluşturan iyonların denklemi kalır. Bu da net iyon denklemidir:\nAg⁺(suda) + Cl⁻(suda) → AgCl(k)\nDolayısıyla doğru cevap B şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524461945_19",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir faz değişimi gösterir?",
-    "options": [
-      "H2O(l) → H2O(g)",
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
-      "C(s) + O2(g) → CO2(g)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "2H2(g) + O2(g) → 2H2O(l)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "H2O(l) → H2O(g) tepkimesi bir faz değişimini gösterir çünkü sıvı su buhara dönüşmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501286645_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıda verilen redoks tepkimesi ile ilgili:\n\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\nyargılarından hangileri doğrudur?\n\nI. Zn metali yükseltgenmiştir.\nII. HCl bileşiğindeki H⁺ iyonu indirgendir.\nIII. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.",
-    "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "I ve III",
-      "II ve III"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Tepkimedeki atomların yükseltgenme basamaklarını inceleyelim:\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\n- Girenlerdeki Zn(k) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n- Girenlerdeki HCl'de H, +1; Cl, -1 değerliklidir.\n- Ürünlerdeki ZnCl₂'de Cl, -1; Zn, +2 değerliklidir.\n- Ürünlerdeki H₂(g) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n\nDeğişimleri değerlendirelim:\n- **Zn:** 0'dan +2'ye yükseltgenmiştir. (Elektron vermiştir.)\n- **H:** +1'den 0'a indirgenmiştir. (Elektron almıştır.)\n- **Cl:** -1'den -1'e, yükseltgenme basamağı değişmemiştir.\n\nŞimdi öncülleri analiz edelim:\n**I. Zn metali yükseltgenmiştir.** Çinko (Zn) atomunun yükseltgenme basamağı 0'dan +2'ye çıktığı için elektron vermiş ve yükseltgenmiştir. Bu ifade **doğrudur**.\n**II. HCl bileşiğindeki H⁺ iyonu indirgendir.** HCl'deki H⁺ iyonu elektron alarak H₂'ye indirgenmiştir. Elektron alarak indirgenen madde, karşısındaki maddeyi yükseltgediği için **yükseltgen** özellik gösterir. İndirgen özellik gösteren ise Zn'dir. Bu ifade **yanlıştır**.\n**III. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.** Verilen tepkime denklemi (Zn + 2HCl → ZnCl₂ + H₂) zaten denktir. Girenlerde 1 Zn, 2 H, 2 Cl; ürünlerde 1 Zn, 2 Cl, 2 H atomu vardır. Bu denklemde ZnCl₂'nin katsayısı 1'dir. Bu ifade **yanlıştır**.\n\nSonuç olarak, sadece I. öncül doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524461945_8",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi çift yönlü bir tepkimedir?",
-    "options": [
-      "A + B ⇌ C + D",
-      "2H2(g) + O2(g) → 2H2O(l)",
-      "C + O2 → CO2",
-      "A + B → C",
-      "C + D → A + B"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A + B ⇌ C + D tepkimesi çift yönlü bir tepkimedir, hem ileri hem geri yönlü tepkimeleri gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461944_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki denklemlerden hangisi denge tepkimesini gösterir?",
-    "options": [
-      "N2(g) + 3H2(g) ⇌ 2NH3(g)",
-      "H2O(l) → H2(g) + O2(g)",
-      "2Na(s) + Cl2(g) → 2NaCl(s)",
-      "C(s) + O2(g) → CO2(g)",
-      "CaCO3(s) → CaO(s) + CO2(g)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "N2(g) + 3H2(g) ⇌ 2NH3(g) tepkimesi denge tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498573456_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Propan (C₃H₈) gazının tam yanması sonucu karbondioksit (CO₂) ve su (H₂O) oluşmaktadır. Bu tepkimenin denklemi en küçük tam sayılarla denkleştirildiğinde, oksijenin (O₂) katsayısı kaç olur?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "7"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yanma tepkimesinin denklemi C₃H₈ + O₂ → CO₂ + H₂O şeklindedir. Denkleştirme için önce karbon (C), sonra hidrojen (H) ve en son oksijen (O) atomları denkleştirilir.\n1. Karbon denkleştirme: Girenlerde 3 C atomu var, ürünlere 3 CO₂ yazılır. C₃H₈ + O₂ → 3CO₂ + H₂O\n2. Hidrojen denkleştirme: Girenlerde 8 H atomu var, ürünlere 4 H₂O yazılır. C₃H₈ + O₂ → 3CO₂ + 4H₂O\n3. Oksijen denkleştirme: Ürünlerde (3x2) + (4x1) = 10 O atomu var. Girenlerde de 10 O atomu olması için O₂'nin katsayısı 5 olmalıdır.\nDenkleştirilmiş tam denklem: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Dolayısıyla O₂'nin katsayısı 5'tir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524461945_21",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir gazın sıvıya dönüşümünü gösterir?",
-    "options": [
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "H2O(g) → H2O(l)",
-      "C(s) + O2(g) → CO2(g)",
-      "2H2O(l) → 2H2(g) + O2(g)",
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2O(g) → H2O(l) tepkimesi bir gazın sıvıya dönüşümünü gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_11",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir redoks tepkimesi değildir?",
-    "options": [
-      "Zn(s) + CuSO4(aq) → ZnSO4(aq) + Cu(s)",
-      "2Na(s) + Cl2(g) → 2NaCl(s)",
-      "C(s) + O2(g) → CO2(g)",
-      "H2(g) + O2(g) → 2H2O(l)",
-      "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)"
-    ],
-    "correctAnswer": 4,
-    "explanation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l) tepkimesi redoks tepkimesi değildir çünkü burada elektron transferi yoktur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461944_6",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir sentez tepkimesidir?",
-    "options": [
-      "2H2(g) + O2(g) → 2H2O(l)",
-      "C(s) + O2(g) → CO2(g)",
-      "CaO(s) + CO2(g) → CaCO3(s)",
-      "2Na(s) + Cl2(g) → 2NaCl(s)",
-      "H2(g) + Cl2(g) → 2HCl(g)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2H2(g) + O2(g) → 2H2O(l) tepkimesi sentez tepkimesidir, iki basit madde bir araya gelerek daha karmaşık bir madde oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_9",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir ayrışma tepkimesidir?",
-    "options": [
-      "2NaCl(s) → 2Na(s) + Cl2(g)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "C + O2 → CO2",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "CaCO3(s) → CaO(s) + CO2(g) tepkimesi bir ayrışma tepkimesidir, bir bileşen iki veya daha fazla bileşene ayrılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_14",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki denklemlerden hangisi gaz fazında bir tepkimeyi gösterir?",
-    "options": [
-      "2H2(g) + O2(g) → 2H2O(l)",
-      "N2(g) + 3H2(g) ⇌ 2NH3(g)",
-      "C(s) + O2(g) → CO2(g)",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "H2O(l) ↔ H2(g) + O2(g)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "N2(g) + 3H2(g) ⇌ 2NH3(g) tepkimesi tamamen gaz fazında gerçekleşen bir tepkimedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520282734_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi ekzotermik bir tepkimedir?",
-    "options": [
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "C(s) + O2(g) → CO2(g)",
-      "N2(g) + 3H2(g) → 2NH3(g)",
-      "2H2O(l) → 2H2(g) + O2(g)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü dışarıya ısı verir. Diğer seçenekler ya endotermik ya da farklı bir özellik taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520282734_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
-    "options": [
-      "NaOH",
-      "HCl",
-      "K2CO3",
-      "Ca(OH)2",
-      "MgO"
-    ],
-    "correctAnswer": 1,
-    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498573457_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Sülfürik asit (H₂SO₄) ve potasyum hidroksit (KOH) çözeltileri arasında tam nötralleşme tepkimesi gerçekleşiyor. Bu tepkime sonucunda oluşan ana ürünler aşağıdakilerden hangisinde doğru olarak verilmiştir?",
-    "options": [
-      "Potasyum sülfit (K₂SO₃) ve su (H₂O)",
-      "Potasyum sülfat (K₂SO₄) ve hidrojen gazı (H₂)",
-      "Potasyum (K), kükürt (S) ve su (H₂O)",
-      "Potasyum sülfat (K₂SO₄) ve su (H₂O)",
-      "Potasyum hidrosülfat (KHSO₄) ve su (H₂O)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu bir asit-baz nötralleşme tepkimesidir. Asitten gelen H⁺ iyonu ile bazdan gelen OH⁻ iyonu birleşerek suyu (H₂O) oluşturur. Geriye kalan iyonlar ise tuzu oluşturur. Asitten SO₄²⁻ (sülfat) iyonu ve bazdan K⁺ (potasyum) iyonu gelir. Bu iyonların birleşmesiyle potasyum sülfat (K₂SO₄) tuzu oluşur. Denkleştirilmiş tepkime şöyledir: H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l). Dolayısıyla ürünler potasyum sülfat ve sudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524461944_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerin hangisi bir asit-baz tepkimesidir?",
-    "options": [
-      "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)",
-      "NH3(g) + HCl(g) → NH4Cl(s)",
-      "Ca(OH)2(aq) + H2SO4(aq) → CaSO4(s) + 2H2O(l)",
-      "H2(g) + F2(g) → 2HF(g)",
-      "C(s) + O2(g) → CO2(g)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l) tepkimesi bir asit-baz tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461945_12",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir sentez tepkimesidir?",
-    "options": [
-      "2H2(g) + O2(g) → 2H2O(l)",
-      "C(s) + O2(g) → CO2(g)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "CaO(s) + CO2(g) → CaCO3(s)",
-      "2Na(s) + Cl2(g) → 2NaCl(s)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "CaO(s) + CO2(g) → CaCO3(s) tepkimesi sentez tepkimesidir, iki madde birleşerek yeni bir madde oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524461944_7",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki kimyasal denklemlerden hangisi yanma tepkimesidir?",
-    "options": [
-      "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)",
-      "CaCO3(s) → CaO(s) + CO2(g)",
-      "2Fe(s) + 3Cl2(g) → 2FeCl3(s)",
-      "H2(g) + Cl2(g) → 2HCl(g)",
-      "N2(g) + 3H2(g) → 2NH3(g)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l) tepkimesi bir yanma tepkimesidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499951496_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Kapalı bir kapta 14 gram N₂ gazı ile 6 gram H₂ gazı, N₂(g) + 3H₂(g) → 2NH₃(g) denklemine göre tam verimle tepkimeye sokuluyor. Tepkime sonunda kapta hangi maddelerden kaçar gram bulunur? (N: 14 g/mol, H: 1 g/mol)",
-    "options": [
-      "17 g NH₃ ve 3 g H₂",
-      "20 g NH₃",
-      "17 g NH₃",
-      "8,5 g NH₃ ve 7 g N₂",
-      "17 g NH₃ ve 1 g H₂"
-    ],
-    "correctAnswer": 0,
-    "explanation": "1. **Mol Hesaplaması:** Tepkimeye giren maddelerin mol sayıları bulunur.\n   - n(N₂) = kütle / mol kütlesi = 14 g / (2 * 14 g/mol) = 0,5 mol N₂\n   - n(H₂) = kütle / mol kütlesi = 6 g / (2 * 1 g/mol) = 3,0 mol H₂\n2. **Sınırlayıcı Bileşenin Belirlenmesi:** Tepkime denklemine göre 1 mol N₂ ile 3 mol H₂ tepkimeye girer.\n   - Elimizdeki 0,5 mol N₂'nin tamamının tepkimeye girmesi için 0,5 * 3 = 1,5 mol H₂ gereklidir.\n   - Elimizde 3,0 mol H₂ bulunmaktadır. Bu miktar, gerekenden (1,5 mol) daha fazladır. Bu nedenle H₂ artar, N₂ ise tamamen tükenir. **Sınırlayıcı bileşen N₂**'dir.\n3. **Hesaplamaların Yapılması:** Bütün hesaplamalar sınırlayıcı bileşen olan N₂'ye göre yapılır.\n   - Harcanan N₂ = 0,5 mol\n   - Harcanan H₂ = 1,5 mol (0,5 mol N₂'nin 3 katı)\n   - Oluşan NH₃ = 1,0 mol (0,5 mol N₂'nin 2 katı)\n4. **Son Durum (Mol):**\n   - Kalan N₂: 0,5 mol - 0,5 mol = 0 mol\n   - Kalan H₂: 3,0 mol - 1,5 mol = 1,5 mol\n   - Oluşan NH₃: 1,0 mol\n5. **Son Durum (Kütle):**\n   - m(H₂) = mol * mol kütlesi = 1,5 mol * 2 g/mol = 3 g H₂\n   - m(NH₃) = mol * mol kütlesi = 1,0 mol * (14 + 3*1) g/mol = 1,0 mol * 17 g/mol = 17 g NH₃\nSonuç olarak, kapta 17 g NH₃ ve 3 g H₂ bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498573456_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında gümüş klorür (AgCl) katısının çöktüğü bir çözünme-çökelme tepkimesi gerçekleşmektedir. Bu tepkimenin net iyon denklemi aşağıdakilerden hangisidir?",
-    "options": [
-      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
-      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
-      "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(suda)",
-      "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi, sadece çökeltiyi oluşturan iyonları ve oluşan katıyı gösterir. Tepkimenin tam iyon denklemi: Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq). Bu denklemde Na⁺ ve NO₃⁻ iyonları tepkimeye girmemiş, sadece ortamda seyirci olarak kalmışlardır. Seyirci iyonlar denklemden çıkarıldığında geriye net iyon denklemi kalır: Ag⁺(aq) + Cl⁻(aq) → AgCl(k).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526821700_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerin hangisi ekzotermiktir?",
-    "options": [
-      "H2 + O2 → 2H2O + enerji",
-      "C + O2 → CO2 + enerji",
-      "N2 + 3H2 → 2NH3 + enerji",
-      "2H2 + O2 → 2H2O",
-      "C6H12O6 + O2 → 6CO2 + 6H2O"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ekzotermik tepkimeler, enerji açığa çıkaran tepkimelerdir. C + O2 → CO2 tepkimesi bu tür bir tepkimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Hangi tepkimede ürünler arasında bir asit-baz tepkimesi gerçekleşir?",
-    "options": [
-      "HCl + NaOH → NaCl + H2O",
-      "CaCO3 + HCl → CaCl2 + H2O + CO2",
-      "2Na + Cl2 → 2NaCl",
-      "2H2 + O2 → 2H2O",
-      "C + O2 → CO2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "HCl ve NaOH arasında gerçekleşen tepkime, asit-baz tepkimesidir ve su ve tuz oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
-    "options": [
-      "2H2 + O2 → 2H2O",
-      "Na + Cl2 → NaCl",
-      "Ca + 2H2O → Ca(OH)2 + H2",
-      "C + O2 → CO2",
-      "H2 + I2 → 2HI"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Na + Cl2 → NaCl tepkimesinde sodyum elektron kaybederken klor elektron kazanır, bu nedenle bir redoks tepkimesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdakilerden hangisi denge sabitini etkilemez?",
-    "options": [
-      "Sıcaklık",
-      "Basınç",
-      "Katalizör",
-      "Reaktant konsantrasyonu",
-      "Ürün konsantrasyonu"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Katalizörler, tepkimenin hızını artırır ama denge sabitini etkilemez.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi endotermiktir?",
-    "options": [
-      "N2 + 3H2 → 2NH3 - enerji",
-      "C + O2 → CO2 + enerji",
-      "H2 + I2 → 2HI + enerji",
-      "2H2 + O2 → 2H2O",
-      "C6H12O6 + O2 → 6CO2 + 6H2O - enerji"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2 + I2 → 2HI tepkimesi enerji gerektiren bir endotermik tepkimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_5",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir bazdır?",
-    "options": [
-      "HCl",
-      "NaOH",
-      "H2SO4",
-      "KCl",
-      "CH3COOH"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaOH, sodyum hidroksit olarak bilinen bir bazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_6",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Sodyum klorür (NaCl) ve su (H2O) arasındaki etkileşim türü nedir?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Van der Waals kuvvetleri",
-      "Hidrofobik etkileşim"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sodyum klorür, iyonik bağ ile oluşan bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_7",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi çift yönlü bir tepkimedir?",
-    "options": [
-      "A + B ⇌ C + D",
-      "A + B → C",
-      "2A → B + C",
-      "C + D → A + B",
-      "A + C → D + B"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Çift yönlü tepkimeler, hem ileri hem de geri yönü olan tepkimelerdir. A + B ⇌ C + D bu tür bir tepkimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_8",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Bir tepkimenin hızını artırmak için hangi faktörlerden biri kullanılabilir?",
-    "options": [
-      "Sıcaklık artırmak",
-      "Basıncı azaltmak",
-      "Reaktant konsantrasyonunu azaltmak",
-      "Katalizörü ortamdan çıkarmak",
-      "Reaksiyonu durdurmak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıcaklığın artırılması, moleküllerin kinetik enerjisini artırarak tepkimenin hızını artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_9",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Hangi bileşen asidik özellik gösterir?",
-    "options": [
-      "NaOH",
-      "K2CO3",
-      "HCl",
-      "Ca(OH)2",
-      "MgO"
-    ],
-    "correctAnswer": 2,
-    "explanation": "HCl, hidroklorik asit olarak bilinen bir asittir ve asidik özellik gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821700_10",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir çözünme tepkimesidir?",
-    "options": [
-      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
-      "HCl + NaOH → NaCl + H2O",
-      "CaCO3 + HCl → CaCl2 + H2O + CO2",
-      "2H2 + O2 → 2H2O",
-      "C + O2 → CO2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl'nin su içerisinde çözünmesi, çözünme tepkimesidir.",
+    "explanation": "FeCl3 + 3NaOH tepkimesi, aşırı çözünme tepkimesidir.",
     "difficulty": 4
   },
   {
@@ -912,20 +80,132 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526821700_12",
+    "id": "ai_1764520282734_1",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Hangi tepkime bir polimerizasyon tepkimesidir?",
+    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
     "options": [
-      "Etilen → Polietilen",
-      "Karbondioksit + Su → Glukoz",
-      "Asetik asit + Amonyak → Asetaminofen",
-      "Metanol + Asetaldehit → Asetaldehit",
-      "Asetik asit + Asetik anhidrit → Asetat"
+      "NaOH",
+      "HCl",
+      "K2CO3",
+      "Ca(OH)2",
+      "MgO"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, hidroklorik asit olarak bilinir ve sulu çözeltisinde asidik özellik gösterir. Diğer seçenekler bazik veya nötr özellik taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498573456_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında gümüş klorür (AgCl) katısının çöktüğü bir çözünme-çökelme tepkimesi gerçekleşmektedir. Bu tepkimenin net iyon denklemi aşağıdakilerden hangisidir?",
+    "options": [
+      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
+      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
+      "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(suda)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(aq)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi, sadece çökeltiyi oluşturan iyonları ve oluşan katıyı gösterir. Tepkimenin tam iyon denklemi: Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq). Bu denklemde Na⁺ ve NO₃⁻ iyonları tepkimeye girmemiş, sadece ortamda seyirci olarak kalmışlardır. Seyirci iyonlar denklemden çıkarıldığında geriye net iyon denklemi kalır: Ag⁺(aq) + Cl⁻(aq) → AgCl(k).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526177311_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki maddelerden hangisi bir bazdır?",
+    "options": [
+      "H2SO4",
+      "NaOH",
+      "HCl",
+      "CH3COOH",
+      "NH4Cl"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NaOH, sodyum hidroksit olarak bilinir ve su içinde H+ iyonlarını azaltarak baz özellik gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461944_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerin hangisi bir asit-baz tepkimesidir?",
+    "options": [
+      "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)",
+      "NH3(g) + HCl(g) → NH4Cl(s)",
+      "Ca(OH)2(aq) + H2SO4(aq) → CaSO4(s) + 2H2O(l)",
+      "H2(g) + F2(g) → 2HF(g)",
+      "C(s) + O2(g) → CO2(g)"
     ],
     "correctAnswer": 0,
-    "explanation": "Etilen'in polimerizasyonu sonucunda polietilen oluşur.",
-    "difficulty": 4
+    "explanation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l) tepkimesi bir asit-baz tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499951496_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "MnO₂(k) + 4HCl(aq) → MnCl₂(aq) + Cl₂(g) + 2H₂O(s)\n\ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "MnO₂ yükseltgen maddedir.",
+      "Manganez (Mn) atomu indirgenmiştir.",
+      "Klor (Cl) atomu yükseltgenmiştir.",
+      "HCl hem indirgen hem de yükseltgen olarak davranmıştır.",
+      "1 mol MnO₂ tepkimeye girdiğinde 2 mol elektron alınır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tepkimedeki elementlerin yükseltgenme basamaklarını inceleyelim:\nGirenler:\n- MnO₂: Oksijen -2, dolayısıyla Mn +4'tür.\n- HCl: Hidrojen +1, dolayısıyla Klor (Cl) -1'dir.\nÜrünler:\n- MnCl₂: Klor -1, dolayısıyla Mn +2'dir.\n- Cl₂: Elementel halde olduğu için Cl 0'dır.\n- H₂O: H +1, O -2'dir.\n\nDeğişimler:\n- **Manganez (Mn):** Yükseltgenme basamağı +4'ten +2'ye düşmüştür. Elektron almıştır, dolayısıyla **indirgenmiştir**. (B doğru). Kendisi indirgenen madde **yükseltgen** maddedir. (A doğru). Mn⁴⁺ + 2e⁻ → Mn²⁺ olduğundan, 1 mol MnO₂ 2 mol elektron alır. (E doğru).\n- **Klor (Cl):** Yükseltgenme basamağı -1'den (HCl'de) 0'a (Cl₂'de) yükselmiştir. Elektron vermiştir, dolayısıyla **yükseltgenmiştir**. (C doğru).\n- **D şıkkının analizi:** HCl'deki klor atomları yükseltgenerek Cl₂ gazını oluşturmuştur, bu da HCl'nin indirgen özellik gösterdiğini kanıtlar. Ancak HCl'deki hiçbir atom indirgenmemiştir. Dolayısıyla HCl sadece indirgen olarak davranmıştır. Bu nedenle bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498573456_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Propan (C₃H₈) gazının tam yanması sonucu karbondioksit (CO₂) ve su (H₂O) oluşmaktadır. Bu tepkimenin denklemi en küçük tam sayılarla denkleştirildiğinde, oksijenin (O₂) katsayısı kaç olur?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yanma tepkimesinin denklemi C₃H₈ + O₂ → CO₂ + H₂O şeklindedir. Denkleştirme için önce karbon (C), sonra hidrojen (H) ve en son oksijen (O) atomları denkleştirilir.\n1. Karbon denkleştirme: Girenlerde 3 C atomu var, ürünlere 3 CO₂ yazılır. C₃H₈ + O₂ → 3CO₂ + H₂O\n2. Hidrojen denkleştirme: Girenlerde 8 H atomu var, ürünlere 4 H₂O yazılır. C₃H₈ + O₂ → 3CO₂ + 4H₂O\n3. Oksijen denkleştirme: Ürünlerde (3x2) + (4x1) = 10 O atomu var. Girenlerde de 10 O atomu olması için O₂'nin katsayısı 5 olmalıdır.\nDenkleştirilmiş tam denklem: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Dolayısıyla O₂'nin katsayısı 5'tir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499951496_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Kapalı bir kapta 14 gram N₂ gazı ile 6 gram H₂ gazı, N₂(g) + 3H₂(g) → 2NH₃(g) denklemine göre tam verimle tepkimeye sokuluyor. Tepkime sonunda kapta hangi maddelerden kaçar gram bulunur? (N: 14 g/mol, H: 1 g/mol)",
+    "options": [
+      "17 g NH₃ ve 3 g H₂",
+      "20 g NH₃",
+      "17 g NH₃",
+      "8,5 g NH₃ ve 7 g N₂",
+      "17 g NH₃ ve 1 g H₂"
+    ],
+    "correctAnswer": 0,
+    "explanation": "1. **Mol Hesaplaması:** Tepkimeye giren maddelerin mol sayıları bulunur.\n   - n(N₂) = kütle / mol kütlesi = 14 g / (2 * 14 g/mol) = 0,5 mol N₂\n   - n(H₂) = kütle / mol kütlesi = 6 g / (2 * 1 g/mol) = 3,0 mol H₂\n2. **Sınırlayıcı Bileşenin Belirlenmesi:** Tepkime denklemine göre 1 mol N₂ ile 3 mol H₂ tepkimeye girer.\n   - Elimizdeki 0,5 mol N₂'nin tamamının tepkimeye girmesi için 0,5 * 3 = 1,5 mol H₂ gereklidir.\n   - Elimizde 3,0 mol H₂ bulunmaktadır. Bu miktar, gerekenden (1,5 mol) daha fazladır. Bu nedenle H₂ artar, N₂ ise tamamen tükenir. **Sınırlayıcı bileşen N₂**'dir.\n3. **Hesaplamaların Yapılması:** Bütün hesaplamalar sınırlayıcı bileşen olan N₂'ye göre yapılır.\n   - Harcanan N₂ = 0,5 mol\n   - Harcanan H₂ = 1,5 mol (0,5 mol N₂'nin 3 katı)\n   - Oluşan NH₃ = 1,0 mol (0,5 mol N₂'nin 2 katı)\n4. **Son Durum (Mol):**\n   - Kalan N₂: 0,5 mol - 0,5 mol = 0 mol\n   - Kalan H₂: 3,0 mol - 1,5 mol = 1,5 mol\n   - Oluşan NH₃: 1,0 mol\n5. **Son Durum (Kütle):**\n   - m(H₂) = mol * mol kütlesi = 1,5 mol * 2 g/mol = 3 g H₂\n   - m(NH₃) = mol * mol kütlesi = 1,0 mol * (14 + 3*1) g/mol = 1,0 mol * 17 g/mol = 17 g NH₃\nSonuç olarak, kapta 17 g NH₃ ve 3 g H₂ bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524461945_19",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir faz değişimi gösterir?",
+    "options": [
+      "H2O(l) → H2O(g)",
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
+      "C(s) + O2(g) → CO2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "2H2(g) + O2(g) → 2H2O(l)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2O(l) → H2O(g) tepkimesi bir faz değişimini gösterir çünkü sıvı su buhara dönüşmektedir.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764526821700_13",
@@ -944,195 +224,19 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526821700_14",
+    "id": "ai_1764526821700_7",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi ısı gerektirir?",
+    "questionText": "Aşağıdaki tepkimelerden hangisi çift yönlü bir tepkimedir?",
     "options": [
-      "C + O2 → CO2",
-      "2H2 + O2 → 2H2O",
-      "2Na + Cl2 → 2NaCl",
-      "N2 + 3H2 → 2NH3 + ısı",
-      "H2 + I2 → 2HI"
-    ],
-    "correctAnswer": 3,
-    "explanation": "N2 + 3H2 → 2NH3 tepkimesi, ısı gerektiren bir endotermiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821701_15",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Hangi tepkime bir sentez tepkimesidir?",
-    "options": [
-      "2H2 + O2 → 2H2O",
-      "C + O2 → CO2",
-      "Na + Cl2 → NaCl",
-      "2Na + 2H2O → 2NaOH + H2",
-      "H2 + O2 → H2O"
+      "A + B ⇌ C + D",
+      "A + B → C",
+      "2A → B + C",
+      "C + D → A + B",
+      "A + C → D + B"
     ],
     "correctAnswer": 0,
-    "explanation": "2H2 + O2 → 2H2O tepkimesi, basit bileşenlerden daha karmaşık bir bileşik oluşturur ve sentez tepkimesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821701_16",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir ayrışma tepkimesidir?",
-    "options": [
-      "2H2O → 2H2 + O2",
-      "NaCl → Na + Cl2",
-      "C + O2 → CO2",
-      "H2 + Cl2 → 2HCl",
-      "H2 + I2 → 2HI"
-    ],
-    "correctAnswer": 0,
-    "explanation": "2H2O → 2H2 + O2 tepkimesi, bir bileşiğin basit bileşenlerine ayrıştığı bir ayrışma tepkimesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821701_17",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki moleküllerden hangisi polar bir moleküldür?",
-    "options": [
-      "CO2",
-      "CH4",
-      "H2O",
-      "O2",
-      "N2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O molekülü, polar bir moleküldür çünkü elektriksel yük dağılımı eşit değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821701_18",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi ısı açığa çıkarır?",
-    "options": [
-      "N2 + 3H2 → 2NH3",
-      "H2 + I2 → 2HI",
-      "C + O2 → CO2",
-      "2H2 + O2 → 2H2O",
-      "Na + Cl2 → NaCl"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C + O2 → CO2 tepkimesi, ısı açığa çıkaran ekzotermik bir tepkimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_19",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki bileşenlerden hangisi en güçlü asittir?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "HNO3",
-      "CH3COOH",
-      "HF"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2SO4, güçlü bir asit olarak bilinir ve en güçlü asitlerden biridir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_20",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir redoks tepkimesi değildir?",
-    "options": [
-      "Fe + CuSO4 → FeSO4 + Cu",
-      "Zn + 2HCl → ZnCl2 + H2",
-      "C + O2 → CO2",
-      "H2 + O2 → H2O",
-      "2AgNO3 + Na2S → Ag2S + 2NaNO3"
-    ],
-    "correctAnswer": 3,
-    "explanation": "H2 + O2 → H2O tepkimesinde redoks süreci yoktur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_21",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Metallerin asitlerle tepkimesi sonucu hangi gaz oluşur?",
-    "options": [
-      "Oksijen",
-      "Hidrojensulfür",
-      "Karbon dioksit",
-      "Hidrojen",
-      "Amonyak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Metallerin asitlerle tepkimesi sonucu genellikle hidrojen gazı oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_22",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki bileşenlerden hangisi çözünmez?",
-    "options": [
-      "NaCl",
-      "AgCl",
-      "K2SO4",
-      "NH4NO3",
-      "Ca(NO3)2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "AgCl, suda çözünmez bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_23",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki bileşiklerden hangisi en güçlü bazdır?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "Ca(OH)2",
-      "NH3",
-      "LiOH"
-    ],
-    "correctAnswer": 1,
-    "explanation": "KOH, güçlü bir bazdır ve en güçlü bazlardan biri olarak kabul edilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_24",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Hangi tepkime bir değişim tepkimesidir?",
-    "options": [
-      "NaCl + AgNO3 → AgCl + NaNO3",
-      "H2 + O2 → H2O",
-      "C + O2 → CO2",
-      "Na + Cl2 → NaCl",
-      "HCl + NaOH → NaCl + H2O"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl + AgNO3 → AgCl + NaNO3 tepkimesi bir değişim tepkimesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526821702_25",
-    "subjectId": "kim",
-    "topic": "Kimyasal Tepkimeler",
-    "questionText": "Hangi molekül asidik özellik göstermez?",
-    "options": [
-      "H2SO4",
-      "HCl",
-      "H3PO4",
-      "NaOH",
-      "HNO3"
-    ],
-    "correctAnswer": 3,
-    "explanation": "NaOH, bir bazdır ve asidik özellik göstermez.",
+    "explanation": "Çift yönlü tepkimeler, hem ileri hem de geri yönü olan tepkimelerdir. A + B ⇌ C + D bu tür bir tepkimedir.",
     "difficulty": 4
   },
   {
@@ -1152,19 +256,67 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526821702_27",
+    "id": "ai_1764526177311_1",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir aşırı çözünme tepkimesidir?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir asidik çözeltidir?",
     "options": [
-      "FeCl3 + 3NaOH → Fe(OH)3 + 3NaCl",
-      "NaOH + HCl → NaCl + H2O",
-      "AgNO3 + NaCl → AgCl + NaNO3",
-      "H2 + O2 → 2H2O",
-      "CaCO3 + HCl → CaCl2 + H2O + CO2"
+      "NaOH",
+      "K2CO3",
+      "HCl",
+      "NaCl",
+      "Ca(OH)2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCl, hidroklorik asit olarak bilinir ve su içinde dissosiyasyon yaparak H+ iyonları verir, bu nedenle asidik bir çözeltidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_14",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki denklemlerden hangisi gaz fazında bir tepkimeyi gösterir?",
+    "options": [
+      "2H2(g) + O2(g) → 2H2O(l)",
+      "N2(g) + 3H2(g) ⇌ 2NH3(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "H2O(l) ↔ H2(g) + O2(g)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "N2(g) + 3H2(g) ⇌ 2NH3(g) tepkimesi tamamen gaz fazında gerçekleşen bir tepkimedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461944_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki denklemlerden hangisi denge tepkimesini gösterir?",
+    "options": [
+      "N2(g) + 3H2(g) ⇌ 2NH3(g)",
+      "H2O(l) → H2(g) + O2(g)",
+      "2Na(s) + Cl2(g) → 2NaCl(s)",
+      "C(s) + O2(g) → CO2(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)"
     ],
     "correctAnswer": 0,
-    "explanation": "FeCl3 + 3NaOH tepkimesi, aşırı çözünme tepkimesidir.",
+    "explanation": "N2(g) + 3H2(g) ⇌ 2NH3(g) tepkimesi denge tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821700_8",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Bir tepkimenin hızını artırmak için hangi faktörlerden biri kullanılabilir?",
+    "options": [
+      "Sıcaklık artırmak",
+      "Basıncı azaltmak",
+      "Reaktant konsantrasyonunu azaltmak",
+      "Katalizörü ortamdan çıkarmak",
+      "Reaksiyonu durdurmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sıcaklığın artırılması, moleküllerin kinetik enerjisini artırarak tepkimenin hızını artırır.",
     "difficulty": 4
   },
   {
@@ -1184,6 +336,646 @@
     "difficulty": 4
   },
   {
+    "id": "ai_1764524461945_8",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi çift yönlü bir tepkimedir?",
+    "options": [
+      "A + B ⇌ C + D",
+      "2H2(g) + O2(g) → 2H2O(l)",
+      "C + O2 → CO2",
+      "A + B → C",
+      "C + D → A + B"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A + B ⇌ C + D tepkimesi çift yönlü bir tepkimedir, hem ileri hem geri yönlü tepkimeleri gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461945_20",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir çözünürlük tepkimesi değildir?",
+    "options": [
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
+      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "KNO3(s) + H2O(l) → K+(aq) + NO3-(aq)",
+      "C(s) + O2(g) → CO2(g)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi bir çözünürlük tepkimesi değildir, burada çözünme gerçekleşmez.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461945_17",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir çözünme tepkimesidir?",
+    "options": [
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq) tepkimesi bir çözünme tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501286645_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Sulu ortamda gerçekleşen gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) çözeltilerinin karıştırılması sonucu gümüş klorür (AgCl) katısı çökmektedir. Bu olaya ait net iyon denklemi aşağıdakilerden hangisidir?",
+    "options": [
+      "Na⁺(suda) + NO₃⁻(suda) → NaNO₃(suda)",
+      "Ag⁺(suda) + Cl⁻(suda) → AgCl(k)",
+      "AgNO₃(suda) + NaCl(suda) → AgCl(k) + NaNO₃(suda)",
+      "Ag⁺(suda) + NO₃⁻(suda) + Na⁺(suda) + Cl⁻(suda) → AgCl(k) + Na⁺(suda) + NO₃⁻(suda)",
+      "Ag(k) + Cl(g) → AgCl(k)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Çözünme-çökelme tepkimelerinde net iyon denklemi yazılırken şu adımlar izlenir:\n1. **Moleküler Denklem:** Tepkimenin tam denklemi yazılır.\nAgNO₃(suda) + NaCl(suda) → AgCl(k) + NaNO₃(suda)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılır. Çöken katı (AgCl) ise moleküler halde kalır.\nAg⁺(suda) + NO₃⁻(suda) + Na⁺(suda) + Cl⁻(suda) → AgCl(k) + Na⁺(suda) + NO₃⁻(suda)\n3. **Net İyon Denklemi:** Tepkimenin her iki tarafında da değişmeden kalan iyonlar (seyirci iyonlar) denklemden çıkarılır. Bu tepkimede Na⁺ ve NO₃⁻ iyonları seyirci iyonlardır.\nSeyirci iyonlar çıkarıldığında geriye sadece çökeltiyi oluşturan iyonların denklemi kalır. Bu da net iyon denklemidir:\nAg⁺(suda) + Cl⁻(suda) → AgCl(k)\nDolayısıyla doğru cevap B şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524461945_15",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir hidrasyon tepkimesidir?",
+    "options": [
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
+      "H2(g) + O2(g) → 2H2O(l)",
+      "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)",
+      "CaO(s) + H2O(l) → Ca(OH)2(aq)",
+      "C(s) + O2(g) → CO2(g)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq) tepkimesi bir hidrasyon tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526177311_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir redoks tepkimesidir?",
+    "options": [
+      "H2 + O2 → 2H2O",
+      "NaCl → Na+ + Cl-",
+      "CaCO3 → CaO + CO2",
+      "HCl + NaOH → NaCl + H2O",
+      "CH4 + O2 → CO2 + H2O"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Redoks tepkimeleri, elektron transferi içeren tepkimelerdir. CH4 + O2 → CO2 + H2O tepkimesinde karbon atomu oksitlenir ve oksijen indirgenir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Hangi tepkimede ürünler arasında bir asit-baz tepkimesi gerçekleşir?",
+    "options": [
+      "HCl + NaOH → NaCl + H2O",
+      "CaCO3 + HCl → CaCl2 + H2O + CO2",
+      "2Na + Cl2 → 2NaCl",
+      "2H2 + O2 → 2H2O",
+      "C + O2 → CO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HCl ve NaOH arasında gerçekleşen tepkime, asit-baz tepkimesidir ve su ve tuz oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_10",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir asit ile bir baz arasında gerçekleşir?",
+    "options": [
+      "H2SO4(aq) + NaOH(aq) → Na2SO4(aq) + 2H2O(l)",
+      "HCl(aq) + NH3(aq) → NH4Cl(aq)",
+      "C6H12O6(s) + O2(g) → CO2(g) + H2O(l)",
+      "CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl(aq) + NH3(aq) → NH4Cl(aq) tepkimesi asit-baz tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461945_18",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir tepkime hızını artıran faktör değildir?",
+    "options": [
+      "Sıcaklık artışı",
+      "Yüzey alanının artırılması",
+      "Katalizör kullanımı",
+      "Basıncın artırılması",
+      "Çözücünün miktarının artırılması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Çözücünün miktarının artırılması, tepkime hızını artıran bir faktör değildir. Diğerleri tepkime hızını artırır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461945_22",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir gazın katı hale dönüşümünü gösterir?",
+    "options": [
+      "H2O(g) → H2O(s)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
+      "2H2O(l) → 2H2(g) + O2(g)",
+      "C(s) + O2(g) → CO2(g)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2O(g) → H2O(s) tepkimesi bir gazın katı hale dönüşümünü gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821701_18",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi ısı açığa çıkarır?",
+    "options": [
+      "N2 + 3H2 → 2NH3",
+      "H2 + I2 → 2HI",
+      "C + O2 → CO2",
+      "2H2 + O2 → 2H2O",
+      "Na + Cl2 → NaCl"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C + O2 → CO2 tepkimesi, ısı açığa çıkaran ekzotermik bir tepkimedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498573457_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Sülfürik asit (H₂SO₄) ve potasyum hidroksit (KOH) çözeltileri arasında tam nötralleşme tepkimesi gerçekleşiyor. Bu tepkime sonucunda oluşan ana ürünler aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "Potasyum sülfit (K₂SO₃) ve su (H₂O)",
+      "Potasyum sülfat (K₂SO₄) ve hidrojen gazı (H₂)",
+      "Potasyum (K), kükürt (S) ve su (H₂O)",
+      "Potasyum sülfat (K₂SO₄) ve su (H₂O)",
+      "Potasyum hidrosülfat (KHSO₄) ve su (H₂O)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu bir asit-baz nötralleşme tepkimesidir. Asitten gelen H⁺ iyonu ile bazdan gelen OH⁻ iyonu birleşerek suyu (H₂O) oluşturur. Geriye kalan iyonlar ise tuzu oluşturur. Asitten SO₄²⁻ (sülfat) iyonu ve bazdan K⁺ (potasyum) iyonu gelir. Bu iyonların birleşmesiyle potasyum sülfat (K₂SO₄) tuzu oluşur. Denkleştirilmiş tepkime şöyledir: H₂SO₄(aq) + 2KOH(aq) → K₂SO₄(aq) + 2H₂O(l). Dolayısıyla ürünler potasyum sülfat ve sudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526821700_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerin hangisi ekzotermiktir?",
+    "options": [
+      "H2 + O2 → 2H2O + enerji",
+      "C + O2 → CO2 + enerji",
+      "N2 + 3H2 → 2NH3 + enerji",
+      "2H2 + O2 → 2H2O",
+      "C6H12O6 + O2 → 6CO2 + 6H2O"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ekzotermik tepkimeler, enerji açığa çıkaran tepkimelerdir. C + O2 → CO2 tepkimesi bu tür bir tepkimedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821702_25",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Hangi molekül asidik özellik göstermez?",
+    "options": [
+      "H2SO4",
+      "HCl",
+      "H3PO4",
+      "NaOH",
+      "HNO3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "NaOH, bir bazdır ve asidik özellik göstermez.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461944_7",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki kimyasal denklemlerden hangisi yanma tepkimesidir?",
+    "options": [
+      "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "2Fe(s) + 3Cl2(g) → 2FeCl3(s)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "N2(g) + 3H2(g) → 2NH3(g)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l) tepkimesi bir yanma tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821700_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi endotermiktir?",
+    "options": [
+      "N2 + 3H2 → 2NH3 - enerji",
+      "C + O2 → CO2 + enerji",
+      "H2 + I2 → 2HI + enerji",
+      "2H2 + O2 → 2H2O",
+      "C6H12O6 + O2 → 6CO2 + 6H2O - enerji"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2 + I2 → 2HI tepkimesi enerji gerektiren bir endotermik tepkimedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821702_19",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki bileşenlerden hangisi en güçlü asittir?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "CH3COOH",
+      "HF"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2SO4, güçlü bir asit olarak bilinir ve en güçlü asitlerden biridir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821702_23",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki bileşiklerden hangisi en güçlü bazdır?",
+    "options": [
+      "NaOH",
+      "KOH",
+      "Ca(OH)2",
+      "NH3",
+      "LiOH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "KOH, güçlü bir bazdır ve en güçlü bazlardan biri olarak kabul edilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_13",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi hidrojen peroksidin ayrışma tepkimesidir?",
+    "options": [
+      "2H2O2(l) → 2H2O(l) + O2(g)",
+      "H2(g) + O2(g) → 2H2O(l)",
+      "2H2O(l) → 2H2(g) + O2(g)",
+      "H2O(g) + O2(g) → 2H2O(l)",
+      "H2O2(l) + H2(g) → 2H2O(l)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2H2O2(l) → 2H2O(l) + O2(g) tepkimesi hidrojen peroksidin ayrışma tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526177311_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir çift yönlü tepkimedir?",
+    "options": [
+      "A + B → C",
+      "C + D → E",
+      "F → G + H",
+      "2H2 + O2 ↔ 2H2O",
+      "X + Y → Z"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Çift yönlü tepkimeler, hem ileri hem de geri yönlü gerçekleşebilen tepkimelerdir. 2H2 + O2 ↔ 2H2O, bu tanıma uygun bir örnektir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
+    "options": [
+      "2H2 + O2 → 2H2O",
+      "Na + Cl2 → NaCl",
+      "Ca + 2H2O → Ca(OH)2 + H2",
+      "C + O2 → CO2",
+      "H2 + I2 → 2HI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Na + Cl2 → NaCl tepkimesinde sodyum elektron kaybederken klor elektron kazanır, bu nedenle bir redoks tepkimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_12",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Hangi tepkime bir polimerizasyon tepkimesidir?",
+    "options": [
+      "Etilen → Polietilen",
+      "Karbondioksit + Su → Glukoz",
+      "Asetik asit + Amonyak → Asetaminofen",
+      "Metanol + Asetaldehit → Asetaldehit",
+      "Asetik asit + Asetik anhidrit → Asetat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Etilen'in polimerizasyonu sonucunda polietilen oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519329695_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermik bir tepki olarak sınıflandırılabilir?",
+    "options": [
+      "A + B → C + D + enerji",
+      "X + Y → Z + ısı",
+      "2H₂ + O₂ → 2H₂O + 572 kJ",
+      "C + O₂ → CO₂ + ısı",
+      "D + E → F + G"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ekzotermik tepkimeler, çevreye enerji (genellikle ısı) salan tepkimelerdir. 2H₂ + O₂ → 2H₂O + 572 kJ tepkimesi su oluşumu sırasında 572 kJ enerji saldığı için ekzotermik bir tepkimedir. Diğer seçeneklerde ya enerji çıkışı belirtilmemiş ya da ekzotermik bir özellik taşımamaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526821702_21",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Metallerin asitlerle tepkimesi sonucu hangi gaz oluşur?",
+    "options": [
+      "Oksijen",
+      "Hidrojensulfür",
+      "Karbon dioksit",
+      "Hidrojen",
+      "Amonyak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Metallerin asitlerle tepkimesi sonucu genellikle hidrojen gazı oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdakilerden hangisi denge sabitini etkilemez?",
+    "options": [
+      "Sıcaklık",
+      "Basınç",
+      "Katalizör",
+      "Reaktant konsantrasyonu",
+      "Ürün konsantrasyonu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Katalizörler, tepkimenin hızını artırır ama denge sabitini etkilemez.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526177311_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Bir tepkimenin denge durumunu etkileyen faktörlerden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Sıcaklık",
+      "Basınç",
+      "Konsantrasyon",
+      "Tüm şıklar",
+      "Hız"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kimyasal dengeyi etkileyen faktörler sıcaklık, basınç ve konsantrasyondur. Bu nedenle doğru cevap tüm şıkları içeren 'Tüm şıklar' ifadesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501286645_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıda verilen redoks tepkimesi ile ilgili:\n\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\nyargılarından hangileri doğrudur?\n\nI. Zn metali yükseltgenmiştir.\nII. HCl bileşiğindeki H⁺ iyonu indirgendir.\nIII. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "I ve III",
+      "II ve III"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tepkimedeki atomların yükseltgenme basamaklarını inceleyelim:\nZn(k) + 2HCl(suda) → ZnCl₂(suda) + H₂(g)\n\n- Girenlerdeki Zn(k) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n- Girenlerdeki HCl'de H, +1; Cl, -1 değerliklidir.\n- Ürünlerdeki ZnCl₂'de Cl, -1; Zn, +2 değerliklidir.\n- Ürünlerdeki H₂(g) elementel halde olduğu için yükseltgenme basamağı 0'dır.\n\nDeğişimleri değerlendirelim:\n- **Zn:** 0'dan +2'ye yükseltgenmiştir. (Elektron vermiştir.)\n- **H:** +1'den 0'a indirgenmiştir. (Elektron almıştır.)\n- **Cl:** -1'den -1'e, yükseltgenme basamağı değişmemiştir.\n\nŞimdi öncülleri analiz edelim:\n**I. Zn metali yükseltgenmiştir.** Çinko (Zn) atomunun yükseltgenme basamağı 0'dan +2'ye çıktığı için elektron vermiş ve yükseltgenmiştir. Bu ifade **doğrudur**.\n**II. HCl bileşiğindeki H⁺ iyonu indirgendir.** HCl'deki H⁺ iyonu elektron alarak H₂'ye indirgenmiştir. Elektron alarak indirgenen madde, karşısındaki maddeyi yükseltgediği için **yükseltgen** özellik gösterir. İndirgen özellik gösteren ise Zn'dir. Bu ifade **yanlıştır**.\n**III. Tepkime en küçük tam sayılarla denkleştirildiğinde ZnCl₂'nin katsayısı 2 olur.** Verilen tepkime denklemi (Zn + 2HCl → ZnCl₂ + H₂) zaten denktir. Girenlerde 1 Zn, 2 H, 2 Cl; ürünlerde 1 Zn, 2 Cl, 2 H atomu vardır. Bu denklemde ZnCl₂'nin katsayısı 1'dir. Bu ifade **yanlıştır**.\n\nSonuç olarak, sadece I. öncül doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526821702_22",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki bileşenlerden hangisi çözünmez?",
+    "options": [
+      "NaCl",
+      "AgCl",
+      "K2SO4",
+      "NH4NO3",
+      "Ca(NO3)2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "AgCl, suda çözünmez bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_14",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi ısı gerektirir?",
+    "options": [
+      "C + O2 → CO2",
+      "2H2 + O2 → 2H2O",
+      "2Na + Cl2 → 2NaCl",
+      "N2 + 3H2 → 2NH3 + ısı",
+      "H2 + I2 → 2HI"
+    ],
+    "correctAnswer": 3,
+    "explanation": "N2 + 3H2 → 2NH3 tepkimesi, ısı gerektiren bir endotermiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir bazdır?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "H2SO4",
+      "KCl",
+      "CH3COOH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NaOH, sodyum hidroksit olarak bilinen bir bazdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_9",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir ayrışma tepkimesidir?",
+    "options": [
+      "2NaCl(s) → 2Na(s) + Cl2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "C + O2 → CO2",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CaCO3(s) → CaO(s) + CO2(g) tepkimesi bir ayrışma tepkimesidir, bir bileşen iki veya daha fazla bileşene ayrılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461944_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi endotermik bir tepkimeyi temsil eder?",
+    "options": [
+      "N2(g) + 3H2(g) → 2NH3(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "2H2O(l) → 2H2(g) + O2(g)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "2H2O(l) → 2H2(g) + O2(g) tepkimesi endotermikdir çünkü suyun elektrolizi sırasında enerji gereklidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821701_17",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki moleküllerden hangisi polar bir moleküldür?",
+    "options": [
+      "CO2",
+      "CH4",
+      "H2O",
+      "O2",
+      "N2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O molekülü, polar bir moleküldür çünkü elektriksel yük dağılımı eşit değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520282734_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi ekzotermik bir tepkimedir?",
+    "options": [
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "C(s) + O2(g) → CO2(g)",
+      "N2(g) + 3H2(g) → 2NH3(g)",
+      "2H2O(l) → 2H2(g) + O2(g)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü dışarıya ısı verir. Diğer seçenekler ya endotermik ya da farklı bir özellik taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524461944_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir sentez tepkimesidir?",
+    "options": [
+      "2H2(g) + O2(g) → 2H2O(l)",
+      "C(s) + O2(g) → CO2(g)",
+      "CaO(s) + CO2(g) → CaCO3(s)",
+      "2Na(s) + Cl2(g) → 2NaCl(s)",
+      "H2(g) + Cl2(g) → 2HCl(g)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2H2(g) + O2(g) → 2H2O(l) tepkimesi sentez tepkimesidir, iki basit madde bir araya gelerek daha karmaşık bir madde oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524461944_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki kimyasal tepkimelerden hangisi ekzotermiktir?",
+    "options": [
+      "2H2(g) + O2(g) → 2H2O(l)",
+      "C(s) + O2(g) → CO2(g)",
+      "N2(g) + 3H2(g) → 2NH3(g)",
+      "CaCO3(s) → CaO(s) + CO2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C(s) + O2(g) → CO2(g) tepkimesi ekzotermik bir tepkimedir çünkü enerji açığa çıkar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526177311_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi endotermik bir tepkime örneğidir?",
+    "options": [
+      "CaCO3 → CaO + CO2",
+      "NH4Cl + H2O → NH4+ + Cl-",
+      "N2 + 3H2 → 2NH3",
+      "C + O2 → CO2",
+      "H2 + Cl2 → 2HCl"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NH4Cl + H2O → NH4+ + Cl- tepkimesi, ısı alarak gerçekleştiği için endotermik bir tepkimedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461944_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
+    "options": [
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "2Na(s) + Cl2(g) → 2NaCl(s)",
+      "2H2(g) + O2(g) → 2H2O(l)",
+      "CaO(s) + CO2(g) → CaCO3(s)",
+      "C6H12O6(s) + 6O2(g) → 6CO2(g) + 6H2O(l)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2Na(s) + Cl2(g) → 2NaCl(s) tepkimesi, sodyumun elektron vermesi ve klorun elektron alması ile redoks tepkimesidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821702_30",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir dekompozisyon tepkimesidir?",
+    "options": [
+      "2H2O → 2H2 + O2",
+      "NaCl + AgNO3 → AgCl + NaNO3",
+      "C + O2 → CO2",
+      "H2 + Cl2 → 2HCl",
+      "H2 + O2 → H2O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2H2O → 2H2 + O2 tepkimesi, bir dekompozisyon tepkimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461944_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi heterojen denge örneğidir?",
+    "options": [
+      "H2(g) + I2(g) ⇌ 2HI(g)",
+      "2NO2(g) ⇌ N2O4(g)",
+      "C(s) + CO2(g) ⇌ 2CO(g)",
+      "H2O(l) ⇌ H2(g) + O2(g)",
+      "2H2(g) + O2(g) ⇌ 2H2O(l)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C(s) + CO2(g) ⇌ 2CO(g) tepkimesi katı ve gaz fazları arasında bir denge kurar, bu nedenle heterojen dengedir.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764526821702_29",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
@@ -1200,19 +992,227 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526821702_30",
+    "id": "ai_1764526821700_9",
     "subjectId": "kim",
     "topic": "Kimyasal Tepkimeler",
-    "questionText": "Aşağıdaki tepkimelerden hangisi bir dekompozisyon tepkimesidir?",
+    "questionText": "Hangi bileşen asidik özellik gösterir?",
     "options": [
-      "2H2O → 2H2 + O2",
+      "NaOH",
+      "K2CO3",
+      "HCl",
+      "Ca(OH)2",
+      "MgO"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCl, hidroklorik asit olarak bilinen bir asittir ve asidik özellik gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_21",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir gazın sıvıya dönüşümünü gösterir?",
+    "options": [
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "H2O(g) → H2O(l)",
+      "C(s) + O2(g) → CO2(g)",
+      "2H2O(l) → 2H2(g) + O2(g)",
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2O(g) → H2O(l) tepkimesi bir gazın sıvıya dönüşümünü gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526821700_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Sodyum klorür (NaCl) ve su (H2O) arasındaki etkileşim türü nedir?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Van der Waals kuvvetleri",
+      "Hidrofobik etkileşim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sodyum klorür, iyonik bağ ile oluşan bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_11",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir redoks tepkimesi değildir?",
+    "options": [
+      "Zn(s) + CuSO4(aq) → ZnSO4(aq) + Cu(s)",
+      "2Na(s) + Cl2(g) → 2NaCl(s)",
+      "C(s) + O2(g) → CO2(g)",
+      "H2(g) + O2(g) → 2H2O(l)",
+      "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l) tepkimesi redoks tepkimesi değildir çünkü burada elektron transferi yoktur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520282734_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi redoks tepkimesidir?",
+    "options": [
+      "2Na + Cl2 → 2NaCl",
+      "H2 + O2 → 2H2O",
+      "Ca + 2H2O → Ca(OH)2 + H2",
+      "C + O2 → CO",
+      "2Fe2O3 + 3C → 4Fe + 3CO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "2Na + Cl2 → 2NaCl tepkimesi bir redoks tepkimesidir çünkü sodyum elektron vererek oksitlenirken, klor elektron alarak indirgenir. Diğer seçenekler ya redoks değil ya da farklı bir mekanizma içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499951496_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Gümüş nitrat (AgNO₃) ve sodyum klorür (NaCl) sulu çözeltileri karıştırıldığında, suda az çözünen gümüş klorür (AgCl) katısı oluşur. Bu olaya ilişkin net iyon denklemi aşağıdakilerden hangisidir?",
+    "options": [
+      "AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)",
+      "Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)",
+      "Na⁺(aq) + NO₃⁻(aq) → NaNO₃(aq)",
+      "Ag⁺(aq) + Cl⁻(aq) → AgCl(k)",
+      "Ag⁺(aq) + NaCl(k) → AgCl(k) + Na⁺(aq)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1. **Moleküler Denklem:** İlk olarak tepkimenin denkleştirilmiş moleküler denklemi yazılır: AgNO₃(aq) + NaCl(aq) → AgCl(k) + NaNO₃(aq)\n2. **Tam İyonik Denklem:** Suda iyi çözünen iyonik bileşikler iyonlarına ayrıştırılarak yazılır. Katı, sıvı ve gazlar moleküler halde bırakılır. Ag⁺(aq) + NO₃⁻(aq) + Na⁺(aq) + Cl⁻(aq) → AgCl(k) + Na⁺(aq) + NO₃⁻(aq)\n3. **Seyirci İyonların Belirlenmesi:** Tepkimeye girmeyen, yani denklemin her iki tarafında da aynı formda bulunan iyonlar 'seyirci iyon' olarak adlandırılır. Bu tepkimede Na⁺(aq) ve NO₃⁻(aq) iyonları seyirci iyonlardır.\n4. **Net İyon Denklemi:** Seyirci iyonlar tam iyonik denklemden çıkarılarak net iyon denklemi elde edilir. Bu denklem, çökelmeyi oluşturan asıl kimyasal değişimi gösterir. Ag⁺(aq) + Cl⁻(aq) → AgCl(k)\nBu nedenle doğru cevap D şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499951495_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "I.  CaCO₃(k) → CaO(k) + CO₂(g)\nII. 2H₂(g) + O₂(g) → 2H₂O(s)\nIII. Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)\n\nYukarıda verilen tepkimelerin türleri aşağıdakilerden hangisinde doğru olarak sınıflandırılmıştır?",
+    "options": [
+      "I. Analiz, II. Sentez, III. Çözünme-çökelme",
+      "I. Sentez, II. Yanma, III. Asit-baz",
+      "I. Analiz, II. Sentez, III. Yer değiştirme",
+      "I. Yanma, II. Analiz, III. Sentez",
+      "I. Asit-baz, II. Yanma, III. Yer değiştirme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "I. Tepkime (Analiz/Ayrışma): CaCO₃(k) → CaO(k) + CO₂(g) tepkimesinde, bir bileşik (kalsiyum karbonat) ısıtılarak daha basit yapılı iki farklı maddeye (kalsiyum oksit ve karbondioksit) ayrışmıştır. Bu tür tepkimelere analiz (ayrışma) tepkimesi denir.\nII. Tepkime (Sentez/Oluşum): 2H₂(g) + O₂(g) → 2H₂O(s) tepkimesinde, iki farklı element (hidrojen ve oksijen) birleşerek yeni bir bileşik (su) oluşturmuştur. Bu tür tepkimelere sentez (oluşum) tepkimesi denir. Bu tepkime aynı zamanda bir yanma tepkimesidir, ancak sentez daha genel bir sınıflandırmadır.\nIII. Tepkime (Yer Değiştirme): Zn(k) + 2HCl(aq) → ZnCl₂(aq) + H₂(g) tepkimesinde, aktif bir metal olan çinko (Zn), hidroklorik asitteki hidrojenden (H) daha aktif olduğu için onun yerine geçerek hidrojen gazı açığa çıkarmıştır. Bir elementin bir bileşikteki başka bir elementin yerini almasıyla gerçekleşen bu tür tepkimelere yer değiştirme (tekli yer değiştirme) tepkimesi denir.\nBu nedenle doğru sınıflandırma 'Analiz, Sentez, Yer değiştirme' şeklindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526177311_7",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Oksitlerin asidik veya bazik özelliklerini belirlemede hangi faktör en önemlidir?",
+    "options": [
+      "Metal veya ametal olma durumu",
+      "Ayrışma sıcaklığı",
+      "Molekül ağırlığı",
+      "Bağ türü",
+      "Kristal yapısı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Oksitlerin asidik veya bazik olma durumu, bileşikteki elementin metal veya ametal olmasına bağlıdır. Ametaller genellikle asidik, metaller ise bazik özellik gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821702_24",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Hangi tepkime bir değişim tepkimesidir?",
+    "options": [
       "NaCl + AgNO3 → AgCl + NaNO3",
+      "H2 + O2 → H2O",
       "C + O2 → CO2",
-      "H2 + Cl2 → 2HCl",
+      "Na + Cl2 → NaCl",
+      "HCl + NaOH → NaCl + H2O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl + AgNO3 → AgCl + NaNO3 tepkimesi bir değişim tepkimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821700_10",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir çözünme tepkimesidir?",
+    "options": [
+      "NaCl(s) + H2O(l) → Na+(aq) + Cl-(aq)",
+      "HCl + NaOH → NaCl + H2O",
+      "CaCO3 + HCl → CaCl2 + H2O + CO2",
+      "2H2 + O2 → 2H2O",
+      "C + O2 → CO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl'nin su içerisinde çözünmesi, çözünme tepkimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524461945_12",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir sentez tepkimesidir?",
+    "options": [
+      "2H2(g) + O2(g) → 2H2O(l)",
+      "C(s) + O2(g) → CO2(g)",
+      "H2(g) + Cl2(g) → 2HCl(g)",
+      "CaO(s) + CO2(g) → CaCO3(s)",
+      "2Na(s) + Cl2(g) → 2NaCl(s)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CaO(s) + CO2(g) → CaCO3(s) tepkimesi sentez tepkimesidir, iki madde birleşerek yeni bir madde oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526177311_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir dehidrasyon tepkimesidir?",
+    "options": [
+      "C6H12O6 → 2C2H5OH + 2CO2",
+      "C2H5OH + H2O → C2H6 + O2",
+      "C2H5OH → C2H4 + H2O",
+      "H2 + O2 → H2O",
+      "C + O2 → CO2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C2H5OH → C2H4 + H2O tepkimesinde bir su molekülü çıkarıldığı için bu tepkime bir dehidrasyon tepkimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821701_15",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Hangi tepkime bir sentez tepkimesidir?",
+    "options": [
+      "2H2 + O2 → 2H2O",
+      "C + O2 → CO2",
+      "Na + Cl2 → NaCl",
+      "2Na + 2H2O → 2NaOH + H2",
       "H2 + O2 → H2O"
     ],
     "correctAnswer": 0,
-    "explanation": "2H2O → 2H2 + O2 tepkimesi, bir dekompozisyon tepkimesidir.",
+    "explanation": "2H2 + O2 → 2H2O tepkimesi, basit bileşenlerden daha karmaşık bir bileşik oluşturur ve sentez tepkimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526821702_20",
+    "subjectId": "kim",
+    "topic": "Kimyasal Tepkimeler",
+    "questionText": "Aşağıdaki tepkimelerden hangisi bir redoks tepkimesi değildir?",
+    "options": [
+      "Fe + CuSO4 → FeSO4 + Cu",
+      "Zn + 2HCl → ZnCl2 + H2",
+      "C + O2 → CO2",
+      "H2 + O2 → H2O",
+      "2AgNO3 + Na2S → Ag2S + 2NaNO3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "H2 + O2 → H2O tepkimesinde redoks süreci yoktur.",
     "difficulty": 4
   }
 ]
