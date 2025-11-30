@@ -1,98 +1,34 @@
 [
   {
-    "id": "ai_1764501322828_0",
+    "id": "ai_1764519337330_0",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Aşağıdaki bileşiklerden hangisi n-pentan'ın (C5H12) yapı izomeridir?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir alkan değildir?",
     "options": [
-      "2-metilpentan",
-      "Siklopentan",
-      "2,2-dimetilpropan",
-      "3-metilhekzan",
-      "Penten"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yapı izomerleri, kapalı formülleri aynı, ancak atomlarının bağlanma düzeni (yapı formülleri) farklı olan bileşiklerdir. n-pentan'ın kapalı formülü C5H12'dir. Şıkları inceleyelim:\nA) 2-metilpentan: C6H14\nB) Siklopentan: C5H10\nC) 2,2-dimetilpropan: C5H12. Kapalı formülü n-pentan ile aynıdır fakat dallanmış bir yapıya sahiptir. Bu nedenle yapı izomeridir.\nD) 3-metilhekzan: C7H16\nE) Penten: C5H10\nDoğru cevap 2,2-dimetilpropan'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_1",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Propen bileşiğine Markovnikov kuralına göre HBr katılması sonucu oluşan ana ürün aşağıdakilerden hangisidir?",
-    "options": [
-      "1-brompropan",
-      "2-brompropan",
-      "1,2-dibrompropan",
-      "Propan",
-      "2-brompropen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alkenlere hidrojen halojenür katılması Markovnikov kuralına göre gerçekleşir. Bu kurala göre, katılan moleküldeki pozitif kısım (H+), ikili bağ karbonlarından hidrojeni çok olana bağlanır. Negatif kısım (Br-) ise hidrojeni az olan ikili bağ karbonuna bağlanır. Propen (CH3-CH=CH2) bileşiğinde, H atomu CH2 grubuna, Br atomu ise CH grubuna bağlanır. Sonuç olarak oluşan ana ürün 2-brompropan'dır (CH3-CHBr-CH3).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_2",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "2-metil-2-bütanol bileşiğinin potasyum permanganat (KMnO4) gibi kuvvetli bir yükseltgen ile tepkimesi sonucu ne oluşur?",
-    "options": [
-      "2-metil-2-bütanon",
-      "2-metilbütanal",
-      "2-metilbütanoik asit",
-      "Penton",
-      "Tepkime gerçekleşmez"
+      "C3H8",
+      "C5H12",
+      "C4H10",
+      "C6H14",
+      "C2H4"
     ],
     "correctAnswer": 4,
-    "explanation": "Alkollerin yükseltgenme tepkimesi verebilmesi için hidroksil (-OH) grubunun bağlı olduğu karbon atomunda en az bir adet hidrojen atomu bulunmalıdır. 2-metil-2-bütanol, -OH grubunun bağlı olduğu karbon atomuna üç başka karbon grubunun bağlandığı bir tersiyer (üçüncül) alkoldür. Bu karbonda hidrojen atomu bulunmadığı için tersiyer alkoller yükseltgenme tepkimesi vermezler.",
+    "explanation": "C2H4, etilen olarak bilinen bir alken bileşiğidir. Alkalar ise sadece tekli bağ içeren doymuş hidrokarbonlardır. Diğer seçenekler doymuş hidrokarbonlardır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764501322828_3",
+    "id": "ai_1764519337330_1",
     "subjectId": "kim",
     "topic": "Organik Kimya",
-    "questionText": "Etil metil eter bileşiği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir substitüsyon reaksiyonuna örnek teşkil eder?",
     "options": [
-      "Fonksiyonel grup izomeri olan bir alkol vardır.",
-      "Asimetrik (karışık) bir eterdir.",
-      "Yoğun fazda molekülleri arasında hidrojen bağı bulunur.",
-      "Kapalı formülü C3H8O'dur.",
-      "Suda çözünürlüğü, izomeri olan alkole göre daha düşüktür."
+      "C2H6 + Cl2 → C2H5Cl + HCl",
+      "C2H4 + H2 → C2H6",
+      "C3H8 + O2 → CO2 + H2O",
+      "C6H6 + H2 → C6H12",
+      "C4H10 + O2 → CO + H2O"
     ],
-    "correctAnswer": 2,
-    "explanation": "Eter molekülleri arasında oksijen atomuna doğrudan bağlı bir hidrojen atomu bulunmadığı için kendi molekülleri arasında hidrojen bağı oluşturamazlar. Bu nedenle kaynama noktaları, aynı karbon sayılı izomerleri olan alkollerden daha düşüktür. Ancak eter moleküllerindeki oksijen atomu, su molekülleri ile hidrojen bağı yapabildiği için suda bir miktar çözünürler. Diğer şıklar doğrudur:\nA) C3H8O kapalı formülüne sahip propanol (1-propanol veya 2-propanol) ile fonksiyonel grup izomeridir.\nB) Oksijen atomuna bağlı alkil grupları (etil ve metil) farklı olduğu için asimetrik eterdir.\nD) Kapalı formülü 3 karbon, 8 hidrojen ve 1 oksijenden oluşur (C3H8O).\nE) Kendi molekülleri arasında hidrojen bağı yapamadığı için, yapabilen izomeri propanole göre suda daha az çözünür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_4",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Asetik asit (etanoik asit) ile etanolün asit katalizörlüğünde tepkimesi sonucu oluşan esterin IUPAC adı nedir?",
-    "options": [
-      "Metil propanoat",
-      "Etil etanoat",
-      "Propil metanoat",
-      "Etil propanoat",
-      "Metil etanoat"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir esterleşme tepkimesidir. Karboksilik asit ile alkol tepkimeye girerek ester ve su oluşturur. Adlandırma yapılırken önce alkolden gelen alkil grubunun adı, sonra karboksilik asitten gelen ve sonuna '-oat' eki getirilen kısmın adı söylenir. Tepkimeye giren alkol etanol (2 karbonlu) olduğu için 'etil' kısmı, asit ise asetik asit (etanoik asit, 2 karbonlu) olduğu için 'etanoat' kısmı gelir. Oluşan esterin adı etil etanoat'tır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501322828_5",
-    "subjectId": "kim",
-    "topic": "Organik Kimya",
-    "questionText": "Benzen (C6H6) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Yapısındaki tüm karbon atomları sp3 hibritleşmesi yapmıştır.",
-      "Alkenler gibi bromlu suyun rengini kolayca giderir.",
-      "Kararlı yapısından dolayı katılma tepkimelerine daha yatkındır.",
-      "Yapısındaki tüm karbon-karbon bağları özdeştir ve uzunlukları tek bağ ile çift bağ arasındadır.",
-      "Doymamış bir hidrokarbon olduğu için düzlemsel yapıda değildir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Benzenin özellikleri:\nA) Yapısındaki tüm karbon atomları bir çift, iki tek bağ yaptığı için sp2 hibritleşmesi yapmıştır.\nB) Aromatik kararlılıktan dolayı alkenler gibi katılma tepkimesi vermez ve bromlu suyun rengini gidermez.\nC) Kararlı yapısından dolayı katılma değil, yer değiştirme (sübstitüsyon) tepkimelerine yatkındır.\nD) Benzendeki pi (π) bağları rezonans nedeniyle halka boyunca delokalizedir (yayılmıştır). Bu durum, tüm karbon-karbon bağlarının özdeş olmasını ve bağ uzunluklarının tek bağdan kısa, çift bağdan uzun olmasını sağlar. Bu ifade doğrudur.\nE) Benzen, sp2 hibritleşmesi yapmış karbon atomlarından dolayı altıgen ve düzlemsel bir molekül yapısına sahiptir.",
+    "correctAnswer": 0,
+    "explanation": "C2H6 + Cl2 → C2H5Cl + HCl reaksiyonu bir substitüsyon reaksiyonudur, burada alkandan bir hidrojen atomu, klor atomu ile yer değiştirir. Diğer reaksiyonlar farklı mekanizmaları temsil eder.",
     "difficulty": 3
   }
 ]
