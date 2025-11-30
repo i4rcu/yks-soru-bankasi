@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764500161478_0",
+    "id": "ai_1764501436482_0",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Bir kara ekosistemindeki besin zinciri 'Ot → Çekirge → Kurbağa → Yılan' şeklindedir. Bu ekosistemde kurbağa popülasyonunun bir hastalık nedeniyle aniden ve büyük ölçüde azalması durumunda, aşağıdaki değişikliklerden hangisinin gerçekleşmesi beklenir?",
+    "questionText": "Bir karasal ekosistemde, üreticilerden son tüketicilere doğru gidildikçe genellikle aşağıdaki grafiklerde gösterilen değişimlerden hangisi gözlenmez?",
     "options": [
-      "Yılan popülasyonu besin bolluğu nedeniyle artar.",
-      "Çekirge popülasyonu üzerindeki avcı baskısı artar.",
-      "Ot miktarı, çekirge popülasyonundaki artışa bağlı olarak azalır.",
-      "Yılanlar arasındaki besin için tür içi rekabet azalır.",
-      "Ekosistemdeki biyolojik çeşitlilik kısa sürede artar."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Besin zincirinde kurbağalar, çekirgelerle beslenen ve yılanlara besin olan bir halkadır. Kurbağa popülasyonunun aniden azalması, onları avlayan yılanlar için besin kıtlığına yol açar. Aynı zamanda, kurbağaların avı olan çekirgeler üzerindeki avcı baskısı ortadan kalkar. Bu durum çekirge popülasyonunun kontrolsüz bir şekilde artmasına neden olur. Artan çekirge popülasyonu ise besin kaynakları olan otları daha fazla tüketeceği için ot miktarında bir azalma gözlenmesi beklenir. Dolayısıyla doğru cevap C şıkkıdır. A şıkkı yanlıştır çünkü yılanların besini azalır. B şıkkı yanlıştır çünkü çekirgelerin avcısı azaldığı için üzerlerindeki baskı azalır. D şıkkı yanlıştır çünkü besin azaldığı için yılanlar arasındaki rekabet artar. E şıkkı yanlıştır çünkü önemli bir halkanın yok olması genellikle biyolojik çeşitliliği olumsuz etkiler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500161478_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Karbon döngüsü, karbon elementinin atmosfer, okyanuslar, kara ve canlılar arasında sürekli bir döngü içinde olmasını ifade eder. İnsan faaliyetleri, bu doğal döngüye müdahale ederek atmosferdeki karbondioksit (CO2) miktarını artırmaktadır. Aşağıdakilerden hangisi, atmosferdeki CO2 miktarını azaltmaya yönelik bir uygulama örneğidir?",
-    "options": [
-      "Sanayi tesislerinde ve enerji üretiminde fosil yakıt kullanımının artırılması",
-      "Tarıma elverişli alanlar açmak için ormanların tahrip edilmesi",
-      "Sulak alanların kurutularak yerleşim alanlarına dönüştürülmesi",
-      "Endüstriyel tarım yerine organik tarım yöntemlerinin teşvik edilmesi",
-      "Geniş ölçekli ağaçlandırma ve erozyon kontrolü çalışmalarının yapılması"
+      "Birey sayısının azaldığı",
+      "Aktarılan enerji miktarının azaldığı",
+      "Biyokütlenin (toplam organik madde miktarı) azaldığı",
+      "Biyolojik birikimin (zehirli madde birikimi) arttığı",
+      "Vücut büyüklüğünün azaldığı"
     ],
     "correctAnswer": 4,
-    "explanation": "Atmosferdeki karbondioksit (CO2) miktarını azaltmanın en etkili yollarından biri, fotosentez yoluyla CO2'yi kullanan bitki miktarını artırmaktır. Geniş ölçekli ağaçlandırma (ağaç dikme) ve erozyon kontrolü projeleri, bitki örtüsünü artırarak atmosferden daha fazla CO2 çekilmesini sağlar ve karbonu biyokütle olarak depolar. Bu nedenle bu faaliyetler atmosferdeki CO2'yi azaltmaya yöneliktir. Diğer şıklar ise atmosferdeki CO2 miktarını doğrudan veya dolaylı olarak artıran faaliyetlerdir. Fosil yakıt kullanımı (A) ve ormanların tahrip edilmesi (B) en büyük CO2 kaynaklarıdır. Sulak alanların kurutulması (C) depolanan karbonun açığa çıkmasına neden olabilir. Organik tarım (D) faydalı olsa da, CO2 azaltımındaki etkisi geniş ölçekli ağaçlandırma kadar doğrudan ve büyük değildir.",
+    "explanation": "Bir ekosistemdeki besin piramidinde, üretici basamağından son tüketici basamağına doğru çıkıldıkça; \n- Birey sayısı genellikle azalır. \n- Her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedildiği için bir üst basamağa aktarılan enerji miktarı azalır.\n- Birey sayısı ve enerji miktarı azaldığı için toplam biyokütle de genellikle azalır.\n- Dokularda biriken ve parçalanamayan zehirli madde (DDT, ağır metaller vb.) miktarı, yani biyolojik birikim, üst basamaklara doğru artar.\n- Vücut büyüklüğü ise genellikle artar (örneğin; ot -> çekirge -> kurbağa -> yılan). Bu nedenle vücut büyüklüğünün azaldığını söylemek genel bir kural olarak doğru değildir, aksine genellikle arttığı gözlemlenir. Soruda 'gözlenmez' denildiği için doğru cevap E seçeneğidir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764500161478_2",
+    "id": "ai_1764501436483_1",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde, yangın gibi bir bozulma sonrası canlıların alana yeniden yerleşmesi ve zamanla değişmesi sürecine 'ikincil süksesyon' denir. Bu süreçte alana ilk yerleşen öncü (pioneer) türler ile süksesyonun son aşamasında oluşan kararlı klimaks komünite türleri karşılaştırıldığında, öncü türlerin sahip olduğu adaptasyonlarla ilgili aşağıdakilerden hangisi genellikle yanlıştır?",
+    "questionText": "Azot döngüsünde görev alan bazı canlı grupları ve gerçekleştirdikleri olaylar şunlardır:\n\nI. Saprofitler (Ayrıştırıcılar)\nII. Nitrifikasyon bakterileri\nIII. Denitrifikasyon bakterileri\nIV. Azot bağlayıcı bakteriler\n\nBu canlı gruplarından hangileri atmosferdeki serbest azotun (N2) miktarını doğrudan etkiler?",
     "options": [
-      "Hızlı büyüme ve kısa yaşam döngüsüne sahip olma",
-      "Yayılma ve yeni alanları kolonize etme yeteneklerinin yüksek olması",
-      "Sıcaklık ve nem gibi çevresel değişimlere karşı toleranslarının düşük olması",
-      "Genellikle r-stratejisti olarak bilinen üreme stratejisini benimseme",
-      "Toprak yapısı ve besin maddeleri açısından fakir koşullarda yaşayabilme"
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "III ve IV",
+      "II, III ve IV"
     ],
-    "correctAnswer": 2,
-    "explanation": "İkincil süksesyonun başlangıcında ortam koşulları oldukça zorludur (örneğin, besin maddesi az, güneş ışığı doğrudan ve yoğun, sıcaklık dalgalanmaları fazla). Bu zorlu koşullara ilk yerleşen öncü türler, bu tür değişken ve elverişsiz koşullara karşı yüksek toleransa (hoşgörüye) sahip olmak zorundadır. Bu nedenle, öncü türlerin çevresel değişimlere karşı toleranslarının düşük olması ifadesi yanlıştır; tam tersine toleransları oldukça geniştir. Diğer şıklar öncü türlerin tipik özellikleridir: Hızlı büyürler ve kısa sürede ürerler (A ve D), tohumları rüzgar gibi etkenlerle kolayca yayılarak yeni alanları kolonize ederler (B) ve fakir topraklarda hayatta kalabilirler (E).",
+    "correctAnswer": 3,
+    "explanation": "Azot döngüsünde atmosferdeki serbest azot (N2) gazının miktarını doğrudan etkileyen iki temel olay vardır:\n1. Azot Fiksasyonu (Bağlanması): Atmosferdeki N2 gazının, azot bağlayıcı bakteriler (örneğin Rhizobium bakterileri) ve siyanobakteriler tarafından amonyak (NH3) gibi canlıların kullanabileceği bileşiklere dönüştürülmesidir. Bu olay atmosferdeki azot miktarını azaltır. (IV. öncül)\n2. Denitrifikasyon: Topraktaki nitrat (NO3-) tuzlarının, denitrifikasyon bakterileri tarafından tekrar atmosferik azota (N2) dönüştürülerek atmosfere verilmesidir. Bu olay atmosferdeki azot miktarını artırır. (III. öncül)\n\nSaprofitler (I), organik atıkları amonyağa dönüştürür ancak atmosferdeki N2'ye doğrudan etki etmezler. Nitrifikasyon bakterileri (II), amonyağı nitrite ve nitrata dönüştürür; bu olay da topraktaki azot formları arasında bir dönüşümdür ve atmosferin N2 miktarını doğrudan etkilemez. Dolayısıyla, atmosferdeki serbest azot miktarını doğrudan etkileyen canlı grupları III ve IV'tür.",
     "difficulty": 3
   }
 ]
