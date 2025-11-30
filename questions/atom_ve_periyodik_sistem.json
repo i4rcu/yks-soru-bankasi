@@ -1,21 +1,5 @@
 [
   {
-    "id": "ai_1764521041161_2",
-    "subjectId": "kim",
-    "topic": "Atom ve Periyodik Sistem",
-    "questionText": "Aşağıdaki elementlerden hangisi nadir gazlar grubunda yer almaz?",
-    "options": [
-      "Helyum",
-      "Neon",
-      "Argon",
-      "Klor",
-      "Krypton"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nadir gazlar grubu, periyodik tablonun 18. grubunda yer alır ve helyum, neon, argon, kripton gibi elementleri içerir. Klor ise 17. grupta yer alır ve halojenler arasında bulunur.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764521041161_0",
     "subjectId": "kim",
     "topic": "Atom ve Periyodik Sistem",
@@ -29,6 +13,22 @@
     ],
     "correctAnswer": 1,
     "explanation": "Karbon, atom numarası 6 olan bir elementtir. Proton sayısı, bir elementin kimliğini belirler ve karbon bu tanıma uyar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521041161_2",
+    "subjectId": "kim",
+    "topic": "Atom ve Periyodik Sistem",
+    "questionText": "Aşağıdaki elementlerden hangisi nadir gazlar grubunda yer almaz?",
+    "options": [
+      "Helyum",
+      "Neon",
+      "Argon",
+      "Klor",
+      "Krypton"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nadir gazlar grubu, periyodik tablonun 18. grubunda yer alır ve helyum, neon, argon, kripton gibi elementleri içerir. Klor ise 17. grupta yer alır ve halojenler arasında bulunur.",
     "difficulty": 3
   },
   {
