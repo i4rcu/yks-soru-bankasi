@@ -1,50 +1,34 @@
 [
   {
-    "id": "ai_1764498244238_0",
+    "id": "ai_1764499617668_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme yatay doğrultuda, büyüklüğü yavaş yavaş artırılan bir F kuvveti uygulanıyor. F kuvvetinin büyüklüğü 25 N olduğunda cisme etki eden net kuvvet kaç N olur? (g = 10 m/s²)",
+    "questionText": "Yatay bir zemin üzerinde durmakta olan bir cisme, yatay doğrultuda büyüklüğü sıfırdan başlayarak düzgün şekilde artırılan bir F kuvveti uygulanıyor. Cisim harekete başlayana kadar geçen sürede cisme etki eden sürtünme kuvveti (fs) ve cisim sabit hızla hareket ederken etki eden sürtünme kuvveti (fk) için aşağıdakilerden hangisi doğrudur?",
     "options": [
-      "0",
-      "5",
-      "9",
-      "16",
-      "20"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini ve kinetik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Kinetik sürtünme kuvveti (fk) = μk * N = 0,4 * 40 N = 16 N. Uygulanan kuvvet F = 25 N, maksimum statik sürtünme kuvveti olan 20 N'dan büyük olduğu için cisim harekete geçer. Cisim hareket halindeyken ona etki eden sürtünme kuvveti, kinetik sürtünme kuvvetidir (fk = 16 N). Newton'un ikinci hareket yasasına göre net kuvvet (Fnet), uygulanan kuvvet ile kinetik sürtünme kuvvetinin farkıdır: Fnet = F - fk = 25 N - 16 N = 9 N.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498244238_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Sürtünmesiz eğik düzlem üzerinde bulunan 5 kg kütleli bir cisim, eğik düzleme paralel bir F kuvveti ile şekildeki gibi dengede tutulmaktadır. Eğik düzlemin yatay ile yaptığı açı 37° olduğuna göre, F kuvvetinin büyüklüğü kaç N'dur? (g = 10 m/s², sin37° = 0,6, cos37° = 0,8)",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "50",
-      "60"
+      "fs sabittir; fk ise F kuvvetiyle birlikte artar.",
+      "fs, F kuvvetiyle birlikte artar; fk sabittir.",
+      "fs ve fk her zaman uygulanan F kuvvetine eşittir.",
+      "fs her zaman F kuvvetinden büyüktür; fk ise F kuvvetine eşittir.",
+      "fs ve fk daima sabittir ve birbirine eşittir."
     ],
     "correctAnswer": 1,
-    "explanation": "Cismin dengede olabilmesi için cisme etki eden net kuvvetin sıfır olması gerekir. Cismin ağırlığı (G = m*g = 5*10 = 50 N) eğik düzleme paralel ve dik bileşenlerine ayrılır. Ağırlığın eğik düzleme paralel bileşeni, cismi aşağı doğru çekmeye çalışan kuvvettir ve G_paralel = G * sin37° formülü ile hesaplanır. G_paralel = 50 N * 0,6 = 30 N. Dengenin sağlanması için, eğik düzleme paralel olarak yukarı yönde uygulanan F kuvvetinin, ağırlığın paralel bileşenine eşit büyüklükte ve zıt yönde olması gerekir. Bu nedenle F = 30 N'dur.",
+    "explanation": "Bir cisim duruyorken cisme etki eden sürtünme kuvveti statik sürtünme kuvvetidir (fs). Statik sürtünme kuvvetinin büyüklüğü, cismi harekete zorlayan kuvvete eşittir ve bu kuvvetle birlikte artar. Ancak bu artışın bir maksimum değeri vardır (fs_max = μs * N). Cisim bu maksimum değer aşıldığında harekete başlar. Cisim harekete geçtikten sonra ise cisme etki eden sürtünme kuvveti kinetik sürtünme kuvvetidir (fk). Kinetik sürtünme kuvveti (fk = μk * N) genellikle statik sürtünmenin maksimum değerinden daha küçüktür ve cismin hızı (çok yüksek hızlar hariç) değişmediği sürece sabit bir değere sahiptir. Bu nedenle, cisim dururken fs, F ile birlikte artar; cisim hareket ederken fk ise sabit kalır. Doğru cevap B şıkkıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764498244238_2",
+    "id": "ai_1764499617668_1",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir asansörün tabanında bulunan baskülün üzerinde 60 kg kütleli bir kişi durmaktadır. Asansör yukarı yönde 2 m/s²'lik ivme ile hızlanırken baskülün gösterdiği değer kaç N olur? (g = 10 m/s²)",
+    "questionText": "Bir asansörün tavanına asılı dinamometrenin ucunda 5 kg kütleli bir cisim bulunmaktadır. Asansör aşağı yönde 2 m/s²'lik ivme ile yavaşlarken dinamometrenin gösterdiği değer kaç Newton'dur? (g = 10 m/s²)",
     "options": [
-      "120",
-      "480",
-      "600",
-      "720",
-      "800"
+      "40 N",
+      "50 N",
+      "60 N",
+      "70 N",
+      "80 N"
     ],
-    "correctAnswer": 3,
-    "explanation": "Baskül, üzerine uygulanan normal kuvveti (tepki kuvvetini) ölçer. Asansör yukarı yönde ivmelendiğinde, kişiye etki eden net kuvvet yukarı yönde olmalıdır. Newton'un ikinci hareket yasasına (F_net = m*a) göre, kişiye etki eden kuvvetleri yazalım. Yukarı yönde normal kuvvet (N) ve aşağı yönde ağırlık (G = m*g) vardır. Net kuvvet, F_net = N - G'dir. Bu durumda, N - G = m*a olur. N'i bulmak için denklemi düzenlersek: N = G + m*a = m*g + m*a = m*(g+a). Verilen değerleri yerine koyarsak: N = 60 kg * (10 m/s² + 2 m/s²) = 60 kg * 12 m/s² = 720 N. Dolayısıyla baskül 720 N değerini gösterir.",
+    "correctAnswer": 2,
+    "explanation": "Cisme etki eden kuvvetler, yukarı yönde dinamometrenin uyguladığı gerilme kuvveti (T) ve aşağı yönde yer çekimi kuvvetidir (G = m*g). Newton'un ikinci hareket yasasına göre net kuvvet, kütle ile ivmenin çarpımına eşittir (F_net = m*a). Asansör aşağı yönde yavaşladığı için, net kuvvet ve ivme yukarı yöndedir. Bu durumda hareket denklemi şu şekilde yazılır:\n\nF_net = T - G\nm*a = T - m*g\n\nBurada 'a' ivmenin büyüklüğüdür. Dinamometrenin gösterdiği değer T gerilme kuvvetidir. Denklemi T için düzenlersek:\n\nT = m*g + m*a = m*(g + a)\nVerilen değerleri yerine koyalım:\nm = 5 kg\ng = 10 m/s²\na = 2 m/s²\n\nT = 5 * (10 + 2)\nT = 5 * 12\nT = 60 N\n\nBu nedenle dinamometrenin gösterdiği değer 60 N'dur. Doğru cevap C şıkkıdır.",
     "difficulty": 3
   }
 ]
