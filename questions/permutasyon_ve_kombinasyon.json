@@ -1,179 +1,67 @@
 [
   {
-    "id": "ai_1764523687246_26",
+    "id": "ai_1764523687245_22",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir grup insan arasında 6 kişilik bir komite oluşturulacaktır. Kaç farklı komite oluşturulabilir?",
+    "questionText": "Bir otobüs yolculuğunda 8 yolcu bulunmaktadır. Bu yolcular arasından 3'ü yan yana oturacak şekilde kaç farklı düzenleme yapılabilir?",
     "options": [
+      "336",
       "720",
-      "80",
-      "90",
-      "100",
-      "200"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kombinasyon formülü: C(n,6) burada n=12, C(12,6) = 924.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499553833_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Birbirine paralel olan d1 doğrusu üzerinde 4 nokta ve d2 doğrusu üzerinde 5 nokta bulunmaktadır. Köşeleri bu 9 nokta arasından seçilecek kaç farklı üçgen çizilebilir?",
-    "options": [
-      "60",
-      "70",
-      "80",
-      "84",
-      "90"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 nokta seçmek gerekir. İki farklı yöntemle çözebiliriz:\n\n**Yöntem 1: Tüm olası kombinasyonlardan doğrusal olanları çıkarma**\n\n1. Toplam 9 nokta arasından 3 nokta seçme durumu: C(9, 3)\n   C(9, 3) = (9 * 8 * 7) / (3 * 2 * 1) = 84. Bu, hiçbir kısıtlama olmasaydı oluşacak üçgen sayısıdır.\n\n2. Ancak, aynı doğru üzerindeki 3 nokta bir üçgen oluşturmaz. Bu durumları toplamdan çıkarmalıyız.\n   d1 doğrusu üzerindeki 4 noktadan 3'ünü seçme: C(4, 3) = 4.\n   d2 doğrusu üzerindeki 5 noktadan 3'ünü seçme: C(5, 3) = (5 * 4 * 3) / (3 * 2 * 1) = 10.\n\n3. Geçerli üçgen sayısı = Toplam durum - Geçersiz durumlar\n   Geçerli üçgen sayısı = 84 - (4 + 10) = 84 - 14 = 70.\n\n**Yöntem 2: Üçgen oluşturacak durumları doğrudan hesaplama**\n\nBir üçgen oluşturmak için ya d1'den 1, d2'den 2 nokta ya da d1'den 2, d2'den 1 nokta seçmeliyiz.\n\n1. Durum: d1'den 2 nokta VE d2'den 1 nokta seçimi:\n   C(4, 2) * C(5, 1) = 6 * 5 = 30.\n\n2. Durum: d1'den 1 nokta VE d2'den 2 nokta seçimi:\n   C(4, 1) * C(5, 2) = 4 * 10 = 40.\n\n3. Toplam üçgen sayısı = 30 + 40 = 70.\n\nHer iki yöntem de aynı sonucu verir. Doğru cevap 70'tir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687242_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 4'ü bir proje grubuna seçilecektir. Kaç farklı şekilde grup oluşturulabilir?",
-    "options": [
-      "210",
-      "120",
-      "100",
-      "50",
-      "30"
-    ],
-    "correctAnswer": 0,
-    "explanation": "4 öğrenciyi 10 öğrenciden seçmek için kombinasyon formülü kullanılır: C(10,4) = 10! / (4! * (10-4)!) = 210.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522080119_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "10 kişilik bir gruptan 4 kişiyi seçmenin kaç farklı yolu vardır?",
-    "options": [
-      "210",
-      "120",
-      "300",
-      "100",
-      "40"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kombinasyon formülü C(n, r) = n! / (r!(n-r)!) kullanılarak hesaplanır. C(10, 4) = 10! / (4! * 6!) = 210.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499553833_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Aralarında Ali ve Berk'in de bulunduğu 6 kişilik bir arkadaş grubu, yuvarlak bir masa etrafına oturacaktır. Ali ve Berk'in yan yana gelmemesi koşuluyla kaç farklı şekilde oturabilirler?",
-    "options": [
-      "24",
-      "48",
-      "72",
-      "96",
-      "120"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu tür sorularda 'Tüm Durumlar - İstenmeyen Durum' yöntemini kullanmak en pratik yoldur.\n\n1. **Tüm Durumlar:** 6 kişinin yuvarlak bir masa etrafına oturma sayısı (n-1)! formülü ile hesaplanır. \n   Tüm durumlar = (6-1)! = 5! = 5 x 4 x 3 x 2 x 1 = 120 farklı şekilde oturabilirler.\n\n2. **İstenmeyen Durum (Ali ve Berk'in yan yana olması):** Ali ve Berk'i yan yana oturmaları için tek bir kişi gibi düşünelim (AB). Bu durumda masada (AB), C, D, E, F olmak üzere toplam 5 'kişi' olur.\n   Bu 5 'kişi' yuvarlak masaya (5-1)! = 4! = 24 farklı şekilde oturabilir.\n   Ancak Ali ve Berk kendi aralarında (Ali sağda, Berk solda veya tam tersi) 2! = 2 farklı şekilde yer değiştirebilirler.\n   Dolayısıyla, Ali ve Berk'in yan yana oturduğu durumların sayısı = 4! x 2! = 24 x 2 = 48'dir.\n\n3. **Sonuç (Ali ve Berk'in yan yana gelmemesi):**\n   İstenen durum = Tüm Durumlar - İstenmeyen Durum\n   İstenen durum = 120 - 48 = 72'dir.\n\nDoğru cevap 72'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522080119_5",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınavda 5 farklı sorudan 2 tanesi seçilerek test hazırlanacaktır. Testin hazırlanma şekli kaç farklıdır?",
-    "options": [
-      "10",
-      "15",
-      "20",
-      "25",
-      "30"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C(5, 2) = 5! / (2! * 3!) = 10.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500900361_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Birbirine paralel olan d1 ve d2 doğruları üzerinde sırasıyla 4 ve 6 nokta bulunmaktadır. Köşeleri bu 10 nokta arasından seçilen kaç farklı üçgen çizilebilir?",
-    "options": [
-      "72",
-      "84",
-      "96",
-      "108",
-      "120"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 noktaya ihtiyaç vardır. Bu soruyu iki farklı yolla çözebiliriz:\n\nYol 1: Durumları Ayrı Ayrı Hesaplama\nBir üçgen oluşturmak için noktaları şu iki şekilde seçebiliriz:\n- Durum 1: 2 nokta d1 doğrusundan, 1 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 2'sini seçme: C(4, 2) = (4×3)/(2×1) = 6\nd2 üzerindeki 6 noktadan 1'ini seçme: C(6, 1) = 6\nBu durumda oluşacak üçgen sayısı: 6 × 6 = 36\n\n- Durum 2: 1 nokta d1 doğrusundan, 2 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 1'ini seçme: C(4, 1) = 4\nd2 üzerindeki 6 noktadan 2'sini seçme: C(6, 2) = (6×5)/(2×1) = 15\nBu durumda oluşacak üçgen sayısı: 4 × 15 = 60\n\nToplam üçgen sayısı = Durum 1 + Durum 2 = 36 + 60 = 96.\n\nYol 2: Tüm Olası Durumlardan İstenmeyen Durumları Çıkarma\n- Adım 1: Toplam 10 noktadan herhangi 3'ünü seçerek oluşturulabilecek tüm nokta gruplarını bulalım.\nC(10, 3) = (10×9×8)/(3×2×1) = 120.\n\n- Adım 2: Bu gruplardan üçgen oluşturmayanları, yani aynı doğru üzerinde bulunan 3'lü nokta gruplarını çıkaralım.\nd1 doğrusu üzerindeki 4 noktadan 3'ünün seçilmesi: C(4, 3) = 4. Bu 4 grup üçgen oluşturmaz.\nd2 doğrusu üzerindeki 6 noktadan 3'ünün seçilmesi: C(6, 3) = (6×5×4)/(3×2×1) = 20. Bu 20 grup üçgen oluşturmaz.\n\n- Adım 3: Toplam durumdan istenmeyen durumları çıkaralım.\nToplam üçgen sayısı = 120 - (4 + 20) = 120 - 24 = 96.\n\nHer iki yolla da sonuç 96 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522080119_11",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 5 yolcudan 3'ünün yerlerinin değiştirilmesinin kaç farklı yolu vardır?",
-    "options": [
-      "60",
-      "120",
-      "30",
-      "45",
-      "90"
-    ],
-    "correctAnswer": 1,
-    "explanation": "P(5, 3) = 5! / 2! = 60.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687245_23",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir dergide 10 makale bulunmaktadır. Bu makalelerden 4 tanesi hangi sırayla seçilecektir?",
-    "options": [
-      "210",
-      "100",
-      "240",
-      "120",
-      "180"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Permütasyon kullanılır: P(10,4) = 10! / (10-4)! = 5040.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520156182_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir kitapta 5 farklı hikaye bulunmaktadır. Bu hikayelerden 2 tanesi yan yana gelecek şekilde kaç farklı şekilde sıralanabilir?",
-    "options": [
-      "20",
-      "60",
-      "100",
-      "120",
+      "504",
+      "600",
       "240"
     ],
-    "correctAnswer": 3,
-    "explanation": "İki hikaye yan yana geldiğinde, onları bir bütün olarak düşünmeliyiz. Bu durumda 4 nesne (2 hikaye grubu + 3 diğer hikaye) ile karşı karşıyayız. 4! = 24 farklı sıralama vardır. İçindeki hikayeler de 2! = 2 şekilde sıralanabilir. Toplamda 24 x 2 = 48 farklı sıralama elde edilir. Fakat burada verilen seçenekler arasında doğru cevap yoktur.",
-    "difficulty": 3
+    "correctAnswer": 0,
+    "explanation": "3 yolcuyu yan yana düşünerek 6 grup oluşturuyoruz. 6! * 3! = 720.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764523687244_7",
+    "id": "ai_1764523687242_2",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir yarışmada 5 yarışmacı bulunmaktadır. Bu yarışmacılardan 3'ünün birinci, ikinci ve üçüncü olarak sıralanması için kaç farklı düzenleme yapılabilir?",
+    "questionText": "Bir dilde 5 harf bulunmaktadır. Bu harflerden kaç farklı 3 harfli kelime oluşturulabilir?",
     "options": [
       "60",
-      "30",
-      "20",
-      "15",
-      "10"
+      "100",
+      "120",
+      "80",
+      "40"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Her bir harf farklı olduğu için permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687244_8",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 15 öğrenci bulunmaktadır. Bu öğrencilerden 5'i bir grup oluşturacak şekilde kaç farklı kombinasyon oluşturulabilir?",
+    "options": [
+      "3003",
+      "1001",
+      "1365",
+      "2002",
+      "150"
     ],
     "correctAnswer": 0,
-    "explanation": "Permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
+    "explanation": "Kombinasyon formülü kullanılır: C(15,5) = 15! / (5! * (15-5)!) = 3003.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764500900361_2",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "'MATEMATİK' kelimesinin harflerinin yerleri değiştirilerek oluşturulabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesi 'M' harfi ile başlayıp 'K' harfi ile biter?",
+    "options": [
+      "420",
+      "630",
+      "840",
+      "1260",
+      "2520"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu soru, tekrarlı permütasyon ve belirli pozisyonlara harf sabitleme kombinasyonudur.\n\n1. Adım: Kelimedeki harfleri ve sayılarını analiz edelim.\n'MATEMATİK' kelimesinde toplam 9 harf vardır.\nHarf tekrar sayıları: M (2), A (2), T (2), E (1), İ (1), K (1).\n\n2. Adım: Sorudaki şartları uygulayalım. Kelimenin 'M' ile başlaması ve 'K' ile bitmesi isteniyor.\n_M_ _ _ _ _ _ _ _K_\nİlk ve son pozisyonları bu harflerle doldurduğumuz için bu harfleri sabitlemiş oluruz. Bir adet 'M' ve bir adet 'K' harfi kullanılmış oldu.\n\n3. Adım: Geriye kalan harfleri ve boş pozisyonları belirleyelim.\nSabitlenen harflerden sonra geriye 7 harf kalır: A, T, E, M, A, T, İ.\nBu 7 harf, aradaki 7 boşluğa sıralanacaktır.\n\n4. Adım: Geriye kalan harflerin tekrar sayılarını kontrol edelim.\nA: 2 adet\nT: 2 adet\nM: 1 adet\nE: 1 adet\nİ: 1 adet\n\n5. Adım: Bu 7 harfin sıralanması bir tekrarlı permütasyon problemidir. Formül: n! / (n1! * n2! * ...)\nBurada n = 7 (toplam harf sayısı).\nn1 = 2 (tekrar eden 'A' sayısı).\nn2 = 2 (tekrar eden 'T' sayısı).\n\nSıralama sayısı = 7! / (2! * 2!)\n7! = 5040\n2! = 2\nSıralama sayısı = 5040 / (2 * 2) = 5040 / 4 = 1260.\n\nDolayısıyla, 'M' ile başlayıp 'K' ile biten 1260 farklı kelime oluşturulabilir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764523687242_3",
@@ -192,195 +80,35 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764522080119_2",
+    "id": "ai_1764523687245_23",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir okulda 6 farklı kitabın 3 tanesini seçip sırayla dizmenin kaç farklı yolu vardır?",
+    "questionText": "Bir dergide 10 makale bulunmaktadır. Bu makalelerden 4 tanesi hangi sırayla seçilecektir?",
     "options": [
-      "120",
-      "60",
-      "180",
-      "30",
-      "90"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Permütasyon formülü P(n, r) = n! / (n-r)! kullanılarak hesaplanır. P(6, 3) = 6! / 3! = 120.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687244_13",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 5 kişi vardır. Bu 5 kişi arasından 3'ü hangi sırayla oturacak şekilde kaç farklı düzenleme yapılabilir?",
-    "options": [
-      "60",
-      "30",
-      "120",
-      "90",
-      "24"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500900361_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "4 erkek ve 3 kız öğrenci, herhangi iki kız öğrenci yan yana gelmemek şartıyla düz bir sırada kaç farklı şekilde sıralanabilir?",
-    "options": [
-      "720",
-      "1200",
-      "1440",
-      "2880",
-      "5040"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu tür sorularda, önce kısıtlama olmayan grubu yerleştiririz. \n\n1. Adım: Erkek öğrencileri (kısıtlama olmayan grup) sıraya dizelim. 4 erkek öğrenci kendi aralarında 4! (4 faktöriyel) farklı şekilde sıralanır. \n4! = 4 × 3 × 2 × 1 = 24.\n\n2. Adım: Erkekleri yerleştirdikten sonra, kızların yan yana gelmemesi için aralarındaki ve baştaki/sondaki boşluklara yerleştirilmeleri gerekir. 4 erkeğin oluşturduğu boşluk sayısı 5'tir:\n_ E1 _ E2 _ E3 _ E4 _\n\n3. Adım: Bu 5 boşluğa 3 kız öğrenciyi yerleştireceğiz. Bu bir sıralama işlemidir çünkü farklı kızların farklı boşluklara oturması farklı bir dizilim oluşturur. Bu nedenle permütasyon kullanırız. 5 boşluktan 3'ünü seçip kızları sıralamak P(5, 3) şeklinde ifade edilir.\nP(5, 3) = 5! / (5-3)! = 5! / 2! = 5 × 4 × 3 = 60.\n\n4. Adım: Toplam farklı sıralanma sayısını bulmak için bu iki durumu çarparız (saymanın çarpma kuralı).\nToplam sıralama = (Erkeklerin sıralanması) × (Kızların boşluklara sıralanması)\nToplam sıralama = 4! × P(5, 3) = 24 × 60 = 1440.\n\nDolayısıyla, 1440 farklı şekilde sıralanabilirler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522080119_10",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir takıma 6 oyuncu katılacaktır. Bu oyuncuların 4'ü sahaya çıkacak. Sahaya çıkacak oyuncuların seçilmesi için kaç farklı yol vardır?",
-    "options": [
-      "15",
-      "20",
-      "30",
-      "25",
-      "40"
-    ],
-    "correctAnswer": 1,
-    "explanation": "C(6, 4) = 6! / (4! * 2!) = 15.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687245_19",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir grup insan arasında 5 kişilik bir komite oluşturulacaktır. Kaç farklı komite oluşturulabilir?",
-    "options": [
-      "126",
-      "120",
-      "150",
-      "100",
-      "90"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kombinasyon formülü: C(n,5) burada n=10, C(10,5) = 252.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526106182_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ü bir takım oluşturmak üzere seçilecektir. Takım oluşturmanın kaç farklı yolu vardır?",
-    "options": [
-      "120",
       "210",
-      "720",
       "100",
-      "30"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Takım oluşturmak için kombinasyon kullanılır. C(10,3) = 10! / (3!(10-3)!) = 120. Ancak doğru cevabımız 210'dur. Çünkü 10 öğrenciden 3'ü seçerken farklı kombinasyonlar oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523687244_11",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir takımda 11 oyuncu bulunmaktadır. Bu oyunculardan 4'ü seçilecektir. Kaç farklı takım oluşturulabilir?",
-    "options": [
-      "330",
-      "300",
-      "400",
-      "250",
-      "150"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kombinasyon formülü kullanılır: C(11,4) = 11! / (4! * (11-4)!) = 330.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526106182_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüste 15 koltuk bulunmaktadır. Bu koltuklara 12 yolcu oturacaktır. Yolcuların oturacağı koltukların kaç farklı düzenlemesi vardır?",
-    "options": [
-      "455",
-      "1250",
-      "2730",
-      "1820",
-      "330"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu durumda permütasyon kullanılır. 15 koltuktan 12'si seçilecektir. 15! / (15-12)! = 15! / 3! = 15 * 14 * 13 = 2730.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498174752_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "\"MATEMATİK\" kelimesinin harflerinin yerleri değiştirilerek yazılabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesinde tüm sesli harfler (A, E, A, İ) yan yana bulunur?",
-    "options": [
-      "180",
-      "360",
-      "1080",
-      "2160",
-      "4320"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu tür sorularda yan yana olması istenen elemanları tek bir blok olarak kabul ederiz.\n\n1. Harfleri ayıralım:\nSesli harfler: A, E, A, İ (Toplam 4 adet, 2 tanesi A tekrar ediyor)\nSessiz harfler: M, T, M, T, K (Toplam 5 adet, M ve T ikişer kez tekrar ediyor)\n\n2. Sesli harfleri tek bir blok olarak düşünelim:\n(AEAI) bloğunu 'X' olarak isimlendirelim. Artık sıralamamız gereken elemanlar: X, M, T, M, T, K. Bu, toplam 6 elemandır.\n\n3. Bu 6 elemanın sıralamasını bulalım (Tekrarlı Permütasyon):\nElimizde 6 eleman var, ancak M harfi 2 kez, T harfi 2 kez tekrar ediyor.\nSıralama sayısı = 6! / (2! * 2!) = 720 / (2 * 2) = 720 / 4 = 180.\n\n4. Sesli harflerin kendi içindeki sıralamasını bulalım:\n'X' bloğunun içindeki A, E, A, İ harflerinin kendi aralarındaki sıralamasını bulmalıyız. Bu 4 harften A harfi 2 kez tekrar ediyor.\nKendi içlerindeki sıralama sayısı = 4! / 2! = 24 / 2 = 12.\n\n5. Toplam sıralama sayısını bulalım:\nÇarpma kuralına göre, blokların sıralanma sayısı ile blok içindeki elemanların sıralanma sayısını çarparız.\nToplam farklı kelime sayısı = 180 * 12 = 2160.\nBu nedenle, sesli harflerin yan yana olduğu 2160 farklı kelime yazılabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687242_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 6 yolcu bulunmaktadır. Bu yolcular arasında 3'ü yan yana oturacak şekilde kaç farklı oturma düzeni oluşturulabilir?",
-    "options": [
-      "720",
-      "360",
-      "180",
+      "240",
       "120",
-      "60"
+      "180"
     ],
     "correctAnswer": 0,
-    "explanation": "3 yolcuyu yan yana düşünerek 4 grup oluşturuyoruz (3 yan yana + 3 ayrı yolcu). 4! * 3! = 24 * 6 = 144.",
+    "explanation": "Permütasyon kullanılır: P(10,4) = 10! / (10-4)! = 5040.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764523687245_17",
+    "id": "ai_1764522080119_3",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "12 kişilik bir gruptan 5 kişilik bir takım oluşturmak için kaç farklı seçme işlemi yapılabilir?",
+    "questionText": "Bir grup 8 öğrenci arasından 3'ü seçilerek bir komite oluşturulacaktır. Bu komitenin oluşturulma şekli kaç farklıdır?",
     "options": [
-      "792",
-      "720",
-      "1001",
-      "600",
-      "900"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kombinasyon formülü: C(12,5) = 12! / (5! * (12-5)!) = 792.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519236901_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ünün bir proje grubunda yer alması gerektiğine göre, bu grubun oluşturulma yollarının sayısı nedir?",
-    "options": [
+      "56",
+      "72",
       "120",
-      "60",
-      "90",
-      "100",
-      "30"
+      "80",
+      "90"
     ],
     "correctAnswer": 0,
-    "explanation": "Bu soruda 10 öğrenciden 3'ünü seçme işlemi kombinasyon ile yapılır. Kombinasyon formülü C(n, r) = n! / (r! * (n - r)!) şeklindedir. Burada n = 10 ve r = 3. C(10, 3) = 10! / (3! * 7!) = (10 × 9 × 8) / (3 × 2 × 1) = 120. Dolayısıyla doğru cevap A şıkkıdır.",
+    "explanation": "Kombinasyon formülü kullanılarak C(8, 3) = 8! / (3! * 5!) = 56.",
     "difficulty": 3
   },
   {
@@ -400,179 +128,67 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764522080119_12",
+    "id": "ai_1764526106182_1",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 4 farklı dersin 2 tanesinin seçilmesi için kaç farklı yol vardır?",
+    "questionText": "Bir otobüste 15 koltuk bulunmaktadır. Bu koltuklara 12 yolcu oturacaktır. Yolcuların oturacağı koltukların kaç farklı düzenlemesi vardır?",
     "options": [
-      "6",
-      "12",
-      "10",
-      "15",
-      "20"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C(4, 2) = 4! / (2! * 2!) = 6.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687242_2",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir dilde 5 harf bulunmaktadır. Bu harflerden kaç farklı 3 harfli kelime oluşturulabilir?",
-    "options": [
-      "60",
-      "100",
-      "120",
-      "80",
-      "40"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Her bir harf farklı olduğu için permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522080119_8",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 3 farklı proje grubu bulunmaktadır. Her grup için 2 öğrencinin seçilmesi gerektiğine göre toplamda kaç farklı kombinasyon vardır?",
-    "options": [
-      "90",
-      "100",
-      "60",
-      "120",
-      "80"
+      "455",
+      "1250",
+      "2730",
+      "1820",
+      "330"
     ],
     "correctAnswer": 3,
-    "explanation": "Her grup için C(3, 2) = 3! / (2! * 1!) = 3. Toplamda 3*3*3 = 27.",
-    "difficulty": 3
+    "explanation": "Bu durumda permütasyon kullanılır. 15 koltuktan 12'si seçilecektir. 15! / (15-12)! = 15! / 3! = 15 * 14 * 13 = 2730.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764522080119_6",
+    "id": "ai_1764526106182_3",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir grup 4 kişilik takımın 2 kişisinin seçilmesi için kaç farklı kombinasyon vardır?",
-    "options": [
-      "6",
-      "8",
-      "12",
-      "4",
-      "10"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C(4, 2) = 4! / (2! * 2!) = 6.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687243_5",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sinema salonunda 12 koltuk vardır. Bu koltuklara 5 kişi oturacak şekilde kaç farklı oturma düzeni mümkündür?",
-    "options": [
-      "792",
-      "720",
-      "1240",
-      "600",
-      "100"
-    ],
-    "correctAnswer": 1,
-    "explanation": "P(12,5) = 12! / (12-5)! = 12 * 11 * 10 * 9 * 8 = 95040.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523687245_14",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir grup insan arasında 3 kişilik bir komite oluşturulurken, her kişi sadece bir kez seçilebilir. Kaç farklı komite oluşturulabilir?",
-    "options": [
-      "10",
-      "20",
-      "30",
-      "40",
-      "50"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kombinasyon formülü kullanılır: C(n,3) burada n=5, C(5,3) = 10.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523687245_21",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 5 farklı kitap bulunmaktadır. Bu kitaplardan 3 tanesi hangi sırayla seçilecektir?",
+    "questionText": "Bir otobüs yolculuğunda 5 yolcu, 3 farklı koltukta oturmak istiyor. Bu yolcuların koltuk seçimi için kaç farklı düzenleme vardır?",
     "options": [
       "60",
-      "100",
       "120",
-      "150",
-      "80"
+      "90",
+      "30",
+      "150"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
+    "explanation": "Bu durumda 5 yolcudan 3'ü seçilecek ve koltuklar için permütasyon kullanılacak. 5P3 = 5! / (5-3)! = 5 * 4 * 3 = 60.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523687244_13",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir otobüs yolculuğunda 5 kişi vardır. Bu 5 kişi arasından 3'ü hangi sırayla oturacak şekilde kaç farklı düzenleme yapılabilir?",
+    "options": [
+      "60",
+      "30",
+      "120",
+      "90",
+      "24"
+    ],
+    "correctAnswer": 0,
     "explanation": "Permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764526106182_4",
+    "id": "ai_1764523687246_24",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir yarışmada 5 farklı ödül bulunmaktadır. Bu ödüller, 10 katılımcı arasından 3 katılımcıya verilecektir. Ödüllerin kaç farklı şekilde dağıtılabileceğini hesaplayınız.",
+    "questionText": "Bir okulda 18 öğrenci bulunmaktadır. Bu öğrencilerden 5'i bir grup oluşturacak şekilde kaç farklı kombinasyon oluşturulabilir?",
     "options": [
-      "7200",
-      "600",
+      "8568",
       "1000",
+      "2000",
       "3000",
-      "5000"
+      "4000"
     ],
     "correctAnswer": 0,
-    "explanation": "Ödüllerin dağıtılması için her ödül için katılımcı seçimi yapılır. 10C3 (katılımcı seçimi) * 3! (ödül dağıtımı) = 120 * 6 = 720. Ancak 5 ödül için her birinin dağıtımı ayrı ayrı yapılır, bu yüzden toplamda 7200 farklı dağıtım vardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522080119_13",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir masa oyununda 3 farklı zar atılmaktadır. Bu zarların sonuçlarının farklı kombinasyonları kaç farklıdır?",
-    "options": [
-      "27",
-      "36",
-      "18",
-      "24",
-      "30"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Her zar 6 yüzlüdür. 6 * 6 * 6 = 216.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522080119_4",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüste 10 yolcu vardır. Bu yolcuların 3'ü ön sıraya oturmak istemektedir. Ön sırada oturacak yolcu sayısı kaç farklı şekilde seçilebilir?",
-    "options": [
-      "120",
-      "60",
-      "90",
-      "30",
-      "45"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kombinasyon formülü kullanılarak C(10, 3) = 120.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687243_6",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir masa oyununda 4 farklı karakter bulunmaktadır. Bu karakterlerden 2'si hangi sırayla seçilecektir?",
-    "options": [
-      "12",
-      "8",
-      "16",
-      "6",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Permütasyon kullanılır: P(4,2) = 4! / (4-2)! = 4 * 3 = 12.",
+    "explanation": "Kombinasyon formülü kullanılır: C(18,5) = 18! / (5! * (18-5)!) = 8568.",
     "difficulty": 5
   },
   {
@@ -590,6 +206,22 @@
     "correctAnswer": 0,
     "explanation": "Kombinasyon formülü kullanılır: C(20,6) = 20! / (6! * (20-6)!) = 38760.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764522080119_5",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınavda 5 farklı sorudan 2 tanesi seçilerek test hazırlanacaktır. Testin hazırlanma şekli kaç farklıdır?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C(5, 2) = 5! / (2! * 3!) = 10.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764522080119_9",
@@ -624,211 +256,83 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764500900361_2",
+    "id": "ai_1764523687242_0",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "'MATEMATİK' kelimesinin harflerinin yerleri değiştirilerek oluşturulabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesi 'M' harfi ile başlayıp 'K' harfi ile biter?",
+    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 4'ü bir proje grubuna seçilecektir. Kaç farklı şekilde grup oluşturulabilir?",
     "options": [
-      "420",
-      "630",
-      "840",
-      "1260",
-      "2520"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu soru, tekrarlı permütasyon ve belirli pozisyonlara harf sabitleme kombinasyonudur.\n\n1. Adım: Kelimedeki harfleri ve sayılarını analiz edelim.\n'MATEMATİK' kelimesinde toplam 9 harf vardır.\nHarf tekrar sayıları: M (2), A (2), T (2), E (1), İ (1), K (1).\n\n2. Adım: Sorudaki şartları uygulayalım. Kelimenin 'M' ile başlaması ve 'K' ile bitmesi isteniyor.\n_M_ _ _ _ _ _ _ _K_\nİlk ve son pozisyonları bu harflerle doldurduğumuz için bu harfleri sabitlemiş oluruz. Bir adet 'M' ve bir adet 'K' harfi kullanılmış oldu.\n\n3. Adım: Geriye kalan harfleri ve boş pozisyonları belirleyelim.\nSabitlenen harflerden sonra geriye 7 harf kalır: A, T, E, M, A, T, İ.\nBu 7 harf, aradaki 7 boşluğa sıralanacaktır.\n\n4. Adım: Geriye kalan harflerin tekrar sayılarını kontrol edelim.\nA: 2 adet\nT: 2 adet\nM: 1 adet\nE: 1 adet\nİ: 1 adet\n\n5. Adım: Bu 7 harfin sıralanması bir tekrarlı permütasyon problemidir. Formül: n! / (n1! * n2! * ...)\nBurada n = 7 (toplam harf sayısı).\nn1 = 2 (tekrar eden 'A' sayısı).\nn2 = 2 (tekrar eden 'T' sayısı).\n\nSıralama sayısı = 7! / (2! * 2!)\n7! = 5040\n2! = 2\nSıralama sayısı = 5040 / (2 * 2) = 5040 / 4 = 1260.\n\nDolayısıyla, 'M' ile başlayıp 'K' ile biten 1260 farklı kelime oluşturulabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526106182_3",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 5 yolcu, 3 farklı koltukta oturmak istiyor. Bu yolcuların koltuk seçimi için kaç farklı düzenleme vardır?",
-    "options": [
-      "60",
-      "120",
-      "90",
-      "30",
-      "150"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu durumda 5 yolcudan 3'ü seçilecek ve koltuklar için permütasyon kullanılacak. 5P3 = 5! / (5-3)! = 5 * 4 * 3 = 60.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520156182_2",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 8 yolcu bulunmaktadır. Bu yolcuların 3'ü ön sırada, 5'i arka sırada oturacaktır. Ön sıradaki yolcuların kaç farklı şekilde oturabileceğini hesaplayın.",
-    "options": [
-      "6",
-      "24",
-      "60",
-      "120",
-      "720"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ön sıradaki 3 yolcu, 3! = 6 farklı şekilde oturabilir. Bu soruda sadece ön sıradaki yolcuların oturuş şekilleri sorulmaktadır. Dolayısıyla doğru cevap 6'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687244_8",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 15 öğrenci bulunmaktadır. Bu öğrencilerden 5'i bir grup oluşturacak şekilde kaç farklı kombinasyon oluşturulabilir?",
-    "options": [
-      "3003",
-      "1001",
-      "1365",
-      "2002",
-      "150"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kombinasyon formülü kullanılır: C(15,5) = 15! / (5! * (15-5)!) = 3003.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498174752_0",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Aralarında 5 doktor ve 4 hemşirenin bulunduğu bir gruptan, en az 2'si doktor olmak şartıyla 3 kişilik bir sağlık ekibi kaç farklı şekilde oluşturulabilir?",
-    "options": [
-      "40",
-      "44",
-      "50",
-      "70",
-      "84"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için iki durumu ele almalıyız, çünkü ekipte en az 2 doktor olması isteniyor. Toplam ekip 3 kişilik olacak.\n\nDurum 1: Ekipte tam olarak 2 doktor ve 1 hemşire bulunur.\n5 doktordan 2'si seçilir: C(5, 2) = (5 * 4) / (2 * 1) = 10\n4 hemşireden 1'i seçilir: C(4, 1) = 4\nBu durum için oluşturulabilecek ekip sayısı: 10 * 4 = 40\n\nDurum 2: Ekipte tam olarak 3 doktor ve 0 hemşire bulunur.\n5 doktordan 3'ü seçilir: C(5, 3) = C(5, 2) = (5 * 4) / (2 * 1) = 10\n4 hemşireden 0'ı seçilir: C(4, 0) = 1\nBu durum için oluşturulabilecek ekip sayısı: 10 * 1 = 10\n\nToplam farklı ekip sayısı, bu iki durumun toplamıdır:\nToplam = 40 + 10 = 50.\nBu nedenle, en az 2'si doktor olan 3 kişilik bir sağlık ekibi 50 farklı şekilde oluşturulabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687246_25",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir yarışmada 4 yarışmacı bulunmaktadır. Bu yarışmacılardan ilk 2'sinin sıralanması için kaç farklı düzenleme yapılabilir?",
-    "options": [
-      "12",
-      "24",
-      "6",
-      "4",
-      "10"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Permütasyon kullanılır: P(4,2) = 4! / (4-2)! = 4 * 3 = 12.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523687245_20",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sinema salonunda 15 koltuk bulunmaktadır. Bu koltuklara 7 kişi oturacak şekilde kaç farklı oturma düzeni oluşturulabilir?",
-    "options": [
-      "6435",
-      "120",
-      "600",
-      "1000",
-      "480"
-    ],
-    "correctAnswer": 0,
-    "explanation": "P(15,7) = 15! / (15-7)! = 15 * 14 * 13 * 12 * 11 * 10 * 9 = 6435.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522080119_7",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir yarışmada 5 kişi yarışmaktadır. Birinci, ikinci ve üçüncü olan kişileri seçmenin kaç farklı yolu vardır?",
-    "options": [
-      "60",
-      "90",
-      "120",
-      "30",
-      "150"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Permütasyon formülü kullanılarak P(5, 3) = 5! / 2! = 60.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687245_22",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir otobüs yolculuğunda 8 yolcu bulunmaktadır. Bu yolcular arasından 3'ü yan yana oturacak şekilde kaç farklı düzenleme yapılabilir?",
-    "options": [
-      "336",
-      "720",
-      "504",
-      "600",
-      "240"
-    ],
-    "correctAnswer": 0,
-    "explanation": "3 yolcuyu yan yana düşünerek 6 grup oluşturuyoruz. 6! * 3! = 720.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522080119_1",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 5 kız ve 3 erkek öğrenciden oluşan toplam 8 öğrenci bulunmaktadır. Bu sınıftan 2 kız ve 1 erkek seçmenin kaç farklı yolu vardır?",
-    "options": [
-      "60",
-      "80",
-      "120",
-      "100",
-      "40"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kızlardan 2'sini seçmek için C(5, 2) = 10 ve erkeklerden 1'ini seçmek için C(3, 1) = 3 hesaplanır. Toplam = 10 * 3 = 30.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523687244_9",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir kutuda 10 farklı top bulunmaktadır. Bu toplardan 3 tanesi seçilerek kaç farklı grup oluşturulabilir?",
-    "options": [
-      "120",
       "210",
+      "120",
       "100",
-      "150",
-      "200"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kombinasyon hesaplanır: C(10,3) = 10! / (3! * (10-3)!) = 120.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523687245_16",
-    "subjectId": "mat",
-    "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir sınıfta 8 öğrenci bulunmaktadır. Bu öğrencilerden 4'ü seçilecek ve sıralanacaktır. Kaç farklı sıralama yapılabilir?",
-    "options": [
-      "1680",
-      "840",
-      "720",
-      "600",
-      "500"
+      "50",
+      "30"
     ],
     "correctAnswer": 0,
-    "explanation": "Permütasyon kullanılır: P(8,4) = 8! / (8-4)! = 8 * 7 * 6 * 5 = 1680.",
+    "explanation": "4 öğrenciyi 10 öğrenciden seçmek için kombinasyon formülü kullanılır: C(10,4) = 10! / (4! * (10-4)!) = 210.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764523687244_10",
+    "id": "ai_1764523687245_14",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir dergide 6 makale bulunmaktadır. Bu makalelerden 3'ü hangi sırayla seçilecektir?",
+    "questionText": "Bir grup insan arasında 3 kişilik bir komite oluşturulurken, her kişi sadece bir kez seçilebilir. Kaç farklı komite oluşturulabilir?",
     "options": [
-      "60",
-      "120",
-      "720",
-      "500",
-      "300"
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
     ],
     "correctAnswer": 1,
-    "explanation": "Permütasyon kullanılır: P(6,3) = 6! / (6-3)! = 6 * 5 * 4 = 120.",
+    "explanation": "Kombinasyon formülü kullanılır: C(n,3) burada n=5, C(5,3) = 10.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522080119_8",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 3 farklı proje grubu bulunmaktadır. Her grup için 2 öğrencinin seçilmesi gerektiğine göre toplamda kaç farklı kombinasyon vardır?",
+    "options": [
+      "90",
+      "100",
+      "60",
+      "120",
+      "80"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Her grup için C(3, 2) = 3! / (2! * 1!) = 3. Toplamda 3*3*3 = 27.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523687244_11",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir takımda 11 oyuncu bulunmaktadır. Bu oyunculardan 4'ü seçilecektir. Kaç farklı takım oluşturulabilir?",
+    "options": [
+      "330",
+      "300",
+      "400",
+      "250",
+      "150"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kombinasyon formülü kullanılır: C(11,4) = 11! / (4! * (11-4)!) = 330.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687242_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir otobüs yolculuğunda 6 yolcu bulunmaktadır. Bu yolcular arasında 3'ü yan yana oturacak şekilde kaç farklı oturma düzeni oluşturulabilir?",
+    "options": [
+      "720",
+      "360",
+      "180",
+      "120",
+      "60"
+    ],
+    "correctAnswer": 0,
+    "explanation": "3 yolcuyu yan yana düşünerek 4 grup oluşturuyoruz (3 yan yana + 3 ayrı yolcu). 4! * 3! = 24 * 6 = 144.",
     "difficulty": 5
   },
   {
@@ -848,19 +352,163 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764523687242_4",
+    "id": "ai_1764522080119_1",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir kitapta 8 farklı hikaye bulunmaktadır. Bu hikayelerden 5 tanesi hangi sırayla okunursa okurun en çok beğeneceği sırayı oluşturur?",
+    "questionText": "Bir sınıfta 5 kız ve 3 erkek öğrenciden oluşan toplam 8 öğrenci bulunmaktadır. Bu sınıftan 2 kız ve 1 erkek seçmenin kaç farklı yolu vardır?",
     "options": [
-      "1680",
-      "1280",
-      "720",
-      "5040",
-      "840"
+      "60",
+      "80",
+      "120",
+      "100",
+      "40"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kızlardan 2'sini seçmek için C(5, 2) = 10 ve erkeklerden 1'ini seçmek için C(3, 1) = 3 hesaplanır. Toplam = 10 * 3 = 30.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522080119_12",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 4 farklı dersin 2 tanesinin seçilmesi için kaç farklı yol vardır?",
+    "options": [
+      "6",
+      "12",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C(4, 2) = 4! / (2! * 2!) = 6.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523687245_19",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir grup insan arasında 5 kişilik bir komite oluşturulacaktır. Kaç farklı komite oluşturulabilir?",
+    "options": [
+      "126",
+      "120",
+      "150",
+      "100",
+      "90"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kombinasyon formülü: C(n,5) burada n=10, C(10,5) = 252.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687246_25",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir yarışmada 4 yarışmacı bulunmaktadır. Bu yarışmacılardan ilk 2'sinin sıralanması için kaç farklı düzenleme yapılabilir?",
+    "options": [
+      "12",
+      "24",
+      "6",
+      "4",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Permütasyon kullanılır: P(4,2) = 4! / (4-2)! = 4 * 3 = 12.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687244_7",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir yarışmada 5 yarışmacı bulunmaktadır. Bu yarışmacılardan 3'ünün birinci, ikinci ve üçüncü olarak sıralanması için kaç farklı düzenleme yapılabilir?",
+    "options": [
+      "60",
+      "30",
+      "20",
+      "15",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520156182_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir kitapta 5 farklı hikaye bulunmaktadır. Bu hikayelerden 2 tanesi yan yana gelecek şekilde kaç farklı şekilde sıralanabilir?",
+    "options": [
+      "20",
+      "60",
+      "100",
+      "120",
+      "240"
     ],
     "correctAnswer": 3,
-    "explanation": "5 hikaye 8 hikayeden seçilecektir. P(8,5) = 8! / (8-5)! = 8 * 7 * 6 * 5 * 4 = 6720.",
+    "explanation": "İki hikaye yan yana geldiğinde, onları bir bütün olarak düşünmeliyiz. Bu durumda 4 nesne (2 hikaye grubu + 3 diğer hikaye) ile karşı karşıyayız. 4! = 24 farklı sıralama vardır. İçindeki hikayeler de 2! = 2 şekilde sıralanabilir. Toplamda 24 x 2 = 48 farklı sıralama elde edilir. Fakat burada verilen seçenekler arasında doğru cevap yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522080119_11",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir otobüs yolculuğunda 5 yolcudan 3'ünün yerlerinin değiştirilmesinin kaç farklı yolu vardır?",
+    "options": [
+      "60",
+      "120",
+      "30",
+      "45",
+      "90"
+    ],
+    "correctAnswer": 1,
+    "explanation": "P(5, 3) = 5! / 2! = 60.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522080119_7",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir yarışmada 5 kişi yarışmaktadır. Birinci, ikinci ve üçüncü olan kişileri seçmenin kaç farklı yolu vardır?",
+    "options": [
+      "60",
+      "90",
+      "120",
+      "30",
+      "150"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Permütasyon formülü kullanılarak P(5, 3) = 5! / 2! = 60.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523687245_21",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 5 farklı kitap bulunmaktadır. Bu kitaplardan 3 tanesi hangi sırayla seçilecektir?",
+    "options": [
+      "60",
+      "100",
+      "120",
+      "150",
+      "80"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Permütasyon kullanılır: P(5,3) = 5! / (5-3)! = 5 * 4 * 3 = 60.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687244_10",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir dergide 6 makale bulunmaktadır. Bu makalelerden 3'ü hangi sırayla seçilecektir?",
+    "options": [
+      "60",
+      "120",
+      "720",
+      "500",
+      "300"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Permütasyon kullanılır: P(6,3) = 6! / (6-3)! = 6 * 5 * 4 = 120.",
     "difficulty": 5
   },
   {
@@ -880,20 +528,308 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764523687246_24",
+    "id": "ai_1764523687244_9",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir okulda 18 öğrenci bulunmaktadır. Bu öğrencilerden 5'i bir grup oluşturacak şekilde kaç farklı kombinasyon oluşturulabilir?",
+    "questionText": "Bir kutuda 10 farklı top bulunmaktadır. Bu toplardan 3 tanesi seçilerek kaç farklı grup oluşturulabilir?",
     "options": [
-      "8568",
-      "1000",
-      "2000",
-      "3000",
-      "4000"
+      "120",
+      "210",
+      "100",
+      "150",
+      "200"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kombinasyon hesaplanır: C(10,3) = 10! / (3! * (10-3)!) = 120.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500900361_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "4 erkek ve 3 kız öğrenci, herhangi iki kız öğrenci yan yana gelmemek şartıyla düz bir sırada kaç farklı şekilde sıralanabilir?",
+    "options": [
+      "720",
+      "1200",
+      "1440",
+      "2880",
+      "5040"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu tür sorularda, önce kısıtlama olmayan grubu yerleştiririz. \n\n1. Adım: Erkek öğrencileri (kısıtlama olmayan grup) sıraya dizelim. 4 erkek öğrenci kendi aralarında 4! (4 faktöriyel) farklı şekilde sıralanır. \n4! = 4 × 3 × 2 × 1 = 24.\n\n2. Adım: Erkekleri yerleştirdikten sonra, kızların yan yana gelmemesi için aralarındaki ve baştaki/sondaki boşluklara yerleştirilmeleri gerekir. 4 erkeğin oluşturduğu boşluk sayısı 5'tir:\n_ E1 _ E2 _ E3 _ E4 _\n\n3. Adım: Bu 5 boşluğa 3 kız öğrenciyi yerleştireceğiz. Bu bir sıralama işlemidir çünkü farklı kızların farklı boşluklara oturması farklı bir dizilim oluşturur. Bu nedenle permütasyon kullanırız. 5 boşluktan 3'ünü seçip kızları sıralamak P(5, 3) şeklinde ifade edilir.\nP(5, 3) = 5! / (5-3)! = 5! / 2! = 5 × 4 × 3 = 60.\n\n4. Adım: Toplam farklı sıralanma sayısını bulmak için bu iki durumu çarparız (saymanın çarpma kuralı).\nToplam sıralama = (Erkeklerin sıralanması) × (Kızların boşluklara sıralanması)\nToplam sıralama = 4! × P(5, 3) = 24 × 60 = 1440.\n\nDolayısıyla, 1440 farklı şekilde sıralanabilirler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500900361_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Birbirine paralel olan d1 ve d2 doğruları üzerinde sırasıyla 4 ve 6 nokta bulunmaktadır. Köşeleri bu 10 nokta arasından seçilen kaç farklı üçgen çizilebilir?",
+    "options": [
+      "72",
+      "84",
+      "96",
+      "108",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 noktaya ihtiyaç vardır. Bu soruyu iki farklı yolla çözebiliriz:\n\nYol 1: Durumları Ayrı Ayrı Hesaplama\nBir üçgen oluşturmak için noktaları şu iki şekilde seçebiliriz:\n- Durum 1: 2 nokta d1 doğrusundan, 1 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 2'sini seçme: C(4, 2) = (4×3)/(2×1) = 6\nd2 üzerindeki 6 noktadan 1'ini seçme: C(6, 1) = 6\nBu durumda oluşacak üçgen sayısı: 6 × 6 = 36\n\n- Durum 2: 1 nokta d1 doğrusundan, 2 nokta d2 doğrusundan seçilir.\nd1 üzerindeki 4 noktadan 1'ini seçme: C(4, 1) = 4\nd2 üzerindeki 6 noktadan 2'sini seçme: C(6, 2) = (6×5)/(2×1) = 15\nBu durumda oluşacak üçgen sayısı: 4 × 15 = 60\n\nToplam üçgen sayısı = Durum 1 + Durum 2 = 36 + 60 = 96.\n\nYol 2: Tüm Olası Durumlardan İstenmeyen Durumları Çıkarma\n- Adım 1: Toplam 10 noktadan herhangi 3'ünü seçerek oluşturulabilecek tüm nokta gruplarını bulalım.\nC(10, 3) = (10×9×8)/(3×2×1) = 120.\n\n- Adım 2: Bu gruplardan üçgen oluşturmayanları, yani aynı doğru üzerinde bulunan 3'lü nokta gruplarını çıkaralım.\nd1 doğrusu üzerindeki 4 noktadan 3'ünün seçilmesi: C(4, 3) = 4. Bu 4 grup üçgen oluşturmaz.\nd2 doğrusu üzerindeki 6 noktadan 3'ünün seçilmesi: C(6, 3) = (6×5×4)/(3×2×1) = 20. Bu 20 grup üçgen oluşturmaz.\n\n- Adım 3: Toplam durumdan istenmeyen durumları çıkaralım.\nToplam üçgen sayısı = 120 - (4 + 20) = 120 - 24 = 96.\n\nHer iki yolla da sonuç 96 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498174752_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Aralarında 5 doktor ve 4 hemşirenin bulunduğu bir gruptan, en az 2'si doktor olmak şartıyla 3 kişilik bir sağlık ekibi kaç farklı şekilde oluşturulabilir?",
+    "options": [
+      "40",
+      "44",
+      "50",
+      "70",
+      "84"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruyu çözmek için iki durumu ele almalıyız, çünkü ekipte en az 2 doktor olması isteniyor. Toplam ekip 3 kişilik olacak.\n\nDurum 1: Ekipte tam olarak 2 doktor ve 1 hemşire bulunur.\n5 doktordan 2'si seçilir: C(5, 2) = (5 * 4) / (2 * 1) = 10\n4 hemşireden 1'i seçilir: C(4, 1) = 4\nBu durum için oluşturulabilecek ekip sayısı: 10 * 4 = 40\n\nDurum 2: Ekipte tam olarak 3 doktor ve 0 hemşire bulunur.\n5 doktordan 3'ü seçilir: C(5, 3) = C(5, 2) = (5 * 4) / (2 * 1) = 10\n4 hemşireden 0'ı seçilir: C(4, 0) = 1\nBu durum için oluşturulabilecek ekip sayısı: 10 * 1 = 10\n\nToplam farklı ekip sayısı, bu iki durumun toplamıdır:\nToplam = 40 + 10 = 50.\nBu nedenle, en az 2'si doktor olan 3 kişilik bir sağlık ekibi 50 farklı şekilde oluşturulabilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526106182_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ü bir takım oluşturmak üzere seçilecektir. Takım oluşturmanın kaç farklı yolu vardır?",
+    "options": [
+      "120",
+      "210",
+      "720",
+      "100",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Takım oluşturmak için kombinasyon kullanılır. C(10,3) = 10! / (3!(10-3)!) = 120. Ancak doğru cevabımız 210'dur. Çünkü 10 öğrenciden 3'ü seçerken farklı kombinasyonlar oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523687245_16",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 8 öğrenci bulunmaktadır. Bu öğrencilerden 4'ü seçilecek ve sıralanacaktır. Kaç farklı sıralama yapılabilir?",
+    "options": [
+      "1680",
+      "840",
+      "720",
+      "600",
+      "500"
     ],
     "correctAnswer": 0,
-    "explanation": "Kombinasyon formülü kullanılır: C(18,5) = 18! / (5! * (18-5)!) = 8568.",
+    "explanation": "Permütasyon kullanılır: P(8,4) = 8! / (8-4)! = 8 * 7 * 6 * 5 = 1680.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764522080119_10",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir takıma 6 oyuncu katılacaktır. Bu oyuncuların 4'ü sahaya çıkacak. Sahaya çıkacak oyuncuların seçilmesi için kaç farklı yol vardır?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "25",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C(6, 4) = 6! / (4! * 2!) = 15.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526106182_4",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir yarışmada 5 farklı ödül bulunmaktadır. Bu ödüller, 10 katılımcı arasından 3 katılımcıya verilecektir. Ödüllerin kaç farklı şekilde dağıtılabileceğini hesaplayınız.",
+    "options": [
+      "7200",
+      "600",
+      "1000",
+      "3000",
+      "5000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ödüllerin dağıtılması için her ödül için katılımcı seçimi yapılır. 10C3 (katılımcı seçimi) * 3! (ödül dağıtımı) = 120 * 6 = 720. Ancak 5 ödül için her birinin dağıtımı ayrı ayrı yapılır, bu yüzden toplamda 7200 farklı dağıtım vardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522080119_13",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir masa oyununda 3 farklı zar atılmaktadır. Bu zarların sonuçlarının farklı kombinasyonları kaç farklıdır?",
+    "options": [
+      "27",
+      "36",
+      "18",
+      "24",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Her zar 6 yüzlüdür. 6 * 6 * 6 = 216.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523687245_20",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sinema salonunda 15 koltuk bulunmaktadır. Bu koltuklara 7 kişi oturacak şekilde kaç farklı oturma düzeni oluşturulabilir?",
+    "options": [
+      "6435",
+      "120",
+      "600",
+      "1000",
+      "480"
+    ],
+    "correctAnswer": 0,
+    "explanation": "P(15,7) = 15! / (15-7)! = 15 * 14 * 13 * 12 * 11 * 10 * 9 = 6435.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687245_17",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "12 kişilik bir gruptan 5 kişilik bir takım oluşturmak için kaç farklı seçme işlemi yapılabilir?",
+    "options": [
+      "792",
+      "720",
+      "1001",
+      "600",
+      "900"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kombinasyon formülü: C(12,5) = 12! / (5! * (12-5)!) = 792.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687246_26",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir grup insan arasında 6 kişilik bir komite oluşturulacaktır. Kaç farklı komite oluşturulabilir?",
+    "options": [
+      "720",
+      "80",
+      "90",
+      "100",
+      "200"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kombinasyon formülü: C(n,6) burada n=12, C(12,6) = 924.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522080119_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "10 kişilik bir gruptan 4 kişiyi seçmenin kaç farklı yolu vardır?",
+    "options": [
+      "210",
+      "120",
+      "300",
+      "100",
+      "40"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kombinasyon formülü C(n, r) = n! / (r!(n-r)!) kullanılarak hesaplanır. C(10, 4) = 10! / (4! * 6!) = 210.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522080119_2",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir okulda 6 farklı kitabın 3 tanesini seçip sırayla dizmenin kaç farklı yolu vardır?",
+    "options": [
+      "120",
+      "60",
+      "180",
+      "30",
+      "90"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permütasyon formülü P(n, r) = n! / (n-r)! kullanılarak hesaplanır. P(6, 3) = 6! / 3! = 120.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523687243_5",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sinema salonunda 12 koltuk vardır. Bu koltuklara 5 kişi oturacak şekilde kaç farklı oturma düzeni mümkündür?",
+    "options": [
+      "792",
+      "720",
+      "1240",
+      "600",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "explanation": "P(12,5) = 12! / (12-5)! = 12 * 11 * 10 * 9 * 8 = 95040.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523687242_4",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir kitapta 8 farklı hikaye bulunmaktadır. Bu hikayelerden 5 tanesi hangi sırayla okunursa okurun en çok beğeneceği sırayı oluşturur?",
+    "options": [
+      "1680",
+      "1280",
+      "720",
+      "5040",
+      "840"
+    ],
+    "correctAnswer": 3,
+    "explanation": "5 hikaye 8 hikayeden seçilecektir. P(8,5) = 8! / (8-5)! = 8 * 7 * 6 * 5 * 4 = 6720.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522080119_6",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir grup 4 kişilik takımın 2 kişisinin seçilmesi için kaç farklı kombinasyon vardır?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "4",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C(4, 2) = 4! / (2! * 2!) = 6.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498174752_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "\"MATEMATİK\" kelimesinin harflerinin yerleri değiştirilerek yazılabilecek 9 harfli anlamlı ya da anlamsız kelimelerin kaç tanesinde tüm sesli harfler (A, E, A, İ) yan yana bulunur?",
+    "options": [
+      "180",
+      "360",
+      "1080",
+      "2160",
+      "4320"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu tür sorularda yan yana olması istenen elemanları tek bir blok olarak kabul ederiz.\n\n1. Harfleri ayıralım:\nSesli harfler: A, E, A, İ (Toplam 4 adet, 2 tanesi A tekrar ediyor)\nSessiz harfler: M, T, M, T, K (Toplam 5 adet, M ve T ikişer kez tekrar ediyor)\n\n2. Sesli harfleri tek bir blok olarak düşünelim:\n(AEAI) bloğunu 'X' olarak isimlendirelim. Artık sıralamamız gereken elemanlar: X, M, T, M, T, K. Bu, toplam 6 elemandır.\n\n3. Bu 6 elemanın sıralamasını bulalım (Tekrarlı Permütasyon):\nElimizde 6 eleman var, ancak M harfi 2 kez, T harfi 2 kez tekrar ediyor.\nSıralama sayısı = 6! / (2! * 2!) = 720 / (2 * 2) = 720 / 4 = 180.\n\n4. Sesli harflerin kendi içindeki sıralamasını bulalım:\n'X' bloğunun içindeki A, E, A, İ harflerinin kendi aralarındaki sıralamasını bulmalıyız. Bu 4 harften A harfi 2 kez tekrar ediyor.\nKendi içlerindeki sıralama sayısı = 4! / 2! = 24 / 2 = 12.\n\n5. Toplam sıralama sayısını bulalım:\nÇarpma kuralına göre, blokların sıralanma sayısı ile blok içindeki elemanların sıralanma sayısını çarparız.\nToplam farklı kelime sayısı = 180 * 12 = 2160.\nBu nedenle, sesli harflerin yan yana olduğu 2160 farklı kelime yazılabilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499553833_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Birbirine paralel olan d1 doğrusu üzerinde 4 nokta ve d2 doğrusu üzerinde 5 nokta bulunmaktadır. Köşeleri bu 9 nokta arasından seçilecek kaç farklı üçgen çizilebilir?",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "84",
+      "90"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir üçgen oluşturmak için doğrusal olmayan 3 nokta seçmek gerekir. İki farklı yöntemle çözebiliriz:\n\n**Yöntem 1: Tüm olası kombinasyonlardan doğrusal olanları çıkarma**\n\n1. Toplam 9 nokta arasından 3 nokta seçme durumu: C(9, 3)\n   C(9, 3) = (9 * 8 * 7) / (3 * 2 * 1) = 84. Bu, hiçbir kısıtlama olmasaydı oluşacak üçgen sayısıdır.\n\n2. Ancak, aynı doğru üzerindeki 3 nokta bir üçgen oluşturmaz. Bu durumları toplamdan çıkarmalıyız.\n   d1 doğrusu üzerindeki 4 noktadan 3'ünü seçme: C(4, 3) = 4.\n   d2 doğrusu üzerindeki 5 noktadan 3'ünü seçme: C(5, 3) = (5 * 4 * 3) / (3 * 2 * 1) = 10.\n\n3. Geçerli üçgen sayısı = Toplam durum - Geçersiz durumlar\n   Geçerli üçgen sayısı = 84 - (4 + 10) = 84 - 14 = 70.\n\n**Yöntem 2: Üçgen oluşturacak durumları doğrudan hesaplama**\n\nBir üçgen oluşturmak için ya d1'den 1, d2'den 2 nokta ya da d1'den 2, d2'den 1 nokta seçmeliyiz.\n\n1. Durum: d1'den 2 nokta VE d2'den 1 nokta seçimi:\n   C(4, 2) * C(5, 1) = 6 * 5 = 30.\n\n2. Durum: d1'den 1 nokta VE d2'den 2 nokta seçimi:\n   C(4, 1) * C(5, 2) = 4 * 10 = 40.\n\n3. Toplam üçgen sayısı = 30 + 40 = 70.\n\nHer iki yöntem de aynı sonucu verir. Doğru cevap 70'tir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764526106182_2",
@@ -912,19 +848,243 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764522080119_3",
+    "id": "ai_1764523687243_6",
     "subjectId": "mat",
     "topic": "Permütasyon ve Kombinasyon",
-    "questionText": "Bir grup 8 öğrenci arasından 3'ü seçilerek bir komite oluşturulacaktır. Bu komitenin oluşturulma şekli kaç farklıdır?",
+    "questionText": "Bir masa oyununda 4 farklı karakter bulunmaktadır. Bu karakterlerden 2'si hangi sırayla seçilecektir?",
     "options": [
-      "56",
-      "72",
-      "120",
-      "80",
-      "90"
+      "12",
+      "8",
+      "16",
+      "6",
+      "4"
     ],
     "correctAnswer": 0,
-    "explanation": "Kombinasyon formülü kullanılarak C(8, 3) = 8! / (3! * 5!) = 56.",
+    "explanation": "Permütasyon kullanılır: P(4,2) = 4! / (4-2)! = 4 * 3 = 12.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520156182_2",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir otobüs yolculuğunda 8 yolcu bulunmaktadır. Bu yolcuların 3'ü ön sırada, 5'i arka sırada oturacaktır. Ön sıradaki yolcuların kaç farklı şekilde oturabileceğini hesaplayın.",
+    "options": [
+      "6",
+      "24",
+      "60",
+      "120",
+      "720"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ön sıradaki 3 yolcu, 3! = 6 farklı şekilde oturabilir. Bu soruda sadece ön sıradaki yolcuların oturuş şekilleri sorulmaktadır. Dolayısıyla doğru cevap 6'dır.",
     "difficulty": 3
+  },
+  {
+    "id": "ai_1764499553833_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Aralarında Ali ve Berk'in de bulunduğu 6 kişilik bir arkadaş grubu, yuvarlak bir masa etrafına oturacaktır. Ali ve Berk'in yan yana gelmemesi koşuluyla kaç farklı şekilde oturabilirler?",
+    "options": [
+      "24",
+      "48",
+      "72",
+      "96",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu tür sorularda 'Tüm Durumlar - İstenmeyen Durum' yöntemini kullanmak en pratik yoldur.\n\n1. **Tüm Durumlar:** 6 kişinin yuvarlak bir masa etrafına oturma sayısı (n-1)! formülü ile hesaplanır. \n   Tüm durumlar = (6-1)! = 5! = 5 x 4 x 3 x 2 x 1 = 120 farklı şekilde oturabilirler.\n\n2. **İstenmeyen Durum (Ali ve Berk'in yan yana olması):** Ali ve Berk'i yan yana oturmaları için tek bir kişi gibi düşünelim (AB). Bu durumda masada (AB), C, D, E, F olmak üzere toplam 5 'kişi' olur.\n   Bu 5 'kişi' yuvarlak masaya (5-1)! = 4! = 24 farklı şekilde oturabilir.\n   Ancak Ali ve Berk kendi aralarında (Ali sağda, Berk solda veya tam tersi) 2! = 2 farklı şekilde yer değiştirebilirler.\n   Dolayısıyla, Ali ve Berk'in yan yana oturduğu durumların sayısı = 4! x 2! = 24 x 2 = 48'dir.\n\n3. **Sonuç (Ali ve Berk'in yan yana gelmemesi):**\n   İstenen durum = Tüm Durumlar - İstenmeyen Durum\n   İstenen durum = 120 - 48 = 72'dir.\n\nDoğru cevap 72'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522080119_4",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir otobüste 10 yolcu vardır. Bu yolcuların 3'ü ön sıraya oturmak istemektedir. Ön sırada oturacak yolcu sayısı kaç farklı şekilde seçilebilir?",
+    "options": [
+      "120",
+      "60",
+      "90",
+      "30",
+      "45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kombinasyon formülü kullanılarak C(10, 3) = 120.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519236901_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Bu öğrencilerden 3'ünün bir proje grubunda yer alması gerektiğine göre, bu grubun oluşturulma yollarının sayısı nedir?",
+    "options": [
+      "120",
+      "60",
+      "90",
+      "100",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu soruda 10 öğrenciden 3'ünü seçme işlemi kombinasyon ile yapılır. Kombinasyon formülü C(n, r) = n! / (r! * (n - r)!) şeklindedir. Burada n = 10 ve r = 3. C(10, 3) = 10! / (3! * 7!) = (10 × 9 × 8) / (3 × 2 × 1) = 120. Dolayısıyla doğru cevap A şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575395812_0",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "5 farklı kitap arasından 2 tanesini seçmenin kaç farklı yolu vardır?",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 kitap seçmek için kombinasyon formülü C(n, r) = n! / (r! * (n-r)!) kullanılır. Burada n = 5, r = 2. C(5, 2) = 5! / (2! * 3!) = 10.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_1",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "3 farklı elma ve 2 farklı armut arasından 1 elma ve 1 armut seçmenin kaç yolu vardır?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 elma seçmek için 3 farklı seçenek, 1 armut seçmek için 2 farklı seçenek vardır. Toplam yollar 3 * 2 = 6.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_2",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 4 erkek ve 3 kız öğrenci var. 2 erkek öğrenci seçmenin kaç yolu vardır?",
+    "options": [
+      "6",
+      "12",
+      "10",
+      "8",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C(4, 2) = 4! / (2! * 2!) = 6. Yani 2 erkek öğrenci seçmenin 6 farklı yolu vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_3",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "6 farklı renkli top arasından 3 tanesini seçmenin kaç farklı yolu vardır?",
+    "options": [
+      "20",
+      "30",
+      "60",
+      "40",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C(6, 3) = 6! / (3! * 3!) = 20. 6 farklı renkli top arasından 3 tanesini seçmenin 20 yolu vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_4",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir grup içinde 5 kişi var. Bu 5 kişiyi sıraya dizmenin kaç farklı yolu vardır?",
+    "options": [
+      "60",
+      "120",
+      "100",
+      "80",
+      "140"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 kişiyi sıraya dizmek, permütasyon kullanır. 5! = 5 x 4 x 3 x 2 x 1 = 120.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_5",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir rüzgar gülü üzerinde 4 farklı yön var. Bu yönler arasından 2 tanesini seçmenin kaç farklı yolu vardır?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12",
+      "10"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C(4, 2) = 4! / (2! * 2!) = 6. 4 yön arasından 2 tanesini seçmenin 6 yolu vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_6",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "7 farklı çiçek arasından 4 tanesini seçmenin kaç farklı yolu vardır?",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C(7, 4) = 7! / (4! * 3!) = 35. Yani 7 çiçekten 4 tanesini seçmenin 35 yolu vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_7",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir yarışmada 10 yarışmacı vardır. Bu yarışmacılardan 3 tanesinin sıralanmasının kaç farklı yolu vardır?",
+    "options": [
+      "720",
+      "1000",
+      "1200",
+      "1500",
+      "1800"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permütasyon formülü P(n, r) = n! / (n-r)! kullanılarak hesaplanır. P(10, 3) = 10! / (10-3)! = 10 x 9 x 8 = 720.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_8",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir sınıfta 6 öğrenci var. Bu öğrencilerden 2 tanesinin hangi sırayla seçileceği kaç farklı yol vardır?",
+    "options": [
+      "12",
+      "20",
+      "30",
+      "40",
+      "60"
+    ],
+    "correctAnswer": 4,
+    "explanation": "P(6, 2) = 6! / (6-2)! = 6 x 5 = 30. Yani 2 öğrenciyi hangi sırayla seçeceğimizin 30 farklı yolu vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575395812_9",
+    "subjectId": "mat",
+    "topic": "Permütasyon ve Kombinasyon",
+    "questionText": "Bir masa üzerinde 5 farklı kitap var. Bu kitapları yan yana dizmenin kaç farklı yolu vardır?",
+    "options": [
+      "60",
+      "120",
+      "100",
+      "80",
+      "140"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 farklı kitabı dizmek için 5! = 120 farklı yol vardır.",
+    "difficulty": 1
   }
 ]
