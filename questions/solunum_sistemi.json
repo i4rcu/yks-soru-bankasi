@@ -1,323 +1,51 @@
 [
   {
-    "id": "ai_1764500220717_1",
+    "id": "ai_1764522821893_10",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi, kan ile doku hücreleri arasında gerçekleşen gaz alışverişi sırasında karbondioksitin taşınma yollarından biri değildir?",
+    "questionText": "Solunum sisteminin temel işlevlerinden biri nedir?",
     "options": [
-      "Kan plazmasında çözünmüş olarak taşınması",
-      "Alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin şeklinde taşınması",
-      "Alyuvarlarda karbonik anhidraz enzimiyle su ile birleştirilip plazmaya oksihemoglobin olarak verilmesi",
-      "Kan plazmasında bikarbonat (HCO₃⁻) iyonları şeklinde taşınması",
-      "Alyuvarların sitoplazmasında bikarbonat iyonlarına dönüştürülmesi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Karbondioksitin kanda taşınmasının üç temel yolu vardır: 1) Çok küçük bir kısmı (%7) kan plazmasında çözünmüş halde. 2) Bir kısmı (%23) alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin (HbCO₂) şeklinde. 3) En büyük kısmı (%70) ise alyuvarlarda karbonik anhidraz enzimi sayesinde su ile birleşerek karbonik aside (H₂CO₃) dönüşür, bu asit de bikarbonat (HCO₃⁻) ve H⁺ iyonlarına ayrışır. Oluşan bikarbonat iyonları plazmaya geçerek taşınır. C şıkkında belirtilen \"oksihemoglobin\" ise hemoglobinin oksijen bağlamış halidir ve oksijenin taşınmasıyla ilgilidir, karbondioksit taşınmasıyla doğrudan bir ilişkisi bu şekilde yoktur. Bu nedenle C şıkkı yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525017919_8",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum yoluyla alınan havanın nemlendirilmesi hangi yapıda gerçekleşir?",
-    "options": [
-      "Burun",
-      "Trakea",
-      "Bronşlar",
-      "Alveoller",
-      "Larinks"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hava, burun boşluğunda nemlendirilir. Burun, havanın ısınmasını ve nemlenmesini sağlayan yapıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525017920_28",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Akciğerlerdeki hava keseciklerinin (alveol) en önemli özelliklerinden biri nedir?",
-    "options": [
-      "Kalın duvarlı yapılar olması",
-      "İnce duvarlı ve geniş yüzey alanına sahip olmaları",
-      "Kendi başlarına hava üretebilmeleri",
-      "Yanlışlıkla su ile dolmaları",
-      "Kan damarları ile bağlantılarının olmaması"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alveoller, ince duvarlı ve geniş yüzey alanına sahip yapılar olup, gaz değişimini etkin bir şekilde gerçekleştirmelerini sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498848935_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Sağlıklı bir insanda, doku kılcallarından geçmekte olan kanda oksijenin hemoglobinden ayrılma eğiliminin artmasında aşağıdakilerden hangisi etkili olmaz?",
-    "options": [
-      "Kan pH değerinin düşmesi",
-      "Kandaki karbondioksit kısmi basıncının artması",
-      "Vücut sıcaklığının artması",
-      "Alveollerdeki oksijen kısmi basıncının yüksek olması",
-      "Kanda laktik asit miktarının artması"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Hemoglobinin oksijeni bağlama veya serbest bırakma eğilimi çeşitli faktörlere bağlıdır. Bu duruma Bohr etkisi denir. Doku kılcallarında hücresel solunum sonucu CO2 artar. CO2'nin artması kan pH'sını düşürür (asitliği artırır). Ayrıca egzersiz gibi durumlarda vücut sıcaklığı ve laktik asit miktarı artar. Bu üç faktör (düşük pH, yüksek CO2, yüksek sıcaklık) hemoglobinin oksijene olan ilgisini azaltır ve oksijenin dokulara daha kolay bırakılmasını sağlar. Ancak, alveollerdeki oksijen kısmi basıncının yüksek olması, oksijenin hemoglobinden ayrılmasını değil, tam tersine hemoglobine bağlanmasını kolaylaştıran bir faktördür. Bu olay akciğer kılcallarında gerçekleşir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802237_20",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, akciğerlerdeki hava yollarına açılır?",
-    "options": [
-      "Trakea",
-      "Yutak",
-      "Gırtlak",
-      "Burun",
-      "Diyafram"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Trakea, hava yollarının ana yoludur ve akciğerlere hava taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_6",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi solunum yolu hastalıklarından biridir?",
-    "options": [
-      "Astım",
-      "Diyabet",
-      "Hipertansiyon",
-      "Anemi",
-      "Romatizma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Astım, solunum yollarını etkileyen bir hastalıktır ve hava akışını kısıtlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_15",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi hastalık, solunum yollarında iltihaplanma ve daralma ile karakterizedir?",
-    "options": [
-      "Astım",
-      "Kanser",
-      "Anemi",
-      "Şeker hastalığı",
-      "Yüksek tansiyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Astım, solunum yollarında iltihaplanma ve daralmaya neden olan bir hastalıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_4",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi gaz, solunum sırasında vücuda alınır?",
-    "options": [
-      "Karbon dioksit",
-      "Oksijen",
-      "Azot",
-      "Amonyak",
-      "Metan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Solunum sırasında vücuda alınan gaz oksijendir, karbondioksit ise atılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802237_29",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi akciğerlerin genişlemesi için gerekli bir durumdur?",
-    "options": [
-      "Diyafram kasılması",
-      "Kas gevşemesi",
-      "Yavaş nefes alma",
-      "Hava basıncı artışı",
-      "Kan basıncı düşüşü"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Diyafram kasıldığında akciğer hacmi artar ve hava içeri alınır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522821893_11",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi hastalık, solunum yollarının daralmasına ve nefes darlığına yol açar?",
-    "options": [
-      "Astım",
-      "Şeker hastalığı",
-      "Kalp yetmezliği",
-      "Böbrek yetmezliği",
-      "Kanser"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Astım, solunum yollarının iltihaplanması ve daralması ile karakterize bir hastalıktır, bu da nefes darlığına yol açar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525017920_22",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin işlevini etkileyen faktörlerden biri nedir?",
-    "options": [
-      "Verimli beslenme",
-      "Hareketsizlik",
-      "Yeterli uyku",
-      "Düzenli egzersiz",
-      "Stresten uzak durmak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hareketsizlik, solunum sisteminin işlevini olumsuz etkileyebilir ve akciğer kapasitelerini azaltabilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520366755_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
-    "options": [
-      "Faranks",
-      "Larenks",
-      "Trakea",
-      "Bronş",
-      "Alveol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501512467_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Egzersiz yapan bir bireyin kas dokusu kılcallarında, kanda bulunan hemoglobinin oksijene olan ilgisinin (afinitesinin) azalarak oksijeni dokuya daha kolay bırakmasını sağlayan \"Bohr Etkisi\" ile ilgili olarak, aşağıdaki faktörlerden hangisinin bu etkiye doğrudan katkısı **en azdır**?",
-    "options": [
-      "Kandaki karbondioksit parsiyel basıncının artması",
-      "Kan plazmasındaki bikarbonat iyonu (HCO₃⁻) derişiminin artması",
-      "Kan pH değerinin düşmesi (asitliğin artması)",
-      "Kas dokusunun sıcaklığının artması",
-      "Kandaki oksijen parsiyel basıncının düşmesi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bohr etkisi, hemoglobinin oksijen doygunluğunun, ortamdaki karbondioksit konsantrasyonu ve buna bağlı pH değişikliğinden etkilenmesidir. Egzersiz sırasında artan metabolik aktivite sonucu kas dokusunda CO₂ üretimi artar. Artan CO₂, H₂O ile birleşerek karbonik asit (H₂CO₃) oluşturur, bu da H⁺ ve bikarbonat (HCO₃⁻) iyonlarına ayrışır. Ortamdaki H⁺ iyonlarının artması pH'ı düşürür (asitliği artırır). Düşük pH ve yüksek CO₂ konsantrasyonu, hemoglobinin yapısını değiştirerek oksijene olan ilgisini azaltır ve oksijenin dokulara salınımını kolaylaştırır. Ayrıca artan kas aktivitesi sıcaklığı da yükseltir ve bu durum da hemoglobinin oksijeni bırakma eğilimini artırır. Ancak kandaki oksijen parsiyel basıncının düşmesi, Bohr etkisinin bir nedeni değil, hemoglobinin oksijeni dokuya bırakmasının bir sonucudur. Oksijen basıncının dokularda düşük olması zaten difüzyonun temel sebebidir, ancak hemoglobinin afinitesini doğrudan değiştiren ana faktörlerden (Bohr etkisi kapsamında) biri değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525017919_5",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi durum solunum sisteminin normal çalışmasını olumsuz etkileyebilir?",
-    "options": [
-      "Düzenli egzersiz",
-      "Sigara içmek",
-      "Sağlıklı beslenme",
-      "Bol su içmek",
-      "Yeterli uyku almak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sigara içmek, solunum sistemini olumsuz yönde etkileyerek akciğer hastalıklarına yol açabilir ve gaz alışverişini bozar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528802237_19",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi solunum sisteminin bir işlevi değildir?",
-    "options": [
+      "Sindirim",
+      "Hücre bölünmesi",
       "Gaz değişimi",
-      "Ses üretimi",
-      "Hava ısıtma",
-      "Kan pompalama",
-      "Hava nemlendirme"
+      "Besin depolama",
+      "Duyusal algılama"
     ],
-    "correctAnswer": 3,
-    "explanation": "Kan pompalama, solunum sisteminin değil, dolaşım sisteminin bir işlevidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_11",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, burundan akciğerlere giden havayı ısıtır ve nemlendirir?",
-    "options": [
-      "Yutak",
-      "Gırtlak",
-      "Trakea",
-      "Bronşlar",
-      "Burun"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Burun, havayı ısıtıp nemlendirerek akciğerlere ulaşmadan önce hazırlayan bir yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522821894_12",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, solunum sisteminin üst kısmında yer alır ve sesin oluşumunda rol oynar?",
-    "options": [
-      "Larinks",
-      "Trake",
-      "Bronş",
-      "Alveol",
-      "Diyafram"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Larinks, ses tellerinin bulunduğu yapıdır ve sesin oluşumunda önemli bir rol oynar. Ayrıca, hava ile gıda yollarını ayırır.",
+    "correctAnswer": 2,
+    "explanation": "Solunum sisteminin en temel işlevi, oksijen alıp karbondioksit atarak gaz değişimini sağlamaktır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764528802236_7",
+    "id": "ai_1764525017919_3",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Oksijenin kan hücrelerine taşınmasında hangi madde rol oynar?",
+    "questionText": "Solunum sırasında akciğerlerin genişlemesi hangi kasların kasılması ile gerçekleşir?",
     "options": [
-      "Hemoglobin",
-      "Karbonhidrat",
-      "Protein",
-      "Lipid",
-      "Vitamin"
+      "Diyafram ve interkostal kaslar",
+      "Sırt kasları",
+      "Karın kasları",
+      "Pektoral kaslar",
+      "Oblik kaslar"
     ],
     "correctAnswer": 0,
-    "explanation": "Hemoglobin, kırmızı kan hücrelerinde bulunan ve oksijeni taşıyan bir protein molekülüdür.",
-    "difficulty": 4
+    "explanation": "Diyafram ve interkostal kaslar, solunum sırasında akciğerlerin genişlemesine yardımcı olan kaslardır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528802236_3",
+    "id": "ai_1764525017919_11",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin hangi kısmı ses üretiminde rol oynar?",
+    "questionText": "Hangi yapı, sesin oluşumunda önemli bir rol oynar?",
     "options": [
-      "Alveoller",
       "Bronşlar",
-      "Gırtlak",
-      "Yutak",
+      "Diyafram",
+      "Larinks",
+      "Alveoller",
       "Trakea"
     ],
     "correctAnswer": 2,
-    "explanation": "Gırtlak, ses tellerinin bulunduğu bölge olup ses üretiminde önemli bir rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802237_37",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin en alt kısmında hangi yapı bulunur?",
-    "options": [
-      "Alveoller",
-      "Bronşlar",
-      "Trakea",
-      "Gırtlak",
-      "Yutak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alveoller, akciğerlerin en alt kısmında yer alan ve gaz değişimi gerçekleştiren yapılardır.",
-    "difficulty": 4
+    "explanation": "Larinks, sesin oluşumunda önemli bir rol oynar; ses telleri burada bulunur ve titreşimler sesin oluşmasını sağlar.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764522821892_1",
@@ -333,358 +61,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "Gaz değişimi akciğerlerde bulunan alveoller aracılığıyla gerçekleşir. Alveoller, oksijenin kana geçişini ve karbondioksitin atılmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522821893_8",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Bronşların görevi nedir?",
-    "options": [
-      "Havayı filtrelemek",
-      "Kanı pompalamak",
-      "Hava yollarını oluşturmak",
-      "Gaz değişimi yapmak",
-      "Oksijeni depolamak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bronşlar, trake ile akciğerler arasında hava taşıyan tüplerdir ve hava yollarını oluştururlar. Hava, bronşlar aracılığıyla akciğerlere ulaşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498848935_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Kanda karbondioksit taşınması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Karbondioksitin büyük bir bölümü, alyuvarlarda karbonik anhidraz enzimi aracılığıyla bikarbonat iyonlarına dönüştürülerek kan plazmasında taşınır.",
-      "Alyuvarlarda oluşan bikarbonat iyonları, klor iyonları ile yer değiştirerek plazmaya geçer.",
-      "Karbondioksitin bir kısmı doğrudan hemoglobinin amino grubuna bağlanarak karbominohemoglobin şeklinde taşınır.",
-      "Kan plazmasında çözünmüş halde de bir miktar karbondioksit taşınır.",
-      "Karbonik anhidraz enzimi hem doku kılcallarında hem de akciğer kılcallarında sadece tek yönlü reaksiyon gerçekleştirir."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Karbondioksit kanda üç şekilde taşınır: 1) Kan plazmasında çözünmüş halde (en az), 2) Hemoglobine bağlanarak (karbominohemoglobin), 3) Bikarbonat iyonları (HCO3-) şeklinde (en fazla). Doku kılcallarında, CO2 alyuvarlara girer ve karbonik anhidraz enzimi ile suyla birleşerek karbonik asit (H2CO3) oluşturur. Karbonik asit daha sonra H+ ve bikarbonat (HCO3-) iyonlarına ayrışır. HCO3-, \"klor kayması\" adı verilen bir olayla plazmaya çıkar. Akciğer kılcallarında ise bu reaksiyonlar tersine işler. Plazmadaki HCO3- tekrar alyuvara girer, H+ ile birleşerek H2CO3'ü oluşturur ve aynı karbonik anhidraz enzimi bu sefer H2CO3'ü CO2 ve H2O'ya parçalar. Dolayısıyla karbonik anhidraz enzimi çift yönlü (tersinir) çalışan bir enzimdir. Bu nedenle E şıkkı yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802236_16",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, solunum sisteminin başlangıcında yer alır ve havanın içeriğini filtre eder?",
-    "options": [
-      "Burun",
-      "Gırtlak",
-      "Yutak",
-      "Trakea",
-      "Bronşlar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Burun, havayı filtreleyen ve ısıtan ilk yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519405524_1",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
-    "options": [
-      "Üst solunum yolu - Alt solunum yolu",
-      "Akciğerler - Kalp",
-      "Bronşlar - Trakea",
-      "Yutak - Gırtlak",
-      "Alveoller - Bronşlar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Solunum sistemi, üst solunum yolu (burnu, yutak ve gırtlak) ve alt solunum yolu (trakea ve akciğerler) olmak üzere iki ana bölümden oluşur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525017920_16",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi kas grubu solunum sırasında sıkça kullanılır?",
-    "options": [
-      "Diyafram ve interkostal kaslar",
-      "Karın kasları",
-      "Sırt kasları",
-      "Bacak kasları",
-      "Kolları kaldıran kaslar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Diyafram ve interkostal kaslar, solunum sırasında kasılarak akciğerlerin genişlemesini sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522821892_4",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi durum solunum sistemini olumsuz etkileyebilir?",
-    "options": [
-      "Düzenli egzersiz",
-      "Yüksek nem",
-      "Sigara içmek",
-      "Temiz hava",
-      "Yeterli uyku"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sigara içmek, solunum sistemi üzerinde ciddi olumsuz etkilere yol açar; akciğer kanseri, kronik obstrüktif akciğer hastalığı gibi birçok hastalığın riskini artırır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501512467_1",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "İnsanlarda solunum hızının düzenlenmesinde görevli olan omurilik soğanı ve ponstaki solunum merkezlerinin uyarılmasında en etkili ve birincil kimyasal faktör aşağıdakilerden hangisidir?",
-    "options": [
-      "Kandaki oksijen konsantrasyonunun kritik seviyenin altına düşmesi",
-      "Kan ve beyin-omurilik sıvısındaki (BOS) karbondioksit miktarının artması",
-      "Akciğerlerdeki alveollerin aşırı gerilmesiyle oluşan sinirsel uyarılar",
-      "Kandaki adrenalin hormonunun seviyesindeki artış",
-      "Kan plazmasındaki laktik asit miktarının artması"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Solunum hızının düzenlenmesindeki en önemli ve birincil faktör, kan ve özellikle beyin-omurilik sıvısındaki (BOS) karbondioksit seviyesidir. Kandaki CO₂ seviyesi arttığında, CO₂ kan-beyin bariyerini kolayca geçerek BOS'a ulaşır. Burada su ile reaksiyona girerek karbonik asit oluşturur ve bu da H⁺ iyonu konsantrasyonunu artırarak BOS'un pH'ını düşürür. Omurilik soğanında bulunan merkezi kemoreseptörler, BOS'taki bu pH düşüşüne karşı çok hassastır ve solunum merkezlerini güçlü bir şekilde uyararak soluk alıp vermeyi hızlandırır. Kandaki oksijen seviyesinin düşmesi (hipoksi) ise daha çok aort ve şah damarındaki periferik kemoreseptörleri uyarır ve bu, CO₂'ye kıyasla ikincil ve daha az etkili bir uyarıcıdır. Adrenalin ve laktik asit solunumu hızlandırsa da birincil düzenleyici CO₂ ve buna bağlı pH değişimidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519405524_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "İnsanlarda solunum sırasında oksijenin akciğerlerden kana geçişi hangi yapı aracılığıyla gerçekleşir?",
-    "options": [
-      "Bronşlar",
-      "Alveoller",
-      "Trakea",
-      "Yutak",
-      "Gırtlak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Oksijen, alveoller aracılığıyla akciğerlerden kana geçer. Alveoller, gaz alışverişinin gerçekleştiği hava kesecikleridir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802237_36",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi hastalık, akciğerlerde iltihaplanma ve sıvı birikimi ile karakterizedir?",
-    "options": [
-      "Zatürre",
-      "Astım",
-      "Kronik bronşit",
-      "Akciğer kanseri",
-      "Tüberküloz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zatürre, akciğerlerde iltihaplanma ve sıvı birikimine neden olan bir hastalıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017919_1",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, hava yollarında yabancı cisimlerin tutulmasında önemlidir?",
-    "options": [
-      "Alveoller",
-      "Bronşlar",
-      "Trakea",
-      "Mukoza",
-      "Larinks"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Larinks, refleks olarak yabancı cisimlerin tutulmasında önemli bir rol oynar. Mukoza, hava yollarını koruyan ve yabancı cisimlerin tutulmasını sağlayan bir örtüdür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528802236_13",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi durum, solunum sisteminin etkili çalışmasını engeller?",
-    "options": [
-      "Akciğer kanseri",
-      "Yüksek irtifa",
-      "Düzenli egzersiz",
-      "Dengeli beslenme",
-      "Temiz hava"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akciğer kanseri, solunum sisteminin işlevini bozan bir hastalıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_1",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Akciğerlerde gaz değişim süreci hangi yapı sayesinde gerçekleşir?",
-    "options": [
-      "Bronş",
-      "Alveol",
-      "Trakea",
-      "Pulmoner arter",
-      "Kardiyovasküler sistem"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alveoller, akciğerlerdeki hava kesecikleridir ve burada oksijen ve karbondioksit değişimi gerçekleşir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_5",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sırasında akciğerlerin genişlemesi hangi kasların kasılmasıyla sağlanır?",
-    "options": [
-      "Karın kasları",
-      "Diyafram ve interkostal kaslar",
-      "Sırt kasları",
-      "Boyun kasları",
-      "Sadece interkostal kaslar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Diyafram ve interkostal kaslar kasıldığında akciğerlerdeki hacim artar ve hava akışı sağlanır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017920_26",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Karbondioksit seviyesinin artması, vücutta hangi durumu tetikler?",
-    "options": [
-      "Hızlı nefes alma",
-      "Yavaş nefes alma",
-      "Nefes durması",
-      "Aşırı yorgunluk",
-      "Düşük enerji"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Karbondioksit seviyesinin artması, vücutta hızlı nefes almayı tetikler; bu, vücudun oksijen ihtiyacını karşılamak için bir tepkidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525017920_25",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi durum, akciğerlerde hava keseciklerinin iltihaplanmasına yol açabilir?",
-    "options": [
-      "Zatürre",
-      "Astım",
-      "Bronşit",
-      "Hava kirliliği",
-      "Tütün kullanımı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zatürre, akciğerlerde hava keseciklerinin iltihaplanmasına yol açan bir enfeksiyondur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522821893_9",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Akciğerler hangi iki ana bölümden oluşur?",
-    "options": [
-      "Sağ ve sol loblar",
-      "Üst ve alt loblar",
-      "Ön ve arka loblar",
-      "Yüksek ve düşük loblar",
-      "Dış ve iç loblar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akciğerler, sağ ve sol loblar olarak iki ana bölümden oluşur. Sağ akciğer üç lobdan, sol akciğer ise iki lobdan oluşur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500220717_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "İnsanlarda normal bir soluk alma (inspirasyon) süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Diyafram kası kasılarak düzleşir.",
-      "Kaburgalar arası kaslar kasılarak göğüs kafesini yukarı ve öne doğru hareket ettirir.",
-      "Göğüs boşluğunun hacmi artar, iç basıncı düşer.",
-      "Akciğerler genişler ve akciğer iç basıncı atmosfer basıncının altına düşer.",
-      "Karın boşluğunun hacmi artar ve karın iç basıncı düşer."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Soluk alma sırasında diyafram kası kasılarak aşağı doğru hareket eder ve düzleşir. Bu durum, üstteki göğüs boşluğunun hacmini artırırken, alttaki karın boşluğunu sıkıştırır. Dolayısıyla karın boşluğunun hacmi azalır ve karın iç basıncı artar. Diğer şıklardaki olaylar ise soluk alma sırasında doğru bir şekilde gerçekleşir: Kaburgalar arası kasların kasılması ve diyaframın düzleşmesi göğüs boşluğu hacmini artırır. Hacim artışıyla düşen basınç (akciğer iç basıncı < atmosfer basıncı), havanın akciğerlere dolmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802237_22",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Akciğerlerde gaz değişimi hangi kan damarları aracılığıyla gerçekleşir?",
-    "options": [
-      "Pulmoner arterler",
-      "Pulmoner venler",
-      "Aort",
-      "Bacak damarları",
-      "Karotis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pulmoner venler, oksijenlenmiş kanı akciğerlerden kalbe taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017919_4",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin en önemli fonksiyonlarından biri nedir?",
-    "options": [
-      "Hormon üretimi",
-      "Gaz alışverişi",
-      "Besin sindirimi",
-      "Atık maddelerin depolanması",
-      "Vücut sıcaklığının düzenlenmesi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Solunum sisteminin en önemli fonksiyonu, oksijen alıp karbondioksit vermektir. Bu işlem, gaz alışverişi olarak adlandırılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522821892_5",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi gaz solunum sırasında alınır?",
-    "options": [
-      "Karbon dioksit",
-      "Oksijen",
-      "Amonyak",
-      "Nitrik oksit",
-      "Metan"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Solunum sırasında oksijen alınır. Hücreler, enerji üretimi için oksijeni kullanırken, karbondioksit yan ürün olarak üretilir ve dışarı atılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522821892_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
-    "options": [
-      "Üst solunum yolları ve alt solunum yolları",
-      "Ağız ve burun",
-      "Akciğerler ve diafram",
-      "Kan damarları ve kalp",
-      "Sinir sistemi ve solunum"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Solunum sistemi, üst solunum yolları (burun, farinks, larinks) ve alt solunum yolları (trake, bronşlar, akciğerler) olmak üzere iki ana bölümden oluşur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522821892_3",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "İnsanlarda normal solunum hızı dakikada kaç kezdir?",
-    "options": [
-      "10-15",
-      "12-20",
-      "20-25",
-      "25-30",
-      "30-35"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İnsanlarda normal solunum hızı genellikle dakikada 12-20 kezdir. Bu, bireylerin yaşına, sağlık durumuna ve aktivite seviyesine bağlı olarak değişebilir.",
     "difficulty": 3
   },
   {
@@ -704,483 +80,35 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764525017919_12",
+    "id": "ai_1764525017919_5",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Akciğerde gaz değişimi hangi yapıların yüzeyinde gerçekleşir?",
+    "questionText": "Hangi durum solunum sisteminin normal çalışmasını olumsuz etkileyebilir?",
     "options": [
-      "Büyük bronşlar",
-      "Alveoller",
-      "Trakea",
-      "Mukoza",
-      "Larinks"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Gaz değişimi, alveollerin yüzeyinde gerçekleşir; alveoller, ince duvarları sayesinde oksijen ve karbondioksit alışverişine olanak tanır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525017920_24",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi hastalık, solunum yollarında kalıcı hasara yol açabilir?",
-    "options": [
-      "Kronik obstrüktif akciğer hastalığı",
-      "Grip",
-      "Soğuk algınlığı",
-      "Zatürre",
-      "Astım"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kronik obstrüktif akciğer hastalığı (KOAH), solunum yollarında kalıcı hasara yol açabilir ve nefes almayı zorlaştırır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526219732_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi insan solunum sisteminin ana işlevlerinden biri değildir?",
-    "options": [
-      "A) Oksijenin kan yoluyla dokulara taşınması",
-      "B) Karbondioksitin vücut dışına atılması",
-      "C) Sesin üretilmesi",
-      "D) Vücut sıcaklığının düzenlenmesi",
-      "E) Besin maddelerinin sindirilmesi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "İnsan solunum sisteminin ana işlevleri arasında oksijenin alınıp karbondioksitin dışarı atılması, sesin üretilmesi ve bazı durumlarda vücut sıcaklığının düzenlenmesi yer almaktadır. Ancak besin maddelerinin sindirilmesi sindirim sistemi ile ilgili bir işlevdir ve solunum sistemi ile bir bağlantısı yoktur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_17",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin hangi bölümü, sesin oluşumunda en önemli rolü oynar?",
-    "options": [
-      "Alveoller",
-      "Bronşlar",
-      "Trakea",
-      "Gırtlak",
-      "Yutak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Gırtlak, ses tellerinin bulunduğu ve sesin oluştuğu bölgedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017919_3",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sırasında akciğerlerin genişlemesi hangi kasların kasılması ile gerçekleşir?",
-    "options": [
-      "Diyafram ve interkostal kaslar",
-      "Sırt kasları",
-      "Karın kasları",
-      "Pektoral kaslar",
-      "Oblik kaslar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Diyafram ve interkostal kaslar, solunum sırasında akciğerlerin genişlemesine yardımcı olan kaslardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525017920_18",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, solunum sisteminin en büyük hava yolu olarak işlev görür?",
-    "options": [
-      "Trakea",
-      "Bronşlar",
-      "Alveoller",
-      "Larinks",
-      "Burun"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Trakea, solunum sisteminin en büyük hava yolu olup, havanın akciğerlere ulaşmasını sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519405524_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi gaz, solunum sırasında vücut hücrelerine oksijen sağlarken, aynı zamanda karbondioksitin atılmasını sağlar?",
-    "options": [
-      "Azot",
-      "Oksijen",
-      "Karbonmonoksit",
-      "Hidrojen",
-      "Karbondioksit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Oksijen, solunum sürecinde önemli bir gazdır. Vücut hücrelerine enerji üretiminde gerekli olan oksijen sağlarken, karbondioksit atılmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525017920_14",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Karbondioksit, kanda hangi biçimde taşınır?",
-    "options": [
-      "Serbest gaz olarak",
-      "Amino asitlerle",
-      "Hidrojene bağlı",
-      "Bikarbonat iyonu olarak",
-      "Proteinle"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Karbondioksit, kanda çoğunlukla bikarbonat iyonu şeklinde taşınır. Bu, karbondioksitin vücutta taşınmasının en yaygın yoludur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525017920_19",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin en dış katmanını hangi yapı oluşturur?",
-    "options": [
-      "Pleura",
-      "Alveoler",
-      "Bronşiolar",
-      "Trakea",
-      "Burun"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pleura, akciğerleri çevreleyen ve akciğerlerin hareketini kolaylaştıran en dış katmandır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522821894_14",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sırasında vücut hangi iki temel gazı değiştirir?",
-    "options": [
-      "Amonyak ve oksijen",
-      "Oksijen ve karbondioksit",
-      "Hidrojen ve azot",
-      "Oksijen ve metan",
-      "Karbon dioksit ve azot"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Solunum sırasında vücut oksijen alırken, karbondioksit atar. Bu temel gaz değişimi, hücresel solunum için gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802236_18",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Hava sadece burundan alınır.",
-      "Karbondioksit vücutta birikir.",
-      "Oksijen, akciğerlerden kana geçer.",
-      "Akciğerler dışarıdan hava almaz.",
-      "Solunum sadece gırtlakta gerçekleşir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Oksijen, akciğerlerde alveollerden kana geçer.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520366754_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "İnsan solunum sisteminde gaz değişiminin gerçekleştiği ana yapı hangisidir?",
-    "options": [
-      "Bronşlar",
-      "Alveoller",
-      "Trakea",
-      "Burun",
-      "Yutak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alveoller, akciğerlerin içinde bulunan küçük hava kesecikleridir ve burada oksijen ve karbondioksit gazlarının kan ile değişimi gerçekleşir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802236_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı solunum sırasında hava akışını düzenler?",
-    "options": [
-      "Gırtlak",
-      "Yutak",
-      "Burun",
-      "Trakea",
-      "Bütün seçenekler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Gırtlak, yutak, burun ve trakea birlikte hava akışını düzenler ve solunum sisteminin düzgün çalışmasını sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017920_23",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, gaz değişimi sırasında kanın oksijen alımını artırır?",
-    "options": [
-      "Alveoler",
-      "Bronşlar",
-      "Trakea",
-      "Larinks",
-      "Burun"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alveoller, gaz değişimi sırasında kanın oksijen alımını artıran yapılandır. İnce duvarları sayesinde oksijen geçişini kolaylaştırır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525017920_29",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi faktör, akciğerlerin genişleyip daralmasını etkileyen en önemli faktördür?",
-    "options": [
-      "Hava basıncı",
-      "Vücut sıcaklığı",
-      "Kan hacmi",
-      "Beslenme durumu",
-      "Vücut pH'ı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hava basıncı, akciğerlerin genişleyip daralmasını etkileyen en önemli faktördür; dış ortam basıncı akciğerlere hava girişini belirler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522821892_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sırasında diyaframın rolü nedir?",
-    "options": [
-      "Hava akışını yönlendirmek",
-      "Hava basıncını artırmak",
-      "Akciğerleri genişletmek ve daraltmak",
-      "Karbondioksiti dışarı atmak",
-      "Oksijeni emmek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Diyafram, kasıldığında akciğerlerin hacmini artırarak içeri hava girmesini sağlar; gevşediğinde ise akciğerlerin hacmini azaltarak havanın dışarı çıkmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802236_12",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin temel bir işlevi olarak, karbondioksit atılımı hangi süreçle gerçekleşir?",
-    "options": [
-      "Difüzyon",
-      "Osmoz",
-      "Aktif taşıma",
-      "Pasif taşıma",
-      "Filtrasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Karbondioksit, alveollerden kan damarlarına ve dış ortamda difüzyon yoluyla atılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802237_31",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi durum solunum sisteminin işleyişini olumsuz etkileyebilir?",
-    "options": [
-      "Düzenli spor yapmak",
-      "Hava kirliliği",
-      "Dengeli beslenmek",
+      "Düzenli egzersiz",
+      "Sigara içmek",
+      "Sağlıklı beslenme",
       "Bol su içmek",
       "Yeterli uyku almak"
     ],
     "correctAnswer": 1,
-    "explanation": "Hava kirliliği, solunum sisteminin işleyişini olumsuz etkileyebilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802237_25",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Oksijenin kana geçişi hangi mekanizma ile gerçekleşir?",
-    "options": [
-      "Difüzyon",
-      "Osmoz",
-      "Aktif taşıma",
-      "Pasif taşıma",
-      "Filtrasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Oksijen, alveollerden kan damarlarına difüzyon yolu ile geçer.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802237_34",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Alveol duvarlarında bulunan hücrelerin ana görevi nedir?",
-    "options": [
-      "Gaz değişimi",
-      "Ses üretimi",
-      "Hava temizleme",
-      "Asit-baz dengesini sağlama",
-      "Hava ısıtma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alveol duvarları, gaz değişiminin gerçekleştiği yerlerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017920_27",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi ile ilgili olarak yanlış olan ifadeyi belirleyin.",
-    "options": [
-      "Akciğerler gaz alışverişi yapar.",
-      "Diyafram kasılırken hava akciğerlere girer.",
-      "Bronşlar doğrudan kan dolaşımına bağlıdır.",
-      "Alveoller gaz değişimi için özelleşmiştir.",
-      "Solunum yolu enfeksiyonları solunum sistemini etkiler."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bronşlar doğrudan kan dolaşımına bağlı değildir; bronşlar, havayı akciğerlere ileten hava yollarıdır.",
+    "explanation": "Sigara içmek, solunum sistemini olumsuz yönde etkileyerek akciğer hastalıklarına yol açabilir ve gaz alışverişini bozar.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764522821894_13",
+    "id": "ai_1764500220717_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Karbondioksit, vücutta hangi organ tarafından atılır?",
+    "questionText": "İnsanlarda normal bir soluk alma (inspirasyon) süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Böbrekler",
-      "Karaciğer",
-      "Akciğerler",
-      "Bağırsaklar",
-      "Deri"
+      "Diyafram kası kasılarak düzleşir.",
+      "Kaburgalar arası kaslar kasılarak göğüs kafesini yukarı ve öne doğru hareket ettirir.",
+      "Göğüs boşluğunun hacmi artar, iç basıncı düşer.",
+      "Akciğerler genişler ve akciğer iç basıncı atmosfer basıncının altına düşer.",
+      "Karın boşluğunun hacmi artar ve karın iç basıncı düşer."
     ],
-    "correctAnswer": 2,
-    "explanation": "Karbondioksit, akciğerler aracılığıyla dışarı atılır. Oksijenin alınmasıyla birlikte karbondioksit atılması, solunumun temel bir parçasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528802236_10",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin enfeksiyonlarına karşı koruma sağlayan hücreler hangileridir?",
-    "options": [
-      "Eritrositler",
-      "Lökositler",
-      "Trombositler",
-      "Fibroblastlar",
-      "Kardiyomiyositler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Lökositler, bağışıklık sisteminin bir parçasıdır ve enfeksiyonlara karşı koruma sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802236_14",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi madde, akciğerlerin genişleyebilmesi için gerekli olan yüzey gerilimini azaltır?",
-    "options": [
-      "Surfactan",
-      "Albümin",
-      "Kreatin",
-      "Glukoz",
-      "Fibrin"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Surfactan, alveollerde yüzey gerilimini azaltarak akciğerlerin düzgün çalışmasını sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522821893_10",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin temel işlevlerinden biri nedir?",
-    "options": [
-      "Sindirim",
-      "Hücre bölünmesi",
-      "Gaz değişimi",
-      "Besin depolama",
-      "Duyusal algılama"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Solunum sisteminin en temel işlevi, oksijen alıp karbondioksit atarak gaz değişimini sağlamaktır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525017919_11",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, sesin oluşumunda önemli bir rol oynar?",
-    "options": [
-      "Bronşlar",
-      "Diyafram",
-      "Larinks",
-      "Alveoller",
-      "Trakea"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Larinks, sesin oluşumunda önemli bir rol oynar; ses telleri burada bulunur ve titreşimler sesin oluşmasını sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528802236_0",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi solunum sisteminin ana görevlerinden biridir?",
-    "options": [
-      "Oksijen üretmek",
-      "Karbon dioksit depolamak",
-      "Hava sıcaklığını ayarlamak",
-      "Hava alışverişini sağlamak",
-      "Asit-baz dengesini bozmak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Solunum sistemi, vücuda oksijen alırken, karbondioksiti dışarı atarak hava alışverişini sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017919_2",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Oksijenin kanda taşınmasında hangi molekül ana rolü oynar?",
-    "options": [
-      "Karbonik anhidraz",
-      "Hemoglobin",
-      "Miyoglobin",
-      "Serum albumin",
-      "Lipoprotein"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Oksijen, kanda hemoglobin molekülü ile taşınır. Hemoglobin, oksijenin bağlanmasını sağlayan bir protein yapısına sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528802237_30",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi solunum sisteminin bir parçası değildir?",
-    "options": [
-      "Trakea",
-      "Bronş",
-      "Alveol",
-      "Karaciğer",
-      "Gırtlak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Karaciğer, sindirim sisteminin bir parçasıdır; solunum sisteminin bir parçası değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522821892_6",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminin enfeksiyonlarına ne ad verilir?",
-    "options": [
-      "Solunum yolu enfeksiyonları",
-      "Sindirim yolu enfeksiyonları",
-      "Bağışıklık yetmezliği",
-      "Kardiyovasküler hastalıklar",
-      "Diyabet"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Solunum sistemi enfeksiyonları, genellikle virüsler veya bakteriler tarafından meydana gelir ve soğuk algınlığı, grip, bronşit gibi hastalıkları içerir.",
+    "correctAnswer": 4,
+    "explanation": "Soluk alma sırasında diyafram kası kasılarak aşağı doğru hareket eder ve düzleşir. Bu durum, üstteki göğüs boşluğunun hacmini artırırken, alttaki karın boşluğunu sıkıştırır. Dolayısıyla karın boşluğunun hacmi azalır ve karın iç basıncı artar. Diğer şıklardaki olaylar ise soluk alma sırasında doğru bir şekilde gerçekleşir: Kaburgalar arası kasların kasılması ve diyaframın düzleşmesi göğüs boşluğu hacmini artırır. Hacim artışıyla düşen basınç (akciğer iç basıncı < atmosfer basıncı), havanın akciğerlere dolmasını sağlar.",
     "difficulty": 3
   },
   {
@@ -1200,99 +128,131 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764525017920_15",
+    "id": "ai_1764528802237_32",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
+    "questionText": "Aşağıdakilerden hangisi solunum sırasında akciğerlere girmeyen bir gazdır?",
     "options": [
-      "Üst solunum yolu ve alt solunum yolu",
-      "Akciğerler ve kalp",
-      "Karaciğerler ve böbrekler",
-      "Burun ve ağız",
-      "Trakea ve bronşlar"
+      "Oksijen",
+      "Karbon dioksit",
+      "Hidrojen",
+      "Nitrojen",
+      "Argon"
     ],
-    "correctAnswer": 0,
-    "explanation": "Solunum sistemi, üst solunum yolu (burun, boğaz) ve alt solunum yolu (trakea, bronşlar, akciğerler) olarak iki ana bölümden oluşur.",
+    "correctAnswer": 2,
+    "explanation": "Hidrojen, solunum sırasında akciğerlere girmeyen bir gazdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_27",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sistemi ile ilgili olarak yanlış olan ifadeyi belirleyin.",
+    "options": [
+      "Akciğerler gaz alışverişi yapar.",
+      "Diyafram kasılırken hava akciğerlere girer.",
+      "Bronşlar doğrudan kan dolaşımına bağlıdır.",
+      "Alveoller gaz değişimi için özelleşmiştir.",
+      "Solunum yolu enfeksiyonları solunum sistemini etkiler."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bronşlar doğrudan kan dolaşımına bağlı değildir; bronşlar, havayı akciğerlere ileten hava yollarıdır.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764528802237_27",
+    "id": "ai_1764525017920_18",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Hangi gaz, solunum sistemi aracılığıyla atılır?",
+    "questionText": "Hangi yapı, solunum sisteminin en büyük hava yolu olarak işlev görür?",
     "options": [
-      "Oksijen",
-      "Hidrojen",
-      "Karbon dioksit",
-      "Metan",
-      "Nitrojen"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Solunum sırasında karbondioksit, vücuttan dışarı atılan gazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528802237_26",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, akciğerlerin içine hava girmesini sağlar?",
-    "options": [
-      "Diyafram",
-      "Bronş",
       "Trakea",
-      "Yutak",
-      "Gırtlak"
+      "Bronşlar",
+      "Alveoller",
+      "Larinks",
+      "Burun"
     ],
     "correctAnswer": 0,
-    "explanation": "Diyaframın kasılması akciğerlerin hacmini artırarak havanın girmesini sağlar.",
-    "difficulty": 4
+    "explanation": "Trakea, solunum sisteminin en büyük hava yolu olup, havanın akciğerlere ulaşmasını sağlar.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764498848935_1",
+    "id": "ai_1764522821893_11",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "İnsanda soluk verme (ekspirasyon) sırasında aşağıdaki olaylardan hangisi gerçekleşir?",
+    "questionText": "Hangi hastalık, solunum yollarının daralmasına ve nefes darlığına yol açar?",
     "options": [
-      "Diyafram kası kasılarak düzleşir.",
-      "Kaburgalar arası kaslar kasılarak göğüs kafesini yukarı ve dışa doğru hareket ettirir.",
-      "Göğüs boşluğunun hacmi artar.",
-      "Akciğerlerin iç basıncı atmosfer basıncının altına düşer.",
-      "Göğüs boşluğunun hacminin azalmasıyla akciğerler sıkışır ve iç basınç artar."
+      "Astım",
+      "Şeker hastalığı",
+      "Kalp yetmezliği",
+      "Böbrek yetmezliği",
+      "Kanser"
     ],
-    "correctAnswer": 4,
-    "explanation": "Soluk verme, genellikle pasif bir olaydır. Bu sırada soluk almada kasılan kaslar gevşer. Diyafram kası gevşeyerek kubbeleşir. Kaburgalar arası kaslar gevşer ve göğüs kafesi aşağı ve içe doğru hareket eder. Bu iki olay sonucunda göğüs boşluğunun hacmi azalır. Göğüs boşluğu hacminin azalması, akciğerlerin sıkışmasına ve akciğer içindeki havanın basıncının atmosfer basıncından daha yüksek bir seviyeye çıkmasına neden olur. Bu basınç farkı, havanın akciğerlerden dışarı çıkmasını sağlar. Diğer şıklardaki olaylar (A, B, C) soluk alma (inspirasyon) sırasında gerçekleşir. D şıkkı da soluk alma sırasında gerçekleşen bir durumdur.",
+    "correctAnswer": 0,
+    "explanation": "Astım, solunum yollarının iltihaplanması ve daralması ile karakterize bir hastalıktır, bu da nefes darlığına yol açar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764528802236_9",
+    "id": "ai_1764525017920_29",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Bronşlar, hangi yapıların dalgalarına ayrılır?",
+    "questionText": "Hangi faktör, akciğerlerin genişleyip daralmasını etkileyen en önemli faktördür?",
     "options": [
-      "Alveoller",
-      "Akciğerler",
-      "Trakea",
-      "Yutak",
-      "Gırtlak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bronşlar, trakeanın iki ana dalıdır ve akciğerlere hava taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017919_9",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Hangi hastalık, solunum sisteminin iltihaplanmasına neden olur?",
-    "options": [
-      "Astım",
-      "Diabet",
-      "Hipertansiyon",
-      "Artrit",
-      "Migren"
+      "Hava basıncı",
+      "Vücut sıcaklığı",
+      "Kan hacmi",
+      "Beslenme durumu",
+      "Vücut pH'ı"
     ],
     "correctAnswer": 0,
-    "explanation": "Astım, solunum yollarının iltihaplanmasına neden olan bir hastalıktır ve nefes almayı zorlaştırabilir.",
+    "explanation": "Hava basıncı, akciğerlerin genişleyip daralmasını etkileyen en önemli faktördür; dış ortam basıncı akciğerlere hava girişini belirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520366754_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "İnsan solunum sisteminde gaz değişiminin gerçekleştiği ana yapı hangisidir?",
+    "options": [
+      "Bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Burun",
+      "Yutak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alveoller, akciğerlerin içinde bulunan küçük hava kesecikleridir ve burada oksijen ve karbondioksit gazlarının kan ile değişimi gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525017919_4",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin en önemli fonksiyonlarından biri nedir?",
+    "options": [
+      "Hormon üretimi",
+      "Gaz alışverişi",
+      "Besin sindirimi",
+      "Atık maddelerin depolanması",
+      "Vücut sıcaklığının düzenlenmesi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sisteminin en önemli fonksiyonu, oksijen alıp karbondioksit vermektir. Bu işlem, gaz alışverişi olarak adlandırılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525017919_8",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum yoluyla alınan havanın nemlendirilmesi hangi yapıda gerçekleşir?",
+    "options": [
+      "Burun",
+      "Trakea",
+      "Bronşlar",
+      "Alveoller",
+      "Larinks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hava, burun boşluğunda nemlendirilir. Burun, havanın ısınmasını ve nemlenmesini sağlayan yapıdır.",
     "difficulty": 5
   },
   {
@@ -1312,100 +272,116 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764525017919_0",
+    "id": "ai_1764522821892_2",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sisteminde gaz alışverişinin gerçekleştiği temel yapı hangisidir?",
+    "questionText": "Solunum sırasında diyaframın rolü nedir?",
     "options": [
+      "Hava akışını yönlendirmek",
+      "Hava basıncını artırmak",
+      "Akciğerleri genişletmek ve daraltmak",
+      "Karbondioksiti dışarı atmak",
+      "Oksijeni emmek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diyafram, kasıldığında akciğerlerin hacmini artırarak içeri hava girmesini sağlar; gevşediğinde ise akciğerlerin hacmini azaltarak havanın dışarı çıkmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525017919_9",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi hastalık, solunum sisteminin iltihaplanmasına neden olur?",
+    "options": [
+      "Astım",
+      "Diabet",
+      "Hipertansiyon",
+      "Artrit",
+      "Migren"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Astım, solunum yollarının iltihaplanmasına neden olan bir hastalıktır ve nefes almayı zorlaştırabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802236_5",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sırasında akciğerlerin genişlemesi hangi kasların kasılmasıyla sağlanır?",
+    "options": [
+      "Karın kasları",
+      "Diyafram ve interkostal kaslar",
+      "Sırt kasları",
+      "Boyun kasları",
+      "Sadece interkostal kaslar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diyafram ve interkostal kaslar kasıldığında akciğerlerdeki hacim artar ve hava akışı sağlanır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_23",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, gaz değişimi sırasında kanın oksijen alımını artırır?",
+    "options": [
+      "Alveoler",
       "Bronşlar",
-      "Alveoller",
       "Trakea",
       "Larinks",
       "Burun"
     ],
-    "correctAnswer": 1,
-    "explanation": "Gaz alışverişi, alveollerde gerçekleşir. Alveoller, oksijenin kana geçişi ve karbondioksitin dışarı atılmasını sağlayan hava kesecikleridir.",
+    "correctAnswer": 0,
+    "explanation": "Alveoller, gaz değişimi sırasında kanın oksijen alımını artıran yapılandır. İnce duvarları sayesinde oksijen geçişini kolaylaştırır.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764528802237_23",
+    "id": "ai_1764522821892_6",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Hangi yapı, solunum sisteminin alt kısmında bulunur ve akciğerlere hava taşır?",
+    "questionText": "Solunum sisteminin enfeksiyonlarına ne ad verilir?",
     "options": [
-      "Bronşlar",
-      "Trakea",
-      "Gırtlak",
-      "Yutak",
-      "Burun"
+      "Solunum yolu enfeksiyonları",
+      "Sindirim yolu enfeksiyonları",
+      "Bağışıklık yetmezliği",
+      "Kardiyovasküler hastalıklar",
+      "Diyabet"
     ],
     "correctAnswer": 0,
-    "explanation": "Bronşlar, trakeadan sonra akciğerlere hava taşıyan yapılardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522821893_7",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Akciğerlerdeki hava keseciklerine ne ad verilir?",
-    "options": [
-      "Alveoller",
-      "Bronşlar",
-      "Trake",
-      "Pulmoner arter",
-      "Diğerleri"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Akciğerlerde bulunan hava keseciklerine alveol denir. Bu kesecikler, gaz değişiminin gerçekleştiği temel yapılardır.",
+    "explanation": "Solunum sistemi enfeksiyonları, genellikle virüsler veya bakteriler tarafından meydana gelir ve soğuk algınlığı, grip, bronşit gibi hastalıkları içerir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764528802237_28",
+    "id": "ai_1764528802237_31",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Alveoller hangi işlemi gerçekleştiren yapılar olarak bilinir?",
+    "questionText": "Hangi durum solunum sisteminin işleyişini olumsuz etkileyebilir?",
     "options": [
-      "Gaz değişimi",
-      "Ses üretimi",
-      "Hava sıcaklığını ayarlama",
-      "Hava temizleme",
-      "Asit-baz dengesini sağlama"
+      "Düzenli spor yapmak",
+      "Hava kirliliği",
+      "Dengeli beslenmek",
+      "Bol su içmek",
+      "Yeterli uyku almak"
     ],
-    "correctAnswer": 0,
-    "explanation": "Alveoller, gaz değişimi yapan yapılar olarak bilinir.",
+    "correctAnswer": 1,
+    "explanation": "Hava kirliliği, solunum sisteminin işleyişini olumsuz etkileyebilir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528802237_35",
+    "id": "ai_1764528802236_11",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sistemindeki hangi yapı, sesi yükseltmek için kullanılır?",
+    "questionText": "Hangi yapı, burundan akciğerlere giden havayı ısıtır ve nemlendirir?",
     "options": [
-      "Gırtlak",
       "Yutak",
-      "Burun",
-      "Alveol",
-      "Trakea"
+      "Gırtlak",
+      "Trakea",
+      "Bronşlar",
+      "Burun"
     ],
-    "correctAnswer": 0,
-    "explanation": "Gırtlak, ses tellerinin bulunduğu ve sesin oluştuğu bölgedir.",
+    "correctAnswer": 4,
+    "explanation": "Burun, havayı ısıtıp nemlendirerek akciğerlere ulaşmadan önce hazırlayan bir yapıdır.",
     "difficulty": 4
-  },
-  {
-    "id": "ai_1764525017920_20",
-    "subjectId": "biy",
-    "topic": "Solunum Sistemi",
-    "questionText": "Alerjik bir reaksiyon sonucunda hangi solunum yolu hastalığı ortaya çıkabilir?",
-    "options": [
-      "Astım",
-      "Zatürre",
-      "Bronşit",
-      "Kronik obstrüktif akciğer hastalığı",
-      "Pnömotoraks"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alerjik reaksiyonlar, astım hastalığını tetikleyebilir ve solunum yollarında iltihaplanmaya neden olabilir.",
-    "difficulty": 5
   },
   {
     "id": "ai_1764528802237_21",
@@ -1424,51 +400,179 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764525017919_7",
+    "id": "ai_1764519405524_0",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunum sırasında karbondioksit, hangi yapıdan dışarı atılır?",
+    "questionText": "İnsanlarda solunum sırasında oksijenin akciğerlerden kana geçişi hangi yapı aracılığıyla gerçekleşir?",
     "options": [
-      "Alveoller",
       "Bronşlar",
+      "Alveoller",
       "Trakea",
-      "Larinks",
-      "Burun"
+      "Yutak",
+      "Gırtlak"
     ],
-    "correctAnswer": 0,
-    "explanation": "Karbondioksit, alveollerde gaz değişimi sırasında kan dolaşımından alveollere geçer ve dışarı atılır.",
-    "difficulty": 5
+    "correctAnswer": 1,
+    "explanation": "Oksijen, alveoller aracılığıyla akciğerlerden kana geçer. Alveoller, gaz alışverişinin gerçekleştiği hava kesecikleridir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764525017920_21",
+    "id": "ai_1764500220717_1",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Solunumu kolaylaştıran ve akciğerlere hava girişi sağlayan yapı nedir?",
+    "questionText": "Aşağıdakilerden hangisi, kan ile doku hücreleri arasında gerçekleşen gaz alışverişi sırasında karbondioksitin taşınma yollarından biri değildir?",
     "options": [
-      "Bronşlar",
-      "Alveoller",
+      "Kan plazmasında çözünmüş olarak taşınması",
+      "Alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin şeklinde taşınması",
+      "Alyuvarlarda karbonik anhidraz enzimiyle su ile birleştirilip plazmaya oksihemoglobin olarak verilmesi",
+      "Kan plazmasında bikarbonat (HCO₃⁻) iyonları şeklinde taşınması",
+      "Alyuvarların sitoplazmasında bikarbonat iyonlarına dönüştürülmesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karbondioksitin kanda taşınmasının üç temel yolu vardır: 1) Çok küçük bir kısmı (%7) kan plazmasında çözünmüş halde. 2) Bir kısmı (%23) alyuvarlarda hemoglobine bağlanarak karbaminohemoglobin (HbCO₂) şeklinde. 3) En büyük kısmı (%70) ise alyuvarlarda karbonik anhidraz enzimi sayesinde su ile birleşerek karbonik aside (H₂CO₃) dönüşür, bu asit de bikarbonat (HCO₃⁻) ve H⁺ iyonlarına ayrışır. Oluşan bikarbonat iyonları plazmaya geçerek taşınır. C şıkkında belirtilen \"oksihemoglobin\" ise hemoglobinin oksijen bağlamış halidir ve oksijenin taşınmasıyla ilgilidir, karbondioksit taşınmasıyla doğrudan bir ilişkisi bu şekilde yoktur. Bu nedenle C şıkkı yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501512467_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Egzersiz yapan bir bireyin kas dokusu kılcallarında, kanda bulunan hemoglobinin oksijene olan ilgisinin (afinitesinin) azalarak oksijeni dokuya daha kolay bırakmasını sağlayan \"Bohr Etkisi\" ile ilgili olarak, aşağıdaki faktörlerden hangisinin bu etkiye doğrudan katkısı **en azdır**?",
+    "options": [
+      "Kandaki karbondioksit parsiyel basıncının artması",
+      "Kan plazmasındaki bikarbonat iyonu (HCO₃⁻) derişiminin artması",
+      "Kan pH değerinin düşmesi (asitliğin artması)",
+      "Kas dokusunun sıcaklığının artması",
+      "Kandaki oksijen parsiyel basıncının düşmesi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bohr etkisi, hemoglobinin oksijen doygunluğunun, ortamdaki karbondioksit konsantrasyonu ve buna bağlı pH değişikliğinden etkilenmesidir. Egzersiz sırasında artan metabolik aktivite sonucu kas dokusunda CO₂ üretimi artar. Artan CO₂, H₂O ile birleşerek karbonik asit (H₂CO₃) oluşturur, bu da H⁺ ve bikarbonat (HCO₃⁻) iyonlarına ayrışır. Ortamdaki H⁺ iyonlarının artması pH'ı düşürür (asitliği artırır). Düşük pH ve yüksek CO₂ konsantrasyonu, hemoglobinin yapısını değiştirerek oksijene olan ilgisini azaltır ve oksijenin dokulara salınımını kolaylaştırır. Ayrıca artan kas aktivitesi sıcaklığı da yükseltir ve bu durum da hemoglobinin oksijeni bırakma eğilimini artırır. Ancak kandaki oksijen parsiyel basıncının düşmesi, Bohr etkisinin bir nedeni değil, hemoglobinin oksijeni dokuya bırakmasının bir sonucudur. Oksijen basıncının dokularda düşük olması zaten difüzyonun temel sebebidir, ancak hemoglobinin afinitesini doğrudan değiştiren ana faktörlerden (Bohr etkisi kapsamında) biri değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802236_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı solunum sırasında hava akışını düzenler?",
+    "options": [
+      "Gırtlak",
+      "Yutak",
+      "Burun",
       "Trakea",
-      "Diyafram",
+      "Bütün seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Gırtlak, yutak, burun ve trakea birlikte hava akışını düzenler ve solunum sisteminin düzgün çalışmasını sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_3",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin hangi kısmı ses üretiminde rol oynar?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Gırtlak",
+      "Yutak",
+      "Trakea"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gırtlak, ses tellerinin bulunduğu bölge olup ses üretiminde önemli bir rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501512467_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "İnsanlarda solunum hızının düzenlenmesinde görevli olan omurilik soğanı ve ponstaki solunum merkezlerinin uyarılmasında en etkili ve birincil kimyasal faktör aşağıdakilerden hangisidir?",
+    "options": [
+      "Kandaki oksijen konsantrasyonunun kritik seviyenin altına düşmesi",
+      "Kan ve beyin-omurilik sıvısındaki (BOS) karbondioksit miktarının artması",
+      "Akciğerlerdeki alveollerin aşırı gerilmesiyle oluşan sinirsel uyarılar",
+      "Kandaki adrenalin hormonunun seviyesindeki artış",
+      "Kan plazmasındaki laktik asit miktarının artması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum hızının düzenlenmesindeki en önemli ve birincil faktör, kan ve özellikle beyin-omurilik sıvısındaki (BOS) karbondioksit seviyesidir. Kandaki CO₂ seviyesi arttığında, CO₂ kan-beyin bariyerini kolayca geçerek BOS'a ulaşır. Burada su ile reaksiyona girerek karbonik asit oluşturur ve bu da H⁺ iyonu konsantrasyonunu artırarak BOS'un pH'ını düşürür. Omurilik soğanında bulunan merkezi kemoreseptörler, BOS'taki bu pH düşüşüne karşı çok hassastır ve solunum merkezlerini güçlü bir şekilde uyararak soluk alıp vermeyi hızlandırır. Kandaki oksijen seviyesinin düşmesi (hipoksi) ise daha çok aort ve şah damarındaki periferik kemoreseptörleri uyarır ve bu, CO₂'ye kıyasla ikincil ve daha az etkili bir uyarıcıdır. Adrenalin ve laktik asit solunumu hızlandırsa da birincil düzenleyici CO₂ ve buna bağlı pH değişimidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525017919_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, hava yollarında yabancı cisimlerin tutulmasında önemlidir?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Trakea",
+      "Mukoza",
       "Larinks"
     ],
     "correctAnswer": 3,
-    "explanation": "Diyafram, akciğerlere hava girişi sağlayarak solunumu kolaylaştıran ana kas grubudur.",
+    "explanation": "Larinks, refleks olarak yabancı cisimlerin tutulmasında önemli bir rol oynar. Mukoza, hava yollarını koruyan ve yabancı cisimlerin tutulmasını sağlayan bir örtüdür.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764528802237_32",
+    "id": "ai_1764528802236_15",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Aşağıdakilerden hangisi solunum sırasında akciğerlere girmeyen bir gazdır?",
+    "questionText": "Hangi hastalık, solunum yollarında iltihaplanma ve daralma ile karakterizedir?",
     "options": [
-      "Oksijen",
-      "Karbon dioksit",
-      "Hidrojen",
-      "Nitrojen",
-      "Argon"
+      "Astım",
+      "Kanser",
+      "Anemi",
+      "Şeker hastalığı",
+      "Yüksek tansiyon"
     ],
-    "correctAnswer": 2,
-    "explanation": "Hidrojen, solunum sırasında akciğerlere girmeyen bir gazdır.",
+    "correctAnswer": 0,
+    "explanation": "Astım, solunum yollarında iltihaplanma ve daralmaya neden olan bir hastalıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526219732_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi insan solunum sisteminin ana işlevlerinden biri değildir?",
+    "options": [
+      "A) Oksijenin kan yoluyla dokulara taşınması",
+      "B) Karbondioksitin vücut dışına atılması",
+      "C) Sesin üretilmesi",
+      "D) Vücut sıcaklığının düzenlenmesi",
+      "E) Besin maddelerinin sindirilmesi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "İnsan solunum sisteminin ana işlevleri arasında oksijenin alınıp karbondioksitin dışarı atılması, sesin üretilmesi ve bazı durumlarda vücut sıcaklığının düzenlenmesi yer almaktadır. Ancak besin maddelerinin sindirilmesi sindirim sistemi ile ilgili bir işlevdir ve solunum sistemi ile bir bağlantısı yoktur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522821894_12",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, solunum sisteminin üst kısmında yer alır ve sesin oluşumunda rol oynar?",
+    "options": [
+      "Larinks",
+      "Trake",
+      "Bronş",
+      "Alveol",
+      "Diyafram"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Larinks, ses tellerinin bulunduğu yapıdır ve sesin oluşumunda önemli bir rol oynar. Ayrıca, hava ile gıda yollarını ayırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802237_30",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi solunum sisteminin bir parçası değildir?",
+    "options": [
+      "Trakea",
+      "Bronş",
+      "Alveol",
+      "Karaciğer",
+      "Gırtlak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Karaciğer, sindirim sisteminin bir parçasıdır; solunum sisteminin bir parçası değildir.",
     "difficulty": 4
   },
   {
@@ -1488,6 +592,582 @@
     "difficulty": 5
   },
   {
+    "id": "ai_1764525017920_19",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin en dış katmanını hangi yapı oluşturur?",
+    "options": [
+      "Pleura",
+      "Alveoler",
+      "Bronşiolar",
+      "Trakea",
+      "Burun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pleura, akciğerleri çevreleyen ve akciğerlerin hareketini kolaylaştıran en dış katmandır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525017920_25",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi durum, akciğerlerde hava keseciklerinin iltihaplanmasına yol açabilir?",
+    "options": [
+      "Zatürre",
+      "Astım",
+      "Bronşit",
+      "Hava kirliliği",
+      "Tütün kullanımı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zatürre, akciğerlerde hava keseciklerinin iltihaplanmasına yol açan bir enfeksiyondur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525017919_10",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlere giden havanın temizlenmesinde hangi yapı önemli bir rol oynar?",
+    "options": [
+      "Mukoza",
+      "Alveoller",
+      "Diyafram",
+      "Larinks",
+      "Trakea"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mukoza, akciğerlere giden havanın temizlenmesinde önemli bir rol oynar; bu yapı, toz ve mikropları tutar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802236_13",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi durum, solunum sisteminin etkili çalışmasını engeller?",
+    "options": [
+      "Akciğer kanseri",
+      "Yüksek irtifa",
+      "Düzenli egzersiz",
+      "Dengeli beslenme",
+      "Temiz hava"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akciğer kanseri, solunum sisteminin işlevini bozan bir hastalıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_18",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sistemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Hava sadece burundan alınır.",
+      "Karbondioksit vücutta birikir.",
+      "Oksijen, akciğerlerden kana geçer.",
+      "Akciğerler dışarıdan hava almaz.",
+      "Solunum sadece gırtlakta gerçekleşir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Oksijen, akciğerlerde alveollerden kana geçer.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_22",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerde gaz değişimi hangi kan damarları aracılığıyla gerçekleşir?",
+    "options": [
+      "Pulmoner arterler",
+      "Pulmoner venler",
+      "Aort",
+      "Bacak damarları",
+      "Karotis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pulmoner venler, oksijenlenmiş kanı akciğerlerden kalbe taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_19",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi solunum sisteminin bir işlevi değildir?",
+    "options": [
+      "Gaz değişimi",
+      "Ses üretimi",
+      "Hava ısıtma",
+      "Kan pompalama",
+      "Hava nemlendirme"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kan pompalama, solunum sisteminin değil, dolaşım sisteminin bir işlevidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_15",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
+    "options": [
+      "Üst solunum yolu ve alt solunum yolu",
+      "Akciğerler ve kalp",
+      "Karaciğerler ve böbrekler",
+      "Burun ve ağız",
+      "Trakea ve bronşlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi, üst solunum yolu (burun, boğaz) ve alt solunum yolu (trakea, bronşlar, akciğerler) olarak iki ana bölümden oluşur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802237_20",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, akciğerlerdeki hava yollarına açılır?",
+    "options": [
+      "Trakea",
+      "Yutak",
+      "Gırtlak",
+      "Burun",
+      "Diyafram"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trakea, hava yollarının ana yoludur ve akciğerlere hava taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017919_12",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerde gaz değişimi hangi yapıların yüzeyinde gerçekleşir?",
+    "options": [
+      "Büyük bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Mukoza",
+      "Larinks"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gaz değişimi, alveollerin yüzeyinde gerçekleşir; alveoller, ince duvarları sayesinde oksijen ve karbondioksit alışverişine olanak tanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802236_9",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Bronşlar, hangi yapıların dalgalarına ayrılır?",
+    "options": [
+      "Alveoller",
+      "Akciğerler",
+      "Trakea",
+      "Yutak",
+      "Gırtlak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bronşlar, trakeanın iki ana dalıdır ve akciğerlere hava taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerde gaz değişim süreci hangi yapı sayesinde gerçekleşir?",
+    "options": [
+      "Bronş",
+      "Alveol",
+      "Trakea",
+      "Pulmoner arter",
+      "Kardiyovasküler sistem"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alveoller, akciğerlerdeki hava kesecikleridir ve burada oksijen ve karbondioksit değişimi gerçekleşir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_16",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, solunum sisteminin başlangıcında yer alır ve havanın içeriğini filtre eder?",
+    "options": [
+      "Burun",
+      "Gırtlak",
+      "Yutak",
+      "Trakea",
+      "Bronşlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Burun, havayı filtreleyen ve ısıtan ilk yapıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_7",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Oksijenin kan hücrelerine taşınmasında hangi madde rol oynar?",
+    "options": [
+      "Hemoglobin",
+      "Karbonhidrat",
+      "Protein",
+      "Lipid",
+      "Vitamin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hemoglobin, kırmızı kan hücrelerinde bulunan ve oksijeni taşıyan bir protein molekülüdür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_23",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, solunum sisteminin alt kısmında bulunur ve akciğerlere hava taşır?",
+    "options": [
+      "Bronşlar",
+      "Trakea",
+      "Gırtlak",
+      "Yutak",
+      "Burun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bronşlar, trakeadan sonra akciğerlere hava taşıyan yapılardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498848935_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "İnsanda soluk verme (ekspirasyon) sırasında aşağıdaki olaylardan hangisi gerçekleşir?",
+    "options": [
+      "Diyafram kası kasılarak düzleşir.",
+      "Kaburgalar arası kaslar kasılarak göğüs kafesini yukarı ve dışa doğru hareket ettirir.",
+      "Göğüs boşluğunun hacmi artar.",
+      "Akciğerlerin iç basıncı atmosfer basıncının altına düşer.",
+      "Göğüs boşluğunun hacminin azalmasıyla akciğerler sıkışır ve iç basınç artar."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Soluk verme, genellikle pasif bir olaydır. Bu sırada soluk almada kasılan kaslar gevşer. Diyafram kası gevşeyerek kubbeleşir. Kaburgalar arası kaslar gevşer ve göğüs kafesi aşağı ve içe doğru hareket eder. Bu iki olay sonucunda göğüs boşluğunun hacmi azalır. Göğüs boşluğu hacminin azalması, akciğerlerin sıkışmasına ve akciğer içindeki havanın basıncının atmosfer basıncından daha yüksek bir seviyeye çıkmasına neden olur. Bu basınç farkı, havanın akciğerlerden dışarı çıkmasını sağlar. Diğer şıklardaki olaylar (A, B, C) soluk alma (inspirasyon) sırasında gerçekleşir. D şıkkı da soluk alma sırasında gerçekleşen bir durumdur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802236_12",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin temel bir işlevi olarak, karbondioksit atılımı hangi süreçle gerçekleşir?",
+    "options": [
+      "Difüzyon",
+      "Osmoz",
+      "Aktif taşıma",
+      "Pasif taşıma",
+      "Filtrasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karbondioksit, alveollerden kan damarlarına ve dış ortamda difüzyon yoluyla atılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_25",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Oksijenin kana geçişi hangi mekanizma ile gerçekleşir?",
+    "options": [
+      "Difüzyon",
+      "Osmoz",
+      "Aktif taşıma",
+      "Pasif taşıma",
+      "Filtrasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Oksijen, alveollerden kan damarlarına difüzyon yolu ile geçer.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_28",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Alveoller hangi işlemi gerçekleştiren yapılar olarak bilinir?",
+    "options": [
+      "Gaz değişimi",
+      "Ses üretimi",
+      "Hava sıcaklığını ayarlama",
+      "Hava temizleme",
+      "Asit-baz dengesini sağlama"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alveoller, gaz değişimi yapan yapılar olarak bilinir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_17",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin hangi bölümü, sesin oluşumunda en önemli rolü oynar?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Trakea",
+      "Gırtlak",
+      "Yutak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Gırtlak, ses tellerinin bulunduğu ve sesin oluştuğu bölgedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_6",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi solunum yolu hastalıklarından biridir?",
+    "options": [
+      "Astım",
+      "Diyabet",
+      "Hipertansiyon",
+      "Anemi",
+      "Romatizma"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Astım, solunum yollarını etkileyen bir hastalıktır ve hava akışını kısıtlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_14",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Karbondioksit, kanda hangi biçimde taşınır?",
+    "options": [
+      "Serbest gaz olarak",
+      "Amino asitlerle",
+      "Hidrojene bağlı",
+      "Bikarbonat iyonu olarak",
+      "Proteinle"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Karbondioksit, kanda çoğunlukla bikarbonat iyonu şeklinde taşınır. Bu, karbondioksitin vücutta taşınmasının en yaygın yoludur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498848935_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Kanda karbondioksit taşınması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Karbondioksitin büyük bir bölümü, alyuvarlarda karbonik anhidraz enzimi aracılığıyla bikarbonat iyonlarına dönüştürülerek kan plazmasında taşınır.",
+      "Alyuvarlarda oluşan bikarbonat iyonları, klor iyonları ile yer değiştirerek plazmaya geçer.",
+      "Karbondioksitin bir kısmı doğrudan hemoglobinin amino grubuna bağlanarak karbominohemoglobin şeklinde taşınır.",
+      "Kan plazmasında çözünmüş halde de bir miktar karbondioksit taşınır.",
+      "Karbonik anhidraz enzimi hem doku kılcallarında hem de akciğer kılcallarında sadece tek yönlü reaksiyon gerçekleştirir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Karbondioksit kanda üç şekilde taşınır: 1) Kan plazmasında çözünmüş halde (en az), 2) Hemoglobine bağlanarak (karbominohemoglobin), 3) Bikarbonat iyonları (HCO3-) şeklinde (en fazla). Doku kılcallarında, CO2 alyuvarlara girer ve karbonik anhidraz enzimi ile suyla birleşerek karbonik asit (H2CO3) oluşturur. Karbonik asit daha sonra H+ ve bikarbonat (HCO3-) iyonlarına ayrışır. HCO3-, \"klor kayması\" adı verilen bir olayla plazmaya çıkar. Akciğer kılcallarında ise bu reaksiyonlar tersine işler. Plazmadaki HCO3- tekrar alyuvara girer, H+ ile birleşerek H2CO3'ü oluşturur ve aynı karbonik anhidraz enzimi bu sefer H2CO3'ü CO2 ve H2O'ya parçalar. Dolayısıyla karbonik anhidraz enzimi çift yönlü (tersinir) çalışan bir enzimdir. Bu nedenle E şıkkı yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821894_13",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Karbondioksit, vücutta hangi organ tarafından atılır?",
+    "options": [
+      "Böbrekler",
+      "Karaciğer",
+      "Akciğerler",
+      "Bağırsaklar",
+      "Deri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karbondioksit, akciğerler aracılığıyla dışarı atılır. Oksijenin alınmasıyla birlikte karbondioksit atılması, solunumun temel bir parçasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802237_36",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi hastalık, akciğerlerde iltihaplanma ve sıvı birikimi ile karakterizedir?",
+    "options": [
+      "Zatürre",
+      "Astım",
+      "Kronik bronşit",
+      "Akciğer kanseri",
+      "Tüberküloz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zatürre, akciğerlerde iltihaplanma ve sıvı birikimine neden olan bir hastalıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802236_10",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin enfeksiyonlarına karşı koruma sağlayan hücreler hangileridir?",
+    "options": [
+      "Eritrositler",
+      "Lökositler",
+      "Trombositler",
+      "Fibroblastlar",
+      "Kardiyomiyositler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lökositler, bağışıklık sisteminin bir parçasıdır ve enfeksiyonlara karşı koruma sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522821893_9",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerler hangi iki ana bölümden oluşur?",
+    "options": [
+      "Sağ ve sol loblar",
+      "Üst ve alt loblar",
+      "Ön ve arka loblar",
+      "Yüksek ve düşük loblar",
+      "Dış ve iç loblar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akciğerler, sağ ve sol loblar olarak iki ana bölümden oluşur. Sağ akciğer üç lobdan, sol akciğer ise iki lobdan oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525017920_16",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi kas grubu solunum sırasında sıkça kullanılır?",
+    "options": [
+      "Diyafram ve interkostal kaslar",
+      "Karın kasları",
+      "Sırt kasları",
+      "Bacak kasları",
+      "Kolları kaldıran kaslar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diyafram ve interkostal kaslar, solunum sırasında kasılarak akciğerlerin genişlemesini sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525017920_21",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunumu kolaylaştıran ve akciğerlere hava girişi sağlayan yapı nedir?",
+    "options": [
+      "Bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Diyafram",
+      "Larinks"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Diyafram, akciğerlere hava girişi sağlayarak solunumu kolaylaştıran ana kas grubudur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802236_14",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi madde, akciğerlerin genişleyebilmesi için gerekli olan yüzey gerilimini azaltır?",
+    "options": [
+      "Surfactan",
+      "Albümin",
+      "Kreatin",
+      "Glukoz",
+      "Fibrin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Surfactan, alveollerde yüzey gerilimini azaltarak akciğerlerin düzgün çalışmasını sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017919_7",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sırasında karbondioksit, hangi yapıdan dışarı atılır?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Trakea",
+      "Larinks",
+      "Burun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karbondioksit, alveollerde gaz değişimi sırasında kan dolaşımından alveollere geçer ve dışarı atılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802237_29",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi akciğerlerin genişlemesi için gerekli bir durumdur?",
+    "options": [
+      "Diyafram kasılması",
+      "Kas gevşemesi",
+      "Yavaş nefes alma",
+      "Hava basıncı artışı",
+      "Kan basıncı düşüşü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diyafram kasıldığında akciğer hacmi artar ve hava içeri alınır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_27",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi gaz, solunum sistemi aracılığıyla atılır?",
+    "options": [
+      "Oksijen",
+      "Hidrojen",
+      "Karbon dioksit",
+      "Metan",
+      "Nitrojen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Solunum sırasında karbondioksit, vücuttan dışarı atılan gazdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528802237_35",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sistemindeki hangi yapı, sesi yükseltmek için kullanılır?",
+    "options": [
+      "Gırtlak",
+      "Yutak",
+      "Burun",
+      "Alveol",
+      "Trakea"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gırtlak, ses tellerinin bulunduğu ve sesin oluştuğu bölgedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498848935_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Sağlıklı bir insanda, doku kılcallarından geçmekte olan kanda oksijenin hemoglobinden ayrılma eğiliminin artmasında aşağıdakilerden hangisi etkili olmaz?",
+    "options": [
+      "Kan pH değerinin düşmesi",
+      "Kandaki karbondioksit kısmi basıncının artması",
+      "Vücut sıcaklığının artması",
+      "Alveollerdeki oksijen kısmi basıncının yüksek olması",
+      "Kanda laktik asit miktarının artması"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hemoglobinin oksijeni bağlama veya serbest bırakma eğilimi çeşitli faktörlere bağlıdır. Bu duruma Bohr etkisi denir. Doku kılcallarında hücresel solunum sonucu CO2 artar. CO2'nin artması kan pH'sını düşürür (asitliği artırır). Ayrıca egzersiz gibi durumlarda vücut sıcaklığı ve laktik asit miktarı artar. Bu üç faktör (düşük pH, yüksek CO2, yüksek sıcaklık) hemoglobinin oksijene olan ilgisini azaltır ve oksijenin dokulara daha kolay bırakılmasını sağlar. Ancak, alveollerdeki oksijen kısmi basıncının yüksek olması, oksijenin hemoglobinden ayrılmasını değil, tam tersine hemoglobine bağlanmasını kolaylaştıran bir faktördür. Bu olay akciğer kılcallarında gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821894_14",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sırasında vücut hangi iki temel gazı değiştirir?",
+    "options": [
+      "Amonyak ve oksijen",
+      "Oksijen ve karbondioksit",
+      "Hidrojen ve azot",
+      "Oksijen ve metan",
+      "Karbon dioksit ve azot"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sırasında vücut oksijen alırken, karbondioksit atar. Bu temel gaz değişimi, hücresel solunum için gereklidir.",
+    "difficulty": 3
+  },
+  {
     "id": "ai_1764528802236_8",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
@@ -1502,6 +1182,198 @@
     "correctAnswer": 0,
     "explanation": "Aerobik solunum, hücrelerin oksijen kullanarak enerji üretmesini sağlar.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017919_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminde gaz alışverişinin gerçekleştiği temel yapı hangisidir?",
+    "options": [
+      "Bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Larinks",
+      "Burun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gaz alışverişi, alveollerde gerçekleşir. Alveoller, oksijenin kana geçişi ve karbondioksitin dışarı atılmasını sağlayan hava kesecikleridir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522821893_8",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Bronşların görevi nedir?",
+    "options": [
+      "Havayı filtrelemek",
+      "Kanı pompalamak",
+      "Hava yollarını oluşturmak",
+      "Gaz değişimi yapmak",
+      "Oksijeni depolamak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bronşlar, trake ile akciğerler arasında hava taşıyan tüplerdir ve hava yollarını oluştururlar. Hava, bronşlar aracılığıyla akciğerlere ulaşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520366755_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, akciğerlere hava girişini sağlayan ana hava yolu olarak görev yapar?",
+    "options": [
+      "Faranks",
+      "Larenks",
+      "Trakea",
+      "Bronş",
+      "Alveol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trakea, boğazdan akciğerlere hava akışını sağlayan ana hava yolu olup, hava ile birlikte alınan oksijenin akciğerlere ulaşmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802237_34",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Alveol duvarlarında bulunan hücrelerin ana görevi nedir?",
+    "options": [
+      "Gaz değişimi",
+      "Ses üretimi",
+      "Hava temizleme",
+      "Asit-baz dengesini sağlama",
+      "Hava ısıtma"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alveol duvarları, gaz değişiminin gerçekleştiği yerlerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_22",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin işlevini etkileyen faktörlerden biri nedir?",
+    "options": [
+      "Verimli beslenme",
+      "Hareketsizlik",
+      "Yeterli uyku",
+      "Düzenli egzersiz",
+      "Stresten uzak durmak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hareketsizlik, solunum sisteminin işlevini olumsuz etkileyebilir ve akciğer kapasitelerini azaltabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525017920_26",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Karbondioksit seviyesinin artması, vücutta hangi durumu tetikler?",
+    "options": [
+      "Hızlı nefes alma",
+      "Yavaş nefes alma",
+      "Nefes durması",
+      "Aşırı yorgunluk",
+      "Düşük enerji"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karbondioksit seviyesinin artması, vücutta hızlı nefes almayı tetikler; bu, vücudun oksijen ihtiyacını karşılamak için bir tepkidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522821893_7",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerdeki hava keseciklerine ne ad verilir?",
+    "options": [
+      "Alveoller",
+      "Bronşlar",
+      "Trake",
+      "Pulmoner arter",
+      "Diğerleri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Akciğerlerde bulunan hava keseciklerine alveol denir. Bu kesecikler, gaz değişiminin gerçekleştiği temel yapılardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525017920_28",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerdeki hava keseciklerinin (alveol) en önemli özelliklerinden biri nedir?",
+    "options": [
+      "Kalın duvarlı yapılar olması",
+      "İnce duvarlı ve geniş yüzey alanına sahip olmaları",
+      "Kendi başlarına hava üretebilmeleri",
+      "Yanlışlıkla su ile dolmaları",
+      "Kan damarları ile bağlantılarının olmaması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alveoller, ince duvarlı ve geniş yüzey alanına sahip yapılar olup, gaz değişimini etkin bir şekilde gerçekleştirmelerini sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522821892_3",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "İnsanlarda normal solunum hızı dakikada kaç kezdir?",
+    "options": [
+      "10-15",
+      "12-20",
+      "20-25",
+      "25-30",
+      "30-35"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İnsanlarda normal solunum hızı genellikle dakikada 12-20 kezdir. Bu, bireylerin yaşına, sağlık durumuna ve aktivite seviyesine bağlı olarak değişebilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525017919_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Oksijenin kanda taşınmasında hangi molekül ana rolü oynar?",
+    "options": [
+      "Karbonik anhidraz",
+      "Hemoglobin",
+      "Miyoglobin",
+      "Serum albumin",
+      "Lipoprotein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oksijen, kanda hemoglobin molekülü ile taşınır. Hemoglobin, oksijenin bağlanmasını sağlayan bir protein yapısına sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528802236_4",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi gaz, solunum sırasında vücuda alınır?",
+    "options": [
+      "Karbon dioksit",
+      "Oksijen",
+      "Azot",
+      "Amonyak",
+      "Metan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sırasında vücuda alınan gaz oksijendir, karbondioksit ise atılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_20",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Alerjik bir reaksiyon sonucunda hangi solunum yolu hastalığı ortaya çıkabilir?",
+    "options": [
+      "Astım",
+      "Zatürre",
+      "Bronşit",
+      "Kronik obstrüktif akciğer hastalığı",
+      "Pnömotoraks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alerjik reaksiyonlar, astım hastalığını tetikleyebilir ve solunum yollarında iltihaplanmaya neden olabilir.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764525017920_17",
@@ -1536,19 +1408,291 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764525017919_10",
+    "id": "ai_1764528802237_37",
     "subjectId": "biy",
     "topic": "Solunum Sistemi",
-    "questionText": "Akciğerlere giden havanın temizlenmesinde hangi yapı önemli bir rol oynar?",
+    "questionText": "Solunum sisteminin en alt kısmında hangi yapı bulunur?",
     "options": [
-      "Mukoza",
       "Alveoller",
-      "Diyafram",
-      "Larinks",
-      "Trakea"
+      "Bronşlar",
+      "Trakea",
+      "Gırtlak",
+      "Yutak"
     ],
     "correctAnswer": 0,
-    "explanation": "Mukoza, akciğerlere giden havanın temizlenmesinde önemli bir rol oynar; bu yapı, toz ve mikropları tutar.",
+    "explanation": "Alveoller, akciğerlerin en alt kısmında yer alan ve gaz değişimi gerçekleştiren yapılardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522821892_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
+    "options": [
+      "Üst solunum yolları ve alt solunum yolları",
+      "Ağız ve burun",
+      "Akciğerler ve diafram",
+      "Kan damarları ve kalp",
+      "Sinir sistemi ve solunum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi, üst solunum yolları (burun, farinks, larinks) ve alt solunum yolları (trake, bronşlar, akciğerler) olmak üzere iki ana bölümden oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802236_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi solunum sisteminin ana görevlerinden biridir?",
+    "options": [
+      "Oksijen üretmek",
+      "Karbon dioksit depolamak",
+      "Hava sıcaklığını ayarlamak",
+      "Hava alışverişini sağlamak",
+      "Asit-baz dengesini bozmak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Solunum sistemi, vücuda oksijen alırken, karbondioksiti dışarı atarak hava alışverişini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525017920_24",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi hastalık, solunum yollarında kalıcı hasara yol açabilir?",
+    "options": [
+      "Kronik obstrüktif akciğer hastalığı",
+      "Grip",
+      "Soğuk algınlığı",
+      "Zatürre",
+      "Astım"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kronik obstrüktif akciğer hastalığı (KOAH), solunum yollarında kalıcı hasara yol açabilir ve nefes almayı zorlaştırır.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764522821892_5",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi gaz solunum sırasında alınır?",
+    "options": [
+      "Karbon dioksit",
+      "Oksijen",
+      "Amonyak",
+      "Nitrik oksit",
+      "Metan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sırasında oksijen alınır. Hücreler, enerji üretimi için oksijeni kullanırken, karbondioksit yan ürün olarak üretilir ve dışarı atılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519405524_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi gaz, solunum sırasında vücut hücrelerine oksijen sağlarken, aynı zamanda karbondioksitin atılmasını sağlar?",
+    "options": [
+      "Azot",
+      "Oksijen",
+      "Karbonmonoksit",
+      "Hidrojen",
+      "Karbondioksit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oksijen, solunum sürecinde önemli bir gazdır. Vücut hücrelerine enerji üretiminde gerekli olan oksijen sağlarken, karbondioksit atılmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528802237_26",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi yapı, akciğerlerin içine hava girmesini sağlar?",
+    "options": [
+      "Diyafram",
+      "Bronş",
+      "Trakea",
+      "Yutak",
+      "Gırtlak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diyaframın kasılması akciğerlerin hacmini artırarak havanın girmesini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519405524_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sistemi hangi iki ana bölümden oluşur?",
+    "options": [
+      "Üst solunum yolu - Alt solunum yolu",
+      "Akciğerler - Kalp",
+      "Bronşlar - Trakea",
+      "Yutak - Gırtlak",
+      "Alveoller - Bronşlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Solunum sistemi, üst solunum yolu (burnu, yutak ve gırtlak) ve alt solunum yolu (trakea ve akciğerler) olmak üzere iki ana bölümden oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522821892_4",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi durum solunum sistemini olumsuz etkileyebilir?",
+    "options": [
+      "Düzenli egzersiz",
+      "Yüksek nem",
+      "Sigara içmek",
+      "Temiz hava",
+      "Yeterli uyku"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sigara içmek, solunum sistemi üzerinde ciddi olumsuz etkilere yol açar; akciğer kanseri, kronik obstrüktif akciğer hastalığı gibi birçok hastalığın riskini artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575848615_0",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "İnsan vücudunda solunum sisteminin temel görevi nedir?",
+    "options": [
+      "Besinleri sindirmek",
+      "Hava değişimi yapmak",
+      "Dolaşımı sağlamak",
+      "Vücut ısısını düzenlemek",
+      "Atıkları depolamak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solunum sisteminin temel görevi, vücuda oksijen almak ve karbondioksiti dışarı atmaktır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_1",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Aşağıdakilerden hangisi solunum sisteminin bir parçası değildir?",
+    "options": [
+      "Burun",
+      "Akciğer",
+      "Diyafram",
+      "Göz",
+      "Trakea"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Göz, solunum sisteminin bir parçası değildir; burun, akciğer, diyafram ve trakea solunum sisteminin bileşenleridir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_2",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Akciğerlerde gaz alışverişi hangi yapıda gerçekleşir?",
+    "options": [
+      "Bronşlar",
+      "Alveoller",
+      "Trakea",
+      "Diyafram",
+      "Burun"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gaz alışverişi, akciğerlerde bulunan alveoller aracılığıyla gerçekleşir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_3",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sırasında diyafram nasıl bir rol oynar?",
+    "options": [
+      "Hava akışını engeller",
+      "Hava akışını destekler",
+      "Kan pompalama işlemi yapar",
+      "Vücut ısısını artırır",
+      "Hücreleri besler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diyafram, solunum sırasında aşağı doğru hareket ederek akciğerlere hava girmesini sağlar ve böylece hava akışını destekler.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_4",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Karbondioksit vücutta nasıl atılır?",
+    "options": [
+      "Ağız yoluyla",
+      "Terleme ile",
+      "Solunum ile",
+      "Sindirim ile",
+      "Dolaşım ile"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karbondioksit, solunum yoluyla akciğerlerden dışarı atılır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_5",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Burun boşluğunun solunum sistemindeki işlevi nedir?",
+    "options": [
+      "Havayı ısıtmak",
+      "Havayı soğutmak",
+      "Havayı depolamak",
+      "Havayı süzmek",
+      "Havayı karbondioksitle doldurmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Burun boşluğu, havayı ısıtma, nemlendirme ve süzme işlevlerini yerine getirir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_6",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminin en büyük organı hangisidir?",
+    "options": [
+      "Kalp",
+      "Akciğer",
+      "Böbrek",
+      "Mide",
+      "Bağırsak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Akciğerler, solunum sisteminin en büyük organıdır ve gaz alışverişini sağlar.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_7",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Hangi solunum türü, vücut dinlenirken gerçekleşir?",
+    "options": [
+      "Zorunlu solunum",
+      "Dinlendirici solunum",
+      "Aktif solunum",
+      "Pasif solunum",
+      "Derin solunum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dinlenme sırasında genellikle pasif solunum gerçekleşir, bu da vücudun doğal bir şekilde hava almasıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575848615_8",
+    "subjectId": "biy",
+    "topic": "Solunum Sistemi",
+    "questionText": "Solunum sisteminde hava akışı hangi sırayla gerçekleşir?",
+    "options": [
+      "Burun - Akciğer - Trakea - Bronşlar",
+      "Burun - Trakea - Bronşlar - Akciğer",
+      "Trakea - Bronşlar - Burun - Akciğer",
+      "Akciğer - Bronşlar - Burun - Trakea",
+      "Bronşlar - Akciğer - Burun - Trakea"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hava, burundan başlayarak trakea ve bronşlar aracılığıyla akciğerlere ulaşır.",
+    "difficulty": 1
   }
 ]
