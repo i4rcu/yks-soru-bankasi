@@ -1,115 +1,35 @@
 [
   {
-    "id": "ai_1764575968786_1",
+    "id": "ai_1764579358412_25",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki kelimelerden hangisi diğerlerinden farklı bir anlama sahiptir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki anlamı olumsuzlaştırmaktadır?",
     "options": [
-      "Güneş",
-      "Ay",
-      "Yıldız",
-      "Gezegen",
-      "Hava"
+      "Hep",
+      "Her",
+      "Bazen",
+      "Sadece",
+      "Asla"
     ],
     "correctAnswer": 4,
-    "explanation": "Diğer kelimeler gök cisimleri iken 'hava' bir atmosfer terimidir.",
-    "difficulty": 1
+    "explanation": "'Asla' kelimesi, cümlede anlamı olumsuzlaştırır. 'Asla vazgeçmeyeceğim.' ifadesinde bu durum açıktır.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764522406567_8",
+    "id": "ai_1764525304061_21",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi taşır?",
     "options": [
-      "Güzel bir gün geçirdim.",
-      "Hoş bir gün geçirdim.",
-      "Kötü bir gün geçirdim.",
-      "Sıkıcı bir gün geçirdim.",
-      "Çirkin bir gün geçirdim."
+      "Kediler, köpeklerden daha bağımsızdır.",
+      "Kuşlar, uçabilme özelliğine sahiptir.",
+      "Balıklar, su içinde yaşar.",
+      "Hepsi doğrudur.",
+      "Hayvanlar, doğada birbirleriyle etkileşim halindedir."
     ],
-    "correctAnswer": 0,
-    "explanation": "'Güzel' kelimesi, 'hoş' ile eş anlamlıdır; diğerleri ise zıt anlamlar içerir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519463628_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerde hangisinde 'sebep-sonuç' ilişkisi vardır?",
-    "options": [
-      "Yarın hava yağmurlu olacak, şemsiyemi alacağım.",
-      "Deniz kenarında yürüyüş yapmayı seviyorum.",
-      "Sınavdan yüksek not aldım, çok çalıştım.",
-      "Bugün hava çok sıcak, denize gireceğim.",
-      "Film çok güzeldi, arkadaşım tavsiye etti."
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Çok çalıştım' ifadesi 'yüksek not aldım' sonucuna sebep olmuştur. Bu sebeple 'Sınavdan yüksek not aldım, çok çalıştım.' cümlesinde sebep-sonuç ilişkisi vardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500415115_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde yargılar arasında diğerlerinden farklı bir anlam ilişkisi vardır?",
-    "options": [
-      "Yollar buzlandığı için trafik akışı yavaşladı.",
-      "İyi bir üniversite kazanmak amacıyla gece gündüz ders çalışıyordu.",
-      "Annesini çok özlediğinden ilk uçakla memleketine gitti.",
-      "Uykusunu alamadığından gün boyu kendini yorgun hissetti.",
-      "Gürültüden rahatsız olunca pencereyi kapattı."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu soruda cümlelerdeki anlam ilişkileri incelenmelidir. A, C, D ve E şıklarında neden-sonuç (sebep-sonuç) ilişkisi varken, B şıkkında amaç-sonuç ilişkisi vardır. Neden-sonuç cümlelerinde eylemin gerçekleşme nedeni belirtilirken ('Neden yavaşladı?' -> 'Yollar buzlandığı için'), amaç-sonuç cümlelerinde eylemin hangi hedefle yapıldığı belirtilir ('Hangi amaçla ders çalışıyordu?' -> 'İyi bir üniversite kazanmak amacıyla'). B seçeneğindeki 'kazanmak' eylemi henüz gerçekleşmemiş bir hedeftir, bu da cümleyi diğerlerinden ayırır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525304061_14",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerde hangisinde benzerlik ilişkisi vardır?",
-    "options": [
-      "Köpekler sadık hayvanlardır.",
-      "Kediler temizlikte titizdir.",
-      "Fareler çok hızlıdır.",
-      "Kuşlar uçabilir.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
+    "correctAnswer": 3,
     "explanation": "Tüm cümleler, hayvanların özelliklerini benzer bir şekilde tanımlamaktadır.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764522406566_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde zıt anlam ilişkisi vardır?",
-    "options": [
-      "Sıcak günlerde serinlemek güzel.",
-      "Soğuk kış ayları zor geçer.",
-      "Güneş doğmadan önce karanlık olur.",
-      "Çiçekler açmaya başladı.",
-      "Hava çok güzel."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Soğuk kış ayları' ifadesinde 'soğuk' ve 'zor' kelimeleri bir zıtlık ilişkisi kurmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522406567_13",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde zıt anlam ilişkisi bulunur?",
-    "options": [
-      "Güzel bir gün geçti.",
-      "Karanlık ve aydınlık bir arada.",
-      "Hava çok sıcak.",
-      "Kış ayları soğuk geçer.",
-      "Parlak bir yıldız."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Karanlık' ve 'aydınlık' kelimeleri zıt anlamlıdır.",
-    "difficulty": 3
   },
   {
     "id": "ai_1764525304061_2",
@@ -128,838 +48,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764522406567_11",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ifade eder?",
-    "options": [
-      "Ali çalışkan, Ayşe de öyle.",
-      "Ayşe çok çalışkan değil.",
-      "Ali çalışıyor, Ayşe de ders çalışıyor.",
-      "Ali sporda başarılıdır, Ayşe de.",
-      "Ali'nin kitabı, Ayşe'nin kitabı."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ali ve Ayşe'nin sporda başarılı olma durumu benzerlik ifade eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526285512_5",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi 'ya da' bağlacının kullanımına örnek teşkil etmez?",
-    "options": [
-      "Bugün sinemaya gidebiliriz ya da tiyatroya.",
-      "Kahve ya da çay içmek istersen haber ver.",
-      "Okuldan sonra alışverişe gidebiliriz ya da evde kalalım.",
-      "Hava güzel, yürüyüşe çıkalım ya da piknik yapalım.",
-      "Yaz tatilinde deniz ya da dağ tatili yapmayı düşünüyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Ya da' bağlacı, eşit seçenekleri ifade etmeli. İlk cümlede 'sinemaya gidebiliriz' ifadesi cümlenin öznesi ile çelişiyor ve yanlış bir kullanım sergiliyor.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577114295_6",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Kütüphane sessiz bir yerdir.' cümlesinde verilen anlamı pekiştirir?",
-    "options": [
-      "Kütüphane kalabalık bir yerdir.",
-      "Kütüphanede gürültü yapılmamalıdır.",
-      "Kütüphanede arkadaşlarım var.",
-      "Kütüphane çok büyüktür.",
-      "Kütüphane her zaman açıktır."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Kütüphane sessiz bir yerdir.' ifadesi, kütüphanede sessizlik gerekliliğine vurgu yapmaktadır. 'Kütüphanede gürültü yapılmamalıdır.' cümlesi bu anlamı pekiştirmektedir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529585399_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'ama' bağlacı kullanılarak bir zıtlık durumu ifade edilmiştir?",
-    "options": [
-      "Hava çok soğuk, dışarı çıkmak zorundayım.",
-      "Yemek yapmayı seviyorum, fakat temizlikte zorlanıyorum.",
-      "Kitap okumayı çok seviyorum.",
-      "Çalışmalarımı düzenli yapıyorum, bu yüzden başarılıyım.",
-      "Dün yağmur yağdı, bu sabah güneş açtı."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Ama' bağlacı zıtlık ilişkisi kurar. İkinci seçenekte bu bağlaç, yemek yapma isteği ile temizlikte zorlanma durumunu zıtlık içerisinde sunmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406567_12",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi zaman ilişkisi içerir?",
-    "options": [
-      "Ders çalışıyorum, sonra sinemaya gideceğim.",
-      "Hava çok güzeldi.",
-      "Yemek pişiriyorum.",
-      "Güzel bir gün geçirdim.",
-      "Sinema biletimi aldım."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Sonra' ifadesi, zaman ilişkisini belirtmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169931_15",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime olumsuz bir durumu ifade etmektedir?",
-    "options": [
-      "başarılı",
-      "başarısız",
-      "mutlu",
-      "sevinçli",
-      "güzel"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Başarısız' kelimesi olumsuz bir durumu ifade etmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_11",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını daraltmaktadır?",
-    "options": [
-      "hayvan",
-      "kedi",
-      "canlı",
-      "evcil",
-      "sahip"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Kedi' kelimesi 'hayvan' kelimesinin anlamını daraltmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_19",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
-    "options": [
-      "Oyun oynamak, eğlenceli bir aktivitedir.",
-      "Müzik dinlemek, ruhu besler.",
-      "Seyahat etmek, yeni yerler tanımaktır.",
-      "Kitap okumak, zihni açar.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm cümleler, bir eylemin sonuçlarını ifade etmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_10",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime yanlış anlamda kullanılmıştır?",
-    "options": [
-      "gözlem",
-      "bakış",
-      "izleme",
-      "görüş",
-      "yargı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Yargı' kelimesi, diğer kelimelerle uyumlu değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577114295_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Ali sinemaya gitmek istiyor.' cümlesiyle aynı anlamı taşır?",
-    "options": [
-      "Ali sinemayı seviyor.",
-      "Ali sinemaya gidecek.",
-      "Ali sinemaya gitmeyi arzuluyor.",
-      "Ali sinemaya gitmek istemiyor.",
-      "Ali sinemaya gitti."
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Ali sinemaya gitmek istiyor.' cümlesinin anlamı, Ali'nin sinemaya gitmeyi arzuladığını ifade eder. Bu nedenle, 'Ali sinemaya gitmeyi arzuluyor.' cümlesi aynı anlamı taşır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529169931_14",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime abartı içermektedir?",
-    "options": [
-      "çok",
-      "az",
-      "biraz",
-      "bir",
-      "sıfır"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Çok' kelimesi abartı ifade eden bir kelimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi zıt anlamlı kelimeler içerir?",
-    "options": [
-      "Hızlı koşmak.",
-      "Yavaş yavaş ilerlemek.",
-      "Güneş açtı, karanlık gitti.",
-      "Deniz dalgalı, gökyüzü mavi.",
-      "Kışın soğuk olur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Güneş açtı, karanlık gitti cümlesinde 'açmak' ve 'gitmek' eylemleri, karanlık ve aydınlık arasında zıt bir durum yaratmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525304061_23",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir tanım içermektedir?",
-    "options": [
-      "Araba, dört tekerlekli bir taşıttır.",
-      "Kalem, yazmak için kullanılan bir araçtır.",
-      "Gözlük, görmeyi kolaylaştırır.",
-      "Hepsi doğrudur.",
-      "Masa, üzerine bir şeylerin konulabileceği bir yüzeydir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tüm cümleler belirli nesnelerin tanımını yapmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525304061_12",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi zıt anlam ilişkisi taşımaktadır?",
-    "options": [
-      "Yavaş yavaş koş.",
-      "Güzel bir gün.",
-      "Büyük bir şehir.",
-      "Küçük bir köy.",
-      "Sıcak bir yaz."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Küçük bir köy cümlesinde 'küçük' kelimesi, 'büyük' kelimesinin zıttıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575968786_4",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde mecaz anlam vardır?",
-    "options": [
-      "Gözlerin deniz gibi",
-      "Kedim çok sevimli",
-      "Hava güzel",
-      "Kitap okumak faydalıdır",
-      "Bu elma çok tatlı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Gözlerin deniz gibi' ifadesinde mecaz anlam vardır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764529585399_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi 've' bağlacıyla neden-sonuç ilişkisi kurmaktadır?",
-    "options": [
-      "Yavaş konuş, seni anlamıyorum.",
-      "Sınavdan yüksek not aldım, bu yüzden mutlu oldum.",
-      "Ders çalıştım, ama yine de başaramadım.",
-      "Yaz tatilini çok seviyorum, bu yıl deniz tatili yapacağım.",
-      "Hava çok sıcak, dışarı çıkmak istemiyorum."
-    ],
-    "correctAnswer": 1,
-    "explanation": "İkinci cümlede 'bu yüzden' ifadesi, yüksek not alma ile mutluluk durumu arasında neden-sonuç ilişkisi kurmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406567_9",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlısı ile değiştirilirse anlam değişmez?",
-    "options": [
-      "Hızlı bir araba sürdüm.",
-      "Yavaş bir araba sürdüm.",
-      "Yeni bir araba aldım.",
-      "Eski bir araba aldım.",
-      "Büyük bir araba kullanıyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Hızlı' kelimesinin 'yavaş' ile değiştirilmesi cümlenin anlamını değiştirir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525304061_18",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi zıt anlamlı kelimeler içerir?",
-    "options": [
-      "Büyük bir şehir.",
-      "Küçük bir köy.",
-      "Sıcak bir gün.",
-      "Soğuk bir kış.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm cümleler zıt anlamlı kelimeler içermektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_28",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime yanlış anlamda kullanılmıştır?",
-    "options": [
-      "mutlu",
-      "üzgün",
-      "sevinç",
-      "neşe",
-      "gözyaşı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Gözyaşı' kelimesi duygusal bir durumu ifade etmesine rağmen diğerleriyle uyumlu değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_13",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
-    "options": [
-      "Kitap okumak, bilgi edinmektir.",
-      "Film izlemek, eğlenmektir.",
-      "Müzik dinlemek, ruh halini iyileştirir.",
-      "Tiyatro izlemek, kültürel bir etkinliktir.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm cümleler, bir eylemin sonucunu açıklamaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525304061_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
-    "options": [
-      "Kedi, fareyi yakaladı.",
-      "Kedi, evin içinde dolaşıyor.",
-      "Kedi, köpekle oynuyor.",
-      "Kedi, mavi bir kutuya girdi.",
-      "Kedi, oyuncaklarıyla oynuyor."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kedi, fareyi yakaladı cümlesinde kedi ve fare arasında bir av-avcı ilişkisi vardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_13",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime deyimsel anlam taşımaktadır?",
-    "options": [
-      "gözden düşmek",
-      "güzel",
-      "sevimli",
-      "çirkin",
-      "hoş"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Gözden düşmek' ifadesi deyimsel bir anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_4",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını pekiştirir?",
-    "options": [
-      "büyük",
-      "devasa",
-      "küçük",
-      "orta",
-      "normal"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Devasa' kelimesi 'büyük' kelimesinin anlamını pekiştirmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526285512_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'ama' bağlacının anlamı en belirgin şekilde ortaya konmuştur?",
-    "options": [
-      "Yaz tatilinde deniz kenarında kalmayı düşündüm, ama hava çok soğuk olacak.",
-      "Kitap okumak eğlenceli, ama zaman alıyor.",
-      "Sinema çok güzel bir etkinlik, ama biletler çok pahalı.",
-      "Ders çalışmak sıkıcı, ama sınavdan yüksek not almak istiyorum.",
-      "Yüzme bilmek güzel, ama dalgalar çok yüksek."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Ama' bağlacı, cümledeki iki düşünce arasında zıtlık oluşturur. İlk cümlede yaz tatilinin beklentisi ile hava durumunun olumsuzluğu arasında belirgin bir zıtlık vardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_29",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime mecaz anlamda kullanılmıştır?",
-    "options": [
-      "çok çalışmak",
-      "tembellik",
-      "başarı",
-      "gayret",
-      "hedef"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Çok çalışmak' mecaz anlamda bir durumu ifade etmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575968788_6",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamı genişletilmiştir?",
-    "options": [
-      "Koşmak - Yavaşlamak",
-      "Sevgi - Aşk",
-      "Güzel - Çirkin",
-      "Çalışmak - Dinlenmek",
-      "Yüzmek - Uçmak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Sevgi' ve 'aşk' kelimeleri birbirinin anlamını genişleten terimlerdir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764529169931_16",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını değiştirmiştir?",
-    "options": [
-      "açık",
-      "kapalı",
-      "açık hava",
-      "karanlık",
-      "sıcak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Açık hava' ifadesi, 'açık' kelimesinin anlamını değiştirmiştir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526285512_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 've' bağlacının anlamı en belirgin şekilde ortaya konmuştur?",
-    "options": [
-      "Kitap okumayı seviyorum ve müzik dinlemeyi de.",
-      "Hava çok sıcak, denize girmeyi düşünüyorum.",
-      "Sınavdan yüksek not almak için çalışmalıyım.",
-      "Herkes toplantıya katılacak ve önemli konuları konuşacak.",
-      "Film çok güzeldi, ama biraz uzun sürdü."
-    ],
-    "correctAnswer": 3,
-    "explanation": "'Ve' bağlacı, iki düşünceyi eşit olarak birleştirir. Dördüncü cümlede toplantının katılımcıları ve konuşulacak konular arasında güçlü bir bağlantı vardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577114295_8",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Sınavdan başarılı olmak istiyorum.' cümlesinin zıt anlamlısıdır?",
-    "options": [
-      "Sınavdan başarısız olmak istemiyorum.",
-      "Sınavdan başarılı olmalıyım.",
-      "Sınavdan geçmek zorundayım.",
-      "Sınavdan başarısız olmak istiyorum.",
-      "Sınavdan geçemezsem üzülmem."
-    ],
-    "correctAnswer": 3,
-    "explanation": "'Sınavdan başarılı olmak istiyorum.' ifadesinin zıt anlamı, sınavdan başarısız olmayı istemektir. Bu nedenle, 'Sınavdan başarısız olmak istiyorum.' cümlesi doğru cevaptır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764525304061_20",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir olumsuz durumu ifade etmektedir?",
-    "options": [
-      "Bugün hava güzel.",
-      "Yarın yağmur yağmayacak.",
-      "Dışarıda çok rüzgar var.",
-      "Sıcak bir gün geçirdik.",
-      "Bu akşam çok eğlendik."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yarın yağmur yağmayacak cümlesi olumsuz bir durumu ifade etmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525304061_22",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi sözcük zıt anlamlıdır?",
-    "options": [
-      "Açık kapı",
-      "Karanlık oda",
-      "Sıcak yaz",
-      "Büyük ev",
-      "Hızlı koşu"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Karanlık oda cümlesinde 'karanlık' kelimesi, 'aydınlık' kelimesinin zıttıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577114295_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Bu kitabı okumak zorundayım.' ifadesinin eş anlamlısıdır?",
-    "options": [
-      "Bu kitabı okumak istemiyorum.",
-      "Bu kitabı okumak gereklidir.",
-      "Bu kitabı okumak zorunda değilim.",
-      "Bu kitabı okumak istiyorum.",
-      "Bu kitabı okumak keyifli."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Bu kitabı okumak zorundayım.' ifadesi, kitabı okumanın zorunluluğunu belirtir. Bu nedenle, 'Bu kitabı okumak gereklidir.' cümlesi eş anlamlıdır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529169931_25",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlamdan çıkarıldığında anlam kaymasına neden olur?",
-    "options": [
-      "güzel",
-      "çirkin",
-      "hızlı",
-      "yavaş",
-      "sevimli"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Güzel' kelimesinin anlamı bağlamdan çıkarıldığında kayma gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_27",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime abartı içermektedir?",
-    "options": [
-      "çok",
-      "biraz",
-      "az",
-      "sıfır",
-      "bir"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Çok' kelimesi abartı içeren bir kelimedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_7",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
-    "options": [
-      "Kütüphane, kitaplarla doludur.",
-      "Kütüphane, okuma yeridir.",
-      "Kütüphane, sessiz bir ortamdır.",
-      "Kütüphane, bilgi merkezidir.",
-      "Kütüphane, eğitim için önemlidir."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kütüphane, kitaplarla doludur cümlesi, kütüphane ile kitaplar arasında bir içerik ilişkisi kurmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_6",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime olumsuz anlam taşımaktadır?",
-    "options": [
-      "güzel",
-      "hayır",
-      "evet",
-      "mutlu",
-      "sevinç"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Hayır' kelimesi cümlede olumsuz bir anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_23",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlıdır?",
-    "options": [
-      "açık",
-      "kapalı",
-      "engelli",
-      "serbest",
-      "zıt"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Kapalı' kelimesi 'açık' kelimesinin zıt anlamlısıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406567_6",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlısı ile değiştirilirse anlam değişir?",
-    "options": [
-      "Büyük bir evde yaşıyorum.",
-      "Küçük bir evde yaşıyorum.",
-      "Geniş bir bahçem var.",
-      "Dar bir bahçem var.",
-      "Yüksek bir dairede oturuyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Büyük' kelimesinin 'küçük' ile değiştirilmesi cümlenin anlamını tamamen değiştirir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522406567_15",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde neden-sonuç ilişkisi yoktur?",
-    "options": [
-      "Çok çalıştım, başarılı oldum.",
-      "Yağmur yağdığı için yollar ıslak.",
-      "Yemek yemedim, aç kaldım.",
-      "Sınavdan düşük not aldım, çalışmadım.",
-      "Kütüphaneye gittim, kitap okudum."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Kütüphaneye gitmek ile kitap okumak arasında doğrudan bir neden-sonuç ilişkisi yoktur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529585399_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'çünkü' bağlacı doğru bir şekilde kullanılmıştır?",
-    "options": [
-      "Hava çok soğuk, çünkü dışarıda kar yağıyor.",
-      "Çalışmıyorum çünkü çok yoruldum.",
-      "Sinema biletim vardı, ama gitmedim.",
-      "Dersleri geçtim, sonuç olarak ailem mutlu oldu.",
-      "Köpeğim havlıyor, bu yüzden komşular rahatsız oluyor."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Çünkü' bağlacı sebep-sonuç ilişkisi kurar. İkinci seçenekte 'çok yoruldum' durumu, 'çalışmıyorum' eylemini açıklayan bir sebep olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlıdır?",
-    "options": [
-      "soğuk",
-      "sıcak",
-      "ılık",
-      "serin",
-      "buzlu"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Soğuk' kelimesinin zıt anlamlısı 'sıcak' kelimesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520435528_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'örnekleme' vardır?",
-    "options": [
-      "Çeşitli meyveler, elma, armut, muz gibi sağlıklıdır.",
-      "Hava çok güzel, hemen dışarı çıkmalıyız.",
-      "Kütüphanedeki kitaplar oldukça eski.",
-      "Ders çalışma süremin uzadı.",
-      "Okuldan sonra eve döndüm."
-    ],
-    "correctAnswer": 0,
-    "explanation": "İlk cümlede 'elma, armut, muz' kelimeleri ile 'çeşitli meyveler' ifadesine örnekler verilmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526285512_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi 'çünkü' bağlacının kullanımına en uygun örnektir?",
-    "options": [
-      "Yarın yürüyüşe çıkacağım çünkü hava güzel olacak.",
-      "Hava çok sıcak ama denize girmek istemiyorum.",
-      "Kitap okumayı seviyorum ve sinema da güzel.",
-      "Arkadaşım çok çalıştı ama sonuç alamadı.",
-      "Derslerim zor çünkü düzenli çalışmıyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Çünkü' bağlacı, bir neden-sonuç ilişkisi kurar. İlk cümlede yürüyüş planı, hava güzelliği nedeni ile açıklanmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_19",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime farklı bir anlam taşımaktadır?",
-    "options": [
-      "kıyamet",
-      "felaket",
-      "bela",
-      "sıkıntı",
-      "mutluluk"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Mutluluk' kelimesi diğer kelimelerle zıt anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406567_16",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
-    "options": [
-      "Küçük bir evde yaşıyorum.",
-      "Büyük bir evde yaşıyorum.",
-      "Dar bir sokakta oturuyorum.",
-      "Geniş bir sokakta yaşıyorum.",
-      "Uzun bir yolda yürüyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Küçük' kelimesinin 'dar' ile değiştirilmesi cümlede anlam değişikliğine yol açar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169932_30",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlıdır?",
-    "options": [
-      "yüksek",
-      "alçak",
-      "kısa",
-      "uzun",
-      "geniş"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Alçak' kelimesi 'yüksek' kelimesinin zıt anlamlısıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406567_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
-    "options": [
-      "Güzel bir manzara gördüm.",
-      "Mükemmel bir manzara gördüm.",
-      "Harika bir manzara gördüm.",
-      "Çirkin bir manzara gördüm.",
-      "Kötü bir manzara gördüm."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Güzel' kelimesi, 'mükemmel' ve 'harika' ile eş anlamlıdır, diğerleri zıt anlamlıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169931_17",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime benzer anlam taşımaktadır?",
-    "options": [
-      "düşünmek",
-      "hayal etmek",
-      "görmek",
-      "duymak",
-      "koklamak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Hayal etmek' kelimesi, 'düşünmek' ile benzer anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520435528_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
-    "options": [
-      "Hava çok sıcak olduğu için denize girmek istiyorum.",
-      "Ders çalışmak zorundayım, ama çok yorgunum.",
-      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
-      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
-      "Okuldan sonra sinemaya gitmeyi planlıyorum."
-    ],
-    "correctAnswer": 1,
-    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577114295_7",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Oyun oynamayı seviyorum.' cümlesinin eş anlamlısıdır?",
-    "options": [
-      "Oyun oynamak hoşuma gidiyor.",
-      "Oyun oynamak zor.",
-      "Oyun oynamak istemiyorum.",
-      "Oyun oynamak eğlenceli değil.",
-      "Oyun oynamayı sevmiyorum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Oyun oynamayı seviyorum.' ifadesinin eş anlamlısı, 'Oyun oynamak hoşuma gidiyor.' cümlesidir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764525304061_17",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini ifade etmektedir?",
-    "options": [
-      "Güneş doğduğu için hava aydınlanır.",
-      "Yağmur yağarsa çiçekler büyür.",
-      "Kışın hava soğuk olur.",
-      "Yazın sıcak olur.",
-      "Sonbaharda ağaçlar dökülür."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Güneş doğduğu için hava aydınlanır cümlesinde doğma eylemi, aydınlanma sonucunu doğurmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_22",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime mecaz anlamda kullanılmıştır?",
-    "options": [
-      "deniz",
-      "okyanus",
-      "dengede",
-      "sıfır",
-      "ay"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Dengede' kelimesi mecaz anlamda dengeyi ifade etmektedir.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764529169931_5",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
@@ -976,292 +64,52 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764525304061_24",
+    "id": "ai_1764579358412_23",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi taşımaktadır?",
+    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki durumu güçlendirmektedir?",
     "options": [
-      "Hava karardığı için ışık yandık.",
-      "Yağmur yağarsa çiçekler büyür.",
-      "Kışın hava soğuk olur.",
-      "Yazın sıcak olur.",
-      "Sonbaharda ağaçlar dökülür."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hava karardığı için ışık yandı cümlesinde kararmanın sonucu olarak ışığın yanması belirtilmiştir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522406566_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini en iyi ifade eder?",
-    "options": [
-      "Hava sıcak olduğu için denize gireceğim.",
-      "Yürüyüşe çıktım.",
-      "Kitap okuyorum.",
-      "Kahvaltı yaptım.",
-      "Sinema biletimi aldım."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede 'hava sıcak olduğu için' ifadesi, denize girme eyleminin nedenini açıkça belirtmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499051452_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "(I) Sanatçı, eserlerinde kullandığı dilin süslü ve ağdalı olmasından özellikle kaçınır. (II) Ona göre önemli olan, anlatmak istediği düşünceyi en dolaysız yoldan okura ulaştırmaktır. (III) Bu yüzden eserlerinde estetik kaygıdan çok, içeriğin etkileyiciliğine odaklanır. (IV) Eserlerinin sanatsal değerinin, seçtiği sözcüklerin ahenginden ve imgelerin zenginliğinden geldiğine inanır. (V) Anlaşılır olmak, onun için kalıcı olmaktan daha öncelikli bir hedeftir.\n\nBu parçada numaralanmış cümlelerden hangileri anlamca birbiriyle çelişmektedir?",
-    "options": [
-      "I ve II",
-      "I ve V",
-      "II ve III",
-      "III ve IV",
-      "IV ve V"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Parçadaki cümlelerin anlamları incelendiğinde birbiriyle çelişen ifadelerin tespit edilmesi istenmektedir. \nI, II, III ve V numaralı cümleler birbiriyle tutarlıdır. Bu cümlelerde sanatçının sadelikten, anlaşılırlıktan, süsten kaçınmaktan ve içerik odaklı olmaktan yana olduğu vurgulanmaktadır.\nAncak IV. cümlede, sanatçının eserlerinin değerinin \"seçtiği sözcüklerin ahenginden ve imgelerin zenginliğinden\" geldiğine inandığı belirtilmektedir. Bu ifade, süslü, sanatlı bir söyleyişi, yani estetik kaygıyı ön plana çıkaran bir anlayışı yansıtır.\nIII. cümlede ise sanatçının \"estetik kaygıdan çok, içeriğin etkileyiciliğine odaklandığı\" belirtilmektedir. Bu iki ifade (III ve IV) sanatçının öncelikleri konusunda birbiriyle taban tabana zıttır. Birinde estetik kaygının geri plana atıldığı, diğerinde ise eserin değerinin estetik unsurlara (ahenk, imge) dayandığı söylenerek çelişki oluşturulmuştur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522406567_7",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma içerir?",
-    "options": [
-      "Ali, Ayşe'den daha hızlı koşuyor.",
-      "Ali çok çalışkan bir öğrencidir.",
-      "Ayşe ders çalışıyor.",
-      "Ali ve Ayşe birlikte sinemaya gidecek.",
-      "Hava çok sıcak."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali'nin Ayşe ile karşılaştırılması, cümlede bir karşılaştırma ilişkisi kurmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525304061_9",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi sözcük anlam ilişkisi açısından farklıdır?",
-    "options": [
-      "Çiçekler açtı.",
-      "Ağaçlar büyüdü.",
-      "Güneş battı.",
-      "Rüzgar esti.",
-      "Yıldızlar parladı."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Güneş battı cümlesi, diğerleriyle kıyaslandığında fenomene işaret eder. Diğerleri doğa olaylarıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575968786_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi yoktur?",
-    "options": [
-      "Kedim çok tatlı",
-      "Köpeğim havlıyor",
-      "Kuşlar uçar",
-      "Ağaçlar yeşil",
-      "Hava çok sıcak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Tüm şıklar doğru cümlelerdir fakat anlam ilişkisi yoktur çünkü hepsi birbirinden bağımsızdır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764529169931_8",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime kesinlik ifade etmektedir?",
-    "options": [
-      "belki",
-      "muhtemelen",
-      "kesinlikle",
-      "hiçbir zaman",
-      "bazı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Kesinlikle' kelimesi kesinlik ifade eden bir ifadedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406566_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, diğerlerine göre anlamca farklıdır?",
-    "options": [
-      "Köpeğim bahçede oynuyor.",
-      "Kedim uyuyor.",
-      "Kuşlar gökyüzünde uçuyor.",
-      "Ağaçlar rüzgarda sallanıyor.",
-      "Hayvanlar ormanda dolaşıyor."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Diğer şıklar hayvanların belirli bir eylem yaptığı durumları ifade ederken, 'Köpeğim bahçede oynuyor.' cümlesinde bahçe özel bir yer belirtmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501699444_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "(I) Yazar, okurun zihninde yeni pencereler açmayı ve onu alışılmışın dışında düşünmeye sevk etmeyi amaçlıyordu. (II) Bu doğrultuda, eserlerinde basmakalıp anlatım biçimlerinden uzaklaşarak sembolik bir dil kullanmayı tercih etmişti.\n\nBu parçada numaralanmış cümlelerle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
-    "options": [
-      "II. cümle, I. cümlede belirtilen yargının koşulunu bildirmektedir.",
-      "I. cümle, II. cümlede belirtilen tercihin amacını açıklamaktadır.",
-      "II. cümle, I. cümledeki düşünceyi çürüten bir bilgi içermektedir.",
-      "I. cümlede ortaya konan durumun okur üzerindeki sonucu II. cümlede verilmiştir.",
-      "İki cümlede de yazarın üslubuna yönelik nesnel değerlendirmeler yapılmıştır."
+      "Biraz",
+      "Çok",
+      "Sadece",
+      "Hiç",
+      "Hep"
     ],
     "correctAnswer": 1,
-    "explanation": "Bu soruda iki cümle arasındaki anlam ilişkisini doğru tespit etmek gerekmektedir. Birinci cümlede yazarın bir 'amacı' dile getirilmiştir: okuru düşündürmek ve zihninde yeni ufuklar açmak. İkinci cümlede ise bu amaca ulaşmak için yazarın başvurduğu bir 'yöntem/tercih' anlatılmaktadır: sembolik bir dil kullanmak. Dolayısıyla, ikinci cümledeki 'sembolik dil kullanma tercihi'nin sebebi, birinci cümlede belirtilen 'okuru düşündürme amacı'dır. Bu durumda, I. cümle, II. cümlede belirtilen eylemin/tercihin amacını açıklamaktadır. Bu bir amaç-sonuç ilişkisidir; ancak neden-sonuç ilişkisi ile karıştırılmamalıdır. Eylem (sembolik dil kullanmak) henüz gerçekleşmemiş bir hedef (okuru düşündürmek) için yapılmıştır. Diğer şıklarda belirtilen koşul, çürütme, sonuç veya nesnellik gibi ilişkiler parçada bulunmamaktadır. Bu nedenle doğru cevap B seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169932_31",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını daraltmaktadır?",
-    "options": [
-      "bitki",
-      "çiçek",
-      "ağaç",
-      "sarı",
-      "yeşil"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Ağaç' kelimesi 'bitki' kelimesinin anlamını daraltmaktadır.",
+    "explanation": "'Çok' kelimesi, durumu güçlendirir. 'Bugün çok mutluyum.' ifadesinde mutluluk anlamı pekiştirilmiştir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764529169931_20",
+    "id": "ai_1764522406567_14",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime benzerlik ifade etmektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi içerir?",
     "options": [
-      "güzel",
-      "sevimli",
-      "şirin",
-      "çirkin",
-      "hoş"
-    ],
-    "correctAnswer": 3,
-    "explanation": "'Şirin' kelimesi 'güzel' ile benzerlik ifade etmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522406567_18",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi içerir?",
-    "options": [
+      "Kediler ve köpekler evcil hayvanlardır.",
+      "Yaz ve kış mevsimleri zıttır.",
       "Hava çok sıcak.",
-      "Bugün dışarı çıkmadım.",
-      "Yağmur yağdığı için sokaklar ıslak.",
-      "Sınavdan yüksek not aldım.",
-      "Kitap okuyorum."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yağmurun etkisiyle sokakların ıslak olması, neden-sonuç ilişkisini ifade eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577114295_5",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Yavaş yavaş yürüyelim.' cümlesinin zıt anlamlısıdır?",
-    "options": [
-      "Hızlı hızlı yürüyelim.",
-      "Yavaş yavaş koşalım.",
-      "Acelen yok.",
-      "Daha yavaş yürüyelim.",
-      "Yavaş yürümek iyidir."
+      "Köpekler havlar.",
+      "Kediler mırlamaktadır."
     ],
     "correctAnswer": 0,
-    "explanation": "'Yavaş yavaş yürüyelim.' ifadesinin zıt anlamı, hızlı bir şekilde yürümektir. Bu nedenle, 'Hızlı hızlı yürüyelim.' doğru cevaptır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764525304061_15",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi sözcük zıt anlamlıdır?",
-    "options": [
-      "Büyük ev",
-      "Küçük masa",
-      "Uzun yol",
-      "Güzel gün",
-      "Hızlı koşu"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Küçük masa cümlesinde 'küçük' kelimesi, 'büyük' kelimesinin zıttıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526285512_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi 'fakat' bağlacının anlamını en iyi yansıtmaktadır?",
-    "options": [
-      "Geç kaldım ama toplantı yeni başladı.",
-      "Yüzme bilmek güzel fakat deniz her zaman güvenli değil.",
-      "Çalışmak önemlidir ve başarılı olmak için gereklidir.",
-      "Hava iyi görünüyor, denize girebiliriz.",
-      "Oyun çok eğlenceli, ama zor."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Fakat' bağlacı, zıtlık ifade eder. İkinci cümlede yüzme bilmenin avantajı ile deniz güvenliğinin belirsizliği arasında bir zıtlık oluşturulmuştur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_6",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi karşılaştırma anlamı taşır?",
-    "options": [
-      "Ali, Ayşe'den hızlı koşuyor.",
-      "Kediler, köpeklerden daha sevimlidir.",
-      "Deniz, gölden daha büyüktür.",
-      "Sıcak havalar, soğuk havalardan daha bunaltıcıdır.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm cümleler karşılaştırma içermekte, dolayısıyla 'Hepsi doğrudur.' ifadesi doğru yanıt olur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519463628_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'zıt anlam' ilişkisi vardır?",
-    "options": [
-      "Güneş doğdu, herkes mutlu oldu.",
-      "Hava çok soğuk, kış geldi.",
-      "Deniz çok dalgalı, yüzemeyeceğiz.",
-      "Kütüphane sessizdir, gürültü yasaktır.",
-      "Bütün insanların eşit olduğu düşünülmektedir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Soğuk' ve 'sıcak' zıt anlamlı kelimelerdir. 'Hava çok soğuk, kış geldi.' cümlesinde bu zıtlık ifade edilmektedir.",
+    "explanation": "Kediler ve köpekler arasındaki ortak özellik, benzerlik ilişkisini ifade eder.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764577114295_0",
+    "id": "ai_1764529169931_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Çalışkan öğrenciler başarılı olur.' cümlesinin anlamını en iyi ifade eder?",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlıdır?",
     "options": [
-      "Başarılı öğrenciler çalışkandır.",
-      "Çalışmak, başarıyı getirir.",
-      "Çalışkanlık başarıyı artırmaz.",
-      "Başarı, şansa bağlıdır.",
-      "Başarılı olmak için çalışmak gerekmez."
+      "hızlı",
+      "yavaş",
+      "sakin",
+      "çabuk",
+      "süratli"
     ],
-    "correctAnswer": 1,
-    "explanation": "'Çalışkan öğrenciler başarılı olur.' ifadesi, çalışmanın başarıyı getirdiğini ifade etmektedir. Bu bakımdan, en yakın anlamı 'Çalışmak, başarıyı getirir.' cümlesi taşımaktadır.",
-    "difficulty": 2
+    "correctAnswer": 3,
+    "explanation": "'Hızlı' kelimesi ile 'çabuk' kelimesi eş anlamlıdır.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764522406567_4",
@@ -1296,355 +144,51 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764529169932_34",
+    "id": "ai_1764525304061_9",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime benzer anlam taşımaktadır?",
+    "questionText": "Aşağıdaki cümlede hangi sözcük anlam ilişkisi açısından farklıdır?",
     "options": [
-      "hızlı",
-      "sıcak",
-      "soğuk",
-      "ağır",
-      "hızlıca"
+      "Çiçekler açtı.",
+      "Ağaçlar büyüdü.",
+      "Güneş battı.",
+      "Rüzgar esti.",
+      "Yıldızlar parladı."
     ],
-    "correctAnswer": 0,
-    "explanation": "'Hızlı' kelimesi 'hızlıca' ile benzer anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_10",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir tanım içerir?",
-    "options": [
-      "Araba, dört tekerlekli bir taşıttır.",
-      "Kitap, bilgi ve hikaye içeren bir nesnedir.",
-      "Masa, üzerinde bir şeylerin konulabileceği bir yüzeydir.",
-      "Kalem, yazmak için kullanılan bir araçtır.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm cümleler, belirli nesnelerin tanımını yapmaktadır.",
+    "correctAnswer": 2,
+    "explanation": "Güneş battı cümlesi, diğerleriyle kıyaslandığında fenomene işaret eder. Diğerleri doğa olaylarıdır.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764575968788_7",
+    "id": "ai_1764575968786_5",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "Aşağıdaki kelimelerden hangisi soyut bir kavramdır?",
     "options": [
-      "Su ıslandığında buharlaşır.",
-      "Gülümsemek mutluluğun ifadesidir.",
-      "Bir şeyin anlamını bilmek zorunludur.",
-      "Hayvanlar nefes alır.",
-      "Çiçekler açar."
+      "Aşk",
+      "Kalem",
+      "Masa",
+      "Sandalye",
+      "Kitap"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bir şeyin anlamını bilmek zorunda değiliz, bu yanlıştır.",
+    "correctAnswer": 0,
+    "explanation": "'Aşk' kelimesi soyut bir kavramdır, diğerleri somut nesnelerdir.",
     "difficulty": 1
   },
   {
-    "id": "ai_1764525304061_5",
+    "id": "ai_1764579358412_19",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi sözcük karşıt anlamlıdır?",
+    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki düşünce arasında zıtlık kurmaktadır?",
     "options": [
-      "Açık kapı",
-      "Karanlık gece",
-      "Sıcak gün",
-      "Büyük ev",
-      "Hızlı koşu"
+      "Ve",
+      "Ama",
+      "Ya da",
+      "Çünkü",
+      "Fakat"
     ],
     "correctAnswer": 1,
-    "explanation": "Karanlık gece cümlesinde 'karanlık' kelimesi, 'aydınlık' kelimesinin zıttıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577114295_4",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Bugün hava çok güzel.' cümlesiyle anlamca çelişir?",
-    "options": [
-      "Hava çok sıcak.",
-      "Bugün hava kötü.",
-      "Hava serin oldu.",
-      "Hava çok rüzgarlı.",
-      "Hava bulutlu."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Bugün hava çok güzel.' ifadesi olumlu bir durum belirtirken, 'Bugün hava kötü.' ifadesi doğrudan çelişmektedir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764522406567_17",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma içerir?",
-    "options": [
-      "Ali, Ayşe'den daha çalışkan.",
-      "Ali çalışkan bir öğrencidir.",
-      "Ayşe ders çalışıyor.",
-      "Ali ve Ayşe birlikte sinemaya gidecek.",
-      "Hava çok sıcak."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali'nin Ayşe ile karşılaştırılması, cümlede bir karşılaştırma ilişkisi kurmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169931_18",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime çağrışım yapmamaktadır?",
-    "options": [
-      "öğretmen",
-      "öğrenci",
-      "sınıf",
-      "kitap",
-      "kalem"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Kalem' kelimesi, diğer kelimelerin çağrışımına uyum sağlamamaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_9",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime çağrışım yapmaktadır?",
-    "options": [
-      "çocuk",
-      "okul",
-      "öğretmen",
-      "kitap",
-      "bilgi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Çocuk' kelimesi, 'okul' ve 'öğretmen' ile çağrışım yapmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529585399_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir anlam ilişkisi olan 'özellikle' kelimesi ile doğru bir bağ kurmaktadır?",
-    "options": [
-      "Kitap okumayı çok seviyorum, özellikle romanları.",
-      "Hava çok güzel, bu yüzden pikniğe gideceğiz.",
-      "Ödevimi bitirdim, artık dışarı çıkabilirim.",
-      "Film izlemek eğlencelidir, ama zaman alır.",
-      "Yemek yapmayı biliyorum, bu nedenle dışarıda yemek yemem."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Özellikle' kelimesi, belirli bir durumu vurgulamak için kullanılır. İlk seçenekte romanların önemi vurgulanmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169932_33",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime farklı bir anlam taşımaktadır?",
-    "options": [
-      "göz",
-      "kulak",
-      "burun",
-      "ağız",
-      "kalp"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Kalp' kelimesi diğer organlardan farklı bir anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526285512_4",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'çünkü' bağlacı yanlış kullanılmıştır?",
-    "options": [
-      "Sınavdan yüksek not almayı hedefliyorum çünkü çalışıyorum.",
-      "Hava çok soğuk dışarı çıkmak istemiyorum çünkü kış geldi.",
-      "Ders çalışmak zor çünkü zamanım yok.",
-      "O kitabı okudum çünkü çok beğendim.",
-      "Sinemaya gitmek istiyorum çünkü biletler çok pahalı."
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Çünkü' bağlacı, neden-sonuç ilişkisini göstermelidir. Son cümlede 'biletler çok pahalı' durumu, gitmek istemeyi açıklamaz, bu nedenle yanlış kullanımdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_12",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını genişletmektedir?",
-    "options": [
-      "sandalye",
-      "mobilya",
-      "masa",
-      "koltuk",
-      "tabure"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Mobilya' kelimesi, 'sandalye' kelimesinin anlamını genişletmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169931_24",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını kaybetmiştir?",
-    "options": [
-      "kitap",
-      "defter",
-      "kalem",
-      "gözlük",
-      "yazı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Yazı' kelimesi anlamını kaybetmiştir çünkü diğer kelimeler somut nesnelerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_11",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi taşımaktadır?",
-    "options": [
-      "Hava soğuk, bu yüzden mont giymek zorundayım.",
-      "Sıcak su, daha çabuk kaynar.",
-      "Kışın yağmur yağar.",
-      "Yazın denize girilir.",
-      "Sonbaharda ağaçlar dökülür."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hava soğuk, bu yüzden mont giymek zorundayım cümlesinde soğuk hava mont giymek zorunluluğunun nedenidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500415115_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde bir eylemin gerçekleşmesi başka bir durumun gerçekleşmesine bağlıdır?",
-    "options": [
-      "Yoğun kar yağışı yüzünden okullar tatil edildi.",
-      "Hava kararmadan eve dönmüş olmalıyız.",
-      "İstediğin bölümü kazanman, düzenli çalışmana bağlı.",
-      "Yazar, son romanında toplumsal sorunlara değinmiş.",
-      "Toplantı salonuna girdiğinde herkes onu bekliyordu."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruda koşul-sonuç (şart-sonuç) ilişkisi içeren cümle sorulmaktadır. Koşul-sonuç cümlelerinde bir eylemin veya durumun gerçekleşmesi, başka bir eylemin veya durumun gerçekleşmesi şartına bağlanır. C seçeneğinde 'istediğin bölümü kazanman' sonucu, 'düzenli çalışman' koşuluna bağlanmıştır. Diğer seçeneklerde ise bu tür bir koşul ilişkisi yoktur. A'da neden-sonuç, B'de gereklilik, D'de içerik belirtme, E'de ise zaman ilişkisi bulunmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169931_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede anlamı en çok hangi kelime değiştirir?",
-    "options": [
-      "güzel",
-      "çirkin",
-      "hoş",
-      "sevimli",
-      "cazip"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu cümlede 'güzel' kelimesinin anlamını en çok 'çirkin' kelimesi değiştirmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169932_32",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime anlamını genişletmektedir?",
-    "options": [
-      "sandalye",
-      "mobilya",
-      "masa",
-      "koltuk",
-      "tabure"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Mobilya' kelimesi, 'sandalye' kelimesinin anlamını genişletmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, diğerlerinden farklı bir anlam ilişkisine sahiptir?",
-    "options": [
-      "Güneş doğdu.",
-      "Ay gece görünür.",
-      "Yıldızlar parlayarak gökyüzünü süsler.",
-      "Hava karardığında yıldızlar belirir.",
-      "Yıldızlar, ayın etrafında döner."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Diğer cümleler, gökyüzü ve ışık ile ilgili durumları anlatırken, 'Yıldızlar, ayın etrafında döner.' cümlesi yanlıştır. Yıldızlar kendi etrafında döner, ayın etrafında değil.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime yanlış kullanılmıştır?",
-    "options": [
-      "büyüleyici",
-      "çirkin",
-      "güzel",
-      "sevimli",
-      "hayalperest"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Çirkin' kelimesi, diğer olumlu anlamlı kelimelerle uyumsuzdur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575968786_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlıdır?",
-    "options": [
-      "Hızlı - Çabuk",
-      "Yavaş - Hızlı",
-      "Güzel - Çirkin",
-      "Büyük - Küçük",
-      "Aydınlık - Karanlık"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Hızlı' ve 'çabuk' kelimeleri eş anlamlıdır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764519463628_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde 'eş anlam' ilişkisi vardır?",
-    "options": [
-      "Çocuklar parka gitti, oyun oynuyorlar.",
-      "Bu kitap çok ilginç, mutlaka okumalısın.",
-      "Köpekler havladı, herkes rahatsız oldu.",
-      "Güzel bir film izledik, çok beğendim.",
-      "Ateş çok sıcak, dikkat et."
-    ],
-    "correctAnswer": 3,
-    "explanation": "'Güzel' ve 'hoş' kelimeleri eş anlamlıdır. 'Güzel bir film izledik, çok beğendim.' cümlesinde bu eş anlam ilişkisi bulunmaktadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169931_26",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime olumlu bir durumu ifade etmektedir?",
-    "options": [
-      "sorun",
-      "problem",
-      "çözüm",
-      "zorluk",
-      "engeller"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Çözüm' kelimesi olumlu bir durumu ifade etmektedir.",
+    "explanation": "'Ama' bağlacı, iki düşünce arasında zıtlık kurar. 'Hava çok sıcak ama ben dışarı çıkıyorum.' ifadesi bu durumu gösterir.",
     "difficulty": 4
   },
   {
@@ -1664,452 +208,20 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764529169931_7",
+    "id": "ai_1764522406567_12",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlamdan çıkarıldığında anlam kaymasına neden olur?",
+    "questionText": "Aşağıdaki cümlelerden hangisi zaman ilişkisi içerir?",
     "options": [
-      "ağaç",
-      "ev",
-      "mutluluk",
-      "su",
-      "güzel"
+      "Ders çalışıyorum, sonra sinemaya gideceğim.",
+      "Hava çok güzeldi.",
+      "Yemek pişiriyorum.",
+      "Güzel bir gün geçirdim.",
+      "Sinema biletimi aldım."
     ],
-    "correctAnswer": 2,
-    "explanation": "'Mutluluk' kelimesi, diğer kelimelerle bir bağlam oluşturduğunda anlam kazanmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575968786_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime diğerlerinden zıt anlamlıdır?",
-    "options": [
-      "Büyük",
-      "Küçük",
-      "Uzun",
-      "Kısa",
-      "Geniş"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Küçük' kelimesi, diğer kelimelerin zıt anlamlısıdır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764499051452_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir koşula bağlanmamıştır?",
-    "options": [
-      "Ödevlerini bitirirsen dışarı çıkıp arkadaşlarınla oynayabilirsin.",
-      "İstediği üniversiteyi kazandı mı, ona hayalindeki arabayı alacaklar.",
-      "Yarın hava güzel olursa hep birlikte pikniğe gideceğiz.",
-      "Onu gördüm diye bütün planlarımı değiştirecek değilim.",
-      "Akşam yemeğine yetişmek üzere toplantıdan erken ayrıldı."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu soruda, seçeneklerdeki cümlelerde bulunan anlam ilişkileri incelenmelidir. A, B, C ve D seçeneklerinde koşul-sonuç ilişkisi varken, E seçeneğinde amaç-sonuç ilişkisi bulunmaktadır.\nA) Dışarı çıkıp oynamanın koşulu, ödevlerin bitirilmesidir. (-se şart eki)\nB) Araba alınmasının koşulu, istediği üniversiteyi kazanmasıdır. (mı soru eki ile sağlanmış)\nC) Pikniğe gidilmesinin koşulu, yarın havanın güzel olmasıdır. (-se şart eki)\nD) \"Onu gördüm diye\" ifadesi \"onu gördüğüm için\" anlamında bir neden belirtir gibi görünse de cümlenin bütününe bakıldığında, \"Onu görsem bile planlarımı değiştirmem\" anlamı çıkar, bu da örtük bir koşul ifadesidir.\nE) Toplantıdan erken ayrılmasının amacı, akşam yemeğine yetişmektir. Henüz yemeğe yetişip yetişmediği belli değildir, bir hedef söz konusudur. Bu nedenle bu cümlede eylemin gerçekleşmesi bir koşula değil, bir amaca bağlanmıştır.",
+    "correctAnswer": 0,
+    "explanation": "'Sonra' ifadesi, zaman ilişkisini belirtmektedir.",
     "difficulty": 3
-  },
-  {
-    "id": "ai_1764525304061_4",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi içermektedir?",
-    "options": [
-      "Deniz suyu tuzludur.",
-      "Göl suyu tatlıdır.",
-      "Havuz suyu durgundur.",
-      "Okyanus suyu derindir.",
-      "Nehir suyu akıcıdır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Deniz suyu tuzludur cümlesinde deniz suyu ile okyanus suyu arasında benzerlik vardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529169931_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlıdır?",
-    "options": [
-      "hızlı",
-      "yavaş",
-      "sakin",
-      "çabuk",
-      "süratli"
-    ],
-    "correctAnswer": 3,
-    "explanation": "'Hızlı' kelimesi ile 'çabuk' kelimesi eş anlamlıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525304061_8",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz anlam ifade etmektedir?",
-    "options": [
-      "Bugün hava güzel.",
-      "Yarın yağmur yağmayacak.",
-      "Dışarıda çok rüzgar var.",
-      "Sıcak bir gün geçirdik.",
-      "Bu akşam çok eğlendik."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yarın yağmur yağmayacak cümlesi, bir olumsuzluk içermektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525304061_16",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir tanım yapmaktadır?",
-    "options": [
-      "Ağaç, yeşil yapraklı bir bitkidir.",
-      "Çiçekler bahar ayında açar.",
-      "Güneş doğar, yeni bir gün başlar.",
-      "Yağmur yağar, toprağı besler.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm cümleler, belirli nesnelerin tanımını yapmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525304061_21",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi taşır?",
-    "options": [
-      "Kediler, köpeklerden daha bağımsızdır.",
-      "Kuşlar, uçabilme özelliğine sahiptir.",
-      "Balıklar, su içinde yaşar.",
-      "Hepsi doğrudur.",
-      "Hayvanlar, doğada birbirleriyle etkileşim halindedir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tüm cümleler, hayvanların özelliklerini benzer bir şekilde tanımlamaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575968788_8",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime benzetme yapılmıştır?",
-    "options": [
-      "Yüzüm güneş gibi",
-      "Elma kırmızı",
-      "Kedi sessiz",
-      "Çiçek açtı",
-      "Köpek havladı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Yüzüm güneş gibi' ifadesinde benzetme vardır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764575968786_5",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki kelimelerden hangisi soyut bir kavramdır?",
-    "options": [
-      "Aşk",
-      "Kalem",
-      "Masa",
-      "Sandalye",
-      "Kitap"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Aşk' kelimesi soyut bir kavramdır, diğerleri somut nesnelerdir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764522406567_14",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi içerir?",
-    "options": [
-      "Kediler ve köpekler evcil hayvanlardır.",
-      "Yaz ve kış mevsimleri zıttır.",
-      "Hava çok sıcak.",
-      "Köpekler havlar.",
-      "Kediler mırlamaktadır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kediler ve köpekler arasındaki ortak özellik, benzerlik ilişkisini ifade eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529169931_21",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime olumlu bir duygu taşımaktadır?",
-    "options": [
-      "üzüntü",
-      "keder",
-      "mutluluk",
-      "sıkıntı",
-      "ağrı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Mutluluk' kelimesi olumlu bir duygu taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529169932_35",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime yanlış anlamda kullanılmıştır?",
-    "options": [
-      "korkmak",
-      "cesur",
-      "ürkek",
-      "cesaret",
-      "güç"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Cesur' kelimesi diğer kelimelerle zıt anlam taşımaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520435528_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'sebep-sonuç' vardır?",
-    "options": [
-      "Yağmur yağdığı için dışarı çıkmadım.",
-      "Köpek havladığı için uyanmıştım.",
-      "Sınavdan yüksek not aldım, bu yüzden çok sevindim.",
-      "Yaz tatilinde deniz tatili yapmayı planlıyorum.",
-      "Kütüphanede kitap okudum."
-    ],
-    "correctAnswer": 0,
-    "explanation": "İlk cümlede 'yağmur yağdığı için' ifadesi, dışarı çıkmama kararının sebebini belirtmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522406567_5",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisinde neden-sonuç ilişkisi yoktur?",
-    "options": [
-      "Yağmur yağdığı için sokaklar ıslak.",
-      "Sınavdan yüksek not aldım, çok çalıştım.",
-      "Kütüphaneye gittiğimde kitap bulamadım.",
-      "Kahvaltı yapmadım, aç kaldım.",
-      "Hava soğuk olduğu için mont giydim."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kütüphaneye gitmek ve kitap bulamamak arasında doğrudan bir neden-sonuç ilişkisi yoktur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577114295_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'Hava çok soğuk, dışarı çıkmayalım.' cümlesinin zıt anlamlısını ifade eder?",
-    "options": [
-      "Hava sıcak, dışarı çıkabiliriz.",
-      "Hava soğuk, dışarı çıkmalıyız.",
-      "Hava güzel, dışarı çıkalım.",
-      "Dışarı çıkmak istemiyorum.",
-      "Hava fırtınalı, dışarı çıkmamalıyız."
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Hava çok soğuk, dışarı çıkmayalım.' cümlesinin zıt anlamlısı, hava sıcak olduğu için dışarı çıkabileceğimizi ifade eden bir cümledir. Bu nedenle, 'Hava sıcak, dışarı çıkabiliriz.' doğru cevaptır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764579358412_0",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'ama' bağlacının anlam ilişkisini en iyi yansıtır?",
-    "options": [
-      "Hava soğuk, dışarı çıkmayı düşünmüyorum.",
-      "Hava soğuk ama dışarı çıkmak zorundayım.",
-      "Hava soğuk, bu yüzden evde kalacağım.",
-      "Hava soğuk, bu akşam sinemaya gitmeyeceğim.",
-      "Hava soğuk ve yağmur yağıyor."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Ama' bağlacı, iki zıt durumu bir arada ifade eder. 'Hava soğuk ama dışarı çıkmak zorundayım' cümlesi bu durumu en iyi yansıtır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_1",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki anlamı pekiştirmektedir?",
-    "options": [
-      "Güzel",
-      "Çirkin",
-      "Kötü",
-      "Harika",
-      "Berbat"
-    ],
-    "correctAnswer": 3,
-    "explanation": "'Harika' kelimesi, güzellik anlamını pekiştirir. Diğer kelimeler olumsuz ya da zayıf anlamlar taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_2",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini en iyi yansıtır?",
-    "options": [
-      "Dışarıda yağmur yağıyor.",
-      "Bu yüzden şemsiye aldım.",
-      "Şemsiye almayı unuttum.",
-      "Hava güzel, pikniğe gideceğiz.",
-      "Yağmurda yürümek eğlencelidir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "İlk cümledeki durum, ikinci cümledeki sonucu doğurur. 'Dışarıda yağmur yağıyor, bu yüzden şemsiye aldım.' ifadesi neden-sonuç ilişkisini kurar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_3",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı zıt olan bir durumu ifade etmektedir?",
-    "options": [
-      "Hızlı",
-      "Yavaş",
-      "Çabuk",
-      "Acele",
-      "Sakin"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Yavaş' kelimesi, 'hızlı' kelimesinin zıttıdır. Diğer kelimeler hız konusunda benzer anlamlar taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_4",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki cümle arasındaki karşıtlığı ifade etmektedir?",
-    "options": [
-      "Ve",
-      "Ama",
-      "Veya",
-      "Fakat",
-      "Çünkü"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Ama' bağlacı, iki düşünce arasında zıtlık kurar. 'Hava güzel ama ben evde kalmayı tercih ediyorum.' örneğinde olduğu gibi.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_5",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki durumu güçlendirmektedir?",
-    "options": [
-      "Sadece",
-      "Biraz",
-      "Çok",
-      "Hemen",
-      "Belki"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Çok' kelimesi, durumu güçlendirir. 'Bu elbise çok güzel.' ifadesinde güzellik anlamı pekiştirilmiştir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_6",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'fakat' bağlacının anlamını en iyi yansıtır?",
-    "options": [
-      "Dışarıda rüzgar var, bu yüzden dışarı çıkmıyorum.",
-      "Güzel bir gün, fakat işim var.",
-      "Hava güzel, pikniğe gideceğiz.",
-      "Yağmurda yürümek eğlencelidir.",
-      "Bugün çok yorgunum."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Fakat' bağlacı, iki cümle arasında zıtlık ifade eder. 'Güzel bir gün, fakat işim var.' ifadesi bu durumu gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_7",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı olumsuzlaştırmaktadır?",
-    "options": [
-      "Her",
-      "Hiç",
-      "Bütün",
-      "Çoğu",
-      "Bazı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Hiç' kelimesi, cümlede anlamı olumsuzlaştırır. 'Hiçbir şey yapmadım.' ifadesinde bu durum açıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_8",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'çünkü' bağlacının anlamını en iyi yansıtır?",
-    "options": [
-      "Bugün hava çok sıcak.",
-      "Bu yüzden denize gireceğim.",
-      "Hava soğuk, çünkü kış geldi.",
-      "Dışarıda çok rüzgar var.",
-      "Yağmur yağmıyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "'Çünkü' bağlacı, neden-sonuç ilişkisini ifade eder. 'Hava soğuk, çünkü kış geldi.' ifadesi bu durumu gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_9",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı yoğunlaştırmaktadır?",
-    "options": [
-      "Biraz",
-      "Çok",
-      "Sadece",
-      "Bazen",
-      "Hemen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Çok' kelimesi, durumu yoğunlaştırır. 'Bugün çok mutluyum.' ifadesinde mutluluk anlamı güçlendirilmiştir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_10",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerde hangi bağlaç, iki durumu birbirine bağlamaktadır?",
-    "options": [
-      "Ama",
-      "Ve",
-      "Fakat",
-      "Ya da",
-      "Çünkü"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Ve' bağlacı, iki durumu birbirine bağlar. 'Hava güzel ve ben dışarı çıkacağım.' ifadesinde bu durum açıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_11",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı olumsuzlaştırmaktadır?",
-    "options": [
-      "Hep",
-      "Her",
-      "Bazen",
-      "Sadece",
-      "Asla"
-    ],
-    "correctAnswer": 4,
-    "explanation": "'Asla' kelimesi, cümlede anlamı olumsuzlaştırır. 'Asla vazgeçmeyeceğim.' ifadesinde bu durum açıktır.",
-    "difficulty": 4
   },
   {
     "id": "ai_1764579358412_12",
@@ -2128,115 +240,275 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_13",
+    "id": "ai_1764522406567_11",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı pekiştirmektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ifade eder?",
     "options": [
-      "Biraz",
-      "Çok",
-      "Az",
-      "Sadece",
-      "Hep"
+      "Ali çalışkan, Ayşe de öyle.",
+      "Ayşe çok çalışkan değil.",
+      "Ali çalışıyor, Ayşe de ders çalışıyor.",
+      "Ali sporda başarılıdır, Ayşe de.",
+      "Ali'nin kitabı, Ayşe'nin kitabı."
     ],
-    "correctAnswer": 1,
-    "explanation": "'Çok' kelimesi, durumu pekiştirir. 'Bu yemek çok lezzetli.' ifadesinde lezzet anlamı güçlendirilmiştir.",
+    "correctAnswer": 3,
+    "explanation": "Ali ve Ayşe'nin sporda başarılı olma durumu benzerlik ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_26",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime olumlu bir durumu ifade etmektedir?",
+    "options": [
+      "sorun",
+      "problem",
+      "çözüm",
+      "zorluk",
+      "engeller"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çözüm' kelimesi olumlu bir durumu ifade etmektedir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_14",
+    "id": "ai_1764526285512_5",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlelerden hangisi, 'veya' bağlacının anlamını en iyi yansıtır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi 'ya da' bağlacının kullanımına örnek teşkil etmez?",
     "options": [
-      "Yağmur yağıyor, bu yüzden evde kalacağım.",
-      "Bugün pikniğe gidebiliriz veya sinemaya.",
-      "Dışarıda çok sıcak, ama ben dışarı çıkacağım.",
-      "Hava güzel, fakat ben evde kalmayı tercih ediyorum.",
-      "Hava çok soğuk."
+      "Bugün sinemaya gidebiliriz ya da tiyatroya.",
+      "Kahve ya da çay içmek istersen haber ver.",
+      "Okuldan sonra alışverişe gidebiliriz ya da evde kalalım.",
+      "Hava güzel, yürüyüşe çıkalım ya da piknik yapalım.",
+      "Yaz tatilinde deniz ya da dağ tatili yapmayı düşünüyorum."
     ],
-    "correctAnswer": 1,
-    "explanation": "'Veya' bağlacı, alternatif sunar. 'Bugün pikniğe gidebiliriz veya sinemaya.' ifadesi bu durumu gösterir.",
+    "correctAnswer": 0,
+    "explanation": "'Ya da' bağlacı, eşit seçenekleri ifade etmeli. İlk cümlede 'sinemaya gidebiliriz' ifadesi cümlenin öznesi ile çelişiyor ve yanlış bir kullanım sergiliyor.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_15",
+    "id": "ai_1764577114295_7",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki ifadelerden hangisi, bir durumu örneklemektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Oyun oynamayı seviyorum.' cümlesinin eş anlamlısıdır?",
     "options": [
-      "Kediler çok sevimlidir.",
-      "Kediler mırlarken mutlu olurlar.",
-      "Kedim çok oynak.",
-      "Kediler evde bakılabilir.",
-      "Kediler cinslerine göre değişir."
+      "Oyun oynamak hoşuma gidiyor.",
+      "Oyun oynamak zor.",
+      "Oyun oynamak istemiyorum.",
+      "Oyun oynamak eğlenceli değil.",
+      "Oyun oynamayı sevmiyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Oyun oynamayı seviyorum.' ifadesinin eş anlamlısı, 'Oyun oynamak hoşuma gidiyor.' cümlesidir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529169931_9",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime çağrışım yapmaktadır?",
+    "options": [
+      "çocuk",
+      "okul",
+      "öğretmen",
+      "kitap",
+      "bilgi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Çocuk' kelimesi, 'okul' ve 'öğretmen' ile çağrışım yapmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_13",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime deyimsel anlam taşımaktadır?",
+    "options": [
+      "gözden düşmek",
+      "güzel",
+      "sevimli",
+      "çirkin",
+      "hoş"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Gözden düşmek' ifadesi deyimsel bir anlam taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575968788_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime benzetme yapılmıştır?",
+    "options": [
+      "Yüzüm güneş gibi",
+      "Elma kırmızı",
+      "Kedi sessiz",
+      "Çiçek açtı",
+      "Köpek havladı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Yüzüm güneş gibi' ifadesinde benzetme vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764529169932_30",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlıdır?",
+    "options": [
+      "yüksek",
+      "alçak",
+      "kısa",
+      "uzun",
+      "geniş"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Alçak' kelimesi 'yüksek' kelimesinin zıt anlamlısıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime yanlış kullanılmıştır?",
+    "options": [
+      "büyüleyici",
+      "çirkin",
+      "güzel",
+      "sevimli",
+      "hayalperest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Çirkin' kelimesi, diğer olumlu anlamlı kelimelerle uyumsuzdur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519463628_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerde hangisinde 'sebep-sonuç' ilişkisi vardır?",
+    "options": [
+      "Yarın hava yağmurlu olacak, şemsiyemi alacağım.",
+      "Deniz kenarında yürüyüş yapmayı seviyorum.",
+      "Sınavdan yüksek not aldım, çok çalıştım.",
+      "Bugün hava çok sıcak, denize gireceğim.",
+      "Film çok güzeldi, arkadaşım tavsiye etti."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çok çalıştım' ifadesi 'yüksek not aldım' sonucuna sebep olmuştur. Bu sebeple 'Sınavdan yüksek not aldım, çok çalıştım.' cümlesinde sebep-sonuç ilişkisi vardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_18",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime çağrışım yapmamaktadır?",
+    "options": [
+      "öğretmen",
+      "öğrenci",
+      "sınıf",
+      "kitap",
+      "kalem"
     ],
     "correctAnswer": 4,
-    "explanation": "Son ifade, kedilerin cinslerine göre farklılık gösterebileceğini örnekler.",
+    "explanation": "'Kalem' kelimesi, diğer kelimelerin çağrışımına uyum sağlamamaktadır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_16",
+    "id": "ai_1764577114295_2",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki anlamı zayıflatmaktadır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Ali sinemaya gitmek istiyor.' cümlesiyle aynı anlamı taşır?",
     "options": [
-      "Hızlı",
-      "Sadece",
-      "Biraz",
-      "Çok",
-      "Tam"
+      "Ali sinemayı seviyor.",
+      "Ali sinemaya gidecek.",
+      "Ali sinemaya gitmeyi arzuluyor.",
+      "Ali sinemaya gitmek istemiyor.",
+      "Ali sinemaya gitti."
     ],
     "correctAnswer": 2,
-    "explanation": "'Biraz' kelimesi, durumu zayıflatır. 'Biraz yorgunum.' ifadesinde yorgunluk anlamı kısmi olarak ifade edilmiştir.",
-    "difficulty": 4
+    "explanation": "'Ali sinemaya gitmek istiyor.' cümlesinin anlamı, Ali'nin sinemaya gitmeyi arzuladığını ifade eder. Bu nedenle, 'Ali sinemaya gitmeyi arzuluyor.' cümlesi aynı anlamı taşır.",
+    "difficulty": 2
   },
   {
-    "id": "ai_1764579358412_17",
+    "id": "ai_1764529169931_16",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki cümle arasında neden-sonuç ilişkisini ifade etmektedir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını değiştirmiştir?",
     "options": [
-      "Ama",
-      "Çünkü",
-      "Ve",
-      "Fakat",
-      "Ya da"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Çünkü' bağlacı, neden-sonuç ilişkisini ifade eder. 'Sınavdan yüksek not aldım çünkü çok çalıştım.' ifadesinde bu durum açıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579358412_18",
-    "subjectId": "tur",
-    "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı güçlendirmektedir?",
-    "options": [
-      "Biraz",
-      "Sadece",
-      "Çok",
-      "Az",
-      "Hiç"
+      "açık",
+      "kapalı",
+      "açık hava",
+      "karanlık",
+      "sıcak"
     ],
     "correctAnswer": 2,
-    "explanation": "'Çok' kelimesi, durumu güçlendirir. 'Bu film çok güzeldi.' ifadesinde güzellik anlamı pekiştirilmiştir.",
+    "explanation": "'Açık hava' ifadesi, 'açık' kelimesinin anlamını değiştirmiştir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_19",
+    "id": "ai_1764529585399_0",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki düşünce arasında zıtlık kurmaktadır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'ama' bağlacı kullanılarak bir zıtlık durumu ifade edilmiştir?",
     "options": [
-      "Ve",
-      "Ama",
-      "Ya da",
-      "Çünkü",
-      "Fakat"
+      "Hava çok soğuk, dışarı çıkmak zorundayım.",
+      "Yemek yapmayı seviyorum, fakat temizlikte zorlanıyorum.",
+      "Kitap okumayı çok seviyorum.",
+      "Çalışmalarımı düzenli yapıyorum, bu yüzden başarılıyım.",
+      "Dün yağmur yağdı, bu sabah güneş açtı."
     ],
     "correctAnswer": 1,
-    "explanation": "'Ama' bağlacı, iki düşünce arasında zıtlık kurar. 'Hava çok sıcak ama ben dışarı çıkıyorum.' ifadesi bu durumu gösterir.",
+    "explanation": "'Ama' bağlacı zıtlık ilişkisi kurar. İkinci seçenekte bu bağlaç, yemek yapma isteği ile temizlikte zorlanma durumunu zıtlık içerisinde sunmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577114295_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Çalışkan öğrenciler başarılı olur.' cümlesinin anlamını en iyi ifade eder?",
+    "options": [
+      "Başarılı öğrenciler çalışkandır.",
+      "Çalışmak, başarıyı getirir.",
+      "Çalışkanlık başarıyı artırmaz.",
+      "Başarı, şansa bağlıdır.",
+      "Başarılı olmak için çalışmak gerekmez."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Çalışkan öğrenciler başarılı olur.' ifadesi, çalışmanın başarıyı getirdiğini ifade etmektedir. Bu bakımdan, en yakın anlamı 'Çalışmak, başarıyı getirir.' cümlesi taşımaktadır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764577114295_5",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Yavaş yavaş yürüyelim.' cümlesinin zıt anlamlısıdır?",
+    "options": [
+      "Hızlı hızlı yürüyelim.",
+      "Yavaş yavaş koşalım.",
+      "Acelen yok.",
+      "Daha yavaş yürüyelim.",
+      "Yavaş yürümek iyidir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Yavaş yavaş yürüyelim.' ifadesinin zıt anlamı, hızlı bir şekilde yürümektir. Bu nedenle, 'Hızlı hızlı yürüyelim.' doğru cevaptır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764579358412_11",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı olumsuzlaştırmaktadır?",
+    "options": [
+      "Hep",
+      "Her",
+      "Bazen",
+      "Sadece",
+      "Asla"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Asla' kelimesi, cümlede anlamı olumsuzlaştırır. 'Asla vazgeçmeyeceğim.' ifadesinde bu durum açıktır.",
     "difficulty": 4
   },
   {
@@ -2256,6 +528,918 @@
     "difficulty": 4
   },
   {
+    "id": "ai_1764522406567_7",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma içerir?",
+    "options": [
+      "Ali, Ayşe'den daha hızlı koşuyor.",
+      "Ali çok çalışkan bir öğrencidir.",
+      "Ayşe ders çalışıyor.",
+      "Ali ve Ayşe birlikte sinemaya gidecek.",
+      "Hava çok sıcak."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali'nin Ayşe ile karşılaştırılması, cümlede bir karşılaştırma ilişkisi kurmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169932_33",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime farklı bir anlam taşımaktadır?",
+    "options": [
+      "göz",
+      "kulak",
+      "burun",
+      "ağız",
+      "kalp"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Kalp' kelimesi diğer organlardan farklı bir anlam taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575968788_7",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Su ıslandığında buharlaşır.",
+      "Gülümsemek mutluluğun ifadesidir.",
+      "Bir şeyin anlamını bilmek zorunludur.",
+      "Hayvanlar nefes alır.",
+      "Çiçekler açar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir şeyin anlamını bilmek zorunda değiliz, bu yanlıştır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764579358412_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'fakat' bağlacının anlamını en iyi yansıtır?",
+    "options": [
+      "Dışarıda rüzgar var, bu yüzden dışarı çıkmıyorum.",
+      "Güzel bir gün, fakat işim var.",
+      "Hava güzel, pikniğe gideceğiz.",
+      "Yağmurda yürümek eğlencelidir.",
+      "Bugün çok yorgunum."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Fakat' bağlacı, iki cümle arasında zıtlık ifade eder. 'Güzel bir gün, fakat işim var.' ifadesi bu durumu gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_12",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi zıt anlam ilişkisi taşımaktadır?",
+    "options": [
+      "Yavaş yavaş koş.",
+      "Güzel bir gün.",
+      "Büyük bir şehir.",
+      "Küçük bir köy.",
+      "Sıcak bir yaz."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Küçük bir köy cümlesinde 'küçük' kelimesi, 'büyük' kelimesinin zıttıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577114295_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Bugün hava çok güzel.' cümlesiyle anlamca çelişir?",
+    "options": [
+      "Hava çok sıcak.",
+      "Bugün hava kötü.",
+      "Hava serin oldu.",
+      "Hava çok rüzgarlı.",
+      "Hava bulutlu."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Bugün hava çok güzel.' ifadesi olumlu bir durum belirtirken, 'Bugün hava kötü.' ifadesi doğrudan çelişmektedir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529169931_23",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlıdır?",
+    "options": [
+      "açık",
+      "kapalı",
+      "engelli",
+      "serbest",
+      "zıt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Kapalı' kelimesi 'açık' kelimesinin zıt anlamlısıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406567_5",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde neden-sonuç ilişkisi yoktur?",
+    "options": [
+      "Yağmur yağdığı için sokaklar ıslak.",
+      "Sınavdan yüksek not aldım, çok çalıştım.",
+      "Kütüphaneye gittiğimde kitap bulamadım.",
+      "Kahvaltı yapmadım, aç kaldım.",
+      "Hava soğuk olduğu için mont giydim."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kütüphaneye gitmek ve kitap bulamamak arasında doğrudan bir neden-sonuç ilişkisi yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime kesinlik ifade etmektedir?",
+    "options": [
+      "belki",
+      "muhtemelen",
+      "kesinlikle",
+      "hiçbir zaman",
+      "bazı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Kesinlikle' kelimesi kesinlik ifade eden bir ifadedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519463628_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'eş anlam' ilişkisi vardır?",
+    "options": [
+      "Çocuklar parka gitti, oyun oynuyorlar.",
+      "Bu kitap çok ilginç, mutlaka okumalısın.",
+      "Köpekler havladı, herkes rahatsız oldu.",
+      "Güzel bir film izledik, çok beğendim.",
+      "Ateş çok sıcak, dikkat et."
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Güzel' ve 'hoş' kelimeleri eş anlamlıdır. 'Güzel bir film izledik, çok beğendim.' cümlesinde bu eş anlam ilişkisi bulunmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575968786_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlıdır?",
+    "options": [
+      "Hızlı - Çabuk",
+      "Yavaş - Hızlı",
+      "Güzel - Çirkin",
+      "Büyük - Küçük",
+      "Aydınlık - Karanlık"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hızlı' ve 'çabuk' kelimeleri eş anlamlıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764579358412_5",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki durumu güçlendirmektedir?",
+    "options": [
+      "Sadece",
+      "Biraz",
+      "Çok",
+      "Hemen",
+      "Belki"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çok' kelimesi, durumu güçlendirir. 'Bu elbise çok güzel.' ifadesinde güzellik anlamı pekiştirilmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlıdır?",
+    "options": [
+      "soğuk",
+      "sıcak",
+      "ılık",
+      "serin",
+      "buzlu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Soğuk' kelimesinin zıt anlamlısı 'sıcak' kelimesidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_10",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime yanlış anlamda kullanılmıştır?",
+    "options": [
+      "gözlem",
+      "bakış",
+      "izleme",
+      "görüş",
+      "yargı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Yargı' kelimesi, diğer kelimelerle uyumlu değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_7",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı olumsuzlaştırmaktadır?",
+    "options": [
+      "Her",
+      "Hiç",
+      "Bütün",
+      "Çoğu",
+      "Bazı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Hiç' kelimesi, cümlede anlamı olumsuzlaştırır. 'Hiçbir şey yapmadım.' ifadesinde bu durum açıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı zıt olan bir durumu ifade etmektedir?",
+    "options": [
+      "Hızlı",
+      "Yavaş",
+      "Çabuk",
+      "Acele",
+      "Sakin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Yavaş' kelimesi, 'hızlı' kelimesinin zıttıdır. Diğer kelimeler hız konusunda benzer anlamlar taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406566_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde zıt anlam ilişkisi vardır?",
+    "options": [
+      "Sıcak günlerde serinlemek güzel.",
+      "Soğuk kış ayları zor geçer.",
+      "Güneş doğmadan önce karanlık olur.",
+      "Çiçekler açmaya başladı.",
+      "Hava çok güzel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Soğuk kış ayları' ifadesinde 'soğuk' ve 'zor' kelimeleri bir zıtlık ilişkisi kurmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime olumsuz anlam taşımaktadır?",
+    "options": [
+      "güzel",
+      "hayır",
+      "evet",
+      "mutlu",
+      "sevinç"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Hayır' kelimesi cümlede olumsuz bir anlam taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_13",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
+    "options": [
+      "Kitap okumak, bilgi edinmektir.",
+      "Film izlemek, eğlenmektir.",
+      "Müzik dinlemek, ruh halini iyileştirir.",
+      "Tiyatro izlemek, kültürel bir etkinliktir.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler, bir eylemin sonucunu açıklamaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529169931_22",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime mecaz anlamda kullanılmıştır?",
+    "options": [
+      "deniz",
+      "okyanus",
+      "dengede",
+      "sıfır",
+      "ay"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Dengede' kelimesi mecaz anlamda dengeyi ifade etmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_7",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
+    "options": [
+      "Kütüphane, kitaplarla doludur.",
+      "Kütüphane, okuma yeridir.",
+      "Kütüphane, sessiz bir ortamdır.",
+      "Kütüphane, bilgi merkezidir.",
+      "Kütüphane, eğitim için önemlidir."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kütüphane, kitaplarla doludur cümlesi, kütüphane ile kitaplar arasında bir içerik ilişkisi kurmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525304061_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi zıt anlamlı kelimeler içerir?",
+    "options": [
+      "Hızlı koşmak.",
+      "Yavaş yavaş ilerlemek.",
+      "Güneş açtı, karanlık gitti.",
+      "Deniz dalgalı, gökyüzü mavi.",
+      "Kışın soğuk olur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Güneş açtı, karanlık gitti cümlesinde 'açmak' ve 'gitmek' eylemleri, karanlık ve aydınlık arasında zıt bir durum yaratmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579358412_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki cümle arasındaki karşıtlığı ifade etmektedir?",
+    "options": [
+      "Ve",
+      "Ama",
+      "Veya",
+      "Fakat",
+      "Çünkü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Ama' bağlacı, iki düşünce arasında zıtlık kurar. 'Hava güzel ama ben evde kalmayı tercih ediyorum.' örneğinde olduğu gibi.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_16",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki anlamı zayıflatmaktadır?",
+    "options": [
+      "Hızlı",
+      "Sadece",
+      "Biraz",
+      "Çok",
+      "Tam"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Biraz' kelimesi, durumu zayıflatır. 'Biraz yorgunum.' ifadesinde yorgunluk anlamı kısmi olarak ifade edilmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_11",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını daraltmaktadır?",
+    "options": [
+      "hayvan",
+      "kedi",
+      "canlı",
+      "evcil",
+      "sahip"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Kedi' kelimesi 'hayvan' kelimesinin anlamını daraltmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_17",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini ifade etmektedir?",
+    "options": [
+      "Güneş doğduğu için hava aydınlanır.",
+      "Yağmur yağarsa çiçekler büyür.",
+      "Kışın hava soğuk olur.",
+      "Yazın sıcak olur.",
+      "Sonbaharda ağaçlar dökülür."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güneş doğduğu için hava aydınlanır cümlesinde doğma eylemi, aydınlanma sonucunu doğurmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520435528_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'karşıtlık' içermektedir?",
+    "options": [
+      "Hava çok sıcak olduğu için denize girmek istiyorum.",
+      "Ders çalışmak zorundayım, ama çok yorgunum.",
+      "Kışın soğuk günlerde kalp atışlarım hızlanır.",
+      "Yaz mevsiminde bol bol dışarıda vakit geçirdim.",
+      "Okuldan sonra sinemaya gitmeyi planlıyorum."
+    ],
+    "correctAnswer": 1,
+    "explanation": "İkinci cümlede 'zorundayım' ve 'ama' ifadesi ile iki zıt durum (zorunluluk ve yorgunluk) ifade edilmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522406567_13",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde zıt anlam ilişkisi bulunur?",
+    "options": [
+      "Güzel bir gün geçti.",
+      "Karanlık ve aydınlık bir arada.",
+      "Hava çok sıcak.",
+      "Kış ayları soğuk geçer.",
+      "Parlak bir yıldız."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Karanlık' ve 'aydınlık' kelimeleri zıt anlamlıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579358412_10",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerde hangi bağlaç, iki durumu birbirine bağlamaktadır?",
+    "options": [
+      "Ama",
+      "Ve",
+      "Fakat",
+      "Ya da",
+      "Çünkü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Ve' bağlacı, iki durumu birbirine bağlar. 'Hava güzel ve ben dışarı çıkacağım.' ifadesinde bu durum açıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_24",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi taşımaktadır?",
+    "options": [
+      "Hava karardığı için ışık yandık.",
+      "Yağmur yağarsa çiçekler büyür.",
+      "Kışın hava soğuk olur.",
+      "Yazın sıcak olur.",
+      "Sonbaharda ağaçlar dökülür."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hava karardığı için ışık yandı cümlesinde kararmanın sonucu olarak ışığın yanması belirtilmiştir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579358412_24",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki durumu birbirine bağlamaktadır?",
+    "options": [
+      "Ama",
+      "Ve",
+      "Fakat",
+      "Ya da",
+      "Çünkü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Ve' bağlacı, iki durumu birbirine bağlar. 'Hava güzel ve ben dışarı çıkacağım.' ifadesinde bu durum açıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519463628_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'zıt anlam' ilişkisi vardır?",
+    "options": [
+      "Güneş doğdu, herkes mutlu oldu.",
+      "Hava çok soğuk, kış geldi.",
+      "Deniz çok dalgalı, yüzemeyeceğiz.",
+      "Kütüphane sessizdir, gürültü yasaktır.",
+      "Bütün insanların eşit olduğu düşünülmektedir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Soğuk' ve 'sıcak' zıt anlamlı kelimelerdir. 'Hava çok soğuk, kış geldi.' cümlesinde bu zıtlık ifade edilmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525304061_18",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi zıt anlamlı kelimeler içerir?",
+    "options": [
+      "Büyük bir şehir.",
+      "Küçük bir köy.",
+      "Sıcak bir gün.",
+      "Soğuk bir kış.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler zıt anlamlı kelimeler içermektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522406567_15",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde neden-sonuç ilişkisi yoktur?",
+    "options": [
+      "Çok çalıştım, başarılı oldum.",
+      "Yağmur yağdığı için yollar ıslak.",
+      "Yemek yemedim, aç kaldım.",
+      "Sınavdan düşük not aldım, çalışmadım.",
+      "Kütüphaneye gittim, kitap okudum."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kütüphaneye gitmek ile kitap okumak arasında doğrudan bir neden-sonuç ilişkisi yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764577114295_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Sınavdan başarılı olmak istiyorum.' cümlesinin zıt anlamlısıdır?",
+    "options": [
+      "Sınavdan başarısız olmak istemiyorum.",
+      "Sınavdan başarılı olmalıyım.",
+      "Sınavdan geçmek zorundayım.",
+      "Sınavdan başarısız olmak istiyorum.",
+      "Sınavdan geçemezsem üzülmem."
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Sınavdan başarılı olmak istiyorum.' ifadesinin zıt anlamı, sınavdan başarısız olmayı istemektir. Bu nedenle, 'Sınavdan başarısız olmak istiyorum.' cümlesi doğru cevaptır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764525304061_20",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir olumsuz durumu ifade etmektedir?",
+    "options": [
+      "Bugün hava güzel.",
+      "Yarın yağmur yağmayacak.",
+      "Dışarıda çok rüzgar var.",
+      "Sıcak bir gün geçirdik.",
+      "Bu akşam çok eğlendik."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yarın yağmur yağmayacak cümlesi olumsuz bir durumu ifade etmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525304061_10",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir tanım içerir?",
+    "options": [
+      "Araba, dört tekerlekli bir taşıttır.",
+      "Kitap, bilgi ve hikaye içeren bir nesnedir.",
+      "Masa, üzerinde bir şeylerin konulabileceği bir yüzeydir.",
+      "Kalem, yazmak için kullanılan bir araçtır.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler, belirli nesnelerin tanımını yapmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575968788_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamı genişletilmiştir?",
+    "options": [
+      "Koşmak - Yavaşlamak",
+      "Sevgi - Aşk",
+      "Güzel - Çirkin",
+      "Çalışmak - Dinlenmek",
+      "Yüzmek - Uçmak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Sevgi' ve 'aşk' kelimeleri birbirinin anlamını genişleten terimlerdir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764529585399_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'çünkü' bağlacı doğru bir şekilde kullanılmıştır?",
+    "options": [
+      "Hava çok soğuk, çünkü dışarıda kar yağıyor.",
+      "Çalışmıyorum çünkü çok yoruldum.",
+      "Sinema biletim vardı, ama gitmedim.",
+      "Dersleri geçtim, sonuç olarak ailem mutlu oldu.",
+      "Köpeğim havlıyor, bu yüzden komşular rahatsız oluyor."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Çünkü' bağlacı sebep-sonuç ilişkisi kurar. İkinci seçenekte 'çok yoruldum' durumu, 'çalışmıyorum' eylemini açıklayan bir sebep olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406566_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, diğerlerine göre anlamca farklıdır?",
+    "options": [
+      "Köpeğim bahçede oynuyor.",
+      "Kedim uyuyor.",
+      "Kuşlar gökyüzünde uçuyor.",
+      "Ağaçlar rüzgarda sallanıyor.",
+      "Hayvanlar ormanda dolaşıyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diğer şıklar hayvanların belirli bir eylem yaptığı durumları ifade ederken, 'Köpeğim bahçede oynuyor.' cümlesinde bahçe özel bir yer belirtmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_15",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime olumsuz bir durumu ifade etmektedir?",
+    "options": [
+      "başarılı",
+      "başarısız",
+      "mutlu",
+      "sevinçli",
+      "güzel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Başarısız' kelimesi olumsuz bir durumu ifade etmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169932_31",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını daraltmaktadır?",
+    "options": [
+      "bitki",
+      "çiçek",
+      "ağaç",
+      "sarı",
+      "yeşil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Ağaç' kelimesi 'bitki' kelimesinin anlamını daraltmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi karşılaştırma anlamı taşır?",
+    "options": [
+      "Ali, Ayşe'den hızlı koşuyor.",
+      "Kediler, köpeklerden daha sevimlidir.",
+      "Deniz, gölden daha büyüktür.",
+      "Sıcak havalar, soğuk havalardan daha bunaltıcıdır.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler karşılaştırma içermekte, dolayısıyla 'Hepsi doğrudur.' ifadesi doğru yanıt olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525304061_11",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi taşımaktadır?",
+    "options": [
+      "Hava soğuk, bu yüzden mont giymek zorundayım.",
+      "Sıcak su, daha çabuk kaynar.",
+      "Kışın yağmur yağar.",
+      "Yazın denize girilir.",
+      "Sonbaharda ağaçlar dökülür."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hava soğuk, bu yüzden mont giymek zorundayım cümlesinde soğuk hava mont giymek zorunluluğunun nedenidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579358412_9",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı yoğunlaştırmaktadır?",
+    "options": [
+      "Biraz",
+      "Çok",
+      "Sadece",
+      "Bazen",
+      "Hemen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Çok' kelimesi, durumu yoğunlaştırır. 'Bugün çok mutluyum.' ifadesinde mutluluk anlamı güçlendirilmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406567_18",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi içerir?",
+    "options": [
+      "Hava çok sıcak.",
+      "Bugün dışarı çıkmadım.",
+      "Yağmur yağdığı için sokaklar ıslak.",
+      "Sınavdan yüksek not aldım.",
+      "Kitap okuyorum."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yağmurun etkisiyle sokakların ıslak olması, neden-sonuç ilişkisini ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526285512_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi 'çünkü' bağlacının kullanımına en uygun örnektir?",
+    "options": [
+      "Yarın yürüyüşe çıkacağım çünkü hava güzel olacak.",
+      "Hava çok sıcak ama denize girmek istemiyorum.",
+      "Kitap okumayı seviyorum ve sinema da güzel.",
+      "Arkadaşım çok çalıştı ama sonuç alamadı.",
+      "Derslerim zor çünkü düzenli çalışmıyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Çünkü' bağlacı, bir neden-sonuç ilişkisi kurar. İlk cümlede yürüyüş planı, hava güzelliği nedeni ile açıklanmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_15",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki ifadelerden hangisi, bir durumu örneklemektedir?",
+    "options": [
+      "Kediler çok sevimlidir.",
+      "Kediler mırlarken mutlu olurlar.",
+      "Kedim çok oynak.",
+      "Kediler evde bakılabilir.",
+      "Kediler cinslerine göre değişir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Son ifade, kedilerin cinslerine göre farklılık gösterebileceğini örnekler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_7",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlamdan çıkarıldığında anlam kaymasına neden olur?",
+    "options": [
+      "ağaç",
+      "ev",
+      "mutluluk",
+      "su",
+      "güzel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Mutluluk' kelimesi, diğer kelimelerle bir bağlam oluşturduğunda anlam kazanmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406567_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Güzel bir gün geçirdim.",
+      "Hoş bir gün geçirdim.",
+      "Kötü bir gün geçirdim.",
+      "Sıkıcı bir gün geçirdim.",
+      "Çirkin bir gün geçirdim."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Güzel' kelimesi, 'hoş' ile eş anlamlıdır; diğerleri ise zıt anlamlar içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525304061_16",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir tanım yapmaktadır?",
+    "options": [
+      "Ağaç, yeşil yapraklı bir bitkidir.",
+      "Çiçekler bahar ayında açar.",
+      "Güneş doğar, yeni bir gün başlar.",
+      "Yağmur yağar, toprağı besler.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler, belirli nesnelerin tanımını yapmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525304061_5",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi sözcük karşıt anlamlıdır?",
+    "options": [
+      "Açık kapı",
+      "Karanlık gece",
+      "Sıcak gün",
+      "Büyük ev",
+      "Hızlı koşu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Karanlık gece cümlesinde 'karanlık' kelimesi, 'aydınlık' kelimesinin zıttıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529585399_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi 've' bağlacıyla neden-sonuç ilişkisi kurmaktadır?",
+    "options": [
+      "Yavaş konuş, seni anlamıyorum.",
+      "Sınavdan yüksek not aldım, bu yüzden mutlu oldum.",
+      "Ders çalıştım, ama yine de başaramadım.",
+      "Yaz tatilini çok seviyorum, bu yıl deniz tatili yapacağım.",
+      "Hava çok sıcak, dışarı çıkmak istemiyorum."
+    ],
+    "correctAnswer": 1,
+    "explanation": "İkinci cümlede 'bu yüzden' ifadesi, yüksek not alma ile mutluluk durumu arasında neden-sonuç ilişkisi kurmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575968786_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki kelimelerden hangisi diğerlerinden farklı bir anlama sahiptir?",
+    "options": [
+      "Güneş",
+      "Ay",
+      "Yıldız",
+      "Gezegen",
+      "Hava"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Diğer kelimeler gök cisimleri iken 'hava' bir atmosfer terimidir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764499051452_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir koşula bağlanmamıştır?",
+    "options": [
+      "Ödevlerini bitirirsen dışarı çıkıp arkadaşlarınla oynayabilirsin.",
+      "İstediği üniversiteyi kazandı mı, ona hayalindeki arabayı alacaklar.",
+      "Yarın hava güzel olursa hep birlikte pikniğe gideceğiz.",
+      "Onu gördüm diye bütün planlarımı değiştirecek değilim.",
+      "Akşam yemeğine yetişmek üzere toplantıdan erken ayrıldı."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bu soruda, seçeneklerdeki cümlelerde bulunan anlam ilişkileri incelenmelidir. A, B, C ve D seçeneklerinde koşul-sonuç ilişkisi varken, E seçeneğinde amaç-sonuç ilişkisi bulunmaktadır.\nA) Dışarı çıkıp oynamanın koşulu, ödevlerin bitirilmesidir. (-se şart eki)\nB) Araba alınmasının koşulu, istediği üniversiteyi kazanmasıdır. (mı soru eki ile sağlanmış)\nC) Pikniğe gidilmesinin koşulu, yarın havanın güzel olmasıdır. (-se şart eki)\nD) \"Onu gördüm diye\" ifadesi \"onu gördüğüm için\" anlamında bir neden belirtir gibi görünse de cümlenin bütününe bakıldığında, \"Onu görsem bile planlarımı değiştirmem\" anlamı çıkar, bu da örtük bir koşul ifadesidir.\nE) Toplantıdan erken ayrılmasının amacı, akşam yemeğine yetişmektir. Henüz yemeğe yetişip yetişmediği belli değildir, bir hedef söz konusudur. Bu nedenle bu cümlede eylemin gerçekleşmesi bir koşula değil, bir amaca bağlanmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525304061_19",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
+    "options": [
+      "Oyun oynamak, eğlenceli bir aktivitedir.",
+      "Müzik dinlemek, ruhu besler.",
+      "Seyahat etmek, yeni yerler tanımaktır.",
+      "Kitap okumak, zihni açar.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler, bir eylemin sonuçlarını ifade etmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529169931_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede anlamı en çok hangi kelime değiştirir?",
+    "options": [
+      "güzel",
+      "çirkin",
+      "hoş",
+      "sevimli",
+      "cazip"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu cümlede 'güzel' kelimesinin anlamını en çok 'çirkin' kelimesi değiştirmektedir.",
+    "difficulty": 4
+  },
+  {
     "id": "ai_1764579358412_21",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
@@ -2269,6 +1453,54 @@
     ],
     "correctAnswer": 1,
     "explanation": "'Yavaş' kelimesi, 'hızlı' kelimesinin zıttıdır. Diğer kelimeler benzer anlamlar taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529585399_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir anlam ilişkisi olan 'özellikle' kelimesi ile doğru bir bağ kurmaktadır?",
+    "options": [
+      "Kitap okumayı çok seviyorum, özellikle romanları.",
+      "Hava çok güzel, bu yüzden pikniğe gideceğiz.",
+      "Ödevimi bitirdim, artık dışarı çıkabilirim.",
+      "Film izlemek eğlencelidir, ama zaman alır.",
+      "Yemek yapmayı biliyorum, bu nedenle dışarıda yemek yemem."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Özellikle' kelimesi, belirli bir durumu vurgulamak için kullanılır. İlk seçenekte romanların önemi vurgulanmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575968786_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde mecaz anlam vardır?",
+    "options": [
+      "Gözlerin deniz gibi",
+      "Kedim çok sevimli",
+      "Hava güzel",
+      "Kitap okumak faydalıdır",
+      "Bu elma çok tatlı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Gözlerin deniz gibi' ifadesinde mecaz anlam vardır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764529169931_24",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını kaybetmiştir?",
+    "options": [
+      "kitap",
+      "defter",
+      "kalem",
+      "gözlük",
+      "yazı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Yazı' kelimesi anlamını kaybetmiştir çünkü diğer kelimeler somut nesnelerdir.",
     "difficulty": 4
   },
   {
@@ -2288,52 +1520,100 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_23",
+    "id": "ai_1764522406566_1",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki durumu güçlendirmektedir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini en iyi ifade eder?",
     "options": [
-      "Biraz",
-      "Çok",
-      "Sadece",
-      "Hiç",
-      "Hep"
+      "Hava sıcak olduğu için denize gireceğim.",
+      "Yürüyüşe çıktım.",
+      "Kitap okuyorum.",
+      "Kahvaltı yaptım.",
+      "Sinema biletimi aldım."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede 'hava sıcak olduğu için' ifadesi, denize girme eyleminin nedenini açıkça belirtmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_17",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime benzer anlam taşımaktadır?",
+    "options": [
+      "düşünmek",
+      "hayal etmek",
+      "görmek",
+      "duymak",
+      "koklamak"
     ],
     "correctAnswer": 1,
-    "explanation": "'Çok' kelimesi, durumu güçlendirir. 'Bugün çok mutluyum.' ifadesinde mutluluk anlamı pekiştirilmiştir.",
+    "explanation": "'Hayal etmek' kelimesi, 'düşünmek' ile benzer anlam taşımaktadır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764579358412_24",
+    "id": "ai_1764520435528_2",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki durumu birbirine bağlamaktadır?",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'örnekleme' vardır?",
     "options": [
-      "Ama",
-      "Ve",
-      "Fakat",
-      "Ya da",
-      "Çünkü"
+      "Çeşitli meyveler, elma, armut, muz gibi sağlıklıdır.",
+      "Hava çok güzel, hemen dışarı çıkmalıyız.",
+      "Kütüphanedeki kitaplar oldukça eski.",
+      "Ders çalışma süremin uzadı.",
+      "Okuldan sonra eve döndüm."
     ],
-    "correctAnswer": 1,
-    "explanation": "'Ve' bağlacı, iki durumu birbirine bağlar. 'Hava güzel ve ben dışarı çıkacağım.' ifadesinde bu durum açıktır.",
-    "difficulty": 4
+    "correctAnswer": 0,
+    "explanation": "İlk cümlede 'elma, armut, muz' kelimeleri ile 'çeşitli meyveler' ifadesine örnekler verilmiştir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764579358412_25",
+    "id": "ai_1764522406567_9",
     "subjectId": "tur",
     "topic": "Anlam İlişkileri",
-    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki anlamı olumsuzlaştırmaktadır?",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlısı ile değiştirilirse anlam değişmez?",
     "options": [
-      "Hep",
-      "Her",
-      "Bazen",
-      "Sadece",
-      "Asla"
+      "Hızlı bir araba sürdüm.",
+      "Yavaş bir araba sürdüm.",
+      "Yeni bir araba aldım.",
+      "Eski bir araba aldım.",
+      "Büyük bir araba kullanıyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hızlı' kelimesinin 'yavaş' ile değiştirilmesi cümlenin anlamını değiştirir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_28",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime yanlış anlamda kullanılmıştır?",
+    "options": [
+      "mutlu",
+      "üzgün",
+      "sevinç",
+      "neşe",
+      "gözyaşı"
     ],
     "correctAnswer": 4,
-    "explanation": "'Asla' kelimesi, cümlede anlamı olumsuzlaştırır. 'Asla vazgeçmeyeceğim.' ifadesinde bu durum açıktır.",
+    "explanation": "'Gözyaşı' kelimesi duygusal bir durumu ifade etmesine rağmen diğerleriyle uyumlu değildir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406567_17",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir karşılaştırma içerir?",
+    "options": [
+      "Ali, Ayşe'den daha çalışkan.",
+      "Ali çalışkan bir öğrencidir.",
+      "Ayşe ders çalışıyor.",
+      "Ali ve Ayşe birlikte sinemaya gidecek.",
+      "Hava çok sıcak."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali'nin Ayşe ile karşılaştırılması, cümlede bir karşılaştırma ilişkisi kurmaktadır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764579358412_26",
@@ -2350,5 +1630,741 @@
     "correctAnswer": 1,
     "explanation": "'Ve' bağlacı, iki durumu birleştirir. 'Hava güzel, dışarı çıkacağım.' ifadesinde bu durum açıktır.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_23",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir tanım içermektedir?",
+    "options": [
+      "Araba, dört tekerlekli bir taşıttır.",
+      "Kalem, yazmak için kullanılan bir araçtır.",
+      "Gözlük, görmeyi kolaylaştırır.",
+      "Hepsi doğrudur.",
+      "Masa, üzerine bir şeylerin konulabileceği bir yüzeydir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tüm cümleler belirli nesnelerin tanımını yapmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501699444_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "(I) Yazar, okurun zihninde yeni pencereler açmayı ve onu alışılmışın dışında düşünmeye sevk etmeyi amaçlıyordu. (II) Bu doğrultuda, eserlerinde basmakalıp anlatım biçimlerinden uzaklaşarak sembolik bir dil kullanmayı tercih etmişti.\n\nBu parçada numaralanmış cümlelerle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "II. cümle, I. cümlede belirtilen yargının koşulunu bildirmektedir.",
+      "I. cümle, II. cümlede belirtilen tercihin amacını açıklamaktadır.",
+      "II. cümle, I. cümledeki düşünceyi çürüten bir bilgi içermektedir.",
+      "I. cümlede ortaya konan durumun okur üzerindeki sonucu II. cümlede verilmiştir.",
+      "İki cümlede de yazarın üslubuna yönelik nesnel değerlendirmeler yapılmıştır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu soruda iki cümle arasındaki anlam ilişkisini doğru tespit etmek gerekmektedir. Birinci cümlede yazarın bir 'amacı' dile getirilmiştir: okuru düşündürmek ve zihninde yeni ufuklar açmak. İkinci cümlede ise bu amaca ulaşmak için yazarın başvurduğu bir 'yöntem/tercih' anlatılmaktadır: sembolik bir dil kullanmak. Dolayısıyla, ikinci cümledeki 'sembolik dil kullanma tercihi'nin sebebi, birinci cümlede belirtilen 'okuru düşündürme amacı'dır. Bu durumda, I. cümle, II. cümlede belirtilen eylemin/tercihin amacını açıklamaktadır. Bu bir amaç-sonuç ilişkisidir; ancak neden-sonuç ilişkisi ile karıştırılmamalıdır. Eylem (sembolik dil kullanmak) henüz gerçekleşmemiş bir hedef (okuru düşündürmek) için yapılmıştır. Diğer şıklarda belirtilen koşul, çürütme, sonuç veya nesnellik gibi ilişkiler parçada bulunmamaktadır. Bu nedenle doğru cevap B seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169932_32",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını genişletmektedir?",
+    "options": [
+      "sandalye",
+      "mobilya",
+      "masa",
+      "koltuk",
+      "tabure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Mobilya' kelimesi, 'sandalye' kelimesinin anlamını genişletmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_21",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime olumlu bir duygu taşımaktadır?",
+    "options": [
+      "üzüntü",
+      "keder",
+      "mutluluk",
+      "sıkıntı",
+      "ağrı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Mutluluk' kelimesi olumlu bir duygu taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_27",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime abartı içermektedir?",
+    "options": [
+      "çok",
+      "biraz",
+      "az",
+      "sıfır",
+      "bir"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Çok' kelimesi abartı içeren bir kelimedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_29",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime mecaz anlamda kullanılmıştır?",
+    "options": [
+      "çok çalışmak",
+      "tembellik",
+      "başarı",
+      "gayret",
+      "hedef"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Çok çalışmak' mecaz anlamda bir durumu ifade etmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406567_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime zıt anlamlısı ile değiştirilirse anlam değişir?",
+    "options": [
+      "Büyük bir evde yaşıyorum.",
+      "Küçük bir evde yaşıyorum.",
+      "Geniş bir bahçem var.",
+      "Dar bir bahçem var.",
+      "Yüksek bir dairede oturuyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Büyük' kelimesinin 'küçük' ile değiştirilmesi cümlenin anlamını tamamen değiştirir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529169931_20",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime benzerlik ifade etmektedir?",
+    "options": [
+      "güzel",
+      "sevimli",
+      "şirin",
+      "çirkin",
+      "hoş"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Şirin' kelimesi 'güzel' ile benzerlik ifade etmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_25",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlamdan çıkarıldığında anlam kaymasına neden olur?",
+    "options": [
+      "güzel",
+      "çirkin",
+      "hızlı",
+      "yavaş",
+      "sevimli"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Güzel' kelimesinin anlamı bağlamdan çıkarıldığında kayma gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_14",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerde hangisinde benzerlik ilişkisi vardır?",
+    "options": [
+      "Köpekler sadık hayvanlardır.",
+      "Kediler temizlikte titizdir.",
+      "Fareler çok hızlıdır.",
+      "Kuşlar uçabilir.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm cümleler, hayvanların özelliklerini benzer bir şekilde tanımlamaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577114295_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Bu kitabı okumak zorundayım.' ifadesinin eş anlamlısıdır?",
+    "options": [
+      "Bu kitabı okumak istemiyorum.",
+      "Bu kitabı okumak gereklidir.",
+      "Bu kitabı okumak zorunda değilim.",
+      "Bu kitabı okumak istiyorum.",
+      "Bu kitabı okumak keyifli."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Bu kitabı okumak zorundayım.' ifadesi, kitabı okumanın zorunluluğunu belirtir. Bu nedenle, 'Bu kitabı okumak gereklidir.' cümlesi eş anlamlıdır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529169932_35",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime yanlış anlamda kullanılmıştır?",
+    "options": [
+      "korkmak",
+      "cesur",
+      "ürkek",
+      "cesaret",
+      "güç"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Cesur' kelimesi diğer kelimelerle zıt anlam taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522406567_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Güzel bir manzara gördüm.",
+      "Mükemmel bir manzara gördüm.",
+      "Harika bir manzara gördüm.",
+      "Çirkin bir manzara gördüm.",
+      "Kötü bir manzara gördüm."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Güzel' kelimesi, 'mükemmel' ve 'harika' ile eş anlamlıdır, diğerleri zıt anlamlıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525304061_22",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi sözcük zıt anlamlıdır?",
+    "options": [
+      "Açık kapı",
+      "Karanlık oda",
+      "Sıcak yaz",
+      "Büyük ev",
+      "Hızlı koşu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Karanlık oda cümlesinde 'karanlık' kelimesi, 'aydınlık' kelimesinin zıttıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525304061_15",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi sözcük zıt anlamlıdır?",
+    "options": [
+      "Büyük ev",
+      "Küçük masa",
+      "Uzun yol",
+      "Güzel gün",
+      "Hızlı koşu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Küçük masa cümlesinde 'küçük' kelimesi, 'büyük' kelimesinin zıttıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529169931_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını pekiştirir?",
+    "options": [
+      "büyük",
+      "devasa",
+      "küçük",
+      "orta",
+      "normal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Devasa' kelimesi 'büyük' kelimesinin anlamını pekiştirmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_19",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime farklı bir anlam taşımaktadır?",
+    "options": [
+      "kıyamet",
+      "felaket",
+      "bela",
+      "sıkıntı",
+      "mutluluk"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Mutluluk' kelimesi diğer kelimelerle zıt anlam taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764500415115_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerin hangisinde bir eylemin gerçekleşmesi başka bir durumun gerçekleşmesine bağlıdır?",
+    "options": [
+      "Yoğun kar yağışı yüzünden okullar tatil edildi.",
+      "Hava kararmadan eve dönmüş olmalıyız.",
+      "İstediğin bölümü kazanman, düzenli çalışmana bağlı.",
+      "Yazar, son romanında toplumsal sorunlara değinmiş.",
+      "Toplantı salonuna girdiğinde herkes onu bekliyordu."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruda koşul-sonuç (şart-sonuç) ilişkisi içeren cümle sorulmaktadır. Koşul-sonuç cümlelerinde bir eylemin veya durumun gerçekleşmesi, başka bir eylemin veya durumun gerçekleşmesi şartına bağlanır. C seçeneğinde 'istediğin bölümü kazanman' sonucu, 'düzenli çalışman' koşuluna bağlanmıştır. Diğer seçeneklerde ise bu tür bir koşul ilişkisi yoktur. A'da neden-sonuç, B'de gereklilik, D'de içerik belirtme, E'de ise zaman ilişkisi bulunmaktadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579358412_17",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi bağlaç, iki cümle arasında neden-sonuç ilişkisini ifade etmektedir?",
+    "options": [
+      "Ama",
+      "Çünkü",
+      "Ve",
+      "Fakat",
+      "Ya da"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Çünkü' bağlacı, neden-sonuç ilişkisini ifade eder. 'Sınavdan yüksek not aldım çünkü çok çalıştım.' ifadesinde bu durum açıktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169932_34",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime benzer anlam taşımaktadır?",
+    "options": [
+      "hızlı",
+      "sıcak",
+      "soğuk",
+      "ağır",
+      "hızlıca"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hızlı' kelimesi 'hızlıca' ile benzer anlam taşımaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499051452_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "(I) Sanatçı, eserlerinde kullandığı dilin süslü ve ağdalı olmasından özellikle kaçınır. (II) Ona göre önemli olan, anlatmak istediği düşünceyi en dolaysız yoldan okura ulaştırmaktır. (III) Bu yüzden eserlerinde estetik kaygıdan çok, içeriğin etkileyiciliğine odaklanır. (IV) Eserlerinin sanatsal değerinin, seçtiği sözcüklerin ahenginden ve imgelerin zenginliğinden geldiğine inanır. (V) Anlaşılır olmak, onun için kalıcı olmaktan daha öncelikli bir hedeftir.\n\nBu parçada numaralanmış cümlelerden hangileri anlamca birbiriyle çelişmektedir?",
+    "options": [
+      "I ve II",
+      "I ve V",
+      "II ve III",
+      "III ve IV",
+      "IV ve V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parçadaki cümlelerin anlamları incelendiğinde birbiriyle çelişen ifadelerin tespit edilmesi istenmektedir. \nI, II, III ve V numaralı cümleler birbiriyle tutarlıdır. Bu cümlelerde sanatçının sadelikten, anlaşılırlıktan, süsten kaçınmaktan ve içerik odaklı olmaktan yana olduğu vurgulanmaktadır.\nAncak IV. cümlede, sanatçının eserlerinin değerinin \"seçtiği sözcüklerin ahenginden ve imgelerin zenginliğinden\" geldiğine inandığı belirtilmektedir. Bu ifade, süslü, sanatlı bir söyleyişi, yani estetik kaygıyı ön plana çıkaran bir anlayışı yansıtır.\nIII. cümlede ise sanatçının \"estetik kaygıdan çok, içeriğin etkileyiciliğine odaklandığı\" belirtilmektedir. Bu iki ifade (III ve IV) sanatçının öncelikleri konusunda birbiriyle taban tabana zıttır. Birinde estetik kaygının geri plana atıldığı, diğerinde ise eserin değerinin estetik unsurlara (ahenk, imge) dayandığı söylenerek çelişki oluşturulmuştur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500415115_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerin hangisinde yargılar arasında diğerlerinden farklı bir anlam ilişkisi vardır?",
+    "options": [
+      "Yollar buzlandığı için trafik akışı yavaşladı.",
+      "İyi bir üniversite kazanmak amacıyla gece gündüz ders çalışıyordu.",
+      "Annesini çok özlediğinden ilk uçakla memleketine gitti.",
+      "Uykusunu alamadığından gün boyu kendini yorgun hissetti.",
+      "Gürültüden rahatsız olunca pencereyi kapattı."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu soruda cümlelerdeki anlam ilişkileri incelenmelidir. A, C, D ve E şıklarında neden-sonuç (sebep-sonuç) ilişkisi varken, B şıkkında amaç-sonuç ilişkisi vardır. Neden-sonuç cümlelerinde eylemin gerçekleşme nedeni belirtilirken ('Neden yavaşladı?' -> 'Yollar buzlandığı için'), amaç-sonuç cümlelerinde eylemin hangi hedefle yapıldığı belirtilir ('Hangi amaçla ders çalışıyordu?' -> 'İyi bir üniversite kazanmak amacıyla'). B seçeneğindeki 'kazanmak' eylemi henüz gerçekleşmemiş bir hedeftir, bu da cümleyi diğerlerinden ayırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764577114295_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Hava çok soğuk, dışarı çıkmayalım.' cümlesinin zıt anlamlısını ifade eder?",
+    "options": [
+      "Hava sıcak, dışarı çıkabiliriz.",
+      "Hava soğuk, dışarı çıkmalıyız.",
+      "Hava güzel, dışarı çıkalım.",
+      "Dışarı çıkmak istemiyorum.",
+      "Hava fırtınalı, dışarı çıkmamalıyız."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hava çok soğuk, dışarı çıkmayalım.' cümlesinin zıt anlamlısı, hava sıcak olduğu için dışarı çıkabileceğimizi ifade eden bir cümledir. Bu nedenle, 'Hava sıcak, dışarı çıkabiliriz.' doğru cevaptır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764526285512_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'ama' bağlacının anlamı en belirgin şekilde ortaya konmuştur?",
+    "options": [
+      "Yaz tatilinde deniz kenarında kalmayı düşündüm, ama hava çok soğuk olacak.",
+      "Kitap okumak eğlenceli, ama zaman alıyor.",
+      "Sinema çok güzel bir etkinlik, ama biletler çok pahalı.",
+      "Ders çalışmak sıkıcı, ama sınavdan yüksek not almak istiyorum.",
+      "Yüzme bilmek güzel, ama dalgalar çok yüksek."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ama' bağlacı, cümledeki iki düşünce arasında zıtlık oluşturur. İlk cümlede yaz tatilinin beklentisi ile hava durumunun olumsuzluğu arasında belirgin bir zıtlık vardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi anlam ilişkisi vardır?",
+    "options": [
+      "Kedi, fareyi yakaladı.",
+      "Kedi, evin içinde dolaşıyor.",
+      "Kedi, köpekle oynuyor.",
+      "Kedi, mavi bir kutuya girdi.",
+      "Kedi, oyuncaklarıyla oynuyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kedi, fareyi yakaladı cümlesinde kedi ve fare arasında bir av-avcı ilişkisi vardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579358412_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'ama' bağlacının anlam ilişkisini en iyi yansıtır?",
+    "options": [
+      "Hava soğuk, dışarı çıkmayı düşünmüyorum.",
+      "Hava soğuk ama dışarı çıkmak zorundayım.",
+      "Hava soğuk, bu yüzden evde kalacağım.",
+      "Hava soğuk, bu akşam sinemaya gitmeyeceğim.",
+      "Hava soğuk ve yağmur yağıyor."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Ama' bağlacı, iki zıt durumu bir arada ifade eder. 'Hava soğuk ama dışarı çıkmak zorundayım' cümlesi bu durumu en iyi yansıtır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575968786_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi yoktur?",
+    "options": [
+      "Kedim çok tatlı",
+      "Köpeğim havlıyor",
+      "Kuşlar uçar",
+      "Ağaçlar yeşil",
+      "Hava çok sıcak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tüm şıklar doğru cümlelerdir fakat anlam ilişkisi yoktur çünkü hepsi birbirinden bağımsızdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764522406567_16",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime eş anlamlısı ile değiştirilirse anlam değişmez?",
+    "options": [
+      "Küçük bir evde yaşıyorum.",
+      "Büyük bir evde yaşıyorum.",
+      "Dar bir sokakta oturuyorum.",
+      "Geniş bir sokakta yaşıyorum.",
+      "Uzun bir yolda yürüyorum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Küçük' kelimesinin 'dar' ile değiştirilmesi cümlede anlam değişikliğine yol açar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579358412_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'çünkü' bağlacının anlamını en iyi yansıtır?",
+    "options": [
+      "Bugün hava çok sıcak.",
+      "Bu yüzden denize gireceğim.",
+      "Hava soğuk, çünkü kış geldi.",
+      "Dışarıda çok rüzgar var.",
+      "Yağmur yağmıyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çünkü' bağlacı, neden-sonuç ilişkisini ifade eder. 'Hava soğuk, çünkü kış geldi.' ifadesi bu durumu gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526285512_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 've' bağlacının anlamı en belirgin şekilde ortaya konmuştur?",
+    "options": [
+      "Kitap okumayı seviyorum ve müzik dinlemeyi de.",
+      "Hava çok sıcak, denize girmeyi düşünüyorum.",
+      "Sınavdan yüksek not almak için çalışmalıyım.",
+      "Herkes toplantıya katılacak ve önemli konuları konuşacak.",
+      "Film çok güzeldi, ama biraz uzun sürdü."
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Ve' bağlacı, iki düşünceyi eşit olarak birleştirir. Dördüncü cümlede toplantının katılımcıları ve konuşulacak konular arasında güçlü bir bağlantı vardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_14",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime abartı içermektedir?",
+    "options": [
+      "çok",
+      "az",
+      "biraz",
+      "bir",
+      "sıfır"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Çok' kelimesi abartı ifade eden bir kelimedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_18",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı güçlendirmektedir?",
+    "options": [
+      "Biraz",
+      "Sadece",
+      "Çok",
+      "Az",
+      "Hiç"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Çok' kelimesi, durumu güçlendirir. 'Bu film çok güzeldi.' ifadesinde güzellik anlamı pekiştirilmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526285512_3",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi 'fakat' bağlacının anlamını en iyi yansıtmaktadır?",
+    "options": [
+      "Geç kaldım ama toplantı yeni başladı.",
+      "Yüzme bilmek güzel fakat deniz her zaman güvenli değil.",
+      "Çalışmak önemlidir ve başarılı olmak için gereklidir.",
+      "Hava iyi görünüyor, denize girebiliriz.",
+      "Oyun çok eğlenceli, ama zor."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Fakat' bağlacı, zıtlık ifade eder. İkinci cümlede yüzme bilmenin avantajı ile deniz güvenliğinin belirsizliği arasında bir zıtlık oluşturulmuştur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520435528_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi 'sebep-sonuç' vardır?",
+    "options": [
+      "Yağmur yağdığı için dışarı çıkmadım.",
+      "Köpek havladığı için uyanmıştım.",
+      "Sınavdan yüksek not aldım, bu yüzden çok sevindim.",
+      "Yaz tatilinde deniz tatili yapmayı planlıyorum.",
+      "Kütüphanede kitap okudum."
+    ],
+    "correctAnswer": 0,
+    "explanation": "İlk cümlede 'yağmur yağdığı için' ifadesi, dışarı çıkmama kararının sebebini belirtmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579358412_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisini en iyi yansıtır?",
+    "options": [
+      "Dışarıda yağmur yağıyor.",
+      "Bu yüzden şemsiye aldım.",
+      "Şemsiye almayı unuttum.",
+      "Hava güzel, pikniğe gideceğiz.",
+      "Yağmurda yürümek eğlencelidir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "İlk cümledeki durum, ikinci cümledeki sonucu doğurur. 'Dışarıda yağmur yağıyor, bu yüzden şemsiye aldım.' ifadesi neden-sonuç ilişkisini kurar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526285512_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde 'çünkü' bağlacı yanlış kullanılmıştır?",
+    "options": [
+      "Sınavdan yüksek not almayı hedefliyorum çünkü çalışıyorum.",
+      "Hava çok soğuk dışarı çıkmak istemiyorum çünkü kış geldi.",
+      "Ders çalışmak zor çünkü zamanım yok.",
+      "O kitabı okudum çünkü çok beğendim.",
+      "Sinemaya gitmek istiyorum çünkü biletler çok pahalı."
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Çünkü' bağlacı, neden-sonuç ilişkisini göstermelidir. Son cümlede 'biletler çok pahalı' durumu, gitmek istemeyi açıklamaz, bu nedenle yanlış kullanımdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525304061_8",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz anlam ifade etmektedir?",
+    "options": [
+      "Bugün hava güzel.",
+      "Yarın yağmur yağmayacak.",
+      "Dışarıda çok rüzgar var.",
+      "Sıcak bir gün geçirdik.",
+      "Bu akşam çok eğlendik."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yarın yağmur yağmayacak cümlesi, bir olumsuzluk içermektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577114295_6",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'Kütüphane sessiz bir yerdir.' cümlesinde verilen anlamı pekiştirir?",
+    "options": [
+      "Kütüphane kalabalık bir yerdir.",
+      "Kütüphanede gürültü yapılmamalıdır.",
+      "Kütüphanede arkadaşlarım var.",
+      "Kütüphane çok büyüktür.",
+      "Kütüphane her zaman açıktır."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Kütüphane sessiz bir yerdir.' ifadesi, kütüphanede sessizlik gerekliliğine vurgu yapmaktadır. 'Kütüphanede gürültü yapılmamalıdır.' cümlesi bu anlamı pekiştirmektedir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764525304061_4",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi benzerlik ilişkisi içermektedir?",
+    "options": [
+      "Deniz suyu tuzludur.",
+      "Göl suyu tatlıdır.",
+      "Havuz suyu durgundur.",
+      "Okyanus suyu derindir.",
+      "Nehir suyu akıcıdır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deniz suyu tuzludur cümlesinde deniz suyu ile okyanus suyu arasında benzerlik vardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579358412_14",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, 'veya' bağlacının anlamını en iyi yansıtır?",
+    "options": [
+      "Yağmur yağıyor, bu yüzden evde kalacağım.",
+      "Bugün pikniğe gidebiliriz veya sinemaya.",
+      "Dışarıda çok sıcak, ama ben dışarı çıkacağım.",
+      "Hava güzel, fakat ben evde kalmayı tercih ediyorum.",
+      "Hava çok soğuk."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Veya' bağlacı, alternatif sunar. 'Bugün pikniğe gidebiliriz veya sinemaya.' ifadesi bu durumu gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_13",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, anlamı pekiştirmektedir?",
+    "options": [
+      "Biraz",
+      "Çok",
+      "Az",
+      "Sadece",
+      "Hep"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Çok' kelimesi, durumu pekiştirir. 'Bu yemek çok lezzetli.' ifadesinde lezzet anlamı güçlendirilmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579358412_1",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime, cümledeki anlamı pekiştirmektedir?",
+    "options": [
+      "Güzel",
+      "Çirkin",
+      "Kötü",
+      "Harika",
+      "Berbat"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Harika' kelimesi, güzellik anlamını pekiştirir. Diğer kelimeler olumsuz ya da zayıf anlamlar taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529169931_12",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime anlamını genişletmektedir?",
+    "options": [
+      "sandalye",
+      "mobilya",
+      "masa",
+      "koltuk",
+      "tabure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Mobilya' kelimesi, 'sandalye' kelimesinin anlamını genişletmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575968786_2",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlede hangi kelime diğerlerinden zıt anlamlıdır?",
+    "options": [
+      "Büyük",
+      "Küçük",
+      "Uzun",
+      "Kısa",
+      "Geniş"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Küçük' kelimesi, diğer kelimelerin zıt anlamlısıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764525304061_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisi, diğerlerinden farklı bir anlam ilişkisine sahiptir?",
+    "options": [
+      "Güneş doğdu.",
+      "Ay gece görünür.",
+      "Yıldızlar parlayarak gökyüzünü süsler.",
+      "Hava karardığında yıldızlar belirir.",
+      "Yıldızlar, ayın etrafında döner."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Diğer cümleler, gökyüzü ve ışık ile ilgili durumları anlatırken, 'Yıldızlar, ayın etrafında döner.' cümlesi yanlıştır. Yıldızlar kendi etrafında döner, ayın etrafında değil.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580097776_0",
+    "subjectId": "tur",
+    "topic": "Anlam İlişkileri",
+    "questionText": "Aşağıdaki cümlelerden hangisinde anlam ilişkisi açısından bir çelişki bulunmaktadır?",
+    "options": [
+      "Hava çok sıcak olduğu için dışarı çıkmadım.",
+      "Bu kitabı daha önce okumuş olabilirim ama hatırlamıyorum.",
+      "Çoğu insan bu filmi beğenmedi, ben de beğenmedim.",
+      "Küçükken çok çalıştım, bu yüzden şimdi başarılıyım.",
+      "Sınavda yüksek puan aldım, ama çok çalışmadım."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Son seçenek, çelişkili bir ifade barındırıyor. Sınavda yüksek puan almak genellikle çok çalışmayı gerektirir; ancak cümlede 'ama çok çalışmadım' ifadesi, bu durumu çelişkili hale getiriyor.",
+    "difficulty": 5
   }
 ]
