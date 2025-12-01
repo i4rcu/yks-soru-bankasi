@@ -1,211 +1,67 @@
 [
   {
-    "id": "ai_1764524743550_9",
+    "id": "ai_1764576904208_5",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki kromozom yapılarından hangisi, genetik materyalin hücre bölünmesi sırasında sıkışarak oluşturduğu yapıdır?",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin bir kaynağı değildir?",
     "options": [
-      "Hücre zarı",
-      "Kromozom",
-      "Kromatin",
-      "DNA",
-      "Ribozom"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kromozomlar, hücre bölünmesi sırasında sıkışarak oluşturulan genetik materyal yapılarıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522638226_4",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hangi yapı genetik bilginin transkripte edilmesinde rol oynar?",
-    "options": [
-      "Ribozom",
-      "Nükleus",
-      "Mitoz",
-      "Kromozom",
-      "Sentrozom"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Genetik bilginin transkripte edilmesi, nükleusta gerçekleşir; DNA'nın RNA'ya kopyalanması bu yapıda gerçekleşir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743550_15",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki kalıtım türlerinden hangisi, heterozigot bireylerin her iki alelinin de fenotipte etkili olduğu durumu tanımlar?",
-    "options": [
-      "Dominant kalıtım",
-      "Resesif kalıtım",
-      "Kodominant kalıtım",
-      "Intermediary kalıtım",
-      "Hibrid kalıtım"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kodominant kalıtım, heterozigot bireylerde her iki alelin de fenotipte etkili olduğu durumu tanımlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524743551_22",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik süreçlerden hangisi, doğal seleksiyon yoluyla türlerin evrimini sağlar?",
-    "options": [
-      "Uyum",
-      "Adaptasyon",
       "Mutasyon",
-      "Hibridizasyon",
-      "Hepsi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Adaptasyon, doğal seleksiyon yoluyla türlerin evrimini sağlayan bir süreçtir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575772574_4",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hücredeki DNA'nın yapısını belirleyen bağ hangisidir?",
-    "options": [
-      "Hidrojen bağı",
-      "Kovalent bağ",
-      "Iyonik bağ",
-      "Disülfid bağı",
-      "Van der Waals bağı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "DNA'nın yapısında yer alan bazlar arasındaki etkileşim hidrojen bağları ile sağlanır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528455060_32",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik mühendisliği uygulamalarından biridir?",
-    "options": [
-      "Doğal seleksiyon",
-      "Evrim",
-      "DNA dizileme",
-      "Adaptasyon",
-      "Kalıtım"
+      "Eşeyli üreme",
+      "Eşeysiz üreme",
+      "Gen akışı",
+      "Genetik sürüklenme"
     ],
     "correctAnswer": 2,
-    "explanation": "DNA dizileme, genetik mühendisliği uygulamalarından biridir ve genetik bilginin belirlenmesinde kullanılır.",
-    "difficulty": 4
+    "explanation": "Eşeysiz üreme genetik çeşitliliğin kaynağı değildir çünkü bu durumda genetik materyal aynen kopyalanır.",
+    "difficulty": 2
   },
   {
-    "id": "ai_1764521061445_0",
+    "id": "ai_1764576904208_4",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin artırılmasında önemli bir rol oynar?",
+    "questionText": "Hangi genetik kavram, bir genin farklı formlarını ifade eder?",
     "options": [
-      "Mutasyonlar",
-      "Bölünme",
-      "Eşeysel üreme",
-      "Klonlama",
-      "Hayvanların evcilleştirilmesi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Eşeysel üreme, genetik çeşitliliğin artmasına katkıda bulunan önemli bir mekanizmadır. Bu süreç, genetik materyalin farklı bireylerden bir araya gelmesiyle yeni kombinasyonların oluşmasına olanak tanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501416919_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba ile bu özellik bakımından taşıyıcı (heterozigot) bir annenin, renk körü bir kız çocuğuna sahip olma olasılığı kaçtır?",
-    "options": [
-      "1/8",
-      "1/4",
-      "1/2",
-      "3/4",
-      "0"
+      "Kromozom",
+      "Alel",
+      "Gen",
+      "Fenotip",
+      "Genotip"
     ],
     "correctAnswer": 1,
-    "explanation": "Babanın genotipi X^rY, annenin genotipi ise X^RX^r'dir. Bu ebeveynlerin çocuklarının olası genotiplerini bulmak için Punnett karesi kullanılır:\n- X^R X^r: Taşıyıcı kız çocuğu\n- X^r X^r: Renk körü kız çocuğu\n- X^R Y: Sağlam erkek çocuğu\n- X^r Y: Renk körü erkek çocuğu\nToplamda dört olası ve eşit ihtimalli genotip vardır. Bu olasılıklar arasında 'renk körü bir kız çocuğu'nun (X^rX^r) ortaya çıkma olasılığı 1/4'tür. Bu oran %25'e karşılık gelir.",
-    "difficulty": 3
+    "explanation": "Alel, bir genin farklı formlarını ifade eder. Örneğin, bir genin renk ile ilgili iki farklı aleli olabilir.",
+    "difficulty": 2
   },
   {
-    "id": "ai_1764528455060_37",
+    "id": "ai_1764576904208_3",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki kavramlardan hangisi genetik çeşitliliği azaltan bir durumdur?",
+    "questionText": "DNA'daki genetik bilgi hangi süreçle RNA'ya aktarılır?",
     "options": [
-      "Aseksüel üreme",
-      "Cinsiyetli üreme",
-      "Seçilim",
-      "Adaptasyon",
-      "Mutasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Aseksüel üreme, genetik çeşitliliği azaltan bir durumdur çünkü bireyler genetik olarak birbirinin kopyasıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455059_10",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik hastalıklardan hangisi X'e bağlı resesif olarak kalıtılır?",
-    "options": [
-      "Kistik fibroz",
-      "Hemofili",
-      "Fenilketonüri",
-      "Serebral palsi",
-      "Down sendromu"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hemofili, X'e bağlı resesif olarak kalıtılan bir genetik hastalıktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524743550_5",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi X'e bağlı resesif kalıtımın bir özelliğidir?",
-    "options": [
-      "Sadece erkeklerde görülür",
-      "Her iki cinsiyette eşit görülür",
-      "Sadece kadınlarda görülür",
-      "Kadınlar taşıyıcı olabilir",
-      "Hepsi doğrudur"
-    ],
-    "correctAnswer": 3,
-    "explanation": "X'e bağlı resesif genetik hastalıklarda kadınlar taşıyıcı olabilir, fakat hastalığın semptomları genellikle erkeklerde görülür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501416919_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s); düzgün tohum şekli aleli (D) ise buruşuk tohum şekli aleline (d) baskındır. Genleri bağımsız olan ve her iki karakter bakımından da heterozigot olan iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, fenotipinde sarı renkli ve buruşuk tohumlu bir bezelyenin oluşma olasılığı nedir?",
-    "options": [
-      "1/16",
-      "9/16",
-      "3/16",
-      "1/4",
-      "3/4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız olduğu için her bir karakterin kalıtımı ayrı ayrı incelenmelidir. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Sarı (S_) ve 1/4 Yeşil (ss)'dir.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Düzgün (D_) ve 1/4 Buruşuk (dd)'tur.\nSoruda istenen 'sarı renkli' VE 'buruşuk tohumlu' fenotiptir. Bağımsız olayların birlikte gerçekleşme olasılığı, bu olayların ayrı ayrı gerçekleşme olasılıklarının çarpımı ile bulunur (Çarpma Kuralı).\nOlasılık = P(Sarı) x P(Buruşuk) = (3/4) x (1/4) = 3/16. Bu nedenle doğru cevap 3/16'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519363571_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hücre bölünmesi sırasında homolog kromozomların birbirine yaklaşarak genetik materyal alışverişinde bulunduğu olay hangisidir?",
-    "options": [
-      "Meiosis",
-      "Mitoz",
-      "Krossing over",
+      "Replikasyon",
       "Transkripsiyon",
-      "Translasyon"
+      "Translasyon",
+      "Mutasyon",
+      "Fagositik"
     ],
-    "correctAnswer": 2,
-    "explanation": "Krossing over, homolog kromozomlar arasında genetik materyal değişimi gerçekleştiği bir süreçtir. Bu olay, özellikle mayoz bölünme sırasında görülür ve genetik çeşitliliği artırır.",
-    "difficulty": 3
+    "correctAnswer": 1,
+    "explanation": "DNA'daki genetik bilgi, transkripsiyon süreci ile RNA'ya aktarılır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576904208_8",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki hangi hücre bölünmesi, genetik çeşitliliği artıran bir süreçtir?",
+    "options": [
+      "Mitoz",
+      "Mayoz",
+      "Fagositoz",
+      "Bölünme",
+      "Replikasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mayoz bölünmesi, genetik çeşitliliği artıran bir süreçtir ve gametlerin (yumurta ve sperm) oluşumunu sağlar.",
+    "difficulty": 2
   },
   {
     "id": "ai_1764524743550_12",
@@ -224,166 +80,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764575772574_6",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "DNA'nın replikasyonu hangi enzim aracılığıyla gerçekleşir?",
-    "options": [
-      "Polimeraz",
-      "Ligaz",
-      "Helikaz",
-      "Topoizomeraz",
-      "Nükleaz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "DNA'nın replikasyonu DNA polimeraz enzimi aracılığıyla gerçekleşir. Bu enzim, yeni DNA zincirlerini sentezler.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528455059_8",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi doğru değildir?",
-    "options": [
-      "Genetik çeşitlilik, evrim için gereklidir.",
-      "Alel, genin farklı formudur.",
-      "Aynı genin farklı alelleri, aynı özellikleri taşır.",
-      "Fenotip, genotipten etkilenir.",
-      "DNA, genetik bilginin taşıyıcısıdır."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aynı genin farklı alelleri, genellikle farklı özellikleri taşır; bu nedenle ifade yanlıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455060_29",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi doğru değildir?",
-    "options": [
-      "Hibridizasyon, genetik çeşitliliği artırır.",
-      "Kalıtım, nesilden nesile geçişi ifade eder.",
-      "Genetik çeşitlilik, evrim için gereklidir.",
-      "Alel, bir genin alternatif formlarıdır.",
-      "Fenotip, yalnızca genetik faktörlerden etkilenir."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Fenotip, genetik faktörlerin yanı sıra çevresel faktörlerden de etkilenir; bu nedenle ifade yanlıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522638227_10",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik mühendisliğinde kullanılan 'CRISPR' teknolojisi neyi ifade eder?",
-    "options": [
-      "Gen dizilimi",
-      "Gen düzenleme",
-      "Klonlama",
-      "DNA sentezi",
-      "RNA transkripti"
-    ],
-    "correctAnswer": 1,
-    "explanation": "CRISPR, gen düzenleme teknolojisi olarak bilinir ve belirli genleri değiştirmek veya silmek için kullanılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522638226_7",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hangi genetik terim, bireylerin fenotipik özelliklerini belirleyen genetik bilgi bütününü ifade eder?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Homozygot",
-      "Heterozygot",
-      "Alelleri"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Genotip, bir bireyin genetik yapısını ifade ederken, fenotip ise bu genetik yapının çevresel etmenlerle birleşerek oluşturduğu özelliklerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522638226_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetikteki temel birim nedir?",
-    "options": [
-      "Protein",
-      "DNA",
-      "RNA",
-      "Chromozom",
-      "Amino Asit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Genetikteki temel birim DNA'dır. DNA, genetik bilgiyi taşıyan ve nesilden nesile aktaran moleküldür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764501416919_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "İnsanlarda görülen bazı genetik hastalıklar, mayoz bölünme sırasında meydana gelen ayrılmama olayları sonucu ortaya çıkan kromozom sayısı anormalliklerinden kaynaklanır.\n I. Down Sendromu - 45 + XX\n II. Turner Sendromu - 44 + X\n III. Klinefelter Sendromu - 44 + XXY\nYukarıda verilen sendromlar ve bu sendromlara sahip bireylerin kromozom formülleri eşleştirmelerinden hangileri doğrudur?",
-    "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "II ve III",
-      "I, II ve III"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Verilen kromozom formülleri 'otozom sayısı + gonozomlar' şeklinde ifade edilmiştir. Sağlıklı bir insanda 44 otozom + XX (dişi) veya 44 otozom + XY (erkek) kromozomu bulunur.\nI. Down Sendromu (Trizomi 21): Otozomal bir kromozom olan 21. kromozomdan üç tane bulunmasıdır. Yani normaldeki 44 otozoma bir tane eklenir. Dişi bir birey için formül 45 otozom + XX gonozom şeklinde yazılabilir ve bu toplam 47 kromozom anlamına gelir. Bu ifade doğrudur.\nII. Turner Sendromu: Gonozomlardan birinin eksik olması durumudur (45, X0). Birey 44 otozom ve tek bir X gonozomu taşır. Formülü 44 + X şeklindedir. Bu ifade doğrudur.\nIII. Klinefelter Sendromu: Erkek bireyde fazladan bir X gonozomu bulunması durumudur (47, XXY). Birey 44 otozom ve XXY gonozomlarını taşır. Formülü 44 + XXY şeklindedir. Bu ifade de doğrudur.\nBu nedenle her üç eşleştirme de doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743550_4",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik kavramlardan hangisi, bir bireyin dış görünümünü ifade eder?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Kromozom",
-      "DNA",
-      "Allel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Fenotip, bir bireyin dış görünümünü veya gözlemlenebilir özelliklerini ifade eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500111662_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler bağımsızdır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, F1 dölünde fenotipi yeşil ve düzgün olan bir bezelyenin oluşma olasılığı nedir?",
-    "options": [
-      "1/16",
-      "3/16",
-      "9/16",
-      "1/4",
-      "3/4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir dihibrit çaprazlamadır. Her bir karakter için ayrı ayrı olasılık hesaplaması yapılıp sonuçlar çarpılır. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan ss genotipli (yeşil fenotipli) birey oluşma olasılığı 1/4'tür.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan D_ genotipli (Düzgün fenotipli) birey oluşma olasılığı 3/4'tür (DD ve Dd genotipleri bu fenotipi verir).\n3. Genler bağımsız olduğundan, iki olayın birlikte gerçekleşme olasılığı, bu iki olayın ayrı ayrı gerçekleşme olasılıklarının çarpımına eşittir.\n4. Sonuç olarak, yeşil ve düzgün fenotipli bir bezelyenin oluşma olasılığı: (1/4) * (3/4) = 3/16'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528455059_9",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "DNA sentezinin hangi aşamasında DNA polimeraz enzimi görev alır?",
-    "options": [
-      "Replikasyon",
-      "Transkripsiyon",
-      "Translasyon",
-      "Mutasyon",
-      "Kondansasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "DNA sentezi sırasında replikasyon aşamasında DNA polimeraz enzimi görev alır.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764528455060_18",
     "subjectId": "biy",
     "topic": "Genetik",
@@ -400,20 +96,212 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524743551_19",
+    "id": "ai_1764498742130_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıda verilenlerden hangisi genetik mühendislikte kullanılan bir teknik değildir?",
+    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba (XʳY) ile taşıyıcı bir annenin (XᴿXʳ) doğacak çocukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Klonlama",
-      "CRISPR",
-      "Elektroforez",
-      "Transgenik organizmalar",
-      "Hibridizasyon"
+      "Erkek çocuklarının yarısı renk körü olur.",
+      "Kız çocuklarının yarısı taşıyıcı olur.",
+      "Renk körü kız çocuklarının doğma ihtimali vardır.",
+      "Sağlam fenotipli kız çocukları doğamaz.",
+      "Kız çocuklarının yarısı renk körü olur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Çaprazlama (XʳY x XᴿXʳ) yapıldığında oluşabilecek genotipler şunlardır: XᴿXʳ (taşıyıcı kız), XʳXʳ (renk körü kız), XᴿY (sağlam erkek) ve XʳY (renk körü erkek). Her bir genotipin oluşma olasılığı 1/4'tür. \n- A) Erkek çocukların (XᴿY, XʳY) yarısı renk körüdür. Doğru.\n- B) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı taşıyıcıdır. Doğru.\n- C) Renk körü kız çocuğu (XʳXʳ) doğma ihtimali 1/4'tür. Doğru.\n- D) Sağlam fenotipli (renkleri normal gören) kız çocuğu doğabilir. Bu çocuk XᴿXʳ genotipinde olup taşıyıcıdır, ancak baskın alel (R) nedeniyle fenotipi sağlıklıdır. Bu nedenle bu ifade yanlıştır.\n- E) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı renk körü (XʳXʳ) olur. Doğru.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455059_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Heterozigot bireyler için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Aynı alelleri taşırlar",
+      "Farklı alelleri taşırlar",
+      "Sadece resesif alel taşırlar",
+      "Sadece dominant alel taşırlar",
+      "Fenotipleri kesinlikle aynıdır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heterozigot bireyler, farklı alelleri taşırlar; bu durum fenotipik çeşitliliği artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764500111662_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Kırmızı-yeşil renk körlüğü, X kromozomuna bağlı çekinik bir genle kalıtılır. Taşıyıcı bir anne ile sağlam bir babanın çocukları ile ilgili aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "Kız çocuklarının renk körü olma olasılığı yoktur.",
+      "Erkek çocuklarının yarısı renk körü olur.",
+      "Doğacak çocuğun renk körü olma olasılığı 1/4'tür.",
+      "Kız çocuklarının tamamı sağlam fenotiplidir.",
+      "Baba, kız çocuklarına renk körlüğü alelini aktarır."
     ],
     "correctAnswer": 4,
-    "explanation": "Hibridizasyon, genetik mühendislikte yaygın olarak kullanılan bir teknik değildir.",
+    "explanation": "Bu çaprazlamada anne taşıyıcı (X^R X^r) ve baba sağlamdır (X^R Y). Çaprazlama sonucunda oluşabilecek genotipler: X^R X^R (sağlam kız), X^R X^r (taşıyıcı kız), X^R Y (sağlam erkek), X^r Y (renk körü erkek).\nA) Kız çocukları babalarından daima X^R alelini alacağı için renk körü (X^r X^r) olamazlar. Doğrudur.\nB) Erkek çocukları annelerinden 1/2 olasılıkla X^r alelini alacağı için yarısı renk körü olur. Doğrudur.\nC) Dört olası genotipten sadece biri (X^r Y) renk körü fenotipini gösterir. Olasılık 1/4'tür. Doğrudur.\nD) Kız çocukları X^R X^R veya X^R X^r genotipinde olabilir. Her iki durumda da baskın X^R aleli bulunduğundan fenotipleri sağlam olur. Doğrudur.\nE) Baba sağlam (X^R Y) olduğu için renk körlüğü alelini (X^r) taşımaz. Dolayısıyla kız çocuklarına bu aleli aktaramaz. Bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455059_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi genetik bilgilere sahip bir molekülü ifade eder?",
+    "options": [
+      "RNA",
+      "Protein",
+      "Karbonhidrat",
+      "Yağ",
+      "Vitamin"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RNA, genetik bilgilere sahip bir moleküldür ve protein sentezinde rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576904208_7",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki hangi yapılar DNA'nın yapısında bulunmaz?",
+    "options": [
+      "Nükleotid",
+      "Amino asit",
+      "Şeker",
+      "Fosfat",
+      "Azotlu baz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA'nın yapısında nükleotid, şeker, fosfat ve azotlu baz bulunurken, amino asit DNA'nın yapısında yer almaz.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764528455060_20",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genellikle bir organizmanın fenotipini etkileyen çevresel faktörlerden biridir?",
+    "options": [
+      "Beslenme",
+      "Genler",
+      "Dölleme",
+      "Kromozom sayısı",
+      "Alel çeşitliliği"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beslenme, bir organizmanın fenotipini etkileyen önemli çevresel faktörlerden biridir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522638226_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliği artıran bir faktördür?",
+    "options": [
+      "Mutasyonlar",
+      "Seçilim",
+      "Hibridizasyon",
+      "Klonlama",
+      "Aynı gen havuzu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutasyonlar, genetik çeşitliliği artıran önemli bir faktördür çünkü yeni gen varyantlarının ortaya çıkmasına neden olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524743550_11",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi, iki farklı tür arasında gen transferini ifade eder?",
+    "options": [
+      "Translokasyon",
+      "Genetik mühendislik",
+      "Mutasyon",
+      "Eşeysel üreme",
+      "Hibridizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetik mühendislik, iki farklı tür arasında gen transferini ifade eder.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455060_36",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik mühendisliğinde kullanılan CRISPR teknolojisi neyi ifade eder?",
+    "options": [
+      "Gen düzenleme",
+      "DNA dizileme",
+      "Klonlama",
+      "Hibridizasyon",
+      "Protein sentezi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRISPR, gen düzenleme teknolojisidir ve belirli genlerin değiştirilmesine olanak tanır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576904208_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın temel yapı birimi nedir?",
+    "options": [
+      "Amino asit",
+      "Nükleotid",
+      "Protein",
+      "Karbonhidrat",
+      "Yağ asidi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA'nın temel yapı birimi nükleotiddir. Nükleotid, bir fosfat grubu, bir şeker ve bir azotlu bazdan oluşur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764524743551_28",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kalıtım türlerinden hangisi, bir bireyin fenotipinde iki farklı alelin etkisini gösterir?",
+    "options": [
+      "Dominant kalıtım",
+      "Resesif kalıtım",
+      "Kodominant kalıtım",
+      "Intermediary kalıtım",
+      "Hepsi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kodominant kalıtım, bir bireyin fenotipinde iki farklı alelin etkisini gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455060_33",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Heterozigotluk, genetik çeşitliliği azaltır.",
+      "Alel çeşitliliği, evrimsel süreç için gereklidir.",
+      "Fenotip, yalnızca genlerden etkilenir.",
+      "Homozygotluk, çeşitliliği artırır.",
+      "Genetik materyal, yalnızca hücre bölünmesi sırasında aktarılamaz."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alel çeşitliliği, evrimsel süreç için gereklidir; bu nedenle ifade doğrudur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522638226_8",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın yapı taşları nelerdir?",
+    "options": [
+      "Amino Asitler",
+      "Nükleotidler",
+      "Karbonhidratlar",
+      "Lipitler",
+      "Proteinler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA'nın yapı taşları nükleotidlerdir; her nükleotid bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764524743550_7",
@@ -429,230 +317,6 @@
     ],
     "correctAnswer": 4,
     "explanation": "Tüm bu mekanizmalar genetik çeşitliliği artırır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522638227_9",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Meiosis sürecinde meydana gelen genetik çeşitliliğin kaynağı nedir?",
-    "options": [
-      "Bağımsız dağılım",
-      "Klonlama",
-      "Döllenme",
-      "Mutasyon",
-      "Aynı gen havuzu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Meiosis sırasında bağımsız dağılım, homolog kromozomların rastgele dağılımı ile genetik çeşitliliği artırır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575772574_7",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Bir bireyin genetik yapısını tanımlayan terim hangisidir?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Kromozom",
-      "Alelik",
-      "Gen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir bireyin genetik yapısını tanımlayan terim genotip olarak adlandırılır. Fenotip ise bireyin görünümünü tanımlar.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764575772574_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki terimlerden hangisi bir genin belirli bir formunu ifade eder?",
-    "options": [
-      "Genotip",
-      "Fenotip",
-      "Alel",
-      "Kromozom",
-      "DNA"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir genin belirli bir formu alel olarak adlandırılır. Her genin birden fazla aleli olabilir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528455060_21",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik olarak bağımsız olarak kalıtılan iki karakterin birlikte kalıtımı hangi kural ile açıklanır?",
-    "options": [
-      "Mendel'in bağımsız dağılım yasası",
-      "Mendel'in birinci yasası",
-      "Mendel'in ikinci yasası",
-      "Bağımlı kalıtım",
-      "Kalıtsal varyasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mendel'in bağımsız dağılım yasası, genlerin birbirinden bağımsız olarak kalıtılmasını açıklar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455059_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik çeşitliliğin temel kaynağı nedir?",
-    "options": [
-      "Mutasyonlar",
-      "Mezozoyik devri",
-      "Dölleme",
-      "Homozigotluk",
-      "Süreklilik"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mutasyonlar, genetik çeşitliliğin temel kaynağını oluşturur; genetik materyalin değişmesine yol açar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522638226_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Mendel'in kalıtım yasaları hangi organizmalarda ilk kez keşfedilmiştir?",
-    "options": [
-      "Meyve Flies",
-      "Bezelye Bitkileri",
-      "Domates",
-      "Zeytin",
-      "Sarımsak"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mendel'in kalıtım yasaları, bezelye bitkileri üzerinde yapılan deneylerle keşfedilmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743550_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik mutasyon türlerinden hangisi, DNA dizisinde bir bazın değişmesiyle sonuçlanır?",
-    "options": [
-      "Silinme",
-      "Ekleme",
-      "Substitüsyon",
-      "Duplikasyon",
-      "Translokasyon"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Substitüsyon, bir bazın başka bir bazla değiştirilmesi yoluyla meydana gelen bir mutasyondur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528455060_31",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi kalıtım hakkında doğru bir bilgi değildir?",
-    "options": [
-      "Kalıtım, genetik bilginin nesilden nesile geçişidir.",
-      "Genler, karakterleri belirler.",
-      "Resesif genler her zaman fenotipte belirgin değildir.",
-      "Alel, genin bir formudur.",
-      "Kalıtım, sadece genetik değişiklikleri içerir."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Kalıtım, genetik bilginin yanı sıra çevresel değişiklikleri de içerir; bu nedenle ifade yanlıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498742130_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "A kan grubuna sahip bir anne ile B kan grubuna sahip bir babanın, 0 kan grubuna sahip bir çocukları dünyaya gelmiştir. Bu ailenin doğacak ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
-    "options": [
-      "0",
-      "1/8",
-      "1/4",
-      "1/2",
-      "3/4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çocuğun 0 kan grubunda (genotipi ii) olması, hem anneden hem de babadan 'i' alelini aldığını gösterir. Anne A kan grubunda olduğuna göre genotipi Iᴬi olmalıdır. Baba B kan grubunda olduğuna göre genotipi Iᴮi olmalıdır. Bu iki bireyin çaprazlanması (Iᴬi x Iᴮi) sonucunda oluşabilecek genotipler ve olasılıkları şunlardır:\n- 1/4 IᴬIᴮ (AB kan grubu)\n- 1/4 Iᴬi (A kan grubu)\n- 1/4 Iᴮi (B kan grubu)\n- 1/4 ii (0 kan grubu)\nBu nedenle, ailenin AB kan grubuna sahip bir çocuğunun olma olasılığı 1/4'tür. Her doğum bağımsız bir olay olduğu için önceki çocuğun kan grubu bu olasılığı etkilemez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743550_14",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki terimlerden hangisi, bir bireyin genetik yapısını oluşturan tüm genlerin toplamıdır?",
-    "options": [
-      "Genom",
-      "Alelik",
-      "Fenotip",
-      "Genotip",
-      "Kromozom"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Genom, bir bireyin genetik yapısını oluşturan tüm genlerin toplamıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524743551_23",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki kalıtım türlerinden hangisi, bir bireyin iki aynı allel taşıdığı durumu ifade eder?",
-    "options": [
-      "Heterozigot",
-      "Homozigot",
-      "Kodominant",
-      "Intermediary",
-      "Fenotip"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Homozigot, bir bireyin iki aynı allel taşıdığı durumu ifade eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520322576_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik olaylardan hangisi, genlerin yeni kombinasyonlarının oluşmasına neden olur?",
-    "options": [
-      "Mutasyon",
-      "Meiosis",
-      "Fertilizasyon",
-      "Transkripsiyon",
-      "Translasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Meiosis, hücre bölünmesi sırasında genetik materyalin yeniden düzenlenmesiyle yeni gen kombinasyonlarının oluşmasına olanak tanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522638227_13",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "DNA'nın çift sarmal yapısını kim keşfetmiştir?",
-    "options": [
-      "James Watson",
-      "Francis Crick",
-      "Rosalind Franklin",
-      "Linus Pauling",
-      "Gregor Mendel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Watson ve Crick, DNA'nın çift sarmal yapısını keşfettikleri için bu alanda en çok bilinen bilim insanlarıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743550_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir organizmanın genetik yapısını belirleyen genlerin toplamını ifade eder?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Alel",
-      "Kromozom",
-      "DNA"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Genotip, bir organizmanın genetik yapısını belirleyen genlerin toplamını ifade eder.",
     "difficulty": 5
   },
   {
@@ -672,164 +336,212 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528455059_12",
+    "id": "ai_1764524743550_9",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Hangi genetik terim, bir organizmanın genetik materyalinin toplamını ifade eder?",
+    "questionText": "Aşağıdaki kromozom yapılarından hangisi, genetik materyalin hücre bölünmesi sırasında sıkışarak oluşturduğu yapıdır?",
     "options": [
-      "Genom",
-      "Alelik",
-      "Fenotip",
-      "Genotip",
-      "Kromozom"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Genom, bir organizmanın genetik materyalinin toplamını ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455060_33",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Heterozigotluk, genetik çeşitliliği azaltır.",
-      "Alel çeşitliliği, evrimsel süreç için gereklidir.",
-      "Fenotip, yalnızca genlerden etkilenir.",
-      "Homozygotluk, çeşitliliği artırır.",
-      "Genetik materyal, yalnızca hücre bölünmesi sırasında aktarılamaz."
+      "Hücre zarı",
+      "Kromozom",
+      "Kromatin",
+      "DNA",
+      "Ribozom"
     ],
     "correctAnswer": 1,
-    "explanation": "Alel çeşitliliği, evrimsel süreç için gereklidir; bu nedenle ifade doğrudur.",
+    "explanation": "Kromozomlar, hücre bölünmesi sırasında sıkışarak oluşturulan genetik materyal yapılarıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455060_31",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi kalıtım hakkında doğru bir bilgi değildir?",
+    "options": [
+      "Kalıtım, genetik bilginin nesilden nesile geçişidir.",
+      "Genler, karakterleri belirler.",
+      "Resesif genler her zaman fenotipte belirgin değildir.",
+      "Alel, genin bir formudur.",
+      "Kalıtım, sadece genetik değişiklikleri içerir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kalıtım, genetik bilginin yanı sıra çevresel değişiklikleri de içerir; bu nedenle ifade yanlıştır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764498742130_0",
+    "id": "ai_1764501416919_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler farklı kromozomlar üzerinde bulunmaktadır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, yeşil ve düzgün tohumlu bir bezelyenin oluşma olasılığı nedir?",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s); düzgün tohum şekli aleli (D) ise buruşuk tohum şekli aleline (d) baskındır. Genleri bağımsız olan ve her iki karakter bakımından da heterozigot olan iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, fenotipinde sarı renkli ve buruşuk tohumlu bir bezelyenin oluşma olasılığı nedir?",
     "options": [
       "1/16",
-      "3/16",
       "9/16",
+      "3/16",
       "1/4",
-      "3/8"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız dağıldığı için her bir özellik için olasılıklar ayrı ayrı hesaplanıp çarpılır. \n1. Tohum rengi için çaprazlama: Ss x Ss -> 1/4 SS, 2/4 Ss, 1/4 ss. Yeşil tohumlu (ss) olma olasılığı 1/4'tür. \n2. Tohum şekli için çaprazlama: Dd x Dd -> 1/4 DD, 2/4 Dd, 1/4 dd. Düzgün tohumlu (DD veya Dd) olma olasılığı (1/4 + 2/4) = 3/4'tür. \n3. Yeşil ve düzgün tohumlu (ssD_) bir bezelyenin oluşma olasılığı, bu iki bağımsız olayın olasılıklarının çarpımına eşittir: P(ss) * P(D_) = (1/4) * (3/4) = 3/16.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743550_3",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki organizmalardan hangisi genetik mühendislikte kullanılan bir model organizmadır?",
-    "options": [
-      "Muz",
-      "Zebrafish",
-      "Maya",
-      "Sıçan",
-      "Temel bitkiler"
+      "3/4"
     ],
     "correctAnswer": 2,
-    "explanation": "Maya, genetik mühendislikte yaygın olarak kullanılan bir model organizmadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528455060_19",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi genetik varyasyonu artıran bir faktördür?",
-    "options": [
-      "Aseksüel üreme",
-      "Mutasyon",
-      "Gen havuzu",
-      "Homozigotluk",
-      "Seçilim"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mutasyonlar, genetik varyasyonu artıran önemli bir faktördür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522638227_11",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik olarak belirlenen bir özelliğin, iki farklı alel içeren bireylerde nasıl ifade edildiği nedir?",
-    "options": [
-      "Homozygot",
-      "Heterozygot",
-      "Fenotip",
-      "Genotip",
-      "Kromozom"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İki farklı alel içeren bireyler heterozygot olarak tanımlanır; bu durum genetik çeşitliliği artırır.",
+    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız olduğu için her bir karakterin kalıtımı ayrı ayrı incelenmelidir. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Sarı (S_) ve 1/4 Yeşil (ss)'dir.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan oluşacak fenotipik oran 3/4 Düzgün (D_) ve 1/4 Buruşuk (dd)'tur.\nSoruda istenen 'sarı renkli' VE 'buruşuk tohumlu' fenotiptir. Bağımsız olayların birlikte gerçekleşme olasılığı, bu olayların ayrı ayrı gerçekleşme olasılıklarının çarpımı ile bulunur (Çarpma Kuralı).\nOlasılık = P(Sarı) x P(Buruşuk) = (3/4) x (1/4) = 3/16. Bu nedenle doğru cevap 3/16'dır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764528455060_16",
+    "id": "ai_1764528455059_4",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıda verilen genetik terimlerden hangisi, bir genin birden fazla alelinin varlığını ifade eder?",
+    "questionText": "X'e bağlı resesif bir gen, hangi durumda fenotipik olarak ortaya çıkar?",
     "options": [
-      "Heterozigot",
-      "Homozygot",
-      "Kodominans",
-      "Polimorfizm",
-      "Epistaz"
+      "Homozygot erkeklerde",
+      "Heterozygot erkeklerde",
+      "Homozygot dişilerde",
+      "Heterozygot dişilerde",
+      "Tüm bireylerde"
     ],
-    "correctAnswer": 3,
-    "explanation": "Polimorfizm, bir genin birden fazla alelinin varlığını ifade eden bir terimdir.",
+    "correctAnswer": 1,
+    "explanation": "X'e bağlı resesif gen, erkeklerde (XY) yalnızca bir kopya bulunduğundan, heterozygot durumunda fenotipik olarak ortaya çıkar.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764524743551_16",
+    "id": "ai_1764528455059_9",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik bilgileri taşıyan moleküllerden hangisi, ribozomlarda protein sentezinde rol oynar?",
+    "questionText": "DNA sentezinin hangi aşamasında DNA polimeraz enzimi görev alır?",
     "options": [
-      "mRNA",
-      "tRNA",
-      "rRNA",
-      "DNA",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hepsi, protein sentezinde farklı rollere sahiptir, ancak mRNA, tRNA ve rRNA özellikle ribozomlarda bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524743551_18",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir bireyin genetik yapısında meydana gelen herhangi bir değişikliği ifade eder?",
-    "options": [
+      "Replikasyon",
+      "Transkripsiyon",
+      "Translasyon",
       "Mutasyon",
-      "Genetik çeşitlilik",
-      "Seleksiyon",
-      "Adaptasyon",
-      "Hibrid"
+      "Kondansasyon"
     ],
     "correctAnswer": 0,
-    "explanation": "Mutasyon, bir bireyin genetik yapısında meydana gelen herhangi bir değişikliktir.",
+    "explanation": "DNA sentezi sırasında replikasyon aşamasında DNA polimeraz enzimi görev alır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743550_13",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir genin işlevini kaybetmesine neden olan bir değişikliği ifade eder?",
+    "options": [
+      "Mutasyon",
+      "Dizilim değişikliği",
+      "Silinme",
+      "Ekleme",
+      "Duplikasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutasyon, bir genin işlevini kaybetmesine neden olan bir değişikliktir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764524743551_25",
+    "id": "ai_1764501416919_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi yanlış bir genetik bilgi içerir?",
+    "questionText": "İnsanlarda görülen bazı genetik hastalıklar, mayoz bölünme sırasında meydana gelen ayrılmama olayları sonucu ortaya çıkan kromozom sayısı anormalliklerinden kaynaklanır.\n I. Down Sendromu - 45 + XX\n II. Turner Sendromu - 44 + X\n III. Klinefelter Sendromu - 44 + XXY\nYukarıda verilen sendromlar ve bu sendromlara sahip bireylerin kromozom formülleri eşleştirmelerinden hangileri doğrudur?",
     "options": [
-      "Kromozomlar DNA'dan oluşur",
-      "Genler, kromozomlarda bulunur",
-      "DNA, protein sentezini kontrol eder",
-      "Tüm canlılar DNA taşır",
-      "Kromozom sayısı her türde aynıdır"
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "II ve III",
+      "I, II ve III"
     ],
     "correctAnswer": 4,
-    "explanation": "Kromozom sayısı türler arasında değişiklik göstermektedir.",
+    "explanation": "Verilen kromozom formülleri 'otozom sayısı + gonozomlar' şeklinde ifade edilmiştir. Sağlıklı bir insanda 44 otozom + XX (dişi) veya 44 otozom + XY (erkek) kromozomu bulunur.\nI. Down Sendromu (Trizomi 21): Otozomal bir kromozom olan 21. kromozomdan üç tane bulunmasıdır. Yani normaldeki 44 otozoma bir tane eklenir. Dişi bir birey için formül 45 otozom + XX gonozom şeklinde yazılabilir ve bu toplam 47 kromozom anlamına gelir. Bu ifade doğrudur.\nII. Turner Sendromu: Gonozomlardan birinin eksik olması durumudur (45, X0). Birey 44 otozom ve tek bir X gonozomu taşır. Formülü 44 + X şeklindedir. Bu ifade doğrudur.\nIII. Klinefelter Sendromu: Erkek bireyde fazladan bir X gonozomu bulunması durumudur (47, XXY). Birey 44 otozom ve XXY gonozomlarını taşır. Formülü 44 + XXY şeklindedir. Bu ifade de doğrudur.\nBu nedenle her üç eşleştirme de doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524743550_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir bireyin iki farklı alel taşıdığı durumu ifade eder?",
+    "options": [
+      "Homozigot",
+      "Heterozigot",
+      "Kromozom",
+      "Fenotip",
+      "Genotip"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heterozigot, bir bireyin iki farklı alel taşıdığı durumu ifade eder.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764575772574_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hücre bölünmesi sırasında genetik materyalin kopyalanması hangi aşamada gerçekleşir?",
+    "options": [
+      "Profaz",
+      "Metafaz",
+      "Anafaz",
+      "Telofaz",
+      "Sentez"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hücre bölünmesi sırasında genetik materyalin kopyalanması sentez aşamasında gerçekleşir. Bu aşamada DNA'nın replikasyonu yapılır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528455060_26",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik testlerde kullanılan bir yöntem değildir?",
+    "options": [
+      "PCR",
+      "Sanger dizileme",
+      "Elektroforez",
+      "DNA klonlama",
+      "Hibridizasyon"
+    ],
+    "correctAnswer": 3,
+    "explanation": "DNA klonlama, genetik testler için doğrudan kullanılan bir yöntem değildir; daha çok gen üretimi için kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575772574_7",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Bir bireyin genetik yapısını tanımlayan terim hangisidir?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Kromozom",
+      "Alelik",
+      "Gen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir bireyin genetik yapısını tanımlayan terim genotip olarak adlandırılır. Fenotip ise bireyin görünümünü tanımlar.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528455059_13",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik olarak modifiye edilmiş organizmaların (GDO) bir örneğidir?",
+    "options": [
+      "Klasik tarım",
+      "Doğal seleksiyon",
+      "Genetik mühendisliği ile üretilen soya fasulyesi",
+      "Evrimsel süreç",
+      "Hibrid bitkiler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Genetik mühendisliği ile üretilen soya fasulyesi, genetik olarak modifiye edilmiş bir organizmadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528455060_35",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi kalıtsal hastalıkların bir örneğidir?",
+    "options": [
+      "Diyabet",
+      "Kistik fibroz",
+      "Kalp hastalığı",
+      "Kanser",
+      "Obezite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kistik fibroz, genetik bir hastalıktır ve kalıtsal bir bozukluktur.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764524743550_10",
@@ -864,86 +576,6 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764522638226_3",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki terimlerden hangisi genetik mühendisliğinde sıklıkla kullanılan bir tekniktir?",
-    "options": [
-      "Klonlama",
-      "Döllenme",
-      "Meiosis",
-      "Sentez",
-      "Fertilizasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Klonlama, genetik mühendisliğinde belirli bir organizmanın genetik kopyasının oluşturulmasında sıkça kullanılan bir tekniktir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743551_21",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi genetik varyasyonu artıran bir unsurdur?",
-    "options": [
-      "Mutasyon",
-      "Seçilim",
-      "Gen akışı",
-      "Eşeysel üreme",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm bu unsurlar genetik varyasyonu artırır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528455060_17",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "DNA'nın replikasyonu sırasında hangi enzim DNA'nın ikili sarmalını açar?",
-    "options": [
-      "DNA polimeraz",
-      "Helikaz",
-      "Ligaz",
-      "Primaz",
-      "Topoizomeraz"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Helikaz enzimi, DNA'nın ikili sarmalını açarak replikasyon sürecini başlatır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524743550_8",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelere göre hangisi doğru değildir?",
-    "options": [
-      "DNA, genetik bilgiyi taşır",
-      "RNA, protein sentezinde rol oynar",
-      "Kromozomlar, genleri taşır",
-      "Tüm canlıların DNA'sı vardır",
-      "Fenotip, yalnızca genotipe bağlıdır"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Fenotip, genotipin yanı sıra çevresel faktörlerden de etkilenir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528455060_20",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genellikle bir organizmanın fenotipini etkileyen çevresel faktörlerden biridir?",
-    "options": [
-      "Beslenme",
-      "Genler",
-      "Dölleme",
-      "Kromozom sayısı",
-      "Alel çeşitliliği"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Beslenme, bir organizmanın fenotipini etkileyen önemli çevresel faktörlerden biridir.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764524743551_20",
     "subjectId": "biy",
     "topic": "Genetik",
@@ -960,100 +592,180 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764500111662_3",
+    "id": "ai_1764528455060_29",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Genetikle ilgili temel kavramlar hakkında aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "questionText": "Aşağıdaki ifadelerden hangisi doğru değildir?",
     "options": [
-      "Bir karakterin kalıtımından sorumlu genin alternatif formlarının her birine alel denir.",
-      "Bir canlının genetik yapısının tamamına genotip, bu genetik yapı ve çevresel faktörlerin etkisiyle ortaya çıkan dış görünüşüne fenotip denir.",
-      "Diploit bir canlıda, bir karakterle ilgili alellerin ikisi de aynı ise bu duruma homozigot, farklı ise heterozigot denir.",
-      "Baskın alel, etkisini sadece homozigot durumda gösterebilen aleldir.",
-      "Eş baskınlık durumunda, heterozigot bireyde her iki alelin de etkisi fenotipte tam olarak gözlemlenir."
+      "Hibridizasyon, genetik çeşitliliği artırır.",
+      "Kalıtım, nesilden nesile geçişi ifade eder.",
+      "Genetik çeşitlilik, evrim için gereklidir.",
+      "Alel, bir genin alternatif formlarıdır.",
+      "Fenotip, yalnızca genetik faktörlerden etkilenir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Fenotip, genetik faktörlerin yanı sıra çevresel faktörlerden de etkilenir; bu nedenle ifade yanlıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576904208_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki hangi terim, bir genin fenotipik etkisinin diğer bir gen tarafından tamamen baskılandığı durumu ifade eder?",
+    "options": [
+      "Kodominans",
+      "Dominantlık",
+      "Rekabet",
+      "Epistaz",
+      "Mutasyon"
     ],
     "correctAnswer": 3,
-    "explanation": "A, B, C ve E şıkları genetikle ilgili temel kavramları doğru bir şekilde tanımlamaktadır. Ancak D şıkkı yanlıştır. Etkisini sadece homozigot durumda (örneğin aa) gösterebilen alele 'çekinik (resesif) alel' denir. 'Baskın (dominant) alel' ise etkisini hem homozigot (AA) hem de heterozigot (Aa) durumda gösteren aleldir.",
+    "explanation": "Epistaz, bir genin fenotipik etkisinin diğer bir gen tarafından tamamen baskılandığı durumu ifade eder.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764501416919_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba ile bu özellik bakımından taşıyıcı (heterozigot) bir annenin, renk körü bir kız çocuğuna sahip olma olasılığı kaçtır?",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4",
+      "0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Babanın genotipi X^rY, annenin genotipi ise X^RX^r'dir. Bu ebeveynlerin çocuklarının olası genotiplerini bulmak için Punnett karesi kullanılır:\n- X^R X^r: Taşıyıcı kız çocuğu\n- X^r X^r: Renk körü kız çocuğu\n- X^R Y: Sağlam erkek çocuğu\n- X^r Y: Renk körü erkek çocuğu\nToplamda dört olası ve eşit ihtimalli genotip vardır. Bu olasılıklar arasında 'renk körü bir kız çocuğu'nun (X^rX^r) ortaya çıkma olasılığı 1/4'tür. Bu oran %25'e karşılık gelir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764528455059_2",
+    "id": "ai_1764524743550_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki terimlerden hangisi genetik bilgilere sahip bir molekülü ifade eder?",
+    "questionText": "Mendel'in yasalarına göre, bir karakterin iki alleli olduğunda, bu allellerin birbirine olan etkisi nasıl tanımlanır?",
     "options": [
-      "RNA",
-      "Protein",
-      "Karbonhidrat",
-      "Yağ",
-      "Vitamin"
+      "Dominant",
+      "Recessive",
+      "Kozmopolit",
+      "Hibrid",
+      "İntermediate"
     ],
     "correctAnswer": 0,
-    "explanation": "RNA, genetik bilgilere sahip bir moleküldür ve protein sentezinde rol oynar.",
-    "difficulty": 4
+    "explanation": "Dominant allel, diğer allelin etkisini tamamen baskılama yeteneğine sahip olan alleldir.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528455060_34",
+    "id": "ai_1764528455059_7",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki terimlerden hangisi genetik testlerde kullanılan bir yöntemdir?",
+    "questionText": "Aşağıdaki kromozom yapılarından hangisi genetik bilginin taşınmasında en önemli rolü oynar?",
     "options": [
-      "Aseksüel üreme",
-      "Klonlama",
-      "DNA dizileme",
-      "Evrim",
-      "Mezoklon"
+      "Sentromer",
+      "Kromatid",
+      "Kromozom",
+      "Telomer",
+      "Plazmid"
     ],
     "correctAnswer": 2,
-    "explanation": "DNA dizileme, genetik testlerde yaygın olarak kullanılan bir yöntemdir.",
+    "explanation": "Kromozom, genetik bilginin taşınmasında en önemli rolü oynayan yapıdır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528455060_23",
+    "id": "ai_1764500111662_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi bir genin işlevini etkileyen bir faktör değildir?",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler bağımsızdır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, F1 dölünde fenotipi yeşil ve düzgün olan bir bezelyenin oluşma olasılığı nedir?",
     "options": [
-      "Mutasyon",
-      "Etkileşim",
-      "Çevresel faktörler",
-      "Kromozom sayısı",
-      "Alel çeşitliliği"
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4",
+      "3/4"
     ],
-    "correctAnswer": 3,
-    "explanation": "Kromozom sayısı, bir genin spesifik işlevini etkilemez; ancak genetik materyalin miktarını belirler.",
-    "difficulty": 4
+    "correctAnswer": 1,
+    "explanation": "Bu bir dihibrit çaprazlamadır. Her bir karakter için ayrı ayrı olasılık hesaplaması yapılıp sonuçlar çarpılır. \n1. Renk karakteri için çaprazlama: Ss x Ss. Bu çaprazlamadan ss genotipli (yeşil fenotipli) birey oluşma olasılığı 1/4'tür.\n2. Şekil karakteri için çaprazlama: Dd x Dd. Bu çaprazlamadan D_ genotipli (Düzgün fenotipli) birey oluşma olasılığı 3/4'tür (DD ve Dd genotipleri bu fenotipi verir).\n3. Genler bağımsız olduğundan, iki olayın birlikte gerçekleşme olasılığı, bu iki olayın ayrı ayrı gerçekleşme olasılıklarının çarpımına eşittir.\n4. Sonuç olarak, yeşil ve düzgün fenotipli bir bezelyenin oluşma olasılığı: (1/4) * (3/4) = 3/16'dır.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764528455059_5",
+    "id": "ai_1764498742130_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi Mendel'in kalıtım yasalarından biridir?",
+    "questionText": "A kan grubuna sahip bir anne ile B kan grubuna sahip bir babanın, 0 kan grubuna sahip bir çocukları dünyaya gelmiştir. Bu ailenin doğacak ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
     "options": [
-      "Bağımsız dağılım",
-      "Kalıtım",
-      "Rekombinasyon",
-      "Mutasyon",
-      "Seçilim"
+      "0",
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çocuğun 0 kan grubunda (genotipi ii) olması, hem anneden hem de babadan 'i' alelini aldığını gösterir. Anne A kan grubunda olduğuna göre genotipi Iᴬi olmalıdır. Baba B kan grubunda olduğuna göre genotipi Iᴮi olmalıdır. Bu iki bireyin çaprazlanması (Iᴬi x Iᴮi) sonucunda oluşabilecek genotipler ve olasılıkları şunlardır:\n- 1/4 IᴬIᴮ (AB kan grubu)\n- 1/4 Iᴬi (A kan grubu)\n- 1/4 Iᴮi (B kan grubu)\n- 1/4 ii (0 kan grubu)\nBu nedenle, ailenin AB kan grubuna sahip bir çocuğunun olma olasılığı 1/4'tür. Her doğum bağımsız bir olay olduğu için önceki çocuğun kan grubu bu olasılığı etkilemez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521061445_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin artırılmasında önemli bir rol oynar?",
+    "options": [
+      "Mutasyonlar",
+      "Bölünme",
+      "Eşeysel üreme",
+      "Klonlama",
+      "Hayvanların evcilleştirilmesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eşeysel üreme, genetik çeşitliliğin artmasına katkıda bulunan önemli bir mekanizmadır. Bu süreç, genetik materyalin farklı bireylerden bir araya gelmesiyle yeni kombinasyonların oluşmasına olanak tanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524743550_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik mutasyon türlerinden hangisi, DNA dizisinde bir bazın değişmesiyle sonuçlanır?",
+    "options": [
+      "Silinme",
+      "Ekleme",
+      "Substitüsyon",
+      "Duplikasyon",
+      "Translokasyon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Substitüsyon, bir bazın başka bir bazla değiştirilmesi yoluyla meydana gelen bir mutasyondur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575772574_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi bir genin belirli bir formunu ifade eder?",
+    "options": [
+      "Genotip",
+      "Fenotip",
+      "Alel",
+      "Kromozom",
+      "DNA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir genin belirli bir formu alel olarak adlandırılır. Her genin birden fazla aleli olabilir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764522638226_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi genetik mühendisliğinde sıklıkla kullanılan bir tekniktir?",
+    "options": [
+      "Klonlama",
+      "Döllenme",
+      "Meiosis",
+      "Sentez",
+      "Fertilizasyon"
     ],
     "correctAnswer": 0,
-    "explanation": "Mendel'in bağımsız dağılım yasası, farklı genlerin birbirinden bağımsız olarak kalıtıldığını belirtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575772574_8",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik çeşitlilik kaynaklarından hangisi doğal seçilim tarafından etkilenmez?",
-    "options": [
-      "Mutasyon",
-      "Gen akışı",
-      "Genetik sürüklenme",
-      "Krossing over",
-      "Bağışıklık"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bağışıklık, genetik çeşitlilik kaynağı değil, organizmaların çevresel koşullara yanıt verme yeteneğidir. Diğerleri genetik çeşitliliği etkiler.",
-    "difficulty": 1
+    "explanation": "Klonlama, genetik mühendisliğinde belirli bir organizmanın genetik kopyasının oluşturulmasında sıkça kullanılan bir tekniktir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764522638227_12",
@@ -1072,51 +784,179 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764528455059_13",
+    "id": "ai_1764519363571_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik olarak modifiye edilmiş organizmaların (GDO) bir örneğidir?",
+    "questionText": "Hücre bölünmesi sırasında homolog kromozomların birbirine yaklaşarak genetik materyal alışverişinde bulunduğu olay hangisidir?",
     "options": [
-      "Klasik tarım",
-      "Doğal seleksiyon",
-      "Genetik mühendisliği ile üretilen soya fasulyesi",
-      "Evrimsel süreç",
-      "Hibrid bitkiler"
+      "Meiosis",
+      "Mitoz",
+      "Krossing over",
+      "Transkripsiyon",
+      "Translasyon"
     ],
     "correctAnswer": 2,
-    "explanation": "Genetik mühendisliği ile üretilen soya fasulyesi, genetik olarak modifiye edilmiş bir organizmadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764500111662_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Kan grubu A olan bir anne ile kan grubu B olan bir babanın ilk çocukları 0 kan grubuna sahip olarak dünyaya gelmiştir. Bu ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
-    "options": [
-      "0",
-      "1/8",
-      "1/4",
-      "1/2",
-      "3/4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çocuğun 0 kan grubuna (genotipi 00) sahip olması, hem anneden hem de babadan 0 alelini aldığını gösterir. Annenin fenotipi A olduğuna göre genotipi A0'dır. Babanın fenotipi B olduğuna göre genotipi B0'dır. Bu iki ebeveynin (A0 x B0) çaprazlanması sonucunda oluşabilecek genotipler ve olasılıkları şöyledir:\n- AB (AB kan grubu): 1/4 olasılık\n- A0 (A kan grubu): 1/4 olasılık\n- B0 (B kan grubu): 1/4 olasılık\n- 00 (0 kan grubu): 1/4 olasılık\nBu nedenle, ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı 1/4'tür.",
+    "explanation": "Krossing over, homolog kromozomlar arasında genetik materyal değişimi gerçekleştiği bir süreçtir. Bu olay, özellikle mayoz bölünme sırasında görülür ve genetik çeşitliliği artırır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764524743550_6",
+    "id": "ai_1764528455059_15",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir bireyin iki farklı alel taşıdığı durumu ifade eder?",
+    "questionText": "Aşağıdaki ifadelerden hangisi doğru değildir?",
     "options": [
-      "Homozigot",
-      "Heterozigot",
-      "Kromozom",
-      "Fenotip",
-      "Genotip"
+      "Genetik mutasyonlar kalıcı değişikliklerdir.",
+      "Mendel'in yasaları sadece bitkiler için geçerlidir.",
+      "Alel genin alternatif formlarıdır.",
+      "Fenotip çevresel faktörlerden etkilenebilir.",
+      "Genotip, bireyin genetik yapısını ifade eder."
     ],
     "correctAnswer": 1,
-    "explanation": "Heterozigot, bir bireyin iki farklı alel taşıdığı durumu ifade eder.",
+    "explanation": "Mendel'in yasaları, hem bitkiler hem de hayvanlar için geçerlidir; bu nedenle ifade yanlıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575772574_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın replikasyonu hangi enzim aracılığıyla gerçekleşir?",
+    "options": [
+      "Polimeraz",
+      "Ligaz",
+      "Helikaz",
+      "Topoizomeraz",
+      "Nükleaz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DNA'nın replikasyonu DNA polimeraz enzimi aracılığıyla gerçekleşir. Bu enzim, yeni DNA zincirlerini sentezler.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524743550_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki organizmalardan hangisi genetik mühendislikte kullanılan bir model organizmadır?",
+    "options": [
+      "Muz",
+      "Zebrafish",
+      "Maya",
+      "Sıçan",
+      "Temel bitkiler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maya, genetik mühendislikte yaygın olarak kullanılan bir model organizmadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524743550_5",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi X'e bağlı resesif kalıtımın bir özelliğidir?",
+    "options": [
+      "Sadece erkeklerde görülür",
+      "Her iki cinsiyette eşit görülür",
+      "Sadece kadınlarda görülür",
+      "Kadınlar taşıyıcı olabilir",
+      "Hepsi doğrudur"
+    ],
+    "correctAnswer": 3,
+    "explanation": "X'e bağlı resesif genetik hastalıklarda kadınlar taşıyıcı olabilir, fakat hastalığın semptomları genellikle erkeklerde görülür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455060_30",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliği artıran bir mekanizmadır?",
+    "options": [
+      "Cinsiyetli üreme",
+      "Aseksüel üreme",
+      "Klonlama",
+      "Seçilim",
+      "Evrim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cinsiyetli üreme, genetik çeşitliliği artıran bir mekanizmadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522638227_9",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Meiosis sürecinde meydana gelen genetik çeşitliliğin kaynağı nedir?",
+    "options": [
+      "Bağımsız dağılım",
+      "Klonlama",
+      "Döllenme",
+      "Mutasyon",
+      "Aynı gen havuzu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Meiosis sırasında bağımsız dağılım, homolog kromozomların rastgele dağılımı ile genetik çeşitliliği artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_4",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hangi yapı genetik bilginin transkripte edilmesinde rol oynar?",
+    "options": [
+      "Ribozom",
+      "Nükleus",
+      "Mitoz",
+      "Kromozom",
+      "Sentrozom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetik bilginin transkripte edilmesi, nükleusta gerçekleşir; DNA'nın RNA'ya kopyalanması bu yapıda gerçekleşir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524743551_19",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıda verilenlerden hangisi genetik mühendislikte kullanılan bir teknik değildir?",
+    "options": [
+      "Klonlama",
+      "CRISPR",
+      "Elektroforez",
+      "Transgenik organizmalar",
+      "Hibridizasyon"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hibridizasyon, genetik mühendislikte yaygın olarak kullanılan bir teknik değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524743551_21",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi genetik varyasyonu artıran bir unsurdur?",
+    "options": [
+      "Mutasyon",
+      "Seçilim",
+      "Gen akışı",
+      "Eşeysel üreme",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm bu unsurlar genetik varyasyonu artırır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524743551_18",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir bireyin genetik yapısında meydana gelen herhangi bir değişikliği ifade eder?",
+    "options": [
+      "Mutasyon",
+      "Genetik çeşitlilik",
+      "Seleksiyon",
+      "Adaptasyon",
+      "Hibrid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutasyon, bir bireyin genetik yapısında meydana gelen herhangi bir değişikliktir.",
     "difficulty": 5
   },
   {
@@ -1136,227 +976,19 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764519363571_1",
+    "id": "ai_1764520322576_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi DNA'nın yapısal özellikleri ile ilgili yanlıştır?",
+    "questionText": "DNA'nın yapısında bulunan temel birim nedir?",
     "options": [
-      "DNA çift sarmallıdır.",
-      "Adenin ve Timin arasında iki hidrojen bağı bulunur.",
-      "DNA'da urasil bulunur.",
-      "DNA nükleotidleri deoksiriboz, fosfat ve baz içerir.",
-      "DNA'nın yapısında adenozin bulunur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "DNA'nın yapısında urasil bulunmaz; urasil, RNA'nın yapısında yer alır. DNA'da bulunan bazlar adenin, timin, sitozin ve guanindir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528455060_26",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik testlerde kullanılan bir yöntem değildir?",
-    "options": [
-      "PCR",
-      "Sanger dizileme",
-      "Elektroforez",
-      "DNA klonlama",
-      "Hibridizasyon"
-    ],
-    "correctAnswer": 3,
-    "explanation": "DNA klonlama, genetik testler için doğrudan kullanılan bir yöntem değildir; daha çok gen üretimi için kullanılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522638226_8",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "DNA'nın yapı taşları nelerdir?",
-    "options": [
-      "Amino Asitler",
-      "Nükleotidler",
-      "Karbonhidratlar",
-      "Lipitler",
-      "Proteinler"
+      "Amino asit",
+      "Nükleotid",
+      "Karbonhidrat",
+      "Lipid",
+      "Protein"
     ],
     "correctAnswer": 1,
-    "explanation": "DNA'nın yapı taşları nükleotidlerdir; her nükleotid bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524743551_27",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi genetik mühendislikte kullanılan bir yöntemdir?",
-    "options": [
-      "Klonlama",
-      "Transgenik organizmalar",
-      "Gen düzenleme",
-      "CRISPR",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm bu yöntemler genetik mühendislikte kullanılmaktadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522638226_6",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik hastalıklara örnek olarak verilmez?",
-    "options": [
-      "Kistik Fibrozis",
-      "Hemofili",
-      "Diyabet",
-      "Orak Hücre Anemisi",
-      "Huntington Hastalığı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Diyabet genetik bir hastalık olarak sınıflandırılmamaktadır; çevresel ve yaşam tarzı faktörleri ile ilişkilidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575772574_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hücre bölünmesi sırasında genetik materyalin kopyalanması hangi aşamada gerçekleşir?",
-    "options": [
-      "Profaz",
-      "Metafaz",
-      "Anafaz",
-      "Telofaz",
-      "Sentez"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hücre bölünmesi sırasında genetik materyalin kopyalanması sentez aşamasında gerçekleşir. Bu aşamada DNA'nın replikasyonu yapılır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528455059_14",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Karakterlerin kalıtımında hangi tür etkileşim gözlemlenir?",
-    "options": [
-      "Tam baskınlık",
-      "Kısmi baskınlık",
-      "Epistaz",
-      "Çoklu alel",
-      "Tüm seçenekler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Karakterlerin kalıtımında tam baskınlık, kısmi baskınlık, epistaz ve çoklu alel gibi etkileşimler gözlemlenir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575772574_3",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Mendel'in bezelye deneyleri hangi kalıtım yasasını ortaya koymuştur?",
-    "options": [
-      "Bağımsız Ayırma Yasası",
-      "Dominantlık Yasası",
-      "Segregasyon Yasası",
-      "Karmaşık Kalıtım Yasası",
-      "Çaprazlama Yasası"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Mendel'in bezelye deneyleri, genlerin ayrılma ve yeniden bir araya gelme prensiplerini açıklayan Segregasyon Yasası'nı ortaya koymuştur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528455060_30",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliği artıran bir mekanizmadır?",
-    "options": [
-      "Cinsiyetli üreme",
-      "Aseksüel üreme",
-      "Klonlama",
-      "Seçilim",
-      "Evrim"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cinsiyetli üreme, genetik çeşitliliği artıran bir mekanizmadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524743551_28",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki kalıtım türlerinden hangisi, bir bireyin fenotipinde iki farklı alelin etkisini gösterir?",
-    "options": [
-      "Dominant kalıtım",
-      "Resesif kalıtım",
-      "Kodominant kalıtım",
-      "Intermediary kalıtım",
-      "Hepsi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kodominant kalıtım, bir bireyin fenotipinde iki farklı alelin etkisini gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498742130_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Renk körlüğü, X kromozomuna bağlı çekinik bir alel ile kalıtılan bir hastalıktır. Renk körü bir baba (XʳY) ile taşıyıcı bir annenin (XᴿXʳ) doğacak çocukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Erkek çocuklarının yarısı renk körü olur.",
-      "Kız çocuklarının yarısı taşıyıcı olur.",
-      "Renk körü kız çocuklarının doğma ihtimali vardır.",
-      "Sağlam fenotipli kız çocukları doğamaz.",
-      "Kız çocuklarının yarısı renk körü olur."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Çaprazlama (XʳY x XᴿXʳ) yapıldığında oluşabilecek genotipler şunlardır: XᴿXʳ (taşıyıcı kız), XʳXʳ (renk körü kız), XᴿY (sağlam erkek) ve XʳY (renk körü erkek). Her bir genotipin oluşma olasılığı 1/4'tür. \n- A) Erkek çocukların (XᴿY, XʳY) yarısı renk körüdür. Doğru.\n- B) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı taşıyıcıdır. Doğru.\n- C) Renk körü kız çocuğu (XʳXʳ) doğma ihtimali 1/4'tür. Doğru.\n- D) Sağlam fenotipli (renkleri normal gören) kız çocuğu doğabilir. Bu çocuk XᴿXʳ genotipinde olup taşıyıcıdır, ancak baskın alel (R) nedeniyle fenotipi sağlıklıdır. Bu nedenle bu ifade yanlıştır.\n- E) Kız çocukların (XᴿXʳ, XʳXʳ) yarısı renk körü (XʳXʳ) olur. Doğru.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528455059_7",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki kromozom yapılarından hangisi genetik bilginin taşınmasında en önemli rolü oynar?",
-    "options": [
-      "Sentromer",
-      "Kromatid",
-      "Kromozom",
-      "Telomer",
-      "Plazmid"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kromozom, genetik bilginin taşınmasında en önemli rolü oynayan yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764521061445_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "DNA'daki adenine (A) bazının karşısındaki baz hangisidir?",
-    "options": [
-      "Timin (T)",
-      "Sitozin (C)",
-      "Guanin (G)",
-      "Urasil (U)",
-      "Adenin (A)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "DNA molekülünde adenine (A) bazının karşısında her zaman timin (T) bulunur. Bu baz eşleşmesi, DNA'nın yapısal bütünlüğünü korur ve genetik bilginin doğru bir şekilde kopyalanmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521061445_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki kavramlardan hangisi genetik bilginin bireyler arasında aktarımını tanımlar?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Mendel Genetik Kuralları",
-      "Kalıtım",
-      "Hibridizasyon"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kalıtım, genetik bilginin bireyler arasında aktarımını tanımlayan bir süreçtir. Bu süreç, genlerin nesilden nesile geçişini sağlar ve bireylerin özelliklerini belirler.",
+    "explanation": "DNA, nükleotid adı verilen temel birimlerden oluşur. Her nükleotid, bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
     "difficulty": 3
   },
   {
@@ -1376,148 +1008,20 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764528455060_25",
+    "id": "ai_1764528455059_10",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik mühendisliğinde kullanılan bir terimdir?",
+    "questionText": "Aşağıdaki genetik hastalıklardan hangisi X'e bağlı resesif olarak kalıtılır?",
     "options": [
-      "Mutasyon",
-      "Adaptasyon",
-      "Rekombinasyon",
-      "Seçilim",
-      "Fenotip"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Rekombinasyon, genetik mühendisliğinde kullanılan bir terimdir ve genetik materyalin yeniden düzenlenmesini ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455059_4",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "X'e bağlı resesif bir gen, hangi durumda fenotipik olarak ortaya çıkar?",
-    "options": [
-      "Homozygot erkeklerde",
-      "Heterozygot erkeklerde",
-      "Homozygot dişilerde",
-      "Heterozygot dişilerde",
-      "Tüm bireylerde"
-    ],
-    "correctAnswer": 1,
-    "explanation": "X'e bağlı resesif gen, erkeklerde (XY) yalnızca bir kopya bulunduğundan, heterozygot durumunda fenotipik olarak ortaya çıkar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764500111662_2",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Kırmızı-yeşil renk körlüğü, X kromozomuna bağlı çekinik bir genle kalıtılır. Taşıyıcı bir anne ile sağlam bir babanın çocukları ile ilgili aşağıdakilerden hangisi söylenemez?",
-    "options": [
-      "Kız çocuklarının renk körü olma olasılığı yoktur.",
-      "Erkek çocuklarının yarısı renk körü olur.",
-      "Doğacak çocuğun renk körü olma olasılığı 1/4'tür.",
-      "Kız çocuklarının tamamı sağlam fenotiplidir.",
-      "Baba, kız çocuklarına renk körlüğü alelini aktarır."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu çaprazlamada anne taşıyıcı (X^R X^r) ve baba sağlamdır (X^R Y). Çaprazlama sonucunda oluşabilecek genotipler: X^R X^R (sağlam kız), X^R X^r (taşıyıcı kız), X^R Y (sağlam erkek), X^r Y (renk körü erkek).\nA) Kız çocukları babalarından daima X^R alelini alacağı için renk körü (X^r X^r) olamazlar. Doğrudur.\nB) Erkek çocukları annelerinden 1/2 olasılıkla X^r alelini alacağı için yarısı renk körü olur. Doğrudur.\nC) Dört olası genotipten sadece biri (X^r Y) renk körü fenotipini gösterir. Olasılık 1/4'tür. Doğrudur.\nD) Kız çocukları X^R X^R veya X^R X^r genotipinde olabilir. Her iki durumda da baskın X^R aleli bulunduğundan fenotipleri sağlam olur. Doğrudur.\nE) Baba sağlam (X^R Y) olduğu için renk körlüğü alelini (X^r) taşımaz. Dolayısıyla kız çocuklarına bu aleli aktaramaz. Bu ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528455060_36",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik mühendisliğinde kullanılan CRISPR teknolojisi neyi ifade eder?",
-    "options": [
-      "Gen düzenleme",
-      "DNA dizileme",
-      "Klonlama",
-      "Hibridizasyon",
-      "Protein sentezi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "CRISPR, gen düzenleme teknolojisidir ve belirli genlerin değiştirilmesine olanak tanır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455059_6",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Heterozigot bireyler için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Aynı alelleri taşırlar",
-      "Farklı alelleri taşırlar",
-      "Sadece resesif alel taşırlar",
-      "Sadece dominant alel taşırlar",
-      "Fenotipleri kesinlikle aynıdır"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Heterozigot bireyler, farklı alelleri taşırlar; bu durum fenotipik çeşitliliği artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524743551_26",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik terimlerden hangisi, belirli bir genin bir bireydeki sayısını ifade eder?",
-    "options": [
-      "Alel",
-      "Genotip",
-      "Fenotip",
-      "Homozigot",
-      "Heterozigot"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alel, belirli bir genin bir bireydeki farklı formlarını ifade eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524743550_13",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir genin işlevini kaybetmesine neden olan bir değişikliği ifade eder?",
-    "options": [
-      "Mutasyon",
-      "Dizilim değişikliği",
-      "Silinme",
-      "Ekleme",
-      "Duplikasyon"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mutasyon, bir genin işlevini kaybetmesine neden olan bir değişikliktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528455060_35",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi kalıtsal hastalıkların bir örneğidir?",
-    "options": [
-      "Diyabet",
       "Kistik fibroz",
-      "Kalp hastalığı",
-      "Kanser",
-      "Obezite"
+      "Hemofili",
+      "Fenilketonüri",
+      "Serebral palsi",
+      "Down sendromu"
     ],
     "correctAnswer": 1,
-    "explanation": "Kistik fibroz, genetik bir hastalıktır ve kalıtsal bir bozukluktur.",
+    "explanation": "Hemofili, X'e bağlı resesif olarak kalıtılan bir genetik hastalıktır.",
     "difficulty": 4
-  },
-  {
-    "id": "ai_1764520322576_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Hangi genetik terim, bir organizmanın genetik yapısını ifade eder?",
-    "options": [
-      "Fenotip",
-      "Genotip",
-      "Alel",
-      "Kromozom",
-      "Gen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Genotip, bir organizmanın genetik yapısını ifade ederken, fenotip ise organizmanın gözlemlenebilir özelliklerini ifade eder.",
-    "difficulty": 3
   },
   {
     "id": "ai_1764526205430_0",
@@ -1536,116 +1040,52 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764520322576_0",
+    "id": "ai_1764524743551_16",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "DNA'nın yapısında bulunan temel birim nedir?",
+    "questionText": "Aşağıdaki genetik bilgileri taşıyan moleküllerden hangisi, ribozomlarda protein sentezinde rol oynar?",
     "options": [
-      "Amino asit",
-      "Nükleotid",
-      "Karbonhidrat",
-      "Lipid",
-      "Protein"
-    ],
-    "correctAnswer": 1,
-    "explanation": "DNA, nükleotid adı verilen temel birimlerden oluşur. Her nükleotid, bir şeker, bir fosfat grubu ve bir azotlu baz içerir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575772574_0",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Genetik şifreyi taşıyan molekül hangisidir?",
-    "options": [
-      "Protein",
-      "RNA",
+      "mRNA",
+      "tRNA",
+      "rRNA",
       "DNA",
-      "Lipit",
-      "Karbonhidrat"
+      "Hepsi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Genetik şifre DNA molekülü tarafından taşınır. DNA, genetik bilgiyi depolayan ve ileten bir moleküldür.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764522638226_1",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliği artıran bir faktördür?",
-    "options": [
-      "Mutasyonlar",
-      "Seçilim",
-      "Hibridizasyon",
-      "Klonlama",
-      "Aynı gen havuzu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mutasyonlar, genetik çeşitliliği artıran önemli bir faktördür çünkü yeni gen varyantlarının ortaya çıkmasına neden olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528455060_28",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik mühendisliğinde kullanılan bir enzimdir?",
-    "options": [
-      "DNA polimeraz",
-      "RNA ligaz",
-      "Aminoasit",
-      "Ribozom",
-      "Protein kinaz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "DNA polimeraz, genetik mühendisliğinde yaygın olarak kullanılan bir enzimi ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528455059_15",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki ifadelerden hangisi doğru değildir?",
-    "options": [
-      "Genetik mutasyonlar kalıcı değişikliklerdir.",
-      "Mendel'in yasaları sadece bitkiler için geçerlidir.",
-      "Alel genin alternatif formlarıdır.",
-      "Fenotip çevresel faktörlerden etkilenebilir.",
-      "Genotip, bireyin genetik yapısını ifade eder."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mendel'in yasaları, hem bitkiler hem de hayvanlar için geçerlidir; bu nedenle ifade yanlıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524743551_17",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Mendel'in birinci yasası olan 'Ayrılma Yasası' neyi ifade eder?",
-    "options": [
-      "Allellerin birbirinden bağımsız ayrılması",
-      "Allellerin eşit olarak ayrılması",
-      "Allellerin birbirine karışması",
-      "Fenotiplerin ayrılması",
-      "Genotiplerin ayrılması"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ayrılma Yasası, genlerin eşit olarak ayrıldığını ve gametlerde yer aldığını ifade eder.",
+    "correctAnswer": 4,
+    "explanation": "Hepsi, protein sentezinde farklı rollere sahiptir, ancak mRNA, tRNA ve rRNA özellikle ribozomlarda bulunur.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764526205430_1",
+    "id": "ai_1764520322576_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Bir bireyin genetik yapısında yer alan homolog kromozomların birbirine benzer genleri taşıdığı durum hangi kavramla tanımlanır?",
+    "questionText": "Hangi genetik terim, bir organizmanın genetik yapısını ifade eder?",
     "options": [
-      "Heterozigot",
-      "Homozygot",
-      "Alelik genler",
-      "Krossing over",
-      "Genetik çeşitlilik"
+      "Fenotip",
+      "Genotip",
+      "Alel",
+      "Kromozom",
+      "Gen"
     ],
     "correctAnswer": 1,
-    "explanation": "Homozygot, bir bireyin homolog kromozomları üzerinde aynı alellere sahip olduğu durumu ifade eder. Heterozigot ise farklı alellere sahip olma durumudur.",
-    "difficulty": 4
+    "explanation": "Genotip, bir organizmanın genetik yapısını ifade ederken, fenotip ise organizmanın gözlemlenebilir özelliklerini ifade eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519363571_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi DNA'nın yapısal özellikleri ile ilgili yanlıştır?",
+    "options": [
+      "DNA çift sarmallıdır.",
+      "Adenin ve Timin arasında iki hidrojen bağı bulunur.",
+      "DNA'da urasil bulunur.",
+      "DNA nükleotidleri deoksiriboz, fosfat ve baz içerir.",
+      "DNA'nın yapısında adenozin bulunur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "DNA'nın yapısında urasil bulunmaz; urasil, RNA'nın yapısında yer alır. DNA'da bulunan bazlar adenin, timin, sitozin ve guanindir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764498742130_3",
@@ -1661,6 +1101,22 @@
     ],
     "correctAnswer": 2,
     "explanation": "Mutasyonlar gen düzeyinde veya kromozom düzeyinde olabilir. Kromozom mutasyonları da yapısal veya sayısal olarak ikiye ayrılır. Soru, kromozomun yapısındaki bir değişimi sormaktadır.\n- A, B ve D seçenekleri, DNA dizisindeki tek veya birkaç nükleotidi etkileyen gen mutasyonlarıdır.\n- E seçeneği (Down sendromu), bir kromozomun sayısının değişmesiyle ortaya çıkan sayısal bir kromozom anomalisidir, yapısal değildir.\n- C seçeneğindeki inversiyon ise, bir kromozom parçasının kopup ters dönerek tekrar aynı yere yapışmasıdır. Bu durum kromozomun gen dizilimini, yani yapısını değiştiren bir mutasyon olduğundan doğru cevaptır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Mendel'in kalıtım yasaları hangi organizmalarda ilk kez keşfedilmiştir?",
+    "options": [
+      "Meyve Flies",
+      "Bezelye Bitkileri",
+      "Domates",
+      "Zeytin",
+      "Sarımsak"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mendel'in kalıtım yasaları, bezelye bitkileri üzerinde yapılan deneylerle keşfedilmiştir.",
     "difficulty": 3
   },
   {
@@ -1680,6 +1136,118 @@
     "difficulty": 4
   },
   {
+    "id": "ai_1764500111662_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Kan grubu A olan bir anne ile kan grubu B olan bir babanın ilk çocukları 0 kan grubuna sahip olarak dünyaya gelmiştir. Bu ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı nedir?",
+    "options": [
+      "0",
+      "1/8",
+      "1/4",
+      "1/2",
+      "3/4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çocuğun 0 kan grubuna (genotipi 00) sahip olması, hem anneden hem de babadan 0 alelini aldığını gösterir. Annenin fenotipi A olduğuna göre genotipi A0'dır. Babanın fenotipi B olduğuna göre genotipi B0'dır. Bu iki ebeveynin (A0 x B0) çaprazlanması sonucunda oluşabilecek genotipler ve olasılıkları şöyledir:\n- AB (AB kan grubu): 1/4 olasılık\n- A0 (A kan grubu): 1/4 olasılık\n- B0 (B kan grubu): 1/4 olasılık\n- 00 (0 kan grubu): 1/4 olasılık\nBu nedenle, ailenin ikinci çocuğunun AB kan grubuna sahip olma olasılığı 1/4'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526205430_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Bir bireyin genetik yapısında yer alan homolog kromozomların birbirine benzer genleri taşıdığı durum hangi kavramla tanımlanır?",
+    "options": [
+      "Heterozigot",
+      "Homozygot",
+      "Alelik genler",
+      "Krossing over",
+      "Genetik çeşitlilik"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homozygot, bir bireyin homolog kromozomları üzerinde aynı alellere sahip olduğu durumu ifade eder. Heterozigot ise farklı alellere sahip olma durumudur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520322576_2",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik olaylardan hangisi, genlerin yeni kombinasyonlarının oluşmasına neden olur?",
+    "options": [
+      "Mutasyon",
+      "Meiosis",
+      "Fertilizasyon",
+      "Transkripsiyon",
+      "Translasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meiosis, hücre bölünmesi sırasında genetik materyalin yeniden düzenlenmesiyle yeni gen kombinasyonlarının oluşmasına olanak tanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455059_5",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi Mendel'in kalıtım yasalarından biridir?",
+    "options": [
+      "Bağımsız dağılım",
+      "Kalıtım",
+      "Rekombinasyon",
+      "Mutasyon",
+      "Seçilim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mendel'in bağımsız dağılım yasası, farklı genlerin birbirinden bağımsız olarak kalıtıldığını belirtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522638226_5",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik kodun özelliklerinden biri değildir?",
+    "options": [
+      "Üçlü kodlar içerir",
+      "Düzensizdir",
+      "Evrenseldir",
+      "Hiyerarşiktir",
+      "Redundant'tır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetik kod, üçlü kodlar içerir, evrenseldir ve redundant'tır; ancak düzensiz değildir, belirli bir düzen ve yapı içerir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638226_7",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hangi genetik terim, bireylerin fenotipik özelliklerini belirleyen genetik bilgi bütününü ifade eder?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Homozygot",
+      "Heterozygot",
+      "Alelleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genotip, bir bireyin genetik yapısını ifade ederken, fenotip ise bu genetik yapının çevresel etmenlerle birleşerek oluşturduğu özelliklerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524743550_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi, bir organizmanın genetik yapısını belirleyen genlerin toplamını ifade eder?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Alel",
+      "Kromozom",
+      "DNA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genotip, bir organizmanın genetik yapısını belirleyen genlerin toplamını ifade eder.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764528455060_22",
     "subjectId": "biy",
     "topic": "Genetik",
@@ -1696,35 +1264,19 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524743550_1",
+    "id": "ai_1764575772574_8",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Mendel'in yasalarına göre, bir karakterin iki alleli olduğunda, bu allellerin birbirine olan etkisi nasıl tanımlanır?",
+    "questionText": "Aşağıdaki genetik çeşitlilik kaynaklarından hangisi doğal seçilim tarafından etkilenmez?",
     "options": [
-      "Dominant",
-      "Recessive",
-      "Kozmopolit",
-      "Hibrid",
-      "İntermediate"
+      "Mutasyon",
+      "Gen akışı",
+      "Genetik sürüklenme",
+      "Krossing over",
+      "Bağışıklık"
     ],
-    "correctAnswer": 0,
-    "explanation": "Dominant allel, diğer allelin etkisini tamamen baskılama yeteneğine sahip olan alleldir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575772574_5",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik hastalıklardan hangisi kalıtsal olarak geçiş gösterir?",
-    "options": [
-      "Down Sendromu",
-      "Cystic Fibrosis",
-      "Kistik Fibrozis",
-      "Alzheimer",
-      "Kanser"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kistik Fibrozis, genetik bir hastalıktır ve kalıtsal olarak geçiş gösterir. Diğerleri genellikle çevresel etkilere bağlıdır.",
+    "correctAnswer": 4,
+    "explanation": "Bağışıklık, genetik çeşitlilik kaynağı değil, organizmaların çevresel koşullara yanıt verme yeteneğidir. Diğerleri genetik çeşitliliği etkiler.",
     "difficulty": 1
   },
   {
@@ -1744,52 +1296,324 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524743550_11",
+    "id": "ai_1764528455060_25",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki genetik kavramlardan hangisi, iki farklı tür arasında gen transferini ifade eder?",
+    "questionText": "Aşağıdakilerden hangisi genetik mühendisliğinde kullanılan bir terimdir?",
     "options": [
-      "Translokasyon",
-      "Genetik mühendislik",
       "Mutasyon",
-      "Eşeysel üreme",
-      "Hibridizasyon"
+      "Adaptasyon",
+      "Rekombinasyon",
+      "Seçilim",
+      "Fenotip"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Rekombinasyon, genetik mühendisliğinde kullanılan bir terimdir ve genetik materyalin yeniden düzenlenmesini ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743551_22",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik süreçlerden hangisi, doğal seleksiyon yoluyla türlerin evrimini sağlar?",
+    "options": [
+      "Uyum",
+      "Adaptasyon",
+      "Mutasyon",
+      "Hibridizasyon",
+      "Hepsi"
     ],
     "correctAnswer": 1,
-    "explanation": "Genetik mühendislik, iki farklı tür arasında gen transferini ifade eder.",
+    "explanation": "Adaptasyon, doğal seleksiyon yoluyla türlerin evrimini sağlayan bir süreçtir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764522638226_5",
+    "id": "ai_1764521061445_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik kodun özelliklerinden biri değildir?",
+    "questionText": "DNA'daki adenine (A) bazının karşısındaki baz hangisidir?",
     "options": [
-      "Üçlü kodlar içerir",
-      "Düzensizdir",
-      "Evrenseldir",
-      "Hiyerarşiktir",
-      "Redundant'tır"
+      "Timin (T)",
+      "Sitozin (C)",
+      "Guanin (G)",
+      "Urasil (U)",
+      "Adenin (A)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Genetik kod, üçlü kodlar içerir, evrenseldir ve redundant'tır; ancak düzensiz değildir, belirli bir düzen ve yapı içerir.",
+    "correctAnswer": 0,
+    "explanation": "DNA molekülünde adenine (A) bazının karşısında her zaman timin (T) bulunur. Bu baz eşleşmesi, DNA'nın yapısal bütünlüğünü korur ve genetik bilginin doğru bir şekilde kopyalanmasını sağlar.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764576904208_0",
+    "id": "ai_1764498742130_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "DNA'nın temel yapı birimi nedir?",
+    "questionText": "Bezelyelerde sarı tohum rengi aleli (S), yeşil tohum rengi aleline (s) ve düzgün tohum şekli aleli (D), buruşuk tohum şekli aleline (d) baskındır. Genler farklı kromozomlar üzerinde bulunmaktadır. Heterozigot sarı ve düzgün tohumlu iki bezelyenin (SsDd x SsDd) çaprazlanması sonucunda, yeşil ve düzgün tohumlu bir bezelyenin oluşma olasılığı nedir?",
     "options": [
-      "Amino asit",
-      "Nükleotid",
-      "Protein",
-      "Karbonhidrat",
-      "Yağ asidi"
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4",
+      "3/8"
     ],
     "correctAnswer": 1,
-    "explanation": "DNA'nın temel yapı birimi nükleotiddir. Nükleotid, bir fosfat grubu, bir şeker ve bir azotlu bazdan oluşur.",
-    "difficulty": 2
+    "explanation": "Bu bir dihibrit çaprazlamadır ve genler bağımsız dağıldığı için her bir özellik için olasılıklar ayrı ayrı hesaplanıp çarpılır. \n1. Tohum rengi için çaprazlama: Ss x Ss -> 1/4 SS, 2/4 Ss, 1/4 ss. Yeşil tohumlu (ss) olma olasılığı 1/4'tür. \n2. Tohum şekli için çaprazlama: Dd x Dd -> 1/4 DD, 2/4 Dd, 1/4 dd. Düzgün tohumlu (DD veya Dd) olma olasılığı (1/4 + 2/4) = 3/4'tür. \n3. Yeşil ve düzgün tohumlu (ssD_) bir bezelyenin oluşma olasılığı, bu iki bağımsız olayın olasılıklarının çarpımına eşittir: P(ss) * P(D_) = (1/4) * (3/4) = 3/16.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455060_21",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik olarak bağımsız olarak kalıtılan iki karakterin birlikte kalıtımı hangi kural ile açıklanır?",
+    "options": [
+      "Mendel'in bağımsız dağılım yasası",
+      "Mendel'in birinci yasası",
+      "Mendel'in ikinci yasası",
+      "Bağımlı kalıtım",
+      "Kalıtsal varyasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mendel'in bağımsız dağılım yasası, genlerin birbirinden bağımsız olarak kalıtılmasını açıklar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575772574_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Mendel'in bezelye deneyleri hangi kalıtım yasasını ortaya koymuştur?",
+    "options": [
+      "Bağımsız Ayırma Yasası",
+      "Dominantlık Yasası",
+      "Segregasyon Yasası",
+      "Karmaşık Kalıtım Yasası",
+      "Çaprazlama Yasası"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mendel'in bezelye deneyleri, genlerin ayrılma ve yeniden bir araya gelme prensiplerini açıklayan Segregasyon Yasası'nı ortaya koymuştur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524743551_23",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kalıtım türlerinden hangisi, bir bireyin iki aynı allel taşıdığı durumu ifade eder?",
+    "options": [
+      "Heterozigot",
+      "Homozigot",
+      "Kodominant",
+      "Intermediary",
+      "Fenotip"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homozigot, bir bireyin iki aynı allel taşıdığı durumu ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455060_34",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi genetik testlerde kullanılan bir yöntemdir?",
+    "options": [
+      "Aseksüel üreme",
+      "Klonlama",
+      "DNA dizileme",
+      "Evrim",
+      "Mezoklon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DNA dizileme, genetik testlerde yaygın olarak kullanılan bir yöntemdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575772574_5",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik hastalıklardan hangisi kalıtsal olarak geçiş gösterir?",
+    "options": [
+      "Down Sendromu",
+      "Cystic Fibrosis",
+      "Kistik Fibrozis",
+      "Alzheimer",
+      "Kanser"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kistik Fibrozis, genetik bir hastalıktır ve kalıtsal olarak geçiş gösterir. Diğerleri genellikle çevresel etkilere bağlıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528455060_28",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik mühendisliğinde kullanılan bir enzimdir?",
+    "options": [
+      "DNA polimeraz",
+      "RNA ligaz",
+      "Aminoasit",
+      "Ribozom",
+      "Protein kinaz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DNA polimeraz, genetik mühendisliğinde yaygın olarak kullanılan bir enzimi ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743550_4",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi, bir bireyin dış görünümünü ifade eder?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Kromozom",
+      "DNA",
+      "Allel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fenotip, bir bireyin dış görünümünü veya gözlemlenebilir özelliklerini ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575772574_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik şifreyi taşıyan molekül hangisidir?",
+    "options": [
+      "Protein",
+      "RNA",
+      "DNA",
+      "Lipit",
+      "Karbonhidrat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Genetik şifre DNA molekülü tarafından taşınır. DNA, genetik bilgiyi depolayan ve ileten bir moleküldür.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524743550_14",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki terimlerden hangisi, bir bireyin genetik yapısını oluşturan tüm genlerin toplamıdır?",
+    "options": [
+      "Genom",
+      "Alelik",
+      "Fenotip",
+      "Genotip",
+      "Kromozom"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Genom, bir bireyin genetik yapısını oluşturan tüm genlerin toplamıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522638226_0",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetikteki temel birim nedir?",
+    "options": [
+      "Protein",
+      "DNA",
+      "RNA",
+      "Chromozom",
+      "Amino Asit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genetikteki temel birim DNA'dır. DNA, genetik bilgiyi taşıyan ve nesilden nesile aktaran moleküldür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_13",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın çift sarmal yapısını kim keşfetmiştir?",
+    "options": [
+      "James Watson",
+      "Francis Crick",
+      "Rosalind Franklin",
+      "Linus Pauling",
+      "Gregor Mendel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Watson ve Crick, DNA'nın çift sarmal yapısını keşfettikleri için bu alanda en çok bilinen bilim insanlarıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455060_23",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi bir genin işlevini etkileyen bir faktör değildir?",
+    "options": [
+      "Mutasyon",
+      "Etkileşim",
+      "Çevresel faktörler",
+      "Kromozom sayısı",
+      "Alel çeşitliliği"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kromozom sayısı, bir genin spesifik işlevini etkilemez; ancak genetik materyalin miktarını belirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764521061445_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kavramlardan hangisi genetik bilginin bireyler arasında aktarımını tanımlar?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Mendel Genetik Kuralları",
+      "Kalıtım",
+      "Hibridizasyon"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kalıtım, genetik bilginin bireyler arasında aktarımını tanımlayan bir süreçtir. Bu süreç, genlerin nesilden nesile geçişini sağlar ve bireylerin özelliklerini belirler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455060_19",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi genetik varyasyonu artıran bir faktördür?",
+    "options": [
+      "Aseksüel üreme",
+      "Mutasyon",
+      "Gen havuzu",
+      "Homozigotluk",
+      "Seçilim"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mutasyonlar, genetik varyasyonu artıran önemli bir faktördür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528455060_16",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıda verilen genetik terimlerden hangisi, bir genin birden fazla alelinin varlığını ifade eder?",
+    "options": [
+      "Heterozigot",
+      "Homozygot",
+      "Kodominans",
+      "Polimorfizm",
+      "Epistaz"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Polimorfizm, bir genin birden fazla alelinin varlığını ifade eden bir terimdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743550_8",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelere göre hangisi doğru değildir?",
+    "options": [
+      "DNA, genetik bilgiyi taşır",
+      "RNA, protein sentezinde rol oynar",
+      "Kromozomlar, genleri taşır",
+      "Tüm canlıların DNA'sı vardır",
+      "Fenotip, yalnızca genotipe bağlıdır"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Fenotip, genotipin yanı sıra çevresel faktörlerden de etkilenir.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764576904208_1",
@@ -1808,6 +1632,278 @@
     "difficulty": 2
   },
   {
+    "id": "ai_1764528455060_17",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "DNA'nın replikasyonu sırasında hangi enzim DNA'nın ikili sarmalını açar?",
+    "options": [
+      "DNA polimeraz",
+      "Helikaz",
+      "Ligaz",
+      "Primaz",
+      "Topoizomeraz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Helikaz enzimi, DNA'nın ikili sarmalını açarak replikasyon sürecini başlatır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528455060_37",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kavramlardan hangisi genetik çeşitliliği azaltan bir durumdur?",
+    "options": [
+      "Aseksüel üreme",
+      "Cinsiyetli üreme",
+      "Seçilim",
+      "Adaptasyon",
+      "Mutasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aseksüel üreme, genetik çeşitliliği azaltan bir durumdur çünkü bireyler genetik olarak birbirinin kopyasıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743551_27",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi genetik mühendislikte kullanılan bir yöntemdir?",
+    "options": [
+      "Klonlama",
+      "Transgenik organizmalar",
+      "Gen düzenleme",
+      "CRISPR",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm bu yöntemler genetik mühendislikte kullanılmaktadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524743551_26",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi, belirli bir genin bir bireydeki sayısını ifade eder?",
+    "options": [
+      "Alel",
+      "Genotip",
+      "Fenotip",
+      "Homozigot",
+      "Heterozigot"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alel, belirli bir genin bir bireydeki farklı formlarını ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522638226_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik hastalıklara örnek olarak verilmez?",
+    "options": [
+      "Kistik Fibrozis",
+      "Hemofili",
+      "Diyabet",
+      "Orak Hücre Anemisi",
+      "Huntington Hastalığı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diyabet genetik bir hastalık olarak sınıflandırılmamaktadır; çevresel ve yaşam tarzı faktörleri ile ilişkilidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500111662_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetikle ilgili temel kavramlar hakkında aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Bir karakterin kalıtımından sorumlu genin alternatif formlarının her birine alel denir.",
+      "Bir canlının genetik yapısının tamamına genotip, bu genetik yapı ve çevresel faktörlerin etkisiyle ortaya çıkan dış görünüşüne fenotip denir.",
+      "Diploit bir canlıda, bir karakterle ilgili alellerin ikisi de aynı ise bu duruma homozigot, farklı ise heterozigot denir.",
+      "Baskın alel, etkisini sadece homozigot durumda gösterebilen aleldir.",
+      "Eş baskınlık durumunda, heterozigot bireyde her iki alelin de etkisi fenotipte tam olarak gözlemlenir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A, B, C ve E şıkları genetikle ilgili temel kavramları doğru bir şekilde tanımlamaktadır. Ancak D şıkkı yanlıştır. Etkisini sadece homozigot durumda (örneğin aa) gösterebilen alele 'çekinik (resesif) alel' denir. 'Baskın (dominant) alel' ise etkisini hem homozigot (AA) hem de heterozigot (Aa) durumda gösteren aleldir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524743550_15",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kalıtım türlerinden hangisi, heterozigot bireylerin her iki alelinin de fenotipte etkili olduğu durumu tanımlar?",
+    "options": [
+      "Dominant kalıtım",
+      "Resesif kalıtım",
+      "Kodominant kalıtım",
+      "Intermediary kalıtım",
+      "Hibrid kalıtım"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kodominant kalıtım, heterozigot bireylerde her iki alelin de fenotipte etkili olduğu durumu tanımlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455059_1",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik çeşitliliğin temel kaynağı nedir?",
+    "options": [
+      "Mutasyonlar",
+      "Mezozoyik devri",
+      "Dölleme",
+      "Homozigotluk",
+      "Süreklilik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mutasyonlar, genetik çeşitliliğin temel kaynağını oluşturur; genetik materyalin değişmesine yol açar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528455060_32",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi genetik mühendisliği uygulamalarından biridir?",
+    "options": [
+      "Doğal seleksiyon",
+      "Evrim",
+      "DNA dizileme",
+      "Adaptasyon",
+      "Kalıtım"
+    ],
+    "correctAnswer": 2,
+    "explanation": "DNA dizileme, genetik mühendisliği uygulamalarından biridir ve genetik bilginin belirlenmesinde kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743551_25",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi yanlış bir genetik bilgi içerir?",
+    "options": [
+      "Kromozomlar DNA'dan oluşur",
+      "Genler, kromozomlarda bulunur",
+      "DNA, protein sentezini kontrol eder",
+      "Tüm canlılar DNA taşır",
+      "Kromozom sayısı her türde aynıdır"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kromozom sayısı türler arasında değişiklik göstermektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455059_14",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Karakterlerin kalıtımında hangi tür etkileşim gözlemlenir?",
+    "options": [
+      "Tam baskınlık",
+      "Kısmi baskınlık",
+      "Epistaz",
+      "Çoklu alel",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Karakterlerin kalıtımında tam baskınlık, kısmi baskınlık, epistaz ve çoklu alel gibi etkileşimler gözlemlenir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522638227_11",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik olarak belirlenen bir özelliğin, iki farklı alel içeren bireylerde nasıl ifade edildiği nedir?",
+    "options": [
+      "Homozygot",
+      "Heterozygot",
+      "Fenotip",
+      "Genotip",
+      "Kromozom"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İki farklı alel içeren bireyler heterozygot olarak tanımlanır; bu durum genetik çeşitliliği artırır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522638227_10",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik mühendisliğinde kullanılan 'CRISPR' teknolojisi neyi ifade eder?",
+    "options": [
+      "Gen dizilimi",
+      "Gen düzenleme",
+      "Klonlama",
+      "DNA sentezi",
+      "RNA transkripti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRISPR, gen düzenleme teknolojisi olarak bilinir ve belirli genleri değiştirmek veya silmek için kullanılır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528455059_12",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hangi genetik terim, bir organizmanın genetik materyalinin toplamını ifade eder?",
+    "options": [
+      "Genom",
+      "Alelik",
+      "Fenotip",
+      "Genotip",
+      "Kromozom"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Genom, bir organizmanın genetik materyalinin toplamını ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524743551_17",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Mendel'in birinci yasası olan 'Ayrılma Yasası' neyi ifade eder?",
+    "options": [
+      "Allellerin birbirinden bağımsız ayrılması",
+      "Allellerin eşit olarak ayrılması",
+      "Allellerin birbirine karışması",
+      "Fenotiplerin ayrılması",
+      "Genotiplerin ayrılması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayrılma Yasası, genlerin eşit olarak ayrıldığını ve gametlerde yer aldığını ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528455059_8",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi doğru değildir?",
+    "options": [
+      "Genetik çeşitlilik, evrim için gereklidir.",
+      "Alel, genin farklı formudur.",
+      "Aynı genin farklı alelleri, aynı özellikleri taşır.",
+      "Fenotip, genotipten etkilenir.",
+      "DNA, genetik bilginin taşıyıcısıdır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aynı genin farklı alelleri, genellikle farklı özellikleri taşır; bu nedenle ifade yanlıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575772574_4",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hücredeki DNA'nın yapısını belirleyen bağ hangisidir?",
+    "options": [
+      "Hidrojen bağı",
+      "Kovalent bağ",
+      "Iyonik bağ",
+      "Disülfid bağı",
+      "Van der Waals bağı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DNA'nın yapısında yer alan bazlar arasındaki etkileşim hidrojen bağları ile sağlanır.",
+    "difficulty": 1
+  },
+  {
     "id": "ai_1764576904208_2",
     "subjectId": "biy",
     "topic": "Genetik",
@@ -1824,99 +1920,483 @@
     "difficulty": 2
   },
   {
-    "id": "ai_1764576904208_3",
+    "id": "ai_1764578748928_0",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "DNA'daki genetik bilgi hangi süreçle RNA'ya aktarılır?",
+    "questionText": "Bir organizmanın genetik yapısını belirleyen DNA'nın temel yapı birimi nedir?",
     "options": [
-      "Replikasyon",
-      "Transkripsiyon",
-      "Translasyon",
-      "Mutasyon",
-      "Fagositik"
+      "Amino asit",
+      "Nükleotid",
+      "Protein",
+      "Karbonhidrat",
+      "Lipid"
     ],
     "correctAnswer": 1,
-    "explanation": "DNA'daki genetik bilgi, transkripsiyon süreci ile RNA'ya aktarılır.",
-    "difficulty": 2
+    "explanation": "DNA'nın temel yapı birimi nükleotiddir. Nükleotidler, bir fosfat grubu, bir şeker ve bir bazdan oluşur.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764576904208_4",
+    "id": "ai_1764578748928_1",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Hangi genetik kavram, bir genin farklı formlarını ifade eder?",
-    "options": [
-      "Kromozom",
-      "Alel",
-      "Gen",
-      "Fenotip",
-      "Genotip"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Alel, bir genin farklı formlarını ifade eder. Örneğin, bir genin renk ile ilgili iki farklı aleli olabilir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576904208_5",
-    "subjectId": "biy",
-    "topic": "Genetik",
-    "questionText": "Aşağıdakilerden hangisi genetik çeşitliliğin bir kaynağı değildir?",
+    "questionText": "Genetik farklılıkların oluşumuna en çok katkıda bulunan mekanizma hangisidir?",
     "options": [
       "Mutasyon",
-      "Eşeyli üreme",
-      "Eşeysiz üreme",
+      "Seçilim",
       "Gen akışı",
-      "Genetik sürüklenme"
+      "Bağıl fitness",
+      "Adaptasyon"
     ],
-    "correctAnswer": 2,
-    "explanation": "Eşeysiz üreme genetik çeşitliliğin kaynağı değildir çünkü bu durumda genetik materyal aynen kopyalanır.",
-    "difficulty": 2
+    "correctAnswer": 0,
+    "explanation": "Mutasyonlar, DNA'daki kalıcı değişikliklerdir ve genetik çeşitliliğin temel kaynağını oluşturur.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764576904208_6",
+    "id": "ai_1764578748928_2",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki hangi terim, bir genin fenotipik etkisinin diğer bir gen tarafından tamamen baskılandığı durumu ifade eder?",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi heterozigot bir bireyi tanımlar?",
     "options": [
-      "Kodominans",
-      "Dominantlık",
-      "Rekabet",
-      "Epistaz",
-      "Mutasyon"
+      "AA",
+      "Aa",
+      "aa",
+      "BB",
+      "Bb"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heterozigot, farklı alellere sahip genotipleri tanımlar; bu durumda 'Aa' heterozigot bir durumu ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_3",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "İki heterozigot bireyin çaprazlanması sonucunda oluşan fenotip oranı nedir?",
+    "options": [
+      "1:1",
+      "3:1",
+      "9:3:3:1",
+      "1:2:1",
+      "0:1"
     ],
     "correctAnswer": 3,
-    "explanation": "Epistaz, bir genin fenotipik etkisinin diğer bir gen tarafından tamamen baskılandığı durumu ifade eder.",
-    "difficulty": 2
+    "explanation": "İki heterozigot birey (Aa x Aa) çaprazlandığında fenotip oranı 3:1 olur, yani üç dominant ve bir resesif özellik.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764576904208_7",
+    "id": "ai_1764578748928_4",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki hangi yapılar DNA'nın yapısında bulunmaz?",
+    "questionText": "Aşağıdakilerden hangisi genetik mühendisliğin bir uygulamasıdır?",
     "options": [
-      "Nükleotid",
-      "Amino asit",
-      "Şeker",
-      "Fosfat",
-      "Azotlu baz"
+      "Klasik seleksiyon",
+      "Klonlama",
+      "Melezleme",
+      "Hibridizasyon",
+      "Doğal seleksiyon"
     ],
     "correctAnswer": 1,
-    "explanation": "DNA'nın yapısında nükleotid, şeker, fosfat ve azotlu baz bulunurken, amino asit DNA'nın yapısında yer almaz.",
-    "difficulty": 2
+    "explanation": "Klonlama, belirli genetik özelliklere sahip organizmaların kopyalanması işlemidir ve genetik mühendislikte sıklıkla kullanılır.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764576904208_8",
+    "id": "ai_1764578748928_5",
     "subjectId": "biy",
     "topic": "Genetik",
-    "questionText": "Aşağıdaki hangi hücre bölünmesi, genetik çeşitliliği artıran bir süreçtir?",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi bir genin farklı formlarını ifade eder?",
     "options": [
-      "Mitoz",
-      "Mayoz",
-      "Fagositoz",
-      "Bölünme",
-      "Replikasyon"
+      "Fenotip",
+      "Genotip",
+      "Alell",
+      "Kromozom",
+      "DNA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Aleller, bir genin farklı formlarıdır ve bireylerin genetik çeşitliliğini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_6",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdakilerden hangisi X'e bağlı genetik hastalıklara örnek değildir?",
+    "options": [
+      "Hemofili",
+      "Duchenne kas distrofisi",
+      "Kistik fibrozis",
+      "Renk körlüğü",
+      "Sideroblastik anemi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kistik fibrozis, otozomal resesif bir hastalıktır ve X'e bağlı değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_7",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi kromozomların yapısı ile ilgili yanlıştır?",
+    "options": [
+      "Kromozomlar DNA ve proteinlerden oluşur.",
+      "Kromozomlar hücre bölünmesi sırasında görünür hale gelir.",
+      "Her kromozom bir gen dizisini taşır.",
+      "İnsanlarda 46 kromozom vardır.",
+      "Kromozomlar sadece mitoz sırasında oluşur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Kromozomlar mitoz ve meiosis sırasında görünür hale gelir, ancak sadece mitoz sırasında oluşmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_8",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik çeşitliliği artıran mekanizmalar arasında hangisi yer almaz?",
+    "options": [
+      "Mutasyon",
+      "Gen akışı",
+      "Cinsiyetli üreme",
+      "Seçilim",
+      "Ayrımcılık"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ayrımcılık genetik çeşitliliği artıran bir mekanizma değildir; aksine, belirli alellerin kaybolmasına yol açabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_9",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi genetik kodun özelliklerinden biri değildir?",
+    "options": [
+      "Üçlü kodonlar halinde okunur.",
+      "Aynı amino asidi birden fazla kodon karşılayabilir.",
+      "Genetik kod evrenseldir.",
+      "Kodlar sadece DNA üzerinde bulunur.",
+      "Kodlar belirli bir amino asidi belirler."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Genetik kod, hem DNA hem de RNA üzerinde bulunur; bu nedenle 'sadece DNA üzerinde bulunur' ifadesi yanlıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_10",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi bir bireyin fiziksel görünümünü ifade eder?",
+    "options": [
+      "Genotip",
+      "Alell",
+      "Fenotip",
+      "Kromozom",
+      "DNA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fenotip, bir bireyin fiziksel görünümünü veya gözlemlenebilir özelliklerini ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_11",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kavramlardan hangisi genetik mühendislikte kullanılan bir teknik değildir?",
+    "options": [
+      "CRISPR",
+      "PCR",
+      "Klonlama",
+      "Mendel denemeleri",
+      "Transgenik organizmalar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mendel denemeleri, kalıtımın temel ilkelerini inceleyen klasik bir yöntemdir, genetik mühendislikte doğrudan bir teknik değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_12",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki durumlardan hangisi genetik varyasyon yaratmaz?",
+    "options": [
+      "Mutasyonlar",
+      "Cinsiyetli üreme",
+      "Gen akışı",
+      "Aşırı seçilim",
+      "Hücre bölünmesi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Aşırı seçilim, belirli özelliklerin yayılmasına neden olabilir, ancak doğrudan genetik varyasyon yaratmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748928_13",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi çevresel faktörlerin etkisini en iyi açıklar?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Alell",
+      "Kromozom",
+      "DNA"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fenotip, bireyin çevresel faktörlerden etkilenen gözlemlenebilir özellikleridir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_14",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Genetik bilginin aktarımı hangi molekül aracılığıyla gerçekleşir?",
+    "options": [
+      "RNA",
+      "DNA",
+      "Protein",
+      "Karbonhidrat",
+      "Lipid"
     ],
     "correctAnswer": 1,
-    "explanation": "Mayoz bölünmesi, genetik çeşitliliği artıran bir süreçtir ve gametlerin (yumurta ve sperm) oluşumunu sağlar.",
-    "difficulty": 2
+    "explanation": "Genetik bilgi, DNA molekülü aracılığıyla aktarılır ve RNA, DNA'dan protein sentezine kadar olan süreçte rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_15",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki kromozom sayısı hangisi bir insan hücresinde bulunmaz?",
+    "options": [
+      "22 çift otozomal kromozom",
+      "1 çift cinsiyet kromozomu",
+      "44 kromozom",
+      "46 kromozom",
+      "23 kromozom"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İnsan hücresinde toplamda 46 kromozom bulunur; bu yüzden yalnızca 44 kromozom bulunmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_16",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi genetik çeşitliliği artırmaz?",
+    "options": [
+      "Mutasyon",
+      "Cinsiyetli üreme",
+      "Gen akışı",
+      "Klonlama",
+      "Hibridizasyon"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Klonlama, genetik çeşitliliği artırmaz; aksine, bireylerin genetik olarak aynı olmasına yol açar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_17",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi bir bireyin genetik yapısını temsil eder?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Kromozom",
+      "DNA",
+      "RNA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genotip, bir bireyin genetik yapısını ifade ederken, fenotip ise gözlemlenebilir özellikleri ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_18",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki hastalıklardan hangisi genetik olarak kalıtsaldır?",
+    "options": [
+      "Diyabet",
+      "Alzheimer",
+      "Kistik fibrozis",
+      "Obezite",
+      "Hiperlipidemi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kistik fibrozis, genetik geçişli bir hastalıktır ve otozomal resesif kalıtım gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_19",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Bir bireyin genetik yapısını belirleyen kromozom sayısı hangi hücre türünde en yüksektir?",
+    "options": [
+      "Sperm hücresi",
+      "Yumurta hücresi",
+      "Somatik hücre",
+      "Kök hücre",
+      "Sinir hücresi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Somatik hücreler, organizmanın tüm genetik materyalini taşıdığından kromozom sayısı en yüksektir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_20",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik terimlerden hangisi resesif bir aleli ifade eder?",
+    "options": [
+      "AA",
+      "Aa",
+      "aa",
+      "BB",
+      "Bb"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Resesif allel, yalnızca iki kopyası olduğunda fenotipte belirginleşir; bu durumda 'aa' resesif bir durumu ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_21",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki DNA yapısı ile ilgili ifadelerden hangisi yanlıştır?",
+    "options": [
+      "DNA çift sarmallıdır.",
+      "DNA'nın yapısında deoksiriboz bulunur.",
+      "DNA'daki bazlar A, T, C ve G'dir.",
+      "DNA'da urasil bulunur.",
+      "DNA replikasyonu sırasında DNA polimeraz enzimi görev alır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "DNA'da urasil değil, timin bulunur; urasil RNA'da bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_22",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Hücre döngüsünün hangi aşamasında DNA sentezi gerçekleşir?",
+    "options": [
+      "G1 aşaması",
+      "S aşaması",
+      "G2 aşaması",
+      "M aşaması",
+      "Citoz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "DNA sentezi S (sentez) aşamasında gerçekleşir; bu aşamada hücre DNA'sını kopyalar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_23",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik mühendislik tekniklerinden hangisi DNA'da belirli bir bölgeyi kesmek için kullanılır?",
+    "options": [
+      "PCR",
+      "Klonlama",
+      "CRISPR",
+      "Sekanslama",
+      "Transgenik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CRISPR, DNA'da belirli bir bölgeyi kesmek ve düzenlemek için kullanılan bir tekniktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_24",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi bir bireyin genetik çeşitliliğini azaltır?",
+    "options": [
+      "Küçük popülasyonlar",
+      "Mutasyonlar",
+      "Gen akışı",
+      "Cinsiyetli üreme",
+      "Seçilim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Küçük popülasyonlar, genetik çeşitliliği azaltabilir; çünkü gen havuzu daralır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_25",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi genetik analizde kullanılan bir yöntem değildir?",
+    "options": [
+      "Kromozom analizi",
+      "DNA dizileme",
+      "PCR",
+      "Mendel denemeleri",
+      "Gen ekspresyonu analizi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mendel denemeleri, kalıtım ilkelerini inceleyen klasik bir yöntemdir; genetik analiz teknikleri arasında yer almaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_26",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki durumlardan hangisi genetik hastalıkların tetikleyicisi olabilir?",
+    "options": [
+      "Beslenme",
+      "Çevresel faktörler",
+      "Genetik mutasyonlar",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Genetik hastalıkların tetikleyicileri arasında beslenme, çevresel faktörler ve genetik mutasyonlar yer alabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_27",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki ifadelerden hangisi genetik bilginin aktarımında rol oynamaz?",
+    "options": [
+      "DNA",
+      "RNA",
+      "Ribozom",
+      "Protein",
+      "Nükleotid"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Protein, genetik bilginin aktarımında rol oynayan bir molekül değildir; DNA ve RNA bu süreçte rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_28",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik kavramlardan hangisi genetik mühendislikte kullanılan bir terimdir?",
+    "options": [
+      "Fenotip",
+      "Genotip",
+      "Transgenik",
+      "Alell",
+      "Kromozom"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transgenik, genetik mühendislikte belirli bir genin başka bir organizmaya aktarılması anlamında kullanılan bir terimdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578748929_29",
+    "subjectId": "biy",
+    "topic": "Genetik",
+    "questionText": "Aşağıdaki genetik hastalıklardan hangisi otozomal dominant kalıtım gösterir?",
+    "options": [
+      "Kistik fibrozis",
+      "Huntington hastalığı",
+      "Hemofili",
+      "Sickle cell anemi",
+      "Duchenne kas distrofisi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Huntington hastalığı, otozomal dominant kalıtım gösteren bir genetik hastalıktır.",
+    "difficulty": 4
   }
 ]
