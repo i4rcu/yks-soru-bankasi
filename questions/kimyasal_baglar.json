@@ -1,147 +1,163 @@
 [
   {
-    "id": "ai_1764524311830_24",
+    "id": "ai_1764524311829_6",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Bağ türleri arasında aşağıdakilerden hangisi en güçlü bağdır?",
+    "questionText": "Hangi bileşik kovalent bağlıdır?",
     "options": [
-      "Hidrojen bağı",
+      "NaCl",
+      "K2O",
+      "HCl",
+      "MgF2",
+      "CaO"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCl, hidrojen ve klor atomları arasında kovalent bağ ile oluşur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524311830_17",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi bağ, bir atomun diğerinin elektronunu tamamen aldığı durumda oluşur?",
+    "options": [
       "Kovalent bağ",
       "İyonik bağ",
       "Metallic bağ",
+      "Hidrojen bağı",
       "Van der Waals kuvveti"
     ],
-    "correctAnswer": 2,
-    "explanation": "İyonik bağ, kovalent ve hidrojen bağlarına göre daha güçlüdür.",
+    "correctAnswer": 1,
+    "explanation": "İyonik bağ, bir atomun elektronunu tamamen alması durumunda oluşur.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764526697996_14",
+    "id": "ai_1764526697996_12",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte en fazla kovalent bağ sayısı hangisindedir?",
-    "options": [
-      "C2H6",
-      "C2H4",
-      "C2H2",
-      "C3H8",
-      "C5H12"
-    ],
-    "correctAnswer": 2,
-    "explanation": "C2H2 (asetilen) iki karbon arasında üçlü kovalent bağ içerir, bu nedenle en fazla kovalent bağ sayısına sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311830_22",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi hidrojen bağı ile etkileşim gösterir?",
-    "options": [
-      "CCl4",
-      "H2S",
-      "H2O",
-      "CH4",
-      "O2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O, hidrojen bağı oluşturan bir moleküldür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526697996_23",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi kovalent bağ ile oluşmuştur?",
-    "options": [
-      "SO2",
-      "NaCl",
-      "MgCl2",
-      "CaO",
-      "Fe2O3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "SO2, kükürt ve oksijen arasında kovalent bağ ile oluşmuş bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_23",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi metalik bağın bir özelliği değildir?",
-    "options": [
-      "İyi elektrik iletkenliği",
-      "Malleabilite",
-      "Kristal yapılar",
-      "Düşük erime noktaları",
-      "Yüksek erime noktaları"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Metal bağları genellikle yüksek erime noktalarına sahip olup, düşük erime noktası metal bağının özelliği değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_7",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi üçlü kovalent bağ içerir?",
+    "questionText": "Hangi molekülün yapısında üçlü kovalent bağ bulunur?",
     "options": [
       "N2",
-      "CO2",
       "O2",
-      "H2O",
+      "CO2",
+      "H2",
       "CH4"
     ],
     "correctAnswer": 0,
-    "explanation": "N2 molekülü, iki azot atomu arasında üçlü kovalent bağ ile bağlanmıştır.",
+    "explanation": "N2, iki nitrojen atomu arasında üçlü kovalent bağ bulunur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764499851398_0",
+    "id": "ai_1764498516247_1",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Magnezyum klorür (MgCl₂) ve Karbon tetraklorür (CCl₄) bileşikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (₆C, ₈O, ₁₂Mg, ₁₇Cl)",
+    "questionText": "NaCl, H₂O ve CH₄ bileşiklerinin standart koşullardaki erime noktaları arasındaki ilişki aşağıdakilerden hangisinde doğru olarak verilmiştir?",
     "options": [
-      "MgCl₂ iyonik, CCl₄ ise kovalent bağlı bir bileşiktir.",
-      "Oda koşullarında MgCl₂ katı haldeyken, CCl₄ sıvı haldedir.",
-      "CCl₄ molekülü apolar olmasına rağmen, C-Cl bağları polar kovalenttir.",
-      "MgCl₂'nin sulu çözeltisi elektriği iletirken, CCl₄'ünki iletmez.",
-      "Katı halde MgCl₂ moleküllerden, CCl₄ ise iyonik kristal örgüden oluşur."
+      "NaCl > H₂O > CH₄",
+      "H₂O > NaCl > CH₄",
+      "CH₄ > H₂O > NaCl",
+      "NaCl > CH₄ > H₂O",
+      "H₂O > CH₄ > NaCl"
     ],
-    "correctAnswer": 4,
-    "explanation": "Verilen ifadeleri inceleyelim:\nA) Mg (metal) ile Cl (ametal) arasında elektron alışverişiyle iyonik bağ oluşur. C (ametal) ile Cl (ametal) arasında elektron ortaklaşmasıyla kovalent bağ oluşur. Bu ifade doğrudur.\nB) İyonik bileşiklerin erime ve kaynama noktaları, moleküler bileşiklere göre çok daha yüksektir. Bu nedenle oda koşullarında (25°C) MgCl₂ katı, CCl₄ ise sıvıdır. Bu ifade doğrudur.\nC) CCl₄'te, C ve Cl atomları arasındaki elektronegatiflik farkından dolayı her bir C-Cl bağı polardır. Ancak molekülün geometrisi düzgün dörtyüzlü olduğundan ve Cl atomları simetrik olarak yerleştiğinden, bağ polarlıkları birbirini sıfırlar ve molekül apolar olur. Bu ifade doğrudur.\nD) MgCl₂, suda Mg²⁺ ve Cl⁻ iyonlarına ayrışarak çözünür ve iyon hareketi sayesinde elektrik akımını iletir. CCl₄ ise apolar bir molekül olduğu için suda çözünmez ve iyon oluşturmadığı için elektrik akımını iletmez. Bu ifade doğrudur.\nE) Bu ifade A seçeneğinde belirtilenlerin tam tersidir. İyonik bağlı MgCl₂ bileşiği, anyon ve katyonların düzenli bir şekilde sıralandığı iyonik kristal örgü yapısına sahiptir. Kovalent bağlı CCl₄ bileşiği ise bağımsız moleküllerden oluşur. Bu ifade yanlıştır.",
+    "correctAnswer": 0,
+    "explanation": "Maddelerin erime noktaları, tanecikler arası çekim kuvvetlerinin gücüne bağlıdır.\n1. **NaCl (Sodyum klorür):** İyonik bir bileşiktir. Katı halde iyonik kristal örgü yapısındadır ve zıt yüklü iyonlar arasında çok güçlü elektrostatik çekim kuvvetleri bulunur. Bu kuvvetleri kırmak için çok yüksek enerji gerekir, bu yüzden erime noktası çok yüksektir (801 °C).\n2. **H₂O (Su):** Polar kovalent bağlara sahip polar bir moleküldür. Molekülleri arasında etkin olan en güçlü zayıf etkileşim türü hidrojen bağlarıdır. Hidrojen bağları, London kuvvetlerinden çok daha güçlüdür. Erime noktası 0 °C'dir.\n3. **CH₄ (Metan):** Apolar kovalent bağlara sahip apolar bir moleküldür. Molekülleri arasında yalnızca zayıf London dağılım kuvvetleri etkindir. Bu kuvvetler çok zayıf olduğu için erime noktası çok düşüktür (-182 °C).\nBu bilgilere göre, tanecikler arası çekim kuvvetleri en güçlü olan NaCl'nin erime noktası en yüksek, en zayıf olan CH₄'ün erime noktası ise en düşüktür. Dolayısıyla doğru sıralama NaCl > H₂O > CH₄ şeklindedir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764528020463_1",
+    "id": "ai_1764528020464_32",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "İyonik bağın oluşumu sırasında hangi tür atomlar arasında etkileşim gerçekleşir?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi en güçlü kovalent bağı içerir?",
     "options": [
-      "Metaller ve ametaller",
-      "Ametaller ve ametaller",
-      "Metaller ve metaller",
-      "Metal iyonları ve metal atomları",
-      "Ametal iyonları ve ametaller"
+      "H2",
+      "O2",
+      "N2",
+      "F2",
+      "Cl2"
     ],
-    "correctAnswer": 0,
-    "explanation": "İyonik bağ, genellikle bir metal atomunun elektron vermesi ve bir ametal atomunun elektron alması sonucu oluşur.",
+    "correctAnswer": 2,
+    "explanation": "N2, iki azot atomu arasında üçlü kovalent bağ ile bağlandığı için en güçlü kovalent bağı içerir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764524311829_9",
+    "id": "ai_1764575606115_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi metal bağının özelliklerinden biridir?",
+    "options": [
+      "Elektronları paylaşma",
+      "Serbest hareket eden elektronlar",
+      "Yüksek iyonlaşma enerjisi",
+      "Düşük yoğunluk",
+      "Düşük erime noktası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metal bağı, serbest hareket eden elektronlar sayesinde metallerin iletkenlik ve şekil verme gibi özelliklerini sağlar.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524311831_26",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
     "questionText": "Hangi bileşikte iyonik ve kovalent bağ birlikte bulunur?",
     "options": [
       "NaCl",
-      "MgO",
       "NH4Cl",
+      "MgO",
       "H2O",
-      "SO2"
+      "C6H12O6"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "NH4Cl, amonyum katyonu (NH4+) ve klorür anyonu (Cl-) içerir, bu nedenle hem iyonik hem de kovalent bağ içerir.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764524311829_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
+    "options": [
+      "Düşük erime noktası",
+      "İyi elektrik iletkenliği",
+      "Moleküler yapı",
+      "Elektron paylaşımı",
+      "Düşük çözünürlük"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağlı bileşikler genellikle elektrik iletkenliği göstermez.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528020463_27",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi apolar bir moleküldür?",
+    "options": [
+      "HCl",
+      "SO2",
+      "CCl4",
+      "NH3",
+      "H2O"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CCl4 apolar bir moleküldür çünkü simetrik bir yapıya sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_12",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "İyonik bağın özelliklerinden biri aşağıdakilerden hangisidir?",
+    "options": [
+      "Düşük erime noktaları",
+      "Sıvı halde elektrik iletkenliği",
+      "Moleküler yapı",
+      "Yüksek çözünürlük",
+      "Düşük elektrik iletkenliği"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İyonik bileşikler sıvı hale geldiğinde serbest iyonlar oluşturur ve elektrik iletkenliği gösterir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764526697996_6",
@@ -160,83 +176,51 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764575606115_6",
+    "id": "ai_1764526697996_11",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "İyonik bağ hangi tür elementler arasında en sık görülür?",
+    "questionText": "Aşağıdaki bileşikte hangi tür bağlar bulunur: C6H12O6?",
     "options": [
-      "Ametal ve ametal",
-      "Metal ve metal",
-      "Metal ve ametal",
-      "Ametal ve gaz",
-      "Metal ve gaz"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İyonik bağ, genellikle bir metal ve bir ametal arasında oluşur; metal atomları elektron verirken, ametal atomları elektron alır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528020464_28",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kovalent bağların en önemli özelliği aşağıdakilerden hangisidir?",
-    "options": [
-      "Elektron transferi",
-      "Elektron paylaşımı",
-      "Yüksek çözünürlük",
-      "Düşük erime noktası",
-      "Yüksek elektrik iletkenliği"
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri"
     ],
     "correctAnswer": 1,
-    "explanation": "Kovalent bağlar, iki atom arasında elektron paylaşımı ile oluşur.",
+    "explanation": "C6H12O6 (glikoz) kovalent bağlar içerir, bu bağlar atomlar arasında elektron paylaşımı ile oluşur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528020464_30",
+    "id": "ai_1764528020464_31",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi molekül en yüksek erime noktasına sahiptir?",
+    "questionText": "İyonik bağın özelliklerinden biri aşağıdakilerden hangisidir?",
     "options": [
-      "H2O",
-      "CH4",
-      "C2H6",
-      "N2",
-      "O2"
+      "Düşük çözünürlük",
+      "Yüksek erime noktası",
+      "Düşük elektrik iletkenliği",
+      "Moleküler yapı",
+      "Apolar yapı"
     ],
-    "correctAnswer": 0,
-    "explanation": "H2O, hidrojen bağları nedeniyle en yüksek erime noktasına sahip moleküldür.",
+    "correctAnswer": 1,
+    "explanation": "İyonik bileşikler genellikle yüksek erime noktalarına sahiptir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764524311829_6",
+    "id": "ai_1764520258136_1",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bileşik kovalent bağlıdır?",
+    "questionText": "Aşağıdaki bağlardan hangisi en güçlü kimyasal bağ olarak kabul edilir?",
     "options": [
-      "NaCl",
-      "K2O",
-      "HCl",
-      "MgF2",
-      "CaO"
-    ],
-    "correctAnswer": 2,
-    "explanation": "HCl, hidrojen ve klor atomları arasında kovalent bağ ile oluşur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519304779_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi iyonik bağ ile oluşturulmuştur?",
-    "options": [
-      "H₂O",
-      "NaCl",
-      "CO₂",
-      "CH₄",
-      "C₆H₁₂O₆"
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metal bağ",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
     ],
     "correctAnswer": 1,
-    "explanation": "NaCl, sodyum ve klor atomları arasındaki elektron alışverişi ile oluşan bir iyonik bağa sahiptir. Diğer seçeneklerdeki bileşenler kovalent bağ ile oluşmuştur.",
+    "explanation": "Kovalent bağlar, atomlar arasında güçlü bir bağ oluşturur ve genellikle en güçlü bağlar arasında yer alır.",
     "difficulty": 3
   },
   {
@@ -272,500 +256,52 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764575606115_1",
+    "id": "ai_1764524311829_3",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağlardan hangisi elektron alışverişine dayalıdır?",
+    "questionText": "Aşağıdaki bileşikten hangisi en yüksek erime noktasına sahip olabilir?",
     "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Van der Waals bağı",
-      "Hidrojen bağı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İyonik bağ, bir atomun elektronlarını başka bir atoma transfer etmesiyle oluşur ve bu nedenle elektron alışverişine dayalıdır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764524311831_25",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki moleküllerden hangisi dipol-dipol etkileşimleri gösterir?",
-    "options": [
-      "N2",
-      "HCl",
-      "CH4",
-      "O2",
-      "Ar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "HCl, polar bir molekül olduğundan dipol-dipol etkileşimleri gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524311829_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bağ, metal atomları arasında serbest elektronların hareketi ile oluşur?",
-    "options": [
-      "Iyonik bağ",
-      "Kovalent bağ",
-      "Metallic bağ",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Metalik bağ, metal atomları arasında serbest elektronların oluşturduğu bir bağdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528020464_31",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "İyonik bağın özelliklerinden biri aşağıdakilerden hangisidir?",
-    "options": [
-      "Düşük çözünürlük",
-      "Yüksek erime noktası",
-      "Düşük elektrik iletkenliği",
-      "Moleküler yapı",
-      "Apolar yapı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İyonik bileşikler genellikle yüksek erime noktalarına sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_5",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "İyonik bağlar hangi durumda daha güçlüdür?",
-    "options": [
-      "Sıvı halde",
-      "Gaz halde",
-      "Katı halde",
-      "Plazma halinde",
-      "Buhar halinde"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İyonik bağlar katı halde güçlüdür, çünkü iyonlar sıkı bir düzen içinde yer alır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_16",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi durum kovalent bağın zayıflamasına neden olur?",
-    "options": [
-      "Yüksek sıcaklık",
-      "Düşük sıcaklık",
-      "Yüksek basınç",
-      "Düşük basınç",
-      "Sıvı haldeki çözünürlük"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yüksek sıcaklık, moleküller arasındaki hareketliliği artırarak kovalent bağları zayıflatabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_16",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: PCl5?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "PCl5, fosfor ve klor arasındaki kovalent bağlarla oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
-    "options": [
-      "Elektron paylaşımı",
-      "Yüksek erime noktası",
-      "Moleküler yapı",
-      "İyonik karakter",
-      "Düşük elektrik iletkenliği"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kovalent bağlar genellikle moleküler yapıya sahip olup, düşük elektrik iletkenliği gösterir. İyonik karakter, kovalent bağların bir özelliği değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498516247_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Azot (₇N) ve hidrojen (₁H) atomlarından oluşan amonyak (NH₃) molekülü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Molekül geometrisi üçgen piramittir.",
-      "VSEPR gösterimi AX₃E₁ şeklindedir.",
-      "Merkez atom olan azotun hibritleşme türü sp²'dir.",
-      "Molekül polardır.",
-      "Bağ açısı 109,5°'den küçüktür."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Azot atomunun (₇N) elektron dizilimi 1s² 2s² 2p³'tür. NH₃ molekülünde azot atomu, üç hidrojen atomu ile üç sigma (σ) bağı yapar ve bir tane de ortaklanmamış elektron çifti (lone pair) bulundurur. Bu durumda, merkez atom çevresinde 3 bağlayıcı elektron çifti ve 1 ortaklanmamış elektron çifti olmak üzere toplam 4 elektron çifti bölgesi vardır. VSEPR gösterimi AX₃E₁'dir. Toplam elektron çifti bölgesi sayısı 4 olduğu için azot atomunun hibritleşme türü sp³'tür. Ortaklanmamış elektron çiftinin bağ yapan elektron çiftlerine uyguladığı itme kuvveti, bağ açısını ideal tetrahedral açı olan 109,5°'den daha küçük bir değere (yaklaşık 107°) düşürür ve molekül geometrisi üçgen piramit olur. Moleküldeki yük dağılımı simetrik olmadığı için molekül polardır. Bu nedenle C şıkkındaki 'sp² hibritleşmesi yaptığı' ifadesi yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575606115_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi metal bağının özelliklerinden biridir?",
-    "options": [
-      "Elektronları paylaşma",
-      "Serbest hareket eden elektronlar",
-      "Yüksek iyonlaşma enerjisi",
-      "Düşük yoğunluk",
-      "Düşük erime noktası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Metal bağı, serbest hareket eden elektronlar sayesinde metallerin iletkenlik ve şekil verme gibi özelliklerini sağlar.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528020464_33",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi iyonik ve kovalent bağlar içerir?",
-    "options": [
-      "NaCl",
-      "CaCO3",
       "MgO",
-      "K2SO4",
-      "Fe2O3"
+      "NaCl",
+      "H2O",
+      "CO2",
+      "CCl4"
     ],
-    "correctAnswer": 1,
-    "explanation": "CaCO3, kalsiyum ve karbonat iyonları arasında hem iyonik hem de kovalent bağlar içerir.",
-    "difficulty": 4
+    "correctAnswer": 0,
+    "explanation": "MgO, iyonik bağ yapısı nedeniyle yüksek erime noktasına sahiptir.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764526154678_0",
+    "id": "ai_1764576779464_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Metal bağının temel özelliği nedir?",
+    "options": [
+      "Elektronların tamamen yer değiştirmesi",
+      "Serbest elektronların varlığı",
+      "Moleküller arası çekim kuvvetleri",
+      "Elektrostatik çekim kuvvetleri",
+      "Elektron çiftleri ile bağlanma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metal bağı, metal atomları arasında serbest hareket eden elektronların varlığı ile oluşur. Bu serbest elektronlar, metal atomlarını birbirine bağlar.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764524311829_1",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
     "questionText": "Aşağıdaki bileşiklerden hangisi iyonik bağ ile oluşmuştur?",
     "options": [
-      "H₂O",
-      "CO₂",
+      "H2O",
       "NaCl",
-      "CH₄",
-      "C₆H₁₂O₆"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İyonik bağ, metal ve ametal atomları arasında elektron transferi ile oluşan bir bağdır. NaCl bileşiği sodyum (Na) ve klor (Cl) atomları arasında iyonik bağ ile oluşmuştur. Diğer seçeneklerdeki bileşikler kovalent bağ ile oluşmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_19",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: H2?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Van der Waals kuvvetleri"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2, iki hidrojen atomu arasında kovalent bağ ile oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020464_32",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi en güçlü kovalent bağı içerir?",
-    "options": [
-      "H2",
-      "O2",
-      "N2",
-      "F2",
-      "Cl2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "N2, iki azot atomu arasında üçlü kovalent bağ ile bağlandığı için en güçlü kovalent bağı içerir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisinde kovalent bağ bulunmaz?",
-    "options": [
-      "NaCl",
-      "H2O",
-      "CO2",
-      "O2",
-      "CH4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl, iyonik bağ ile oluşan bir bileşiktir. Diğer seçenekler kovalent bağ içermektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki moleküllerden hangisi kovalent bağ ile oluşmuştur?",
-    "options": [
-      "KCl",
-      "NaOH",
-      "HCl",
-      "MgO",
-      "CaF2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "HCl, hidrojen ve klor arasındaki kovalent bağlı bir moleküldür. Diğerleri iyonik bileşiklerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_8",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi polar kovalent bağ içerir?",
-    "options": [
-      "O2",
-      "N2",
-      "H2O",
-      "CH4",
-      "CCl4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O (su), O ve H atomları arasında polar kovalent bağlar içerir, bu da molekülü polar hale getirir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519304779_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kovalent bağların özelliklerinden hangisi doğrudur?",
-    "options": [
-      "Yüksek erime noktaları vardır.",
-      "İyi iletkenlik gösterirler.",
-      "Elektron paylaşımı ile oluşurlar.",
-      "Genellikle katı halde bulunurlar.",
-      "İyonik bağlardan daha zayıftırlar."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur. Diğer seçenekler kovalent bağların genel özellikleri ile çelişmektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519304780_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki maddelerden hangisi hidrojen bağı ile etkileşim göstermez?",
-    "options": [
-      "H₂O",
-      "NH₃",
-      "HF",
-      "CH₄",
-      "C₂H₅OH"
-    ],
-    "correctAnswer": 3,
-    "explanation": "CH₄ (metan), hidrojen atomları ile yalnızca kovalent bağ oluşturarak yapısını oluşturur. Diğer moleküller hidrojen bağı ile etkileşim gösterir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524311830_21",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi molekül, üçlü bağa sahip olan bir bileşiktir?",
-    "options": [
-      "C2H2",
-      "H2O",
-      "CH4",
-      "C2H6",
-      "N2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "C2H2 (asetilen), üçlü bağa sahip bir moleküldür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524311830_23",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi polar bir moleküldür?",
-    "options": [
-      "CCl4",
-      "CH4",
-      "H2O",
-      "O2",
-      "N2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O, polar bir moleküldür çünkü elektronegatiflik farkı vardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524311829_8",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi hidrojen bağı oluşturmaz?",
-    "options": [
-      "H2O",
-      "NH3",
-      "HF",
-      "CH4",
-      "HCl"
-    ],
-    "correctAnswer": 3,
-    "explanation": "CH4 (metan) hidrojen bağı oluşturmayan apolar bir moleküldür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528020463_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi kovalent bağ ile oluşmuştur?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "H2O",
-      "CaCl2",
-      "K2SO4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O, iki hidrojen atomunun bir oksijen atomu ile kovalent bağ yaparak oluşturduğu bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311829_11",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi durumda moleküller arasındaki Van der Waals kuvvetleri en güçlüdür?",
-    "options": [
-      "Apolar moleküller",
-      "Polar moleküller",
-      "Hidrojen bağı yapan moleküller",
-      "Aromatik bileşikler",
-      "İyonik bileşikler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Polar moleküller arasında dipol-dipol etkileşimleri nedeniyle Van der Waals kuvvetleri daha güçlüdür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526697996_24",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: N2O?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "N2O, nitrojen ve oksijen arasındaki kovalent bağlarla oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764501223040_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "NaCl, CCl₄ ve Cu maddeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "A) NaCl katısı iyonik kristal örgüye sahiptir ve bu halde elektriği iletmez.",
-      "B) Sıvı CCl₄ molekülleri arasında yalnızca London kuvvetleri etkindir.",
-      "C) Cu metali, metalik bağ sayesinde ısı ve elektriği iyi iletir.",
-      "D) Normal koşullarda NaCl'nin erime noktası, CCl₄'ün kaynama noktasından düşüktür.",
-      "E) CCl₄'te C-Cl bağları polar kovalent olmasına rağmen molekül apolardır."
-    ],
-    "correctAnswer": 3,
-    "explanation": "D seçeneği yanlıştır. NaCl, güçlü iyonik bağlar içeren iyonik bir bileşiktir. Bu güçlü bağları kırmak için çok yüksek enerji gerekir, bu nedenle erime noktası çok yüksektir (801 °C). CCl₄ ise apolar bir moleküldür ve molekülleri arasında sadece zayıf London etkileşimleri bulunur. Bu zayıf etkileşimleri kırmak için gereken enerji az olduğundan kaynama noktası düşüktür (77 °C). Dolayısıyla NaCl'nin erime noktası, CCl₄'ün kaynama noktasından çok daha yüksektir. Diğer seçenekler doğrudur: A) NaCl iyonik kristaldir ve katı halde iyonlar serbest hareket edemediği için elektriği iletmez. B) CCl₄ apolar bir molekül olduğu için molekülleri arasındaki etkin olan tek çekim kuvveti London kuvvetleridir. C) Metallerdeki serbest elektron denizi (metalik bağ) ısı ve elektriğin iyi iletilmesini sağlar. E) CCl₄'te karbon ve klor atomları arasındaki elektronegatiflik farkından dolayı bağlar polardır, ancak molekül geometrisi (düzgün dörtyüzlü) simetrik olduğu için dipol momentler birbirini sıfırlar ve molekül apolar olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528020463_22",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki moleküllerden hangisi üçlü bağ içerir?",
-    "options": [
-      "H2O",
-      "N2",
       "CO2",
       "CH4",
-      "C2H4"
+      "C6H12O6"
     ],
     "correctAnswer": 1,
-    "explanation": "N2 molekülü, iki azot atomu arasında üçlü bağ içerir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_20",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki moleküllerden hangisi hidrojen bağı ile su molekülleri arasında çekim kuvveti yaratır?",
-    "options": [
-      "NaCl",
-      "H2O",
-      "C2H5OH",
-      "NH3",
-      "CH4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl, hidrojen bağı oluşturmaz. Ancak diğer seçenekler, su molekülleri ile hidrojen bağı kurabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_10",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bağ türü, atomlar arasında elektron paylaşımı ile oluşur?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Hepsi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağlar, atomlar arasında elektron paylaşımı ile oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311829_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bağ türü, elektron paylaşımına dayalıdır?",
-    "options": [
-      "Iyonik bağ",
-      "Kovalent bağ",
-      "Metalik bağ",
-      "Hidrojen bağı",
-      "Van der Waals kuvvetleri"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağ, atomlar arasında elektronların paylaşılması ile oluşan bir bağdır.",
+    "explanation": "NaCl, sodyum ve klor atomları arasında elektron transferi ile oluşan iyonik bir bileşiktir.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764520258136_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağlardan hangisi en güçlü kimyasal bağ olarak kabul edilir?",
-    "options": [
-      "Iyonik bağ",
-      "Kovalent bağ",
-      "Metal bağ",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağlar, atomlar arasında güçlü bir bağ oluşturur ve genellikle en güçlü bağlar arasında yer alır.",
-    "difficulty": 3
   },
   {
     "id": "ai_1764528020463_5",
@@ -784,227 +320,35 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764520258136_0",
+    "id": "ai_1764576779464_8",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi tür kimyasal bağ, elektronların iki atom arasında eşit olarak paylaşıldığı durumu tanımlar?",
+    "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
-      "Iyonik bağ",
-      "Kovalent bağ",
-      "Metalik bağ",
-      "Hidrojen bağı",
-      "Van der Waals bağı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağ, iki atomun elektronları eşit olarak paylaştığı bir bağdır. Bu, iki nonmetalin birleşiminde sıkça görülür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528020463_21",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "İki atom arasındaki bağın polar olup olmadığını belirlemek için hangi faktör dikkate alınmalıdır?",
-    "options": [
-      "Atom büyüklüğü",
-      "Elektronegatiflik farkı",
-      "Bağ açısı",
-      "Bağ sayısı",
-      "Sıcaklık"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bağın polar olup olmadığını belirlemek için atomların elektronegatiflik farkı dikkate alınmalıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311829_16",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağ türlerinden hangisi en zayıf bağdır?",
-    "options": [
-      "Kovalent bağ",
-      "İyonik bağ",
-      "Hidrojen bağı",
-      "Metallic bağ",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hidrojen bağı, diğer bağ türlerine göre daha zayıf bir bağdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528020463_19",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi polar molekül olarak kabul edilir?",
-    "options": [
-      "CCl4",
-      "CO2",
-      "NH3",
-      "O2",
-      "H2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "NH3, azot atomunun elektronegatifliği nedeniyle polar bir moleküldür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020464_29",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hidrojen bağı hangi tür etkileşimle oluşur?",
-    "options": [
-      "İyonik etkileşim",
-      "Kovalent etkileşim",
-      "Van der Waals etkileşimi",
-      "Dipol-dipol etkileşim",
-      "Metalik etkileşim"
+      "İyonik bağ yüksek erime noktasına sahiptir.",
+      "Kovalent bağ zayıf elektrostatik çekim kuvvetidir.",
+      "Metal bağı serbest elektronlar ile oluşur.",
+      "Hidrojen bağı genellikle güçlü bir bağdır.",
+      "Kovalent bağ moleküller arası etkileşimleri zayıf yapar."
     ],
     "correctAnswer": 3,
-    "explanation": "Hidrojen bağı, güçlü bir dipol-dipol etkileşimi ile oluşur.",
-    "difficulty": 4
+    "explanation": "Hidrojen bağı, genellikle zayıf bir bağ olarak kabul edilir. Kovalent bağlar güçlü bağlardır.",
+    "difficulty": 2
   },
   {
-    "id": "ai_1764520258136_2",
+    "id": "ai_1764528020464_33",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Iyonik bağlı bir bileşikte hangi özellik beklenir?",
-    "options": [
-      "Düşük erime noktası",
-      "İyi elektrik iletkenliği",
-      "Uçucu olması",
-      "Yüksek kaynama noktası",
-      "Düşük çözünürlük"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Iyonik bağlı bileşikler, katı haldeyken elektrik iletkenliği göstermezler ancak çözündüklerinde veya sıvı hale geldiklerinde iyi elektrik iletkenleri olurlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524311830_19",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi kovalent bağların bir özelliğidir?",
-    "options": [
-      "Düşük erime noktası",
-      "İyi elektrik iletkenliği",
-      "Moleküler yapılar",
-      "Yüksek çözünürlük",
-      "Hepsi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kovalent bağlı bileşikler genellikle düşük erime noktalarına ve moleküler yapılara sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764521026139_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Iyonik bağ ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Atomlar arasında elektron paylaşımı ile oluşur.",
-      "Düşük erime noktalarına sahiptir.",
-      "Yüksek elektriksel iletkenlik gösterir.",
-      "Sadece gaz halinde bulunur.",
-      "Moleküler yapılar oluşturur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "İyonik bağlar genellikle katı halde bulunur ve çözündüklerinde yüksek elektriksel iletkenlik gösterirler.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528020463_24",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hidrojen bağı hangi moleküller arasında en yaygın olarak görülür?",
-    "options": [
-      "Polar moleküller",
-      "Apolar moleküller",
-      "Metalik moleküller",
-      "İyonik bileşikler",
-      "Hepsi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hidrojen bağı, genellikle polar moleküller arasında görülür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_12",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi molekülün yapısında üçlü kovalent bağ bulunur?",
-    "options": [
-      "N2",
-      "O2",
-      "CO2",
-      "H2",
-      "CH4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "N2, iki nitrojen atomu arasında üçlü kovalent bağ bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_26",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi sulu bir çözelti oluşturduğunda iyonlaşır?",
+    "questionText": "Aşağıdaki bileşiklerden hangisi iyonik ve kovalent bağlar içerir?",
     "options": [
       "NaCl",
-      "CCl4",
+      "CaCO3",
+      "MgO",
       "K2SO4",
-      "H2O",
-      "HCl"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl su içinde iyonlaşarak Na+ ve Cl- iyonları oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi hidrojen bağları içerebilir?",
-    "options": [
-      "CCl4",
-      "NH3",
-      "CH4",
-      "CO2",
-      "N2"
+      "Fe2O3"
     ],
     "correctAnswer": 1,
-    "explanation": "NH3 (amonyak), hidrojen bağları oluşturabilen bir moleküldür çünkü N atomu elektronegatif bir atomdur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311829_15",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi molekül polar bir moleküldür?",
-    "options": [
-      "CH4",
-      "O2",
-      "H2O",
-      "N2",
-      "CCl4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O, farklı elektronegatiflikteki atomlar içermesi nedeniyle polar bir moleküldür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528020463_8",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağ türlerinden hangisi en düşük enerji gerektirir?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Van der Waals kuvvetleri"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Van der Waals kuvvetleri, diğer bağ türlerine göre en düşük enerji gerektiren etkileşimlerdir.",
+    "explanation": "CaCO3, kalsiyum ve karbonat iyonları arasında hem iyonik hem de kovalent bağlar içerir.",
     "difficulty": 4
   },
   {
@@ -1024,52 +368,100 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764526697996_22",
+    "id": "ai_1764526697996_4",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: Na2SO4?",
+    "questionText": "Aşağıdaki bileşiklerden hangisi hidrojen bağları içerebilir?",
     "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
+      "CCl4",
+      "NH3",
+      "CH4",
+      "CO2",
+      "N2"
     ],
-    "correctAnswer": 0,
-    "explanation": "Na2SO4, sodyum ve sülfat arasındaki iyonik bağlarla oluşur.",
+    "correctAnswer": 1,
+    "explanation": "NH3 (amonyak), hidrojen bağları oluşturabilen bir moleküldür çünkü N atomu elektronegatif bir atomdur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764526697996_17",
+    "id": "ai_1764575606115_0",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: CaCl2?",
+    "questionText": "Kimyasal bağlar hangi iki temel kuvvetten oluşur?",
     "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
+      "Elektriksel kuvvetler ve manyetik kuvvetler",
+      "Gravitasyonel kuvvetler ve çekirdek kuvvetleri",
+      "Elektriksel kuvvetler ve çekirdek kuvvetleri",
+      "Manyetik kuvvetler ve çekirdek kuvvetleri",
+      "Elektriksel kuvvetler ve nükleer kuvvetler"
     ],
-    "correctAnswer": 0,
-    "explanation": "CaCl2, kalsiyum ve klor arasındaki iyonik bağlarla oluşan bir bileşiktir.",
+    "correctAnswer": 2,
+    "explanation": "Kimyasal bağlar, atomlar arası etkileşimlerden kaynaklanan elektriksel kuvvetler ile nükleer kuvvetlerin etkileşimleri sonucunda oluşur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528020463_14",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi elementler arasında en yüksek elektronegatiflik farkı bulunur?",
+    "options": [
+      "Na-Cl",
+      "H-H",
+      "C-O",
+      "N-O",
+      "F-Cl"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Flor (F) ve klor (Cl) arasındaki elektronegatiflik farkı en yüksektir, bu da güçlü bağlar oluşmasına neden olur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764524311829_13",
+    "id": "ai_1764499851398_0",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi en düşük erime noktasına sahiptir?",
+    "questionText": "Magnezyum klorür (MgCl₂) ve Karbon tetraklorür (CCl₄) bileşikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (₆C, ₈O, ₁₂Mg, ₁₇Cl)",
     "options": [
-      "H2O",
-      "C6H12O6",
-      "NaCl",
-      "MgCl2",
-      "SiO2"
+      "MgCl₂ iyonik, CCl₄ ise kovalent bağlı bir bileşiktir.",
+      "Oda koşullarında MgCl₂ katı haldeyken, CCl₄ sıvı haldedir.",
+      "CCl₄ molekülü apolar olmasına rağmen, C-Cl bağları polar kovalenttir.",
+      "MgCl₂'nin sulu çözeltisi elektriği iletirken, CCl₄'ünki iletmez.",
+      "Katı halde MgCl₂ moleküllerden, CCl₄ ise iyonik kristal örgüden oluşur."
     ],
-    "correctAnswer": 0,
-    "explanation": "H2O, zayıf hidrojen bağları nedeniyle en düşük erime noktasına sahiptir.",
-    "difficulty": 5
+    "correctAnswer": 4,
+    "explanation": "Verilen ifadeleri inceleyelim:\nA) Mg (metal) ile Cl (ametal) arasında elektron alışverişiyle iyonik bağ oluşur. C (ametal) ile Cl (ametal) arasında elektron ortaklaşmasıyla kovalent bağ oluşur. Bu ifade doğrudur.\nB) İyonik bileşiklerin erime ve kaynama noktaları, moleküler bileşiklere göre çok daha yüksektir. Bu nedenle oda koşullarında (25°C) MgCl₂ katı, CCl₄ ise sıvıdır. Bu ifade doğrudur.\nC) CCl₄'te, C ve Cl atomları arasındaki elektronegatiflik farkından dolayı her bir C-Cl bağı polardır. Ancak molekülün geometrisi düzgün dörtyüzlü olduğundan ve Cl atomları simetrik olarak yerleştiğinden, bağ polarlıkları birbirini sıfırlar ve molekül apolar olur. Bu ifade doğrudur.\nD) MgCl₂, suda Mg²⁺ ve Cl⁻ iyonlarına ayrışarak çözünür ve iyon hareketi sayesinde elektrik akımını iletir. CCl₄ ise apolar bir molekül olduğu için suda çözünmez ve iyon oluşturmadığı için elektrik akımını iletmez. Bu ifade doğrudur.\nE) Bu ifade A seçeneğinde belirtilenlerin tam tersidir. İyonik bağlı MgCl₂ bileşiği, anyon ve katyonların düzenli bir şekilde sıralandığı iyonik kristal örgü yapısına sahiptir. Kovalent bağlı CCl₄ bileşiği ise bağımsız moleküllerden oluşur. Bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528020463_23",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi metalik bağın bir özelliği değildir?",
+    "options": [
+      "İyi elektrik iletkenliği",
+      "Malleabilite",
+      "Kristal yapılar",
+      "Düşük erime noktaları",
+      "Yüksek erime noktaları"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Metal bağları genellikle yüksek erime noktalarına sahip olup, düşük erime noktası metal bağının özelliği değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498516247_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Azot (₇N) ve hidrojen (₁H) atomlarından oluşan amonyak (NH₃) molekülü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Molekül geometrisi üçgen piramittir.",
+      "VSEPR gösterimi AX₃E₁ şeklindedir.",
+      "Merkez atom olan azotun hibritleşme türü sp²'dir.",
+      "Molekül polardır.",
+      "Bağ açısı 109,5°'den küçüktür."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Azot atomunun (₇N) elektron dizilimi 1s² 2s² 2p³'tür. NH₃ molekülünde azot atomu, üç hidrojen atomu ile üç sigma (σ) bağı yapar ve bir tane de ortaklanmamış elektron çifti (lone pair) bulundurur. Bu durumda, merkez atom çevresinde 3 bağlayıcı elektron çifti ve 1 ortaklanmamış elektron çifti olmak üzere toplam 4 elektron çifti bölgesi vardır. VSEPR gösterimi AX₃E₁'dir. Toplam elektron çifti bölgesi sayısı 4 olduğu için azot atomunun hibritleşme türü sp³'tür. Ortaklanmamış elektron çiftinin bağ yapan elektron çiftlerine uyguladığı itme kuvveti, bağ açısını ideal tetrahedral açı olan 109,5°'den daha küçük bir değere (yaklaşık 107°) düşürür ve molekül geometrisi üçgen piramit olur. Moleküldeki yük dağılımı simetrik olmadığı için molekül polardır. Bu nedenle C şıkkındaki 'sp² hibritleşmesi yaptığı' ifadesi yanlıştır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764524311829_4",
@@ -1088,35 +480,115 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764526697996_26",
+    "id": "ai_1764528020463_24",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: CCl4?",
+    "questionText": "Hidrojen bağı hangi moleküller arasında en yaygın olarak görülür?",
     "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
+      "Polar moleküller",
+      "Apolar moleküller",
+      "Metalik moleküller",
+      "İyonik bileşikler",
+      "Hepsi"
     ],
-    "correctAnswer": 1,
-    "explanation": "CCl4, kovalent bağlar ile oluşmuş bir bileşiktir.",
+    "correctAnswer": 0,
+    "explanation": "Hidrojen bağı, genellikle polar moleküller arasında görülür.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764526697996_18",
+    "id": "ai_1764526697996_2",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: CH3OH?",
+    "questionText": "Hidrojen bağı hangi tür moleküller arasında oluşur?",
     "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
+      "Metal atomları arasında",
+      "İyonik bileşikler arasında",
+      "Polar moleküller arasında",
+      "Apolar moleküller arasında",
+      "Hepsi arasında"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hidrojen bağı, genellikle polar moleküller arasında oluşur, özellikle de O, N veya F gibi elektronegatif atomlar içerenlerde.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311830_24",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Bağ türleri arasında aşağıdakilerden hangisi en güçlü bağdır?",
+    "options": [
       "Hidrojen bağı",
-      "Van der Waals kuvvetleri"
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metallic bağ",
+      "Van der Waals kuvveti"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağ, kovalent ve hidrojen bağlarına göre daha güçlüdür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524311829_14",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki atomlardan hangisi elektron alarak negatif iyon oluşturur?",
+    "options": [
+      "Na",
+      "Cl",
+      "Mg",
+      "K",
+      "Ca"
     ],
     "correctAnswer": 1,
-    "explanation": "CH3OH (metanol) kovalent bağlarla oluşur ve aynı zamanda hidrojen bağları da oluşturabilir.",
+    "explanation": "Cl, elektron alarak negatif iyon (Cl-) oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528020463_18",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi molekül kovalent bağın en güçlü örneğidir?",
+    "options": [
+      "O2",
+      "N2",
+      "H2",
+      "F2",
+      "Cl2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "N2, iki azot atomu arasında üçlü kovalent bağ ile bağlandığı için en güçlü kovalent bağ örneğidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499851398_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kükürt dioksit (SO₂) molekülü ile ilgili aşağıdaki yargılardan hangisi doğrudur? (₁₆S, ₈O)",
+    "options": [
+      "Molekül geometrisi doğrusaldır.",
+      "Molekül apolardır.",
+      "Molekül içi bağlar apolar kovalenttir.",
+      "Lewis yapısında kükürt atomu üzerinde ortaklanmamış elektron çifti bulunmaz.",
+      "Molekülde rezonans yapılar gözlenir."
+    ],
+    "correctAnswer": 4,
+    "explanation": "SO₂ molekülünün özelliklerini inceleyelim:\n1. Lewis Yapısı: Merkez atom kükürttür (S). Kükürt 6A, Oksijen 6A grubundadır. Toplam değerlik elektron sayısı = 6 + 2*6 = 18'dir. Lewis yapısı çizildiğinde, merkez atom S üzerinde bir adet ortaklanmamış elektron çifti (yalın çift) ve S atomunun her iki O atomuyla bir çiftli bir tekli bağ yaptığı (veya iki çiftli bağ yapıp oktetini aştığı) görülür. En kararlı yapı, bir çiftli ve bir tekli bağ içeren rezonans yapılardır.\n2. VSEPR Gösterimi: Merkez atom (A), merkeze bağlı 2 atom (X₂), merkez atomdaki 1 yalın çift (E₁) olmak üzere VSEPR gösterimi AX₂E₁'dir.\nBu bilgilere göre şıkları değerlendirelim:\nA) AX₂E₁ VSEPR gösterimine sahip moleküllerin geometrisi doğrusal değil, kırık doğru (açısal)'dır. Bu ifade yanlıştır.\nB) Molekül geometrisi açısal olduğu için S-O bağlarının oluşturduğu dipol momentler birbirini sıfırlamaz. Bu nedenle molekül polardır. Bu ifade yanlıştır.\nC) Kükürt ve oksijen farklı ametal atomlarıdır ve aralarında elektronegatiflik farkı bulunur. Bu nedenle aralarındaki bağ polar kovalenttir. Bu ifade yanlıştır.\nD) Lewis yapısı çizildiğinde, merkez atom olan kükürt (S) üzerinde bir adet ortaklanmamış (yalın) elektron çifti bulunur. Bu ifade yanlıştır.\nE) SO₂ molekülündeki çift bağ, iki oksijen atomu arasında yer değiştirebilir. Bu durum, molekülün tek bir Lewis yapısıyla ifade edilemediğini ve gerçek yapının bu iki formun bir melezi (rezonans hibriti) olduğunu gösterir. Bu ifade doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528020463_11",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi apolar bir kovalent bağ içerir?",
+    "options": [
+      "HCl",
+      "H2O",
+      "O2",
+      "NH3",
+      "CH3Cl"
+    ],
+    "correctAnswer": 2,
+    "explanation": "O2 molekülü, iki oksijen atomu arasında apolar kovalent bağ içerir.",
     "difficulty": 4
   },
   {
@@ -1136,51 +608,1091 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528020463_12",
+    "id": "ai_1764524311829_11",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "İyonik bağın özelliklerinden biri aşağıdakilerden hangisidir?",
+    "questionText": "Hangi durumda moleküller arasındaki Van der Waals kuvvetleri en güçlüdür?",
     "options": [
-      "Düşük erime noktaları",
-      "Sıvı halde elektrik iletkenliği",
-      "Moleküler yapı",
-      "Yüksek çözünürlük",
-      "Düşük elektrik iletkenliği"
+      "Apolar moleküller",
+      "Polar moleküller",
+      "Hidrojen bağı yapan moleküller",
+      "Aromatik bileşikler",
+      "İyonik bileşikler"
     ],
     "correctAnswer": 1,
-    "explanation": "İyonik bileşikler sıvı hale geldiğinde serbest iyonlar oluşturur ve elektrik iletkenliği gösterir.",
+    "explanation": "Polar moleküller arasında dipol-dipol etkileşimleri nedeniyle Van der Waals kuvvetleri daha güçlüdür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576779464_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Elementler arası bağların en kuvvetlisi hangisidir?",
+    "options": [
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals bağı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, atomlar arasında güçlü bir elektron paylaşımı ile oluşur ve genellikle diğer bağ türlerine göre daha kuvvetlidir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576779464_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hidrojen bağı, hangi tür moleküller arasında oluşur?",
+    "options": [
+      "İyonik moleküller",
+      "Metalik moleküller",
+      "Kovalent moleküller",
+      "Ametal moleküller",
+      "Ametal ve metal karışımı moleküller"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hidrojen bağı, genellikle kovalent bağ ile bağlanmış hidrojen atomları ile diğer elektronegatif atomlar (örneğin, O, N, F) arasında oluşan zayıf bir bağdır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764528020464_28",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağların en önemli özelliği aşağıdakilerden hangisidir?",
+    "options": [
+      "Elektron transferi",
+      "Elektron paylaşımı",
+      "Yüksek çözünürlük",
+      "Düşük erime noktası",
+      "Yüksek elektrik iletkenliği"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağlar, iki atom arasında elektron paylaşımı ile oluşur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764575606115_8",
+    "id": "ai_1764526697996_10",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "İyonik bileşiklerin erime noktaları genellikle nasıldır?",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: Na2O?",
     "options": [
-      "Düşük",
-      "Orta",
-      "Yüksek",
-      "Değişkendir",
-      "Sabit değildir"
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Na2O, sodyum ve oksijen arasındaki iyonik bağ ile oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_18",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: CH3OH?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CH3OH (metanol) kovalent bağlarla oluşur ve aynı zamanda hidrojen bağları da oluşturabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311829_10",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki maddelerden hangisi en yüksek çözünürlükte su ile etkileşir?",
+    "options": [
+      "NaCl",
+      "MgO",
+      "C6H12O6",
+      "CCl4",
+      "SO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl, su ile iyi çözünen bir iyonik bileşiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528020463_17",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi metal bağı ile oluşmuştur?",
+    "options": [
+      "Alüminyum oksit",
+      "Bakır",
+      "Sodyum klorür",
+      "Su",
+      "Karbon dioksit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bakır, metal atomları arasında metal bağı ile oluşmuş bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576779464_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi iyonik bağ içeren bir bileşiktir?",
+    "options": [
+      "CH4",
+      "NaCl",
+      "H2O",
+      "CO2",
+      "C6H12O6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NaCl (sodyum klorür) bileşiği, sodyum ve klor atomları arasında elektron transferi ile oluştuğu için iyonik bağ içerir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764524311830_21",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi molekül, üçlü bağa sahip olan bir bileşiktir?",
+    "options": [
+      "C2H2",
+      "H2O",
+      "CH4",
+      "C2H6",
+      "N2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "C2H2 (asetilen), üçlü bağa sahip bir moleküldür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528020464_29",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hidrojen bağı hangi tür etkileşimle oluşur?",
+    "options": [
+      "İyonik etkileşim",
+      "Kovalent etkileşim",
+      "Van der Waals etkileşimi",
+      "Dipol-dipol etkileşim",
+      "Metalik etkileşim"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hidrojen bağı, güçlü bir dipol-dipol etkileşimi ile oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576779464_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi bağ, elektronların bir atomdan diğerine tamamen transfer edilmesi ile oluşur?",
+    "options": [
+      "Kovalent bağ",
+      "Iyonik bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals bağı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İyonik bağ, bir atomun (genellikle metal) elektronlarını tamamen kaybetmesi ve diğer bir atomun (genellikle ametal) bu elektronları tamamen alması ile oluşur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764526697996_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi kovalent bağ ile oluşmuştur?",
+    "options": [
+      "KCl",
+      "NaOH",
+      "HCl",
+      "MgO",
+      "CaF2"
     ],
     "correctAnswer": 2,
-    "explanation": "İyonik bileşikler, güçlü elektrostatik çekim kuvvetleri nedeniyle genellikle yüksek erime noktalarına sahiptir.",
+    "explanation": "HCl, hidrojen ve klor arasındaki kovalent bağlı bir moleküldür. Diğerleri iyonik bileşiklerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526154678_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi iyonik bağ ile oluşmuştur?",
+    "options": [
+      "H₂O",
+      "CO₂",
+      "NaCl",
+      "CH₄",
+      "C₆H₁₂O₆"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağ, metal ve ametal atomları arasında elektron transferi ile oluşan bir bağdır. NaCl bileşiği sodyum (Na) ve klor (Cl) atomları arasında iyonik bağ ile oluşmuştur. Diğer seçeneklerdeki bileşikler kovalent bağ ile oluşmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en yüksek erime noktasına sahiptir?",
+    "options": [
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metal bağı",
+      "Van der Waals kuvvetleri",
+      "Hidrojen bağı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İyonik bağlar, güçlü elektrostatik çekim kuvvetleri nedeniyle genellikle yüksek erime noktalarına sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575606115_7",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi kovalent bağ ile oluşmuş bir bileşiktir?",
+    "options": [
+      "NaCl",
+      "MgO",
+      "H2O",
+      "CaF2",
+      "K2SO4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O (su) molekülü, iki hidrojen atomu ile bir oksijen atomu arasında kovalent bağ ile oluşmuştur.",
     "difficulty": 1
   },
   {
-    "id": "ai_1764524311831_26",
+    "id": "ai_1764519304780_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki maddelerden hangisi hidrojen bağı ile etkileşim göstermez?",
+    "options": [
+      "H₂O",
+      "NH₃",
+      "HF",
+      "CH₄",
+      "C₂H₅OH"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CH₄ (metan), hidrojen atomları ile yalnızca kovalent bağ oluşturarak yapısını oluşturur. Diğer moleküller hidrojen bağı ile etkileşim gösterir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526697996_23",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi kovalent bağ ile oluşmuştur?",
+    "options": [
+      "SO2",
+      "NaCl",
+      "MgCl2",
+      "CaO",
+      "Fe2O3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SO2, kükürt ve oksijen arasında kovalent bağ ile oluşmuş bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311829_13",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi en düşük erime noktasına sahiptir?",
+    "options": [
+      "H2O",
+      "C6H12O6",
+      "NaCl",
+      "MgCl2",
+      "SiO2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2O, zayıf hidrojen bağları nedeniyle en düşük erime noktasına sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524311830_18",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi bileşikte hidrojen bağı bulunmaz?",
+    "options": [
+      "HF",
+      "H2O",
+      "NH3",
+      "C2H6",
+      "CH3OH"
+    ],
+    "correctAnswer": 3,
+    "explanation": "C2H6 (etan), hidrojen bağı oluşturmayan apolar bir bileşiktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575606115_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hidrojen bağı hangi tür moleküller arasında görülür?",
+    "options": [
+      "Metaller arasında",
+      "Ametal atomları arasında",
+      "Hidrojen ile elektronegatif atomlar arasında",
+      "İyonik bileşikler arasında",
+      "Kovalent bağlar arasında"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hidrojen bağı, genellikle hidrojen atomunun yüksek elektronegatifliğe sahip bir atom ile etkileşimi sonucu oluşur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764526697996_8",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi polar kovalent bağ içerir?",
+    "options": [
+      "O2",
+      "N2",
+      "H2O",
+      "CH4",
+      "CCl4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O (su), O ve H atomları arasında polar kovalent bağlar içerir, bu da molekülü polar hale getirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_21",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "İki atom arasındaki bağın polar olup olmadığını belirlemek için hangi faktör dikkate alınmalıdır?",
+    "options": [
+      "Atom büyüklüğü",
+      "Elektronegatiflik farkı",
+      "Bağ açısı",
+      "Bağ sayısı",
+      "Sıcaklık"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bağın polar olup olmadığını belirlemek için atomların elektronegatiflik farkı dikkate alınmalıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_22",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi üçlü bağ içerir?",
+    "options": [
+      "H2O",
+      "N2",
+      "CO2",
+      "CH4",
+      "C2H4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "N2 molekülü, iki azot atomu arasında üçlü bağ içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575606115_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağ hangi tür atomlar arasında oluşur?",
+    "options": [
+      "Metal atomları arasında",
+      "Ametal atomları arasında",
+      "Metal ve ametal atomları arasında",
+      "Ametal ve metal atomları arasında",
+      "Aynı cins atomlar arasında"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, genellikle ametal atomları arasında elektron paylaşımı ile oluşur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764526697996_16",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: PCl5?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "PCl5, fosfor ve klor arasındaki kovalent bağlarla oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311831_25",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi dipol-dipol etkileşimleri gösterir?",
+    "options": [
+      "N2",
+      "HCl",
+      "CH4",
+      "O2",
+      "Ar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, polar bir molekül olduğundan dipol-dipol etkileşimleri gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524311829_9",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
     "questionText": "Hangi bileşikte iyonik ve kovalent bağ birlikte bulunur?",
     "options": [
       "NaCl",
-      "NH4Cl",
       "MgO",
+      "NH4Cl",
       "H2O",
-      "C6H12O6"
+      "SO2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "NH4Cl, amonyum katyonu (NH4+) ve klorür anyonu (Cl-) içerir, bu nedenle hem iyonik hem de kovalent bağ içerir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521026139_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Iyonik bağ ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Atomlar arasında elektron paylaşımı ile oluşur.",
+      "Düşük erime noktalarına sahiptir.",
+      "Yüksek elektriksel iletkenlik gösterir.",
+      "Sadece gaz halinde bulunur.",
+      "Moleküler yapılar oluşturur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağlar genellikle katı halde bulunur ve çözündüklerinde yüksek elektriksel iletkenlik gösterirler.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528020463_9",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi iyonik bağ ile oluşmuştur?",
+    "options": [
+      "H2O",
+      "NaCl",
+      "CH4",
+      "O2",
+      "N2"
     ],
     "correctAnswer": 1,
-    "explanation": "NH4Cl, amonyum katyonu (NH4+) ve klorür anyonu (Cl-) içerir, bu nedenle hem iyonik hem de kovalent bağ içerir.",
+    "explanation": "NaCl, sodyum ve klor atomları arasında iyonik bağ ile oluşan bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_15",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi hidrojen bağı içerir?",
+    "options": [
+      "NaCl",
+      "H2O",
+      "CO2",
+      "CH4",
+      "C2H5OH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2O molekülü, hidrojen atomları ile oksijen atomu arasında hidrojen bağı içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_10",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi bağ türü, atomlar arasında elektron paylaşımı ile oluşur?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Hepsi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağlar, atomlar arasında elektron paylaşımı ile oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575606115_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağlardan hangisi elektron alışverişine dayalıdır?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Van der Waals bağı",
+      "Hidrojen bağı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İyonik bağ, bir atomun elektronlarını başka bir atoma transfer etmesiyle oluşur ve bu nedenle elektron alışverişine dayalıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528020464_30",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi molekül en yüksek erime noktasına sahiptir?",
+    "options": [
+      "H2O",
+      "CH4",
+      "C2H6",
+      "N2",
+      "O2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2O, hidrojen bağları nedeniyle en yüksek erime noktasına sahip moleküldür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi kovalent bağ ile oluşmuştur?",
+    "options": [
+      "NaCl",
+      "MgO",
+      "H2O",
+      "CaCl2",
+      "K2SO4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O, iki hidrojen atomunun bir oksijen atomu ile kovalent bağ yaparak oluşturduğu bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501223040_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "NaCl, CCl₄ ve Cu maddeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) NaCl katısı iyonik kristal örgüye sahiptir ve bu halde elektriği iletmez.",
+      "B) Sıvı CCl₄ molekülleri arasında yalnızca London kuvvetleri etkindir.",
+      "C) Cu metali, metalik bağ sayesinde ısı ve elektriği iyi iletir.",
+      "D) Normal koşullarda NaCl'nin erime noktası, CCl₄'ün kaynama noktasından düşüktür.",
+      "E) CCl₄'te C-Cl bağları polar kovalent olmasına rağmen molekül apolardır."
+    ],
+    "correctAnswer": 3,
+    "explanation": "D seçeneği yanlıştır. NaCl, güçlü iyonik bağlar içeren iyonik bir bileşiktir. Bu güçlü bağları kırmak için çok yüksek enerji gerekir, bu nedenle erime noktası çok yüksektir (801 °C). CCl₄ ise apolar bir moleküldür ve molekülleri arasında sadece zayıf London etkileşimleri bulunur. Bu zayıf etkileşimleri kırmak için gereken enerji az olduğundan kaynama noktası düşüktür (77 °C). Dolayısıyla NaCl'nin erime noktası, CCl₄'ün kaynama noktasından çok daha yüksektir. Diğer seçenekler doğrudur: A) NaCl iyonik kristaldir ve katı halde iyonlar serbest hareket edemediği için elektriği iletmez. B) CCl₄ apolar bir molekül olduğu için molekülleri arasındaki etkin olan tek çekim kuvveti London kuvvetleridir. C) Metallerdeki serbest elektron denizi (metalik bağ) ısı ve elektriğin iyi iletilmesini sağlar. E) CCl₄'te karbon ve klor atomları arasındaki elektronegatiflik farkından dolayı bağlar polardır, ancak molekül geometrisi (düzgün dörtyüzlü) simetrik olduğu için dipol momentler birbirini sıfırlar ve molekül apolar olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526697996_24",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: N2O?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "N2O, nitrojen ve oksijen arasındaki kovalent bağlarla oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311830_23",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi polar bir moleküldür?",
+    "options": [
+      "CCl4",
+      "CH4",
+      "H2O",
+      "O2",
+      "N2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O, polar bir moleküldür çünkü elektronegatiflik farkı vardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526697996_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisinde kovalent bağ bulunmaz?",
+    "options": [
+      "NaCl",
+      "H2O",
+      "CO2",
+      "O2",
+      "CH4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl, iyonik bağ ile oluşan bir bileşiktir. Diğer seçenekler kovalent bağ içermektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520258136_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi tür kimyasal bağ, elektronların iki atom arasında eşit olarak paylaşıldığı durumu tanımlar?",
+    "options": [
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metalik bağ",
+      "Hidrojen bağı",
+      "Van der Waals bağı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, iki atomun elektronları eşit olarak paylaştığı bir bağdır. Bu, iki nonmetalin birleşiminde sıkça görülür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524311829_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi bağ türü, elektron paylaşımına dayalıdır?",
+    "options": [
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metalik bağ",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, atomlar arasında elektronların paylaşılması ile oluşan bir bağdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526697996_14",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte en fazla kovalent bağ sayısı hangisindedir?",
+    "options": [
+      "C2H6",
+      "C2H4",
+      "C2H2",
+      "C3H8",
+      "C5H12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "C2H2 (asetilen) iki karbon arasında üçlü kovalent bağ içerir, bu nedenle en fazla kovalent bağ sayısına sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575606115_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "İyonik bağ hangi tür elementler arasında en sık görülür?",
+    "options": [
+      "Ametal ve ametal",
+      "Metal ve metal",
+      "Metal ve ametal",
+      "Ametal ve gaz",
+      "Metal ve gaz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağ, genellikle bir metal ve bir ametal arasında oluşur; metal atomları elektron verirken, ametal atomları elektron alır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528020463_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağın kuvveti hangi faktöre bağlıdır?",
+    "options": [
+      "Atom büyüklüğü",
+      "Elektronegatiflik farkı",
+      "Bağ sayısı",
+      "Bağ açısı",
+      "Hızlı hareket"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kovalent bağın kuvveti, bağ sayısına bağlıdır; daha fazla bağ, daha güçlü bir etkileşim sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576779464_7",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ tipi bulunmaktadır: H2O?",
+    "options": [
+      "İyonik bağ",
+      "Metal bağı",
+      "Kovalent bağ",
+      "Hidrojen bağı",
+      "Van der Waals bağı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O (su) molekülü, hidrojen ve oksijen atomları arasında kovalent bağ ile oluşmuştur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764526697996_15",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi bir metal atomu ile bir ametal atomu arasında oluşur?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Van der Waals kuvvetleri",
+      "Hidrojen bağı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İyonik bağ, metal ve ametal atomları arasında elektron transferi ile oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_22",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: Na2SO4?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Na2SO4, sodyum ve sülfat arasındaki iyonik bağlarla oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520258136_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Iyonik bağlı bir bileşikte hangi özellik beklenir?",
+    "options": [
+      "Düşük erime noktası",
+      "İyi elektrik iletkenliği",
+      "Uçucu olması",
+      "Yüksek kaynama noktası",
+      "Düşük çözünürlük"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iyonik bağlı bileşikler, katı haldeyken elektrik iletkenliği göstermezler ancak çözündüklerinde veya sıvı hale geldiklerinde iyi elektrik iletkenleri olurlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526697996_17",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: CaCl2?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CaCl2, kalsiyum ve klor arasındaki iyonik bağlarla oluşan bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519304779_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi iyonik bağ ile oluşturulmuştur?",
+    "options": [
+      "H₂O",
+      "NaCl",
+      "CO₂",
+      "CH₄",
+      "C₆H₁₂O₆"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NaCl, sodyum ve klor atomları arasındaki elektron alışverişi ile oluşan bir iyonik bağa sahiptir. Diğer seçeneklerdeki bileşenler kovalent bağ ile oluşmuştur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528020463_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi molekül polar kovalent bağ içerir?",
+    "options": [
+      "O2",
+      "N2",
+      "HCl",
+      "CH4",
+      "C2H6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCl molekülü, hidrojen ve klor atomları arasında polar kovalent bağ içerir, çünkü farklı elektronegativitelere sahiptirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_13",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi polar molekül değildir?",
+    "options": [
+      "HCl",
+      "H2O",
+      "CH3Cl",
+      "CO2",
+      "NH3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CO2, simetrik bir yapıya sahip olduğu için polar bir molekül değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "İyonik bağın oluşumu sırasında hangi tür atomlar arasında etkileşim gerçekleşir?",
+    "options": [
+      "Metaller ve ametaller",
+      "Ametaller ve ametaller",
+      "Metaller ve metaller",
+      "Metal iyonları ve metal atomları",
+      "Ametal iyonları ve ametaller"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İyonik bağ, genellikle bir metal atomunun elektron vermesi ve bir ametal atomunun elektron alması sonucu oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311830_22",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi hidrojen bağı ile etkileşim gösterir?",
+    "options": [
+      "CCl4",
+      "H2S",
+      "H2O",
+      "CH4",
+      "O2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2O, hidrojen bağı oluşturan bir moleküldür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528020463_16",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi durum kovalent bağın zayıflamasına neden olur?",
+    "options": [
+      "Yüksek sıcaklık",
+      "Düşük sıcaklık",
+      "Yüksek basınç",
+      "Düşük basınç",
+      "Sıvı haldeki çözünürlük"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yüksek sıcaklık, moleküller arasındaki hareketliliği artırarak kovalent bağları zayıflatabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311829_12",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi metalik bağ ile tanımlanamaz?",
+    "options": [
+      "Fe",
+      "Cu",
+      "AgCl",
+      "Al",
+      "Zn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "AgCl, iyonik bir bileşiktir ve metalik bağ ile tanımlanamaz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526697996_9",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Metal bağları hangi durumlarda güçlüdür?",
+    "options": [
+      "Yüksek sıcaklıklarda",
+      "Düşük sıcaklıklarda",
+      "Sıvı halde",
+      "Katı halde",
+      "Gaz halde"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Metal bağları genellikle katı halde güçlüdür, çünkü metal atomları arasında serbest elektronlar bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764521026139_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
+    "options": [
+      "Elektron paylaşımı ile oluşur.",
+      "İki atom arasında güçlü bir çekim kuvveti vardır.",
+      "Genellikle metal atomları arasında görülür.",
+      "Düşük erime noktalarına sahiptir.",
+      "Moleküler yapılar oluşturur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kovalent bağlar genellikle ametal atomları arasında görülür. Metal atomları genellikle iyonik bağlar oluşturur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764501223040_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Amonyak (NH₃) ve metan (CH₄) molekülleri ile ilgili;\nI. Her ikisinin de molekül geometrisi aynıdır.\nII. NH₃'te bağ açısı, CH₄'teki bağ açısından daha küçüktür.\nIII. Yoğun fazda NH₃ molekülleri arasında hidrojen bağı bulunurken, CH₄ molekülleri arasında London kuvvetleri bulunur.\nyargılarından hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "correctAnswer": 3,
+    "explanation": "I. yargı yanlıştır. Her iki molekülde de merkez atom sp³ hibritleşmesi yapmış olsa da geometrileri farklıdır. CH₄'te merkez atomda bağ yapmamış elektron çifti olmadığından molekül geometrisi düzgün dörtyüzlüdür. NH₃'te ise merkez atomda bir çift bağ yapmamış elektron bulunduğu için molekül geometrisi üçgen piramittir.\nII. yargı doğrudur. VSEPR kuramına göre, bağ yapmamış elektron çiftlerinin itme kuvveti, bağ yapan elektron çiftlerinin itme kuvvetinden daha fazladır. Bu nedenle NH₃'teki ortaklanmamış elektron çifti, N-H bağlarını birbirine daha fazla yaklaştırır ve bağ açısı (yaklaşık 107°) CH₄'teki düzgün dörtyüzlü geometriye sahip bağ açısından (109.5°) daha küçük olur.\nIII. yargı doğrudur. NH₃, polar bir moleküldür ve N atomunun H atomuna doğrudan bağlı olması nedeniyle molekülleri arasında etkin olan kuvvet hidrojen bağıdır. CH₄ ise apolar bir molekül olduğu için yoğun fazda molekülleri arasında yalnızca zayıf London kuvvetleri etkindir. Bu nedenle doğru cevap II ve III'ü içeren D seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526697996_25",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: H2S?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2S, kovalent bağ ile oluşmuş bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "İyonik bağlar hangi durumda daha güçlüdür?",
+    "options": [
+      "Sıvı halde",
+      "Gaz halde",
+      "Katı halde",
+      "Plazma halinde",
+      "Buhar halinde"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağlar katı halde güçlüdür, çünkü iyonlar sıkı bir düzen içinde yer alır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311830_19",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağların bir özelliğidir?",
+    "options": [
+      "Düşük erime noktası",
+      "İyi elektrik iletkenliği",
+      "Moleküler yapılar",
+      "Yüksek çözünürlük",
+      "Hepsi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kovalent bağlı bileşikler genellikle düşük erime noktalarına ve moleküler yapılara sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528020463_8",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en düşük enerji gerektirir?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Van der Waals kuvvetleri, diğer bağ türlerine göre en düşük enerji gerektiren etkileşimlerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_26",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: CCl4?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CCl4, kovalent bağlar ile oluşmuş bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_20",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi hidrojen bağı ile su molekülleri arasında çekim kuvveti yaratır?",
+    "options": [
+      "NaCl",
+      "H2O",
+      "C2H5OH",
+      "NH3",
+      "CH4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl, hidrojen bağı oluşturmaz. Ancak diğer seçenekler, su molekülleri ile hidrojen bağı kurabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_7",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi üçlü kovalent bağ içerir?",
+    "options": [
+      "N2",
+      "CO2",
+      "O2",
+      "H2O",
+      "CH4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "N2 molekülü, iki azot atomu arasında üçlü kovalent bağ ile bağlanmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
+    "options": [
+      "Elektron paylaşımı",
+      "Yüksek erime noktası",
+      "Moleküler yapı",
+      "İyonik karakter",
+      "Düşük elektrik iletkenliği"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kovalent bağlar genellikle moleküler yapıya sahip olup, düşük elektrik iletkenliği gösterir. İyonik karakter, kovalent bağların bir özelliği değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524311829_8",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi hidrojen bağı oluşturmaz?",
+    "options": [
+      "H2O",
+      "NH3",
+      "HF",
+      "CH4",
+      "HCl"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CH4 (metan) hidrojen bağı oluşturmayan apolar bir moleküldür.",
     "difficulty": 5
   },
   {
@@ -1200,35 +1712,147 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528020463_17",
+    "id": "ai_1764528020463_19",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi metal bağı ile oluşmuştur?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi polar molekül olarak kabul edilir?",
     "options": [
-      "Alüminyum oksit",
-      "Bakır",
-      "Sodyum klorür",
-      "Su",
-      "Karbon dioksit"
+      "CCl4",
+      "CO2",
+      "NH3",
+      "O2",
+      "H2"
     ],
-    "correctAnswer": 1,
-    "explanation": "Bakır, metal atomları arasında metal bağı ile oluşmuş bir bileşiktir.",
+    "correctAnswer": 2,
+    "explanation": "NH3, azot atomunun elektronegatifliği nedeniyle polar bir moleküldür.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528020463_14",
+    "id": "ai_1764528020463_13",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi elementler arasında en yüksek elektronegatiflik farkı bulunur?",
+    "questionText": "Aşağıdakilerden hangisi bir metal bağının özelliği değildir?",
     "options": [
-      "Na-Cl",
-      "H-H",
-      "C-O",
-      "N-O",
-      "F-Cl"
+      "Elektron denizi",
+      "İyi elektrik iletkenliği",
+      "Malleabilite",
+      "Kırılganlık",
+      "Düşük erime noktası"
     ],
-    "correctAnswer": 4,
-    "explanation": "Flor (F) ve klor (Cl) arasındaki elektronegatiflik farkı en yüksektir, bu da güçlü bağlar oluşmasına neden olur.",
+    "correctAnswer": 3,
+    "explanation": "Metal bağları genellikle kırılgan değildir; aksine, metalik yapılar genellikle esneklik gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528020463_26",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi sulu bir çözelti oluşturduğunda iyonlaşır?",
+    "options": [
+      "NaCl",
+      "CCl4",
+      "K2SO4",
+      "H2O",
+      "HCl"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl su içinde iyonlaşarak Na+ ve Cl- iyonları oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519304779_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağların özelliklerinden hangisi doğrudur?",
+    "options": [
+      "Yüksek erime noktaları vardır.",
+      "İyi iletkenlik gösterirler.",
+      "Elektron paylaşımı ile oluşurlar.",
+      "Genellikle katı halde bulunurlar.",
+      "İyonik bağlardan daha zayıftırlar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur. Diğer seçenekler kovalent bağların genel özellikleri ile çelişmektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524311829_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi bağ, metal atomları arasında serbest elektronların hareketi ile oluşur?",
+    "options": [
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metallic bağ",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metalik bağ, metal atomları arasında serbest elektronların oluşturduğu bir bağdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576779464_0",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biridir?",
+    "options": [
+      "Elektrik iletkenliği yüksektir",
+      "Genellikle katı halde bulunurlar",
+      "Yüksek erime noktasına sahiptirler",
+      "Moleküler yapılar oluştururlar",
+      "Iyonik bileşenler oluştururlar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur ve genellikle moleküler yapılar oluşturur. Kovalent bileşikler genellikle düşük erime noktasına sahiptir ve elektrik iletkenliği düşüktür.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764575606115_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kimyasal bağların en güçlü olanı hangisidir?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals bağı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur ve genellikle diğer bağlardan daha güçlüdür.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528020463_25",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en güçlü bağdır?",
+    "options": [
+      "Hidrojen bağı",
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metal bağı",
+      "Van der Waals kuvvetleri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağlar, güçlü elektrostatik çekim kuvvetleri nedeniyle en güçlü bağ türüdür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526697996_19",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: H2?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metal bağı",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2, iki hidrojen atomu arasında kovalent bağ ile oluşur.",
     "difficulty": 4
   },
   {
@@ -1264,628 +1888,36 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764526697996_13",
+    "id": "ai_1764575606115_8",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi polar molekül değildir?",
+    "questionText": "İyonik bileşiklerin erime noktaları genellikle nasıldır?",
     "options": [
-      "HCl",
-      "H2O",
-      "CH3Cl",
-      "CO2",
-      "NH3"
-    ],
-    "correctAnswer": 3,
-    "explanation": "CO2, simetrik bir yapıya sahip olduğu için polar bir molekül değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_25",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: H2S?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2S, kovalent bağ ile oluşmuş bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_27",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi apolar bir moleküldür?",
-    "options": [
-      "HCl",
-      "SO2",
-      "CCl4",
-      "NH3",
-      "H2O"
+      "Düşük",
+      "Orta",
+      "Yüksek",
+      "Değişkendir",
+      "Sabit değildir"
     ],
     "correctAnswer": 2,
-    "explanation": "CCl4 apolar bir moleküldür çünkü simetrik bir yapıya sahiptir.",
-    "difficulty": 4
+    "explanation": "İyonik bileşikler, güçlü elektrostatik çekim kuvvetleri nedeniyle genellikle yüksek erime noktalarına sahiptir.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764524311829_3",
+    "id": "ai_1764524311829_15",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikten hangisi en yüksek erime noktasına sahip olabilir?",
+    "questionText": "Hangi molekül polar bir moleküldür?",
     "options": [
-      "MgO",
-      "NaCl",
+      "CH4",
+      "O2",
       "H2O",
-      "CO2",
+      "N2",
       "CCl4"
     ],
-    "correctAnswer": 0,
-    "explanation": "MgO, iyonik bağ yapısı nedeniyle yüksek erime noktasına sahiptir.",
+    "correctAnswer": 2,
+    "explanation": "H2O, farklı elektronegatiflikteki atomlar içermesi nedeniyle polar bir moleküldür.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764524311829_5",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
-    "options": [
-      "Düşük erime noktası",
-      "İyi elektrik iletkenliği",
-      "Moleküler yapı",
-      "Elektron paylaşımı",
-      "Düşük çözünürlük"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağlı bileşikler genellikle elektrik iletkenliği göstermez.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524311829_10",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki maddelerden hangisi en yüksek çözünürlükte su ile etkileşir?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "C6H12O6",
-      "CCl4",
-      "SO2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl, su ile iyi çözünen bir iyonik bileşiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499851398_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kükürt dioksit (SO₂) molekülü ile ilgili aşağıdaki yargılardan hangisi doğrudur? (₁₆S, ₈O)",
-    "options": [
-      "Molekül geometrisi doğrusaldır.",
-      "Molekül apolardır.",
-      "Molekül içi bağlar apolar kovalenttir.",
-      "Lewis yapısında kükürt atomu üzerinde ortaklanmamış elektron çifti bulunmaz.",
-      "Molekülde rezonans yapılar gözlenir."
-    ],
-    "correctAnswer": 4,
-    "explanation": "SO₂ molekülünün özelliklerini inceleyelim:\n1. Lewis Yapısı: Merkez atom kükürttür (S). Kükürt 6A, Oksijen 6A grubundadır. Toplam değerlik elektron sayısı = 6 + 2*6 = 18'dir. Lewis yapısı çizildiğinde, merkez atom S üzerinde bir adet ortaklanmamış elektron çifti (yalın çift) ve S atomunun her iki O atomuyla bir çiftli bir tekli bağ yaptığı (veya iki çiftli bağ yapıp oktetini aştığı) görülür. En kararlı yapı, bir çiftli ve bir tekli bağ içeren rezonans yapılardır.\n2. VSEPR Gösterimi: Merkez atom (A), merkeze bağlı 2 atom (X₂), merkez atomdaki 1 yalın çift (E₁) olmak üzere VSEPR gösterimi AX₂E₁'dir.\nBu bilgilere göre şıkları değerlendirelim:\nA) AX₂E₁ VSEPR gösterimine sahip moleküllerin geometrisi doğrusal değil, kırık doğru (açısal)'dır. Bu ifade yanlıştır.\nB) Molekül geometrisi açısal olduğu için S-O bağlarının oluşturduğu dipol momentler birbirini sıfırlamaz. Bu nedenle molekül polardır. Bu ifade yanlıştır.\nC) Kükürt ve oksijen farklı ametal atomlarıdır ve aralarında elektronegatiflik farkı bulunur. Bu nedenle aralarındaki bağ polar kovalenttir. Bu ifade yanlıştır.\nD) Lewis yapısı çizildiğinde, merkez atom olan kükürt (S) üzerinde bir adet ortaklanmamış (yalın) elektron çifti bulunur. Bu ifade yanlıştır.\nE) SO₂ molekülündeki çift bağ, iki oksijen atomu arasında yer değiştirebilir. Bu durum, molekülün tek bir Lewis yapısıyla ifade edilemediğini ve gerçek yapının bu iki formun bir melezi (rezonans hibriti) olduğunu gösterir. Bu ifade doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528020463_25",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağ türlerinden hangisi en güçlü bağdır?",
-    "options": [
-      "Hidrojen bağı",
-      "Kovalent bağ",
-      "İyonik bağ",
-      "Metal bağı",
-      "Van der Waals kuvvetleri"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İyonik bağlar, güçlü elektrostatik çekim kuvvetleri nedeniyle en güçlü bağ türüdür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311829_12",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi metalik bağ ile tanımlanamaz?",
-    "options": [
-      "Fe",
-      "Cu",
-      "AgCl",
-      "Al",
-      "Zn"
-    ],
-    "correctAnswer": 2,
-    "explanation": "AgCl, iyonik bir bileşiktir ve metalik bağ ile tanımlanamaz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501223040_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Amonyak (NH₃) ve metan (CH₄) molekülleri ile ilgili;\nI. Her ikisinin de molekül geometrisi aynıdır.\nII. NH₃'te bağ açısı, CH₄'teki bağ açısından daha küçüktür.\nIII. Yoğun fazda NH₃ molekülleri arasında hidrojen bağı bulunurken, CH₄ molekülleri arasında London kuvvetleri bulunur.\nyargılarından hangileri doğrudur?",
-    "options": [
-      "A) Yalnız I",
-      "B) Yalnız II",
-      "C) I ve III",
-      "D) II ve III",
-      "E) I, II ve III"
-    ],
-    "correctAnswer": 3,
-    "explanation": "I. yargı yanlıştır. Her iki molekülde de merkez atom sp³ hibritleşmesi yapmış olsa da geometrileri farklıdır. CH₄'te merkez atomda bağ yapmamış elektron çifti olmadığından molekül geometrisi düzgün dörtyüzlüdür. NH₃'te ise merkez atomda bir çift bağ yapmamış elektron bulunduğu için molekül geometrisi üçgen piramittir.\nII. yargı doğrudur. VSEPR kuramına göre, bağ yapmamış elektron çiftlerinin itme kuvveti, bağ yapan elektron çiftlerinin itme kuvvetinden daha fazladır. Bu nedenle NH₃'teki ortaklanmamış elektron çifti, N-H bağlarını birbirine daha fazla yaklaştırır ve bağ açısı (yaklaşık 107°) CH₄'teki düzgün dörtyüzlü geometriye sahip bağ açısından (109.5°) daha küçük olur.\nIII. yargı doğrudur. NH₃, polar bir moleküldür ve N atomunun H atomuna doğrudan bağlı olması nedeniyle molekülleri arasında etkin olan kuvvet hidrojen bağıdır. CH₄ ise apolar bir molekül olduğu için yoğun fazda molekülleri arasında yalnızca zayıf London kuvvetleri etkindir. Bu nedenle doğru cevap II ve III'ü içeren D seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526697996_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hidrojen bağı hangi tür moleküller arasında oluşur?",
-    "options": [
-      "Metal atomları arasında",
-      "İyonik bileşikler arasında",
-      "Polar moleküller arasında",
-      "Apolar moleküller arasında",
-      "Hepsi arasında"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hidrojen bağı, genellikle polar moleküller arasında oluşur, özellikle de O, N veya F gibi elektronegatif atomlar içerenlerde.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575606115_7",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi kovalent bağ ile oluşmuş bir bileşiktir?",
-    "options": [
-      "NaCl",
-      "MgO",
-      "H2O",
-      "CaF2",
-      "K2SO4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H2O (su) molekülü, iki hidrojen atomu ile bir oksijen atomu arasında kovalent bağ ile oluşmuştur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764498516247_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "NaCl, H₂O ve CH₄ bileşiklerinin standart koşullardaki erime noktaları arasındaki ilişki aşağıdakilerden hangisinde doğru olarak verilmiştir?",
-    "options": [
-      "NaCl > H₂O > CH₄",
-      "H₂O > NaCl > CH₄",
-      "CH₄ > H₂O > NaCl",
-      "NaCl > CH₄ > H₂O",
-      "H₂O > CH₄ > NaCl"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Maddelerin erime noktaları, tanecikler arası çekim kuvvetlerinin gücüne bağlıdır.\n1. **NaCl (Sodyum klorür):** İyonik bir bileşiktir. Katı halde iyonik kristal örgü yapısındadır ve zıt yüklü iyonlar arasında çok güçlü elektrostatik çekim kuvvetleri bulunur. Bu kuvvetleri kırmak için çok yüksek enerji gerekir, bu yüzden erime noktası çok yüksektir (801 °C).\n2. **H₂O (Su):** Polar kovalent bağlara sahip polar bir moleküldür. Molekülleri arasında etkin olan en güçlü zayıf etkileşim türü hidrojen bağlarıdır. Hidrojen bağları, London kuvvetlerinden çok daha güçlüdür. Erime noktası 0 °C'dir.\n3. **CH₄ (Metan):** Apolar kovalent bağlara sahip apolar bir moleküldür. Molekülleri arasında yalnızca zayıf London dağılım kuvvetleri etkindir. Bu kuvvetler çok zayıf olduğu için erime noktası çok düşüktür (-182 °C).\nBu bilgilere göre, tanecikler arası çekim kuvvetleri en güçlü olan NaCl'nin erime noktası en yüksek, en zayıf olan CH₄'ün erime noktası ise en düşüktür. Dolayısıyla doğru sıralama NaCl > H₂O > CH₄ şeklindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528020463_9",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi iyonik bağ ile oluşmuştur?",
-    "options": [
-      "H2O",
-      "NaCl",
-      "CH4",
-      "O2",
-      "N2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaCl, sodyum ve klor atomları arasında iyonik bağ ile oluşan bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_18",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi molekül kovalent bağın en güçlü örneğidir?",
-    "options": [
-      "O2",
-      "N2",
-      "H2",
-      "F2",
-      "Cl2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "N2, iki azot atomu arasında üçlü kovalent bağ ile bağlandığı için en güçlü kovalent bağ örneğidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311830_18",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bileşikte hidrojen bağı bulunmaz?",
-    "options": [
-      "HF",
-      "H2O",
-      "NH3",
-      "C2H6",
-      "CH3OH"
-    ],
-    "correctAnswer": 3,
-    "explanation": "C2H6 (etan), hidrojen bağı oluşturmayan apolar bir bileşiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575606115_5",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kimyasal bağların en güçlü olanı hangisidir?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Van der Waals bağı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur ve genellikle diğer bağlardan daha güçlüdür.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528020463_13",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi bir metal bağının özelliği değildir?",
-    "options": [
-      "Elektron denizi",
-      "İyi elektrik iletkenliği",
-      "Malleabilite",
-      "Kırılganlık",
-      "Düşük erime noktası"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Metal bağları genellikle kırılgan değildir; aksine, metalik yapılar genellikle esneklik gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_10",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ türü bulunur: Na2O?",
-    "options": [
-      "Kovalent bağ",
-      "İyonik bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Dipol-dipol etkileşimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Na2O, sodyum ve oksijen arasındaki iyonik bağ ile oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağ türlerinden hangisi en yüksek erime noktasına sahiptir?",
-    "options": [
-      "Kovalent bağ",
-      "İyonik bağ",
-      "Metal bağı",
-      "Van der Waals kuvvetleri",
-      "Hidrojen bağı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İyonik bağlar, güçlü elektrostatik çekim kuvvetleri nedeniyle genellikle yüksek erime noktalarına sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575606115_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kovalent bağ hangi tür atomlar arasında oluşur?",
-    "options": [
-      "Metal atomları arasında",
-      "Ametal atomları arasında",
-      "Metal ve ametal atomları arasında",
-      "Ametal ve metal atomları arasında",
-      "Aynı cins atomlar arasında"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağ, genellikle ametal atomları arasında elektron paylaşımı ile oluşur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764524311829_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi iyonik bağ ile oluşmuştur?",
-    "options": [
-      "H2O",
-      "NaCl",
-      "CO2",
-      "CH4",
-      "C6H12O6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaCl, sodyum ve klor atomları arasında elektron transferi ile oluşan iyonik bir bileşiktir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526697996_15",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bağ türlerinden hangisi bir metal atomu ile bir ametal atomu arasında oluşur?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Van der Waals kuvvetleri",
-      "Hidrojen bağı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İyonik bağ, metal ve ametal atomları arasında elektron transferi ile oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_11",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki moleküllerden hangisi apolar bir kovalent bağ içerir?",
-    "options": [
-      "HCl",
-      "H2O",
-      "O2",
-      "NH3",
-      "CH3Cl"
-    ],
-    "correctAnswer": 2,
-    "explanation": "O2 molekülü, iki oksijen atomu arasında apolar kovalent bağ içerir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764521026139_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biri değildir?",
-    "options": [
-      "Elektron paylaşımı ile oluşur.",
-      "İki atom arasında güçlü bir çekim kuvveti vardır.",
-      "Genellikle metal atomları arasında görülür.",
-      "Düşük erime noktalarına sahiptir.",
-      "Moleküler yapılar oluşturur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kovalent bağlar genellikle ametal atomları arasında görülür. Metal atomları genellikle iyonik bağlar oluşturur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528020463_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi molekül polar kovalent bağ içerir?",
-    "options": [
-      "O2",
-      "N2",
-      "HCl",
-      "CH4",
-      "C2H6"
-    ],
-    "correctAnswer": 2,
-    "explanation": "HCl molekülü, hidrojen ve klor atomları arasında polar kovalent bağ içerir, çünkü farklı elektronegativitelere sahiptirler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575606115_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kimyasal bağlar hangi iki temel kuvvetten oluşur?",
-    "options": [
-      "Elektriksel kuvvetler ve manyetik kuvvetler",
-      "Gravitasyonel kuvvetler ve çekirdek kuvvetleri",
-      "Elektriksel kuvvetler ve çekirdek kuvvetleri",
-      "Manyetik kuvvetler ve çekirdek kuvvetleri",
-      "Elektriksel kuvvetler ve nükleer kuvvetler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kimyasal bağlar, atomlar arası etkileşimlerden kaynaklanan elektriksel kuvvetler ile nükleer kuvvetlerin etkileşimleri sonucunda oluşur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764575606115_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hidrojen bağı hangi tür moleküller arasında görülür?",
-    "options": [
-      "Metaller arasında",
-      "Ametal atomları arasında",
-      "Hidrojen ile elektronegatif atomlar arasında",
-      "İyonik bileşikler arasında",
-      "Kovalent bağlar arasında"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hidrojen bağı, genellikle hidrojen atomunun yüksek elektronegatifliğe sahip bir atom ile etkileşimi sonucu oluşur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764526697996_11",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi tür bağlar bulunur: C6H12O6?",
-    "options": [
-      "İyonik bağ",
-      "Kovalent bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Van der Waals kuvvetleri"
-    ],
-    "correctAnswer": 1,
-    "explanation": "C6H12O6 (glikoz) kovalent bağlar içerir, bu bağlar atomlar arasında elektron paylaşımı ile oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524311829_14",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki atomlardan hangisi elektron alarak negatif iyon oluşturur?",
-    "options": [
-      "Na",
-      "Cl",
-      "Mg",
-      "K",
-      "Ca"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cl, elektron alarak negatif iyon (Cl-) oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524311830_17",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bağ, bir atomun diğerinin elektronunu tamamen aldığı durumda oluşur?",
-    "options": [
-      "Kovalent bağ",
-      "İyonik bağ",
-      "Metallic bağ",
-      "Hidrojen bağı",
-      "Van der Waals kuvveti"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İyonik bağ, bir atomun elektronunu tamamen alması durumunda oluşur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528020463_15",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi hidrojen bağı içerir?",
-    "options": [
-      "NaCl",
-      "H2O",
-      "CO2",
-      "CH4",
-      "C2H5OH"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2O molekülü, hidrojen atomları ile oksijen atomu arasında hidrojen bağı içerir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528020463_6",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Kovalent bağın kuvveti hangi faktöre bağlıdır?",
-    "options": [
-      "Atom büyüklüğü",
-      "Elektronegatiflik farkı",
-      "Bağ sayısı",
-      "Bağ açısı",
-      "Hızlı hareket"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kovalent bağın kuvveti, bağ sayısına bağlıdır; daha fazla bağ, daha güçlü bir etkileşim sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526697996_9",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Metal bağları hangi durumlarda güçlüdür?",
-    "options": [
-      "Yüksek sıcaklıklarda",
-      "Düşük sıcaklıklarda",
-      "Sıvı halde",
-      "Katı halde",
-      "Gaz halde"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Metal bağları genellikle katı halde güçlüdür, çünkü metal atomları arasında serbest elektronlar bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576779464_0",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdakilerden hangisi kovalent bağın özelliklerinden biridir?",
-    "options": [
-      "Elektrik iletkenliği yüksektir",
-      "Genellikle katı halde bulunurlar",
-      "Yüksek erime noktasına sahiptirler",
-      "Moleküler yapılar oluştururlar",
-      "Iyonik bileşenler oluştururlar"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur ve genellikle moleküler yapılar oluşturur. Kovalent bileşikler genellikle düşük erime noktasına sahiptir ve elektrik iletkenliği düşüktür.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576779464_1",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hangi bağ, elektronların bir atomdan diğerine tamamen transfer edilmesi ile oluşur?",
-    "options": [
-      "Kovalent bağ",
-      "Iyonik bağ",
-      "Metal bağı",
-      "Hidrojen bağı",
-      "Van der Waals bağı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İyonik bağ, bir atomun (genellikle metal) elektronlarını tamamen kaybetmesi ve diğer bir atomun (genellikle ametal) bu elektronları tamamen alması ile oluşur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576779464_2",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi iyonik bağ içeren bir bileşiktir?",
-    "options": [
-      "CH4",
-      "NaCl",
-      "H2O",
-      "CO2",
-      "C6H12O6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaCl (sodyum klorür) bileşiği, sodyum ve klor atomları arasında elektron transferi ile oluştuğu için iyonik bağ içerir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576779464_3",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Metal bağının temel özelliği nedir?",
-    "options": [
-      "Elektronların tamamen yer değiştirmesi",
-      "Serbest elektronların varlığı",
-      "Moleküller arası çekim kuvvetleri",
-      "Elektrostatik çekim kuvvetleri",
-      "Elektron çiftleri ile bağlanma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Metal bağı, metal atomları arasında serbest hareket eden elektronların varlığı ile oluşur. Bu serbest elektronlar, metal atomlarını birbirine bağlar.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576779464_4",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Hidrojen bağı, hangi tür moleküller arasında oluşur?",
-    "options": [
-      "İyonik moleküller",
-      "Metalik moleküller",
-      "Kovalent moleküller",
-      "Ametal moleküller",
-      "Ametal ve metal karışımı moleküller"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hidrojen bağı, genellikle kovalent bağ ile bağlanmış hidrojen atomları ile diğer elektronegatif atomlar (örneğin, O, N, F) arasında oluşan zayıf bir bağdır.",
-    "difficulty": 2
   },
   {
     "id": "ai_1764576779464_5",
@@ -1904,51 +1936,483 @@
     "difficulty": 2
   },
   {
-    "id": "ai_1764576779464_6",
+    "id": "ai_1764524311829_16",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Elementler arası bağların en kuvvetlisi hangisidir?",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en zayıf bağdır?",
     "options": [
       "Kovalent bağ",
       "İyonik bağ",
-      "Metal bağı",
       "Hidrojen bağı",
-      "Van der Waals bağı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kovalent bağ, atomlar arasında güçlü bir elektron paylaşımı ile oluşur ve genellikle diğer bağ türlerine göre daha kuvvetlidir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576779464_7",
-    "subjectId": "kim",
-    "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki bileşikte hangi bağ tipi bulunmaktadır: H2O?",
-    "options": [
-      "İyonik bağ",
-      "Metal bağı",
-      "Kovalent bağ",
-      "Hidrojen bağı",
-      "Van der Waals bağı"
+      "Metallic bağ",
+      "Dipol-dipol etkileşimi"
     ],
     "correctAnswer": 2,
-    "explanation": "H2O (su) molekülü, hidrojen ve oksijen atomları arasında kovalent bağ ile oluşmuştur.",
-    "difficulty": 2
+    "explanation": "Hidrojen bağı, diğer bağ türlerine göre daha zayıf bir bağdır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764576779464_8",
+    "id": "ai_1764578349732_0",
     "subjectId": "kim",
     "topic": "Kimyasal Bağlar",
-    "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "questionText": "Bir molekülde, atomlar arası bağların oluşmasını sağlayan etkileşim türü aşağıdakilerden hangisidir?",
     "options": [
-      "İyonik bağ yüksek erime noktasına sahiptir.",
-      "Kovalent bağ zayıf elektrostatik çekim kuvvetidir.",
-      "Metal bağı serbest elektronlar ile oluşur.",
-      "Hidrojen bağı genellikle güçlü bir bağdır.",
-      "Kovalent bağ moleküller arası etkileşimleri zayıf yapar."
+      "Iyonik bağ",
+      "Kovalent bağ",
+      "Metalik bağ",
+      "Van der Waals kuvvetleri",
+      "Hidrojen bağı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Atomlar arası bağlar, atomların birbirleriyle etkileşimde bulunarak moleküller oluşturmasını sağlar. Iyonik bağ, kovalent bağ ve metalik bağ gibi bağ türleri bu etkileşimleri içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_1",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi iyonik bağ ile oluşur?",
+    "options": [
+      "H2O",
+      "NaCl",
+      "CO2",
+      "CH4",
+      "O2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İyonik bağ, genellikle bir metal ve bir ametal arasında oluşur. NaCl, sodyum ve klor arasındaki iyonik bağ ile oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_2",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağın en önemli özelliği nedir?",
+    "options": [
+      "Elektron transferi",
+      "Elektron paylaşımı",
+      "Kütle çekimi",
+      "İyonlaşma",
+      "Dengeli yük dağılımı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, atomlar arasında elektronların paylaşılması ile oluşur. Bu bağ, moleküllerin stabilitesini sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_3",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Metal atomları arasındaki bağ türü hangisidir?",
+    "options": [
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metallic bağ",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metal atomları arasındaki bağ, serbest elektronların hareketi ile oluşan metalik bağdır. Bu bağ, metallere özelliklerini kazandırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_4",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hidrojen bağı hangi tür moleküller arasında en belirgin şekilde görülür?",
+    "options": [
+      "Kütleçeşitli moleküller",
+      "Polar moleküller",
+      "Nonpolar moleküller",
+      "Karbon bazlı moleküller",
+      "Metalik moleküller"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hidrojen bağı, polar moleküller arasında, özellikle de hidrojenin yüksek elektronegatiflikteki elementlerle (örneğin O, N, F) etkileşiminde bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_5",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi polar kovalent bağ içerir?",
+    "options": [
+      "N2",
+      "HCl",
+      "O2",
+      "F2",
+      "CH4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, hidrojen ve klor atomları arasında polar kovalent bağ içerir, çünkü klor daha elektronegatif bir elementtir ve elektronları daha fazla çeker.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_6",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en güçlü bağdır?",
+    "options": [
+      "Kovalent bağ",
+      "İyonik bağ",
+      "Metallic bağ",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Genel olarak, kovalent bağlar en güçlü bağlar arasında kabul edilir. Ancak, iyonik bağlar da güçlüdür, fakat durumdan duruma değişkenlik gösterebilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_7",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Bir atomun elektronegatifliği, hangi özellik ile ilişkilidir?",
+    "options": [
+      "Atomun kütlesi",
+      "Atomun yarıçapı",
+      "Elektron çekme yeteneği",
+      "İyonlaşma enerjisi",
+      "Bağ enerjisi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elektronegatiflik, bir atomun bağlanma durumunda elektronları ne kadar çektiğini belirten bir ölçüdür. Yüksek elektronegatiflik, atomun elektronları daha fazla çekme eğiliminde olduğunu gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_8",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hangi durum, iyonik bağın oluşması için gereklidir?",
+    "options": [
+      "Yüksek sıcaklık",
+      "Yüksek basınç",
+      "Elektron transferi",
+      "Elektron paylaşımı",
+      "Düşük enerjili ortam"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İyonik bağ, bir atomun elektronları diğer bir atoma transfer etmesiyle oluşur. Bu durum, pozitif ve negatif yüklerin çekiminden dolayı iyonik bileşikleri oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_9",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi nonpolar kovalent bağ içermektedir?",
+    "options": [
+      "H2O",
+      "CO2",
+      "NH3",
+      "HCl",
+      "NaCl"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CO2, karbon ve oksijen arasında eşit dağılan elektronlar ile nonpolar kovalent bağ içerir. Diğer moleküller ya polar ya da iyoniktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_10",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki maddelerden hangisi metalik bağ özelliklerine sahip değildir?",
+    "options": [
+      "Alüminyum",
+      "Bakır",
+      "Sodyum",
+      "Klor",
+      "Demir"
     ],
     "correctAnswer": 3,
-    "explanation": "Hidrojen bağı, genellikle zayıf bir bağ olarak kabul edilir. Kovalent bağlar güçlü bağlardır.",
-    "difficulty": 2
+    "explanation": "Klor, ametal bir elementtir ve metalik bağ özelliklerine sahip değildir. Diğerleri metallerdir ve metalik bağ içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_11",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağın oluşumunda aşağıdaki orbital eşleşmelerinden hangisi yanlıştır?",
+    "options": [
+      "s-s",
+      "p-p",
+      "s-p",
+      "d-d",
+      "p-s"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kovalent bağlar, atomların orbitalleri arasında elektron paylaşımı ile oluşur. s-s eşleşmesi genelde görülmez, diğerleri mümkündür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_12",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşiklerden hangisi sadece hidrojen bağları ile etkileşir?",
+    "options": [
+      "C6H12O6",
+      "H2O",
+      "NH3",
+      "HF",
+      "He"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2O, hidrojen bağları ile etkileşen bir moleküldür. Diğerleri hidrojen bağları dışında farklı bağ türleri içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_13",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi iyonik bağdan daha zayıftır?",
+    "options": [
+      "Kovalent bağ",
+      "Metallic bağ",
+      "Hidrojen bağı",
+      "Van der Waals kuvvetleri",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hidrojen bağı, iyonik bağdan daha zayıf bir etkileşimdir. Van der Waals kuvvetleri de daha zayıftır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_14",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi kovalent bağlı bir bileşiktir?",
+    "options": [
+      "NaCl",
+      "MgO",
+      "H2",
+      "Fe",
+      "CaF2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H2, hidrojen atomları arasında kovalent bağ ile oluşur. Diğer bileşikler iyonik veya metalik bağ içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_15",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "İyonik bağın oluşumunda hangi enerji türü açığa çıkar?",
+    "options": [
+      "Bağ enerjisi",
+      "İyonlaşma enerjisi",
+      "Kütle enerjisi",
+      "Dissosiyasyon enerjisi",
+      "Ayrılma enerjisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İyonik bağın oluşumunda, iyonların çekiminden dolayı bağ enerjisi açığa çıkar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_16",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi en az iki farklı atom içerir?",
+    "options": [
+      "O2",
+      "N2",
+      "H2",
+      "CCl4",
+      "F2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CCl4, karbon ve klor atomlarından oluşan bir moleküldür. Diğerleri yalnızca tek bir atom tipinden oluşmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_17",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki moleküllerden hangisi polar değildir?",
+    "options": [
+      "H2O",
+      "NH3",
+      "CH4",
+      "HCl",
+      "HF"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CH4, karbon ve hidrojeni içerir fakat elektron dağılımı eşit olduğundan polar değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_18",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Metal atomlarının serbest elektronları hangi tür bağı oluşturur?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metallic bağ",
+      "Hidrojen bağı",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metal atomları arasında serbest elektronlar sayesinde metallic bağ oluşur. Bu bağ metallere özelliklerini kazandırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_19",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi kovalent bağ ile oluşmuştur?",
+    "options": [
+      "NaCl",
+      "HCl",
+      "K2O",
+      "CaCl2",
+      "MgF2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HCl, hidrojen ve klor arasında kovalent bağ ile oluşur. Diğer bileşiklerde iyonik bağlar vardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_20",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en zayıf olanıdır?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Hidrojen bağı",
+      "Metallic bağ",
+      "Dipol-dipol etkileşimi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Dipol-dipol etkileşimleri, en zayıf bağ türleri arasında yer alır. Diğer bağlar daha güçlüdür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_21",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki maddelerden hangisi iyonik bağ ile oluşmaz?",
+    "options": [
+      "KCl",
+      "MgO",
+      "NaF",
+      "CCl4",
+      "LiBr"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CCl4, kovalent bağ ile oluşan bir bileşiktir. Diğerleri iyonik bağ ile oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_22",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Hidrojen bağı hangi özellikte moleküller arasında görülür?",
+    "options": [
+      "Polar moleküller",
+      "Nonpolar moleküller",
+      "Metalik moleküller",
+      "İyonik moleküller",
+      "Apolar moleküller"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidrojen bağı, genellikle polar moleküller arasında oluşan bir etkileşimdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_23",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki atomlardan hangisinin elektronegatifliği en yüksektir?",
+    "options": [
+      "Klor",
+      "Astar",
+      "Oksijen",
+      "Kükürt",
+      "Karbon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Klor, periyodik tabloda en yüksek elektronegatifliğe sahip elementlerden biridir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_24",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağlar, hangi durumda daha güçlüdür?",
+    "options": [
+      "Daha fazla atom ile bağlanma",
+      "Daha kısa bağ uzunluğu",
+      "Daha düşük elektronegatiflik",
+      "Yüksek sıcaklık",
+      "Daha fazla elektrik yükü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağlar, bağ uzunluğu kısaldıkça daha güçlü hale gelir. Kısa bağlar genellikle daha fazla enerji gerektirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_25",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdaki bağ türlerinden hangisi en kısa mesafeye sahiptir?",
+    "options": [
+      "İyonik bağ",
+      "Kovalent bağ",
+      "Metallic bağ",
+      "Hidrojen bağı",
+      "Van der Waals kuvveti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağlar, atomlar arasında en kısa mesafeye sahiptir çünkü elektronlar doğrudan paylaşılarak bağ oluştururlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_26",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi metalik bağın özelliklerinden biri değildir?",
+    "options": [
+      "Elektronların hareket özgürlüğü",
+      "Yüksek iletkenlik",
+      "Düşük erime noktası",
+      "Parlaklık",
+      "Düşük yoğunluk"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Metalik bağlar genellikle yüksek erime noktalarına sahiptir. Düşük erime noktası bu bağın özelliği değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_27",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Aşağıdakilerden hangisi iyonik bileşiktir?",
+    "options": [
+      "H2O",
+      "NH3",
+      "NaCl",
+      "CH4",
+      "O2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "NaCl, sodyum ve klor arasında iyonik bağ ile oluşan bir bileşiktir. Diğerleri kovalent bileşiklerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578349732_28",
+    "subjectId": "kim",
+    "topic": "Kimyasal Bağlar",
+    "questionText": "Kovalent bağın en önemli özelliği hangisidir?",
+    "options": [
+      "Serbest elektronlar",
+      "Elektron paylaşımı",
+      "İyonik etkileşimler",
+      "Kütle çekimi",
+      "Dengeli yük dağılımı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kovalent bağ, atomlar arasında elektron paylaşımı ile oluşur ve bu nedenle moleküllerin stabilitesini sağlar.",
+    "difficulty": 4
   }
 ]
