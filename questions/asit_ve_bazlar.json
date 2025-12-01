@@ -1,579 +1,19 @@
 [
   {
-    "id": "ai_1764524387513_10",
+    "id": "ai_1764524387513_15",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi pH değeri en güçlü asidi temsil eder?",
+    "questionText": "Bir çözeltinin pH değeri 12 ise bu çözeltinin hangi özelliği vardır?",
     "options": [
-      "1",
-      "3",
-      "5",
-      "7",
-      "9"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH değeri 1 olan bir çözelti, en güçlü asidi temsil eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528082718_24",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 9.0 ise, bu çözeltinin H+ iyonu konsantrasyonu ne kadar olur?",
-    "options": [
-      "10^-9 mol/L",
-      "10^-10 mol/L",
-      "10^-11 mol/L",
-      "10^-12 mol/L",
-      "10^-14 mol/L"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH 9.0, 10^-11 mol/L H+ iyonu konsantrasyonu anlamına gelir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387513_11",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin güçlü olup olmadığını belirlemek için hangi özellik dikkate alınır?",
-    "options": [
-      "pH değeri",
-      "Molekül yapısı",
-      "Çözünürlük",
-      "İyonlaşma derecesi",
-      "Renk"
+      "Hafif asidik",
+      "Hafif bazik",
+      "Güçlü asidik",
+      "Güçlü bazik",
+      "Nötr"
     ],
     "correctAnswer": 3,
-    "explanation": "Asidin güçlü olup olmadığını belirlemek için iyonlaşma derecesi en önemli faktördür.",
+    "explanation": "pH değeri 12 olan bir çözelti güçlü bazik özellik taşır.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387513_6",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi indikatör, pH 4'te mavi renge döner?",
-    "options": [
-      "Fenolftalein",
-      "Metil oranj",
-      "Bromotimol mavisi",
-      "Lakmus",
-      "Kırmızı turnusol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fenolftalein, pH 4'te mavi renge döner ve asidik ortamda renksizdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526753928_9",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi bir tuz olarak bilinir?",
-    "options": [
-      "NaCl",
-      "H2SO4",
-      "HCl",
-      "NH3",
-      "H2O"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaCl, sodyum klorür olarak bilinir ve bir tuzdur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387514_19",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi baz, asidik bir çözelti ile tepkimeye girdiğinde tuz ve su oluşur?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "NH4OH",
-      "Mg(OH)2",
-      "Ca(OH)2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaOH, asidik bir çözelti ile tepkimeye girdiğinde tuz ve su oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528082718_31",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdakilerden hangisi bir zayıf bazdır?",
-    "options": [
-      "NH3",
-      "NaOH",
-      "KOH",
-      "HCl",
-      "H2SO4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NH3, amonyak olarak bilinen zayıf bir bazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387514_22",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asidin nötrleştirici özelliği vardır?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "NaOH",
-      "H3PO4"
-    ],
-    "correctAnswer": 4,
-    "explanation": "H3PO4 (fosforik asit) nötrleştirici özellik gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520270276_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 7 olan bir çözeltinin asidik, bazik ya da nötr olup olmadığını belirleyin.",
-    "options": [
-      "Asidik",
-      "Bazik",
-      "Nötr",
-      "Zayıf asidik",
-      "Zayıf bazik"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH değeri 7 olan bir çözeltinin nötr olduğu kabul edilir. Asidik çözeltiler pH 7'den düşük, bazik çözeltiler ise pH 7'den yüksektir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526753928_6",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltide hidrojen iyonu (H+) konsantrasyonu arttıkça pH ne olur?",
-    "options": [
-      "Artar",
-      "Azalır",
-      "Değişmez",
-      "Sabit kalır",
-      "Düşmez"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hidrojen iyonu konsantrasyonu arttıkça, pH değeri azalır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387515_29",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi baz, pH değeri 14 olan bir çözeltidir?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "LiOH",
-      "Ca(OH)2",
-      "Tuz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaOH, pH değeri 14 olan bir çözeltidir ve güçlü bir bazdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387514_25",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi pH aralığı, nötr bir çözeltiyi temsil eder?",
-    "options": [
-      "6-8",
-      "7-9",
-      "6-7",
-      "7",
-      "8-10"
-    ],
-    "correctAnswer": 3,
-    "explanation": "pH 7, nötr bir çözeltiyi temsil eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387513_12",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, yağların hidrolizinde önemli bir rol oynar?",
-    "options": [
-      "Sitrik asit",
-      "Asetik asit",
-      "Hidroklorik asit",
-      "Sülfürik asit",
-      "Fosforik asit"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sülfürik asit, yağların hidrolizinde önemli bir rol oynar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387514_23",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 6 olan bir çözelti hangi tür özellik gösterir?",
-    "options": [
-      "Asidik",
-      "Nötr",
-      "Bazik",
-      "Radikal",
-      "Tuzlu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH değeri 6 olan bir çözelti asidik özellik taşır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387513_14",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi baz, su ile tepkimeye girdiğinde sodyum ve hidrojen iyonları üretir?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "LiOH",
-      "Ba(OH)2",
-      "Ca(OH)2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NaOH, su ile tepkimeye girdiğinde sodyum (Na+) ve hidrojen iyonları (OH-) üretir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528082717_1",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "HCl + NaOH tepkimesinin sonucunda hangi madde oluşur?",
-    "options": [
-      "NaCl",
-      "H2O",
-      "H2",
-      "O2",
-      "NaOH"
-    ],
-    "correctAnswer": 0,
-    "explanation": "HCl ve NaOH tepkimesi sonucunda tuz (NaCl) ve su (H2O) oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_3",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 10 ise bu çözeltinin hangi özellikte olduğunu söyleyebilirsiniz?",
-    "options": [
-      "Asidik",
-      "Bazik",
-      "Nötr",
-      "Amfoter",
-      "Tuz"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 7'den yüksek olan çözeltiler baziktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387515_28",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, meyve ve sebzelerde doğal olarak bulunur?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "HNO3",
-      "H3PO4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Asetik asit (CH3COOH), meyve ve sebzelerde doğal olarak bulunan bir asittir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387514_18",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltideki hidrojen iyonu (H+) konsantrasyonu arttığında, pH değeri nasıl değişir?",
-    "options": [
-      "Artar",
-      "Azalır",
-      "Değişmez",
-      "Başka bir değişken etkiler",
-      "Yüzde 50 artar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hidrojen iyonu (H+) konsantrasyonu arttığında, pH değeri azalır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387513_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltide pH 3 olan bir asidin molaritesi ne kadar asidik olduğunu gösterir?",
-    "options": [
-      "0.001 mol/L",
-      "0.01 mol/L",
-      "0.1 mol/L",
-      "1 mol/L",
-      "10 mol/L"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH değeri 3 olan bir çözelti, 10^-3 mol/L asit yoğunluğuna sahiptir, yani 0.001 mol/L.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528082718_30",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 14.0 olduğunda, bu çözeltinin özellikleri hakkında ne söyleyebilirsiniz?",
-    "options": [
-      "Asidik",
-      "Bazik",
-      "Nötr",
-      "Amfoter",
-      "Zayıf asit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 14, çözeltinin bazik olduğunu gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387515_27",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi indikatör, pH 5'te sarı renge döner?",
-    "options": [
-      "Fenolftalein",
-      "Metil oranj",
-      "Bromotimol mavisi",
-      "Lakmus",
-      "Kırmızı turnusol"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Metil oranj, pH 5'te sarı renge döner ve asidik çözeltide kırmızı renkte kalır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519313122_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH'ı 7'den düşükse, bu çözeltinin özelliği nedir?",
-    "options": [
-      "Asidik",
-      "Bazik",
-      "Nötr",
-      "Sulu",
-      "İyonik"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir çözeltinin pH değeri 7'den düşükse, bu çözeltinin asidik olduğunu gösterir. pH 7 nötr, 7'den yüksek olanlar ise bazik çözeltilerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526753929_23",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi çözeltinin pH değeri 7.5'tir?",
-    "options": [
-      "HCl",
-      "NaOH",
-      "Ca(OH)2",
-      "KCl",
-      "NH4Cl"
-    ],
-    "correctAnswer": 3,
-    "explanation": "KCl, nötr bir tuzdur ve pH değeri 7.5 olabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387513_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 7 olan bir çözeltinin asidik veya bazik olduğunu belirlemek için hangi test yapılmalıdır?",
-    "options": [
-      "Lakmus kağıdı testi",
-      "pH metre kullanma",
-      "Yüksek sıcaklık testi",
-      "Renk değişimi testi",
-      "Elektrik iletkenliği testi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 7 olan bir çözelti nötrdür. Bunun asidik veya bazik olduğunu anlamak için pH metre kullanmak en doğru yöntemdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528082718_8",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 4.5 olan bir çözelti ile 9.5 olan bir çözeltinin özelliklerini karşılaştırın.",
-    "options": [
-      "İkisi de asidik",
-      "İkisi de bazik",
-      "Birisi asidik diğeri bazik",
-      "Her ikisi de nötr",
-      "Her ikisi de tepkime verir"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH 4.5 olan çözelti asidik, 9.5 olan çözelti ise baziktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753928_5",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi zayıf bir asittir?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "HNO3",
-      "NaOH"
-    ],
-    "correctAnswer": 2,
-    "explanation": "CH3COOH, sirke asidi olarak bilinir ve zayıf bir asittir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_29",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "H2S çözeltisi ile NaOH çözeltisi karıştırıldığında hangi ürünler oluşur?",
-    "options": [
-      "Na2S ve H2O",
-      "NaHS ve H2O",
-      "NaOH ve H2S",
-      "H2O ve Na2SO4",
-      "NaCl ve H2O"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2S ve NaOH tepkimesi sonucunda NaHS ve su oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_25",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir asit değildir?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "NaOH",
-      "HNO3"
-    ],
-    "correctAnswer": 3,
-    "explanation": "NaOH, bir bazdır, bu nedenle asit değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753928_10",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki asitlerden hangisi güçlü bir asittir?",
-    "options": [
-      "CH3COOH",
-      "H2SO4",
-      "H3PO4",
-      "H2CO3",
-      "HF"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2SO4, güçlü bir asit olarak bilinir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387513_3",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi madde bazik özellik göstermektedir?",
-    "options": [
-      "HCl",
-      "NaOH",
-      "H2SO4",
-      "CH3COOH",
-      "NH4Cl"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaOH, sodyum hidroksit, güçlü bir bazdır ve bazik özellik gösterir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764501254018_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "NH₃(suda) + H₂O(s) ⇌ NH₄⁺(suda) + OH⁻(suda)\n\nYukarıda verilen denge tepkimesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "H₂O, NH₃'e karşı baz gibi davranmıştır.",
-      "NH₃, NH₄⁺ iyonunun eşlenik bazıdır.",
-      "Tepkime bir nötralleşme tepkimesidir.",
-      "NH₄⁺ iyonu, OH⁻ iyonuna proton (H⁺) vermiştir.",
-      "H₂O, proton vererek eşlenik bazı olan OH⁻'ye dönüşmüştür."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Brønsted-Lowry asit-baz tanımına göre proton (H⁺) veren madde asit, proton alan madde ise bazdır. \nTepkimede H₂O molekülü, NH₃ molekülüne bir adet proton (H⁺) vererek OH⁻ iyonuna dönüşmüştür. Bu durumda H₂O asit, onun eşlenik (konjuge) bazı ise OH⁻'dir. NH₃ ise H₂O'dan proton aldığı için baz, onun eşlenik asidi de NH₄⁺'dır. \nA) H₂O proton verdiği için asit gibi davranmıştır. Bu şık yanlıştır. \nB) NH₃ bazdır ve eşlenik asidi NH₄⁺'dır. Dolayısıyla NH₄⁺ iyonunun eşlenik bazı NH₃'tür. Bu şık doğru gibi görünse de ifadenin kuruluşu terstir; NH₃, NH₄⁺'nın eşlenik bazıdır ifadesi doğrudur, ancak B şıkkında bu ifade doğru kurulmamıştır. Soruda istenen tepkimeye göre en doğru ifadedir. Fakat E şıkkı daha temel ve net bir doğrudur. Brønsted-Lowry tanımına göre NH₃, NH₄⁺ iyonunun eşlenik bazıdır. Bu ifade doğrudur, ancak E seçeneği tepkimenin kendisini daha doğrudan açıklar.\nC) Bu tepkime bir bazın suda iyonlaşma denklemidir, bir asit ve bazın tepkimeye girerek tuz ve su oluşturduğu nötralleşme tepkimesi değildir. Bu şık yanlıştır. \nD) Tepkime ileri yönde incelendiğinde H₂O, NH₃'e proton vermiştir. Geri yönde ise NH₄⁺, OH⁻'ye proton verir. Ancak ifadenin genel doğruluğu tepkimenin ileri yönüne göre değerlendirilir. Bu şık yanlıştır. \nE) H₂O, NH₃'e bir proton (H⁺) vererek asit gibi davranmış ve eşlenik bazı olan OH⁻ (hidroksit) iyonuna dönüşmüştür. Bu ifade tepkimeyi Brønsted-Lowry tanımına göre doğru bir şekilde açıklamaktadır. Bu nedenle doğru cevap E'dir. (Not: B şıkkı da teknik olarak doğru bir tanım içerir ancak E şıkkı tepkimedeki olayı doğrudan anlatan en net ifadedir.)",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575629881_6",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdakilerden hangisi bir zayıf asittir?",
-    "options": [
-      "Karbondioksit",
-      "Sülfürik asit",
-      "Hidroklorik asit",
-      "Asetik asit",
-      "HNO3"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Asetik asit, zayıf bir asit olup, diğerleri güçlü asitlerdir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764524387514_24",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, endüstriyel olarak sıklıkla kullanılır?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "HNO3",
-      "HF"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sülfürik asit (H2SO4), endüstriyel olarak sıklıkla kullanılan bir asittir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526753929_31",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi çözeltinin pH değeri 3'tür?",
-    "options": [
-      "Sirke",
-      "Sabun",
-      "Alkol",
-      "Saf su",
-      "Ammonyak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sirke, asidik bir çözücüdür ve pH değeri 3'tür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575629881_7",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Sodyum hidroksit (NaOH) çözeltisi hangi pH değerine sahiptir?",
-    "options": [
-      "1",
-      "7",
-      "10",
-      "13",
-      "14"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sodyum hidroksit, güçlü bir bazdır ve çözeltisi genellikle pH değeri 13 civarındadır.",
-    "difficulty": 1
   },
   {
     "id": "ai_1764520270277_1",
@@ -592,6 +32,54 @@
     "difficulty": 3
   },
   {
+    "id": "ai_1764526753929_24",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir asit değildir?",
+    "options": [
+      "H3PO4",
+      "H2SO4",
+      "NH3",
+      "HCl",
+      "HNO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "NH3, bir baz olarak kabul edilir ve asit değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387513_10",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi pH değeri en güçlü asidi temsil eder?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 1 olan bir çözelti, en güçlü asidi temsil eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528082718_26",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 13.5 olduğunda, bu çözeltinin OH- iyonu konsantrasyonu ne kadar olur?",
+    "options": [
+      "10^-1 mol/L",
+      "10^-2 mol/L",
+      "10^-3 mol/L",
+      "10^-4 mol/L",
+      "10^-5 mol/L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH 13.5, 10^-2 mol/L OH- iyonu konsantrasyonu anlamına gelir.",
+    "difficulty": 4
+  },
+  {
     "id": "ai_1764575629881_1",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
@@ -608,275 +96,19 @@
     "difficulty": 1
   },
   {
-    "id": "ai_1764528082718_7",
+    "id": "ai_1764526753928_3",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir sıvının pH değeri 7 ise bu sıvı için aşağıdakilerden hangisi doğrudur?",
+    "questionText": "pH değeri 14 olan bir çözeltinin özelliği nedir?",
     "options": [
-      "Asidiktir",
-      "Baziktir",
-      "Nötrdür",
-      "Tuzdur",
-      "Amfoter bir çözücüdür"
+      "Asidik",
+      "Nötr",
+      "Bazik",
+      "Sert",
+      "Yumuşak"
     ],
     "correctAnswer": 2,
-    "explanation": "pH değeri 7 olan bir sıvı nötrdür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519313122_1",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi güçlü bir bazdır?",
-    "options": [
-      "Sodyum hidroksit (NaOH)",
-      "Amonyak (NH3)",
-      "Karbonat (CO3^2-)",
-      "Sodyum bikarbonat (NaHCO3)",
-      "Kalsiyum sülfat (CaSO4)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sodyum hidroksit (NaOH), güçlü bir bazdır ve su ile çözündüğünde yüksek oranda hidroksit iyonu (OH-) üretir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528082718_21",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi güçlü bir bazdır?",
-    "options": [
-      "NH3",
-      "NaOH",
-      "KCl",
-      "CH3COONa",
-      "HNO3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaOH, güçlü bir bazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_18",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 4.0 ise, bu çözeltinin H+ iyonu konsantrasyonu ne kadar olur?",
-    "options": [
-      "10^-4 mol/L",
-      "10^-5 mol/L",
-      "10^-6 mol/L",
-      "10^-7 mol/L",
-      "10^-8 mol/L"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH 4.0, 10^-4 mol/L H+ iyonu konsantrasyonu anlamına gelir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082717_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin su içinde iyonlaşarak H+ iyonu bırakması sonucu oluşan çözeltinin pH değeri ne olur?",
-    "options": [
-      "7",
-      "0-7",
-      "7-14",
-      "14",
-      "Eşit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Asidik çözeltiler pH değeri 0 ile 7 arasında yer alır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_22",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi amfoter bir özellik gösterir?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "ZnO",
-      "HCl",
-      "H2SO4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "ZnO, hem asit hem de baz ile tepkime verebilen amfoter bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387513_1",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, suda en iyi çözünme özelliğine sahiptir?",
-    "options": [
-      "Hidroklorik asit (HCl)",
-      "Asetik asit (CH3COOH)",
-      "Sülfürik asit (H2SO4)",
-      "Nitrat asit (HNO3)",
-      "Karbonik asit (H2CO3)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sülfürik asit (H2SO4), yüksek çözünürlük kapasitesine sahip olan güçlü bir asittir ve suda en iyi çözünür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526753928_11",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi madde bir asidin zayıf bir örneğidir?",
-    "options": [
-      "H2SO4",
-      "HCl",
-      "H3PO4",
-      "HNO3",
-      "CH3COOH"
-    ],
-    "correctAnswer": 4,
-    "explanation": "CH3COOH, zayıf bir asit olan sirke asididir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_21",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi bir baz olarak kabul edilmez?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "Mg(OH)2",
-      "H2SO4",
-      "Ca(OH)2"
-    ],
-    "correctAnswer": 3,
-    "explanation": "H2SO4, bir asit olarak kabul edilir ve baz değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_32",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir bazdır?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "LiOH",
-      "CH3COOH",
-      "HNO3"
-    ],
-    "correctAnswer": 2,
-    "explanation": "LiOH, lityum hidroksit olarak bilinir ve bazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_19",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi bir zayıf asittir?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "HNO3",
-      "NaOH"
-    ],
-    "correctAnswer": 2,
-    "explanation": "CH3COOH, asetik asit olarak bilinen zayıf bir asittir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_11",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltide OH- iyonları 10^-4 mol/L ise, bu çözeltinin pH değeri nedir?",
-    "options": [
-      "10",
-      "4",
-      "7",
-      "14",
-      "1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "OH- iyonlarının konsantrasyonu 10^-4 olduğunda pH değeri 10 olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_10",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi asidin özelliğini gösterir?",
-    "options": [
-      "H+ iyonu salınımı",
-      "OH- iyonu salınımı",
-      "Nötrleşme",
-      "Tuz oluşturma",
-      "Amfoter olma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Asitler H+ iyonu salınarak çözeltide asidik özellik gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_13",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 11 olan bir çözeltide hangi bileşenlerin konsantrasyonu yüksek olacaktır?",
-    "options": [
-      "H+",
-      "OH-",
-      "H2O",
-      "Na+",
-      "Cl-"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 11 olan bir çözeltide OH- iyonları yüksektir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753928_12",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşiklerden hangisi bir amfoter bileşiktir?",
-    "options": [
-      "NaOH",
-      "H2O",
-      "HCl",
-      "H2SO4",
-      "NaCl"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2O, hem asit hem de baz olarak davranabilen amfoter bir bileşiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_15",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "H2SO4 çözeltisi ile NaOH çözeltisi karıştırıldığında hangi ürünler oluşur?",
-    "options": [
-      "H2O ve Na2SO4",
-      "HCl ve NaOH",
-      "H2O ve NaHSO4",
-      "H2O ve Na2SO3",
-      "NaCl ve H2O"
-    ],
-    "correctAnswer": 0,
-    "explanation": "H2SO4 ve NaOH karıştığında su ve Na2SO4 oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_9",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 1 olan bir çözeltinin ne kadar asidik olduğunu belirtmek için hangi terim kullanılır?",
-    "options": [
-      "Zayıf asit",
-      "Orta asit",
-      "Güçlü asit",
-      "Nötr çözeltidir",
-      "Amfoter"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH değeri 1, güçlü bir asidin varlığını gösterir.",
+    "explanation": "pH değeri 14 olan bir çözeltinin bazik olduğunu gösterir.",
     "difficulty": 4
   },
   {
@@ -896,435 +128,83 @@
     "difficulty": 1
   },
   {
-    "id": "ai_1764524387514_21",
+    "id": "ai_1764524387513_11",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi baz, su ile tepkimeye girdiğinde amonyak gazı üretmez?",
+    "questionText": "Bir asidin güçlü olup olmadığını belirlemek için hangi özellik dikkate alınır?",
     "options": [
-      "NaOH",
-      "KOH",
-      "NH4OH",
-      "Mg(OH)2",
-      "Ca(OH)2"
+      "pH değeri",
+      "Molekül yapısı",
+      "Çözünürlük",
+      "İyonlaşma derecesi",
+      "Renk"
     ],
     "correctAnswer": 3,
-    "explanation": "Mg(OH)2, su ile tepkimeye girdiğinde amonyak gazı üretmez.",
+    "explanation": "Asidin güçlü olup olmadığını belirlemek için iyonlaşma derecesi en önemli faktördür.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764528082718_23",
+    "id": "ai_1764526753929_22",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "H2CO3 ve NaOH tepkimesinin sonucunda hangi ürünler oluşur?",
+    "questionText": "Aşağıdaki maddelerden hangisi amfoter bir özellik gösterir?",
     "options": [
-      "NaHCO3",
-      "Na2CO3",
-      "H2O ve CO2",
-      "H2O ve Na2SO4",
-      "H2O ve NaCl"
-    ],
-    "correctAnswer": 0,
-    "explanation": "H2CO3 ve NaOH tepkimesi sonucunda NaHCO3 ve su oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519313122_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin su ile tepkimesi sonucunda oluşan çözeltinin pH değeri genellikle nasıl bir değişim gösterir?",
-    "options": [
-      "Artar",
-      "Azalır",
-      "Değişmez",
-      "Sabitleşir",
-      "Hafif asidik kalır"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Asitler su ile tepkimeye girdiğinde hidrojen iyonları (H+) salınır ve bu da çözeltinin pH değerinin düşmesine neden olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520270277_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin pH değeri 3 ise, bu çözeltinin hidrojen iyonu konsantrasyonu nedir?",
-    "options": [
-      "10⁻³ mol/L",
-      "10⁻⁴ mol/L",
-      "10⁻² mol/L",
-      "10⁻⁵ mol/L",
-      "10⁻⁶ mol/L"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH değeri 3 olan bir çözeltide hidrojen iyonu konsantrasyonu 10⁻³ mol/L'dir. Bu, pH = -log[H⁺] formülünden elde edilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499893280_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıda verilen madde çiftlerinden hangisi sulu çözeltide karıştırıldığında bir tampon çözelti **oluşturmaz**?",
-    "options": [
-      "Zayıf asit olan HF ile tuzu NaF",
-      "Zayıf baz olan NH₃ ile tuzu NH₄Cl",
-      "Fazla miktarda CH₃COOH ile az miktarda KOH",
-      "Eşit mol sayısında HCl ile NH₃",
-      "Zayıf asit olan H₃PO₄ ile tuzu NaH₂PO₄"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tampon çözeltiler, zayıf bir asit ile onun konjuge bazını (tuzunu) veya zayıf bir baz ile onun konjuge asidini (tuzunu) içeren çözeltilerdir. \nA) HF (zayıf asit) ve F⁻ (konjuge bazı) içerir. Tampon oluşturur.\nB) NH₃ (zayıf baz) ve NH₄⁺ (konjuge asidi) içerir. Tampon oluşturur.\nC) Fazla miktardaki zayıf asit (CH₃COOH) ile az miktardaki kuvvetli baz (KOH) tepkimeye girdiğinde, bazın tamamı tükenir ve ortamda hem tepkimeden oluşan tuz (CH₃COOK) hem de artan zayıf asit (CH₃COOH) bulunur. Bu bir tampon çözeltidir.\nD) Kuvvetli asit (HCl) ile zayıf baz (NH₃) eşit mol sayısında karıştırıldığında tam nötralleşme olur ve sadece tuz (NH₄Cl) oluşur. Oluşan tuz asidik bir tuzdur ancak ortamda zayıf baz (NH₃) kalmadığı için bu karışım bir tampon çözelti değildir.\nE) H₃PO₄ (zayıf asit) ve H₂PO₄⁻ (konjuge bazı) içerir. Tampon oluşturur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528082718_26",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 13.5 olduğunda, bu çözeltinin OH- iyonu konsantrasyonu ne kadar olur?",
-    "options": [
-      "10^-1 mol/L",
-      "10^-2 mol/L",
-      "10^-3 mol/L",
-      "10^-4 mol/L",
-      "10^-5 mol/L"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH 13.5, 10^-2 mol/L OH- iyonu konsantrasyonu anlamına gelir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_19",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki hangi çözeltinin pH değeri en yüksektir?",
-    "options": [
-      "HCl",
-      "CH3COOH",
       "NaOH",
-      "H2SO4",
-      "HNO3"
+      "KOH",
+      "ZnO",
+      "HCl",
+      "H2SO4"
     ],
     "correctAnswer": 2,
-    "explanation": "NaOH, güçlü bir bazdır ve pH değeri en yüksek olan çözeltidir.",
+    "explanation": "ZnO, hem asit hem de baz ile tepkime verebilen amfoter bir bileşiktir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528082718_5",
+    "id": "ai_1764528082718_31",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltide pH 6.5 ise, bu çözeltide hangi iyonun konsantrasyonu yüksektir?",
+    "questionText": "Aşağıdakilerden hangisi bir zayıf bazdır?",
     "options": [
-      "OH-",
-      "H+",
-      "Na+",
-      "Cl-",
-      "Ca2+"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH 6.5 değeri H+ iyonlarının oranının yüksek olduğunu gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764501254018_1",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Oda koşullarında (25 °C) hazırlanan eşit derişimli ve eşit hacimli HCl (kuvvetli asit), CH₃COOH (zayıf asit) ve KOH (kuvvetli baz) sulu çözeltileri ile ilgili aşağıdaki yargılardan hangisi *yanlıştır*?",
-    "options": [
-      "pH değeri en büyük olan KOH çözeltisidir.",
-      "Elektrik iletkenliği en fazla olanlar HCl ve KOH çözeltileridir.",
-      "HCl ve KOH çözeltileri karıştırıldığında oluşan tuz nötr özellik gösterir.",
-      "CH₃COOH çözeltisindeki H⁺ iyonu derişimi, HCl çözeltisindeki H⁺ iyonu derişimine eşittir.",
-      "CH₃COOH ve KOH çözeltileri arasında nötralleşme tepkimesi gerçekleşir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Verilen maddelerden HCl kuvvetli asit, CH₃COOH zayıf asit, KOH ise kuvvetli bazdır. \nA) pH ölçeğinde 7'den büyük değerler bazik, 7'den küçük değerler asidiktir. Baz olan KOH çözeltisinin pH'ı 7'den büyük, asit olan HCl ve CH₃COOH çözeltilerinin pH'ı 7'den küçüktür. Dolayısıyla pH'ı en büyük olan KOH'tır. Bu ifade doğrudur.\nB) Elektrik iletkenliği, çözeltideki iyon derişimi ile doğru orantılıdır. HCl ve KOH kuvvetli oldukları için suda %100'e yakın iyonlaşırlar. CH₃COOH ise zayıf asit olduğu için kısmen iyonlaşır ve iyon derişimi daha az olur. Bu nedenle HCl ve KOH çözeltilerinin iletkenliği CH₃COOH'den fazladır. Bu ifade doğrudur.\nC) HCl (kuvvetli asit) ve KOH (kuvvetli baz) tepkimeye girdiğinde KCl (potasyum klorür) tuzu ve su oluşur. Kuvvetli asit ve kuvvetli bazdan oluşan tuzlar nötr özellik gösterir ve hidroliz olmazlar. Bu ifade doğrudur.\nD) Çözeltilerin derişimleri eşit olsa da, HCl kuvvetli bir asit olduğu için tamamen iyonlaşır ([H⁺] = [HCl]). CH₃COOH ise zayıf bir asit olduğu için kısmen iyonlaşır ve denge oluşturur. Bu nedenle CH₃COOH çözeltisindeki [H⁺] iyonu derişimi, başlangıçtaki asit derişiminden daha azdır ve HCl çözeltisindeki [H⁺] derişiminden de küçüktür. Bu ifade yanlıştır.\nE) CH₃COOH bir asit, KOH ise bir bazdır. Asit ve bazların tepkimeleri nötralleşme tepkimesi olarak adlandırılır. Bu ifade doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528082718_12",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "H2CO3 çözeltisi su ile karıştırıldığında hangi iyonlar oluşur?",
-    "options": [
-      "H+ ve HCO3-",
-      "HCO3- ve CO3=",
-      "H+ ve CO3=",
-      "H+ ve OH-",
-      "Na+ ve Cl-"
-    ],
-    "correctAnswer": 0,
-    "explanation": "H2CO3, su ile tepkimeye girdiğinde H+ ve HCO3- iyonlarını oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753928_4",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi madde, asit-baz tepkimesinde bir baz olarak davranır?",
-    "options": [
-      "H2O",
       "NH3",
-      "HCl",
-      "H2SO4",
-      "HNO3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NH3, amonyak olarak bilinir ve bir baz olarak davranır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_15",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki asit-baz tepkimelerinden hangisi ekzotermiktir?",
-    "options": [
-      "HCl + NaOH",
-      "H2SO4 + NaOH",
-      "CH3COOH + NaOH",
-      "HNO3 + NaOH",
-      "H2CO3 + NaOH"
-    ],
-    "correctAnswer": 1,
-    "explanation": "H2SO4 + NaOH tepkimesi ekzotermiktir ve ısı açığa çıkarır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_17",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 8.5 ise, bu çözeltinin hangi iyon konsantrasyonu yüksektir?",
-    "options": [
-      "H+",
-      "OH-",
-      "H2O",
-      "Na+",
-      "Cl-"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 7'den yüksek olan çözeltilerde OH- iyonları yüksektir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_6",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi bir bazdır?",
-    "options": [
-      "HCl",
       "NaOH",
-      "H2SO4",
-      "CH3COOH",
-      "CO2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "NaOH, sodyum hidroksit olarak bilinen bir bazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575629881_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hidroklorik asidin kimyasal formülü nedir?",
-    "options": [
-      "H2SO4",
+      "KOH",
       "HCl",
-      "HNO3",
-      "CH3COOH",
-      "NaOH"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hidroklorik asidin kimyasal formülü HCl'dir. Diğer formüller farklı asit veya bazların formülleridir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528082718_28",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 2.5 olduğunda, bu çözeltinin özellikleri hakkında ne söyleyebilirsiniz?",
-    "options": [
-      "Zayıf asit",
-      "Güçlü asit",
-      "Nötr",
-      "Bazik",
-      "Amfoter"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 2.5, güçlü bir asidin varlığını gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_17",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Asitler H+ iyonu verir.",
-      "Bazlar OH- iyonu verir.",
-      "pH 7 asidik değildir.",
-      "Asitler bazik özellik gösterir.",
-      "All of the above."
+      "H2SO4"
     ],
     "correctAnswer": 0,
-    "explanation": "Asitler H+ iyonu verir ve bazlar OH- iyonu verir, bu nedenle ilk ifade doğrudur.",
+    "explanation": "NH3, amonyak olarak bilinen zayıf bir bazdır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528082718_27",
+    "id": "ai_1764575629881_3",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir amfoter bileşen değildir?",
+    "questionText": "Aşağıdakilerden hangisi bir bazdır?",
     "options": [
-      "H2O",
-      "Al(OH)3",
-      "H2CO3",
-      "Na2CO3",
-      "NH3"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Na2CO3 amfoter bir bileşen değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575629881_4",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi bir asit-baz tepkimesi sonucunda oluşur?",
-    "options": [
-      "Su",
-      "Karbon dioksit",
-      "Amonyum klorür",
+      "Sülfürik asit",
+      "Amonyak",
       "Sodyum klorür",
-      "Glukoz"
+      "Sodyum nitrat",
+      "Hidrojen peroksit"
     ],
-    "correctAnswer": 2,
-    "explanation": "Asit-baz tepkimesi sonucunda genellikle tuz ve su oluşur. Amonyum klorür, amonyak ve hidroklorik asidin tepkimesiyle oluşan bir tuzdur.",
+    "correctAnswer": 1,
+    "explanation": "Amonyak, bazik özellik gösteren bir bileşiktir. Diğerleri ya asit ya da nötr maddelerdir.",
     "difficulty": 1
   },
   {
-    "id": "ai_1764524387513_5",
+    "id": "ai_1764524387513_9",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 11 ise bu çözeltinin özelliği nedir?",
+    "questionText": "Asit-baz tepkimeleri sonucunda hangi tür bir bileşik oluşur?",
     "options": [
-      "Asidik",
-      "Nötr",
-      "Bazik",
-      "Radikal",
-      "Tuzlu"
+      "Asit",
+      "Baz",
+      "Tuz",
+      "Su",
+      "Gaz"
     ],
     "correctAnswer": 2,
-    "explanation": "pH değeri 11 olan bir çözelti bazik özellik taşır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387513_8",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi baz, su ile tepkimeye girdiğinde amonyak gazı üretir?",
-    "options": [
-      "NaOH",
-      "KOH",
-      "NH4OH",
-      "Ba(OH)2",
-      "Ca(OH)2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Amonyum hidroksit (NH4OH) su ile tepkimeye girdiğinde amonyak gazı (NH3) üretir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524387513_15",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 12 ise bu çözeltinin hangi özelliği vardır?",
-    "options": [
-      "Hafif asidik",
-      "Hafif bazik",
-      "Güçlü asidik",
-      "Güçlü bazik",
-      "Nötr"
-    ],
-    "correctAnswer": 3,
-    "explanation": "pH değeri 12 olan bir çözelti güçlü bazik özellik taşır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526753929_30",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Asitler H+ iyonu verir.",
-      "Bazlar OH- iyonu verir.",
-      "pH 7 asidik değildir.",
-      "Asitler bazik özellik gösterir.",
-      "HCl güçlü bir asittir."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Asitler bazik özellik göstermezler, bu ifade yanlıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575629881_5",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 14 olan bir çözelti aşağıdakilerden hangisidir?",
-    "options": [
-      "Asidik",
-      "Nötr",
-      "Bazik",
-      "Alkali",
-      "Tuz"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH değeri 14 olan bir çözelti bazik özellik gösterir. Genellikle güçlü bazların çözeltilerinde görülür.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764526753929_14",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir bazdır?",
-    "options": [
-      "KOH",
-      "HCl",
-      "H2SO4",
-      "HNO3",
-      "CH3COOH"
-    ],
-    "correctAnswer": 0,
-    "explanation": "KOH, potasyum hidroksit olarak bilinir ve güçlü bir bazdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498546033_2",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Oda koşullarında (25 °C) zayıf bir asit olan Asetik Asit (CH₃COOH) çözeltisinin, kuvvetli bir baz olan Sodyum Hidroksit (NaOH) çözeltisi ile titrasyonu sırasında dönüm noktası (eşdeğerlik noktası) ile ilgili aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "Ortamın pH değeri 7'dir.",
-      "Ortamdaki H⁺ iyonu derişimi, OH⁻ iyonu derişimine eşittir.",
-      "Ortamda CH₃COOH ve NaOH derişimleri eşittir.",
-      "Oluşan tuzun hidrolizi sonucu ortam bazik olur.",
-      "Ortamda tampon çözelti oluşmuştur."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Zayıf bir asit (CH₃COOH) ile kuvvetli bir bazın (NaOH) titrasyonunda dönüm noktasında asit ve baz tamamen tükenerek tuz ve su oluşturur.\nCH₃COOH + NaOH → CH₃COONa + H₂O\nOluşan sodyum asetat (CH₃COONa) tuzu, zayıf asidin anyonu (CH₃COO⁻) ile kuvvetli bazın katyonundan (Na⁺) oluşur. Zayıf asidin anyonu olan asetat iyonu (CH₃COO⁻) su ile hidroliz tepkimesine girer:\nCH₃COO⁻(suda) + H₂O(s) ⇌ CH₃COOH(suda) + OH⁻(suda)\nBu tepkime sonucunda ortamda OH⁻ iyonları oluştuğu için çözelti bazik hale gelir ve dönüm noktasında pH > 7 olur. Bu nedenle D şıkkı doğrudur. A ve B şıkları pH=7 anlamına gelir ve kuvvetli asit-kuvvetli baz titrasyonları için geçerlidir. C şıkkı yanlıştır çünkü dönüm noktasında asit ve baz bitmiştir. E şıkkı yanlıştır çünkü tampon çözelti, dönüm noktasından önce (zayıf asit ve konjuge bazının bir arada bulunduğu aralıkta) oluşur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524387514_20",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, proteinleri denature eden bir özelliğe sahiptir?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "HNO3",
-      "CH3COOH",
-      "H3PO4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hidroklorik asit (HCl), proteinleri denature etme özelliğine sahiptir.",
+    "explanation": "Asit-baz tepkimeleri sonucunda genelde tuz ve su oluşur.",
     "difficulty": 5
   },
   {
@@ -1344,115 +224,19 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528082718_2",
+    "id": "ai_1764528082718_23",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 3 olan bir çözeltinin asidik mi yoksa bazik mi olduğunu belirleyin.",
+    "questionText": "H2CO3 ve NaOH tepkimesinin sonucunda hangi ürünler oluşur?",
     "options": [
-      "Asidik",
-      "Bazik",
-      "Nötr",
-      "Amfoter",
-      "İkisi de değil"
+      "NaHCO3",
+      "Na2CO3",
+      "H2O ve CO2",
+      "H2O ve Na2SO4",
+      "H2O ve NaCl"
     ],
     "correctAnswer": 0,
-    "explanation": "pH değeri 7'den düşük olan çözeltiler asidiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764499893280_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "25°C'de, 0,1 M 100 mL asetik asit (CH₃COOH) çözeltisi, 0,1 M sodyum hidroksit (NaOH) çözeltisi ile titre ediliyor. Eşdeğerlik noktasına ulaşıldığında oluşan çözelti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?\n(CH₃COOH için Ka = 1,8 x 10⁻⁵)",
-    "options": [
-      "Çözelti nötrdür ve pH değeri 7'dir.",
-      "Çözelti tampon çözelti özelliği gösterir.",
-      "Çözeltinin pH değeri 7'den büyüktür.",
-      "Çözeltideki asetat (CH₃COO⁻) iyonu derişimi, sodyum (Na⁺) iyonu derişiminden büyüktür.",
-      "Tepkime sonunda sadece tuz ve su oluşur, ortamda başka iyon bulunmaz."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zayıf bir asit (CH₃COOH) ile kuvvetli bir bazın (NaOH) titrasyonunda, eşdeğerlik noktasında asit ve baz tamamen tepkimeye girerek tuz (CH₃COONa) ve su oluşturur. Oluşan sodyum asetat (CH₃COONa) tuzu, zayıf asidin konjuge bazı olan asetat (CH₃COO⁻) iyonunu içerir. Asetat iyonu suda hidrolize uğrayarak ortamda OH⁻ iyonları oluşturur: \nCH₃COO⁻(aq) + H₂O(s) ⇌ CH₃COOH(aq) + OH⁻(aq) \nOrtamda OH⁻ iyonu derişimi arttığı için çözelti bazik özellik gösterir ve bu nedenle 25°C'de pH değeri 7'den büyük olur. Eşdeğerlik noktasında ortamda sadece tuz ve su bulunduğundan (ve hidrolizden gelen iyonlar), tampon çözelti özelliği göstermez.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526753929_28",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi pH değeri bir nötr çözeltidir?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "5",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "pH değeri 7 olan çözeltiler nötrdür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_25",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, sülfürik asidin zayıf bir versiyonudur?",
-    "options": [
-      "H2SO4",
-      "H2CO3",
-      "H3PO4",
-      "HCl",
-      "CH3COOH"
-    ],
-    "correctAnswer": 2,
-    "explanation": "H3PO4, fosforik asit olarak bilinir ve sülfürik asidin zayıf bir versiyonudur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753928_8",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Asitler bazik özellik gösterir.",
-      "Bazlar asidik özellik gösterir.",
-      "pH 7 nötrdür.",
-      "HCl zayıf bir asittir.",
-      "KOH güçlü bir asittir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH 7 olan çözeltiler nötrdür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528082718_22",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 6.0 olduğunda, bu çözeltide H+ ve OH- iyonlarının oranı nedir?",
-    "options": [
-      "H+ > OH-",
-      "H+ < OH-",
-      "H+ = OH-",
-      "H+ ve OH- bulunmaz",
-      "Na+ ve Cl- bulunur"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH değeri 6.0 olan bir çözeltide H+ iyonları, OH- iyonlarından fazladır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753928_3",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "pH değeri 14 olan bir çözeltinin özelliği nedir?",
-    "options": [
-      "Asidik",
-      "Nötr",
-      "Bazik",
-      "Sert",
-      "Yumuşak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "pH değeri 14 olan bir çözeltinin bazik olduğunu gösterir.",
+    "explanation": "H2CO3 ve NaOH tepkimesi sonucunda NaHCO3 ve su oluşur.",
     "difficulty": 4
   },
   {
@@ -1472,52 +256,148 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524387514_17",
+    "id": "ai_1764524387514_21",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, en güçlü asitlerden biri olarak bilinir?",
+    "questionText": "Hangi baz, su ile tepkimeye girdiğinde amonyak gazı üretmez?",
     "options": [
-      "HCl",
-      "HNO3",
-      "H2SO4",
-      "HF",
-      "CH3COOH"
+      "NaOH",
+      "KOH",
+      "NH4OH",
+      "Mg(OH)2",
+      "Ca(OH)2"
     ],
-    "correctAnswer": 2,
-    "explanation": "Sülfürik asit (H2SO4), en güçlü asitlerden biri olarak bilinir.",
+    "correctAnswer": 3,
+    "explanation": "Mg(OH)2, su ile tepkimeye girdiğinde amonyak gazı üretmez.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764575629881_3",
+    "id": "ai_1764524387513_7",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdakilerden hangisi bir bazdır?",
+    "questionText": "Bir asidin su ile tepkimeye girmesi sonucunda hangi ürünler oluşur?",
     "options": [
-      "Sülfürik asit",
-      "Amonyak",
-      "Sodyum klorür",
-      "Sodyum nitrat",
-      "Hidrojen peroksit"
+      "Hidrojeni",
+      "Oksit",
+      "Su ve tuz",
+      "Hidronyum iyonu",
+      "Karbon dioksit"
     ],
-    "correctAnswer": 1,
-    "explanation": "Amonyak, bazik özellik gösteren bir bileşiktir. Diğerleri ya asit ya da nötr maddelerdir.",
-    "difficulty": 1
+    "correctAnswer": 3,
+    "explanation": "Asitler su ile tepkimeye girdiğinde genellikle hidronyum iyonu (H3O+) ve çeşitli iyonlar oluşur.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764526753928_2",
+    "id": "ai_1764528082718_19",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi çözeltinin pH değeri 7'den küçüktür?",
+    "questionText": "Aşağıdaki maddelerden hangisi bir zayıf asittir?",
     "options": [
-      "Saf su",
-      "NaCl çözeltisi",
-      "HCl çözeltisi",
-      "NH3 çözeltisi",
-      "KOH çözeltisi"
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "HNO3",
+      "NaOH"
     ],
     "correctAnswer": 2,
-    "explanation": "HCl çözeltisi asidik olduğu için pH değeri 7'den küçüktür.",
+    "explanation": "CH3COOH, asetik asit olarak bilinen zayıf bir asittir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387514_20",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, proteinleri denature eden bir özelliğe sahiptir?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "CH3COOH",
+      "H3PO4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hidroklorik asit (HCl), proteinleri denature etme özelliğine sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526753929_23",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi çözeltinin pH değeri 7.5'tir?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "Ca(OH)2",
+      "KCl",
+      "NH4Cl"
+    ],
+    "correctAnswer": 3,
+    "explanation": "KCl, nötr bir tuzdur ve pH değeri 7.5 olabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_22",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 6.0 olduğunda, bu çözeltide H+ ve OH- iyonlarının oranı nedir?",
+    "options": [
+      "H+ > OH-",
+      "H+ < OH-",
+      "H+ = OH-",
+      "H+ ve OH- bulunmaz",
+      "Na+ ve Cl- bulunur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 6.0 olan bir çözeltide H+ iyonları, OH- iyonlarından fazladır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387513_12",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, yağların hidrolizinde önemli bir rol oynar?",
+    "options": [
+      "Sitrik asit",
+      "Asetik asit",
+      "Hidroklorik asit",
+      "Sülfürik asit",
+      "Fosforik asit"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sülfürik asit, yağların hidrolizinde önemli bir rol oynar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528082718_32",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 3.0 olduğunda, bu çözeltinin H+ iyonu konsantrasyonu ne kadar olur?",
+    "options": [
+      "10^-3 mol/L",
+      "10^-4 mol/L",
+      "10^-5 mol/L",
+      "10^-6 mol/L",
+      "10^-7 mol/L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH 3.0, 10^-3 mol/L H+ iyonu konsantrasyonu anlamına gelir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501254018_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "NH₃(suda) + H₂O(s) ⇌ NH₄⁺(suda) + OH⁻(suda)\n\nYukarıda verilen denge tepkimesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "H₂O, NH₃'e karşı baz gibi davranmıştır.",
+      "NH₃, NH₄⁺ iyonunun eşlenik bazıdır.",
+      "Tepkime bir nötralleşme tepkimesidir.",
+      "NH₄⁺ iyonu, OH⁻ iyonuna proton (H⁺) vermiştir.",
+      "H₂O, proton vererek eşlenik bazı olan OH⁻'ye dönüşmüştür."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Brønsted-Lowry asit-baz tanımına göre proton (H⁺) veren madde asit, proton alan madde ise bazdır. \nTepkimede H₂O molekülü, NH₃ molekülüne bir adet proton (H⁺) vererek OH⁻ iyonuna dönüşmüştür. Bu durumda H₂O asit, onun eşlenik (konjuge) bazı ise OH⁻'dir. NH₃ ise H₂O'dan proton aldığı için baz, onun eşlenik asidi de NH₄⁺'dır. \nA) H₂O proton verdiği için asit gibi davranmıştır. Bu şık yanlıştır. \nB) NH₃ bazdır ve eşlenik asidi NH₄⁺'dır. Dolayısıyla NH₄⁺ iyonunun eşlenik bazı NH₃'tür. Bu şık doğru gibi görünse de ifadenin kuruluşu terstir; NH₃, NH₄⁺'nın eşlenik bazıdır ifadesi doğrudur, ancak B şıkkında bu ifade doğru kurulmamıştır. Soruda istenen tepkimeye göre en doğru ifadedir. Fakat E şıkkı daha temel ve net bir doğrudur. Brønsted-Lowry tanımına göre NH₃, NH₄⁺ iyonunun eşlenik bazıdır. Bu ifade doğrudur, ancak E seçeneği tepkimenin kendisini daha doğrudan açıklar.\nC) Bu tepkime bir bazın suda iyonlaşma denklemidir, bir asit ve bazın tepkimeye girerek tuz ve su oluşturduğu nötralleşme tepkimesi değildir. Bu şık yanlıştır. \nD) Tepkime ileri yönde incelendiğinde H₂O, NH₃'e proton vermiştir. Geri yönde ise NH₄⁺, OH⁻'ye proton verir. Ancak ifadenin genel doğruluğu tepkimenin ileri yönüne göre değerlendirilir. Bu şık yanlıştır. \nE) H₂O, NH₃'e bir proton (H⁺) vererek asit gibi davranmış ve eşlenik bazı olan OH⁻ (hidroksit) iyonuna dönüşmüştür. Bu ifade tepkimeyi Brønsted-Lowry tanımına göre doğru bir şekilde açıklamaktadır. Bu nedenle doğru cevap E'dir. (Not: B şıkkı da teknik olarak doğru bir tanım içerir ancak E şıkkı tepkimedeki olayı doğrudan anlatan en net ifadedir.)",
+    "difficulty": 3
   },
   {
     "id": "ai_1764498546033_1",
@@ -1536,20 +416,356 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764524387513_16",
+    "id": "ai_1764524387514_19",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi indikatör, pH 8'de kırmızı renge döner?",
+    "questionText": "Hangi baz, asidik bir çözelti ile tepkimeye girdiğinde tuz ve su oluşur?",
     "options": [
-      "Fenolftalein",
-      "Metil oranj",
-      "Bromotimol mavisi",
-      "Lakmus",
-      "Mavi turnusol"
+      "NaOH",
+      "KOH",
+      "NH4OH",
+      "Mg(OH)2",
+      "Ca(OH)2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaOH, asidik bir çözelti ile tepkimeye girdiğinde tuz ve su oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387513_8",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi baz, su ile tepkimeye girdiğinde amonyak gazı üretir?",
+    "options": [
+      "NaOH",
+      "KOH",
+      "NH4OH",
+      "Ba(OH)2",
+      "Ca(OH)2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Amonyum hidroksit (NH4OH) su ile tepkimeye girdiğinde amonyak gazı (NH3) üretir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387514_23",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 6 olan bir çözelti hangi tür özellik gösterir?",
+    "options": [
+      "Asidik",
+      "Nötr",
+      "Bazik",
+      "Radikal",
+      "Tuzlu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 6 olan bir çözelti asidik özellik taşır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528082718_18",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 4.0 ise, bu çözeltinin H+ iyonu konsantrasyonu ne kadar olur?",
+    "options": [
+      "10^-4 mol/L",
+      "10^-5 mol/L",
+      "10^-6 mol/L",
+      "10^-7 mol/L",
+      "10^-8 mol/L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH 4.0, 10^-4 mol/L H+ iyonu konsantrasyonu anlamına gelir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_11",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltide OH- iyonları 10^-4 mol/L ise, bu çözeltinin pH değeri nedir?",
+    "options": [
+      "10",
+      "4",
+      "7",
+      "14",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "OH- iyonlarının konsantrasyonu 10^-4 olduğunda pH değeri 10 olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_8",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 4.5 olan bir çözelti ile 9.5 olan bir çözeltinin özelliklerini karşılaştırın.",
+    "options": [
+      "İkisi de asidik",
+      "İkisi de bazik",
+      "Birisi asidik diğeri bazik",
+      "Her ikisi de nötr",
+      "Her ikisi de tepkime verir"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH 4.5 olan çözelti asidik, 9.5 olan çözelti ise baziktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519313122_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH'ı 7'den düşükse, bu çözeltinin özelliği nedir?",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Sulu",
+      "İyonik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir çözeltinin pH değeri 7'den düşükse, bu çözeltinin asidik olduğunu gösterir. pH 7 nötr, 7'den yüksek olanlar ise bazik çözeltilerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528082718_7",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir sıvının pH değeri 7 ise bu sıvı için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Asidiktir",
+      "Baziktir",
+      "Nötrdür",
+      "Tuzdur",
+      "Amfoter bir çözücüdür"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 7 olan bir sıvı nötrdür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575629881_6",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdakilerden hangisi bir zayıf asittir?",
+    "options": [
+      "Karbondioksit",
+      "Sülfürik asit",
+      "Hidroklorik asit",
+      "Asetik asit",
+      "HNO3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Asetik asit, zayıf bir asit olup, diğerleri güçlü asitlerdir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524387513_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 7 olan bir çözeltinin asidik veya bazik olduğunu belirlemek için hangi test yapılmalıdır?",
+    "options": [
+      "Lakmus kağıdı testi",
+      "pH metre kullanma",
+      "Yüksek sıcaklık testi",
+      "Renk değişimi testi",
+      "Elektrik iletkenliği testi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 7 olan bir çözelti nötrdür. Bunun asidik veya bazik olduğunu anlamak için pH metre kullanmak en doğru yöntemdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387513_4",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, organik asitler sınıfına girer?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "HNO3",
+      "H3PO4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Asetik asit (CH3COOH), organik asitler sınıfına giren bir asittir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387513_3",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi madde bazik özellik göstermektedir?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "H2SO4",
+      "CH3COOH",
+      "NH4Cl"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NaOH, sodyum hidroksit, güçlü bir bazdır ve bazik özellik gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498546033_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Oda koşullarında (25 °C) zayıf bir asit olan Asetik Asit (CH₃COOH) çözeltisinin, kuvvetli bir baz olan Sodyum Hidroksit (NaOH) çözeltisi ile titrasyonu sırasında dönüm noktası (eşdeğerlik noktası) ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Ortamın pH değeri 7'dir.",
+      "Ortamdaki H⁺ iyonu derişimi, OH⁻ iyonu derişimine eşittir.",
+      "Ortamda CH₃COOH ve NaOH derişimleri eşittir.",
+      "Oluşan tuzun hidrolizi sonucu ortam bazik olur.",
+      "Ortamda tampon çözelti oluşmuştur."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Zayıf bir asit (CH₃COOH) ile kuvvetli bir bazın (NaOH) titrasyonunda dönüm noktasında asit ve baz tamamen tükenerek tuz ve su oluşturur.\nCH₃COOH + NaOH → CH₃COONa + H₂O\nOluşan sodyum asetat (CH₃COONa) tuzu, zayıf asidin anyonu (CH₃COO⁻) ile kuvvetli bazın katyonundan (Na⁺) oluşur. Zayıf asidin anyonu olan asetat iyonu (CH₃COO⁻) su ile hidroliz tepkimesine girer:\nCH₃COO⁻(suda) + H₂O(s) ⇌ CH₃COOH(suda) + OH⁻(suda)\nBu tepkime sonucunda ortamda OH⁻ iyonları oluştuğu için çözelti bazik hale gelir ve dönüm noktasında pH > 7 olur. Bu nedenle D şıkkı doğrudur. A ve B şıkları pH=7 anlamına gelir ve kuvvetli asit-kuvvetli baz titrasyonları için geçerlidir. C şıkkı yanlıştır çünkü dönüm noktasında asit ve baz bitmiştir. E şıkkı yanlıştır çünkü tampon çözelti, dönüm noktasından önce (zayıf asit ve konjuge bazının bir arada bulunduğu aralıkta) oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524387515_28",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, meyve ve sebzelerde doğal olarak bulunur?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "HNO3",
+      "H3PO4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Asetik asit (CH3COOH), meyve ve sebzelerde doğal olarak bulunan bir asittir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387514_22",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asidin nötrleştirici özelliği vardır?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "NaOH",
+      "H3PO4"
     ],
     "correctAnswer": 4,
-    "explanation": "Mavi turnusol, pH 8'de kırmızı renge döner ve bazik ortamda mavi renkte kalır.",
+    "explanation": "H3PO4 (fosforik asit) nötrleştirici özellik gösterir.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764575629881_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hidroklorik asidin kimyasal formülü nedir?",
+    "options": [
+      "H2SO4",
+      "HCl",
+      "HNO3",
+      "CH3COOH",
+      "NaOH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hidroklorik asidin kimyasal formülü HCl'dir. Diğer formüller farklı asit veya bazların formülleridir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764501254018_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Oda koşullarında (25 °C) hazırlanan eşit derişimli ve eşit hacimli HCl (kuvvetli asit), CH₃COOH (zayıf asit) ve KOH (kuvvetli baz) sulu çözeltileri ile ilgili aşağıdaki yargılardan hangisi *yanlıştır*?",
+    "options": [
+      "pH değeri en büyük olan KOH çözeltisidir.",
+      "Elektrik iletkenliği en fazla olanlar HCl ve KOH çözeltileridir.",
+      "HCl ve KOH çözeltileri karıştırıldığında oluşan tuz nötr özellik gösterir.",
+      "CH₃COOH çözeltisindeki H⁺ iyonu derişimi, HCl çözeltisindeki H⁺ iyonu derişimine eşittir.",
+      "CH₃COOH ve KOH çözeltileri arasında nötralleşme tepkimesi gerçekleşir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Verilen maddelerden HCl kuvvetli asit, CH₃COOH zayıf asit, KOH ise kuvvetli bazdır. \nA) pH ölçeğinde 7'den büyük değerler bazik, 7'den küçük değerler asidiktir. Baz olan KOH çözeltisinin pH'ı 7'den büyük, asit olan HCl ve CH₃COOH çözeltilerinin pH'ı 7'den küçüktür. Dolayısıyla pH'ı en büyük olan KOH'tır. Bu ifade doğrudur.\nB) Elektrik iletkenliği, çözeltideki iyon derişimi ile doğru orantılıdır. HCl ve KOH kuvvetli oldukları için suda %100'e yakın iyonlaşırlar. CH₃COOH ise zayıf asit olduğu için kısmen iyonlaşır ve iyon derişimi daha az olur. Bu nedenle HCl ve KOH çözeltilerinin iletkenliği CH₃COOH'den fazladır. Bu ifade doğrudur.\nC) HCl (kuvvetli asit) ve KOH (kuvvetli baz) tepkimeye girdiğinde KCl (potasyum klorür) tuzu ve su oluşur. Kuvvetli asit ve kuvvetli bazdan oluşan tuzlar nötr özellik gösterir ve hidroliz olmazlar. Bu ifade doğrudur.\nD) Çözeltilerin derişimleri eşit olsa da, HCl kuvvetli bir asit olduğu için tamamen iyonlaşır ([H⁺] = [HCl]). CH₃COOH ise zayıf bir asit olduğu için kısmen iyonlaşır ve denge oluşturur. Bu nedenle CH₃COOH çözeltisindeki [H⁺] iyonu derişimi, başlangıçtaki asit derişiminden daha azdır ve HCl çözeltisindeki [H⁺] derişiminden de küçüktür. Bu ifade yanlıştır.\nE) CH₃COOH bir asit, KOH ise bir bazdır. Asit ve bazların tepkimeleri nötralleşme tepkimesi olarak adlandırılır. Bu ifade doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526753929_31",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi çözeltinin pH değeri 3'tür?",
+    "options": [
+      "Sirke",
+      "Sabun",
+      "Alkol",
+      "Saf su",
+      "Ammonyak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sirke, asidik bir çözücüdür ve pH değeri 3'tür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_14",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 12 ise, bu çözeltinin hangi özellikte olduğunu söyleyebilirsiniz?",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Amfoter",
+      "Tuz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 7'den yüksek olan çözeltiler bazik özellik gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575629881_4",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi bir asit-baz tepkimesi sonucunda oluşur?",
+    "options": [
+      "Su",
+      "Karbon dioksit",
+      "Amonyum klorür",
+      "Sodyum klorür",
+      "Glukoz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Asit-baz tepkimesi sonucunda genellikle tuz ve su oluşur. Amonyum klorür, amonyak ve hidroklorik asidin tepkimesiyle oluşan bir tuzdur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524387515_29",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi baz, pH değeri 14 olan bir çözeltidir?",
+    "options": [
+      "NaOH",
+      "KOH",
+      "LiOH",
+      "Ca(OH)2",
+      "Tuz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaOH, pH değeri 14 olan bir çözeltidir ve güçlü bir bazdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519313122_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir asidin su ile tepkimesi sonucunda oluşan çözeltinin pH değeri genellikle nasıl bir değişim gösterir?",
+    "options": [
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Sabitleşir",
+      "Hafif asidik kalır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asitler su ile tepkimeye girdiğinde hidrojen iyonları (H+) salınır ve bu da çözeltinin pH değerinin düşmesine neden olur.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764528082718_16",
@@ -1568,36 +784,148 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524387513_9",
+    "id": "ai_1764520270277_2",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Asit-baz tepkimeleri sonucunda hangi tür bir bileşik oluşur?",
+    "questionText": "Bir asidin pH değeri 3 ise, bu çözeltinin hidrojen iyonu konsantrasyonu nedir?",
     "options": [
-      "Asit",
-      "Baz",
-      "Tuz",
-      "Su",
-      "Gaz"
+      "10⁻³ mol/L",
+      "10⁻⁴ mol/L",
+      "10⁻² mol/L",
+      "10⁻⁵ mol/L",
+      "10⁻⁶ mol/L"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 3 olan bir çözeltide hidrojen iyonu konsantrasyonu 10⁻³ mol/L'dir. Bu, pH = -log[H⁺] formülünden elde edilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575629881_7",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Sodyum hidroksit (NaOH) çözeltisi hangi pH değerine sahiptir?",
+    "options": [
+      "1",
+      "7",
+      "10",
+      "13",
+      "14"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sodyum hidroksit, güçlü bir bazdır ve çözeltisi genellikle pH değeri 13 civarındadır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764526753929_20",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki asitlerden hangisi zayıf bir asittir?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "H3PO4",
+      "HNO3",
+      "H2CO3"
     ],
     "correctAnswer": 2,
-    "explanation": "Asit-baz tepkimeleri sonucunda genelde tuz ve su oluşur.",
+    "explanation": "H3PO4, fosforik asit olarak bilinir ve zayıf bir asittir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387514_18",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltideki hidrojen iyonu (H+) konsantrasyonu arttığında, pH değeri nasıl değişir?",
+    "options": [
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Başka bir değişken etkiler",
+      "Yüzde 50 artar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hidrojen iyonu (H+) konsantrasyonu arttığında, pH değeri azalır.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764526753929_16",
+    "id": "ai_1764524387513_16",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asidin, pH değeri su ile karşılaştırıldığında daha düşüktür?",
+    "questionText": "Hangi indikatör, pH 8'de kırmızı renge döner?",
     "options": [
-      "HCl",
-      "HNO3",
-      "CH3COOH",
-      "H2SO4",
-      "H2CO3"
+      "Fenolftalein",
+      "Metil oranj",
+      "Bromotimol mavisi",
+      "Lakmus",
+      "Mavi turnusol"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Mavi turnusol, pH 8'de kırmızı renge döner ve bazik ortamda mavi renkte kalır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387514_25",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi pH aralığı, nötr bir çözeltiyi temsil eder?",
+    "options": [
+      "6-8",
+      "7-9",
+      "6-7",
+      "7",
+      "8-10"
     ],
     "correctAnswer": 3,
-    "explanation": "H2SO4, güçlü bir asit olduğu için pH değeri suya göre daha düşüktür.",
+    "explanation": "pH 7, nötr bir çözeltiyi temsil eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526753928_7",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi bileşik, bir asit-baz göstergesi olarak kullanılır?",
+    "options": [
+      "Fenolftalein",
+      "NaCl",
+      "H2O",
+      "CaCO3",
+      "KOH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fenolftalein, asit-baz göstergesi olarak yaygın bir şekilde kullanılır.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387513_5",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 11 ise bu çözeltinin özelliği nedir?",
+    "options": [
+      "Asidik",
+      "Nötr",
+      "Bazik",
+      "Radikal",
+      "Tuzlu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 11 olan bir çözelti bazik özellik taşır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387515_27",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi indikatör, pH 5'te sarı renge döner?",
+    "options": [
+      "Fenolftalein",
+      "Metil oranj",
+      "Bromotimol mavisi",
+      "Lakmus",
+      "Kırmızı turnusol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Metil oranj, pH 5'te sarı renge döner ve asidik çözeltide kırmızı renkte kalır.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764528082718_4",
@@ -1616,67 +944,35 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526753929_13",
+    "id": "ai_1764526753929_21",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi pH değeri bir asidik çözeltidir?",
+    "questionText": "Aşağıdaki maddelerden hangisi bir baz olarak kabul edilmez?",
     "options": [
-      "6",
-      "8",
-      "7",
-      "5",
-      "9"
+      "NaOH",
+      "KOH",
+      "Mg(OH)2",
+      "H2SO4",
+      "Ca(OH)2"
     ],
     "correctAnswer": 3,
-    "explanation": "pH değeri 7'den küçük olan değerler asidik çözeltilerdir.",
+    "explanation": "H2SO4, bir asit olarak kabul edilir ve baz değildir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764526753929_24",
+    "id": "ai_1764526753928_12",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki bileşenlerden hangisi bir asit değildir?",
+    "questionText": "Aşağıdaki bileşiklerden hangisi bir amfoter bileşiktir?",
     "options": [
-      "H3PO4",
-      "H2SO4",
-      "NH3",
+      "NaOH",
+      "H2O",
       "HCl",
-      "HNO3"
-    ],
-    "correctAnswer": 2,
-    "explanation": "NH3, bir baz olarak kabul edilir ve asit değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764499893280_1",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki tepkime Brønsted-Lowry asit-baz tanımına göre incelendiğinde hangisi yanlıştır?\nHCO₃⁻(aq) + H₂O(l) ⇌ H₂CO₃(aq) + OH⁻(aq)",
-    "options": [
-      "HCO₃⁻ iyonu baz olarak davranmıştır.",
-      "H₂O molekülü, OH⁻ iyonunun konjuge asididir.",
-      "H₂CO₃, HCO₃⁻ iyonunun konjuge asididir.",
-      "Tepkimede H₂O'dan HCO₃⁻ iyonuna proton (H⁺) transferi olmuştur.",
-      "H₂CO₃ ve OH⁻ iyonları konjuge asit-baz çifti değildir."
+      "H2SO4",
+      "NaCl"
     ],
     "correctAnswer": 1,
-    "explanation": "Brønsted-Lowry tanımına göre proton (H⁺) veren madde asit, proton alan madde ise bazdır. \n1. HCO₃⁻ iyonu, H₂O'dan bir proton alarak H₂CO₃'e dönüşmüştür. Proton aldığı için bazdır. (A şıkkı doğru) \n2. H₂O molekülü, bir proton vererek OH⁻ iyonuna dönüşmüştür. Proton verdiği için asittir. H₂O ve OH⁻ bir konjuge asit-baz çiftidir. Yani H₂O, OH⁻ iyonunun konjuge asididir. (B şıkkı doğru) \n3. H₂CO₃ ve HCO₃⁻ de bir konjuge asit-baz çiftidir. HCO₃⁻ bazının proton almış hali H₂CO₃ onun konjuge asididir. (C şıkkı doğru) \n4. Tepkimeye bakıldığında H₂O'nun H⁺ iyonu HCO₃⁻'ye geçmiştir. (D şıkkı doğru)\nB şıkkında belirtildiği gibi H₂O, OH⁻'nin konjuge asididir. Ancak, sorunun yazımı gereği bir şıkkın yanlış olması gerekir. Şıkları tekrar incelersek B şıkkı doğrudur. A, C, D ve E de doğrudur. Soruyu daha ayırt edici yapmak için bir şıkkı kesin yanlış yapalım. B şıkkını \"H₂O molekülü, H₂CO₃'ün konjuge bazıdır.\" olarak değiştirirsek yanlış olur. Mevcut şıklara göre soruyu yeniden düzenleyelim. \n\n**Düzeltilmiş Soru ve Açıklama:**\n\n**Soru:**\nHCO₃⁻(aq) + H₂O(l) ⇌ H₂CO₃(aq) + OH⁻(aq) \ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?\n\n**Şıklar:**\nA) HCO₃⁻, baz olarak davranmıştır.\nB) H₂CO₃, H₂O’nun konjuge asididir.\nC) H₂O, asit olarak davranmıştır.\nD) OH⁻, H₂O’nun konjuge bazıdır.\nE) H₂CO₃ ve HCO₃⁻ konjuge asit-baz çiftidir.\n\n**Doğru Cevap:** 1 (B şıkkı)\n**Açıklama:**\nBrønsted-Lowry tanımına göre proton (H⁺) veren madde asit, alan madde bazdır. Tepkimede H₂O, HCO₃⁻ iyonuna bir proton vererek OH⁻ iyonuna dönüşür. HCO₃⁻ ise proton alarak H₂CO₃'e dönüşür. \nA) HCO₃⁻ proton aldığı için bazdır. Doğru. \nB) H₂CO₃, HCO₃⁻ iyonunun proton almasıyla oluşur. Dolayısıyla H₂CO₃, HCO₃⁻ iyonunun konjuge (eşlenik) asididir, H₂O'nun değil. Bu ifade yanlıştır.\nC) H₂O proton verdiği için asittir. Doğru.\nD) H₂O asidi proton verince OH⁻ iyonu oluşur. Dolayısıyla OH⁻, H₂O'nun konjuge bazıdır. Doğru.\nE) Aralarında bir H⁺ farkı olan H₂CO₃ (asit) ve HCO₃⁻ (baz) birbirinin konjuge asit-baz çiftidir. Doğru.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764526753929_27",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki hangi bileşen asidik özellik göstermez?",
-    "options": [
-      "KCl",
-      "NaCl",
-      "NH4Cl",
-      "HCl",
-      "H2SO4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "KCl, nötr bir tuzdur ve asidik özellik göstermez.",
+    "explanation": "H2O, hem asit hem de baz olarak davranabilen amfoter bir bileşiktir.",
     "difficulty": 4
   },
   {
@@ -1696,36 +992,196 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524387515_30",
+    "id": "ai_1764526753929_25",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi pH değeri, bazik bir çözeltinin özelliklerini temsil eder?",
+    "questionText": "Hangi asit, sülfürik asidin zayıf bir versiyonudur?",
     "options": [
-      "4",
-      "6",
-      "7",
-      "8",
-      "9"
+      "H2SO4",
+      "H2CO3",
+      "H3PO4",
+      "HCl",
+      "CH3COOH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "H3PO4, fosforik asit olarak bilinir ve sülfürik asidin zayıf bir versiyonudur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499893280_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "25°C'de, 0,1 M 100 mL asetik asit (CH₃COOH) çözeltisi, 0,1 M sodyum hidroksit (NaOH) çözeltisi ile titre ediliyor. Eşdeğerlik noktasına ulaşıldığında oluşan çözelti ile ilgili aşağıdaki ifadelerden hangisi doğrudur?\n(CH₃COOH için Ka = 1,8 x 10⁻⁵)",
+    "options": [
+      "Çözelti nötrdür ve pH değeri 7'dir.",
+      "Çözelti tampon çözelti özelliği gösterir.",
+      "Çözeltinin pH değeri 7'den büyüktür.",
+      "Çözeltideki asetat (CH₃COO⁻) iyonu derişimi, sodyum (Na⁺) iyonu derişiminden büyüktür.",
+      "Tepkime sonunda sadece tuz ve su oluşur, ortamda başka iyon bulunmaz."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zayıf bir asit (CH₃COOH) ile kuvvetli bir bazın (NaOH) titrasyonunda, eşdeğerlik noktasında asit ve baz tamamen tepkimeye girerek tuz (CH₃COONa) ve su oluşturur. Oluşan sodyum asetat (CH₃COONa) tuzu, zayıf asidin konjuge bazı olan asetat (CH₃COO⁻) iyonunu içerir. Asetat iyonu suda hidrolize uğrayarak ortamda OH⁻ iyonları oluşturur: \nCH₃COO⁻(aq) + H₂O(s) ⇌ CH₃COOH(aq) + OH⁻(aq) \nOrtamda OH⁻ iyonu derişimi arttığı için çözelti bazik özellik gösterir ve bu nedenle 25°C'de pH değeri 7'den büyük olur. Eşdeğerlik noktasında ortamda sadece tuz ve su bulunduğundan (ve hidrolizden gelen iyonlar), tampon çözelti özelliği göstermez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528082718_15",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "H2SO4 çözeltisi ile NaOH çözeltisi karıştırıldığında hangi ürünler oluşur?",
+    "options": [
+      "H2O ve Na2SO4",
+      "HCl ve NaOH",
+      "H2O ve NaHSO4",
+      "H2O ve Na2SO3",
+      "NaCl ve H2O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2SO4 ve NaOH karıştığında su ve Na2SO4 oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753928_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi çözeltinin pH değeri 7'den küçüktür?",
+    "options": [
+      "Saf su",
+      "NaCl çözeltisi",
+      "HCl çözeltisi",
+      "NH3 çözeltisi",
+      "KOH çözeltisi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HCl çözeltisi asidik olduğu için pH değeri 7'den küçüktür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499893280_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıda verilen madde çiftlerinden hangisi sulu çözeltide karıştırıldığında bir tampon çözelti **oluşturmaz**?",
+    "options": [
+      "Zayıf asit olan HF ile tuzu NaF",
+      "Zayıf baz olan NH₃ ile tuzu NH₄Cl",
+      "Fazla miktarda CH₃COOH ile az miktarda KOH",
+      "Eşit mol sayısında HCl ile NH₃",
+      "Zayıf asit olan H₃PO₄ ile tuzu NaH₂PO₄"
     ],
     "correctAnswer": 3,
-    "explanation": "pH değeri 8, bazik bir çözeltinin özelliklerini temsil eder.",
+    "explanation": "Tampon çözeltiler, zayıf bir asit ile onun konjuge bazını (tuzunu) veya zayıf bir baz ile onun konjuge asidini (tuzunu) içeren çözeltilerdir. \nA) HF (zayıf asit) ve F⁻ (konjuge bazı) içerir. Tampon oluşturur.\nB) NH₃ (zayıf baz) ve NH₄⁺ (konjuge asidi) içerir. Tampon oluşturur.\nC) Fazla miktardaki zayıf asit (CH₃COOH) ile az miktardaki kuvvetli baz (KOH) tepkimeye girdiğinde, bazın tamamı tükenir ve ortamda hem tepkimeden oluşan tuz (CH₃COOK) hem de artan zayıf asit (CH₃COOH) bulunur. Bu bir tampon çözeltidir.\nD) Kuvvetli asit (HCl) ile zayıf baz (NH₃) eşit mol sayısında karıştırıldığında tam nötralleşme olur ve sadece tuz (NH₄Cl) oluşur. Oluşan tuz asidik bir tuzdur ancak ortamda zayıf baz (NH₃) kalmadığı için bu karışım bir tampon çözelti değildir.\nE) H₃PO₄ (zayıf asit) ve H₂PO₄⁻ (konjuge bazı) içerir. Tampon oluşturur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524387513_14",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi baz, su ile tepkimeye girdiğinde sodyum ve hidrojen iyonları üretir?",
+    "options": [
+      "NaOH",
+      "KOH",
+      "LiOH",
+      "Ba(OH)2",
+      "Ca(OH)2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaOH, su ile tepkimeye girdiğinde sodyum (Na+) ve hidrojen iyonları (OH-) üretir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764524387513_13",
+    "id": "ai_1764528082718_9",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "pH 7.4 olan bir çözeltinin özelliği nedir?",
+    "questionText": "pH değeri 1 olan bir çözeltinin ne kadar asidik olduğunu belirtmek için hangi terim kullanılır?",
     "options": [
-      "Asidik",
-      "Nötr",
-      "Bazik",
-      "Radikal",
-      "Tuzlu"
+      "Zayıf asit",
+      "Orta asit",
+      "Güçlü asit",
+      "Nötr çözeltidir",
+      "Amfoter"
     ],
     "correctAnswer": 2,
-    "explanation": "pH 7.4 olan bir çözelti hafif bazik özellik taşır.",
-    "difficulty": 5
+    "explanation": "pH değeri 1, güçlü bir asidin varlığını gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_17",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 8.5 ise, bu çözeltinin hangi iyon konsantrasyonu yüksektir?",
+    "options": [
+      "H+",
+      "OH-",
+      "H2O",
+      "Na+",
+      "Cl-"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 7'den yüksek olan çözeltilerde OH- iyonları yüksektir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499893280_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki tepkime Brønsted-Lowry asit-baz tanımına göre incelendiğinde hangisi yanlıştır?\nHCO₃⁻(aq) + H₂O(l) ⇌ H₂CO₃(aq) + OH⁻(aq)",
+    "options": [
+      "HCO₃⁻ iyonu baz olarak davranmıştır.",
+      "H₂O molekülü, OH⁻ iyonunun konjuge asididir.",
+      "H₂CO₃, HCO₃⁻ iyonunun konjuge asididir.",
+      "Tepkimede H₂O'dan HCO₃⁻ iyonuna proton (H⁺) transferi olmuştur.",
+      "H₂CO₃ ve OH⁻ iyonları konjuge asit-baz çifti değildir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brønsted-Lowry tanımına göre proton (H⁺) veren madde asit, proton alan madde ise bazdır. \n1. HCO₃⁻ iyonu, H₂O'dan bir proton alarak H₂CO₃'e dönüşmüştür. Proton aldığı için bazdır. (A şıkkı doğru) \n2. H₂O molekülü, bir proton vererek OH⁻ iyonuna dönüşmüştür. Proton verdiği için asittir. H₂O ve OH⁻ bir konjuge asit-baz çiftidir. Yani H₂O, OH⁻ iyonunun konjuge asididir. (B şıkkı doğru) \n3. H₂CO₃ ve HCO₃⁻ de bir konjuge asit-baz çiftidir. HCO₃⁻ bazının proton almış hali H₂CO₃ onun konjuge asididir. (C şıkkı doğru) \n4. Tepkimeye bakıldığında H₂O'nun H⁺ iyonu HCO₃⁻'ye geçmiştir. (D şıkkı doğru)\nB şıkkında belirtildiği gibi H₂O, OH⁻'nin konjuge asididir. Ancak, sorunun yazımı gereği bir şıkkın yanlış olması gerekir. Şıkları tekrar incelersek B şıkkı doğrudur. A, C, D ve E de doğrudur. Soruyu daha ayırt edici yapmak için bir şıkkı kesin yanlış yapalım. B şıkkını \"H₂O molekülü, H₂CO₃'ün konjuge bazıdır.\" olarak değiştirirsek yanlış olur. Mevcut şıklara göre soruyu yeniden düzenleyelim. \n\n**Düzeltilmiş Soru ve Açıklama:**\n\n**Soru:**\nHCO₃⁻(aq) + H₂O(l) ⇌ H₂CO₃(aq) + OH⁻(aq) \ntepkimesi ile ilgili aşağıdaki ifadelerden hangisi **yanlıştır**?\n\n**Şıklar:**\nA) HCO₃⁻, baz olarak davranmıştır.\nB) H₂CO₃, H₂O’nun konjuge asididir.\nC) H₂O, asit olarak davranmıştır.\nD) OH⁻, H₂O’nun konjuge bazıdır.\nE) H₂CO₃ ve HCO₃⁻ konjuge asit-baz çiftidir.\n\n**Doğru Cevap:** 1 (B şıkkı)\n**Açıklama:**\nBrønsted-Lowry tanımına göre proton (H⁺) veren madde asit, alan madde bazdır. Tepkimede H₂O, HCO₃⁻ iyonuna bir proton vererek OH⁻ iyonuna dönüşür. HCO₃⁻ ise proton alarak H₂CO₃'e dönüşür. \nA) HCO₃⁻ proton aldığı için bazdır. Doğru. \nB) H₂CO₃, HCO₃⁻ iyonunun proton almasıyla oluşur. Dolayısıyla H₂CO₃, HCO₃⁻ iyonunun konjuge (eşlenik) asididir, H₂O'nun değil. Bu ifade yanlıştır.\nC) H₂O proton verdiği için asittir. Doğru.\nD) H₂O asidi proton verince OH⁻ iyonu oluşur. Dolayısıyla OH⁻, H₂O'nun konjuge bazıdır. Doğru.\nE) Aralarında bir H⁺ farkı olan H₂CO₃ (asit) ve HCO₃⁻ (baz) birbirinin konjuge asit-baz çiftidir. Doğru.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526753928_9",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi bir tuz olarak bilinir?",
+    "options": [
+      "NaCl",
+      "H2SO4",
+      "HCl",
+      "NH3",
+      "H2O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NaCl, sodyum klorür olarak bilinir ve bir tuzdur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_28",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi pH değeri bir nötr çözeltidir?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 7 olan çözeltiler nötrdür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_19",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki hangi çözeltinin pH değeri en yüksektir?",
+    "options": [
+      "HCl",
+      "CH3COOH",
+      "NaOH",
+      "H2SO4",
+      "HNO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "NaOH, güçlü bir bazdır ve pH değeri en yüksek olan çözeltidir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764526753928_1",
@@ -1744,163 +1200,163 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524387514_26",
+    "id": "ai_1764528082718_21",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi madde, asidik bir çözeltiyi nötrleştirmek için kullanılır?",
+    "questionText": "Aşağıdaki maddelerden hangisi güçlü bir bazdır?",
     "options": [
-      "Asit",
-      "Baz",
-      "Su",
-      "Tuz",
-      "Gaz"
+      "NH3",
+      "NaOH",
+      "KCl",
+      "CH3COONa",
+      "HNO3"
     ],
     "correctAnswer": 1,
-    "explanation": "Baz, asidik bir çözeltiyi nötrleştirmek için kullanılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498546033_0",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "NH₃(suda) + H₂O(s) ⇌ NH₄⁺(suda) + OH⁻(suda)\n\nYukarıda verilen denge tepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "NH₃, Brønsted-Lowry bazıdır.",
-      "H₂O, NH₃'e karşı asit olarak davranmıştır.",
-      "NH₄⁺, NH₃'ün konjuge (eşlenik) asididir.",
-      "H₂O ve OH⁻ iyonu konjuge asit-baz çiftidir.",
-      "NH₄⁺ iyonu, H₂O'ya karşı baz olarak davranır."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Brønsted-Lowry asit-baz tanımına göre proton (H⁺) veren madde asit, proton alan madde bazdır. Tepkimede, NH₃ molekülü H₂O'dan bir proton alarak NH₄⁺ iyonuna dönüşmüştür. Bu nedenle NH₃ baz, H₂O ise asit olarak davranmıştır. Bir bazın proton almış haline o bazın konjuge asidi denir, dolayısıyla NH₄⁺ iyonu NH₃'ün konjuge asididir. Bir asidin proton vermiş haline ise o asidin konjuge bazı denir, dolayısıyla OH⁻ iyonu H₂O'nun konjuge bazıdır. E şıkkında ise NH₄⁺ iyonunun H₂O'ya karşı baz olarak davrandığı söylenmiştir. Ancak NH₄⁺ iyonu, NH₃'ün konjuge asidi olduğu için H₂O'ya proton vererek (yani asit gibi davranarak) geri tepkimeyi gerçekleştirme eğilimindedir. Bu nedenle bu ifade yanlıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524387513_4",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Hangi asit, organik asitler sınıfına girer?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "CH3COOH",
-      "HNO3",
-      "H3PO4"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Asetik asit (CH3COOH), organik asitler sınıfına giren bir asittir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528082718_33",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki maddelerden hangisi bir asit-baz göstergesidir?",
-    "options": [
-      "Fenolftalein",
-      "NaCl",
-      "H2SO4",
-      "NH3",
-      "KOH"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Fenolftalein, asit-baz göstergesi olarak kullanılan bir bileşiktir.",
+    "explanation": "NaOH, güçlü bir bazdır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764575629881_8",
+    "id": "ai_1764524387513_6",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi madde su ile tepkimeye girdiğinde asidik bir çözelti oluşturur?",
+    "questionText": "Hangi indikatör, pH 4'te mavi renge döner?",
     "options": [
-      "Sodyum klorür",
-      "Sülfürik asit",
-      "Potasyum hidroksit",
-      "Kalsiyum karbonat",
-      "Amonyum nitrat"
+      "Fenolftalein",
+      "Metil oranj",
+      "Bromotimol mavisi",
+      "Lakmus",
+      "Kırmızı turnusol"
     ],
     "correctAnswer": 1,
-    "explanation": "Sülfürik asit su ile tepkimeye girdiğinde asidik bir çözelti oluşturur. Diğer maddeler nötr veya bazik özellik gösterir.",
-    "difficulty": 1
+    "explanation": "Fenolftalein, pH 4'te mavi renge döner ve asidik ortamda renksizdir.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764526753929_26",
+    "id": "ai_1764526753929_27",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki hangi bileşen asidik özellik göstermez?",
+    "options": [
+      "KCl",
+      "NaCl",
+      "NH4Cl",
+      "HCl",
+      "H2SO4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "KCl, nötr bir tuzdur ve asidik özellik göstermez.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753928_8",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
     "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Asitler OH- iyonu verir.",
-      "Bazlar H+ iyonu verir.",
-      "Asitler pH'ı artırır.",
-      "Bazlar pH'ı düşürür.",
-      "Asitler H+ iyonu verir."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Asitler, H+ iyonu verir ve pH'ı düşürür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526753929_20",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Aşağıdaki asitlerden hangisi zayıf bir asittir?",
-    "options": [
-      "HCl",
-      "H2SO4",
-      "H3PO4",
-      "HNO3",
-      "H2CO3"
+      "Asitler bazik özellik gösterir.",
+      "Bazlar asidik özellik gösterir.",
+      "pH 7 nötrdür.",
+      "HCl zayıf bir asittir.",
+      "KOH güçlü bir asittir."
     ],
     "correctAnswer": 2,
-    "explanation": "H3PO4, fosforik asit olarak bilinir ve zayıf bir asittir.",
+    "explanation": "pH 7 olan çözeltiler nötrdür.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528082718_20",
+    "id": "ai_1764526753928_6",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 5.5 olduğunda, çözeltinin asidik mi yoksa bazik mi olduğunu belirleyin.",
+    "questionText": "Bir çözeltide hidrojen iyonu (H+) konsantrasyonu arttıkça pH ne olur?",
     "options": [
-      "Asidik",
-      "Bazik",
-      "Nötr",
-      "Amfoter",
-      "İkisi de değil"
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Sabit kalır",
+      "Düşmez"
     ],
-    "correctAnswer": 0,
-    "explanation": "pH değeri 7'den düşük olan çözeltiler asidiktir.",
+    "correctAnswer": 1,
+    "explanation": "Hidrojen iyonu konsantrasyonu arttıkça, pH değeri azalır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528082718_32",
+    "id": "ai_1764528082718_27",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 3.0 olduğunda, bu çözeltinin H+ iyonu konsantrasyonu ne kadar olur?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir amfoter bileşen değildir?",
     "options": [
-      "10^-3 mol/L",
-      "10^-4 mol/L",
-      "10^-5 mol/L",
-      "10^-6 mol/L",
-      "10^-7 mol/L"
-    ],
-    "correctAnswer": 0,
-    "explanation": "pH 3.0, 10^-3 mol/L H+ iyonu konsantrasyonu anlamına gelir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524387513_7",
-    "subjectId": "kim",
-    "topic": "Asit ve Bazlar",
-    "questionText": "Bir asidin su ile tepkimeye girmesi sonucunda hangi ürünler oluşur?",
-    "options": [
-      "Hidrojeni",
-      "Oksit",
-      "Su ve tuz",
-      "Hidronyum iyonu",
-      "Karbon dioksit"
+      "H2O",
+      "Al(OH)3",
+      "H2CO3",
+      "Na2CO3",
+      "NH3"
     ],
     "correctAnswer": 3,
-    "explanation": "Asitler su ile tepkimeye girdiğinde genellikle hidronyum iyonu (H3O+) ve çeşitli iyonlar oluşur.",
+    "explanation": "Na2CO3 amfoter bir bileşen değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_5",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltide pH 6.5 ise, bu çözeltide hangi iyonun konsantrasyonu yüksektir?",
+    "options": [
+      "OH-",
+      "H+",
+      "Na+",
+      "Cl-",
+      "Ca2+"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH 6.5 değeri H+ iyonlarının oranının yüksek olduğunu gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575629881_5",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 14 olan bir çözelti aşağıdakilerden hangisidir?",
+    "options": [
+      "Asidik",
+      "Nötr",
+      "Bazik",
+      "Alkali",
+      "Tuz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 14 olan bir çözelti bazik özellik gösterir. Genellikle güçlü bazların çözeltilerinde görülür.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524387513_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, suda en iyi çözünme özelliğine sahiptir?",
+    "options": [
+      "Hidroklorik asit (HCl)",
+      "Asetik asit (CH3COOH)",
+      "Sülfürik asit (H2SO4)",
+      "Nitrat asit (HNO3)",
+      "Karbonik asit (H2CO3)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sülfürik asit (H2SO4), yüksek çözünürlük kapasitesine sahip olan güçlü bir asittir ve suda en iyi çözünür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387514_17",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, en güçlü asitlerden biri olarak bilinir?",
+    "options": [
+      "HCl",
+      "HNO3",
+      "H2SO4",
+      "HF",
+      "CH3COOH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sülfürik asit (H2SO4), en güçlü asitlerden biri olarak bilinir.",
     "difficulty": 5
   },
   {
@@ -1920,26 +1376,474 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764526753928_7",
+    "id": "ai_1764526753929_26",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Hangi bileşik, bir asit-baz göstergesi olarak kullanılır?",
+    "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
     "options": [
-      "Fenolftalein",
-      "NaCl",
-      "H2O",
-      "CaCO3",
-      "KOH"
+      "Asitler OH- iyonu verir.",
+      "Bazlar H+ iyonu verir.",
+      "Asitler pH'ı artırır.",
+      "Bazlar pH'ı düşürür.",
+      "Asitler H+ iyonu verir."
     ],
-    "correctAnswer": 0,
-    "explanation": "Fenolftalein, asit-baz göstergesi olarak yaygın bir şekilde kullanılır.",
+    "correctAnswer": 4,
+    "explanation": "Asitler, H+ iyonu verir ve pH'ı düşürür.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528082718_14",
+    "id": "ai_1764526753929_32",
     "subjectId": "kim",
     "topic": "Asit ve Bazlar",
-    "questionText": "Bir çözeltinin pH değeri 12 ise, bu çözeltinin hangi özellikte olduğunu söyleyebilirsiniz?",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir bazdır?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "LiOH",
+      "CH3COOH",
+      "HNO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "LiOH, lityum hidroksit olarak bilinir ve bazdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_12",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "H2CO3 çözeltisi su ile karıştırıldığında hangi iyonlar oluşur?",
+    "options": [
+      "H+ ve HCO3-",
+      "HCO3- ve CO3=",
+      "H+ ve CO3=",
+      "H+ ve OH-",
+      "Na+ ve Cl-"
+    ],
+    "correctAnswer": 0,
+    "explanation": "H2CO3, su ile tepkimeye girdiğinde H+ ve HCO3- iyonlarını oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387514_26",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi madde, asidik bir çözeltiyi nötrleştirmek için kullanılır?",
+    "options": [
+      "Asit",
+      "Baz",
+      "Su",
+      "Tuz",
+      "Gaz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Baz, asidik bir çözeltiyi nötrleştirmek için kullanılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575629881_8",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi madde su ile tepkimeye girdiğinde asidik bir çözelti oluşturur?",
+    "options": [
+      "Sodyum klorür",
+      "Sülfürik asit",
+      "Potasyum hidroksit",
+      "Kalsiyum karbonat",
+      "Amonyum nitrat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sülfürik asit su ile tepkimeye girdiğinde asidik bir çözelti oluşturur. Diğer maddeler nötr veya bazik özellik gösterir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528082718_28",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 2.5 olduğunda, bu çözeltinin özellikleri hakkında ne söyleyebilirsiniz?",
+    "options": [
+      "Zayıf asit",
+      "Güçlü asit",
+      "Nötr",
+      "Bazik",
+      "Amfoter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 2.5, güçlü bir asidin varlığını gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_6",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi bir bazdır?",
+    "options": [
+      "HCl",
+      "NaOH",
+      "H2SO4",
+      "CH3COOH",
+      "CO2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NaOH, sodyum hidroksit olarak bilinen bir bazdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753928_10",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki asitlerden hangisi güçlü bir asittir?",
+    "options": [
+      "CH3COOH",
+      "H2SO4",
+      "H3PO4",
+      "H2CO3",
+      "HF"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2SO4, güçlü bir asit olarak bilinir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_30",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Asitler H+ iyonu verir.",
+      "Bazlar OH- iyonu verir.",
+      "pH 7 asidik değildir.",
+      "Asitler bazik özellik gösterir.",
+      "HCl güçlü bir asittir."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Asitler bazik özellik göstermezler, bu ifade yanlıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_20",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 5.5 olduğunda, çözeltinin asidik mi yoksa bazik mi olduğunu belirleyin.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Amfoter",
+      "İkisi de değil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 7'den düşük olan çözeltiler asidiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_16",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asidin, pH değeri su ile karşılaştırıldığında daha düşüktür?",
+    "options": [
+      "HCl",
+      "HNO3",
+      "CH3COOH",
+      "H2SO4",
+      "H2CO3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "H2SO4, güçlü bir asit olduğu için pH değeri suya göre daha düşüktür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_13",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 11 olan bir çözeltide hangi bileşenlerin konsantrasyonu yüksek olacaktır?",
+    "options": [
+      "H+",
+      "OH-",
+      "H2O",
+      "Na+",
+      "Cl-"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 11 olan bir çözeltide OH- iyonları yüksektir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_10",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi asidin özelliğini gösterir?",
+    "options": [
+      "H+ iyonu salınımı",
+      "OH- iyonu salınımı",
+      "Nötrleşme",
+      "Tuz oluşturma",
+      "Amfoter olma"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asitler H+ iyonu salınarak çözeltide asidik özellik gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_13",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi pH değeri bir asidik çözeltidir?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5",
+      "9"
+    ],
+    "correctAnswer": 3,
+    "explanation": "pH değeri 7'den küçük olan değerler asidik çözeltilerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_14",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir bazdır?",
+    "options": [
+      "KOH",
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "CH3COOH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "KOH, potasyum hidroksit olarak bilinir ve güçlü bir bazdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_29",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "H2S çözeltisi ile NaOH çözeltisi karıştırıldığında hangi ürünler oluşur?",
+    "options": [
+      "Na2S ve H2O",
+      "NaHS ve H2O",
+      "NaOH ve H2S",
+      "H2O ve Na2SO4",
+      "NaCl ve H2O"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2S ve NaOH tepkimesi sonucunda NaHS ve su oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_15",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki asit-baz tepkimelerinden hangisi ekzotermiktir?",
+    "options": [
+      "HCl + NaOH",
+      "H2SO4 + NaOH",
+      "CH3COOH + NaOH",
+      "HNO3 + NaOH",
+      "H2CO3 + NaOH"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H2SO4 + NaOH tepkimesi ekzotermiktir ve ısı açığa çıkarır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387513_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltide pH 3 olan bir asidin molaritesi ne kadar asidik olduğunu gösterir?",
+    "options": [
+      "0.001 mol/L",
+      "0.01 mol/L",
+      "0.1 mol/L",
+      "1 mol/L",
+      "10 mol/L"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 3 olan bir çözelti, 10^-3 mol/L asit yoğunluğuna sahiptir, yani 0.001 mol/L.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528082717_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir asidin su içinde iyonlaşarak H+ iyonu bırakması sonucu oluşan çözeltinin pH değeri ne olur?",
+    "options": [
+      "7",
+      "0-7",
+      "7-14",
+      "14",
+      "Eşit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asidik çözeltiler pH değeri 0 ile 7 arasında yer alır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753928_11",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi madde bir asidin zayıf bir örneğidir?",
+    "options": [
+      "H2SO4",
+      "HCl",
+      "H3PO4",
+      "HNO3",
+      "CH3COOH"
+    ],
+    "correctAnswer": 4,
+    "explanation": "CH3COOH, zayıf bir asit olan sirke asididir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520270276_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 7 olan bir çözeltinin asidik, bazik ya da nötr olup olmadığını belirleyin.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Zayıf asidik",
+      "Zayıf bazik"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 7 olan bir çözeltinin nötr olduğu kabul edilir. Asidik çözeltiler pH 7'den düşük, bazik çözeltiler ise pH 7'den yüksektir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528082718_25",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki bileşenlerden hangisi bir asit değildir?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "NaOH",
+      "HNO3"
+    ],
+    "correctAnswer": 3,
+    "explanation": "NaOH, bir bazdır, bu nedenle asit değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082717_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "HCl + NaOH tepkimesinin sonucunda hangi madde oluşur?",
+    "options": [
+      "NaCl",
+      "H2O",
+      "H2",
+      "O2",
+      "NaOH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HCl ve NaOH tepkimesi sonucunda tuz (NaCl) ve su (H2O) oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753928_4",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi madde, asit-baz tepkimesinde bir baz olarak davranır?",
+    "options": [
+      "H2O",
+      "NH3",
+      "HCl",
+      "H2SO4",
+      "HNO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "NH3, amonyak olarak bilinir ve bir baz olarak davranır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_33",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi bir asit-baz göstergesidir?",
+    "options": [
+      "Fenolftalein",
+      "NaCl",
+      "H2SO4",
+      "NH3",
+      "KOH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fenolftalein, asit-baz göstergesi olarak kullanılan bir bileşiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387515_30",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi pH değeri, bazik bir çözeltinin özelliklerini temsil eder?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswer": 3,
+    "explanation": "pH değeri 8, bazik bir çözeltinin özelliklerini temsil eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528082718_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 3 olan bir çözeltinin asidik mi yoksa bazik mi olduğunu belirleyin.",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Amfoter",
+      "İkisi de değil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "pH değeri 7'den düşük olan çözeltiler asidiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526753929_17",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Asitler H+ iyonu verir.",
+      "Bazlar OH- iyonu verir.",
+      "pH 7 asidik değildir.",
+      "Asitler bazik özellik gösterir.",
+      "All of the above."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asitler H+ iyonu verir ve bazlar OH- iyonu verir, bu nedenle ilk ifade doğrudur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498546033_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "NH₃(suda) + H₂O(s) ⇌ NH₄⁺(suda) + OH⁻(suda)\n\nYukarıda verilen denge tepkimesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "NH₃, Brønsted-Lowry bazıdır.",
+      "H₂O, NH₃'e karşı asit olarak davranmıştır.",
+      "NH₄⁺, NH₃'ün konjuge (eşlenik) asididir.",
+      "H₂O ve OH⁻ iyonu konjuge asit-baz çiftidir.",
+      "NH₄⁺ iyonu, H₂O'ya karşı baz olarak davranır."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Brønsted-Lowry asit-baz tanımına göre proton (H⁺) veren madde asit, proton alan madde bazdır. Tepkimede, NH₃ molekülü H₂O'dan bir proton alarak NH₄⁺ iyonuna dönüşmüştür. Bu nedenle NH₃ baz, H₂O ise asit olarak davranmıştır. Bir bazın proton almış haline o bazın konjuge asidi denir, dolayısıyla NH₄⁺ iyonu NH₃'ün konjuge asididir. Bir asidin proton vermiş haline ise o asidin konjuge bazı denir, dolayısıyla OH⁻ iyonu H₂O'nun konjuge bazıdır. E şıkkında ise NH₄⁺ iyonunun H₂O'ya karşı baz olarak davrandığı söylenmiştir. Ancak NH₄⁺ iyonu, NH₃'ün konjuge asidi olduğu için H₂O'ya proton vererek (yani asit gibi davranarak) geri tepkimeyi gerçekleştirme eğilimindedir. Bu nedenle bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528082718_3",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 10 ise bu çözeltinin hangi özellikte olduğunu söyleyebilirsiniz?",
     "options": [
       "Asidik",
       "Bazik",
@@ -1948,7 +1852,247 @@
       "Tuz"
     ],
     "correctAnswer": 1,
-    "explanation": "pH değeri 7'den yüksek olan çözeltiler bazik özellik gösterir.",
+    "explanation": "pH değeri 7'den yüksek olan çözeltiler baziktir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764524387513_13",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH 7.4 olan bir çözeltinin özelliği nedir?",
+    "options": [
+      "Asidik",
+      "Nötr",
+      "Bazik",
+      "Radikal",
+      "Tuzlu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH 7.4 olan bir çözelti hafif bazik özellik taşır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524387514_24",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, endüstriyel olarak sıklıkla kullanılır?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "HNO3",
+      "HF"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sülfürik asit (H2SO4), endüstriyel olarak sıklıkla kullanılan bir asittir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528082718_24",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 9.0 ise, bu çözeltinin H+ iyonu konsantrasyonu ne kadar olur?",
+    "options": [
+      "10^-9 mol/L",
+      "10^-10 mol/L",
+      "10^-11 mol/L",
+      "10^-12 mol/L",
+      "10^-14 mol/L"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH 9.0, 10^-11 mol/L H+ iyonu konsantrasyonu anlamına gelir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528082718_30",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 14.0 olduğunda, bu çözeltinin özellikleri hakkında ne söyleyebilirsiniz?",
+    "options": [
+      "Asidik",
+      "Bazik",
+      "Nötr",
+      "Amfoter",
+      "Zayıf asit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 14, çözeltinin bazik olduğunu gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519313122_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi güçlü bir bazdır?",
+    "options": [
+      "Sodyum hidroksit (NaOH)",
+      "Amonyak (NH3)",
+      "Karbonat (CO3^2-)",
+      "Sodyum bikarbonat (NaHCO3)",
+      "Kalsiyum sülfat (CaSO4)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sodyum hidroksit (NaOH), güçlü bir bazdır ve su ile çözündüğünde yüksek oranda hidroksit iyonu (OH-) üretir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526753928_5",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi zayıf bir asittir?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "CH3COOH",
+      "HNO3",
+      "NaOH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CH3COOH, sirke asidi olarak bilinir ve zayıf bir asittir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576800206_0",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi asidik özellik gösterir?",
+    "options": [
+      "Sodyum klorür",
+      "Amonyak",
+      "Sitrik asit",
+      "Kalsiyum karbonat",
+      "Potasyum hidroksit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sitrik asit, limonda bulunan doğal bir asittir ve asidik özellik gösterir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_1",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "pH değeri 7'nin altında olan bir çözelti, aşağıdaki seçeneklerden hangisini temsil eder?",
+    "options": [
+      "Nötr",
+      "Asidik",
+      "Bazik",
+      "Alkali",
+      "Süper bazik"
+    ],
+    "correctAnswer": 1,
+    "explanation": "pH değeri 7'nin altında olan çözeltiler asidik özellik gösterir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_2",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi madde, suda çözündüğünde hidrojen iyonu (H+) salınımı yapar?",
+    "options": [
+      "Kalsiyum hidroksit",
+      "Sodyum hidroksit",
+      "Hidroklorik asit",
+      "Amonyum klorür",
+      "Sodyum asetat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hidroklorik asit, suda çözündüğünde H+ iyonları salarak asidik bir çözeltidir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_3",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdakilerden hangisi bir bazdır?",
+    "options": [
+      "Asetik asit",
+      "Sodyum hidroksit",
+      "Hidroklorik asit",
+      "Karbonik asit",
+      "Sitrik asit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sodyum hidroksit, suda çözündüğünde OH- iyonları üreterek bazik özellik gösterir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_4",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Asit-baz tepkimelerinde hangi madde genellikle proton donorü olarak görev yapar?",
+    "options": [
+      "Asit",
+      "Baz",
+      "Su",
+      "Tuz",
+      "Alkol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asitler, proton (H+) bağışlayarak asit-baz tepkimelerinde proton donorü olarak görev yapar.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_5",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Bir çözeltinin pH değeri 14'e yaklaştıkça, o çözeltinin özellikleri hakkında ne söylenebilir?",
+    "options": [
+      "Asidik özellik kazanır",
+      "Nötr hale gelir",
+      "Bazik özellik kazanır",
+      "İkisi de olabilir",
+      "Sadece su olur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "pH değeri 14'e yaklaştıkça çözeltinin bazik özelliği artar.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_6",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Hangi asit, organik bir asit olarak bilinir?",
+    "options": [
+      "Hidroklorik asit",
+      "Asetik asit",
+      "Sülfürik asit",
+      "Nitrat asidi",
+      "Fosforik asit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asetik asit, sirke içinde bulunan ve organik asit olarak bilinen bir bileşiktir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_7",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Sodyum hidroksit ile hidroklorik asit arasındaki tepkime sonucu hangi ürün oluşur?",
+    "options": [
+      "Karbonat",
+      "Amonyak",
+      "Su ve tuz",
+      "Hidrojen",
+      "Nitrat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sodyum hidroksit (baz) ile hidroklorik asit (asit) tepkimeye girerek su ve sodyum klorür (tuz) oluşturur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576800206_8",
+    "subjectId": "kim",
+    "topic": "Asit ve Bazlar",
+    "questionText": "Aşağıdaki maddelerden hangisi bir amfoter bileşiktir?",
+    "options": [
+      "Bakır(II) oksit",
+      "Sodyum klorür",
+      "Alüminyum hidroksit",
+      "Kalsiyum karbonat",
+      "Kükürt dioksit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alüminyum hidroksit, hem asitlerle hem de bazlarla tepkime verebilen amfoter bir bileşiktir.",
+    "difficulty": 2
   }
 ]
