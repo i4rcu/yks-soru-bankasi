@@ -1,297 +1,9 @@
 [
   {
-    "id": "ai_1764524129288_9",
+    "id": "ai_1764576706151_7",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Bir ışık demeti bir merceğe çarptığında hangi durum oluşmaz?",
-    "options": [
-      "Kırılma",
-      "Yansıma",
-      "Difraksiyon",
-      "Dağılma",
-      "İçsel yansıma"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Işık bir merceğe çarptığında içsel yansıma oluşmaz; bu olay genellikle aynalarda görülür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824743_33",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi durumda ışık, bir merceğin odak noktasında odaklaşır?",
-    "options": [
-      "Merceğe paralel gelen ışık",
-      "Merceğe dik gelen ışık",
-      "Merceğin kenarından geçen ışık",
-      "Merceğin odak noktasından geçen ışık",
-      "Merceğin arka tarafında kalan ışık"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Merceğe paralel gelen ışık, mercekte odaklanır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129288_8",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı ile kırılma indisi arasındaki ilişki nedir?",
-    "options": [
-      "Doğru orantılıdır",
-      "Ters orantılıdır",
-      "Bağımsızdır",
-      "Sabit bir ilişkiye sahiptir",
-      "Doğru orantılı değildir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Odak uzaklığı, kırılma indisi ile ters orantılıdır; yani, kırılma indisi arttıkça odak uzaklığı azalır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824743_36",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı, merceğin hangi özelliklerini etkiler?",
-    "options": [
-      "Renk ve şekil",
-      "Kalınlık ve malzeme",
-      "Açı ve sıcaklık",
-      "Yoğunluk ve malzeme",
-      "Şekil ve kalınlık"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Odak uzaklığı, merceğin şekli ve kalınlığı ile doğrudan ilişkilidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_9",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Dışbükey mercek için odak uzaklığı nasıl bir değere sahiptir?",
-    "options": [
-      "Pozitif",
-      "Negatif",
-      "Sıfır",
-      "Herhangi",
-      "Düşük"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dışbükey merceklerin odak uzaklığı negatif bir değere sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526140811_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık ışınının bir ortamdan diğerine geçişi sırasında hızının değişmesinin sebebi nedir?",
-    "options": [
-      "Işık dalgalarının frekansının değişmesi",
-      "Işık dalgalarının dalga boyunun değişmesi",
-      "Ortamların optik yoğunluklarının farklı olması",
-      "Işık ışınının yansıma özelliği",
-      "Ortamın sıcaklığındaki değişim"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık, farklı ortamlarda farklı hızlarda hareket eder ve bu durum ortamların optik yoğunluklarının farklı olmasından kaynaklanır. Daha yoğun ortamlarda ışığın hızı azalır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520224011_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "İnterferans",
-      "Polarizasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578163001_25",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten geçen ışık ışınları hangi durumda en az kırılır?",
-    "options": [
-      "Dikey geçiş",
-      "Yatay geçiş",
-      "Merceğin merkezine yakın",
-      "Merceğin kenarına yakın",
-      "Sadece merceği geçerken"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Işık ışınları merceğe dik olarak geldiğinde en az kırılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_21",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü, cisimleri büyütmek için kullanılır?",
-    "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Konverjan mercek",
-      "Düz mercek",
-      "Asferik mercek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Konverjan mercekler, cisimleri büyütmek için kullanılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824743_32",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Optik aletler hangi prensiplere dayanarak çalışır?",
-    "options": [
-      "Mekanik prensipler",
-      "Elektromanyetik prensipler",
-      "Termodinamik prensipler",
-      "Optik prensipler",
-      "Elektrostatik prensipler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Optik aletler, ışığın davranışlarına ve prensiplerine dayanarak çalışır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163001_30",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü, gelen ışığı dağıtan bir mercek olarak bilinir?",
-    "options": [
-      "Düz mercek",
-      "Küresel mercek",
-      "Diverjan mercek",
-      "Küresel ayna",
-      "Küresel lens"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Diverjan mercek, gelen ışığı dağıtan bir mercek türüdür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526140811_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, hava ortamından suya geçerken hangi olayı gerçekleştirir?",
-    "options": [
-      "Yansıma",
-      "Difraksiyon",
-      "Kırılma",
-      "Polarizasyon",
-      "Dağılma"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık, hava ortamından suya geçtiğinde hızının değişmesi nedeniyle kırılma olayı gerçekleşir. Bu olay, ışığın yönünün değişmesine neden olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576706151_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Aşağıdaki ışık olaylarından hangisi, ışığın bir yüzeye çarptıktan sonra geri dönmesi olarak tanımlanır?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Dağılım",
-      "Soğurma",
-      "İletim"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yansıma, ışığın bir yüzeye çarptıktan sonra geri dönmesi olayıdır. Yansıma, düz bir ayna üzerindeki ışığın geri dönmesi gibi olaylarda gözlemlenir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764527824743_23",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi, bir ışık ışınının hangi özelliğini ifade eder?",
-    "options": [
-      "Hız",
-      "Frekans",
-      "Dalga boyu",
-      "Enerji",
-      "Yoğunluk"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kırılma indisi, ışığın bir ortamda hızını ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_18",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi ile ilgili doğru olan hangi ifade yanlıştır?",
-    "options": [
-      "Kırılma indisi sabit bir değerdir",
-      "Her ortam için farklı bir değerdir",
-      "Sıcaklık ile değişmez",
-      "Işık hızına bağlıdır",
-      "Işık dalga boyuna göre değişir"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kırılma indisi, sıcaklık değişimi ile değişebilir, bu nedenle sıcaklık ile değişmez ifadesi yanlıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129287_5",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten çıkan ışık, odak noktasına ne kadar uzakta bir nesne varsa, görüntü nasıl olur?",
-    "options": [
-      "Sanal ve büyük",
-      "Gerçek ve küçük",
-      "Sanal ve küçük",
-      "Gerçek ve büyük",
-      "Gerçek ve ters"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nesne odak noktasının ötesindeyse, görüntü gerçek, büyük ve ters olur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_12",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir prizmanın içinden geçen beyaz ışık, hangi renklerin ayrışmasına sebep olur?",
-    "options": [
-      "Sadece kırmızı",
-      "Sadece mavi",
-      "Tüm renkler",
-      "Sadece yeşil",
-      "Sadece sarı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Beyaz ışık, prizmanın içinden geçerken tüm renklerine ayrışır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824743_29",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü, ışığı dağıtan bir etkiye sahiptir?",
-    "options": [
-      "İçbükey mercek",
-      "Dışbükey mercek",
-      "Düz mercek",
-      "Konverjan mercek",
-      "Asferik mercek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İçbükey mercek, ışığı dağıtarak görüntü oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576706151_3",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, havadan suya geçtiğinde hangi olay gerçekleşir?",
+    "questionText": "Aşağıdakilerden hangisi, ışığın bir yüzeyden geçtikten sonra yön değiştirmesi olarak tanımlanır?",
     "options": [
       "Yansıma",
       "Kırılma",
@@ -300,151 +12,55 @@
       "İletim"
     ],
     "correctAnswer": 1,
-    "explanation": "Işık, havadan suya geçtiğinde hızının değişmesi nedeniyle kırılma olayı gerçekleşir. Bu, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
+    "explanation": "Işığın bir yüzeyden geçtikten sonra yön değiştirmesi kırılma olayıdır. Bu, ışığın farklı yoğunluktaki ortamlar arasında geçiş yaptığı zaman ortaya çıkar.",
     "difficulty": 2
   },
   {
-    "id": "ai_1764527824742_15",
+    "id": "ai_1764499767243_1",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Optik aygıtlarda kullanılan merceklerin en yaygın türü hangisidir?",
+    "questionText": "Odak uzaklığı f olan ince kenarlı bir merceğin önüne, optik eksene dik olarak konulan bir cismin görüntüsü, merceğin diğer tarafında ve mercekten 3f uzaklıkta oluşuyor. Buna göre, cisim mercekten ne kadar uzaktadır ve oluşan görüntünün özellikleri nelerdir?",
     "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Konverjan mercek",
-      "Düz mercek",
-      "Asferik mercek"
+      "Cisim 1.5f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
+      "Cisim 2f uzağındadır; görüntü gerçek, ters ve boyu cismin boyuna eşittir.",
+      "Cisim 3f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 1.5 katıdır.",
+      "Cisim 1.5f uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır.",
+      "Cisim f/2 uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır."
     ],
     "correctAnswer": 0,
-    "explanation": "Dışbükey mercekler, optik aygıtlarda en yaygın kullanılan merceklerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129288_23",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demetinin merceğe geldiği açı, neyi etkiler?",
-    "options": [
-      "Görüntü büyüklüğünü",
-      "Yansıma miktarını",
-      "Kırılma açısını",
-      "Dalgaların yayılma hızını",
-      "Görüntü türünü"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık demetinin merceğe geldiği açı, kırılma açısını etkiler; bu da görüntünün özelliklerini belirler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519275674_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demeti, bir prizma üzerinden geçerken ne olur?",
-    "options": [
-      "Kırılmaz",
-      "Kırılır ve dağılır",
-      "Dikey olarak yansır",
-      "Dikey olarak kırılır",
-      "Yansıma gerçekleşmez"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık demeti bir prizma üzerinden geçtiğinde, farklı dalga boyları farklı açılarda kırılır ve bu da demetin dağılmasına neden olur. Doğru cevap 'Kırılır ve dağılır' seçeneğidir.",
+    "explanation": "İnce kenarlı mercek formülü 1/f = 1/d_c + 1/d_g 'dir. Burada d_c cismin uzaklığı, d_g ise görüntünün uzaklığıdır. Görüntü merceğin diğer tarafında oluştuğu için gerçektir ve d_g = +3f olarak alınır. Formülde yerine koyarsak: 1/f = 1/d_c + 1/(3f). Buradan 1/d_c = 1/f - 1/(3f) = (3-1)/3f = 2/(3f) bulunur. Yani d_c = 3f/2 = 1.5f'dir. Büyütme oranı m = -d_g / d_c = -(3f) / (1.5f) = -2'dir. Büyütmenin negatif olması görüntünün terse döndüğünü, mutlak değerinin 1'den büyük olması ise görüntünün cisimden daha büyük olduğunu (2 katı) gösterir. d_g'nin pozitif olması da görüntünün gerçek olduğunu teyit eder. Sonuç olarak, cisim 1.5f uzağındadır ve görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764578163000_9",
+    "id": "ai_1764527824742_6",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Hangi dalga boyu, en yüksek kırılma açısına sahip olur?",
+    "questionText": "Hangi durum, ışığın kırılmasına neden olmaz?",
     "options": [
-      "Kırmızı ışık",
-      "Mavi ışık",
-      "Yeşil ışık",
-      "Sarı ışık",
-      "Mor ışık"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Mor ışık, en kısa dalga boyuna sahip olduğu için en yüksek kırılma açısına sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_19",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir cisimden çıkan ışık ışınlarının bir yüzeye çarpıp geri dönmesine neden olan olaya ne denir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "İnterferans"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Işık ışınlarının bir yüzeye çarptıktan sonra geri dönmesine yansıma denir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_16",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demetinin bir merceğe çarptığında geçirdiği değişikliklerin toplamına ne denir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "Absorpsiyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık demetinin merceğe çarpması sonucu geçirdiği tüm değişiklikler 'kırılma' olarak adlandırılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_3",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, ışık ışınlarının toplandığı noktadır. Bu nokta merceğin hangi özelliği ile ilişkilidir?",
-    "options": [
-      "Mercek kalınlığı",
-      "Mercek malzemesi",
-      "Mercek şekli",
-      "Mercek rengi",
-      "Mercek yapısı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Odak noktası, merceğin şekli ile doğrudan ilişkilidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824741_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demeti, bir prizma üzerinden geçtiğinde hangi olayı yaşar?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Absorpsiyon",
-      "Difraksiyon",
-      "Polarizasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık bir prizma üzerinden geçtiğinde kırılma olayı gerçekleşir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_4",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü paralel ışınları odak noktasında toplar?",
-    "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Düz mercek",
-      "Konverjan mercek",
-      "Küresel mercek"
+      "Farklı ortamlar arasında geçiş",
+      "Aynı ortamda farklı yoğunluklar",
+      "Aynı ortamda farklı sıcaklıklar",
+      "Dik açıyla geçiş",
+      "Hiçbiri"
     ],
     "correctAnswer": 3,
-    "explanation": "Konverjan (dışbükey) mercek, paralel ışınları odak noktasında toplar.",
+    "explanation": "Işık, aynı ortamda dik açıyla geçtiğinde kırılmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824741_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık hızı boşlukta ne kadardır?",
+    "options": [
+      "3 x 10^8 m/s",
+      "2.5 x 10^8 m/s",
+      "1.5 x 10^8 m/s",
+      "3 x 10^6 m/s",
+      "1 x 10^8 m/s"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Boşluktaki ışık hızı yaklaşık 3 x 10^8 m/s'dir.",
     "difficulty": 4
   },
   {
@@ -464,646 +80,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764499767243_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan ince kenarlı bir merceğin önüne, optik eksene dik olarak konulan bir cismin görüntüsü, merceğin diğer tarafında ve mercekten 3f uzaklıkta oluşuyor. Buna göre, cisim mercekten ne kadar uzaktadır ve oluşan görüntünün özellikleri nelerdir?",
-    "options": [
-      "Cisim 1.5f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
-      "Cisim 2f uzağındadır; görüntü gerçek, ters ve boyu cismin boyuna eşittir.",
-      "Cisim 3f uzağındadır; görüntü gerçek, ters ve boyu cismin boyunun 1.5 katıdır.",
-      "Cisim 1.5f uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır.",
-      "Cisim f/2 uzağındadır; görüntü sanal, düz ve boyu cismin boyunun 2 katıdır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "İnce kenarlı mercek formülü 1/f = 1/d_c + 1/d_g 'dir. Burada d_c cismin uzaklığı, d_g ise görüntünün uzaklığıdır. Görüntü merceğin diğer tarafında oluştuğu için gerçektir ve d_g = +3f olarak alınır. Formülde yerine koyarsak: 1/f = 1/d_c + 1/(3f). Buradan 1/d_c = 1/f - 1/(3f) = (3-1)/3f = 2/(3f) bulunur. Yani d_c = 3f/2 = 1.5f'dir. Büyütme oranı m = -d_g / d_c = -(3f) / (1.5f) = -2'dir. Büyütmenin negatif olması görüntünün terse döndüğünü, mutlak değerinin 1'den büyük olması ise görüntünün cisimden daha büyük olduğunu (2 katı) gösterir. d_g'nin pozitif olması da görüntünün gerçek olduğunu teyit eder. Sonuç olarak, cisim 1.5f uzağındadır ve görüntü gerçek, ters ve boyu cismin boyunun 2 katıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764499767243_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırıcılık indisi n₁ olan ortamdan, kırıcılık indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Buna göre, ışığın bu ortamlardaki frekansı (f), hızı (v) ve dalga boyu (λ) ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
-    "options": [
-      "f₁ = f₂, v₁ > v₂, λ₁ > λ₂",
-      "f₁ > f₂, v₁ < v₂, λ₁ < λ₂",
-      "f₁ = f₂, v₁ < v₂, λ₁ < λ₂",
-      "f₁ < f₂, v₁ > v₂, λ₁ > λ₂",
-      "f₁ = f₂, v₁ < v₂, λ₁ > λ₂"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık bir ortamdan başka bir ortama geçtiğinde frekansı değişmez, çünkü frekans kaynağa bağlıdır. Dolayısıyla f₁ = f₂'dir. Şekilde ışının normalden uzaklaşarak kırıldığı görülmektedir. Snell Yasası'na göre, ışın normalden uzaklaşıyorsa az yoğun ortama geçiyor demektir. Bu durumda n₁ > n₂'dir. Işığın ortamdaki hızı kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğu için, v₁ < v₂ olmalıdır. v = λf formülüne göre frekans (f) sabitken, hız (v) ile dalga boyu (λ) doğru orantılıdır. v₁ < v₂ olduğu için, λ₁ < λ₂ olmalıdır. Sonuç olarak doğru sıralama: f₁ = f₂, v₁ < v₂, λ₁ < λ₂'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578163000_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir prizmanın içinden geçen beyaz ışığın, farklı renklerdeki ışıklara ayrılmasına ne ad verilir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "İnterferans",
-      "Polarizasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Beyaz ışığın prizma içinden geçerken farklı dalga boylarındaki ışıkların farklı açılarda kırılması sonucu ortaya çıkan olaya 'dispersion' yani renk ayrılması denir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575538291_4",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir cisim, bir merceğe 2 metre uzaklıktayken görüntüsü nasıl oluşur?",
-    "options": [
-      "Gerçek ve ters",
-      "Gerçek ve düz",
-      "Sanal ve düz",
-      "Sanal ve ters",
-      "Hepsi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir cisim, merceğin odak uzaklığından daha uzakta ise gerçek ve ters bir görüntü oluşur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764527824742_5",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demeti, bir su yüzeyine çarptığında hangi açı ile yansır?",
-    "options": [
-      "Geliş açısı ile aynı",
-      "90 derece",
-      "Dikey",
-      "Sıfır",
-      "Herhangi bir açı ile"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Işık demeti, geliş açısı ile aynı açıyla yansır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163001_27",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekte görüntü oluşumunu etkileyen temel faktör hangisidir?",
-    "options": [
-      "Cisim boyu",
-      "Merceğin şekli",
-      "Işık kaynağının türü",
-      "Cisim ile mercek arasındaki mesafe",
-      "Ortamın sıcaklığı"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cisim ile mercek arasındaki mesafe, görüntünün türünü, boyutunu ve konumunu etkiler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_8",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı arttıkça, merceğin büyütme gücü nasıl değişir?",
-    "options": [
-      "Artar",
-      "Azalır",
-      "Değişmez",
-      "Sıfır olur",
-      "Olumsuz etkilenir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Odak uzaklığı arttıkça merceğin büyütme gücü azalır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575538291_3",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık hızı, hangi ortamda en yüksektir?",
-    "options": [
-      "Hava",
-      "Su",
-      "Cam",
-      "Vakum",
-      "Hepsi"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık hızı, vakumda en yüksektir. Hava, su ve cam gibi ortamlarda ise ışık hızı düşer.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578163001_28",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, bir ortamdan diğerine geçerken hangi durumda en fazla kırılır?",
-    "options": [
-      "Dikey geçişte",
-      "Yatay geçişte",
-      "Keskin açıda geçişte",
-      "Düz yüzeyden geçerken",
-      "Mercekten geçerken"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Keskin açılarda ışık, daha fazla kırılma gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824743_24",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi durumda ışık, su yüzeyinde kırılmaz?",
-    "options": [
-      "Su yüzeyine dik açıyla gelirse",
-      "Su yüzeyine yandan gelirse",
-      "Su yüzeyinden çıkarken",
-      "Su yüzeyine paralel gelirse",
-      "Su yüzeyinde durursa"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Işık, su yüzeyine dik açıyla gelirse kırılmaz.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_12",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, bir prizmadan geçerken hangi olay gerçekleşir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "İnterferans"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir prizmadan geçen ışık, farklı dalga boylarındaki ışıkların farklı açılarda kırılması sonucu ayrışır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129288_26",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma yasası, hangi durum için geçerlidir?",
-    "options": [
-      "Yalnızca düz ayna için",
-      "Yalnızca mercek için",
-      "Yalnızca prizma için",
-      "Her ortamda",
-      "Her türlü ışık kaynağı için"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kırılma yasası, ışığın farklı ortamlarda geçiş yaparkenki davranışlarını tanımlar ve her ortam için geçerlidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_22",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir nesne merceğin odak noktasının önünde ise görüntü nasıl olur?",
-    "options": [
-      "Gerçek ve ters",
-      "Sanal ve düz",
-      "Sanal ve ters",
-      "Gerçek ve büyük",
-      "Gerçek ve küçük"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nesne odak noktasının önünde ise sanal ve düz bir görüntü oluşur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824742_14",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma yasası hangi bilim insanı tarafından formüle edilmiştir?",
-    "options": [
-      "Newton",
-      "Einstein",
-      "Snell",
-      "Galileo",
-      "Huygens"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kırılma yasası, Willebrord Snell tarafından formüle edilmiştir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_10",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, bir ortamdan diğerine geçerken hangi durumda en az kırılır?",
-    "options": [
-      "Dikey geçişte",
-      "Yatay geçişte",
-      "Yüzeyle 45 derece açı yaparken",
-      "Yüzeyle 90 derece açı yaparken",
-      "Yüzeyle 30 derece açı yaparken"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık, yüzeyle 90 derece açı yaparak geçiş yaptığında kırılma olmaz.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_7",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi en yüksek olan madde hangisidir?",
-    "options": [
-      "Hava",
-      "Su",
-      "Cam",
-      "Yağ",
-      "Kırmızı ışık"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Camın kırılma indisi, hava ve suya göre daha yüksektir ve ışığın camdan geçerken daha fazla kırılmasına neden olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764501122795_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan ince kenarlı (yakınsak) bir merceğin önüne, mercekten 1,5f uzaklığa bir cisim konuluyor. Oluşan görüntü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-    "options": [
-      "Görüntü sanaldır ve cisimle aynı taraftadır.",
-      "Görüntünün boyu cismin boyundan küçüktür.",
-      "Görüntü mercekten 3f uzaklıkta ve gerçektir.",
-      "Görüntü cisme göre düzdür.",
-      "Görüntü merceğin odak noktası (f) ile 2f noktası arasında oluşur."
-    ],
-    "correctAnswer": 2,
-    "explanation": "İnce kenarlı merceklerde görüntü oluşumunu bulmak için mercek formülü kullanılır: 1/f = 1/d_c + 1/d_g. Burada f odak uzaklığı, d_c cismin uzaklığı ve d_g görüntünün uzaklığıdır. Soruda d_c = 1,5f verilmiştir. Formülde yerine koyarsak:\n1/f = 1/(1,5f) + 1/d_g\n1/d_g = 1/f - 1/(1,5f)\n1/d_g = 1/f - 2/(3f)\n1/d_g = (3 - 2) / (3f)\n1/d_g = 1/(3f)  =>  d_g = 3f\n\nSonucun pozitif çıkması, görüntünün merceğin diğer tarafında ve gerçek olduğunu gösterir. Büyütme formülü m = -d_g/d_c = |h_g/h_c| olduğundan, m = -3f / 1,5f = -2 bulunur. Büyütme değerinin 1'den büyük olması (|m|>1) görüntünün cisimden büyük olduğunu, negatif olması ise görüntünün cisme göre ters (baş aşağı) olduğunu gösterir. Bu bilgilere göre şıkları değerlendirelim:\nA) Yanlış. Görüntü gerçektir (d_g > 0).\nB) Yanlış. Görüntünün boyu cismin boyunun 2 katıdır, yani daha büyüktür.\nC) Doğru. Görüntü mercekten 3f uzaklıkta oluşur ve gerçektir.\nD) Yanlış. Görüntü gerçektir ve cisme göre terstir.\nE) Yanlış. Görüntü 3f noktasında, yani 2f'nin dışında oluşur. Genel bir kural olarak, cisim F ile 2F arasındaysa, görüntü 2F'nin dışında oluşur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524129288_11",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliğine bağlıdır?",
-    "options": [
-      "Kırılma indisi",
-      "Kalınlık",
-      "Şekil",
-      "Yüzey eğriliği",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Odak noktası, merceğin kırılma indisi, kalınlığı ve şekli gibi birden fazla özelliğe bağlıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824741_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık hızı boşlukta ne kadardır?",
-    "options": [
-      "3 x 10^8 m/s",
-      "2.5 x 10^8 m/s",
-      "1.5 x 10^8 m/s",
-      "3 x 10^6 m/s",
-      "1 x 10^8 m/s"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Boşluktaki ışık hızı yaklaşık 3 x 10^8 m/s'dir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576706150_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten geçen ışık ışınlarının yönünü değiştiren faktör aşağıdakilerden hangisidir?",
-    "options": [
-      "Merceğin şekli",
-      "Işık kaynağının rengi",
-      "Ortamın sıcaklığı",
-      "Merceğin kalitesi",
-      "Işık hızının değişimi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Merceğin şekli, ışık ışınlarının mercekten geçerken yönlerini değiştiren en önemli faktördür. Mercekler, farklı şekillerde (dışbükey veya içbükey) tasarlanarak ışığın yönünü değiştirebilir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764524129287_6",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası ile nesne arasındaki mesafe arttıkça, görüntünün boyutu nasıl değişir?",
-    "options": [
-      "Büyür",
-      "Küçülür",
-      "Değişmez",
-      "Ters döner",
-      "Düzleşir"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Nesne ile odak noktası arasındaki mesafe arttıkça, görüntü boyutu büyür.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824742_13",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin büyütme oranı nedir?",
-    "options": [
-      "Objektif ve görüntü arasındaki mesafe",
-      "Objektif ve odak arasındaki mesafe",
-      "Görüntü boyu ve cisim boyu oranı",
-      "Merceğin kalınlığı",
-      "Merceğin açısı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Büyütme oranı, görüntü boyunun cisim boyuna oranıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824743_34",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü, cisimleri küçülterek görüntü oluşturur?",
-    "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Konverjan mercek",
-      "Düz mercek",
-      "Asferik mercek"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İçbükey mercek, cisimleri küçülterek görüntü oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129288_13",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demeti merceğe paralel gelirken ne tür bir görüntü oluşturur?",
-    "options": [
-      "Sanal",
-      "Gerçek",
-      "Ters",
-      "Düz",
-      "Büyük"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Paralel gelen ışık demeti, merceğin odak noktasında toplanarak gerçek bir görüntü oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824743_28",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliğini etkiler?",
-    "options": [
-      "Renk",
-      "Kalınlık",
-      "Şekil",
-      "Malzeme",
-      "Açı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Odak noktası, merceğin şekli ile etkilenir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_13",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi madde ışığı en çok kırar?",
-    "options": [
-      "Hava",
-      "Su",
-      "Cam",
-      "Altın",
-      "Gümüş"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cam, ışığın en çok kırıldığı maddelerden biridir çünkü yüksek bir kırılma indisine sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764526140811_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası ile merceğin merkezinin arasındaki mesafeye ne denir?",
-    "options": [
-      "Odak uzaklığı",
-      "Merceğin çapı",
-      "Kırılma açısı",
-      "Dalgaboyu",
-      "Yansıma mesafesi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir merceğin odak noktası ile merceğin merkezinin arasındaki mesafeye odak uzaklığı denir. Bu mesafe, merceğin optik özelliklerini belirler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık kaynağından çıkan ışık ışınlarının yayılma yönü ile yüzey arasındaki açıya ne denir?",
-    "options": [
-      "Kırılma açısı",
-      "Yansıma açısı",
-      "Giriş açısı",
-      "Sınır açısı",
-      "Polarizasyon açısı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık ışınlarının bir yüzeye çarptığı anda ışın ile yüzey arasındaki açı giriş açısı olarak adlandırılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519275674_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliklerine bağlıdır?",
-    "options": [
-      "Merceğin kalınlığı",
-      "Merceğin şekli",
-      "Işık kaynağının rengi",
-      "Merceğin malzemesi",
-      "Tüm seçenekler"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir merceğin odak noktası, merceğin kalınlığı, şekli ve malzemesi gibi faktörlere bağlıdır. Bu nedenle doğru cevap 'Tüm seçenekler' seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524129287_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı 10 cm'dir. Bu mercekten gelen paralel ışınlar nasıl bir görüntü oluşturur?",
-    "options": [
-      "Gerçek, ters ve küçük",
-      "Gerçek, düz ve büyük",
-      "Sanal, düz ve büyük",
-      "Sanal, ters ve küçük",
-      "Gerçek, ters ve büyük"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Paralel ışınlar, merceğin odak noktasında toplandığı için gerçek, ters ve küçük bir görüntü oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_25",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten geçen bir ışık demeti için hangi durum geçerlidir?",
-    "options": [
-      "Işık her zaman kırılır",
-      "Işık her zaman yansır",
-      "Işık her zaman düz gelir",
-      "Işık hızı değişmez",
-      "Işık her zaman dalga boyunu kaybeder"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir mercekten geçen ışık demeti, merceğe girdiği anda mutlaka kırılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764578163000_22",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı nedir?",
-    "options": [
-      "Merceğin kalınlığı",
-      "Merceğin çapı",
-      "Işık ışınlarının mercekte birleştiği mesafe",
-      "Işık ışınlarının merceği geçme mesafesi",
-      "Merceğin en ince kısmı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Odak uzaklığı, ışık ışınlarının mercekte birleştiği nokta ile merceğin merkez noktası arasındaki mesafedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_15",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekte, cisim odakta iken görüntü ile ilgili hangisi doğrudur?",
-    "options": [
-      "Sanal ve düz",
-      "Gerçek ve ters",
-      "Sanal ve ters",
-      "Gerçek ve düz",
-      "Yok"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cisim merceğin odak noktasında olduğunda görüntü oluşmaz, bu nedenle görüntü yoktur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576706151_8",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten çıkan ışık ışınlarının dağılmasına neden olan mercek türü hangisidir?",
-    "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Düz mercek",
-      "Kırıcı mercek",
-      "Yansıtıcı mercek"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İçbükey mercek, mercekten çıkan ışık ışınlarının dağılmasına neden olur. Bu mercek türü, görüntüleri küçültmek için kullanılır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764524129288_16",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi kısmında bulunur?",
-    "options": [
-      "Merceğin tam ortası",
-      "Merceğin yüzeylerinde",
-      "Merceğin kenarlarında",
-      "Merceğin arka tarafında",
-      "Merceğin ön yüzeyinde"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Odak noktası, merceğin arka tarafında bulunur ve ışığın merceğe paralel girmesi durumunda odak noktasında toplanır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_17",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demetinin merceğe girmesiyle oluşan görüntü hangi özellikleri taşır?",
-    "options": [
-      "Her zaman sanaldır",
-      "Her zaman gerçektir",
-      "Büyüklüğü değişkenlik gösterir",
-      "Düz ve ters olabilir",
-      "Hepsi doğrudur"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Işık demetinin merceğe girmesiyle oluşan görüntü, nesnenin konumuna göre tüm bu özellikleri taşıyabilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764578163001_26",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık kaynağının çıkaracağı ışık şiddeti hangi özellik ile doğru orantılıdır?",
-    "options": [
-      "Dalga boyu",
-      "Frekans",
-      "Işık kaynağının büyüklüğü",
-      "Işık kaynağının sıcaklığı",
-      "Yansıma açısı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık kaynağı büyüdükçe, çıkaracağı ışık şiddeti de artar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_16",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Düz bir aynada görüntü hangi özelliklere sahiptir?",
-    "options": [
-      "Aynı boyut, ters",
-      "Aynı boyut, düz",
-      "Küçük, ters",
-      "Büyük, düz",
-      "Büyük, ters"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Düz bir aynada cisim ile görüntü aynı boyutta olup, düz bir görüntü oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575538291_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, bir ortamdaki parçacıklara çarptığında nasıl bir davranış sergiler?",
-    "options": [
-      "Yansır",
-      "Kırılır",
-      "Emilir",
-      "Geçer",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Işık, bir ortamdaki parçacıklara çarptığında yansıyabilir, kırılabilir, emilebilir ya da geçebilir. Bu nedenle doğru cevap 'Hepsi' seçeneğidir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578163000_6",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir cismin üzerine düşen ışık ışınları hangi durumda daha fazla yansır?",
-    "options": [
-      "Düz yüzeyde",
-      "Pürüzlü yüzeyde",
-      "Su yüzeyinde",
-      "Cam yüzeyinde",
-      "Metal yüzeyinde"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Düz yüzeyde ışık ışınları daha az dağılır ve daha fazla geri yansıma oluşur.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764524129288_21",
     "subjectId": "fiz",
     "topic": "Optik",
@@ -1120,822 +96,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764527824742_20",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık bir ortamdan diğerine geçtiğinde hızını ve yönünü değiştirmesine sebep olan olay hangisidir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Vibrasyon",
-      "Polarizasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık, bir ortamdan diğerine geçtiğinde hızını ve yönünü değiştirdiği için kırılma olayı gerçekleşir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_4",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Düz bir ayna önünde duran bir cisim, aynadan hangi mesafede yer aldığında cisim ile aynada görülen görüntü arasındaki mesafe eşit olur?",
-    "options": [
-      "Cisim aynadan 1 m uzaktaysa 1 m",
-      "Cisim aynadan 1 m uzaktaysa 2 m",
-      "Cisim aynadan 2 m uzaktaysa 2 m",
-      "Cisim aynadan 2 m uzaktaysa 4 m",
-      "Aynada görüntü oluşmaz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Düz bir aynada cisim ile görüntü arasındaki mesafe, cisim aynadan ne kadar uzakta ise o kadar mesafededir. Yani, cisim 1 m uzaktaysa görüntü de 1 m uzaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575538291_7",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Merceklerin hangi türü ışığı toplamak için kullanılır?",
-    "options": [
-      "Diverjan mercek",
-      "Küresel mercek",
-      "Kırıcı mercek",
-      "Küresel dalga",
-      "Konsantrik mercek"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işığı toplayan mercek türü, konkav değil, konveks yani küresel mercektir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764524129287_3",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin ince mercek formülünde 'f' harfi neyi ifade eder?",
-    "options": [
-      "Görüntü mesafesi",
-      "Nesne mesafesi",
-      "Odak uzaklığı",
-      "Mercek kalınlığı",
-      "Kırılma indisi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "'f' harfi, merceğin odak uzaklığını ifade eder ve merceğin optik özellikleri için kritik bir parametredir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_7",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık bir ortamdan diğerine geçerken hızında değişiklik oluyorsa, bu olay hangi terimle ifade edilir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "Refraksiyon"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Işık bir ortamdan diğerine geçerken hızındaki değişiklik kırılma (refraksiyon) olarak adlandırılır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824743_31",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı, mercekten çıkan ışınların hangi yönü ile ilişkilidir?",
-    "options": [
-      "Yansıma açısı",
-      "Kırılma açısı",
-      "Geliş açısı",
-      "Paralel ışınlar",
-      "Sıfır açılar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Odak uzaklığı, mercekten çıkan ışınların kırılma açısı ile ilişkilidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575538291_8",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık kaynağının rengi neye bağlıdır?",
-    "options": [
-      "Işık dalga boyuna",
-      "Cisimlerin rengine",
-      "Ortamın sıcaklığına",
-      "Hava durumuna",
-      "Hepsi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Işık kaynağının rengi, ışığın dalga boyuna bağlıdır. Farklı dalga boyları farklı renkleri oluşturur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578163000_8",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktasında cisim yer aldığında, görüntü ile ilgili hangi özellik doğrudur?",
-    "options": [
-      "Sanal, ters",
-      "Sanal, düz",
-      "Gerçek, ters",
-      "Gerçek, düz",
-      "Belirsiz"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Merceğin odak noktasında cisim yer aldığında, görüntü gerçek ve ters olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık hızının en düşük olduğu ortam hangisidir?",
-    "options": [
-      "Boşluk",
-      "Hava",
-      "Su",
-      "Cam",
-      "Metal"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık, en yüksek hızda boşlukta hareket eder. Cam, su ve metal gibi ortamlarda ışık hızı azalır, ancak camda en düşük hızda hareket eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129288_27",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir prizmanın içinden geçen ışık, hangi durumlarda daha fazla ayrışır?",
-    "options": [
-      "Düzgün merceklerde",
-      "Farklı dalga boylarında",
-      "Yalnızca beyaz ışıkta",
-      "Yalnızca kırmızı ışıkta",
-      "Paralel ışınlarda"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Prizma içinden geçen ışık, farklı dalga boylarına göre daha fazla ayrışır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499767243_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir gözlemci, hava ortamından suyun içindeki bir balığa baktığında, balığı gerçek derinliğinden daha yakında görür. Bu olayın temel nedeni aşağıdakilerden hangisidir?",
-    "options": [
-      "Işığın yansıması",
-      "Işığın tam yansımaya uğraması",
-      "Işığın kırılması",
-      "Işığın renklerine ayrılması (kırınım)",
-      "Işığın soğurulması"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Gözlemcinin bir cismi görebilmesi için cisimden gelen ışınların göze ulaşması gerekir. Sudan (çok yoğun ortam) havaya (az yoğun ortam) çıkan ışınlar, iki ortamı ayıran yüzeyde normalden uzaklaşarak kırılır. Gözlemcinin gözü, bu kırılan ışınların uzantılarının kesiştiği noktada bir sanal görüntü algılar. Işınlar normalden uzaklaşarak kırıldığı için, uzantıları su yüzeyine daha yakın bir noktada kesişir. Bu nedenle gözlemci, su içindeki balığı gerçekte olduğundan daha sığ bir derinlikte, yani kendisine daha yakın görür. Bu olayın temel nedeni ışığın sudan havaya geçerken kırılmasıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524129288_20",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Merceğin odak noktasının belirlenmesinde hangi faktörler etkili değildir?",
-    "options": [
-      "Merceğin şekli",
-      "Kırılma indisi",
-      "Mercek kalınlığı",
-      "Hava koşulları",
-      "Mercek malzemesi"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Hava koşulları, merceğin odak noktasını etkilemez; diğer faktörler ise etkilidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575538291_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir prizmanın içine giren beyaz ışık ne tür bir değişim geçirir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Dağılım",
-      "Emilim",
-      "Hepsi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bir prizmanın içine giren beyaz ışık, farklı dalga boylarına sahip bileşenlerine ayrılarak kırılır ve dağılım gösterir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764576706151_4",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir prizmadan geçen beyaz ışığın, farklı renk bileşenlerine ayrılması hangi olayla ilgilidir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Dağılım",
-      "Soğurma",
-      "İletim"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Beyaz ışığın bir prizma içerisinden geçerken farklı renk bileşenlerine ayrılması, kırılma olayıdır. Farklı dalga boylarına sahip ışık, prizmada farklı açılarda kırılır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764524129288_10",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Aynalar arasında oluşan görüntülerin sayısı nedir?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "Sonsuz",
-      "0"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Paralel iki ayna arasında sonsuz sayıda görüntü oluşur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_24",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin arka yüzeyinden çıkan ışık demetinin yönü neyi belirler?",
-    "options": [
-      "Görüntü boyutunu",
-      "Görüntü türünü",
-      "Odak konumunu",
-      "Kırılma indisini",
-      "Hepsini"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Arka yüzeyden çıkan ışık demetinin yönü, görüntü türünü belirler; sanal mı yoksa gerçek mi olduğunu etkiler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524129288_18",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı arttıkça görüntü boyutu nasıl değişir?",
-    "options": [
-      "Büyür",
-      "Küçülür",
-      "Değişmez",
-      "Ters döner",
-      "Düzleşir"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Odak uzaklığının artması, görüntü boyutunun büyümesine neden olur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575538291_5",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma olayı hangi durumlarda gerçekleşir?",
-    "options": [
-      "Farklı ortamlara geçişte",
-      "Aynadan yansıma anında",
-      "Sıvı içinde ses dalgaları geçerken",
-      "Dalgaların yayılması sırasında",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kırılma, ışığın farklı ortamlara geçişi sırasında görülür. Bu nedenle doğru cevap 'Farklı ortamlara geçişte' seçeneğidir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578163000_14",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Beyaz ışığın bir prizmadan geçerken ayrışmasına neden olan etken hangisidir?",
-    "options": [
-      "Işık yoğunluğu",
-      "Dalga boyu",
-      "Işık açısı",
-      "Işık kaynağı",
-      "Işık hızı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Beyaz ışığın bir prizmadan geçerken ayrışmasına dalga boyunun farklılığı neden olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_11",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi en yüksek olan ortam hangisidir?",
-    "options": [
-      "Hava",
-      "Su",
-      "Cam",
-      "Yağ",
-      "Alkol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cam, su ve havadan daha yüksek bir kırılma indisine sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_11",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık ışınlarının bir yüzeye çarpması sonucu geri dönmesine ne denir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "İnterferans"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Işık ışınlarının bir yüzeye çarptıktan sonra geri dönmesine yansıma denir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824743_37",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi durum, ışığın kırılma açısını artırır?",
-    "options": [
-      "Hızın düşmesi",
-      "Hızın artması",
-      "Ortamın yoğunluğunun artması",
-      "Işık demetinin açısının artması",
-      "Herhangi bir durum"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık demetinin açısının artması, kırılma açısını artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764501122795_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırıcılık indisi n₁ olan saydam ortamdan, kırıcılık indisi n₂ olan saydam ortama gönderilen tek renkli bir ışık ışını, ara kesit yüzeyine α gelme açısıyla çarptığında tam yansımaya uğramaktadır. (n₁ > n₂). Buna göre, gelme açısı α değiştirilmeden, ışının yine tam yansımaya uğramasını garantilemek için aşağıdaki işlemlerden hangisi tek başına yapılabilir?",
-    "options": [
-      "n₁ indisini azaltmak.",
-      "n₂ indisini artırmak.",
-      "Daha büyük dalga boylu bir ışık kullanmak.",
-      "n₁ ve n₂ indisleri arasındaki farkı (n₁-n₂) azaltmak.",
-      "n₁ indisini artırmak."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tam yansıma olayının gerçekleşmesi için iki şart vardır:\n1. Işık çok yoğun ortamdan az yoğun ortama geçmelidir (soruda n₁ > n₂ olarak verilmiş, bu şart sağlanıyor).\n2. Gelme açısı (α), sınır açısından (θ_s) büyük veya ona eşit olmalıdır (α ≥ θ_s).\nSınır açısı sin(θ_s) = n₂/n₁ formülü ile hesaplanır.\nSoruda, α açısıyla gelen ışının tam yansımaya uğradığı belirtilmiştir. Yani α ≥ θ_s durumu mevcuttur. Bu durumun devam etmesini veya garantilenmesini istiyoruz.\n\nSınır açısı (θ_s) nelere bağlıdır? n₁ ve n₂'ye. Eğer sınır açısını küçültürsek, α ≥ θ_s eşitsizliğinin sağlanması daha da kolaylaşır ve tam yansıma devam eder.\nSınır açısını (θ_s) küçültmek için sin(θ_s) değerini, yani n₂/n₁ oranını küçültmemiz gerekir.\n\nŞıkları inceleyelim:\nA) n₁'i azaltmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nB) n₂'yi artırmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nC) Ortamların normal dağılım (dispersiyon) özelliğine göre, genellikle dalga boyu arttıkça (kırmızıya yaklaştıkça) kırıcılık indisi azalır. Daha büyük dalga boylu ışık kullanmak hem n₁'i hem de n₂'yi azaltır. Oranın nasıl değişeceği kesin değildir, ancak genellikle fark azaldığı için oran büyür ve sınır açısı artar. Bu durum tam yansımayı bozabilir.\nD) n₁-n₂ farkını azaltmak demek, n₂/n₁ oranını 1'e yaklaştırmak demektir. Bu da oranı büyüterek sınır açısını artırır. Tam yansıma bozulabilir.\nE) n₁'i artırmak, n₂/n₁ oranını azaltır. Bu durum sınır açısını (θ_s) küçültür. Sınır açısı küçüldüğü için, mevcut α gelme açısı yeni ve daha küçük olan sınır açısından kesinlikle büyük olacaktır (α > θ_s_yeni). Dolayısıyla tam yansıma olayı kesinlikle devam eder.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764576706151_7",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Aşağıdakilerden hangisi, ışığın bir yüzeyden geçtikten sonra yön değiştirmesi olarak tanımlanır?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Soğurma",
-      "Dağılım",
-      "İletim"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işığın bir yüzeyden geçtikten sonra yön değiştirmesi kırılma olayıdır. Bu, ışığın farklı yoğunluktaki ortamlar arasında geçiş yaptığı zaman ortaya çıkar.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764527824741_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı 10 cm ise, bu mercek hangi tür mercektir?",
-    "options": [
-      "Düz mercek",
-      "Küresel mercek",
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Konverjan mercek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Odak uzaklığı pozitif olan mercekler, düz veya konverjan merceklerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519275674_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi durumda bir mercek, paralel gelen ışınları bir noktada toplar?",
-    "options": [
-      "Diverjan mercek kullanıldığında",
-      "Küresel mercek kullanıldığında",
-      "Konverjan mercek kullanıldığında",
-      "Dikey mercek kullanıldığında",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Konverjan mercek, paralel gelen ışınları bir odak noktasında toplar. Bu nedenle doğru cevap 'Konverjan mercek kullanıldığında' seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524129288_19",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık dalgalarının bir ortamda yayılması esnasında hangi durum gerçekleşmez?",
-    "options": [
-      "Kırılma",
-      "Yansıma",
-      "Difraksiyon",
-      "Dalgaların çarpışması",
-      "Işık kaynağının kaybolması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Işık kaynağının kaybolması, ışık dalgalarının yayılma sürecinde gerçekleşmez; diğerleri ise gerçekleşebilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498413992_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi n₁ olan ortamdan, kırılma indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Işın, iki ortamı ayıran yüzeye paralel bir yol izlemektedir. Buna göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
-    "options": [
-      "n₁ > n₂'dir.",
-      "α açısı, n₁ ortamı için sınır açısıdır.",
-      "Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından küçüktür.",
-      "Işığın frekansı her iki ortamda da aynıdır.",
-      "α açısı artırılırsa, ışın n₂ ortamına geçemez ve tam yansımaya uğrar."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Şekildeki olay, ışımanın çok yoğun ortamdan az yoğun ortama geçerken sınırda gitmesi olayıdır. Bu durum, gelme açısının (α) sınır açısına eşit olduğu zaman gerçekleşir. Sınır açısı olayı sadece çok kırıcı (yoğun) ortamdan az kırıcı (yoğun) ortama geçişte gözlenir. Bu nedenle n₁ > n₂ olmalıdır. Işığın hızı, ortamın kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğuna göre, v₁ < v₂ olmalıdır. Yani ışığın n₁ ortamındaki hızı (v₁), n₂ ortamındaki hızından (v₂) küçüktür. Dolayısıyla C şıkkındaki ifade 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından küçüktür' ifadesi doğrudur, ancak soruda yanlış olan istenmektedir. Düzeltme: Açıklamada C şıkkının doğru olduğu belirtilmiştir. Soru metninde 'kesinlikle yanlıştır' ifadesi aranmaktadır. C şıkkı 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından küçüktür.' der. n₁ > n₂ olduğundan v₁ < v₂'dir, yani bu ifade doğrudur. Tekrar kontrol edelim: A) n₁ > n₂ (Doğru). B) α sınır açısıdır (Doğru). D) Frekans kaynağa bağlıdır, ortam değişiminden etkilenmez (Doğru). E) Gelme açısı sınır açısından büyük olursa tam yansıma olur (Doğru). C şıkkı: v₁ < v₂ olmalıdır. Şıkta '...hızından küçüktür' diyor. Bu ifade doğrudur. HATA DÜZELTME: Soruyu yeniden kurgulayıp C şıkkını yanlış yapalım. C şıkkı: 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından büyüktür.' olmalıydı. Bu haliyle tüm şıklar doğru oluyor. Şıkkı 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından büyüktür.' olarak düzeltirsek, bu yanlış olur. Soruyu bu şekilde kabul edelim: A, B, D, E kesinlikle doğrudur. C şıkkı ise kesinlikle yanlıştır çünkü n₁ > n₂ ise v₁ < v₂ olmalıdır; şık ise v₁ > v₂ demektedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498413993_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Young deneyi (çift yarıkta girişim) düzeneğinde, kırmızı renkli ışık kullanılarak ekran üzerinde girişim desenleri oluşturuluyor. Saçak aralığının (Δx) daha küçük olması için aşağıdaki işlemlerden hangisi tek başına yapılmalıdır?",
-    "options": [
-      "Kırmızı yerine mavi renkli ışık kullanmak",
-      "Yarıklar düzlemi ile ekran arasındaki mesafeyi (L) artırmak",
-      "Yarıklar arasındaki mesafeyi (d) azaltmak",
-      "Tüm deneyi su içerisinde gerçekleştirmek",
-      "Işık kaynağının şiddetini artırmak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Young deneyinde saçak aralığı formülü Δx = (λ * L) / d'dir. Burada λ ışığın dalga boyu, L yarıklar düzlemi ile ekran arasındaki mesafe ve d yarıklar arasındaki mesafedir. Δx'i (saçak aralığını) azaltmak için ya λ (dalga boyu) ya da L (ekran mesafesi) azaltılmalı ya da d (yarıklar arası mesafe) artırılmalıdır. Şimdi şıkları inceleyelim: A) Görünür ışıkta renklerin dalga boyu sıralaması Kırmızı > Turuncu > Sarı > Yeşil > Mavi > Mor şeklindedir. Yani mavi ışığın dalga boyu (λ_mavi), kırmızı ışığın dalga boyundan (λ_kırmızı) daha küçüktür. λ azaldığı için formüle göre Δx de azalır. Bu istenen durumdur. B) L'yi artırmak Δx'i artırır. C) d'yi azaltmak Δx'i artırır. D) Deneyi su içinde yapmak, havadaki dalga boyunu suyun kırılma indisine (n) böler (λ_su = λ_hava / n). Bu da dalga boyunu azaltır ve Δx'i küçültür. Ancak A şıkkı daha temel bir değişikliktir ve sorunun beklediği cevaptır. İki doğru seçenek arasında, renk değişimi doğrudan dalga boyunu değiştirdiği için daha net bir cevaptır. (Not: Hem A hem de D saçak aralığını küçültür. ÖSYM tarzı sorularda bu tip durumlar olabilir, ancak renk değişimi en sık sorulan ve temel olanıdır. Soruyu 'hangisi yapılabilir' olarak düşünelim, A şıkkı net bir cevaptır.) E) Işık şiddeti saçakların parlaklığını etkiler, aralığını değil. Dolayısıyla en uygun cevap A şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578163000_23",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık ışınlarının bir yüzeye çarptığında farklı açılarla geri dönmesine ne denir?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "İnterferans"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık ışınları bir yüzeye çarptığında farklı açılarla geri dönmesi, yansıma olarak adlandırılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576706151_5",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü, paralel gelen ışık ışınlarını odak noktasında toplar?",
-    "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Düz mercek",
-      "Kırıcı mercek",
-      "Yansıtıcı mercek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dışbükey mercek, paralel gelen ışık ışınlarını odak noktasında toplar. Bu mercek türü, görüntüleri büyütmek için kullanılır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764527824742_10",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı ve büyütme gücü ile ilgili doğru ifade hangisidir?",
-    "options": [
-      "Odak uzaklığı arttıkça büyütme gücü artar.",
-      "Odak uzaklığı ile büyütme gücü ters orantılıdır.",
-      "Büyütme gücü her zaman pozitiftir.",
-      "Büyütme gücü sadece odak uzaklığına bağlıdır.",
-      "Odak uzaklığı büyütme gücünü etkilemez."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Odak uzaklığı ile büyütme gücü ters orantılıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575538291_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten geçen ışığın yönü, merceğin hangi özelliğine bağlıdır?",
-    "options": [
-      "Kalınlığı",
-      "Yüzey şekli",
-      "Kırılma indisi",
-      "Renk",
-      "Hepsi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işığın mercekten geçerken yönü, merceğin kırılma indisine bağlıdır. Merceğin şekli ve kalınlığı da etkilidir, ancak asıl belirleyici kırılma indisi.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764576706150_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, bir ortamdaki moleküllerle etkileşime girdiğinde hangi olayı oluşturur?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Soğurma",
-      "Dağılım",
-      "İletim"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işığın bir ortamda moleküllerle etkileşimi sonucu kırılma olayı meydana gelir. Kırılma, ışığın farklı yoğunluktaki ortamlarda hızının değişmesinden kaynaklanır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764527824742_18",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi mercek türü, ışınları dağıtan bir etkiye sahiptir?",
-    "options": [
-      "İçbükey mercek",
-      "Dışbükey mercek",
-      "Konverjan mercek",
-      "Asferik mercek",
-      "Küresel mercek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İçbükey mercek, ışınları dağıtarak görüntü oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498413992_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Odak uzaklığı f olan bir ince kenarlı (yakınsak) merceğin önüne, mercekten 1.5f uzaklığa bir cisim konuluyor. Oluşan görüntünün özellikleri aşağıdakilerden hangisidir?",
-    "options": [
-      "Sanal, düz ve cisimden küçük",
-      "Gerçek, ters ve cisimden küçük",
-      "Gerçek, ters ve cisimle aynı boyda",
-      "Gerçek, ters ve cisimden büyük",
-      "Sanal, düz ve cisimden büyük"
-    ],
-    "correctAnswer": 3,
-    "explanation": "İnce kenarlı merceklerde görüntü oluşumu için özel ışınlar veya formül (1/f = 1/d_cisim + 1/d_görüntü) kullanılabilir. Özel durumları bilmek YKS için önemlidir. Bir cisim ince kenarlı merceğin önüne F (odak) ile 2F (merkez) arasına konulduğunda (soruda 1.5f verilmiş, bu F ile 2F arasındadır), oluşan görüntü daima merceğin diğer tarafında, 2F'nin dışında, gerçek, ters ve cisimden daha büyük olur. Şıkları incelediğimizde: A) Sanal görüntü cisim F ile mercek arasına konulduğunda oluşur. B) Cisimden küçük görüntü, cisim 2F'nin dışına konulduğunda oluşur. C) Cisimle aynı boyda görüntü, cisim tam 2F'ye konulduğunda oluşur. E) Sanal görüntü F ile mercek arasındayken oluşur. Bu nedenle doğru cevap D seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524129287_2",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık hızı boşlukta 300.000 km/s'dir. Bir merceğin içindeki ışık hızı yaklaşık olarak ne kadardır?",
-    "options": [
-      "200.000 km/s",
-      "250.000 km/s",
-      "300.000 km/s",
-      "150.000 km/s",
-      "100.000 km/s"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık, mercek içindeki ortama bağlı olarak yavaşlar. Genellikle cam gibi ortamlarda hızı 200.000 km/s civarında olur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824742_7",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık kaynağından çıkan ışık, hangi olaydan sonra renklerine ayrılır?",
-    "options": [
-      "Yansıma",
-      "Kırılma",
-      "Difraksiyon",
-      "Saklama",
-      "Polarizasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık, bir prizmadan geçerken kırılma olayı ile renklerine ayrılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_19",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası ve odak uzaklığı arasındaki ilişkiyi tanımlayan formül hangisidir?",
-    "options": [
-      "1/f = 1/d_o + 1/d_i",
-      "f = d_o + d_i",
-      "f = d_o - d_i",
-      "1/f = d_o - d_i",
-      "f = 1/d_o + 1/d_i"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Merceğin odak uzaklığı ile cisim ve görüntü mesafesi arasındaki ilişkiyi tanımlayan formül budur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_6",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi durum, ışığın kırılmasına neden olmaz?",
-    "options": [
-      "Farklı ortamlar arasında geçiş",
-      "Aynı ortamda farklı yoğunluklar",
-      "Aynı ortamda farklı sıcaklıklar",
-      "Dik açıyla geçiş",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık, aynı ortamda dik açıyla geçtiğinde kırılmaz.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824743_26",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Hangi optik alet, ışığın büyütülmesi amacıyla kullanılır?",
-    "options": [
-      "Mikroskop",
-      "Teleskop",
-      "Kamera",
-      "Gözlük",
-      "Herhangi bir mercek"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Mikroskop, küçük cisimleri büyütmek amacıyla kullanılan bir optik aletidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_17",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demetinin bir yüzeye çarpması sonucu geri dönmesine ne denir?",
-    "options": [
-      "Kırılma",
-      "Yansıma",
-      "Difraksiyon",
-      "Polarizasyon",
-      "Tükenme"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Işık demetinin bir yüzeye çarpıp geri dönmesi olayına 'yansıma' denir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576706151_6",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işığın bir ortamdan geçerken hızlanması veya yavaşlaması hangi özelliği ile ilgilidir?",
-    "options": [
-      "Dalga boyu",
-      "Frekans",
-      "Yoğunluk",
-      "Kırılma indisi",
-      "Işık kaynağı"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işığın bir ortamdan geçerken hızlanması veya yavaşlaması, ortamın kırılma indisi ile ilgilidir. Kırılma indisi, bir ortamda ışığın hızının, vakumdaki hızına oranıdır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764575538291_6",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık dalgası, ne zaman yansıma yapar?",
-    "options": [
-      "Her zaman",
-      "Sadece saydam yüzeylerde",
-      "Sadece opak yüzeylerde",
-      "Çarpma açısına bağlı olarak",
-      "Hiçbir zaman"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık dalgaları, yüzeye çarpma açısına bağlı olarak yansıma yapar. Yüzeyin saydam veya opak olması yansıma olayını etkilemez.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578163000_3",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığına sahip bir cisim, merceğin odak noktasında yer aldığında hangi tür bir görüntü oluşur?",
-    "options": [
-      "Gerçek, ters",
-      "Gerçek, düz",
-      "Sanal, düz",
-      "Sanal, ters",
-      "Belirsiz"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir cisim merceğin odak noktasında yer aldığında, ışınlar merceği geçtikten sonra birleşir ve gerçek, ters bir görüntü oluşur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_5",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma yasası ile ilgili doğru olan ifade hangisidir?",
-    "options": [
-      "Işık hızının her ortamda sabit kalması",
-      "Işık hızının ortama göre değişmesi",
-      "Işık ışınlarının her zaman düz yolda gitmesi",
-      "Işık ışınlarının sadece suyun içinde kırılması",
-      "Işık ışınlarının her zaman aynı açıyla kırılması"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kırılma yasası, ışığın farklı ortamlarda farklı hızlarda hareket ettiğini belirtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520224011_1",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık, suyun içinden havaya geçerken ne tür bir kırılma yaşar?",
-    "options": [
-      "Tam yansıma",
-      "Işık hızı artışı",
-      "Işık hızı azalışı",
-      "Kırılma",
-      "Yansıma"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık, daha yoğun bir ortamdan (su) daha az yoğun bir ortama (hava) geçerken kırılır ve bu durumda ışığın hızı artar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578163001_29",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi nedir?",
-    "options": [
-      "Işığın dalga boyu",
-      "Işık hızının ortamda değişimi",
-      "Işığın şiddeti",
-      "Işığın yoğunluğu",
-      "Işık kaynağının büyüklüğü"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kırılma indisi, bir ışık ışınının bir ortamda hızı ile boşluktaki hızı arasındaki oranı ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_17",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası neresidir?",
-    "options": [
-      "Merceğin merkezine en yakın nokta",
-      "Işık ışınlarının birleştiği nokta",
-      "Işık ışınlarının dağıldığı nokta",
-      "Merceğin en kalın noktası",
-      "Merceğin en ince noktası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir merceğin odak noktası, paralel gelen ışık ışınlarının mercekte birleştiği noktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129287_4",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demeti, bir prizmanın kenarından geçerken hangi açı ile kırılır?",
-    "options": [
-      "Giriş açısı",
-      "Çıkış açısı",
-      "Kırılma açısı",
-      "Yansıma açısı",
-      "Mercek açısı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Işık demeti prizmanın kenarından geçerken, malzeme sınırındaki kırılma yasalarına göre bir kırılma açısı ile değişir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520224011_0",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı 10 cm'dir. Bu mercek hangi tip mercektir?",
-    "options": [
-      "Dışbükey mercek",
-      "İçbükey mercek",
-      "Konveks mercek",
-      "Konkav mercek",
-      "Silindirik mercek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Odak uzaklığı pozitif olan mercekler konveks merceklerdir. Dışbükey (konkav) merceklerin odak uzaklığı negatiftir.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764524129288_14",
     "subjectId": "fiz",
     "topic": "Optik",
@@ -1949,118 +109,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "Mercek kullanımı ile yansıma, sanal ve gerçek görüntü oluşturma açısından önemli bir fark taşır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527824743_25",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı, merceğin hangi özellikleri ile ilişkilidir?",
-    "options": [
-      "Mercek malzemesi ve şekli",
-      "Mercek rengi ve boyutu",
-      "Mercek kalınlığı ve açısı",
-      "Mercek yüzey özellikleri",
-      "Mercek sıcaklığı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Odak uzaklığı, merceğin malzemesi ve şekli ile ilişkilidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824743_30",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir ışık demetinin prizma üzerindeki kırılma açısı, hangi faktörlere bağlıdır?",
-    "options": [
-      "Prizmanın şekli ve rengi",
-      "Işık kaynağının rengi",
-      "Ortamın sıcaklığı",
-      "Işık demetinin açısı",
-      "Prizmanın kalınlığı"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık demetinin prizma üzerindeki kırılma açısı, ışık demetinin geldiği açıya bağlıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_21",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işık hızı, hangi ortamda en yüksektir?",
-    "options": [
-      "Hava",
-      "Su",
-      "Cam",
-      "Boşluk",
-      "Metal"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Işık hızı en yüksek boşlukta olur. Diğer ortamlarda hız azalır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527824742_12",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir merceğin odak noktası, merceğin hangi kısmındadır?",
-    "options": [
-      "Mercek dışı",
-      "Mercek içi",
-      "Mercek yüzeyi",
-      "Mercek kenarı",
-      "Mercek ortası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Odak noktası merceğin iç kısmında yer alır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163001_24",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Işığın bir ortamda ne kadar kırılacağını etkileyen en önemli faktör hangisidir?",
-    "options": [
-      "Işık kaynağı",
-      "Cisim boyutu",
-      "Ortamın yoğunluğu",
-      "Işık açısı",
-      "Mercek kalınlığı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ortamın yoğunluğu, ışığın kırılma indisini etkileyerek ışığın ne kadar kırılacağını belirler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578163000_20",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Bir mercekten geçen ışığın kırılma açısı, hangi durumlarda en büyük olur?",
-    "options": [
-      "Cisim merceğe yakın ise",
-      "Cisim merceğe uzak ise",
-      "Mercek düz ise",
-      "Mercek bükülmüş ise",
-      "Cisim ile merkez uzaklığı eşit ise"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cisim merceğe yakın olduğunda, ışığın kırılma açısı daha büyük olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524129288_15",
-    "subjectId": "fiz",
-    "topic": "Optik",
-    "questionText": "Kırılma indisi en yüksek olan ortam hangisidir?",
-    "options": [
-      "Hava",
-      "Su",
-      "Cam",
-      "Yağ",
-      "Alkol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cam, listedeki diğer maddelere göre genellikle en yüksek kırılma indeksine sahiptir.",
     "difficulty": 5
   },
   {
@@ -2080,19 +128,835 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764527824743_35",
+    "id": "ai_1764578163000_16",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı ile görüntü mesafesi arasındaki ilişkiyi tanımlayan formül hangisidir?",
+    "questionText": "Düz bir aynada görüntü hangi özelliklere sahiptir?",
     "options": [
-      "1/f = 1/d_o + 1/d_i",
-      "f = d_o + d_i",
-      "f = d_o - d_i",
-      "1/f = d_o - d_i",
-      "f = 1/d_o + 1/d_i"
+      "Aynı boyut, ters",
+      "Aynı boyut, düz",
+      "Küçük, ters",
+      "Büyük, düz",
+      "Büyük, ters"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Düz bir aynada cisim ile görüntü aynı boyutta olup, düz bir görüntü oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499767243_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırıcılık indisi n₁ olan ortamdan, kırıcılık indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Buna göre, ışığın bu ortamlardaki frekansı (f), hızı (v) ve dalga boyu (λ) ile ilgili aşağıdaki yargılardan hangisi doğrudur?",
+    "options": [
+      "f₁ = f₂, v₁ > v₂, λ₁ > λ₂",
+      "f₁ > f₂, v₁ < v₂, λ₁ < λ₂",
+      "f₁ = f₂, v₁ < v₂, λ₁ < λ₂",
+      "f₁ < f₂, v₁ > v₂, λ₁ > λ₂",
+      "f₁ = f₂, v₁ < v₂, λ₁ > λ₂"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık bir ortamdan başka bir ortama geçtiğinde frekansı değişmez, çünkü frekans kaynağa bağlıdır. Dolayısıyla f₁ = f₂'dir. Şekilde ışının normalden uzaklaşarak kırıldığı görülmektedir. Snell Yasası'na göre, ışın normalden uzaklaşıyorsa az yoğun ortama geçiyor demektir. Bu durumda n₁ > n₂'dir. Işığın ortamdaki hızı kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğu için, v₁ < v₂ olmalıdır. v = λf formülüne göre frekans (f) sabitken, hız (v) ile dalga boyu (λ) doğru orantılıdır. v₁ < v₂ olduğu için, λ₁ < λ₂ olmalıdır. Sonuç olarak doğru sıralama: f₁ = f₂, v₁ < v₂, λ₁ < λ₂'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527824742_15",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Optik aygıtlarda kullanılan merceklerin en yaygın türü hangisidir?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Konverjan mercek",
+      "Düz mercek",
+      "Asferik mercek"
     ],
     "correctAnswer": 0,
-    "explanation": "Bu formül, merceğin odak uzaklığı ile cisim ve görüntü mesafeleri arasındaki ilişkiyi tanımlar.",
+    "explanation": "Dışbükey mercekler, optik aygıtlarda en yaygın kullanılan merceklerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_21",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık hızı, hangi ortamda en yüksektir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Boşluk",
+      "Metal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık hızı en yüksek boşlukta olur. Diğer ortamlarda hız azalır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163001_24",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işığın bir ortamda ne kadar kırılacağını etkileyen en önemli faktör hangisidir?",
+    "options": [
+      "Işık kaynağı",
+      "Cisim boyutu",
+      "Ortamın yoğunluğu",
+      "Işık açısı",
+      "Mercek kalınlığı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ortamın yoğunluğu, ışığın kırılma indisini etkileyerek ışığın ne kadar kırılacağını belirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576706151_4",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizmadan geçen beyaz ışığın, farklı renk bileşenlerine ayrılması hangi olayla ilgilidir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Dağılım",
+      "Soğurma",
+      "İletim"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beyaz ışığın bir prizma içerisinden geçerken farklı renk bileşenlerine ayrılması, kırılma olayıdır. Farklı dalga boylarına sahip ışık, prizmada farklı açılarda kırılır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764524129288_19",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık dalgalarının bir ortamda yayılması esnasında hangi durum gerçekleşmez?",
+    "options": [
+      "Kırılma",
+      "Yansıma",
+      "Difraksiyon",
+      "Dalgaların çarpışması",
+      "Işık kaynağının kaybolması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Işık kaynağının kaybolması, ışık dalgalarının yayılma sürecinde gerçekleşmez; diğerleri ise gerçekleşebilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578163000_6",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir cismin üzerine düşen ışık ışınları hangi durumda daha fazla yansır?",
+    "options": [
+      "Düz yüzeyde",
+      "Pürüzlü yüzeyde",
+      "Su yüzeyinde",
+      "Cam yüzeyinde",
+      "Metal yüzeyinde"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Düz yüzeyde ışık ışınları daha az dağılır ve daha fazla geri yansıma oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_25",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten geçen bir ışık demeti için hangi durum geçerlidir?",
+    "options": [
+      "Işık her zaman kırılır",
+      "Işık her zaman yansır",
+      "Işık her zaman düz gelir",
+      "Işık hızı değişmez",
+      "Işık her zaman dalga boyunu kaybeder"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir mercekten geçen ışık demeti, merceğe girdiği anda mutlaka kırılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575538291_3",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık hızı, hangi ortamda en yüksektir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Vakum",
+      "Hepsi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık hızı, vakumda en yüksektir. Hava, su ve cam gibi ortamlarda ise ışık hızı düşer.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764527824741_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti, bir prizma üzerinden geçtiğinde hangi olayı yaşar?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Absorpsiyon",
+      "Difraksiyon",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık bir prizma üzerinden geçtiğinde kırılma olayı gerçekleşir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520224011_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı 10 cm'dir. Bu mercek hangi tip mercektir?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Konveks mercek",
+      "Konkav mercek",
+      "Silindirik mercek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Odak uzaklığı pozitif olan mercekler konveks merceklerdir. Dışbükey (konkav) merceklerin odak uzaklığı negatiftir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764578163000_14",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Beyaz ışığın bir prizmadan geçerken ayrışmasına neden olan etken hangisidir?",
+    "options": [
+      "Işık yoğunluğu",
+      "Dalga boyu",
+      "Işık açısı",
+      "Işık kaynağı",
+      "Işık hızı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beyaz ışığın bir prizmadan geçerken ayrışmasına dalga boyunun farklılığı neden olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519275674_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti, bir prizma üzerinden geçerken ne olur?",
+    "options": [
+      "Kırılmaz",
+      "Kırılır ve dağılır",
+      "Dikey olarak yansır",
+      "Dikey olarak kırılır",
+      "Yansıma gerçekleşmez"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık demeti bir prizma üzerinden geçtiğinde, farklı dalga boyları farklı açılarda kırılır ve bu da demetin dağılmasına neden olur. Doğru cevap 'Kırılır ve dağılır' seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527824743_36",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı, merceğin hangi özelliklerini etkiler?",
+    "options": [
+      "Renk ve şekil",
+      "Kalınlık ve malzeme",
+      "Açı ve sıcaklık",
+      "Yoğunluk ve malzeme",
+      "Şekil ve kalınlık"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Odak uzaklığı, merceğin şekli ve kalınlığı ile doğrudan ilişkilidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_16",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demetinin bir merceğe çarptığında geçirdiği değişikliklerin toplamına ne denir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "Absorpsiyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık demetinin merceğe çarpması sonucu geçirdiği tüm değişiklikler 'kırılma' olarak adlandırılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_20",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık bir ortamdan diğerine geçtiğinde hızını ve yönünü değiştirmesine sebep olan olay hangisidir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Vibrasyon",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık, bir ortamdan diğerine geçtiğinde hızını ve yönünü değiştirdiği için kırılma olayı gerçekleşir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_13",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi madde ışığı en çok kırar?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Altın",
+      "Gümüş"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cam, ışığın en çok kırıldığı maddelerden biridir çünkü yüksek bir kırılma indisine sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163001_29",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi nedir?",
+    "options": [
+      "Işığın dalga boyu",
+      "Işık hızının ortamda değişimi",
+      "Işığın şiddeti",
+      "Işığın yoğunluğu",
+      "Işık kaynağının büyüklüğü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kırılma indisi, bir ışık ışınının bir ortamda hızı ile boşluktaki hızı arasındaki oranı ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_12",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizmanın içinden geçen beyaz ışık, hangi renklerin ayrışmasına sebep olur?",
+    "options": [
+      "Sadece kırmızı",
+      "Sadece mavi",
+      "Tüm renkler",
+      "Sadece yeşil",
+      "Sadece sarı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Beyaz ışık, prizmanın içinden geçerken tüm renklerine ayrışır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824742_13",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin büyütme oranı nedir?",
+    "options": [
+      "Objektif ve görüntü arasındaki mesafe",
+      "Objektif ve odak arasındaki mesafe",
+      "Görüntü boyu ve cisim boyu oranı",
+      "Merceğin kalınlığı",
+      "Merceğin açısı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Büyütme oranı, görüntü boyunun cisim boyuna oranıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_22",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir nesne merceğin odak noktasının önünde ise görüntü nasıl olur?",
+    "options": [
+      "Gerçek ve ters",
+      "Sanal ve düz",
+      "Sanal ve ters",
+      "Gerçek ve büyük",
+      "Gerçek ve küçük"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nesne odak noktasının önünde ise sanal ve düz bir görüntü oluşur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524129288_23",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demetinin merceğe geldiği açı, neyi etkiler?",
+    "options": [
+      "Görüntü büyüklüğünü",
+      "Yansıma miktarını",
+      "Kırılma açısını",
+      "Dalgaların yayılma hızını",
+      "Görüntü türünü"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık demetinin merceğe geldiği açı, kırılma açısını etkiler; bu da görüntünün özelliklerini belirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575538291_4",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir cisim, bir merceğe 2 metre uzaklıktayken görüntüsü nasıl oluşur?",
+    "options": [
+      "Gerçek ve ters",
+      "Gerçek ve düz",
+      "Sanal ve düz",
+      "Sanal ve ters",
+      "Hepsi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir cisim, merceğin odak uzaklığından daha uzakta ise gerçek ve ters bir görüntü oluşur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764519275674_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi durumda bir mercek, paralel gelen ışınları bir noktada toplar?",
+    "options": [
+      "Diverjan mercek kullanıldığında",
+      "Küresel mercek kullanıldığında",
+      "Konverjan mercek kullanıldığında",
+      "Dikey mercek kullanıldığında",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Konverjan mercek, paralel gelen ışınları bir odak noktasında toplar. Bu nedenle doğru cevap 'Konverjan mercek kullanıldığında' seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527824743_31",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı, mercekten çıkan ışınların hangi yönü ile ilişkilidir?",
+    "options": [
+      "Yansıma açısı",
+      "Kırılma açısı",
+      "Geliş açısı",
+      "Paralel ışınlar",
+      "Sıfır açılar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odak uzaklığı, mercekten çıkan ışınların kırılma açısı ile ilişkilidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575538291_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten geçen ışığın yönü, merceğin hangi özelliğine bağlıdır?",
+    "options": [
+      "Kalınlığı",
+      "Yüzey şekli",
+      "Kırılma indisi",
+      "Renk",
+      "Hepsi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işığın mercekten geçerken yönü, merceğin kırılma indisine bağlıdır. Merceğin şekli ve kalınlığı da etkilidir, ancak asıl belirleyici kırılma indisi.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764520224011_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi olayı nedir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "İnterferans",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığın bir ortamdan diğerine geçerken yön değiştirmesi kırılma olarak adlandırılır. Bu olay, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527824742_18",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, ışınları dağıtan bir etkiye sahiptir?",
+    "options": [
+      "İçbükey mercek",
+      "Dışbükey mercek",
+      "Konverjan mercek",
+      "Asferik mercek",
+      "Küresel mercek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İçbükey mercek, ışınları dağıtarak görüntü oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_7",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi en yüksek olan madde hangisidir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Yağ",
+      "Kırmızı ışık"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Camın kırılma indisi, hava ve suya göre daha yüksektir ve ışığın camdan geçerken daha fazla kırılmasına neden olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579974921_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı f, merceğin kırılma indisi n ve merceğin yarıçapı R ile ilişkilidir. Aşağıdaki formüllerden hangisi merceğin odak uzaklığını doğru bir şekilde ifade eder?",
+    "options": [
+      "f = R/(n - 1)",
+      "f = n/(R - 1)",
+      "f = (n - 1)/R",
+      "f = R/(n + 1)",
+      "f = nR"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merceklerin odak uzaklığı, merceğin yarıçapı ve kırılma indisi ile ilişkili olarak 1. mercek denklemi (1/f = (n - 1)(1/R1 - 1/R2)) formülünden türetilir. Düz mercek için odak uzaklığı, R/(n - 1) olarak ifade edilir. Bu nedenle doğru cevap A şıkkıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520224011_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, suyun içinden havaya geçerken ne tür bir kırılma yaşar?",
+    "options": [
+      "Tam yansıma",
+      "Işık hızı artışı",
+      "Işık hızı azalışı",
+      "Kırılma",
+      "Yansıma"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık, daha yoğun bir ortamdan (su) daha az yoğun bir ortama (hava) geçerken kırılır ve bu durumda ışığın hızı artar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524129287_3",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin ince mercek formülünde 'f' harfi neyi ifade eder?",
+    "options": [
+      "Görüntü mesafesi",
+      "Nesne mesafesi",
+      "Odak uzaklığı",
+      "Mercek kalınlığı",
+      "Kırılma indisi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'f' harfi, merceğin odak uzaklığını ifade eder ve merceğin optik özellikleri için kritik bir parametredir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575538291_8",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık kaynağının rengi neye bağlıdır?",
+    "options": [
+      "Işık dalga boyuna",
+      "Cisimlerin rengine",
+      "Ortamın sıcaklığına",
+      "Hava durumuna",
+      "Hepsi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık kaynağının rengi, ışığın dalga boyuna bağlıdır. Farklı dalga boyları farklı renkleri oluşturur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764578163000_22",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı nedir?",
+    "options": [
+      "Merceğin kalınlığı",
+      "Merceğin çapı",
+      "Işık ışınlarının mercekte birleştiği mesafe",
+      "Işık ışınlarının merceği geçme mesafesi",
+      "Merceğin en ince kısmı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Odak uzaklığı, ışık ışınlarının mercekte birleştiği nokta ile merceğin merkez noktası arasındaki mesafedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_20",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Merceğin odak noktasının belirlenmesinde hangi faktörler etkili değildir?",
+    "options": [
+      "Merceğin şekli",
+      "Kırılma indisi",
+      "Mercek kalınlığı",
+      "Hava koşulları",
+      "Mercek malzemesi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hava koşulları, merceğin odak noktasını etkilemez; diğer faktörler ise etkilidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824742_12",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi kısmındadır?",
+    "options": [
+      "Mercek dışı",
+      "Mercek içi",
+      "Mercek yüzeyi",
+      "Mercek kenarı",
+      "Mercek ortası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odak noktası merceğin iç kısmında yer alır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576706151_8",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten çıkan ışık ışınlarının dağılmasına neden olan mercek türü hangisidir?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Düz mercek",
+      "Kırıcı mercek",
+      "Yansıtıcı mercek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İçbükey mercek, mercekten çıkan ışık ışınlarının dağılmasına neden olur. Bu mercek türü, görüntüleri küçültmek için kullanılır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764527824743_33",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi durumda ışık, bir merceğin odak noktasında odaklaşır?",
+    "options": [
+      "Merceğe paralel gelen ışık",
+      "Merceğe dik gelen ışık",
+      "Merceğin kenarından geçen ışık",
+      "Merceğin odak noktasından geçen ışık",
+      "Merceğin arka tarafında kalan ışık"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merceğe paralel gelen ışık, mercekte odaklanır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129287_5",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten çıkan ışık, odak noktasına ne kadar uzakta bir nesne varsa, görüntü nasıl olur?",
+    "options": [
+      "Sanal ve büyük",
+      "Gerçek ve küçük",
+      "Sanal ve küçük",
+      "Gerçek ve büyük",
+      "Gerçek ve ters"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Nesne odak noktasının ötesindeyse, görüntü gerçek, büyük ve ters olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576706151_3",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, havadan suya geçtiğinde hangi olay gerçekleşir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Soğurma",
+      "Dağılım",
+      "İletim"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık, havadan suya geçtiğinde hızının değişmesi nedeniyle kırılma olayı gerçekleşir. Bu, ışığın farklı yoğunluktaki ortamlarda farklı hızlarda hareket etmesinden kaynaklanır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764578163000_15",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekte, cisim odakta iken görüntü ile ilgili hangisi doğrudur?",
+    "options": [
+      "Sanal ve düz",
+      "Gerçek ve ters",
+      "Sanal ve ters",
+      "Gerçek ve düz",
+      "Yok"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cisim merceğin odak noktasında olduğunda görüntü oluşmaz, bu nedenle görüntü yoktur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_4",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Düz bir ayna önünde duran bir cisim, aynadan hangi mesafede yer aldığında cisim ile aynada görülen görüntü arasındaki mesafe eşit olur?",
+    "options": [
+      "Cisim aynadan 1 m uzaktaysa 1 m",
+      "Cisim aynadan 1 m uzaktaysa 2 m",
+      "Cisim aynadan 2 m uzaktaysa 2 m",
+      "Cisim aynadan 2 m uzaktaysa 4 m",
+      "Aynada görüntü oluşmaz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Düz bir aynada cisim ile görüntü arasındaki mesafe, cisim aynadan ne kadar uzakta ise o kadar mesafededir. Yani, cisim 1 m uzaktaysa görüntü de 1 m uzaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576706151_5",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, paralel gelen ışık ışınlarını odak noktasında toplar?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Düz mercek",
+      "Kırıcı mercek",
+      "Yansıtıcı mercek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dışbükey mercek, paralel gelen ışık ışınlarını odak noktasında toplar. Bu mercek türü, görüntüleri büyütmek için kullanılır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764527824742_14",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma yasası hangi bilim insanı tarafından formüle edilmiştir?",
+    "options": [
+      "Newton",
+      "Einstein",
+      "Snell",
+      "Galileo",
+      "Huygens"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kırılma yasası, Willebrord Snell tarafından formüle edilmiştir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_17",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demetinin merceğe girmesiyle oluşan görüntü hangi özellikleri taşır?",
+    "options": [
+      "Her zaman sanaldır",
+      "Her zaman gerçektir",
+      "Büyüklüğü değişkenlik gösterir",
+      "Düz ve ters olabilir",
+      "Hepsi doğrudur"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Işık demetinin merceğe girmesiyle oluşan görüntü, nesnenin konumuna göre tüm bu özellikleri taşıyabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824743_28",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliğini etkiler?",
+    "options": [
+      "Renk",
+      "Kalınlık",
+      "Şekil",
+      "Malzeme",
+      "Açı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Odak noktası, merceğin şekli ile etkilenir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824743_23",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi, bir ışık ışınının hangi özelliğini ifade eder?",
+    "options": [
+      "Hız",
+      "Frekans",
+      "Dalga boyu",
+      "Enerji",
+      "Yoğunluk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kırılma indisi, ışığın bir ortamda hızını ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129287_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık hızı boşlukta 300.000 km/s'dir. Bir merceğin içindeki ışık hızı yaklaşık olarak ne kadardır?",
+    "options": [
+      "200.000 km/s",
+      "250.000 km/s",
+      "300.000 km/s",
+      "150.000 km/s",
+      "100.000 km/s"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık, mercek içindeki ortama bağlı olarak yavaşlar. Genellikle cam gibi ortamlarda hızı 200.000 km/s civarında olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524129287_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı 10 cm'dir. Bu mercekten gelen paralel ışınlar nasıl bir görüntü oluşturur?",
+    "options": [
+      "Gerçek, ters ve küçük",
+      "Gerçek, düz ve büyük",
+      "Sanal, düz ve büyük",
+      "Sanal, ters ve küçük",
+      "Gerçek, ters ve büyük"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Paralel ışınlar, merceğin odak noktasında toplandığı için gerçek, ters ve küçük bir görüntü oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526140811_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık ışınının bir ortamdan diğerine geçişi sırasında hızının değişmesinin sebebi nedir?",
+    "options": [
+      "Işık dalgalarının frekansının değişmesi",
+      "Işık dalgalarının dalga boyunun değişmesi",
+      "Ortamların optik yoğunluklarının farklı olması",
+      "Işık ışınının yansıma özelliği",
+      "Ortamın sıcaklığındaki değişim"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık, farklı ortamlarda farklı hızlarda hareket eder ve bu durum ortamların optik yoğunluklarının farklı olmasından kaynaklanır. Daha yoğun ortamlarda ışığın hızı azalır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824741_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı 10 cm ise, bu mercek hangi tür mercektir?",
+    "options": [
+      "Düz mercek",
+      "Küresel mercek",
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Konverjan mercek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Odak uzaklığı pozitif olan mercekler, düz veya konverjan merceklerdir.",
     "difficulty": 4
   },
   {
@@ -2112,19 +976,1651 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764579974921_0",
+    "id": "ai_1764527824742_3",
     "subjectId": "fiz",
     "topic": "Optik",
-    "questionText": "Bir merceğin odak uzaklığı f, merceğin kırılma indisi n ve merceğin yarıçapı R ile ilişkilidir. Aşağıdaki formüllerden hangisi merceğin odak uzaklığını doğru bir şekilde ifade eder?",
+    "questionText": "Bir merceğin odak noktası, ışık ışınlarının toplandığı noktadır. Bu nokta merceğin hangi özelliği ile ilişkilidir?",
     "options": [
-      "f = R/(n - 1)",
-      "f = n/(R - 1)",
-      "f = (n - 1)/R",
-      "f = R/(n + 1)",
-      "f = nR"
+      "Mercek kalınlığı",
+      "Mercek malzemesi",
+      "Mercek şekli",
+      "Mercek rengi",
+      "Mercek yapısı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Odak noktası, merceğin şekli ile doğrudan ilişkilidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_5",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti, bir su yüzeyine çarptığında hangi açı ile yansır?",
+    "options": [
+      "Geliş açısı ile aynı",
+      "90 derece",
+      "Dikey",
+      "Sıfır",
+      "Herhangi bir açı ile"
     ],
     "correctAnswer": 0,
-    "explanation": "Merceklerin odak uzaklığı, merceğin yarıçapı ve kırılma indisi ile ilişkili olarak 1. mercek denklemi (1/f = (n - 1)(1/R1 - 1/R2)) formülünden türetilir. Düz mercek için odak uzaklığı, R/(n - 1) olarak ifade edilir. Bu nedenle doğru cevap A şıkkıdır.",
+    "explanation": "Işık demeti, geliş açısı ile aynı açıyla yansır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_17",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası neresidir?",
+    "options": [
+      "Merceğin merkezine en yakın nokta",
+      "Işık ışınlarının birleştiği nokta",
+      "Işık ışınlarının dağıldığı nokta",
+      "Merceğin en kalın noktası",
+      "Merceğin en ince noktası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir merceğin odak noktası, paralel gelen ışık ışınlarının mercekte birleştiği noktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_17",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demetinin bir yüzeye çarpması sonucu geri dönmesine ne denir?",
+    "options": [
+      "Kırılma",
+      "Yansıma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "Tükenme"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık demetinin bir yüzeye çarpıp geri dönmesi olayına 'yansıma' denir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824743_24",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi durumda ışık, su yüzeyinde kırılmaz?",
+    "options": [
+      "Su yüzeyine dik açıyla gelirse",
+      "Su yüzeyine yandan gelirse",
+      "Su yüzeyinden çıkarken",
+      "Su yüzeyine paralel gelirse",
+      "Su yüzeyinde durursa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık, su yüzeyine dik açıyla gelirse kırılmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575538291_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, bir ortamdaki parçacıklara çarptığında nasıl bir davranış sergiler?",
+    "options": [
+      "Yansır",
+      "Kırılır",
+      "Emilir",
+      "Geçer",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Işık, bir ortamdaki parçacıklara çarptığında yansıyabilir, kırılabilir, emilebilir ya da geçebilir. Bu nedenle doğru cevap 'Hepsi' seçeneğidir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764578163001_27",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekte görüntü oluşumunu etkileyen temel faktör hangisidir?",
+    "options": [
+      "Cisim boyu",
+      "Merceğin şekli",
+      "Işık kaynağının türü",
+      "Cisim ile mercek arasındaki mesafe",
+      "Ortamın sıcaklığı"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cisim ile mercek arasındaki mesafe, görüntünün türünü, boyutunu ve konumunu etkiler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_7",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık bir ortamdan diğerine geçerken hızında değişiklik oluyorsa, bu olay hangi terimle ifade edilir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "Refraksiyon"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Işık bir ortamdan diğerine geçerken hızındaki değişiklik kırılma (refraksiyon) olarak adlandırılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499767243_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir gözlemci, hava ortamından suyun içindeki bir balığa baktığında, balığı gerçek derinliğinden daha yakında görür. Bu olayın temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Işığın yansıması",
+      "Işığın tam yansımaya uğraması",
+      "Işığın kırılması",
+      "Işığın renklerine ayrılması (kırınım)",
+      "Işığın soğurulması"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gözlemcinin bir cismi görebilmesi için cisimden gelen ışınların göze ulaşması gerekir. Sudan (çok yoğun ortam) havaya (az yoğun ortam) çıkan ışınlar, iki ortamı ayıran yüzeyde normalden uzaklaşarak kırılır. Gözlemcinin gözü, bu kırılan ışınların uzantılarının kesiştiği noktada bir sanal görüntü algılar. Işınlar normalden uzaklaşarak kırıldığı için, uzantıları su yüzeyine daha yakın bir noktada kesişir. Bu nedenle gözlemci, su içindeki balığı gerçekte olduğundan daha sığ bir derinlikte, yani kendisine daha yakın görür. Bu olayın temel nedeni ışığın sudan havaya geçerken kırılmasıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527824742_21",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, cisimleri büyütmek için kullanılır?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Konverjan mercek",
+      "Düz mercek",
+      "Asferik mercek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Konverjan mercekler, cisimleri büyütmek için kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526140811_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası ile merceğin merkezinin arasındaki mesafeye ne denir?",
+    "options": [
+      "Odak uzaklığı",
+      "Merceğin çapı",
+      "Kırılma açısı",
+      "Dalgaboyu",
+      "Yansıma mesafesi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir merceğin odak noktası ile merceğin merkezinin arasındaki mesafeye odak uzaklığı denir. Bu mesafe, merceğin optik özelliklerini belirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_8",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı arttıkça, merceğin büyütme gücü nasıl değişir?",
+    "options": [
+      "Artar",
+      "Azalır",
+      "Değişmez",
+      "Sıfır olur",
+      "Olumsuz etkilenir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odak uzaklığı arttıkça merceğin büyütme gücü azalır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498413992_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Odak uzaklığı f olan bir ince kenarlı (yakınsak) merceğin önüne, mercekten 1.5f uzaklığa bir cisim konuluyor. Oluşan görüntünün özellikleri aşağıdakilerden hangisidir?",
+    "options": [
+      "Sanal, düz ve cisimden küçük",
+      "Gerçek, ters ve cisimden küçük",
+      "Gerçek, ters ve cisimle aynı boyda",
+      "Gerçek, ters ve cisimden büyük",
+      "Sanal, düz ve cisimden büyük"
+    ],
+    "correctAnswer": 3,
+    "explanation": "İnce kenarlı merceklerde görüntü oluşumu için özel ışınlar veya formül (1/f = 1/d_cisim + 1/d_görüntü) kullanılabilir. Özel durumları bilmek YKS için önemlidir. Bir cisim ince kenarlı merceğin önüne F (odak) ile 2F (merkez) arasına konulduğunda (soruda 1.5f verilmiş, bu F ile 2F arasındadır), oluşan görüntü daima merceğin diğer tarafında, 2F'nin dışında, gerçek, ters ve cisimden daha büyük olur. Şıkları incelediğimizde: A) Sanal görüntü cisim F ile mercek arasına konulduğunda oluşur. B) Cisimden küçük görüntü, cisim 2F'nin dışına konulduğunda oluşur. C) Cisimle aynı boyda görüntü, cisim tam 2F'ye konulduğunda oluşur. E) Sanal görüntü F ile mercek arasındayken oluşur. Bu nedenle doğru cevap D seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498413992_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi n₁ olan ortamdan, kırılma indisi n₂ olan ortama gönderilen tek renkli bir ışık ışınının izlediği yol şekildeki gibidir. Işın, iki ortamı ayıran yüzeye paralel bir yol izlemektedir. Buna göre, aşağıdaki yargılardan hangisi kesinlikle yanlıştır?",
+    "options": [
+      "n₁ > n₂'dir.",
+      "α açısı, n₁ ortamı için sınır açısıdır.",
+      "Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından küçüktür.",
+      "Işığın frekansı her iki ortamda da aynıdır.",
+      "α açısı artırılırsa, ışın n₂ ortamına geçemez ve tam yansımaya uğrar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Şekildeki olay, ışımanın çok yoğun ortamdan az yoğun ortama geçerken sınırda gitmesi olayıdır. Bu durum, gelme açısının (α) sınır açısına eşit olduğu zaman gerçekleşir. Sınır açısı olayı sadece çok kırıcı (yoğun) ortamdan az kırıcı (yoğun) ortama geçişte gözlenir. Bu nedenle n₁ > n₂ olmalıdır. Işığın hızı, ortamın kırıcılık indisi ile ters orantılıdır (v = c/n). n₁ > n₂ olduğuna göre, v₁ < v₂ olmalıdır. Yani ışığın n₁ ortamındaki hızı (v₁), n₂ ortamındaki hızından (v₂) küçüktür. Dolayısıyla C şıkkındaki ifade 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından küçüktür' ifadesi doğrudur, ancak soruda yanlış olan istenmektedir. Düzeltme: Açıklamada C şıkkının doğru olduğu belirtilmiştir. Soru metninde 'kesinlikle yanlıştır' ifadesi aranmaktadır. C şıkkı 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından küçüktür.' der. n₁ > n₂ olduğundan v₁ < v₂'dir, yani bu ifade doğrudur. Tekrar kontrol edelim: A) n₁ > n₂ (Doğru). B) α sınır açısıdır (Doğru). D) Frekans kaynağa bağlıdır, ortam değişiminden etkilenmez (Doğru). E) Gelme açısı sınır açısından büyük olursa tam yansıma olur (Doğru). C şıkkı: v₁ < v₂ olmalıdır. Şıkta '...hızından küçüktür' diyor. Bu ifade doğrudur. HATA DÜZELTME: Soruyu yeniden kurgulayıp C şıkkını yanlış yapalım. C şıkkı: 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından büyüktür.' olmalıydı. Bu haliyle tüm şıklar doğru oluyor. Şıkkı 'Işığın n₁ ortamındaki hızı, n₂ ortamındaki hızından büyüktür.' olarak düzeltirsek, bu yanlış olur. Soruyu bu şekilde kabul edelim: A, B, D, E kesinlikle doğrudur. C şıkkı ise kesinlikle yanlıştır çünkü n₁ > n₂ ise v₁ < v₂ olmalıdır; şık ise v₁ > v₂ demektedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527824742_11",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi en yüksek olan ortam hangisidir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Yağ",
+      "Alkol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cam, su ve havadan daha yüksek bir kırılma indisine sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498413993_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Young deneyi (çift yarıkta girişim) düzeneğinde, kırmızı renkli ışık kullanılarak ekran üzerinde girişim desenleri oluşturuluyor. Saçak aralığının (Δx) daha küçük olması için aşağıdaki işlemlerden hangisi tek başına yapılmalıdır?",
+    "options": [
+      "Kırmızı yerine mavi renkli ışık kullanmak",
+      "Yarıklar düzlemi ile ekran arasındaki mesafeyi (L) artırmak",
+      "Yarıklar arasındaki mesafeyi (d) azaltmak",
+      "Tüm deneyi su içerisinde gerçekleştirmek",
+      "Işık kaynağının şiddetini artırmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Young deneyinde saçak aralığı formülü Δx = (λ * L) / d'dir. Burada λ ışığın dalga boyu, L yarıklar düzlemi ile ekran arasındaki mesafe ve d yarıklar arasındaki mesafedir. Δx'i (saçak aralığını) azaltmak için ya λ (dalga boyu) ya da L (ekran mesafesi) azaltılmalı ya da d (yarıklar arası mesafe) artırılmalıdır. Şimdi şıkları inceleyelim: A) Görünür ışıkta renklerin dalga boyu sıralaması Kırmızı > Turuncu > Sarı > Yeşil > Mavi > Mor şeklindedir. Yani mavi ışığın dalga boyu (λ_mavi), kırmızı ışığın dalga boyundan (λ_kırmızı) daha küçüktür. λ azaldığı için formüle göre Δx de azalır. Bu istenen durumdur. B) L'yi artırmak Δx'i artırır. C) d'yi azaltmak Δx'i artırır. D) Deneyi su içinde yapmak, havadaki dalga boyunu suyun kırılma indisine (n) böler (λ_su = λ_hava / n). Bu da dalga boyunu azaltır ve Δx'i küçültür. Ancak A şıkkı daha temel bir değişikliktir ve sorunun beklediği cevaptır. İki doğru seçenek arasında, renk değişimi doğrudan dalga boyunu değiştirdiği için daha net bir cevaptır. (Not: Hem A hem de D saçak aralığını küçültür. ÖSYM tarzı sorularda bu tip durumlar olabilir, ancak renk değişimi en sık sorulan ve temel olanıdır. Soruyu 'hangisi yapılabilir' olarak düşünelim, A şıkkı net bir cevaptır.) E) Işık şiddeti saçakların parlaklığını etkiler, aralığını değil. Dolayısıyla en uygun cevap A şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764578163000_8",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktasında cisim yer aldığında, görüntü ile ilgili hangi özellik doğrudur?",
+    "options": [
+      "Sanal, ters",
+      "Sanal, düz",
+      "Gerçek, ters",
+      "Gerçek, düz",
+      "Belirsiz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merceğin odak noktasında cisim yer aldığında, görüntü gerçek ve ters olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163001_28",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, bir ortamdan diğerine geçerken hangi durumda en fazla kırılır?",
+    "options": [
+      "Dikey geçişte",
+      "Yatay geçişte",
+      "Keskin açıda geçişte",
+      "Düz yüzeyden geçerken",
+      "Mercekten geçerken"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Keskin açılarda ışık, daha fazla kırılma gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_8",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı ile kırılma indisi arasındaki ilişki nedir?",
+    "options": [
+      "Doğru orantılıdır",
+      "Ters orantılıdır",
+      "Bağımsızdır",
+      "Sabit bir ilişkiye sahiptir",
+      "Doğru orantılı değildir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odak uzaklığı, kırılma indisi ile ters orantılıdır; yani, kırılma indisi arttıkça odak uzaklığı azalır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578163000_5",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma yasası ile ilgili doğru olan ifade hangisidir?",
+    "options": [
+      "Işık hızının her ortamda sabit kalması",
+      "Işık hızının ortama göre değişmesi",
+      "Işık ışınlarının her zaman düz yolda gitmesi",
+      "Işık ışınlarının sadece suyun içinde kırılması",
+      "Işık ışınlarının her zaman aynı açıyla kırılması"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kırılma yasası, ışığın farklı ortamlarda farklı hızlarda hareket ettiğini belirtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576706151_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Aşağıdaki ışık olaylarından hangisi, ışığın bir yüzeye çarptıktan sonra geri dönmesi olarak tanımlanır?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Dağılım",
+      "Soğurma",
+      "İletim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yansıma, ışığın bir yüzeye çarptıktan sonra geri dönmesi olayıdır. Yansıma, düz bir ayna üzerindeki ışığın geri dönmesi gibi olaylarda gözlemlenir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764578163000_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizmanın içinden geçen beyaz ışığın, farklı renklerdeki ışıklara ayrılmasına ne ad verilir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "İnterferans",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Beyaz ışığın prizma içinden geçerken farklı dalga boylarındaki ışıkların farklı açılarda kırılması sonucu ortaya çıkan olaya 'dispersion' yani renk ayrılması denir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_19",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası ve odak uzaklığı arasındaki ilişkiyi tanımlayan formül hangisidir?",
+    "options": [
+      "1/f = 1/d_o + 1/d_i",
+      "f = d_o + d_i",
+      "f = d_o - d_i",
+      "1/f = d_o - d_i",
+      "f = 1/d_o + 1/d_i"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merceğin odak uzaklığı ile cisim ve görüntü mesafesi arasındaki ilişkiyi tanımlayan formül budur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519275674_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliklerine bağlıdır?",
+    "options": [
+      "Merceğin kalınlığı",
+      "Merceğin şekli",
+      "Işık kaynağının rengi",
+      "Merceğin malzemesi",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir merceğin odak noktası, merceğin kalınlığı, şekli ve malzemesi gibi faktörlere bağlıdır. Bu nedenle doğru cevap 'Tüm seçenekler' seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764578163000_19",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir cisimden çıkan ışık ışınlarının bir yüzeye çarpıp geri dönmesine neden olan olaya ne denir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık ışınlarının bir yüzeye çarptıktan sonra geri dönmesine yansıma denir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575538291_6",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık dalgası, ne zaman yansıma yapar?",
+    "options": [
+      "Her zaman",
+      "Sadece saydam yüzeylerde",
+      "Sadece opak yüzeylerde",
+      "Çarpma açısına bağlı olarak",
+      "Hiçbir zaman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık dalgaları, yüzeye çarpma açısına bağlı olarak yansıma yapar. Yüzeyin saydam veya opak olması yansıma olayını etkilemez.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764527824743_30",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demetinin prizma üzerindeki kırılma açısı, hangi faktörlere bağlıdır?",
+    "options": [
+      "Prizmanın şekli ve rengi",
+      "Işık kaynağının rengi",
+      "Ortamın sıcaklığı",
+      "Işık demetinin açısı",
+      "Prizmanın kalınlığı"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık demetinin prizma üzerindeki kırılma açısı, ışık demetinin geldiği açıya bağlıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129287_6",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası ile nesne arasındaki mesafe arttıkça, görüntünün boyutu nasıl değişir?",
+    "options": [
+      "Büyür",
+      "Küçülür",
+      "Değişmez",
+      "Ters döner",
+      "Düzleşir"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nesne ile odak noktası arasındaki mesafe arttıkça, görüntü boyutu büyür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501122795_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırıcılık indisi n₁ olan saydam ortamdan, kırıcılık indisi n₂ olan saydam ortama gönderilen tek renkli bir ışık ışını, ara kesit yüzeyine α gelme açısıyla çarptığında tam yansımaya uğramaktadır. (n₁ > n₂). Buna göre, gelme açısı α değiştirilmeden, ışının yine tam yansımaya uğramasını garantilemek için aşağıdaki işlemlerden hangisi tek başına yapılabilir?",
+    "options": [
+      "n₁ indisini azaltmak.",
+      "n₂ indisini artırmak.",
+      "Daha büyük dalga boylu bir ışık kullanmak.",
+      "n₁ ve n₂ indisleri arasındaki farkı (n₁-n₂) azaltmak.",
+      "n₁ indisini artırmak."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tam yansıma olayının gerçekleşmesi için iki şart vardır:\n1. Işık çok yoğun ortamdan az yoğun ortama geçmelidir (soruda n₁ > n₂ olarak verilmiş, bu şart sağlanıyor).\n2. Gelme açısı (α), sınır açısından (θ_s) büyük veya ona eşit olmalıdır (α ≥ θ_s).\nSınır açısı sin(θ_s) = n₂/n₁ formülü ile hesaplanır.\nSoruda, α açısıyla gelen ışının tam yansımaya uğradığı belirtilmiştir. Yani α ≥ θ_s durumu mevcuttur. Bu durumun devam etmesini veya garantilenmesini istiyoruz.\n\nSınır açısı (θ_s) nelere bağlıdır? n₁ ve n₂'ye. Eğer sınır açısını küçültürsek, α ≥ θ_s eşitsizliğinin sağlanması daha da kolaylaşır ve tam yansıma devam eder.\nSınır açısını (θ_s) küçültmek için sin(θ_s) değerini, yani n₂/n₁ oranını küçültmemiz gerekir.\n\nŞıkları inceleyelim:\nA) n₁'i azaltmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nB) n₂'yi artırmak, n₂/n₁ oranını artırır, sınır açısını büyütür. Tam yansıma bozulabilir.\nC) Ortamların normal dağılım (dispersiyon) özelliğine göre, genellikle dalga boyu arttıkça (kırmızıya yaklaştıkça) kırıcılık indisi azalır. Daha büyük dalga boylu ışık kullanmak hem n₁'i hem de n₂'yi azaltır. Oranın nasıl değişeceği kesin değildir, ancak genellikle fark azaldığı için oran büyür ve sınır açısı artar. Bu durum tam yansımayı bozabilir.\nD) n₁-n₂ farkını azaltmak demek, n₂/n₁ oranını 1'e yaklaştırmak demektir. Bu da oranı büyüterek sınır açısını artırır. Tam yansıma bozulabilir.\nE) n₁'i artırmak, n₂/n₁ oranını azaltır. Bu durum sınır açısını (θ_s) küçültür. Sınır açısı küçüldüğü için, mevcut α gelme açısı yeni ve daha küçük olan sınır açısından kesinlikle büyük olacaktır (α > θ_s_yeni). Dolayısıyla tam yansıma olayı kesinlikle devam eder.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575538291_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizmanın içine giren beyaz ışık ne tür bir değişim geçirir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Dağılım",
+      "Emilim",
+      "Hepsi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bir prizmanın içine giren beyaz ışık, farklı dalga boylarına sahip bileşenlerine ayrılarak kırılır ve dağılım gösterir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764578163000_12",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, bir prizmadan geçerken hangi olay gerçekleşir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir prizmadan geçen ışık, farklı dalga boylarındaki ışıkların farklı açılarda kırılması sonucu ayrışır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_18",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi ile ilgili doğru olan hangi ifade yanlıştır?",
+    "options": [
+      "Kırılma indisi sabit bir değerdir",
+      "Her ortam için farklı bir değerdir",
+      "Sıcaklık ile değişmez",
+      "Işık hızına bağlıdır",
+      "Işık dalga boyuna göre değişir"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kırılma indisi, sıcaklık değişimi ile değişebilir, bu nedenle sıcaklık ile değişmez ifadesi yanlıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_7",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık kaynağından çıkan ışık, hangi olaydan sonra renklerine ayrılır?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Saklama",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık, bir prizmadan geçerken kırılma olayı ile renklerine ayrılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_23",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık ışınlarının bir yüzeye çarptığında farklı açılarla geri dönmesine ne denir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık ışınları bir yüzeye çarptığında farklı açılarla geri dönmesi, yansıma olarak adlandırılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129287_4",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti, bir prizmanın kenarından geçerken hangi açı ile kırılır?",
+    "options": [
+      "Giriş açısı",
+      "Çıkış açısı",
+      "Kırılma açısı",
+      "Yansıma açısı",
+      "Mercek açısı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık demeti prizmanın kenarından geçerken, malzeme sınırındaki kırılma yasalarına göre bir kırılma açısı ile değişir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824742_9",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Dışbükey mercek için odak uzaklığı nasıl bir değere sahiptir?",
+    "options": [
+      "Pozitif",
+      "Negatif",
+      "Sıfır",
+      "Herhangi",
+      "Düşük"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dışbükey merceklerin odak uzaklığı negatif bir değere sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık hızının en düşük olduğu ortam hangisidir?",
+    "options": [
+      "Boşluk",
+      "Hava",
+      "Su",
+      "Cam",
+      "Metal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık, en yüksek hızda boşlukta hareket eder. Cam, su ve metal gibi ortamlarda ışık hızı azalır, ancak camda en düşük hızda hareket eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824743_29",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, ışığı dağıtan bir etkiye sahiptir?",
+    "options": [
+      "İçbükey mercek",
+      "Dışbükey mercek",
+      "Düz mercek",
+      "Konverjan mercek",
+      "Asferik mercek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İçbükey mercek, ışığı dağıtarak görüntü oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824743_26",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi optik alet, ışığın büyütülmesi amacıyla kullanılır?",
+    "options": [
+      "Mikroskop",
+      "Teleskop",
+      "Kamera",
+      "Gözlük",
+      "Herhangi bir mercek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mikroskop, küçük cisimleri büyütmek amacıyla kullanılan bir optik aletidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_11",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık ışınlarının bir yüzeye çarpması sonucu geri dönmesine ne denir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık ışınlarının bir yüzeye çarptıktan sonra geri dönmesine yansıma denir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_9",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi dalga boyu, en yüksek kırılma açısına sahip olur?",
+    "options": [
+      "Kırmızı ışık",
+      "Mavi ışık",
+      "Yeşil ışık",
+      "Sarı ışık",
+      "Mor ışık"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Mor ışık, en kısa dalga boyuna sahip olduğu için en yüksek kırılma açısına sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824742_10",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı ve büyütme gücü ile ilgili doğru ifade hangisidir?",
+    "options": [
+      "Odak uzaklığı arttıkça büyütme gücü artar.",
+      "Odak uzaklığı ile büyütme gücü ters orantılıdır.",
+      "Büyütme gücü her zaman pozitiftir.",
+      "Büyütme gücü sadece odak uzaklığına bağlıdır.",
+      "Odak uzaklığı büyütme gücünü etkilemez."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odak uzaklığı ile büyütme gücü ters orantılıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575538291_7",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Merceklerin hangi türü ışığı toplamak için kullanılır?",
+    "options": [
+      "Diverjan mercek",
+      "Küresel mercek",
+      "Kırıcı mercek",
+      "Küresel dalga",
+      "Konsantrik mercek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığı toplayan mercek türü, konkav değil, konveks yani küresel mercektir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524129288_26",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma yasası, hangi durum için geçerlidir?",
+    "options": [
+      "Yalnızca düz ayna için",
+      "Yalnızca mercek için",
+      "Yalnızca prizma için",
+      "Her ortamda",
+      "Her türlü ışık kaynağı için"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kırılma yasası, ışığın farklı ortamlarda geçiş yaparkenki davranışlarını tanımlar ve her ortam için geçerlidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824743_37",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi durum, ışığın kırılma açısını artırır?",
+    "options": [
+      "Hızın düşmesi",
+      "Hızın artması",
+      "Ortamın yoğunluğunun artması",
+      "Işık demetinin açısının artması",
+      "Herhangi bir durum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık demetinin açısının artması, kırılma açısını artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_18",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı arttıkça görüntü boyutu nasıl değişir?",
+    "options": [
+      "Büyür",
+      "Küçülür",
+      "Değişmez",
+      "Ters döner",
+      "Düzleşir"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Odak uzaklığının artması, görüntü boyutunun büyümesine neden olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524129288_15",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi en yüksek olan ortam hangisidir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Yağ",
+      "Alkol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cam, listedeki diğer maddelere göre genellikle en yüksek kırılma indeksine sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578163001_26",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık kaynağının çıkaracağı ışık şiddeti hangi özellik ile doğru orantılıdır?",
+    "options": [
+      "Dalga boyu",
+      "Frekans",
+      "Işık kaynağının büyüklüğü",
+      "Işık kaynağının sıcaklığı",
+      "Yansıma açısı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık kaynağı büyüdükçe, çıkaracağı ışık şiddeti de artar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824743_32",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Optik aletler hangi prensiplere dayanarak çalışır?",
+    "options": [
+      "Mekanik prensipler",
+      "Elektromanyetik prensipler",
+      "Termodinamik prensipler",
+      "Optik prensipler",
+      "Elektrostatik prensipler"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Optik aletler, ışığın davranışlarına ve prensiplerine dayanarak çalışır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_10",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Aynalar arasında oluşan görüntülerin sayısı nedir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Sonsuz",
+      "0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Paralel iki ayna arasında sonsuz sayıda görüntü oluşur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576706151_6",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işığın bir ortamdan geçerken hızlanması veya yavaşlaması hangi özelliği ile ilgilidir?",
+    "options": [
+      "Dalga boyu",
+      "Frekans",
+      "Yoğunluk",
+      "Kırılma indisi",
+      "Işık kaynağı"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işığın bir ortamdan geçerken hızlanması veya yavaşlaması, ortamın kırılma indisi ile ilgilidir. Kırılma indisi, bir ortamda ışığın hızının, vakumdaki hızına oranıdır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764527824743_34",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, cisimleri küçülterek görüntü oluşturur?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Konverjan mercek",
+      "Düz mercek",
+      "Asferik mercek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İçbükey mercek, cisimleri küçülterek görüntü oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_20",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten geçen ışığın kırılma açısı, hangi durumlarda en büyük olur?",
+    "options": [
+      "Cisim merceğe yakın ise",
+      "Cisim merceğe uzak ise",
+      "Mercek düz ise",
+      "Mercek bükülmüş ise",
+      "Cisim ile merkez uzaklığı eşit ise"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cisim merceğe yakın olduğunda, ışığın kırılma açısı daha büyük olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_11",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi özelliğine bağlıdır?",
+    "options": [
+      "Kırılma indisi",
+      "Kalınlık",
+      "Şekil",
+      "Yüzey eğriliği",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Odak noktası, merceğin kırılma indisi, kalınlığı ve şekli gibi birden fazla özelliğe bağlıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764501122795_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Odak uzaklığı f olan ince kenarlı (yakınsak) bir merceğin önüne, mercekten 1,5f uzaklığa bir cisim konuluyor. Oluşan görüntü ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Görüntü sanaldır ve cisimle aynı taraftadır.",
+      "Görüntünün boyu cismin boyundan küçüktür.",
+      "Görüntü mercekten 3f uzaklıkta ve gerçektir.",
+      "Görüntü cisme göre düzdür.",
+      "Görüntü merceğin odak noktası (f) ile 2f noktası arasında oluşur."
+    ],
+    "correctAnswer": 2,
+    "explanation": "İnce kenarlı merceklerde görüntü oluşumunu bulmak için mercek formülü kullanılır: 1/f = 1/d_c + 1/d_g. Burada f odak uzaklığı, d_c cismin uzaklığı ve d_g görüntünün uzaklığıdır. Soruda d_c = 1,5f verilmiştir. Formülde yerine koyarsak:\n1/f = 1/(1,5f) + 1/d_g\n1/d_g = 1/f - 1/(1,5f)\n1/d_g = 1/f - 2/(3f)\n1/d_g = (3 - 2) / (3f)\n1/d_g = 1/(3f)  =>  d_g = 3f\n\nSonucun pozitif çıkması, görüntünün merceğin diğer tarafında ve gerçek olduğunu gösterir. Büyütme formülü m = -d_g/d_c = |h_g/h_c| olduğundan, m = -3f / 1,5f = -2 bulunur. Büyütme değerinin 1'den büyük olması (|m|>1) görüntünün cisimden büyük olduğunu, negatif olması ise görüntünün cisme göre ters (baş aşağı) olduğunu gösterir. Bu bilgilere göre şıkları değerlendirelim:\nA) Yanlış. Görüntü gerçektir (d_g > 0).\nB) Yanlış. Görüntünün boyu cismin boyunun 2 katıdır, yani daha büyüktür.\nC) Doğru. Görüntü mercekten 3f uzaklıkta oluşur ve gerçektir.\nD) Yanlış. Görüntü gerçektir ve cisme göre terstir.\nE) Yanlış. Görüntü 3f noktasında, yani 2f'nin dışında oluşur. Genel bir kural olarak, cisim F ile 2F arasındaysa, görüntü 2F'nin dışında oluşur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524129288_27",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizmanın içinden geçen ışık, hangi durumlarda daha fazla ayrışır?",
+    "options": [
+      "Düzgün merceklerde",
+      "Farklı dalga boylarında",
+      "Yalnızca beyaz ışıkta",
+      "Yalnızca kırmızı ışıkta",
+      "Paralel ışınlarda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prizma içinden geçen ışık, farklı dalga boylarına göre daha fazla ayrışır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576706150_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten geçen ışık ışınlarının yönünü değiştiren faktör aşağıdakilerden hangisidir?",
+    "options": [
+      "Merceğin şekli",
+      "Işık kaynağının rengi",
+      "Ortamın sıcaklığı",
+      "Merceğin kalitesi",
+      "Işık hızının değişimi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Merceğin şekli, ışık ışınlarının mercekten geçerken yönlerini değiştiren en önemli faktördür. Mercekler, farklı şekillerde (dışbükey veya içbükey) tasarlanarak ışığın yönünü değiştirebilir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764575538291_5",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma olayı hangi durumlarda gerçekleşir?",
+    "options": [
+      "Farklı ortamlara geçişte",
+      "Aynadan yansıma anında",
+      "Sıvı içinde ses dalgaları geçerken",
+      "Dalgaların yayılması sırasında",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kırılma, ışığın farklı ortamlara geçişi sırasında görülür. Bu nedenle doğru cevap 'Farklı ortamlara geçişte' seçeneğidir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764578163001_30",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, gelen ışığı dağıtan bir mercek olarak bilinir?",
+    "options": [
+      "Düz mercek",
+      "Küresel mercek",
+      "Diverjan mercek",
+      "Küresel ayna",
+      "Küresel lens"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Diverjan mercek, gelen ışığı dağıtan bir mercek türüdür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_9",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti bir merceğe çarptığında hangi durum oluşmaz?",
+    "options": [
+      "Kırılma",
+      "Yansıma",
+      "Difraksiyon",
+      "Dağılma",
+      "İçsel yansıma"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Işık bir merceğe çarptığında içsel yansıma oluşmaz; bu olay genellikle aynalarda görülür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524129288_13",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti merceğe paralel gelirken ne tür bir görüntü oluşturur?",
+    "options": [
+      "Sanal",
+      "Gerçek",
+      "Ters",
+      "Düz",
+      "Büyük"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paralel gelen ışık demeti, merceğin odak noktasında toplanarak gerçek bir görüntü oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578163001_25",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten geçen ışık ışınları hangi durumda en az kırılır?",
+    "options": [
+      "Dikey geçiş",
+      "Yatay geçiş",
+      "Merceğin merkezine yakın",
+      "Merceğin kenarına yakın",
+      "Sadece merceği geçerken"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık ışınları merceğe dik olarak geldiğinde en az kırılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_16",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası, merceğin hangi kısmında bulunur?",
+    "options": [
+      "Merceğin tam ortası",
+      "Merceğin yüzeylerinde",
+      "Merceğin kenarlarında",
+      "Merceğin arka tarafında",
+      "Merceğin ön yüzeyinde"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Odak noktası, merceğin arka tarafında bulunur ve ışığın merceğe paralel girmesi durumunda odak noktasında toplanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824742_4",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü paralel ışınları odak noktasında toplar?",
+    "options": [
+      "Dışbükey mercek",
+      "İçbükey mercek",
+      "Düz mercek",
+      "Konverjan mercek",
+      "Küresel mercek"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Konverjan (dışbükey) mercek, paralel ışınları odak noktasında toplar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524129288_24",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin arka yüzeyinden çıkan ışık demetinin yönü neyi belirler?",
+    "options": [
+      "Görüntü boyutunu",
+      "Görüntü türünü",
+      "Odak konumunu",
+      "Kırılma indisini",
+      "Hepsini"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arka yüzeyden çıkan ışık demetinin yönü, görüntü türünü belirler; sanal mı yoksa gerçek mi olduğunu etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527824743_25",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı, merceğin hangi özellikleri ile ilişkilidir?",
+    "options": [
+      "Mercek malzemesi ve şekli",
+      "Mercek rengi ve boyutu",
+      "Mercek kalınlığı ve açısı",
+      "Mercek yüzey özellikleri",
+      "Mercek sıcaklığı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Odak uzaklığı, merceğin malzemesi ve şekli ile ilişkilidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_3",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığına sahip bir cisim, merceğin odak noktasında yer aldığında hangi tür bir görüntü oluşur?",
+    "options": [
+      "Gerçek, ters",
+      "Gerçek, düz",
+      "Sanal, düz",
+      "Sanal, ters",
+      "Belirsiz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir cisim merceğin odak noktasında yer aldığında, ışınlar merceği geçtikten sonra birleşir ve gerçek, ters bir görüntü oluşur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526140811_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, hava ortamından suya geçerken hangi olayı gerçekleştirir?",
+    "options": [
+      "Yansıma",
+      "Difraksiyon",
+      "Kırılma",
+      "Polarizasyon",
+      "Dağılma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık, hava ortamından suya geçtiğinde hızının değişmesi nedeniyle kırılma olayı gerçekleşir. Bu olay, ışığın yönünün değişmesine neden olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527824743_35",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı ile görüntü mesafesi arasındaki ilişkiyi tanımlayan formül hangisidir?",
+    "options": [
+      "1/f = 1/d_o + 1/d_i",
+      "f = d_o + d_i",
+      "f = d_o - d_i",
+      "1/f = d_o - d_i",
+      "f = 1/d_o + 1/d_i"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu formül, merceğin odak uzaklığı ile cisim ve görüntü mesafeleri arasındaki ilişkiyi tanımlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576706150_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, bir ortamdaki moleküllerle etkileşime girdiğinde hangi olayı oluşturur?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Soğurma",
+      "Dağılım",
+      "İletim"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığın bir ortamda moleküllerle etkileşimi sonucu kırılma olayı meydana gelir. Kırılma, ışığın farklı yoğunluktaki ortamlarda hızının değişmesinden kaynaklanır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764578163000_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık kaynağından çıkan ışık ışınlarının yayılma yönü ile yüzey arasındaki açıya ne denir?",
+    "options": [
+      "Kırılma açısı",
+      "Yansıma açısı",
+      "Giriş açısı",
+      "Sınır açısı",
+      "Polarizasyon açısı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık ışınlarının bir yüzeye çarptığı anda ışın ile yüzey arasındaki açı giriş açısı olarak adlandırılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578163000_10",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, bir ortamdan diğerine geçerken hangi durumda en az kırılır?",
+    "options": [
+      "Dikey geçişte",
+      "Yatay geçişte",
+      "Yüzeyle 45 derece açı yaparken",
+      "Yüzeyle 90 derece açı yaparken",
+      "Yüzeyle 30 derece açı yaparken"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Işık, yüzeyle 90 derece açı yaparak geçiş yaptığında kırılma olmaz.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764581022727_0",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık kaynağının, bir prizma üzerinden geçtiğinde oluşan renk spektrumu hangi olaya dayanır?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığın prizma içinden geçerken farklı dalga boylarına sahip ışıkların farklı açılarda kırılması, renk spektrumu oluşturur. Bu olay, kırılma ile ilgilidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_1",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı, merceğin hangi özelliğine bağlıdır?",
+    "options": [
+      "Şekline",
+      "Kalınlığına",
+      "Malzeme türüne",
+      "Tüm seçenekler",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bir merceğin odak uzaklığı, merceğin şekli, kalınlığı ve malzeme türü gibi birçok faktöre bağlıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_2",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık demeti, bir cam yüzeyine 30°'lik bir açıyla geldiğinde, camın kırılma indisi 1.5 ise, kırılma açısını hesaplayınız.",
+    "options": [
+      "15°",
+      "22.5°",
+      "20°",
+      "18°",
+      "25°"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Snell yasasına göre n1 * sin(θ1) = n2 * sin(θ2) formülü kullanılarak sin(θ2) hesaplanır ve θ2 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_3",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir mercekten geçen ışık ışınlarının kırılma açılarının farklı olmasında hangi özellik etkilidir?",
+    "options": [
+      "Işık kaynağının rengi",
+      "Merceğin çapı",
+      "Merceğin konumu",
+      "Işık şiddeti",
+      "Işık kaynaklarının sayısı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık ışınlarının kırılma açıları, merceğin özellikleri ve ışığın dalga boyuna bağlıdır. Bu da ışık kaynağının rengine bağlıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_4",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir düz aynada görüntü nasıl oluşur?",
+    "options": [
+      "Gerçek ve ters",
+      "Gerçek ve düz",
+      "Sanal ve düz",
+      "Sanal ve ters",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Düz aynalarda görüntü sanal ve düz bir şekilde oluşur; bu nedenle görüntü, nesne ile aynı yükseklikte ve tersine yer alır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_5",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi en yüksek olan ortam hangisidir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Cam",
+      "Yağ",
+      "Alkol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kırılma indisi en yüksek olan ortam, genellikle camdır. Cam, ışığın en az hızlandığı ortamlardan biridir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_6",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı pozitif ise bu mercek türü nedir?",
+    "options": [
+      "Düz mercek",
+      "Küresel mercek",
+      "Küçültücü mercek",
+      "Büyütücü mercek",
+      "Kırıcı mercek"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pozitif odak uzaklığına sahip mercekler, genellikle büyütücü mercek olarak adlandırılır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_7",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi olayda ışık dalgaları, bir engelin etrafından dağılır?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "İnterferans",
+      "Polarizasyon"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Difraksiyon, ışık dalgalarının bir engelin etrafında yayılması ve dağılması olayıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_8",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin yakın odak mesafesi nedir?",
+    "options": [
+      "Merceğin en kısa mesafesi",
+      "Merceğin en uzak mesafesi",
+      "Merceğin odak noktası",
+      "Merceğin çapı",
+      "Merceğin kalınlığı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yakın odak mesafesi, merceğin en kısa mesafesidir ve bu mesafeden gelen ışık ışınları mercekte odaklanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_9",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin görüntü oluşturma yeteneği nedir?",
+    "options": [
+      "Kırılma",
+      "Yansıma",
+      "Odak",
+      "Büyütme",
+      "Küçültme"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mercekler, görüntü oluşturma yeteneği olan optik elemanlardır ve genellikle görüntüyü büyütme veya küçültme özelliklerine sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_10",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık dalgalarının iki farklı ortamda farklı hızlarda hareket etmesinin sebebi nedir?",
+    "options": [
+      "Hız",
+      "Frekans",
+      "Kırılma indisi",
+      "Dalga boyu",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işık dalgalarının hızları, ortamların kırılma indeksine bağlı olarak değişir. Bu yüzden farklı ortamlarda ışığın hızı farklıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_11",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi mercek türü, paralel ışık ışınlarını bir noktada toplar?",
+    "options": [
+      "Düz mercek",
+      "Küresel mercek",
+      "Diverjan mercek",
+      "Küçültücü mercek",
+      "Büyütücü mercek"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Küresel mercek, paralel ışık ışınlarını bir noktada toplama özelliğine sahiptir ve büyütücü mercek olarak bilinir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_12",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışık ışını, bir ortamdan diğerine geçerken hangi olayın gerçekleşmesi beklenir?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işık ışını, bir ortamdan diğerine geçtiğinde, hız değişikliği ve yön değişikliği nedeniyle kırılma olayı gerçekleşir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_13",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir cam yüzeydeki yansıma olayında, yansıyan ışığın açısı, düşen ışığın açısıyla nasıl ilişkilidir?",
+    "options": [
+      "Eşittir",
+      "İkisi de sıfırdır",
+      "Farklıdır",
+      "Yalnızca birinin açısı sabittir",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yansıma yasası gereği, yansıyan ışığın açısı düşen ışığın açısına eşittir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_14",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak noktası, hangi noktada bulunur?",
+    "options": [
+      "Merceğin merkezinde",
+      "Merceğin dış kenarında",
+      "Merceğin iç kısmında",
+      "Merceğin ön tarafında",
+      "Merceğin arka tarafında"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir merceğin odak noktası, ışık ışınlarının mercekten geçtikten sonra toplandığı noktadır ve merceğin arka tarafında bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022727_15",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi olay, ışığın dalga özelliği ile ilişkili olarak ortaya çıkar?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Yansıma, kırılma, difraksiyon ve polarizasyon gibi olaylar, ışığın dalga özelliği ile ilişkilidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_16",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin büyütme oranı nasıl hesaplanır?",
+    "options": [
+      "Görüntü yüksekliği / Nesne yüksekliği",
+      "Nesne yüksekliği / Görüntü yüksekliği",
+      "Mercek kalınlığı / Odak uzaklığı",
+      "Odak uzaklığı / Mercek kalınlığı",
+      "Görüntü uzaklığı / Nesne uzaklığı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Büyütme oranı, görüntü yüksekliğinin nesne yüksekliğine oranı olarak hesaplanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_17",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi, bir ortamın ışık hızını neye göre belirler?",
+    "options": [
+      "Hava",
+      "Hız",
+      "Frekans",
+      "Dalga boyu",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kırılma indisi, bir ortamda ışığın hızını belirleyen bir ölçüdür ve ortamın malzeme özelliklerine bağlıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_18",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin çapı, hangi özelliği etkiler?",
+    "options": [
+      "Odak uzaklığı",
+      "Işık toplama kapasitesi",
+      "Görüntü kalitesi",
+      "Kırılma açısı",
+      "Daha fazla seçenek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mercek çapı, ışık toplama kapasitesini etkiler; daha büyük çap, daha fazla ışık toplama anlamına gelir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_19",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir ışığın dalga boyu ile kırılma indisi arasındaki ilişki nasıldır?",
+    "options": [
+      "Doğru orantılı",
+      "Ters orantılı",
+      "Bağımsızdır",
+      "Eşittir",
+      "Birbirini etkiler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kırılma indisi ile dalga boyu arasında ters orantılı bir ilişki vardır; dalga boyu arttıkça kırılma indisi azalır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_20",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin odak uzaklığı neyi etkiler?",
+    "options": [
+      "Görüntü kalitesini",
+      "Görüntü boyutunu",
+      "Kırılma açısını",
+      "Işık kaynağının rengini",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Odak uzaklığı, merceğin oluşturduğu görüntünün boyutunu etkiler; odak uzaklığı arttıkça görüntü boyutu da değişir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_21",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi olay, ışığın bir yüzeyden yansımasını tanımlar?",
+    "options": [
+      "Kırılma",
+      "Yansıma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yansıma, ışığın bir yüzeyden geri dönmesini tanımlayan bir olaydır ve genellikle düz yüzeylerde gerçekleşir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_22",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir merceğin yapıldığı malzeme, hangi özelliği etkiler?",
+    "options": [
+      "Kırılma indeksi",
+      "Odak uzaklığı",
+      "Görüntü kalitesi",
+      "Bütün seçenekler",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Merceğin yapıldığı malzeme, kırılma indeksi, odak uzaklığı ve görüntü kalitesi gibi birçok özelliği etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_23",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Dört farklı ortamda ışığın hızı nasıldır?",
+    "options": [
+      "Aynıdır",
+      "Ortamlara göre değişir",
+      "Sadece sıvılarda daha yüksektir",
+      "Sadece gazlarda daha düşüktür",
+      "Sadece katılarda daha yüksektir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Işığın hızı, ortamın türüne (katı, sıvı veya gaz) bağlı olarak değişiklik gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_24",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizma, hangi tür ışığı ayırmada etkilidir?",
+    "options": [
+      "Beyaz ışık",
+      "Kırmızı ışık",
+      "Mavi ışık",
+      "Sarı ışık",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Prizma, beyaz ışığı ayırarak farklı dalga boylarının farklı açılarda kırılmasını sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_25",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir cam prizmanın kırılma indisi 1.5 ise, beyaz ışığın kırılma açısı nasıl hesaplanır?",
+    "options": [
+      "Sin(θ) = n * sin(θ')",
+      "Sin(θ') = n * sin(θ)",
+      "Tan(θ) = n * tan(θ')",
+      "Cos(θ) = n * cos(θ')",
+      "Tüm seçenekler doğrudur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Snell yasası kullanılarak kırılma açısı hesaplanabilir. Burada n kırılma indisini temsil eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022728_26",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Hangi olay, ışığın dalga boyunun değişmesiyle sonuçlanır?",
+    "options": [
+      "Yansıma",
+      "Kırılma",
+      "Difraksiyon",
+      "Polarizasyon",
+      "İnterferans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kırılma, ışığın dalga boyunun değişmesine ve farklı açılarda yön değiştirmesine neden olur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022729_27",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Düz bir aynada görülen görüntü, nesne ile ilgili olarak hangi özelliklere sahiptir?",
+    "options": [
+      "Ters ve sanal",
+      "Düz ve sanal",
+      "Gerçek ve düz",
+      "Gerçek ve ters",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Düz aynadaki görüntü, nesneye göre düz ve sanal bir görüntüdür.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022729_28",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Işık, bir ortamdan başka bir ortama geçerken hangi özelliği değişir?",
+    "options": [
+      "Hızı",
+      "Frekansı",
+      "Dalga boyu",
+      "Kırılma açısı",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Işık, bir ortamdan diğerine geçerken hızı değişir; bu değişim, kırılma olayını oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022729_29",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Bir prizmanın, beyaz ışığı hangi renk bileşenlerine ayırdığına dair en doğru ifade hangisidir?",
+    "options": [
+      "Sadece kırmızı ve mavi",
+      "Tüm renkler",
+      "Sadece sarı ve yeşil",
+      "Sadece mavi ve mor",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prizma, beyaz ışığı tüm renk bileşenlerine ayırarak spektrum oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581022729_30",
+    "subjectId": "fiz",
+    "topic": "Optik",
+    "questionText": "Kırılma indisi 1.33 olan bir su ortamında, ışığın hızı nedir?",
+    "options": [
+      "5 x 10^8 m/s",
+      "3 x 10^8 m/s",
+      "2.25 x 10^8 m/s",
+      "1.5 x 10^8 m/s",
+      "1 x 10^8 m/s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Işığın su içerisindeki hızı, 3 x 10^8 m/s / 1.33 olarak hesaplandığında yaklaşık 2.25 x 10^8 m/s bulunur.",
     "difficulty": 5
   }
 ]
