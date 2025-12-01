@@ -1,67 +1,19 @@
 [
   {
-    "id": "ai_1764528551226_18",
+    "id": "ai_1764528551225_8",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde hangi faktörler biyotik unsurları oluşturur?",
+    "questionText": "Ekosistemlerde dengeyi sağlamak için hangi tür organizmalar önemlidir?",
     "options": [
-      "Işık, su, sıcaklık",
-      "Toprak, su, hava",
-      "Canlılar, bitkiler, hayvanlar",
-      "İklim, hava, toprak",
-      "Hepsi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Biyotik unsurlar, canlılar ve bunların çeşitlerini içerir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498764160_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir orman ekosisteminde meydana gelen ikincil (sekonder) süksesyon süreciyle ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
-    "options": [
-      "Zamanla biyokütle (toplam canlı kütlesi) artar.",
-      "Komünitenin tür çeşitliliği klimaksa doğru artış gösterir.",
-      "Süreç sonunda rekabet gücü yüksek olan türler baskın hale gelir.",
-      "Ortamın fiziksel ve kimyasal koşulları süreç boyunca kararlı kalır.",
-      "Besin ağındaki trofik ilişkilerin karmaşıklığı artar."
+      "Üreticiler",
+      "Tüketiciler",
+      "Çürütücüler",
+      "Hepsi",
+      "Hiçbiri"
     ],
     "correctAnswer": 3,
-    "explanation": "Süksesyon (ardıllık), bir ekosistemdeki türlerin zamanla birbirinin yerini alması sürecidir. İkincil süksesyon, daha önce bir komünitenin var olduğu ancak yangın, sel, insan müdahalesi gibi bir bozulma sonucu yapısı değişmiş bir alanda başlar. Bu süreç dinamiktir. Canlılar, yaşadıkları ortamı değiştirirler. Örneğin, öncü bitkiler toprağı zenginleştirir, gölge oluşturarak ışık miktarını değiştirir ve nemi artırır. Bu değişimler, yeni türlerin gelmesine olanak tanır. Dolayısıyla, ortamın fiziksel ve kimyasal koşulları (toprak yapısı, pH, nem, ışık vb.) süreç boyunca kararlı kalmaz, aksine sürekli olarak değişir. Diğer şıklar süksesyonun genel özellikleridir: Biyokütle ve tür çeşitliliği artar, rekabet gücü yüksek olan K-stratejisti türler zamanla baskınlaşır ve besin ağı karmaşıklaşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578828829_7",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki enerji kaynağı hangisidir?",
-    "options": [
-      "Güneş",
-      "Rüzgar",
-      "Su",
-      "Toprak",
-      "Mikroorganizmalar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır ve bitkiler bu enerjiyi fotosentez yoluyla kullanır.",
+    "explanation": "Üreticiler, tüketiciler ve çürütücüler, ekosistemlerin dengesini sağlamak için birlikte çalışır.",
     "difficulty": 4
-  },
-  {
-    "id": "ai_1764576932247_4",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki çeşitliliğin artması genellikle hangi durumu gösterir?",
-    "options": [
-      "Ekosistemin sağlıklı olduğunu",
-      "Ekosistemin dengesiz olduğunu",
-      "Daha fazla avcının bulunduğunu",
-      "Daha az bitki türü olduğunu",
-      "Ekosistemin yok olma aşamasında olduğunu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ekosistemdeki biyolojik çeşitlilik, genellikle ekosistemin sağlıklı olduğunu ve ekosistem işlevlerinin sürdürülebilir olduğunu gösterir.",
-    "difficulty": 2
   },
   {
     "id": "ai_1764528551227_30",
@@ -80,292 +32,52 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524826326_15",
+    "id": "ai_1764528551226_16",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi ekosistemlerdeki biyotik ve abiyotik faktörlerin etkileşimini ifade eder?",
+    "questionText": "Hangi tür ekosistemler, en fazla tür çeşitliliğine sahiptir?",
     "options": [
-      "Ekosistem dengesi",
-      "Ekolojik niş",
-      "Ekosistem çeşitliliği",
-      "Ekosistem işlevselliği",
-      "Ekosistem dinamikleri"
+      "Çöl",
+      "Orman",
+      "Tundra",
+      "Savan",
+      "Okyanus"
     ],
-    "correctAnswer": 4,
-    "explanation": "Ekosistem dinamikleri, biyotik ve abiyotik faktörlerin etkileşimini tanımlayan bir terimdir. Diğerleri ise farklı kavramları ifade eder.",
+    "correctAnswer": 1,
+    "explanation": "Orman ekosistemleri, tropikal ormanlar gibi birçok türü barındırarak en fazla tür çeşitliliğine sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_24",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Biyoçeşitliliği artırmak için en etkili yöntem hangisidir?",
+    "options": [
+      "Koruma alanları oluşturmak",
+      "Sanayileşmeyi teşvik etmek",
+      "İklim değişikliğini görmezden gelmek",
+      "Kirliliği artırmak",
+      "Tek tip tarım uygulamaları"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Koruma alanları oluşturmak, biyoçeşitliliği artırmanın en etkili yollarından biridir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764528551227_23",
+    "id": "ai_1764580039766_0",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji kaynağı olarak suyun rolü nedir?",
+    "questionText": "Bir ekosistemde enerji akışını ve besin zincirlerini etkileyen en önemli faktörlerden biri hangisidir?",
     "options": [
-      "İkincil",
-      "Yardımcı",
-      "Ana",
-      "İkili",
-      "Destekleyici"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Su, organizmaların yaşayabilmesi için gerekli olan temel enerji kaynağıdır ve birçok biyokimyasal süreçte rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551227_25",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki iklim değişikliği, hangi etkiye yol açar?",
-    "options": [
-      "Biyom çeşitliliğini artırır",
-      "Yerli türlerin yok olmasına neden olur",
-      "Üretim artışına sebep olur",
-      "Su kaynaklarını artırır",
-      "Hava kalitesini iyileştirir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İklim değişikliği, yerli türlerin yok olmasına ve ekosistem dengesinin bozulmasına neden olabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551228_35",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki çürütücüler hangi işlevi üstlenir?",
-    "options": [
-      "Enerji üretirler",
-      "Ölü organizmaları ayrıştırırlar",
-      "Besin zincirinin başlangıcını oluştururlar",
-      "İkincil tüketicilerdir",
-      "İlk tüketicilerdir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Çürütücüler, ölü organizmaları ayrıştırarak besin döngüsünün devamını sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_16",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemin en kritik bileşenlerinden biri hangisidir?",
-    "options": [
-      "Hava",
-      "Su",
-      "Toprak",
-      "Işık",
-      "Tümünün kombinasyonu"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir ekosistemin sağlıklı işleyişi için hava, su, toprak ve ışık gibi tüm bileşenlerin bir arada bulunması gereklidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826327_19",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi bir ekosistem içerisinde yaşayan türlerin sayısını ifade eder?",
-    "options": [
-      "Nüfus",
-      "Biyoçeşitlilik",
-      "Ekosistem çeşitliliği",
-      "Niş",
-      "Popülasyon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Biyoçeşitlilik, bir ekosistemdeki farklı türlerin sayısını ifade eder. Nüfus terimi genellikle bir türün sayısını belirtir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764578828829_15",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Dönüşüm sürecinde, hangi canlılar organik maddeleri ayrıştırır?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Detritivorlar",
-      "Karnivorlar",
-      "Herbivorlar"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Detritivorlar, organik maddeleri ayrıştırarak besin döngüsüne katkıda bulunur ve ekosistem sağlığını destekler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522684385_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi faktör ekosistemlerin çeşitliliğini en çok etkiler?",
-    "options": [
-      "İklim",
-      "Toprak türü",
+      "Toprak kalitesi",
+      "Hava sıcaklığı",
       "Su kaynakları",
-      "Canlı türleri",
+      "Işık miktarı",
       "Biyolojik çeşitlilik"
     ],
-    "correctAnswer": 0,
-    "explanation": "İklim, sıcaklık, yağış, rüzgar gibi faktörleri içerir ve ekosistemlerin yapısını, işleyişini ve çeşitliliğini en fazla etkileyen faktördür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500161478_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde, yangın gibi bir bozulma sonrası canlıların alana yeniden yerleşmesi ve zamanla değişmesi sürecine 'ikincil süksesyon' denir. Bu süreçte alana ilk yerleşen öncü (pioneer) türler ile süksesyonun son aşamasında oluşan kararlı klimaks komünite türleri karşılaştırıldığında, öncü türlerin sahip olduğu adaptasyonlarla ilgili aşağıdakilerden hangisi genellikle yanlıştır?",
-    "options": [
-      "Hızlı büyüme ve kısa yaşam döngüsüne sahip olma",
-      "Yayılma ve yeni alanları kolonize etme yeteneklerinin yüksek olması",
-      "Sıcaklık ve nem gibi çevresel değişimlere karşı toleranslarının düşük olması",
-      "Genellikle r-stratejisti olarak bilinen üreme stratejisini benimseme",
-      "Toprak yapısı ve besin maddeleri açısından fakir koşullarda yaşayabilme"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İkincil süksesyonun başlangıcında ortam koşulları oldukça zorludur (örneğin, besin maddesi az, güneş ışığı doğrudan ve yoğun, sıcaklık dalgalanmaları fazla). Bu zorlu koşullara ilk yerleşen öncü türler, bu tür değişken ve elverişsiz koşullara karşı yüksek toleransa (hoşgörüye) sahip olmak zorundadır. Bu nedenle, öncü türlerin çevresel değişimlere karşı toleranslarının düşük olması ifadesi yanlıştır; tam tersine toleransları oldukça geniştir. Diğer şıklar öncü türlerin tipik özellikleridir: Hızlı büyürler ve kısa sürede ürerler (A ve D), tohumları rüzgar gibi etkenlerle kolayca yayılarak yeni alanları kolonize ederler (B) ve fakir topraklarda hayatta kalabilirler (E).",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524826325_6",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki kavramlardan hangisi ekosistemin dengesi için tehdit oluşturur?",
-    "options": [
-      "Biyoçeşitlilik",
-      "Zehirli atıklar",
-      "Doğal kaynakların korunması",
-      "Ekosistem restorasyonu",
-      "Sürdürülebilir tarım"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zehirli atıklar ekosistemin dengesini bozan önemli bir tehditken, diğer seçenekler dengeyi koruma ya da artırma yönünde katkılar sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522684385_10",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi durum ekosistemlerin biyolojik çeşitliliğini artırır?",
-    "options": [
-      "Monokültür tarımı",
-      "Kirlilik",
-      "Habitat kaybı",
-      "Doğal koruma alanları oluşturmak",
-      "İklim değişikliği"
-    ],
     "correctAnswer": 3,
-    "explanation": "Doğal koruma alanları oluşturmak, türlerin korunmasına yardımcı olur ve ekosistemlerin biyolojik çeşitliliğinin artmasına katkıda bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578828829_13",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin sürdürülebilirliği için en önemli faktör hangisidir?",
-    "options": [
-      "Biyoçeşitlilik",
-      "Tek tip tarım",
-      "Kirlilik",
-      "Doğal kaynakların aşırı kullanımı",
-      "İnsanın doğaya müdahalesi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Biyoçeşitlilik, ekosistemlerin dayanıklılığını artırarak sürdürülebilirlik için kritik bir faktördür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826327_25",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki kavramlardan hangisi ekosistemin bir parçası olan canlıları ifade eder?",
-    "options": [
-      "Abiyotik faktörler",
-      "Biyotik faktörler",
-      "Ekosistem hizmetleri",
-      "Trofik seviyeler",
-      "Niş"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Biyotik faktörler, bir ekosistem içindeki canlıları ifade ederken, abiyotik faktörler cansız unsurları belirtir.",
+    "explanation": "Işık miktarı, fotosentez yapan bitkilerin enerji üretmesi için gereklidir ve bu da ekosistemdeki enerji akışını doğrudan etkiler. Işık, besin zincirinin temelini oluşturan bitkilerin büyümesini sağlarken, diğer canlıların da bu bitkilerle beslenmesini mümkün kılar.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764524826327_22",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin dengesini bozan etmenlerden hangisi en yaygın olanıdır?",
-    "options": [
-      "İklim değişikliği",
-      "Doğal afetler",
-      "Kirlilik",
-      "Aşırı avlanma",
-      "Tarım uygulamaları"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kirlilik, ekosistemlerin dengesini bozan en yaygın etmenlerden biridir ve birçok ekosistemi olumsuz etkiler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524826327_17",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi ekosistemlerin biyolojik çeşitliliğini azaltan bir faktördür?",
-    "options": [
-      "Koruma projeleri",
-      "İnsani faaliyetler",
-      "Habitat kaybı",
-      "Kirlilik",
-      "İklim değişikliği"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İnsani faaliyetler, habitat kaybı ve kirlilik gibi etmenler biyoçeşitliliği azaltan faktörlerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524826325_8",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi ekosistem sağlığını gösteren bir ölçüttür?",
-    "options": [
-      "Biyoçeşitlilik indeksleri",
-      "Toprak pH'ı",
-      "Hava sıcaklığı",
-      "Su akışı",
-      "Yağış miktarı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Biyoçeşitlilik indeksleri, bir ekosistemin sağlığını ve dayanıklılığını gösteren önemli bir ölçüttür. Diğerleri ekosistem sağlığını dolaylı olarak etkileyebilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551228_33",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji akışında en önemli rolü oynayan faktör nedir?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Çürütücüler",
-      "İklim",
-      "Toprak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Enerji akışında en temel rolü üreticiler oynar. Onlar, güneş enerjisini kullanarak besin üretirler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551226_14",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki canlıların yaşam alanı olarak tanımlanan terim hangisidir?",
-    "options": [
-      "Popülasyon",
-      "Habitat",
-      "Biyom",
-      "Ekosistem",
-      "Toplum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Habitat, canlıların yaşam alanı olarak tanımlanır ve onların ihtiyaç duyduğu kaynakları içerir.",
-    "difficulty": 4
   },
   {
     "id": "ai_1764578828829_3",
@@ -384,67 +96,51 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764522684385_14",
+    "id": "ai_1764575795395_0",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Hangi faktör ekosistemlerin sağlığını doğrudan etkiler?",
+    "questionText": "Ekosistem nedir?",
     "options": [
-      "İnsan faaliyetleri",
-      "Hayvan sayısı",
-      "Toprak rengi",
-      "Hava sıcaklığı",
-      "Su kalitesi"
+      "Canlıların bir arada yaşadığı doğal ortamdır.",
+      "Sadece bitkilerin bulunduğu alandır.",
+      "Sadece hayvanların yaşadığı bir bölgedir.",
+      "İnsanların yaşadığı yerlerdir.",
+      "Sadece su altındaki yaşam alanıdır."
     ],
     "correctAnswer": 0,
-    "explanation": "İnsan faaliyetleri, ekosistemlerin sağlığını doğrudan etkileyen en önemli faktörlerden biridir; kirlilik, habitat kaybı ve iklim değişikliği gibi sorunlara yol açar.",
-    "difficulty": 3
+    "explanation": "Ekosistem, canlıların bir arada yaşadığı ve etkileşimde bulunduğu doğal ortamdır.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764500161478_1",
+    "id": "ai_1764524826326_14",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Karbon döngüsü, karbon elementinin atmosfer, okyanuslar, kara ve canlılar arasında sürekli bir döngü içinde olmasını ifade eder. İnsan faaliyetleri, bu doğal döngüye müdahale ederek atmosferdeki karbondioksit (CO2) miktarını artırmaktadır. Aşağıdakilerden hangisi, atmosferdeki CO2 miktarını azaltmaya yönelik bir uygulama örneğidir?",
+    "questionText": "Aşağıdakilerden hangisi bir ekosistemdeki enerji kaynağını temsil etmez?",
     "options": [
-      "Sanayi tesislerinde ve enerji üretiminde fosil yakıt kullanımının artırılması",
-      "Tarıma elverişli alanlar açmak için ormanların tahrip edilmesi",
-      "Sulak alanların kurutularak yerleşim alanlarına dönüştürülmesi",
-      "Endüstriyel tarım yerine organik tarım yöntemlerinin teşvik edilmesi",
-      "Geniş ölçekli ağaçlandırma ve erozyon kontrolü çalışmalarının yapılması"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Atmosferdeki karbondioksit (CO2) miktarını azaltmanın en etkili yollarından biri, fotosentez yoluyla CO2'yi kullanan bitki miktarını artırmaktır. Geniş ölçekli ağaçlandırma (ağaç dikme) ve erozyon kontrolü projeleri, bitki örtüsünü artırarak atmosferden daha fazla CO2 çekilmesini sağlar ve karbonu biyokütle olarak depolar. Bu nedenle bu faaliyetler atmosferdeki CO2'yi azaltmaya yöneliktir. Diğer şıklar ise atmosferdeki CO2 miktarını doğrudan veya dolaylı olarak artıran faaliyetlerdir. Fosil yakıt kullanımı (A) ve ormanların tahrip edilmesi (B) en büyük CO2 kaynaklarıdır. Sulak alanların kurutulması (C) depolanan karbonun açığa çıkmasına neden olabilir. Organik tarım (D) faydalı olsa da, CO2 azaltımındaki etkisi geniş ölçekli ağaçlandırma kadar doğrudan ve büyük değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498764161_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir su ekosisteminde, besin zincirinin basamakları arasında aktarılan enerji ve biyobirikim özelliğine sahip zehirli bir madde (örneğin cıva) miktarındaki değişim ile ilgili aşağıdaki grafiklerden hangisi doğru olabilir?",
-    "options": [
-      "Enerji artar, Zehirli madde miktarı artar",
-      "Enerji azalır, Zehirli madde miktarı azalır",
-      "Enerji artar, Zehirli madde miktarı azalır",
-      "Enerji azalır, Zehirli madde miktarı artar",
-      "Enerji değişmez, Zehirli madde miktarı artar"
+      "Güneş",
+      "Rüzgar",
+      "Su",
+      "Toprak",
+      "Bitkiler"
     ],
     "correctAnswer": 3,
-    "explanation": "Besin piramidinde üreticilerden son tüketicilere doğru gidildikçe her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedilir ve bir üst basamağa sadece %10'u aktarılır. Bu nedenle, yukarı doğru çıkıldıkça aktarılan enerji miktarı azalır. Biyobirikim ise, canlı vücudunda biriken ve atılamayan zehirli maddelerin besin zinciri yoluyla üst basamaklardaki canlılara aktarılması ve bu canlıların dokularındaki derişiminin artması olayıdır. Her canlı, alt trofik düzeyden çok sayıda bireyi tükettiği için, bu maddeler en üstteki tüketicinin vücudunda en yüksek konsantrasyona ulaşır. Dolayısıyla, besin piramidinde yukarı doğru çıkıldıkça aktarılan enerji azalırken, biyobirikim özelliğindeki zehirli madde miktarı (derişimi) artar.",
-    "difficulty": 3
+    "explanation": "Toprak doğrudan bir enerji kaynağı değildir, diğer seçenekler enerji akışının parçasıdır.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764528551228_32",
+    "id": "ai_1764528551228_36",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki tür çeşitliliğinin korunması için en önemli strateji hangisidir?",
+    "questionText": "Ekosistemlerde çeşitliliği artıran en önemli faktör nedir?",
     "options": [
-      "Koruma alanları oluşturmak",
-      "Kaynakları artırmak",
-      "İklim değişikliğini yok etmek",
-      "Tarım yapmamak",
-      "Tek tip ürün yetiştirmek"
+      "İklim",
+      "Toprak",
+      "Su",
+      "Enerji",
+      "Hepsi"
     ],
-    "correctAnswer": 0,
-    "explanation": "Koruma alanları oluşturmak, tür çeşitliliğinin korunması için etkili bir stratejidir.",
+    "correctAnswer": 4,
+    "explanation": "İklim, toprak, su ve enerji gibi tüm faktörler, ekosistemlerde çeşitliliği artıran unsurlardır.",
     "difficulty": 4
   },
   {
@@ -464,84 +160,20 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764524826327_18",
+    "id": "ai_1764578828829_2",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki döngüsel süreçler arasında hangisi yer almaz?",
+    "questionText": "Hangi faktör ekosistem dengesini en çok etkiler?",
     "options": [
-      "Su döngüsü",
-      "Karbon döngüsü",
-      "Azot döngüsü",
-      "Enerji döngüsü",
-      "Besin döngüsü"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Enerji döngüsü, bir döngüsel süreç olarak tanımlanmaz. Diğerleri doğal döngülerdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576932247_6",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde türler arası etkileşimlerden hangisi olumlu bir ilişkiyi ifade eder?",
-    "options": [
-      "Parazitlik",
-      "Rekabet",
-      "Simbiyoz",
-      "Predatörlük",
-      "Ayrıştırma"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Simbiyoz, iki farklı türün birbirine karşılıklı olarak fayda sağladığı bir ilişkiyi ifade eder. Bu tür etkileşimler genellikle olumlu sonuçlar doğurur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764528551226_21",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki su döngüsünün en önemli aşaması hangisidir?",
-    "options": [
-      "Buharlaşma",
-      "Yoğunlaşma",
-      "Yağış",
-      "Süzülme",
-      "Dolaşım"
+      "İklim değişikliği",
+      "Toprak türü",
+      "Hayvan türleri",
+      "Su kaynakları",
+      "Bitki çeşitliliği"
     ],
     "correctAnswer": 0,
-    "explanation": "Su döngüsünün en önemli aşaması buharlaşmadır; bu süreçle su, havaya karışır.",
+    "explanation": "İklim değişikliği, sıcaklık, yağış miktarı ve doğal afetler gibi unsurları etkileyerek ekosistem dengesini önemli ölçüde değiştirebilir.",
     "difficulty": 4
-  },
-  {
-    "id": "ai_1764575795395_7",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde çeşitliliği artıran faktörlerden biri nedir?",
-    "options": [
-      "İklim",
-      "Aynı türlerin sayısı",
-      "Kirlenme",
-      "Aşırı avlanma",
-      "Tek tip bitki örtüsü"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İklim, bitki ve hayvan türlerinin çeşitliliğini etkileyen önemli bir faktördür.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764524826327_30",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi ekosistemdeki enerji akışının yönünü gösterir?",
-    "options": [
-      "Trofik düzey",
-      "Enerji kaynağı",
-      "Enerji transferi",
-      "Ekosistem yapısı",
-      "Ekosistem dengesi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Enerji transferi, ekosistemdeki enerji akışının yönünü gösterir. Diğer terimler enerji akışını dolaylı olarak etkileyebilir.",
-    "difficulty": 5
   },
   {
     "id": "ai_1764528551227_28",
@@ -560,19 +192,515 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764578828829_19",
+    "id": "ai_1764528551225_7",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Hangi terim, bir canlı türünün ekosistemdeki rolünü ifade eder?",
+    "questionText": "Ekosistemlerde besin zincirinin temelini oluşturan canlılar hangileridir?",
     "options": [
-      "Niş",
-      "Popülasyon",
-      "Habitat",
-      "Biom",
-      "Simbiyoz"
+      "Tüketiciler",
+      "Üreticiler",
+      "Çürütücüler",
+      "Parazitler",
+      "Düşmanlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Besin zincirinin temelini üreticiler oluşturur, çünkü enerji üretimi onlardan başlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828829_12",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi faktör, ekosistemlerdeki tür çeşitliliğini artırır?",
+    "options": [
+      "İklim çeşitliliği",
+      "Monokültür tarımı",
+      "Kirlilik",
+      "Küresel ısınma",
+      "Aşırı avlanma"
     ],
     "correctAnswer": 0,
-    "explanation": "Niş, bir türün ekosistem içindeki işlevini, beslenme tarzını ve etkileşimlerini tanımlar.",
+    "explanation": "İklim çeşitliliği, farklı habitatların ve yaşam alanlarının oluşmasına neden olarak tür çeşitliliğini artırır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551228_32",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki tür çeşitliliğinin korunması için en önemli strateji hangisidir?",
+    "options": [
+      "Koruma alanları oluşturmak",
+      "Kaynakları artırmak",
+      "İklim değişikliğini yok etmek",
+      "Tarım yapmamak",
+      "Tek tip ürün yetiştirmek"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Koruma alanları oluşturmak, tür çeşitliliğinin korunması için etkili bir stratejidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575795395_8",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemin sağlığını belirleyen en önemli faktör nedir?",
+    "options": [
+      "Canlı çeşitliliği",
+      "Toprak kalitesi",
+      "Su kalitesi",
+      "İklim değişikliği",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir ekosistemin sağlığını etkileyen birçok faktör vardır; canlı çeşitliliği, toprak ve su kalitesi gibi unsurlar hepsi bir arada önemlidir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528551228_34",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde canlıların birbirleriyle olan ilişkilerini en iyi açıklayan kavram hangisidir?",
+    "options": [
+      "İlişki",
+      "Bağımlılık",
+      "Ekolojik denge",
+      "Besin zinciri",
+      "Çeşitlilik"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Besin zinciri, canlıların birbirleriyle olan ilişkilerini ve enerji akışını en iyi açıklayan kavramdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_4",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde besin zinciri neyi ifade eder?",
+    "options": [
+      "Canlıların yaşadığı alan",
+      "Besinlerin depolandığı yer",
+      "Enerji akışını ve besin ilişkilerini gösteren şemadır",
+      "Canlıların üreme şekilleri",
+      "İklim değişikliklerini"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Besin zinciri, ekosistemdeki canlılar arasındaki enerji akışını ve besin ilişkilerini gösteren bir şemadır. Her bir canlı, bir öncekinden enerji alır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575795395_7",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde çeşitliliği artıran faktörlerden biri nedir?",
+    "options": [
+      "İklim",
+      "Aynı türlerin sayısı",
+      "Kirlenme",
+      "Aşırı avlanma",
+      "Tek tip bitki örtüsü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İklim, bitki ve hayvan türlerinin çeşitliliğini etkileyen önemli bir faktördür.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764578828829_18",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin bozulmasına neden olan en yaygın insan faaliyetleri hangileridir?",
+    "options": [
+      "Sanayileşme",
+      "Ağaç dikimi",
+      "Organik tarım",
+      "Doğal alanların korunması",
+      "Sıfır atık uygulamaları"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sanayileşme, doğal kaynakların aşırı kullanımı ve kirlilik gibi sorunlara yol açarak ekosistemlerin bozulmasına neden olur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551225_4",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi organizmalar ekosistemlerde enerji üreticisi olarak görev yapar?",
+    "options": [
+      "Tüketiciler",
+      "Çürütücüler",
+      "Üreticiler",
+      "Avcılar",
+      "Parazitler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Üreticiler, fotosentez yaparak güneş enerjisini kimyasal enerjiye dönüştüren organizmalardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_7",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi canlı grubu ekosistemlerde en yüksek enerji dönüşüm verimliliğine sahiptir?",
+    "options": [
+      "Tüketiciler",
+      "Üreticiler",
+      "Detritivorlar",
+      "Heterotroflar",
+      "Omnivorlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Üreticiler, fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürerek ekosistemlerde en yüksek enerji dönüşüm verimliliğine sahiptir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826325_10",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin sürdürülebilirliği için hangi faktör en önemlisidir?",
+    "options": [
+      "Yerli türlerin korunması",
+      "Dış türlerin tanıtılması",
+      "Tarım arazilerinin genişletilmesi",
+      "Kentleşmenin artırılması",
+      "Sanayileşmenin hızlandırılması"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yerli türlerin korunması, ekosistemlerin sürdürülebilirliği açısından en kritik faktördür. Diğer seçenekler genellikle ekosistemleri tehdit eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576932247_4",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki çeşitliliğin artması genellikle hangi durumu gösterir?",
+    "options": [
+      "Ekosistemin sağlıklı olduğunu",
+      "Ekosistemin dengesiz olduğunu",
+      "Daha fazla avcının bulunduğunu",
+      "Daha az bitki türü olduğunu",
+      "Ekosistemin yok olma aşamasında olduğunu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ekosistemdeki biyolojik çeşitlilik, genellikle ekosistemin sağlıklı olduğunu ve ekosistem işlevlerinin sürdürülebilir olduğunu gösterir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764528551227_25",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki iklim değişikliği, hangi etkiye yol açar?",
+    "options": [
+      "Biyom çeşitliliğini artırır",
+      "Yerli türlerin yok olmasına neden olur",
+      "Üretim artışına sebep olur",
+      "Su kaynaklarını artırır",
+      "Hava kalitesini iyileştirir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İklim değişikliği, yerli türlerin yok olmasına ve ekosistem dengesinin bozulmasına neden olabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551226_22",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi terim, bir ekosistemdeki canlıların birbirleriyle olan ilişkilerini ifade eder?",
+    "options": [
+      "Popülasyon",
+      "Ekoloji",
+      "Toplum",
+      "Biyom",
+      "Habitat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ekoloji, canlıların birbirleriyle olan ilişkilerini ve bu ilişkilerin nasıl işlediğini inceleyen bilim dalıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828829_10",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki besin ağları hangi kavramı ifade eder?",
+    "options": [
+      "Canlıların etkileşimleri",
+      "Enerji akışı",
+      "Sadece bitkilerin beslenme şekli",
+      "Sadece hayvanların davranışları",
+      "Sadece mikroorganizmaların rolü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Besin ağları, ekosistemdeki farklı canlı türleri arasındaki enerji akışını ve etkileşimleri gösterir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_28",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki türlerin adaptasyon yeteneği neyi ifade eder?",
+    "options": [
+      "Dış faktörlere karşı dayanıklılık",
+      "Farklı habitatlara yayılım",
+      "Üreme yeteneği",
+      "Yenilenme süreci",
+      "Enerji tasarrufu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dış faktörlere karşı dayanıklılık, türlerin adaptasyon yeteneğini tanımlar. Bu, çevresel değişikliklere uyum sağlama becerisidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828829_21",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi ekosistem, en zengin bitki çeşitliliğine sahiptir?",
+    "options": [
+      "Tundra",
+      "Çöl",
+      "Yağmur ormanı",
+      "Savan",
+      "Orman"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yağmur ormanları, sıcak ve nemli iklimleri sayesinde en zengin bitki çeşitliliğine sahip ekosistemlerdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520335971_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi bir ekosistemin bileşenlerinden biri değildir?",
+    "options": [
+      "Canlılar",
+      "Cansızlar",
+      "Enerji",
+      "İklim",
+      "Süreklilik"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistemler, canlılar, cansızlar ve enerji gibi bileşenlerden oluşur. İklim de ekosistemin önemli bir parçasıdır. Ancak 'süreklilik' bir bileşen değil, ekosistemin işleyişini etkileyen bir kavramdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826327_19",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki terimlerden hangisi bir ekosistem içerisinde yaşayan türlerin sayısını ifade eder?",
+    "options": [
+      "Nüfus",
+      "Biyoçeşitlilik",
+      "Ekosistem çeşitliliği",
+      "Niş",
+      "Popülasyon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Biyoçeşitlilik, bir ekosistemdeki farklı türlerin sayısını ifade eder. Nüfus terimi genellikle bir türün sayısını belirtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524826325_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi bir ekosistem içinde bulunan besin zincirinin en üstünde yer alır?",
+    "options": [
+      "Bitkiler",
+      "Tüketiciler",
+      "Üreticiler",
+      "Omnivorlar",
+      "Düşük düzey tüketiciler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Besin zincirinin en üstünde yer alan organizmalar genellikle avcılar ya da büyük etçilerdir, dolayısıyla tüketiciler en üstte bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828829_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin en büyük biyoçeşitliliğe sahip olanları hangileridir?",
+    "options": [
+      "Çöl ekosistemleri",
+      "Okyanus ekosistemleri",
+      "Tundra ekosistemleri",
+      "Orman ekosistemleri",
+      "Savan ekosistemleri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Orman ekosistemleri, biyoçeşitlilik açısından en zengin olan ekosistemlerdir, birçok bitki ve hayvan türüne ev sahipliği yapar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575795395_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi ekosistemin bir parçası değildir?",
+    "options": [
+      "Toprak",
+      "Hava",
+      "Su",
+      "Kaya",
+      "Hayvanlar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kaya, ekosistemin bileşenleri arasında yer almaz; toprak, hava, su ve hayvanlar ekosistemin parçalarıdır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764524826325_3",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi ekosistem çeşitliliğini artıran bir faktördür?",
+    "options": [
+      "Aşırı avlanma",
+      "Kirlilik",
+      "İklim değişikliği",
+      "Doğal afetler",
+      "Farklı habitatların varlığı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Farklı habitatların varlığı, ekosistem çeşitliliğini artıran en önemli faktörlerden biridir. Diğer seçenekler genellikle çeşitliliği azaltır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828829_22",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi durum ekosistemler için ciddi bir tehdit oluşturur?",
+    "options": [
+      "Biyoçeşitliliğin korunması",
+      "Kirlilik",
+      "Sürdürülebilir tarım",
+      "Yenilenebilir enerji kullanımı",
+      "Doğal kaynakların yönetimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kirlilik, ekosistemlerin sağlığını ciddi şekilde tehdit eden bir durumdur ve birçok canlı türünün yaşamını olumsuz etkiler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826325_13",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem hizmetleri arasında hangisi temel gıda kaynağıdır?",
+    "options": [
+      "Su döngüsü",
+      "Hava temizleme",
+      "Gıda üretimi",
+      "Karbon depolama",
+      "Duyusal deneyimler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gıda üretimi, ekosistemlerin sağladığı temel hizmetlerden biridir. Diğerleri de önemli hizmetlerdir ancak doğrudan gıda ile ilgili değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524826325_6",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki kavramlardan hangisi ekosistemin dengesi için tehdit oluşturur?",
+    "options": [
+      "Biyoçeşitlilik",
+      "Zehirli atıklar",
+      "Doğal kaynakların korunması",
+      "Ekosistem restorasyonu",
+      "Sürdürülebilir tarım"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zehirli atıklar ekosistemin dengesini bozan önemli bir tehditken, diğer seçenekler dengeyi koruma ya da artırma yönünde katkılar sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520335971_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki seçeneklerden hangisi bir ekosistemde enerji akışını en iyi şekilde temsil eder?",
+    "options": [
+      "Üreticiler -> Tüketiciler -> Ayrıştırıcılar",
+      "Tüketiciler -> Üreticiler -> Ayrıştırıcılar",
+      "Ayrıştırıcılar -> Üreticiler -> Tüketiciler",
+      "Tüketiciler -> Ayrıştırıcılar -> Üreticiler",
+      "Üreticiler -> Ayrıştırıcılar -> Tüketiciler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ekosistemlerde enerji akışı, üreticilerden (bitkiler) başlayarak tüketicilere (hayvanlar) ve sonunda ayrıştırıcılara (bakteri ve mantarlar) doğru ilerler. Bu süreç, enerji dönüşümünü ve madde döngüsünü sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826325_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistem içinde enerjinin en önemli kaynağı nedir?",
+    "options": [
+      "Toprak",
+      "Su",
+      "Güneş",
+      "Hava",
+      "Bitkiler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır. Bitkiler fotosentez yoluyla güneş enerjisini kullanarak besin üretirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828830_25",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde canlıların doğal düşmanı olarak hangi grup öne çıkar?",
+    "options": [
+      "Avcılar",
+      "Avlar",
+      "Üreticiler",
+      "Tüketiciler",
+      "Detritivorlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Avcılar, ekosistemlerde diğer canlıların doğal düşmanlarıdır ve türlerin popülasyon dengeleme işlevini yerine getirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551225_11",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi organizmalar, ekosistemlerdeki ölü organik maddeleri ayrıştırarak besin döngüsünü sağlar?",
+    "options": [
+      "Üreticiler",
+      "Tüketiciler",
+      "Çürütücüler",
+      "Avcılar",
+      "Parazitler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çürütücüler, ölü organizmaları ayrıştırarak besin döngüsünün devamını sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828830_26",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin sağlıklı işleyişinin en önemli göstergesi nedir?",
+    "options": [
+      "Biyoçeşitlilik",
+      "Hava kalitesi",
+      "Su kalitesi",
+      "Toprak verimliliği",
+      "Tümünün kombinasyonu"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistemlerin sağlıklı işleyişi, biyoçeşitliliğin yanı sıra hava, su ve toprak kalitesinin de iyi olmasına bağlıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551225_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji akışı hangi yönde gerçekleşir?",
+    "options": [
+      "Aşağıdan yukarıya",
+      "Yukarıdan aşağıya",
+      "Dairesel",
+      "İkili",
+      "Çift yönlü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ekosistemlerde enerji akışı, güneşten başlayan ve besin zinciri boyunca yukarıya doğru ilerleyen bir süreçtir.",
     "difficulty": 4
   },
   {
@@ -592,436 +720,20 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764522684385_11",
+    "id": "ai_1764524826327_25",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Hangi işlem ekosistemlerde geri dönüşü olmayan zararlara yol açabilir?",
+    "questionText": "Aşağıdaki kavramlardan hangisi ekosistemin bir parçası olan canlıları ifade eder?",
     "options": [
-      "Doğal kaynakların sürdürülebilir kullanımı",
-      "Kirlilik",
-      "Yenilenebilir enerji kullanımı",
-      "Toprak işleme",
-      "Bitki örtüsü ile ilgili çalışmalar"
+      "Abiyotik faktörler",
+      "Biyotik faktörler",
+      "Ekosistem hizmetleri",
+      "Trofik seviyeler",
+      "Niş"
     ],
     "correctAnswer": 1,
-    "explanation": "Kirlilik, su, hava ve toprak kaynaklarını kirleterek ekosistemlerde geri dönüşü olmayan zararlara yol açabilir ve türlerin yok olmasına neden olabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764576932247_8",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde enerji kaynağı olarak en önemli olan nedir?",
-    "options": [
-      "Toprak",
-      "Güneş",
-      "Su",
-      "Hava",
-      "Ayrıştırıcılar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır. Üreticiler, güneş ışığını kullanarak fotosentez yapar ve enerji üretir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764522684385_7",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi canlı grubu ekosistemlerde en yüksek enerji dönüşüm verimliliğine sahiptir?",
-    "options": [
-      "Tüketiciler",
-      "Üreticiler",
-      "Detritivorlar",
-      "Heterotroflar",
-      "Omnivorlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Üreticiler, fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürerek ekosistemlerde en yüksek enerji dönüşüm verimliliğine sahiptir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578828829_5",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin en büyük biyoçeşitliliğe sahip olanları hangileridir?",
-    "options": [
-      "Çöl ekosistemleri",
-      "Okyanus ekosistemleri",
-      "Tundra ekosistemleri",
-      "Orman ekosistemleri",
-      "Savan ekosistemleri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Orman ekosistemleri, biyoçeşitlilik açısından en zengin olan ekosistemlerdir, birçok bitki ve hayvan türüne ev sahipliği yapar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551226_20",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki canlıların bir araya gelmesiyle oluşan yapıya ne denir?",
-    "options": [
-      "Biyom",
-      "Habitat",
-      "Popülasyon",
-      "Toplum",
-      "Ekosistem"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Farklı türlerin bir araya gelmesiyle oluşan yapıya toplum denir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575795395_6",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi ekosistemdeki döngüleri ifade eder?",
-    "options": [
-      "Enerji döngüsü",
-      "Su döngüsü",
-      "Karbon döngüsü",
-      "Azot döngüsü",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Enerji, su, karbon ve azot döngüleri ekosistemde önemli döngülerdir, bu nedenle hepsi doğrudur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764576932247_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji akışı nasıl gerçekleşir?",
-    "options": [
-      "Sadece üreticiler tarafından",
-      "Sadece tüketiciler tarafından",
-      "Üreticilerden tüketicilere",
-      "Sadece ayrıştırıcılar tarafından",
-      "Enerji akışı gerçekleşmez"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ekosistemlerde enerji akışı, üreticilerin fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürmesi ile başlar. Bu enerji daha sonra tüketicilere aktarılır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764528551227_31",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemdeki besin zincirinin en üst seviyesinde hangi organizmalar bulunur?",
-    "options": [
-      "Avcılar",
-      "Tüketiciler",
-      "Üreticiler",
-      "Çürütücüler",
-      "Mikroorganizmalar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Besin zincirinin en üst düzeyinde avcılar yer alır, çünkü diğer türleri tüketerek beslenirler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_20",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi tür, ekosistemdeki dengeyi sağlamak için kritik öneme sahiptir?",
-    "options": [
-      "Üreticiler",
-      "Herbivorlar",
-      "Karnivorlar",
-      "Detritivorlar",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Üreticiler, herbivorlar, karnivorlar ve detritivorlar, ekosistemdeki enerji akışını ve dengenin sağlanmasını sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826326_16",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki enerji kaynağının en önemli özelliği nedir?",
-    "options": [
-      "Sınırlı olması",
-      "Yenilenebilir olması",
-      "Dönüşebilir olması",
-      "Eşit dağılımı",
-      "Hızlı tüketimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Enerji kaynağının yenilenebilir olması, ekosistemlerin sürdürülebilirliği açısından kritik bir özelliktir.",
+    "explanation": "Biyotik faktörler, bir ekosistem içindeki canlıları ifade ederken, abiyotik faktörler cansız unsurları belirtir.",
     "difficulty": 5
-  },
-  {
-    "id": "ai_1764524826327_23",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki türlerin birbirleriyle olan ilişkilerini inceleyen bilim dalına ne denir?",
-    "options": [
-      "Ekoloji",
-      "Biyoloji",
-      "Zooloji",
-      "Botanik",
-      "Paleontoloji"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ekoloji, türler arasındaki etkileşimleri ve çevre ile olan ilişkilerini inceleyen bilim dalıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551225_4",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi organizmalar ekosistemlerde enerji üreticisi olarak görev yapar?",
-    "options": [
-      "Tüketiciler",
-      "Çürütücüler",
-      "Üreticiler",
-      "Avcılar",
-      "Parazitler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Üreticiler, fotosentez yaparak güneş enerjisini kimyasal enerjiye dönüştüren organizmalardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_12",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem içerisinde yer alan trofik seviyeleri arasında hangisi üreticileri temsil eder?",
-    "options": [
-      "Birinci trofik seviye",
-      "İkinci trofik seviye",
-      "Üçüncü trofik seviye",
-      "Dördüncü trofik seviye",
-      "Trofik seviyeleri yoktur"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Birinci trofik seviye, üreticileri temsil eder. Diğer seviyeler ise tüketicileri ifade eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522684385_5",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem dengesizliği hangi durumdan kaynaklanabilir?",
-    "options": [
-      "İklim değişikliği",
-      "Biyolojik çeşitlilik",
-      "Doğal seleksiyon",
-      "Tüketim alışkanlıkları",
-      "Toprak verimliliği"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İklim değişikliği, ekosistem dengelerini bozabilir, türlerin yaşam alanlarını değiştirebilir ve besin zincirlerinde aksaklıklara neden olabilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551225_7",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde besin zincirinin temelini oluşturan canlılar hangileridir?",
-    "options": [
-      "Tüketiciler",
-      "Üreticiler",
-      "Çürütücüler",
-      "Parazitler",
-      "Düşmanlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Besin zincirinin temelini üreticiler oluşturur, çünkü enerji üretimi onlardan başlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551225_3",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi faktör ekosistemlerin tür çeşitliliğini en çok etkiler?",
-    "options": [
-      "İklim",
-      "Toprak yapısı",
-      "Su kaynakları",
-      "Hayvan türleri",
-      "Bitki türleri"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İklim, ekosistemlerin biotik ve abiyotik unsurlarını etkileyerek tür çeşitliliğini belirleyen en önemli faktördür.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576932247_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistem içinde besin zinciri nedir?",
-    "options": [
-      "Sadece bitkilerin büyüme süreci",
-      "Enerjinin üreticiden tüketime aktarılma yolu",
-      "Sadece hayvanlar arasındaki ilişki",
-      "Sadece ayrıştırıcıların rolü",
-      "Hava ve su döngüsü"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Besin zinciri, ekosistem içindeki enerji akışını gösteren bir dizi organizmanın birbirine nasıl bağlı olduğunu açıklar. Üreticiler enerjiyi güneşten alır ve bunu tüketicilere aktarır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764524826325_13",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem hizmetleri arasında hangisi temel gıda kaynağıdır?",
-    "options": [
-      "Su döngüsü",
-      "Hava temizleme",
-      "Gıda üretimi",
-      "Karbon depolama",
-      "Duyusal deneyimler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Gıda üretimi, ekosistemlerin sağladığı temel hizmetlerden biridir. Diğerleri de önemli hizmetlerdir ancak doğrudan gıda ile ilgili değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764578828829_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde enerji akışı nasıl gerçekleşir?",
-    "options": [
-      "Enerji kaynağı bitkilerden başlar",
-      "Enerji kaynağı hayvanlardan başlar",
-      "Enerji kaynağı mikroorganizmalar arasındadır",
-      "Enerji kaynağı cansız varlıklardır",
-      "Enerji kaynağı sadece insanlar tarafından sağlanır"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir ekosistemde enerji akışı, güneş enerjisi ile başlar ve bitkiler tarafından fotosentez yoluyla depolanır. Daha sonra bu enerji, bitkileri yiyen hayvanlara geçer.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826327_21",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi ekosistemlerin işlevselliğini artıran bir faktördür?",
-    "options": [
-      "Tek tip ekosistem",
-      "Genel tür kaybı",
-      "Biyoçeşitlilik",
-      "Kirlilik",
-      "Sanayileşme"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Biyoçeşitlilik, ekosistemlerin işlevselliğini artıran önemli bir faktördür. Diğerleri genellikle işlevselliği azaltır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551225_12",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde en fazla enerji kaybı hangi aşamada görülür?",
-    "options": [
-      "Üretim",
-      "Tüketim",
-      "Ayrıştırma",
-      "Dönüşüm",
-      "Dönüşüm sonrası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Enerji, her tüketim aşamasında kaybedilir ve bu kayıp genellikle %90'a kadar çıkabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_6",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi terim, ekosistemdeki canlıların ve cansızların birbirleri ile olan etkileşimlerini ifade eder?",
-    "options": [
-      "Etkileşim",
-      "Simbiyoz",
-      "Ekosistem dinamikleri",
-      "Biyoçeşitlilik",
-      "Habitat"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ekosistem dinamikleri, canlılar ve cansızlar arasındaki etkileşimleri ve bu etkileşimlerin ekosistem üzerindeki etkilerini tanımlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826327_26",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki besin zincirinin başlangıcı hangisidir?",
-    "options": [
-      "Üreticiler",
-      "Birinci tüketiciler",
-      "İkinci tüketiciler",
-      "Dördüncü tüketiciler",
-      "Decomposerlar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Besin zincirinin başlangıcını üreticiler oluşturur, çünkü onlar enerji kaynağı olarak güneş enerjisini kullanarak besin üretirler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522684384_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem nedir?",
-    "options": [
-      "Sadece bitkilerin yaşadığı alan",
-      "Canlılar ile cansızlar arasındaki etkileşim alanı",
-      "Sadece hayvanların yaşadığı alan",
-      "Sadece su altı yaşamı",
-      "Sadece ormanlık alanlar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ekosistem, canlılar (bitkiler, hayvanlar, mikroorganizmalar) ve cansız faktörler (toprak, su, hava) arasındaki etkileşimlerin oluşturduğu sistemdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578828830_24",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi tür, ekosistemlerde enerji akışının en üst seviyesinde yer alır?",
-    "options": [
-      "Üreticiler",
-      "Herbivorlar",
-      "Karnivorlar",
-      "Detritivorlar",
-      "Mikroorganizmalar"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Karnivorlar, ekosistemde enerji akışının en üst seviyesinde yer alır ve herbivorları tüketerek enerji transferini gerçekleştirir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551228_36",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde çeşitliliği artıran en önemli faktör nedir?",
-    "options": [
-      "İklim",
-      "Toprak",
-      "Su",
-      "Enerji",
-      "Hepsi"
-    ],
-    "correctAnswer": 4,
-    "explanation": "İklim, toprak, su ve enerji gibi tüm faktörler, ekosistemlerde çeşitliliği artıran unsurlardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi faktör ekosistem dengesini en çok etkiler?",
-    "options": [
-      "İklim değişikliği",
-      "Toprak türü",
-      "Hayvan türleri",
-      "Su kaynakları",
-      "Bitki çeşitliliği"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İklim değişikliği, sıcaklık, yağış miktarı ve doğal afetler gibi unsurları etkileyerek ekosistem dengesini önemli ölçüde değiştirebilir.",
-    "difficulty": 4
   },
   {
     "id": "ai_1764500161478_0",
@@ -1040,20 +752,468 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519373123_0",
+    "id": "ai_1764524826326_15",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde enerji akışı hangi aşamada başlar?",
+    "questionText": "Aşağıdaki terimlerden hangisi ekosistemlerdeki biyotik ve abiyotik faktörlerin etkileşimini ifade eder?",
     "options": [
-      "Tüketiciler",
+      "Ekosistem dengesi",
+      "Ekolojik niş",
+      "Ekosistem çeşitliliği",
+      "Ekosistem işlevselliği",
+      "Ekosistem dinamikleri"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistem dinamikleri, biyotik ve abiyotik faktörlerin etkileşimini tanımlayan bir terimdir. Diğerleri ise farklı kavramları ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528551226_19",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi organizma grubu, ekosistemlerdeki enerji akışını en çok etkiler?",
+    "options": [
       "Üreticiler",
-      "Çürükçüler",
-      "Avcılar",
-      "Parazitler"
+      "Tüketiciler",
+      "Çürütücüler",
+      "Hepsi",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Üreticiler, tüketiciler ve çürütücüler, enerji akışını birbirleriyle etkileşerek yönlendirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551225_10",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji kaynağı olarak en fazla hangi madde kullanılır?",
+    "options": [
+      "Karbon dioksit",
+      "Su",
+      "Oksijen",
+      "Güneş ışığı",
+      "Toprak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Güneş ışığı, ekosistemlerde enerji kaynağı olarak en temel maddedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_18",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki döngüsel süreçler arasında hangisi yer almaz?",
+    "options": [
+      "Su döngüsü",
+      "Karbon döngüsü",
+      "Azot döngüsü",
+      "Enerji döngüsü",
+      "Besin döngüsü"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Enerji döngüsü, bir döngüsel süreç olarak tanımlanmaz. Diğerleri doğal döngülerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522684385_11",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi işlem ekosistemlerde geri dönüşü olmayan zararlara yol açabilir?",
+    "options": [
+      "Doğal kaynakların sürdürülebilir kullanımı",
+      "Kirlilik",
+      "Yenilenebilir enerji kullanımı",
+      "Toprak işleme",
+      "Bitki örtüsü ile ilgili çalışmalar"
     ],
     "correctAnswer": 1,
-    "explanation": "Bir ekosistemde enerji akışı, üreticilerin fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürmesi ile başlar. Üreticiler, ekosistemlerin temel enerji kaynağıdır.",
+    "explanation": "Kirlilik, su, hava ve toprak kaynaklarını kirleterek ekosistemlerde geri dönüşü olmayan zararlara yol açabilir ve türlerin yok olmasına neden olabilir.",
     "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826326_16",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki enerji kaynağının en önemli özelliği nedir?",
+    "options": [
+      "Sınırlı olması",
+      "Yenilenebilir olması",
+      "Dönüşebilir olması",
+      "Eşit dağılımı",
+      "Hızlı tüketimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enerji kaynağının yenilenebilir olması, ekosistemlerin sürdürülebilirliği açısından kritik bir özelliktir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522684385_14",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi faktör ekosistemlerin sağlığını doğrudan etkiler?",
+    "options": [
+      "İnsan faaliyetleri",
+      "Hayvan sayısı",
+      "Toprak rengi",
+      "Hava sıcaklığı",
+      "Su kalitesi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İnsan faaliyetleri, ekosistemlerin sağlığını doğrudan etkileyen en önemli faktörlerden biridir; kirlilik, habitat kaybı ve iklim değişikliği gibi sorunlara yol açar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826327_21",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki terimlerden hangisi ekosistemlerin işlevselliğini artıran bir faktördür?",
+    "options": [
+      "Tek tip ekosistem",
+      "Genel tür kaybı",
+      "Biyoçeşitlilik",
+      "Kirlilik",
+      "Sanayileşme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biyoçeşitlilik, ekosistemlerin işlevselliğini artıran önemli bir faktördür. Diğerleri genellikle işlevselliği azaltır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576932247_7",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde organik madde döngüsünün önemi nedir?",
+    "options": [
+      "Su döngüsünü etkilemez",
+      "Enerjiyi depolamak için gereklidir",
+      "Besin zincirinin devamlılığı için gereklidir",
+      "Sadece bitki büyümesi için gereklidir",
+      "Hiçbir önemi yoktur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Organik madde döngüsü, besin zincirinin devamlılığı için gereklidir, çünkü ayrıştırıcılar ölü organizmaları parçalayarak besin maddelerini tekrar ekosisteme kazandırır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764578828829_23",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde türler arası etkileşimlerin en az olduğu durum hangisidir?",
+    "options": [
+      "Simbiyoz",
+      "Parazitizm",
+      "Komensalizm",
+      "Rekabet",
+      "Mutualizm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Komensalizm, bir türün diğerinden fayda sağlarken diğerinin zarar görmediği bir etkileşim türüdür; bu nedenle etkileşim en azdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576932247_6",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde türler arası etkileşimlerden hangisi olumlu bir ilişkiyi ifade eder?",
+    "options": [
+      "Parazitlik",
+      "Rekabet",
+      "Simbiyoz",
+      "Predatörlük",
+      "Ayrıştırma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Simbiyoz, iki farklı türün birbirine karşılıklı olarak fayda sağladığı bir ilişkiyi ifade eder. Bu tür etkileşimler genellikle olumlu sonuçlar doğurur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764524826327_27",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem yönetimi için önemli bir strateji nedir?",
+    "options": [
+      "Sürdürülebilirlik ilkeleri",
+      "Kirliliği artırmak",
+      "Doğal kaynakları tüketmek",
+      "Hızlı sanayileşme",
+      "Biyoçeşitliliği azaltmak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sürdürülebilirlik ilkeleri, ekosistem yönetimi için önemli bir stratejidir ve doğal kaynakların korunmasını sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576932247_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji akışı nasıl gerçekleşir?",
+    "options": [
+      "Sadece üreticiler tarafından",
+      "Sadece tüketiciler tarafından",
+      "Üreticilerden tüketicilere",
+      "Sadece ayrıştırıcılar tarafından",
+      "Enerji akışı gerçekleşmez"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ekosistemlerde enerji akışı, üreticilerin fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürmesi ile başlar. Bu enerji daha sonra tüketicilere aktarılır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764528551225_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistem içinde yer alan en büyük biyom hangisidir?",
+    "options": [
+      "Çöl",
+      "Orman",
+      "Okyanus",
+      "Tundra",
+      "Savan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Okyanuslar, yeryüzündeki en büyük biyomdur ve ekosistemlerin büyük bir kısmını kapsar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_3",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Fotosentez sürecinde hangi gaz tüketilir?",
+    "options": [
+      "Karbon dioksit",
+      "Oksijen",
+      "Azot",
+      "Amonyak",
+      "Kükürt dioksit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fotosentez sürecinde bitkiler, güneş ışığını kullanarak karbon dioksiti ve suyu glikoza ve oksijene dönüştürür. Bu süreçte karbon dioksit tüketilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551228_35",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki çürütücüler hangi işlevi üstlenir?",
+    "options": [
+      "Enerji üretirler",
+      "Ölü organizmaları ayrıştırırlar",
+      "Besin zincirinin başlangıcını oluştururlar",
+      "İkincil tüketicilerdir",
+      "İlk tüketicilerdir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Çürütücüler, ölü organizmaları ayrıştırarak besin döngüsünün devamını sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem dengesizliği hangi durumdan kaynaklanabilir?",
+    "options": [
+      "İklim değişikliği",
+      "Biyolojik çeşitlilik",
+      "Doğal seleksiyon",
+      "Tüketim alışkanlıkları",
+      "Toprak verimliliği"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İklim değişikliği, ekosistem dengelerini bozabilir, türlerin yaşam alanlarını değiştirebilir ve besin zincirlerinde aksaklıklara neden olabilir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551228_38",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji kaynağı olarak en yaygın kullanılan kaynak hangisidir?",
+    "options": [
+      "Güneş",
+      "Rüzgar",
+      "Su",
+      "Biyokütle",
+      "Jeotermal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güneş, ekosistemlerde enerji kaynağı olarak en yaygın kullanılan kaynaktır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551226_15",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemler arasındaki etkileşimi en iyi açıklayan kavram hangisidir?",
+    "options": [
+      "Biyom",
+      "Enerji akışı",
+      "Besin zinciri",
+      "Nüfus",
+      "İklim"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Besin zinciri, ekosistemler arasındaki enerji ve madde akışını en iyi açıklayan kavramdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684384_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem nedir?",
+    "options": [
+      "Sadece bitkilerin yaşadığı alan",
+      "Canlılar ile cansızlar arasındaki etkileşim alanı",
+      "Sadece hayvanların yaşadığı alan",
+      "Sadece su altı yaşamı",
+      "Sadece ormanlık alanlar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ekosistem, canlılar (bitkiler, hayvanlar, mikroorganizmalar) ve cansız faktörler (toprak, su, hava) arasındaki etkileşimlerin oluşturduğu sistemdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551225_3",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi faktör ekosistemlerin tür çeşitliliğini en çok etkiler?",
+    "options": [
+      "İklim",
+      "Toprak yapısı",
+      "Su kaynakları",
+      "Hayvan türleri",
+      "Bitki türleri"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İklim, ekosistemlerin biotik ve abiyotik unsurlarını etkileyerek tür çeşitliliğini belirleyen en önemli faktördür.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_13",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji kaynağı olan en temel unsur nedir?",
+    "options": [
+      "Karbon dioksit",
+      "Su",
+      "Toprak",
+      "Güneş ışığı",
+      "Oksijen"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Güneş ışığı, ekosistemlerdeki enerji akışının temel kaynağıdır. Bitkiler, bu enerjiyi fotosentez yoluyla kullanarak besin üretir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551227_23",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji kaynağı olarak suyun rolü nedir?",
+    "options": [
+      "İkincil",
+      "Yardımcı",
+      "Ana",
+      "İkili",
+      "Destekleyici"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Su, organizmaların yaşayabilmesi için gerekli olan temel enerji kaynağıdır ve birçok biyokimyasal süreçte rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_6",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki organizmaların birbirleriyle etkileşimleri hangi kavramla tanımlanır?",
+    "options": [
+      "Popülasyon",
+      "Biyom",
+      "Niş",
+      "Habitat",
+      "Ekolojik denge"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Niş, bir organizmanın ekosistemdeki rolünü ve diğer organizmalarla olan etkileşimlerini tanımlar. Her türün kendine özgü bir nişi vardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764578828829_8",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi durum ekosistem için olumlu bir etkiye sahip değildir?",
+    "options": [
+      "Aşırı avlanma",
+      "Doğal afetler",
+      "Biyoçeşitliliğin artması",
+      "Kirlilik",
+      "İklim değişikliği"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biyoçeşitliliğin artması, ekosistem sağlığı için olumlu bir durumdur, diğer seçenekler ise ekosistem üzerinde olumsuz etkiler yaratır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551227_31",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemdeki besin zincirinin en üst seviyesinde hangi organizmalar bulunur?",
+    "options": [
+      "Avcılar",
+      "Tüketiciler",
+      "Üreticiler",
+      "Çürütücüler",
+      "Mikroorganizmalar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Besin zincirinin en üst düzeyinde avcılar yer alır, çünkü diğer türleri tüketerek beslenirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826325_9",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki terimlerden hangisi bir ekosistemdeki canlıların ve cansızların etkileşimini ifade eder?",
+    "options": [
+      "Örgütlenme",
+      "Sistemsel analiz",
+      "Ekolojik etkileşim",
+      "Dinamik denge",
+      "Kompleksite"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ekolojik etkileşim, canlılar ve cansız unsurlar arasındaki ilişkileri tanımlar. Diğer kavramlar ekosistemlerin işleyişine dair farklı bakış açıları sunar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524826325_11",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki kavramlardan hangisi biyolojik çeşitliliği artıran bir uygulama değildir?",
+    "options": [
+      "Koruma alanları oluşturmak",
+      "Kirliliği azaltmak",
+      "Sosyal medya kampanyaları düzenlemek",
+      "İklim değişikliği ile mücadele",
+      "Doğal habitatları restore etmek"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sosyal medya kampanyaları, biyolojik çeşitliliği artırıcı bir uygulama değildir. Diğer seçenekler doğrudan biyoçeşitliliği koruma ve artırma ile ilgilidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828829_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem nedir?",
+    "options": [
+      "Canlıların ve cansızların bir arada bulunduğu alan",
+      "Sadece bitkilerin bulunduğu alan",
+      "Sadece hayvanların bulunduğu alan",
+      "Sadece mikroorganizmaların bulunduğu alan",
+      "Sadece insanlar tarafından oluşturulan alan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ekosistem, canlıların (bitki, hayvan, mikroorganizma) ve cansız varlıkların (su, hava, toprak) bir arada bulunduğu ve etkileşimde bulunduğu bir sistemdir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764578828829_11",
@@ -1088,1027 +1248,19 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764524826325_2",
+    "id": "ai_1764575795395_6",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemde bir türün diğer bir tür üzerindeki olumlu etkisine ne denir?",
+    "questionText": "Aşağıdaki terimlerden hangisi ekosistemdeki döngüleri ifade eder?",
     "options": [
-      "Simbiyoz",
-      "Parazitizm",
-      "Konsorsiyum",
-      "Komensalizm",
-      "Predatörlük"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Simbiyoz, iki tür arasında karşılıklı yarar sağlayan bir ilişkiyi ifade ederken, diğer seçenekler farklı etkileşimleri tanımlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522684385_4",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde besin zinciri neyi ifade eder?",
-    "options": [
-      "Canlıların yaşadığı alan",
-      "Besinlerin depolandığı yer",
-      "Enerji akışını ve besin ilişkilerini gösteren şemadır",
-      "Canlıların üreme şekilleri",
-      "İklim değişikliklerini"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Besin zinciri, ekosistemdeki canlılar arasındaki enerji akışını ve besin ilişkilerini gösteren bir şemadır. Her bir canlı, bir öncekinden enerji alır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524826327_24",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Biyoçeşitliliği artırmak için en etkili yöntem hangisidir?",
-    "options": [
-      "Koruma alanları oluşturmak",
-      "Sanayileşmeyi teşvik etmek",
-      "İklim değişikliğini görmezden gelmek",
-      "Kirliliği artırmak",
-      "Tek tip tarım uygulamaları"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Koruma alanları oluşturmak, biyoçeşitliliği artırmanın en etkili yollarından biridir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576932247_3",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde ayrıştırıcıların rolü nedir?",
-    "options": [
-      "Enerjiyi depolamak",
-      "Organizmaları üretmek",
-      "Ölü organizmaları parçalamak ve besin döngüsüne katkıda bulunmak",
-      "Sadece bitkileri büyütmek",
-      "Hayvanların beslenmesine yardımcı olmak"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ayrıştırıcılar, ölü organizmaları ve atıkları parçalayarak, besin maddelerini toprağa geri kazandırır ve böylece besin döngüsünün devam etmesine katkıda bulunur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764576932247_7",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde organik madde döngüsünün önemi nedir?",
-    "options": [
-      "Su döngüsünü etkilemez",
-      "Enerjiyi depolamak için gereklidir",
-      "Besin zincirinin devamlılığı için gereklidir",
-      "Sadece bitki büyümesi için gereklidir",
-      "Hiçbir önemi yoktur"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Organik madde döngüsü, besin zincirinin devamlılığı için gereklidir, çünkü ayrıştırıcılar ölü organizmaları parçalayarak besin maddelerini tekrar ekosisteme kazandırır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764528551227_26",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin dengesini korumak için hangi tür organizmalar kritik öneme sahiptir?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Çürütücüler",
-      "Hepsi",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Üreticiler, tüketiciler ve çürütücüler, ekosistem dengesini sağlamak için birbirleriyle etkileşim içinde olmalıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575795395_8",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemin sağlığını belirleyen en önemli faktör nedir?",
-    "options": [
-      "Canlı çeşitliliği",
-      "Toprak kalitesi",
-      "Su kalitesi",
-      "İklim değişikliği",
+      "Enerji döngüsü",
+      "Su döngüsü",
+      "Karbon döngüsü",
+      "Azot döngüsü",
       "Hepsi"
     ],
     "correctAnswer": 4,
-    "explanation": "Bir ekosistemin sağlığını etkileyen birçok faktör vardır; canlı çeşitliliği, toprak ve su kalitesi gibi unsurlar hepsi bir arada önemlidir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764522684385_9",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki canlıların yaşadığı yer neresidir?",
-    "options": [
-      "Niş",
-      "Habitat",
-      "Biyom",
-      "Popülasyon",
-      "Ekosistem"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Habitat, bir organizmanın yaşadığı yerdir. Her türün kendine özgü bir habitatı vardır ve bu yer, türün yaşam döngüsünü sürdürmesi için gereklidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551225_8",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde dengeyi sağlamak için hangi tür organizmalar önemlidir?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Çürütücüler",
-      "Hepsi",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Üreticiler, tüketiciler ve çürütücüler, ekosistemlerin dengesini sağlamak için birlikte çalışır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_5",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi bir ekosistem içinde bulunan besin zincirinin en üstünde yer alır?",
-    "options": [
-      "Bitkiler",
-      "Tüketiciler",
-      "Üreticiler",
-      "Omnivorlar",
-      "Düşük düzey tüketiciler"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Besin zincirinin en üstünde yer alan organizmalar genellikle avcılar ya da büyük etçilerdir, dolayısıyla tüketiciler en üstte bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551228_37",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde hangi faktör doğal döngülerin işleyişini etkiler?",
-    "options": [
-      "İnsan faaliyetleri",
-      "Zaman",
-      "Mikroorganizmalar",
-      "İklim",
-      "Hepsi"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İnsan faaliyetleri, doğal döngülerin işleyişini etkileyerek ekosistem dengesini bozabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828830_26",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin sağlıklı işleyişinin en önemli göstergesi nedir?",
-    "options": [
-      "Biyoçeşitlilik",
-      "Hava kalitesi",
-      "Su kalitesi",
-      "Toprak verimliliği",
-      "Tümünün kombinasyonu"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ekosistemlerin sağlıklı işleyişi, biyoçeşitliliğin yanı sıra hava, su ve toprak kalitesinin de iyi olmasına bağlıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_12",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi faktör, ekosistemlerdeki tür çeşitliliğini artırır?",
-    "options": [
-      "İklim çeşitliliği",
-      "Monokültür tarımı",
-      "Kirlilik",
-      "Küresel ısınma",
-      "Aşırı avlanma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İklim çeşitliliği, farklı habitatların ve yaşam alanlarının oluşmasına neden olarak tür çeşitliliğini artırır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520335971_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki seçeneklerden hangisi bir ekosistemde enerji akışını en iyi şekilde temsil eder?",
-    "options": [
-      "Üreticiler -> Tüketiciler -> Ayrıştırıcılar",
-      "Tüketiciler -> Üreticiler -> Ayrıştırıcılar",
-      "Ayrıştırıcılar -> Üreticiler -> Tüketiciler",
-      "Tüketiciler -> Ayrıştırıcılar -> Üreticiler",
-      "Üreticiler -> Ayrıştırıcılar -> Tüketiciler"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ekosistemlerde enerji akışı, üreticilerden (bitkiler) başlayarak tüketicilere (hayvanlar) ve sonunda ayrıştırıcılara (bakteri ve mantarlar) doğru ilerler. Bu süreç, enerji dönüşümünü ve madde döngüsünü sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764578828829_10",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki besin ağları hangi kavramı ifade eder?",
-    "options": [
-      "Canlıların etkileşimleri",
-      "Enerji akışı",
-      "Sadece bitkilerin beslenme şekli",
-      "Sadece hayvanların davranışları",
-      "Sadece mikroorganizmaların rolü"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Besin ağları, ekosistemdeki farklı canlı türleri arasındaki enerji akışını ve etkileşimleri gösterir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem nedir?",
-    "options": [
-      "Canlıların ve cansızların bir arada bulunduğu alan",
-      "Sadece bitkilerin bulunduğu alan",
-      "Sadece hayvanların bulunduğu alan",
-      "Sadece mikroorganizmaların bulunduğu alan",
-      "Sadece insanlar tarafından oluşturulan alan"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ekosistem, canlıların (bitki, hayvan, mikroorganizma) ve cansız varlıkların (su, hava, toprak) bir arada bulunduğu ve etkileşimde bulunduğu bir sistemdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_22",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi durum ekosistemler için ciddi bir tehdit oluşturur?",
-    "options": [
-      "Biyoçeşitliliğin korunması",
-      "Kirlilik",
-      "Sürdürülebilir tarım",
-      "Yenilenebilir enerji kullanımı",
-      "Doğal kaynakların yönetimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kirlilik, ekosistemlerin sağlığını ciddi şekilde tehdit eden bir durumdur ve birçok canlı türünün yaşamını olumsuz etkiler.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551227_27",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde hangi terim, belirli bir alanda yaşayan aynı türden organizma sayısını ifade eder?",
-    "options": [
-      "Toplum",
-      "Popülasyon",
-      "Biyom",
-      "Habitat",
-      "Ekosistem"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Popülasyon, belirli bir alanda yaşayan aynı türden organizmaların sayısını ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistem içinde enerjinin en önemli kaynağı nedir?",
-    "options": [
-      "Toprak",
-      "Su",
-      "Güneş",
-      "Hava",
-      "Bitkiler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır. Bitkiler fotosentez yoluyla güneş enerjisini kullanarak besin üretirler.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520335971_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi bir ekosistemin bileşenlerinden biri değildir?",
-    "options": [
-      "Canlılar",
-      "Cansızlar",
-      "Enerji",
-      "İklim",
-      "Süreklilik"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ekosistemler, canlılar, cansızlar ve enerji gibi bileşenlerden oluşur. İklim de ekosistemin önemli bir parçasıdır. Ancak 'süreklilik' bir bileşen değil, ekosistemin işleyişini etkileyen bir kavramdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524826325_11",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki kavramlardan hangisi biyolojik çeşitliliği artıran bir uygulama değildir?",
-    "options": [
-      "Koruma alanları oluşturmak",
-      "Kirliliği azaltmak",
-      "Sosyal medya kampanyaları düzenlemek",
-      "İklim değişikliği ile mücadele",
-      "Doğal habitatları restore etmek"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sosyal medya kampanyaları, biyolojik çeşitliliği artırıcı bir uygulama değildir. Diğer seçenekler doğrudan biyoçeşitliliği koruma ve artırma ile ilgilidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576932247_5",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi bir ekosistemin dengesini bozabilir?",
-    "options": [
-      "İklim değişikliği",
-      "Biyolojik çeşitliliğin artması",
-      "Yeni türlerin ekosisteme katılması",
-      "Doğal afetler",
-      "Tüm seçenekler doğrudur"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İklim değişikliği, ekosistem dengesini bozabilir. Ayrıca, bazı yeni türler ekosistemdeki dengeyi olumsuz etkileyebilir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764528551226_19",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi organizma grubu, ekosistemlerdeki enerji akışını en çok etkiler?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Çürütücüler",
-      "Hepsi",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Üreticiler, tüketiciler ve çürütücüler, enerji akışını birbirleriyle etkileşerek yönlendirir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551227_29",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji akışında en çok hangi kayıplar görülür?",
-    "options": [
-      "Isı kaybı",
-      "Su kaybı",
-      "Toprak kaybı",
-      "Hava kaybı",
-      "Besin kaybı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Enerji akışında en büyük kayıplar, metabolizma süreçleri sırasında ısı kaybı şeklinde gerçekleşir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_7",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi ekosistemlerdeki enerji akışını ifade eder?",
-    "options": [
-      "Nüfuz",
-      "Tüketim",
-      "Transfer",
-      "Akış",
-      "Devir"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Enerji akışı, ekosistem içindeki enerji dönüşümünü ve hareketini ifade ederken, diğer terimler farklı kavramları temsil eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551226_15",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemler arasındaki etkileşimi en iyi açıklayan kavram hangisidir?",
-    "options": [
-      "Biyom",
-      "Enerji akışı",
-      "Besin zinciri",
-      "Nüfus",
-      "İklim"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Besin zinciri, ekosistemler arasındaki enerji ve madde akışını en iyi açıklayan kavramdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522684385_12",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde dengeyi sağlamaya yarayan organizmalar hangileridir?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Detritivorlar",
-      "Hepsi",
-      "Hiçbiri"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Üreticiler, tüketiciler ve detritivorlar, ekosistemlerde dengeyi sağlamak için farklı roller üstlenir ve hepsi birbirleriyle etkileşim içindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551225_9",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi terim, bir ekosistemdeki canlıların farklı türleri arasındaki etkileşimleri ifade eder?",
-    "options": [
-      "Popülasyon",
-      "Biyom",
-      "Ekosistem",
-      "Toplum",
-      "Habitat"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Farklı türlerin bir arada bulunduğu ve etkileşimde bulunduğu gruba toplum denir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575795395_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi ekosistemin bir parçası değildir?",
-    "options": [
-      "Toprak",
-      "Hava",
-      "Su",
-      "Kaya",
-      "Hayvanlar"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kaya, ekosistemin bileşenleri arasında yer almaz; toprak, hava, su ve hayvanlar ekosistemin parçalarıdır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578828830_25",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde canlıların doğal düşmanı olarak hangi grup öne çıkar?",
-    "options": [
-      "Avcılar",
-      "Avlar",
-      "Üreticiler",
-      "Tüketiciler",
-      "Detritivorlar"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Avcılar, ekosistemlerde diğer canlıların doğal düşmanlarıdır ve türlerin popülasyon dengeleme işlevini yerine getirir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_3",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi ekosistem çeşitliliğini artıran bir faktördür?",
-    "options": [
-      "Aşırı avlanma",
-      "Kirlilik",
-      "İklim değişikliği",
-      "Doğal afetler",
-      "Farklı habitatların varlığı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Farklı habitatların varlığı, ekosistem çeşitliliğini artıran en önemli faktörlerden biridir. Diğer seçenekler genellikle çeşitliliği azaltır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764578828829_21",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi ekosistem, en zengin bitki çeşitliliğine sahiptir?",
-    "options": [
-      "Tundra",
-      "Çöl",
-      "Yağmur ormanı",
-      "Savan",
-      "Orman"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yağmur ormanları, sıcak ve nemli iklimleri sayesinde en zengin bitki çeşitliliğine sahip ekosistemlerdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551225_6",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi terim, bir ekosistemdeki canlıların belli bir alanda yoğunluğunu ifade eder?",
-    "options": [
-      "Popülasyon",
-      "Biyom",
-      "Küme",
-      "Toplum",
-      "Nüfus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Popülasyon, belirli bir alanda yaşayan aynı türden organizmaların toplamına verilen isimdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_8",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi durum ekosistem için olumlu bir etkiye sahip değildir?",
-    "options": [
-      "Aşırı avlanma",
-      "Doğal afetler",
-      "Biyoçeşitliliğin artması",
-      "Kirlilik",
-      "İklim değişikliği"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Biyoçeşitliliğin artması, ekosistem sağlığı için olumlu bir durumdur, diğer seçenekler ise ekosistem üzerinde olumsuz etkiler yaratır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522684385_13",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji kaynağı olan en temel unsur nedir?",
-    "options": [
-      "Karbon dioksit",
-      "Su",
-      "Toprak",
-      "Güneş ışığı",
-      "Oksijen"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Güneş ışığı, ekosistemlerdeki enerji akışının temel kaynağıdır. Bitkiler, bu enerjiyi fotosentez yoluyla kullanarak besin üretir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575795395_3",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi bir tüketicidir?",
-    "options": [
-      "Çim",
-      "Ağaç",
-      "Kedi",
-      "Mavi balina",
-      "Bakteri"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kedi, diğer canlıları besin olarak tüketen bir hayvandır ve bu nedenle bir tüketici olarak sınıflandırılır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764524826325_9",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdaki terimlerden hangisi bir ekosistemdeki canlıların ve cansızların etkileşimini ifade eder?",
-    "options": [
-      "Örgütlenme",
-      "Sistemsel analiz",
-      "Ekolojik etkileşim",
-      "Dinamik denge",
-      "Kompleksite"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ekolojik etkileşim, canlılar ve cansız unsurlar arasındaki ilişkileri tanımlar. Diğer kavramlar ekosistemlerin işleyişine dair farklı bakış açıları sunar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551225_5",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistem içinde yer alan en büyük biyom hangisidir?",
-    "options": [
-      "Çöl",
-      "Orman",
-      "Okyanus",
-      "Tundra",
-      "Savan"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Okyanuslar, yeryüzündeki en büyük biyomdur ve ekosistemlerin büyük bir kısmını kapsar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826327_20",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki enerji kaynağı olan güneş ışığının bitkiler üzerindeki etkisi nedir?",
-    "options": [
-      "Fotosentez",
-      "Solunum",
-      "Değişim",
-      "Dönüşüm",
-      "Biyokütle"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Güneş ışığı, bitkilerde fotosentez sürecini başlatır ve bu süreçte enerji depolama gerçekleşir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764578828829_17",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Besin piramidi nedir?",
-    "options": [
-      "Ekosistemdeki tüm türlerin dağılımı",
-      "Enerji akışının görsel temsili",
-      "Çeşitli habitatların listesi",
-      "Sadece bitki türlerinin listesi",
-      "Hayvanların göç yolları"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Besin piramidi, ekosistemdeki enerji akışını ve besin zincirindeki farklı seviyeleri görsel olarak temsil eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551225_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin en küçük birimi hangisidir?",
-    "options": [
-      "Toplum",
-      "Biyom",
-      "Canlı",
-      "Hücre",
-      "Popülasyon"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ekosistemlerin en küçük birimi, organizmaların bir araya gelerek oluşturduğu popülasyonlardır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_18",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin bozulmasına neden olan en yaygın insan faaliyetleri hangileridir?",
-    "options": [
-      "Sanayileşme",
-      "Ağaç dikimi",
-      "Organik tarım",
-      "Doğal alanların korunması",
-      "Sıfır atık uygulamaları"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sanayileşme, doğal kaynakların aşırı kullanımı ve kirlilik gibi sorunlara yol açarak ekosistemlerin bozulmasına neden olur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764528551228_38",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji kaynağı olarak en yaygın kullanılan kaynak hangisidir?",
-    "options": [
-      "Güneş",
-      "Rüzgar",
-      "Su",
-      "Biyokütle",
-      "Jeotermal"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Güneş, ekosistemlerde enerji kaynağı olarak en yaygın kullanılan kaynaktır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828829_23",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde türler arası etkileşimlerin en az olduğu durum hangisidir?",
-    "options": [
-      "Simbiyoz",
-      "Parazitizm",
-      "Komensalizm",
-      "Rekabet",
-      "Mutualizm"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Komensalizm, bir türün diğerinden fayda sağlarken diğerinin zarar görmediği bir etkileşim türüdür; bu nedenle etkileşim en azdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575795395_4",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemde enerji akışı nasıl gerçekleşir?",
-    "options": [
-      "Topraktan havaya",
-      "Havadan suya",
-      "Üreticilerden tüketicilere",
-      "Tüketicilerden üreticilere",
-      "Sadece hayvanlar arasında"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ekosistemde enerji akışı, üreticilerden (bitkiler) tüketicilere (hayvanlar) doğru gerçekleşir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764501436482_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir karasal ekosistemde, üreticilerden son tüketicilere doğru gidildikçe genellikle aşağıdaki grafiklerde gösterilen değişimlerden hangisi gözlenmez?",
-    "options": [
-      "Birey sayısının azaldığı",
-      "Aktarılan enerji miktarının azaldığı",
-      "Biyokütlenin (toplam organik madde miktarı) azaldığı",
-      "Biyolojik birikimin (zehirli madde birikimi) arttığı",
-      "Vücut büyüklüğünün azaldığı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir ekosistemdeki besin piramidinde, üretici basamağından son tüketici basamağına doğru çıkıldıkça; \n- Birey sayısı genellikle azalır. \n- Her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedildiği için bir üst basamağa aktarılan enerji miktarı azalır.\n- Birey sayısı ve enerji miktarı azaldığı için toplam biyokütle de genellikle azalır.\n- Dokularda biriken ve parçalanamayan zehirli madde (DDT, ağır metaller vb.) miktarı, yani biyolojik birikim, üst basamaklara doğru artar.\n- Vücut büyüklüğü ise genellikle artar (örneğin; ot -> çekirge -> kurbağa -> yılan). Bu nedenle vücut büyüklüğünün azaldığını söylemek genel bir kural olarak doğru değildir, aksine genellikle arttığı gözlemlenir. Soruda 'gözlenmez' denildiği için doğru cevap E seçeneğidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522684385_8",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde besin piramidi neyi gösterir?",
-    "options": [
-      "Canlıların sayısını",
-      "Enerji akışını ve besin seviyelerini",
-      "İklim koşullarını",
-      "Toprak özelliklerini",
-      "Su kalitesini"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Besin piramidi, ekosistemlerde enerji akışını ve farklı besin seviyelerindeki organizmaların sayısını gösterir. Üstteki seviyeler alt seviyelere göre daha az enerji taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575795395_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem nedir?",
-    "options": [
-      "Canlıların bir arada yaşadığı doğal ortamdır.",
-      "Sadece bitkilerin bulunduğu alandır.",
-      "Sadece hayvanların yaşadığı bir bölgedir.",
-      "İnsanların yaşadığı yerlerdir.",
-      "Sadece su altındaki yaşam alanıdır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ekosistem, canlıların bir arada yaşadığı ve etkileşimde bulunduğu doğal ortamdır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764578828829_14",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi terim, bir türün belirli bir alanda yerleşik olduğu durumu ifade eder?",
-    "options": [
-      "Popülasyon",
-      "Ekosistem",
-      "Habitat",
-      "Biyoçeşitlilik",
-      "Niş"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Habitat, bir türün yaşadığı ve geliştiği doğal ortamı tanımlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522684385_3",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Fotosentez sürecinde hangi gaz tüketilir?",
-    "options": [
-      "Karbon dioksit",
-      "Oksijen",
-      "Azot",
-      "Amonyak",
-      "Kükürt dioksit"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Fotosentez sürecinde bitkiler, güneş ışığını kullanarak karbon dioksiti ve suyu glikoza ve oksijene dönüştürür. Bu süreçte karbon dioksit tüketilir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551225_10",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji kaynağı olarak en fazla hangi madde kullanılır?",
-    "options": [
-      "Karbon dioksit",
-      "Su",
-      "Oksijen",
-      "Güneş ışığı",
-      "Toprak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Güneş ışığı, ekosistemlerde enerji kaynağı olarak en temel maddedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764519373124_2",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki biyoçeşitlilik neden önemlidir?",
-    "options": [
-      "Enerji verimliliğini artırır",
-      "Sadece bitkileri etkiler",
-      "Hava kirliliğini artırır",
-      "Su döngüsünü etkiler",
-      "Tüm canlıların varlığını tehdit eder"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Biyoçeşitlilik, ekosistemlerin enerji verimliliğini artırır ve dayanıklılığını sağlar. Çeşitli türler, ekosistemin işleyişini ve dengenin korunmasını sağlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764524826327_27",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistem yönetimi için önemli bir strateji nedir?",
-    "options": [
-      "Sürdürülebilirlik ilkeleri",
-      "Kirliliği artırmak",
-      "Doğal kaynakları tüketmek",
-      "Hızlı sanayileşme",
-      "Biyoçeşitliliği azaltmak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sürdürülebilirlik ilkeleri, ekosistem yönetimi için önemli bir stratejidir ve doğal kaynakların korunmasını sağlar.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551226_17",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki besin zincirinin başlangıcı nedir?",
-    "options": [
-      "Tüketiciler",
-      "Çürütücüler",
-      "Üreticiler",
-      "Enerji",
-      "Hava"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Besin zinciri, üreticilerle başlar, çünkü enerji ilk olarak onlardan elde edilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520335971_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki canlıların ve cansızların etkileşimleri sonucunda oluşan dengeye ne ad verilir?",
-    "options": [
-      "Biyom",
-      "Biyolojik çeşitlilik",
-      "Ekolojik denge",
-      "Habitat",
-      "Niş"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ekolojik denge, bir ekosistemdeki canlılar ve cansızlar arasındaki etkileşimlerin sonucunda oluşan denge durumunu ifade eder. Bu denge, ekosistemin sağlıklı bir şekilde işleyebilmesi için kritik öneme sahiptir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522684385_6",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemdeki organizmaların birbirleriyle etkileşimleri hangi kavramla tanımlanır?",
-    "options": [
-      "Popülasyon",
-      "Biyom",
-      "Niş",
-      "Habitat",
-      "Ekolojik denge"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Niş, bir organizmanın ekosistemdeki rolünü ve diğer organizmalarla olan etkileşimlerini tanımlar. Her türün kendine özgü bir nişi vardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551228_40",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji kaynağı olarak suyun rolü nedir?",
-    "options": [
-      "İkincil",
-      "Yardımcı",
-      "Ana",
-      "İkili",
-      "Destekleyici"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Su, organizmaların yaşayabilmesi için gerekli olan temel enerji kaynağıdır ve birçok biyokimyasal süreçte rol oynar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764578828830_27",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemler arasındaki etkileşimleri en iyi açıklayan kavram hangisidir?",
-    "options": [
-      "Kirlilik",
-      "Sürdürülebilirlik",
-      "Biyoçeşitlilik",
-      "Bağlantılılık",
-      "Detritivorlar"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ekosistemler arasındaki bağlantılılık, bir ekosistemdeki değişimlerin diğer ekosistemleri de nasıl etkileyebileceğini ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764501436483_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Azot döngüsünde görev alan bazı canlı grupları ve gerçekleştirdikleri olaylar şunlardır:\n\nI. Saprofitler (Ayrıştırıcılar)\nII. Nitrifikasyon bakterileri\nIII. Denitrifikasyon bakterileri\nIV. Azot bağlayıcı bakteriler\n\nBu canlı gruplarından hangileri atmosferdeki serbest azotun (N2) miktarını doğrudan etkiler?",
-    "options": [
-      "Yalnız I",
-      "Yalnız II",
-      "I ve II",
-      "III ve IV",
-      "II, III ve IV"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Azot döngüsünde atmosferdeki serbest azot (N2) gazının miktarını doğrudan etkileyen iki temel olay vardır:\n1. Azot Fiksasyonu (Bağlanması): Atmosferdeki N2 gazının, azot bağlayıcı bakteriler (örneğin Rhizobium bakterileri) ve siyanobakteriler tarafından amonyak (NH3) gibi canlıların kullanabileceği bileşiklere dönüştürülmesidir. Bu olay atmosferdeki azot miktarını azaltır. (IV. öncül)\n2. Denitrifikasyon: Topraktaki nitrat (NO3-) tuzlarının, denitrifikasyon bakterileri tarafından tekrar atmosferik azota (N2) dönüştürülerek atmosfere verilmesidir. Bu olay atmosferdeki azot miktarını artırır. (III. öncül)\n\nSaprofitler (I), organik atıkları amonyağa dönüştürür ancak atmosferdeki N2'ye doğrudan etki etmezler. Nitrifikasyon bakterileri (II), amonyağı nitrite ve nitrata dönüştürür; bu olay da topraktaki azot formları arasında bir dönüşümdür ve atmosferin N2 miktarını doğrudan etkilemez. Dolayısıyla, atmosferdeki serbest azot miktarını doğrudan etkileyen canlı grupları III ve IV'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519373123_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde besin zincirinin en üst seviyesindeki canlılar hangileridir?",
-    "options": [
-      "Birincil tüketiciler",
-      "İkincil tüketiciler",
-      "Üreticiler",
-      "Tercil tüketiciler",
-      "Detritivorlar"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Besin zincirinde en üst seviyedeki canlılar, genellikle avcı olarak tanımlanan tercil tüketicilerdir. Bu canlılar, ikincil tüketicileri avlayarak enerji alırlar.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551225_11",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi organizmalar, ekosistemlerdeki ölü organik maddeleri ayrıştırarak besin döngüsünü sağlar?",
-    "options": [
-      "Üreticiler",
-      "Tüketiciler",
-      "Çürütücüler",
-      "Avcılar",
-      "Parazitler"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çürütücüler, ölü organizmaları ayrıştırarak besin döngüsünün devamını sağlar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_10",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin sürdürülebilirliği için hangi faktör en önemlisidir?",
-    "options": [
-      "Yerli türlerin korunması",
-      "Dış türlerin tanıtılması",
-      "Tarım arazilerinin genişletilmesi",
-      "Kentleşmenin artırılması",
-      "Sanayileşmenin hızlandırılması"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yerli türlerin korunması, ekosistemlerin sürdürülebilirliği açısından en kritik faktördür. Diğer seçenekler genellikle ekosistemleri tehdit eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764524826326_14",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi bir ekosistemdeki enerji kaynağını temsil etmez?",
-    "options": [
-      "Güneş",
-      "Rüzgar",
-      "Su",
-      "Toprak",
-      "Bitkiler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Toprak doğrudan bir enerji kaynağı değildir, diğer seçenekler enerji akışının parçasıdır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575795395_5",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde en fazla enerji kimde bulunur?",
-    "options": [
-      "Üreticilerde",
-      "Birincil tüketicilerde",
-      "İkincil tüketicilerde",
-      "Tersiyer tüketicilerde",
-      "Decomposers (ayıcılar)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Üreticiler, fotosentez yoluyla enerji ürettikleri için ekosistemde en fazla enerjiye sahip olan gruptur.",
+    "explanation": "Enerji, su, karbon ve azot döngüleri ekosistemde önemli döngülerdir, bu nedenle hepsi doğrudur.",
     "difficulty": 1
   },
   {
@@ -2128,35 +1280,707 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528551226_16",
+    "id": "ai_1764578828829_13",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Hangi tür ekosistemler, en fazla tür çeşitliliğine sahiptir?",
+    "questionText": "Ekosistemlerin sürdürülebilirliği için en önemli faktör hangisidir?",
     "options": [
-      "Çöl",
-      "Orman",
-      "Tundra",
-      "Savan",
-      "Okyanus"
+      "Biyoçeşitlilik",
+      "Tek tip tarım",
+      "Kirlilik",
+      "Doğal kaynakların aşırı kullanımı",
+      "İnsanın doğaya müdahalesi"
     ],
-    "correctAnswer": 1,
-    "explanation": "Orman ekosistemleri, tropikal ormanlar gibi birçok türü barındırarak en fazla tür çeşitliliğine sahiptir.",
+    "correctAnswer": 0,
+    "explanation": "Biyoçeşitlilik, ekosistemlerin dayanıklılığını artırarak sürdürülebilirlik için kritik bir faktördür.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764528551228_34",
+    "id": "ai_1764524826327_26",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde canlıların birbirleriyle olan ilişkilerini en iyi açıklayan kavram hangisidir?",
+    "questionText": "Bir ekosistemdeki besin zincirinin başlangıcı hangisidir?",
     "options": [
-      "İlişki",
-      "Bağımlılık",
-      "Ekolojik denge",
-      "Besin zinciri",
-      "Çeşitlilik"
+      "Üreticiler",
+      "Birinci tüketiciler",
+      "İkinci tüketiciler",
+      "Dördüncü tüketiciler",
+      "Decomposerlar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Besin zincirinin başlangıcını üreticiler oluşturur, çünkü onlar enerji kaynağı olarak güneş enerjisini kullanarak besin üretirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828829_19",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi terim, bir canlı türünün ekosistemdeki rolünü ifade eder?",
+    "options": [
+      "Niş",
+      "Popülasyon",
+      "Habitat",
+      "Biom",
+      "Simbiyoz"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Niş, bir türün ekosistem içindeki işlevini, beslenme tarzını ve etkileşimlerini tanımlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501436483_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Azot döngüsünde görev alan bazı canlı grupları ve gerçekleştirdikleri olaylar şunlardır:\n\nI. Saprofitler (Ayrıştırıcılar)\nII. Nitrifikasyon bakterileri\nIII. Denitrifikasyon bakterileri\nIV. Azot bağlayıcı bakteriler\n\nBu canlı gruplarından hangileri atmosferdeki serbest azotun (N2) miktarını doğrudan etkiler?",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "I ve II",
+      "III ve IV",
+      "II, III ve IV"
     ],
     "correctAnswer": 3,
-    "explanation": "Besin zinciri, canlıların birbirleriyle olan ilişkilerini ve enerji akışını en iyi açıklayan kavramdır.",
+    "explanation": "Azot döngüsünde atmosferdeki serbest azot (N2) gazının miktarını doğrudan etkileyen iki temel olay vardır:\n1. Azot Fiksasyonu (Bağlanması): Atmosferdeki N2 gazının, azot bağlayıcı bakteriler (örneğin Rhizobium bakterileri) ve siyanobakteriler tarafından amonyak (NH3) gibi canlıların kullanabileceği bileşiklere dönüştürülmesidir. Bu olay atmosferdeki azot miktarını azaltır. (IV. öncül)\n2. Denitrifikasyon: Topraktaki nitrat (NO3-) tuzlarının, denitrifikasyon bakterileri tarafından tekrar atmosferik azota (N2) dönüştürülerek atmosfere verilmesidir. Bu olay atmosferdeki azot miktarını artırır. (III. öncül)\n\nSaprofitler (I), organik atıkları amonyağa dönüştürür ancak atmosferdeki N2'ye doğrudan etki etmezler. Nitrifikasyon bakterileri (II), amonyağı nitrite ve nitrata dönüştürür; bu olay da topraktaki azot formları arasında bir dönüşümdür ve atmosferin N2 miktarını doğrudan etkilemez. Dolayısıyla, atmosferdeki serbest azot miktarını doğrudan etkileyen canlı grupları III ve IV'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764578828829_14",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi terim, bir türün belirli bir alanda yerleşik olduğu durumu ifade eder?",
+    "options": [
+      "Popülasyon",
+      "Ekosistem",
+      "Habitat",
+      "Biyoçeşitlilik",
+      "Niş"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Habitat, bir türün yaşadığı ve geliştiği doğal ortamı tanımlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_23",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki türlerin birbirleriyle olan ilişkilerini inceleyen bilim dalına ne denir?",
+    "options": [
+      "Ekoloji",
+      "Biyoloji",
+      "Zooloji",
+      "Botanik",
+      "Paleontoloji"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ekoloji, türler arasındaki etkileşimleri ve çevre ile olan ilişkilerini inceleyen bilim dalıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522684385_9",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki canlıların yaşadığı yer neresidir?",
+    "options": [
+      "Niş",
+      "Habitat",
+      "Biyom",
+      "Popülasyon",
+      "Ekosistem"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Habitat, bir organizmanın yaşadığı yerdir. Her türün kendine özgü bir habitatı vardır ve bu yer, türün yaşam döngüsünü sürdürmesi için gereklidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551228_37",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde hangi faktör doğal döngülerin işleyişini etkiler?",
+    "options": [
+      "İnsan faaliyetleri",
+      "Zaman",
+      "Mikroorganizmalar",
+      "İklim",
+      "Hepsi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İnsan faaliyetleri, doğal döngülerin işleyişini etkileyerek ekosistem dengesini bozabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501436482_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir karasal ekosistemde, üreticilerden son tüketicilere doğru gidildikçe genellikle aşağıdaki grafiklerde gösterilen değişimlerden hangisi gözlenmez?",
+    "options": [
+      "Birey sayısının azaldığı",
+      "Aktarılan enerji miktarının azaldığı",
+      "Biyokütlenin (toplam organik madde miktarı) azaldığı",
+      "Biyolojik birikimin (zehirli madde birikimi) arttığı",
+      "Vücut büyüklüğünün azaldığı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir ekosistemdeki besin piramidinde, üretici basamağından son tüketici basamağına doğru çıkıldıkça; \n- Birey sayısı genellikle azalır. \n- Her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedildiği için bir üst basamağa aktarılan enerji miktarı azalır.\n- Birey sayısı ve enerji miktarı azaldığı için toplam biyokütle de genellikle azalır.\n- Dokularda biriken ve parçalanamayan zehirli madde (DDT, ağır metaller vb.) miktarı, yani biyolojik birikim, üst basamaklara doğru artar.\n- Vücut büyüklüğü ise genellikle artar (örneğin; ot -> çekirge -> kurbağa -> yılan). Bu nedenle vücut büyüklüğünün azaldığını söylemek genel bir kural olarak doğru değildir, aksine genellikle arttığı gözlemlenir. Soruda 'gözlenmez' denildiği için doğru cevap E seçeneğidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764578828829_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde enerji akışı nasıl gerçekleşir?",
+    "options": [
+      "Enerji kaynağı bitkilerden başlar",
+      "Enerji kaynağı hayvanlardan başlar",
+      "Enerji kaynağı mikroorganizmalar arasındadır",
+      "Enerji kaynağı cansız varlıklardır",
+      "Enerji kaynağı sadece insanlar tarafından sağlanır"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir ekosistemde enerji akışı, güneş enerjisi ile başlar ve bitkiler tarafından fotosentez yoluyla depolanır. Daha sonra bu enerji, bitkileri yiyen hayvanlara geçer.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826325_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemde bir türün diğer bir tür üzerindeki olumlu etkisine ne denir?",
+    "options": [
+      "Simbiyoz",
+      "Parazitizm",
+      "Konsorsiyum",
+      "Komensalizm",
+      "Predatörlük"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Simbiyoz, iki tür arasında karşılıklı yarar sağlayan bir ilişkiyi ifade ederken, diğer seçenekler farklı etkileşimleri tanımlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764524826325_12",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem içerisinde yer alan trofik seviyeleri arasında hangisi üreticileri temsil eder?",
+    "options": [
+      "Birinci trofik seviye",
+      "İkinci trofik seviye",
+      "Üçüncü trofik seviye",
+      "Dördüncü trofik seviye",
+      "Trofik seviyeleri yoktur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Birinci trofik seviye, üreticileri temsil eder. Diğer seviyeler ise tüketicileri ifade eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576932247_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistem içinde besin zinciri nedir?",
+    "options": [
+      "Sadece bitkilerin büyüme süreci",
+      "Enerjinin üreticiden tüketime aktarılma yolu",
+      "Sadece hayvanlar arasındaki ilişki",
+      "Sadece ayrıştırıcıların rolü",
+      "Hava ve su döngüsü"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Besin zinciri, ekosistem içindeki enerji akışını gösteren bir dizi organizmanın birbirine nasıl bağlı olduğunu açıklar. Üreticiler enerjiyi güneşten alır ve bunu tüketicilere aktarır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764528551225_12",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde en fazla enerji kaybı hangi aşamada görülür?",
+    "options": [
+      "Üretim",
+      "Tüketim",
+      "Ayrıştırma",
+      "Dönüşüm",
+      "Dönüşüm sonrası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enerji, her tüketim aşamasında kaybedilir ve bu kayıp genellikle %90'a kadar çıkabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498764160_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir orman ekosisteminde meydana gelen ikincil (sekonder) süksesyon süreciyle ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Zamanla biyokütle (toplam canlı kütlesi) artar.",
+      "Komünitenin tür çeşitliliği klimaksa doğru artış gösterir.",
+      "Süreç sonunda rekabet gücü yüksek olan türler baskın hale gelir.",
+      "Ortamın fiziksel ve kimyasal koşulları süreç boyunca kararlı kalır.",
+      "Besin ağındaki trofik ilişkilerin karmaşıklığı artar."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Süksesyon (ardıllık), bir ekosistemdeki türlerin zamanla birbirinin yerini alması sürecidir. İkincil süksesyon, daha önce bir komünitenin var olduğu ancak yangın, sel, insan müdahalesi gibi bir bozulma sonucu yapısı değişmiş bir alanda başlar. Bu süreç dinamiktir. Canlılar, yaşadıkları ortamı değiştirirler. Örneğin, öncü bitkiler toprağı zenginleştirir, gölge oluşturarak ışık miktarını değiştirir ve nemi artırır. Bu değişimler, yeni türlerin gelmesine olanak tanır. Dolayısıyla, ortamın fiziksel ve kimyasal koşulları (toprak yapısı, pH, nem, ışık vb.) süreç boyunca kararlı kalmaz, aksine sürekli olarak değişir. Diğer şıklar süksesyonun genel özellikleridir: Biyokütle ve tür çeşitliliği artar, rekabet gücü yüksek olan K-stratejisti türler zamanla baskınlaşır ve besin ağı karmaşıklaşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551225_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin en küçük birimi hangisidir?",
+    "options": [
+      "Toplum",
+      "Biyom",
+      "Canlı",
+      "Hücre",
+      "Popülasyon"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ekosistemlerin en küçük birimi, organizmaların bir araya gelerek oluşturduğu popülasyonlardır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522684385_10",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi durum ekosistemlerin biyolojik çeşitliliğini artırır?",
+    "options": [
+      "Monokültür tarımı",
+      "Kirlilik",
+      "Habitat kaybı",
+      "Doğal koruma alanları oluşturmak",
+      "İklim değişikliği"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Doğal koruma alanları oluşturmak, türlerin korunmasına yardımcı olur ve ekosistemlerin biyolojik çeşitliliğinin artmasına katkıda bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551227_24",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi tür organizmalar ekosistemlerde en fazla sayıda bulunur?",
+    "options": [
+      "Üreticiler",
+      "Tüketiciler",
+      "Çürütücüler",
+      "Mikroorganizmalar",
+      "Bütün organizmalar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mikroorganizmalar, ekosistemlerde en fazla sayıda bulunan organizma grubudur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551227_29",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji akışında en çok hangi kayıplar görülür?",
+    "options": [
+      "Isı kaybı",
+      "Su kaybı",
+      "Toprak kaybı",
+      "Hava kaybı",
+      "Besin kaybı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enerji akışında en büyük kayıplar, metabolizma süreçleri sırasında ısı kaybı şeklinde gerçekleşir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576932247_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi bir ekosistemin dengesini bozabilir?",
+    "options": [
+      "İklim değişikliği",
+      "Biyolojik çeşitliliğin artması",
+      "Yeni türlerin ekosisteme katılması",
+      "Doğal afetler",
+      "Tüm seçenekler doğrudur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İklim değişikliği, ekosistem dengesini bozabilir. Ayrıca, bazı yeni türler ekosistemdeki dengeyi olumsuz etkileyebilir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764578828829_16",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemin en kritik bileşenlerinden biri hangisidir?",
+    "options": [
+      "Hava",
+      "Su",
+      "Toprak",
+      "Işık",
+      "Tümünün kombinasyonu"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir ekosistemin sağlıklı işleyişi için hava, su, toprak ve ışık gibi tüm bileşenlerin bir arada bulunması gereklidir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_17",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi ekosistemlerin biyolojik çeşitliliğini azaltan bir faktördür?",
+    "options": [
+      "Koruma projeleri",
+      "İnsani faaliyetler",
+      "Habitat kaybı",
+      "Kirlilik",
+      "İklim değişikliği"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İnsani faaliyetler, habitat kaybı ve kirlilik gibi etmenler biyoçeşitliliği azaltan faktörlerdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498764161_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir su ekosisteminde, besin zincirinin basamakları arasında aktarılan enerji ve biyobirikim özelliğine sahip zehirli bir madde (örneğin cıva) miktarındaki değişim ile ilgili aşağıdaki grafiklerden hangisi doğru olabilir?",
+    "options": [
+      "Enerji artar, Zehirli madde miktarı artar",
+      "Enerji azalır, Zehirli madde miktarı azalır",
+      "Enerji artar, Zehirli madde miktarı azalır",
+      "Enerji azalır, Zehirli madde miktarı artar",
+      "Enerji değişmez, Zehirli madde miktarı artar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Besin piramidinde üreticilerden son tüketicilere doğru gidildikçe her trofik düzeyde enerjinin yaklaşık %90'ı ısı olarak kaybedilir ve bir üst basamağa sadece %10'u aktarılır. Bu nedenle, yukarı doğru çıkıldıkça aktarılan enerji miktarı azalır. Biyobirikim ise, canlı vücudunda biriken ve atılamayan zehirli maddelerin besin zinciri yoluyla üst basamaklardaki canlılara aktarılması ve bu canlıların dokularındaki derişiminin artması olayıdır. Her canlı, alt trofik düzeyden çok sayıda bireyi tükettiği için, bu maddeler en üstteki tüketicinin vücudunda en yüksek konsantrasyona ulaşır. Dolayısıyla, besin piramidinde yukarı doğru çıkıldıkça aktarılan enerji azalırken, biyobirikim özelliğindeki zehirli madde miktarı (derişimi) artar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522684385_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi faktör ekosistemlerin çeşitliliğini en çok etkiler?",
+    "options": [
+      "İklim",
+      "Toprak türü",
+      "Su kaynakları",
+      "Canlı türleri",
+      "Biyolojik çeşitlilik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İklim, sıcaklık, yağış, rüzgar gibi faktörleri içerir ve ekosistemlerin yapısını, işleyişini ve çeşitliliğini en fazla etkileyen faktördür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826325_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin temel bileşenleri arasında hangisi yer almaz?",
+    "options": [
+      "Canlılar",
+      "Toprak",
+      "Hava",
+      "Su",
+      "Yerli halk"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistemlerin temel bileşenleri canlılar, toprak, hava ve su gibi doğal unsurlardır. Yerli halk ise ekosistem bileşeni değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528551228_40",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji kaynağı olarak suyun rolü nedir?",
+    "options": [
+      "İkincil",
+      "Yardımcı",
+      "Ana",
+      "İkili",
+      "Destekleyici"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Su, organizmaların yaşayabilmesi için gerekli olan temel enerji kaynağıdır ve birçok biyokimyasal süreçte rol oynar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826325_8",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi ekosistem sağlığını gösteren bir ölçüttür?",
+    "options": [
+      "Biyoçeşitlilik indeksleri",
+      "Toprak pH'ı",
+      "Hava sıcaklığı",
+      "Su akışı",
+      "Yağış miktarı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biyoçeşitlilik indeksleri, bir ekosistemin sağlığını ve dayanıklılığını gösteren önemli bir ölçüttür. Diğerleri ekosistem sağlığını dolaylı olarak etkileyebilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575795395_4",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemde enerji akışı nasıl gerçekleşir?",
+    "options": [
+      "Topraktan havaya",
+      "Havadan suya",
+      "Üreticilerden tüketicilere",
+      "Tüketicilerden üreticilere",
+      "Sadece hayvanlar arasında"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ekosistemde enerji akışı, üreticilerden (bitkiler) tüketicilere (hayvanlar) doğru gerçekleşir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764522684385_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde enerji akışı hangi yönde gerçekleşir?",
+    "options": [
+      "Cansızdan canlıya",
+      "Canlıdan cansıza",
+      "Dönüşümlü olarak",
+      "Dikey olarak",
+      "Yatay olarak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enerji akışı, genellikle güneş ışığından başlar ve bitkiler aracılığıyla (fotosentez) canlılara aktarılır. Bu nedenle enerji akışı cansızdan canlıya doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519373124_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki biyoçeşitlilik neden önemlidir?",
+    "options": [
+      "Enerji verimliliğini artırır",
+      "Sadece bitkileri etkiler",
+      "Hava kirliliğini artırır",
+      "Su döngüsünü etkiler",
+      "Tüm canlıların varlığını tehdit eder"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biyoçeşitlilik, ekosistemlerin enerji verimliliğini artırır ve dayanıklılığını sağlar. Çeşitli türler, ekosistemin işleyişini ve dengenin korunmasını sağlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764576932247_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi bir ekosistemin bileşenlerinden biri değildir?",
+    "options": [
+      "Toprak",
+      "Hava",
+      "Su",
+      "Fiziksel çevre",
+      "Bireysel organizmalar"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistem bileşenleri fiziksel çevre, canlı organizmalar (üreticiler, tüketiciler, ayrıştırıcılar) ve bunların arasındaki etkileşimleri içerir. Bireysel organizmalar tek başına bir ekosistem bileşeni olarak kabul edilmez.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764528551225_6",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi terim, bir ekosistemdeki canlıların belli bir alanda yoğunluğunu ifade eder?",
+    "options": [
+      "Popülasyon",
+      "Biyom",
+      "Küme",
+      "Toplum",
+      "Nüfus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Popülasyon, belirli bir alanda yaşayan aynı türden organizmaların toplamına verilen isimdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826325_7",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki terimlerden hangisi ekosistemlerdeki enerji akışını ifade eder?",
+    "options": [
+      "Nüfuz",
+      "Tüketim",
+      "Transfer",
+      "Akış",
+      "Devir"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Enerji akışı, ekosistem içindeki enerji dönüşümünü ve hareketini ifade ederken, diğer terimler farklı kavramları temsil eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520335971_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki canlıların ve cansızların etkileşimleri sonucunda oluşan dengeye ne ad verilir?",
+    "options": [
+      "Biyom",
+      "Biyolojik çeşitlilik",
+      "Ekolojik denge",
+      "Habitat",
+      "Niş"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ekolojik denge, bir ekosistemdeki canlılar ve cansızlar arasındaki etkileşimlerin sonucunda oluşan denge durumunu ifade eder. Bu denge, ekosistemin sağlıklı bir şekilde işleyebilmesi için kritik öneme sahiptir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551228_33",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji akışında en önemli rolü oynayan faktör nedir?",
+    "options": [
+      "Üreticiler",
+      "Tüketiciler",
+      "Çürütücüler",
+      "İklim",
+      "Toprak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enerji akışında en temel rolü üreticiler oynar. Onlar, güneş enerjisini kullanarak besin üretirler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551225_9",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi terim, bir ekosistemdeki canlıların farklı türleri arasındaki etkileşimleri ifade eder?",
+    "options": [
+      "Popülasyon",
+      "Biyom",
+      "Ekosistem",
+      "Toplum",
+      "Habitat"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Farklı türlerin bir arada bulunduğu ve etkileşimde bulunduğu gruba toplum denir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828829_6",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi terim, ekosistemdeki canlıların ve cansızların birbirleri ile olan etkileşimlerini ifade eder?",
+    "options": [
+      "Etkileşim",
+      "Simbiyoz",
+      "Ekosistem dinamikleri",
+      "Biyoçeşitlilik",
+      "Habitat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ekosistem dinamikleri, canlılar ve cansızlar arasındaki etkileşimleri ve bu etkileşimlerin ekosistem üzerindeki etkilerini tanımlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828829_20",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi tür, ekosistemdeki dengeyi sağlamak için kritik öneme sahiptir?",
+    "options": [
+      "Üreticiler",
+      "Herbivorlar",
+      "Karnivorlar",
+      "Detritivorlar",
+      "Hepsi"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Üreticiler, herbivorlar, karnivorlar ve detritivorlar, ekosistemdeki enerji akışını ve dengenin sağlanmasını sağlar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_22",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin dengesini bozan etmenlerden hangisi en yaygın olanıdır?",
+    "options": [
+      "İklim değişikliği",
+      "Doğal afetler",
+      "Kirlilik",
+      "Aşırı avlanma",
+      "Tarım uygulamaları"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kirlilik, ekosistemlerin dengesini bozan en yaygın etmenlerden biridir ve birçok ekosistemi olumsuz etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764528551225_13",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin sürdürülebilirliği için en önemli faktör nedir?",
+    "options": [
+      "Biyom çeşitliliği",
+      "Toprak kalitesi",
+      "Su kaynakları",
+      "İklim değişikliği",
+      "Enerji kullanımı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biyom çeşitliliği, ekosistemlerin çeşitli organizmaları barındırarak işlevselliğini sürdürebilmesi için kritik öneme sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551226_20",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki canlıların bir araya gelmesiyle oluşan yapıya ne denir?",
+    "options": [
+      "Biyom",
+      "Habitat",
+      "Popülasyon",
+      "Toplum",
+      "Ekosistem"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Farklı türlerin bir araya gelmesiyle oluşan yapıya toplum denir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519373123_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde enerji akışı hangi aşamada başlar?",
+    "options": [
+      "Tüketiciler",
+      "Üreticiler",
+      "Çürükçüler",
+      "Avcılar",
+      "Parazitler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir ekosistemde enerji akışı, üreticilerin fotosentez yoluyla güneş enerjisini kimyasal enerjiye dönüştürmesi ile başlar. Üreticiler, ekosistemlerin temel enerji kaynağıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522684385_8",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde besin piramidi neyi gösterir?",
+    "options": [
+      "Canlıların sayısını",
+      "Enerji akışını ve besin seviyelerini",
+      "İklim koşullarını",
+      "Toprak özelliklerini",
+      "Su kalitesini"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Besin piramidi, ekosistemlerde enerji akışını ve farklı besin seviyelerindeki organizmaların sayısını gösterir. Üstteki seviyeler alt seviyelere göre daha az enerji taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764528551226_21",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki su döngüsünün en önemli aşaması hangisidir?",
+    "options": [
+      "Buharlaşma",
+      "Yoğunlaşma",
+      "Yağış",
+      "Süzülme",
+      "Dolaşım"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Su döngüsünün en önemli aşaması buharlaşmadır; bu süreçle su, havaya karışır.",
     "difficulty": 4
   },
   {
@@ -2176,19 +2000,291 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764528551227_24",
+    "id": "ai_1764528551227_27",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Hangi tür organizmalar ekosistemlerde en fazla sayıda bulunur?",
+    "questionText": "Ekosistemlerde hangi terim, belirli bir alanda yaşayan aynı türden organizma sayısını ifade eder?",
+    "options": [
+      "Toplum",
+      "Popülasyon",
+      "Biyom",
+      "Habitat",
+      "Ekosistem"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Popülasyon, belirli bir alanda yaşayan aynı türden organizmaların sayısını ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764524826327_30",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdaki terimlerden hangisi ekosistemdeki enerji akışının yönünü gösterir?",
+    "options": [
+      "Trofik düzey",
+      "Enerji kaynağı",
+      "Enerji transferi",
+      "Ekosistem yapısı",
+      "Ekosistem dengesi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enerji transferi, ekosistemdeki enerji akışının yönünü gösterir. Diğer terimler enerji akışını dolaylı olarak etkileyebilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828830_24",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi tür, ekosistemlerde enerji akışının en üst seviyesinde yer alır?",
+    "options": [
+      "Üreticiler",
+      "Herbivorlar",
+      "Karnivorlar",
+      "Detritivorlar",
+      "Mikroorganizmalar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karnivorlar, ekosistemde enerji akışının en üst seviyesinde yer alır ve herbivorları tüketerek enerji transferini gerçekleştirir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764500161478_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde, yangın gibi bir bozulma sonrası canlıların alana yeniden yerleşmesi ve zamanla değişmesi sürecine 'ikincil süksesyon' denir. Bu süreçte alana ilk yerleşen öncü (pioneer) türler ile süksesyonun son aşamasında oluşan kararlı klimaks komünite türleri karşılaştırıldığında, öncü türlerin sahip olduğu adaptasyonlarla ilgili aşağıdakilerden hangisi genellikle yanlıştır?",
+    "options": [
+      "Hızlı büyüme ve kısa yaşam döngüsüne sahip olma",
+      "Yayılma ve yeni alanları kolonize etme yeteneklerinin yüksek olması",
+      "Sıcaklık ve nem gibi çevresel değişimlere karşı toleranslarının düşük olması",
+      "Genellikle r-stratejisti olarak bilinen üreme stratejisini benimseme",
+      "Toprak yapısı ve besin maddeleri açısından fakir koşullarda yaşayabilme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İkincil süksesyonun başlangıcında ortam koşulları oldukça zorludur (örneğin, besin maddesi az, güneş ışığı doğrudan ve yoğun, sıcaklık dalgalanmaları fazla). Bu zorlu koşullara ilk yerleşen öncü türler, bu tür değişken ve elverişsiz koşullara karşı yüksek toleransa (hoşgörüye) sahip olmak zorundadır. Bu nedenle, öncü türlerin çevresel değişimlere karşı toleranslarının düşük olması ifadesi yanlıştır; tam tersine toleransları oldukça geniştir. Diğer şıklar öncü türlerin tipik özellikleridir: Hızlı büyürler ve kısa sürede ürerler (A ve D), tohumları rüzgar gibi etkenlerle kolayca yayılarak yeni alanları kolonize ederler (B) ve fakir topraklarda hayatta kalabilirler (E).",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764524826327_20",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki enerji kaynağı olan güneş ışığının bitkiler üzerindeki etkisi nedir?",
+    "options": [
+      "Fotosentez",
+      "Solunum",
+      "Değişim",
+      "Dönüşüm",
+      "Biyokütle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güneş ışığı, bitkilerde fotosentez sürecini başlatır ve bu süreçte enerji depolama gerçekleşir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764578828830_27",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemler arasındaki etkileşimleri en iyi açıklayan kavram hangisidir?",
+    "options": [
+      "Kirlilik",
+      "Sürdürülebilirlik",
+      "Biyoçeşitlilik",
+      "Bağlantılılık",
+      "Detritivorlar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ekosistemler arasındaki bağlantılılık, bir ekosistemdeki değişimlerin diğer ekosistemleri de nasıl etkileyebileceğini ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575795395_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde en fazla enerji kimde bulunur?",
+    "options": [
+      "Üreticilerde",
+      "Birincil tüketicilerde",
+      "İkincil tüketicilerde",
+      "Tersiyer tüketicilerde",
+      "Decomposers (ayıcılar)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Üreticiler, fotosentez yoluyla enerji ürettikleri için ekosistemde en fazla enerjiye sahip olan gruptur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764522684385_12",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde dengeyi sağlamaya yarayan organizmalar hangileridir?",
     "options": [
       "Üreticiler",
       "Tüketiciler",
-      "Çürütücüler",
-      "Mikroorganizmalar",
-      "Bütün organizmalar"
+      "Detritivorlar",
+      "Hepsi",
+      "Hiçbiri"
     ],
     "correctAnswer": 3,
-    "explanation": "Mikroorganizmalar, ekosistemlerde en fazla sayıda bulunan organizma grubudur.",
+    "explanation": "Üreticiler, tüketiciler ve detritivorlar, ekosistemlerde dengeyi sağlamak için farklı roller üstlenir ve hepsi birbirleriyle etkileşim içindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575795395_3",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Aşağıdakilerden hangisi bir tüketicidir?",
+    "options": [
+      "Çim",
+      "Ağaç",
+      "Kedi",
+      "Mavi balina",
+      "Bakteri"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kedi, diğer canlıları besin olarak tüketen bir hayvandır ve bu nedenle bir tüketici olarak sınıflandırılır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764578828829_15",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Dönüşüm sürecinde, hangi canlılar organik maddeleri ayrıştırır?",
+    "options": [
+      "Üreticiler",
+      "Tüketiciler",
+      "Detritivorlar",
+      "Karnivorlar",
+      "Herbivorlar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Detritivorlar, organik maddeleri ayrıştırarak besin döngüsüne katkıda bulunur ve ekosistem sağlığını destekler.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576932247_3",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde ayrıştırıcıların rolü nedir?",
+    "options": [
+      "Enerjiyi depolamak",
+      "Organizmaları üretmek",
+      "Ölü organizmaları parçalamak ve besin döngüsüne katkıda bulunmak",
+      "Sadece bitkileri büyütmek",
+      "Hayvanların beslenmesine yardımcı olmak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ayrıştırıcılar, ölü organizmaları ve atıkları parçalayarak, besin maddelerini toprağa geri kazandırır ve böylece besin döngüsünün devam etmesine katkıda bulunur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576932247_8",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde enerji kaynağı olarak en önemli olan nedir?",
+    "options": [
+      "Toprak",
+      "Güneş",
+      "Su",
+      "Hava",
+      "Ayrıştırıcılar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır. Üreticiler, güneş ışığını kullanarak fotosentez yapar ve enerji üretir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764519373123_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde besin zincirinin en üst seviyesindeki canlılar hangileridir?",
+    "options": [
+      "Birincil tüketiciler",
+      "İkincil tüketiciler",
+      "Üreticiler",
+      "Tercil tüketiciler",
+      "Detritivorlar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Besin zincirinde en üst seviyedeki canlılar, genellikle avcı olarak tanımlanan tercil tüketicilerdir. Bu canlılar, ikincil tüketicileri avlayarak enerji alırlar.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500161478_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Karbon döngüsü, karbon elementinin atmosfer, okyanuslar, kara ve canlılar arasında sürekli bir döngü içinde olmasını ifade eder. İnsan faaliyetleri, bu doğal döngüye müdahale ederek atmosferdeki karbondioksit (CO2) miktarını artırmaktadır. Aşağıdakilerden hangisi, atmosferdeki CO2 miktarını azaltmaya yönelik bir uygulama örneğidir?",
+    "options": [
+      "Sanayi tesislerinde ve enerji üretiminde fosil yakıt kullanımının artırılması",
+      "Tarıma elverişli alanlar açmak için ormanların tahrip edilmesi",
+      "Sulak alanların kurutularak yerleşim alanlarına dönüştürülmesi",
+      "Endüstriyel tarım yerine organik tarım yöntemlerinin teşvik edilmesi",
+      "Geniş ölçekli ağaçlandırma ve erozyon kontrolü çalışmalarının yapılması"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Atmosferdeki karbondioksit (CO2) miktarını azaltmanın en etkili yollarından biri, fotosentez yoluyla CO2'yi kullanan bitki miktarını artırmaktır. Geniş ölçekli ağaçlandırma (ağaç dikme) ve erozyon kontrolü projeleri, bitki örtüsünü artırarak atmosferden daha fazla CO2 çekilmesini sağlar ve karbonu biyokütle olarak depolar. Bu nedenle bu faaliyetler atmosferdeki CO2'yi azaltmaya yöneliktir. Diğer şıklar ise atmosferdeki CO2 miktarını doğrudan veya dolaylı olarak artıran faaliyetlerdir. Fosil yakıt kullanımı (A) ve ormanların tahrip edilmesi (B) en büyük CO2 kaynaklarıdır. Sulak alanların kurutulması (C) depolanan karbonun açığa çıkmasına neden olabilir. Organik tarım (D) faydalı olsa da, CO2 azaltımındaki etkisi geniş ölçekli ağaçlandırma kadar doğrudan ve büyük değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575795395_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Fotosentez, hangi canlılar tarafından gerçekleştirilir?",
+    "options": [
+      "Hayvanlar",
+      "Bitkiler",
+      "Mantarlar",
+      "Bakteriler",
+      "Tüm canlılar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fotosentez, bitkiler ve bazı mikroorganizmalar tarafından gerçekleştirilen bir süreçtir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764528551226_17",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki besin zincirinin başlangıcı nedir?",
+    "options": [
+      "Tüketiciler",
+      "Çürütücüler",
+      "Üreticiler",
+      "Enerji",
+      "Hava"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Besin zinciri, üreticilerle başlar, çünkü enerji ilk olarak onlardan elde edilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828829_7",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki enerji kaynağı hangisidir?",
+    "options": [
+      "Güneş",
+      "Rüzgar",
+      "Su",
+      "Toprak",
+      "Mikroorganizmalar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır ve bitkiler bu enerjiyi fotosentez yoluyla kullanır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551226_18",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde hangi faktörler biyotik unsurları oluşturur?",
+    "options": [
+      "Işık, su, sıcaklık",
+      "Toprak, su, hava",
+      "Canlılar, bitkiler, hayvanlar",
+      "İklim, hava, toprak",
+      "Hepsi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biyotik unsurlar, canlılar ve bunların çeşitlerini içerir.",
     "difficulty": 4
   },
   {
@@ -2208,147 +2304,435 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764575795395_2",
+    "id": "ai_1764528551227_26",
     "subjectId": "biy",
     "topic": "Ekosistem",
-    "questionText": "Fotosentez, hangi canlılar tarafından gerçekleştirilir?",
+    "questionText": "Ekosistemlerin dengesini korumak için hangi tür organizmalar kritik öneme sahiptir?",
     "options": [
-      "Hayvanlar",
-      "Bitkiler",
-      "Mantarlar",
-      "Bakteriler",
-      "Tüm canlılar"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fotosentez, bitkiler ve bazı mikroorganizmalar tarafından gerçekleştirilen bir süreçtir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764528551225_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerde enerji akışı hangi yönde gerçekleşir?",
-    "options": [
-      "Aşağıdan yukarıya",
-      "Yukarıdan aşağıya",
-      "Dairesel",
-      "İkili",
-      "Çift yönlü"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ekosistemlerde enerji akışı, güneşten başlayan ve besin zinciri boyunca yukarıya doğru ilerleyen bir süreçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826325_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin temel bileşenleri arasında hangisi yer almaz?",
-    "options": [
-      "Canlılar",
-      "Toprak",
-      "Hava",
-      "Su",
-      "Yerli halk"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ekosistemlerin temel bileşenleri canlılar, toprak, hava ve su gibi doğal unsurlardır. Yerli halk ise ekosistem bileşeni değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764528551226_22",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Hangi terim, bir ekosistemdeki canlıların birbirleriyle olan ilişkilerini ifade eder?",
-    "options": [
-      "Popülasyon",
-      "Ekoloji",
-      "Toplum",
-      "Biyom",
-      "Habitat"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ekoloji, canlıların birbirleriyle olan ilişkilerini ve bu ilişkilerin nasıl işlediğini inceleyen bilim dalıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522684385_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde enerji akışı hangi yönde gerçekleşir?",
-    "options": [
-      "Cansızdan canlıya",
-      "Canlıdan cansıza",
-      "Dönüşümlü olarak",
-      "Dikey olarak",
-      "Yatay olarak"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Enerji akışı, genellikle güneş ışığından başlar ve bitkiler aracılığıyla (fotosentez) canlılara aktarılır. Bu nedenle enerji akışı cansızdan canlıya doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764528551225_13",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerin sürdürülebilirliği için en önemli faktör nedir?",
-    "options": [
-      "Biyom çeşitliliği",
-      "Toprak kalitesi",
-      "Su kaynakları",
-      "İklim değişikliği",
-      "Enerji kullanımı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Biyom çeşitliliği, ekosistemlerin çeşitli organizmaları barındırarak işlevselliğini sürdürebilmesi için kritik öneme sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764524826327_28",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Ekosistemlerdeki türlerin adaptasyon yeteneği neyi ifade eder?",
-    "options": [
-      "Dış faktörlere karşı dayanıklılık",
-      "Farklı habitatlara yayılım",
-      "Üreme yeteneği",
-      "Yenilenme süreci",
-      "Enerji tasarrufu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dış faktörlere karşı dayanıklılık, türlerin adaptasyon yeteneğini tanımlar. Bu, çevresel değişikliklere uyum sağlama becerisidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576932247_1",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Aşağıdakilerden hangisi bir ekosistemin bileşenlerinden biri değildir?",
-    "options": [
-      "Toprak",
-      "Hava",
-      "Su",
-      "Fiziksel çevre",
-      "Bireysel organizmalar"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ekosistem bileşenleri fiziksel çevre, canlı organizmalar (üreticiler, tüketiciler, ayrıştırıcılar) ve bunların arasındaki etkileşimleri içerir. Bireysel organizmalar tek başına bir ekosistem bileşeni olarak kabul edilmez.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764580039766_0",
-    "subjectId": "biy",
-    "topic": "Ekosistem",
-    "questionText": "Bir ekosistemde enerji akışını ve besin zincirlerini etkileyen en önemli faktörlerden biri hangisidir?",
-    "options": [
-      "Toprak kalitesi",
-      "Hava sıcaklığı",
-      "Su kaynakları",
-      "Işık miktarı",
-      "Biyolojik çeşitlilik"
+      "Üreticiler",
+      "Tüketiciler",
+      "Çürütücüler",
+      "Hepsi",
+      "Hiçbiri"
     ],
     "correctAnswer": 3,
-    "explanation": "Işık miktarı, fotosentez yapan bitkilerin enerji üretmesi için gereklidir ve bu da ekosistemdeki enerji akışını doğrudan etkiler. Işık, besin zincirinin temelini oluşturan bitkilerin büyümesini sağlarken, diğer canlıların da bu bitkilerle beslenmesini mümkün kılar.",
+    "explanation": "Üreticiler, tüketiciler ve çürütücüler, ekosistem dengesini sağlamak için birbirleriyle etkileşim içinde olmalıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764528551226_14",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki canlıların yaşam alanı olarak tanımlanan terim hangisidir?",
+    "options": [
+      "Popülasyon",
+      "Habitat",
+      "Biyom",
+      "Ekosistem",
+      "Toplum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Habitat, canlıların yaşam alanı olarak tanımlanır ve onların ihtiyaç duyduğu kaynakları içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764578828829_17",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Besin piramidi nedir?",
+    "options": [
+      "Ekosistemdeki tüm türlerin dağılımı",
+      "Enerji akışının görsel temsili",
+      "Çeşitli habitatların listesi",
+      "Sadece bitki türlerinin listesi",
+      "Hayvanların göç yolları"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Besin piramidi, ekosistemdeki enerji akışını ve besin zincirindeki farklı seviyeleri görsel olarak temsil eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764581641366_0",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde enerji akışını düzenleyen en önemli faktör hangisidir?",
+    "options": [
+      "Besin zinciri",
+      "Su döngüsü",
+      "Karbon döngüsü",
+      "Hava durumu",
+      "Toprak yapısı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Besin zinciri, ekosistemde enerji akışını düzenleyen temel bir yapıdır. Üreticilerden başlayarak, tüketicilere ve ayrıştırıcılara kadar enerji akışı bu zincir üzerinden gerçekleşir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_1",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem çeşitliliği hangi faktörle doğrudan ilişkilidir?",
+    "options": [
+      "Iklim",
+      "Toprak tipi",
+      "Su kaynakları",
+      "Tropik bölgeler",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ekosistem çeşitliliği, iklim, toprak tipi, su kaynakları gibi birçok faktörle doğrudan ilişkilidir. Bu faktörler, ekosistemlerin yapısını ve işleyişini etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_2",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki türlerin sayısı ve bunların arasındaki ilişkileri inceleyen bilim dalı hangisidir?",
+    "options": [
+      "Ekoloji",
+      "Biyoloji",
+      "Antropoloji",
+      "Zooloji",
+      "Botanik"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ekoloji, ekosistemlerdeki türlerin sayısını ve bu türler arasındaki ilişkileri inceleyen bilim dalıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_3",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ayrıştırıcılar ekosistemlerde hangi rolü üstlenir?",
+    "options": [
+      "Üretim",
+      "Tüketim",
+      "Enerji transferi",
+      "Atıkların dönüştürülmesi",
+      "Hava temizliği"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ayrıştırıcılar, ölü organizmaları ve atıkları parçalayarak besin maddelerine dönüştürürler. Bu süreç, ekosistemde besin döngüsünün devamlılığını sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_4",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi faktör ekosistemlerde biyolojik çeşitliliği artırır?",
+    "options": [
+      "İnsan faaliyetleri",
+      "Monokültür tarım",
+      "İklim değişikliği",
+      "Habitat çeşitliliği",
+      "Kirlilik"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Habitat çeşitliliği, ekosistemlerde biyolojik çeşitliliği artıran önemli bir faktördür. Farklı habitatlar, farklı türlerin yaşaması için uygun ortamlar sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_5",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde besin zincirinin en üst seviyesindeki canlılar hangi gruptadır?",
+    "options": [
+      "Üreticiler",
+      "Birincil tüketiciler",
+      "İkincil tüketiciler",
+      "Tertiyer tüketiciler",
+      "Ayrıştırıcılar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tertiyer tüketiciler, besin zincirinin en üst seviyesindeki canlılardır ve genellikle diğer tüketicileri avlayarak beslenirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_6",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemdeki canlıların birbirleriyle olan ilişkileri hangi terimle tanımlanır?",
+    "options": [
+      "Popülasyon",
+      "Biyom",
+      "Komünite",
+      "Ekosistem",
+      "Habitat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Komünite, belirli bir alanda bir arada yaşayan farklı türlerin oluşturduğu topluluğu ifade eder ve bu türler arasındaki ilişkileri inceler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_7",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Enerji akışında en fazla kayıplar hangi aşamada görülür?",
+    "options": [
+      "Üreticilerden birincil tüketicilere",
+      "Birincil tüketicilerden ikincil tüketicilere",
+      "İkincil tüketicilerden tertiyer tüketicilere",
+      "Ayrıştırıcılara",
+      "Besin zincirinin tamamında eşit olarak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enerji akışında en fazla kayıplar ikincil tüketicilere geçişte görülür. Her aşamada enerji kaybı yaşanır ve bu kayıplar genellikle 90% civarındadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_8",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki besin zincirinin en temel elemanı nedir?",
+    "options": [
+      "Üreticiler",
+      "Tüketiciler",
+      "Ayrıştırıcılar",
+      "Biyom",
+      "Popülasyon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Üreticiler, güneş enerjisini kullanarak organik madde üretirler ve besin zincirinin temel elemanıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641366_9",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemdeki canlıların sayısı ve tür çeşitliliğinin zamanla değişimi hangi kavramla ifade edilir?",
+    "options": [
+      "Dinamik denge",
+      "Ekosistem stabilitesi",
+      "Biyolojik çeşitlilik",
+      "Popülasyon dinamiği",
+      "Kirlilik"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Popülasyon dinamiği, bir ekosistemdeki canlıların sayısı ve tür çeşitliliğinin zamanla nasıl değiştiğini inceleyen bir kavramdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_10",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi durum ekosistem dengesini bozar?",
+    "options": [
+      "Doğal afetler",
+      "İnsan faaliyetleri",
+      "İklim değişikliği",
+      "Tüm seçenekler",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Doğal afetler, insan faaliyetleri ve iklim değişikliği gibi faktörler ekosistem dengesini bozabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_11",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde hangi süreç, besin döngüsünün en önemli parçasıdır?",
+    "options": [
+      "Fotosentez",
+      "Respirasyon",
+      "Değişim",
+      "Sirkülasyon",
+      "Dönüşüm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fotosentez, bitkilerin güneş enerjisini kullanarak besin üretmesini sağlar ve besin döngüsünün en önemli parçasıdır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_12",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde türler arası etkileşimlerin en yaygın türlerinden biri hangisidir?",
+    "options": [
+      "Mutualizm",
+      "Parazitizm",
+      "Komensalizm",
+      "Tüm seçenekler",
+      "Hiçbiri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Türler arası etkileşimlerin en yaygın türleri arasında mutualizm, parazitizm ve komensalizm gibi ilişkiler bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_13",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde suyun döngüsü hangi süreçleri içerir?",
+    "options": [
+      "Buharlaşma, yoğunlaşma, yağış",
+      "Fotosentez, respirasyon",
+      "Sirkülasyon, ayrıştırma",
+      "Monokültür, çeşitlilik",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suyun döngüsü buharlaşma, yoğunlaşma ve yağış süreçlerini içerir ve ekosistemlerde suyun sürekli hareket etmesini sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_14",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi faktör ekosistemlerin enerji verimliliğini etkiler?",
+    "options": [
+      "Canlı türleri",
+      "İklim koşulları",
+      "Toprak özellikleri",
+      "Su kaynakları",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Canlı türleri, iklim koşulları, toprak özellikleri ve su kaynakları gibi faktörler ekosistemlerin enerji verimliliğini etkiler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_15",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin sürdürülebilirliği için en önemli unsur nedir?",
+    "options": [
+      "Biyolojik çeşitlilik",
+      "Toprak verimliliği",
+      "Su kaynakları",
+      "Enerji kaynakları",
+      "İnsan etkisi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Biyolojik çeşitlilik, ekosistemlerin sürdürülebilirliğinin temel unsurudur. Daha fazla tür, daha fazla dayanıklılık ve denge sağlar.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_16",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi süreç, ekosistemlerdeki besin döngüsünü kapatır?",
+    "options": [
+      "Fotosentez",
+      "Tüketim",
+      "Ayrıştırma",
+      "Değişim",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ayrıştırma süreci, ölü organizmaları ve atıkları parçalayarak besin döngüsünü kapatır ve besin maddelerini toprağa geri kazandırır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_17",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki türlerin sayısının azalması neyle sonuçlanır?",
+    "options": [
+      "Ekosistem sağlığının artması",
+      "Yenilenebilir kaynakların artması",
+      "Ekosistem dengesinin bozulması",
+      "Sadece belirli türlerin artması",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tür çeşitliliğinin azalması, ekosistem dengesinin bozulmasına yol açar. Daha az tür, daha az denge ve dayanıklılık demektir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_18",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Hangi tür etkileşim, iki tür arasında karşılıklı yarar sağlar?",
+    "options": [
+      "Komensalizm",
+      "Parazitizm",
+      "Mutualizm",
+      "Predatizm",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mutualizm, iki tür arasında karşılıklı yarar sağlayan bir etkileşim türüdür. Örneğin, çiçekler ile polinatörler arasındaki ilişki bu duruma örnektir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_19",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerde enerji kaynağı olarak en önemli kaynak nedir?",
+    "options": [
+      "Güneş",
+      "Rüzgar",
+      "Su",
+      "Toprak",
+      "Mineraller"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Güneş, ekosistemlerdeki enerji akışının temel kaynağıdır. Tüm besin zincirleri, güneşten elde edilen enerjiye dayanır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_20",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Bir ekosistemde türlerin birbirleriyle olan ilişkileri inceleyen temel kavram nedir?",
+    "options": [
+      "Tüketim",
+      "Simbiyoz",
+      "Etkileşim",
+      "Döngü",
+      "Denge"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Türlerin birbirleriyle olan ilişkilerini inceleyen temel kavram etkileşimdir. Bu etkileşimler, ekosistemin dinamiklerini belirler.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_21",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistem hizmetleri nedir?",
+    "options": [
+      "Doğal kaynakların korunması",
+      "İnsanların faydalandığı doğal süreçler",
+      "Biyolojik çeşitliliğin azalması",
+      "İnsan etkisinin azaltılması",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ekosistem hizmetleri, insanların faydalandığı doğal süreçlerdir. Bu hizmetler, hava, su, toprak, besin ve diğer kaynakların sağlanmasını içerir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_22",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerdeki türlerin birbirleriyle olan ilişkilerinin dengede kalması için en önemli unsurlardan biri nedir?",
+    "options": [
+      "Rekabet",
+      "Yetenek",
+      "Kaynaklar",
+      "İletişim",
+      "Hepsi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kaynaklar, ekosistemlerdeki türlerin birbirleriyle olan ilişkilerinin dengede kalması için en önemli unsurlardan biridir. Yeterli kaynaklar, türlerin sağlığını korur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764581641367_23",
+    "subjectId": "biy",
+    "topic": "Ekosistem",
+    "questionText": "Ekosistemlerin bozulmasına en çok neden olan faktör hangisidir?",
+    "options": [
+      "Sanayileşme",
+      "Tarım uygulamaları",
+      "Kentleşme",
+      "Kirlilik",
+      "Tüm seçenekler"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sanayileşme, tarım uygulamaları, kentleşme ve kirlilik gibi faktörler ekosistemlerin bozulmasına neden olan en önemli unsurlardır.",
     "difficulty": 5
   }
 ]
