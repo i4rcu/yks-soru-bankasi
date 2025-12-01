@@ -1,178 +1,18 @@
 [
   {
-    "id": "ai_1764499500462_0",
+    "id": "ai_1764522048439_4",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir torbada 4 kırmızı ve 6 mavi top bulunmaktadır. Torbadan geri konulmamak şartıyla art arda iki top çekiliyor. Çekilen ikinci topun kırmızı olma olasılığı kaçtır?",
+    "questionText": "Bir madeni para 3 kez atıldığında, en az bir kez yazı gelme olasılığı nedir?",
     "options": [
-      "1/5",
-      "1/3",
-      "2/5",
-      "1/2",
-      "3/5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İkinci topun kırmızı olması iki durumda gerçekleşebilir: \n1. Birinci top kırmızı VE ikinci top kırmızı olabilir. \n2. Birinci top mavi VE ikinci top kırmızı olabilir.\n\nDurum 1'in olasılığı: P(Kırmızı, Kırmızı) = (Birincinin kırmızı olma olasılığı) × (Birinci kırmızı iken ikincinin kırmızı olma olasılığı) = (4/10) × (3/9) = 12/90\n\nDurum 2'nin olasılığı: P(Mavi, Kırmızı) = (Birincinin mavi olma olasılığı) × (Birinci mavi iken ikincinin kırmızı olma olasılığı) = (6/10) × (4/9) = 24/90\n\nBu iki durum birbirini dışlayan olaylar olduğu için olasılıkları toplanır:\nToplam Olasılık = P(Kırmızı, Kırmızı) + P(Mavi, Kırmızı) = 12/90 + 24/90 = 36/90\n\nSonucu sadeleştirirsek: 36/90 = 4/10 = 2/5. \n\nİlginç bir not: Bu tür durumlarda, herhangi bir sıradaki topun belirli bir renkte olma olasılığı, başlangıçtaki olasılıkla aynıdır. Başlangıçta kırmızı çekme olasılığı 4/10 = 2/5 idi, ikinci topun kırmızı olma olasılığı da aynıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522048439_14",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir sınıfta 30 öğrenci var. Bu öğrencilerden rastgele seçilen birinin 20 yaşından küçük olma olasılığı %40 ise, sınıfta kaç öğrenci 20 yaşından küçüktür?",
-    "options": [
-      "10",
-      "12",
-      "15",
-      "18",
-      "20"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Eğer olasılık %40 ise, 30 öğrencinin %40'ı 20 yaşından küçük olmalıdır. Yani 30 x 0.4 = 12 öğrenci 20 yaşından küçüktür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622992_0",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, üst yüzeyde 1, 2, 3, 4, 5 veya 6 sayılarından birinin gelme olasılığı nedir?",
-    "options": [
-      "0.1",
-      "0.2",
-      "0.5",
-      "1",
-      "0.3"
+      "1/8",
+      "1/4",
+      "3/8",
+      "7/8",
+      "1/2"
     ],
     "correctAnswer": 3,
-    "explanation": "Bir zarın altı yüzü olduğu için, her bir sayının gelme olasılığı 1/6'dır. Toplamda 6 farklı sonuç vardır ve bunlardan herhangi biri gelme olasılığı 1'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622994_22",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, 1 veya 2 gelme olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/3",
-      "1/4",
-      "1/2",
-      "1/5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zardaki 1 ve 2 sayıları 2'dir. Olasılık = 2/6 = 1/3.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520144916_0",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, 3'ten büyük bir sayı gelme olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/3",
-      "1/2",
-      "2/3",
-      "5/6"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Zarın atılması sonucu elde edilebilecek sayılar 1, 2, 3, 4, 5, 6'dır. 3'ten büyük sayılar 4, 5 ve 6'dır. Bu durumda 3'ten büyük sayı gelme olasılığı 3/6 = 1/2'dir. Yani doğru cevap 2/3 değil, 1/2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622994_20",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir sınıfta 25 öğrenci bulunmaktadır. Bu öğrencilerin 15'i kızdır. Rastgele seçilen bir öğrencinin erkek olma olasılığı nedir?",
-    "options": [
-      "0.6",
-      "0.5",
-      "0.4",
-      "0.3",
-      "0.2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Erkek öğrenci sayısı 25 - 15 = 10'dur. Olasılık = 10/25 = 0.4.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526092334_3",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir okulda 10 öğrenci var. Bu öğrencilerden rastgele seçilen 2 öğrencinin de kız olma olasılığı %20 ise, okulda kaç kız öğrenci vardır?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yüzde 20, 1/5 olarak ifade edilebilir. Kız öğrencilerin sayısını x olarak alırsak, (x/10) * ((x-1)/9) = 1/5 olur. Bu denklemi çözdüğümüzde x = 3 bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522048439_10",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kutuda 2 beyaz, 2 siyah ve 2 kırmızı top bulunmaktadır. Rastgele çekilen bir topun beyaz olma olasılığı nedir?",
-    "options": [
-      "1/3",
-      "1/6",
-      "1/2",
-      "1/4",
-      "1/5"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Topların toplam sayısı 6'dır. Beyaz topların sayısı 2 olduğuna göre, olasılık 2/6 = 1/3'tir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522048439_7",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir sınıfta 20 öğrenci var. Bu öğrencilerden rastgele seçilen birinin 18 yaşından büyük olma olasılığı 0.6 ise, sınıfta kaç öğrenci 18 yaşından büyüktür?",
-    "options": [
-      "8",
-      "10",
-      "12",
-      "15",
-      "18"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Eğer olasılık 0.6 ise, 20 öğrencinin %60'ı 18 yaşından büyük olmalıdır. Yani 20 x 0.6 = 12 öğrenci 18 yaşından büyüktür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500868094_2",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir hedefi Ali'nin vurma olasılığı 2/3, Berk'in vurma olasılığı ise 3/4'tür. İkisi hedefe aynı anda birer atış yaptıklarında, hedefin tam olarak bir kez vurulmuş olma olasılığı kaçtır?",
-    "options": [
-      "1/4",
-      "1/3",
-      "5/12",
-      "1/2",
-      "7/12"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ali'nin hedefi vurma olasılığı P(A) = 2/3 ise, vuramama olasılığı P(A') = 1 - 2/3 = 1/3'tür.\nBerk'in hedefi vurma olasılığı P(B) = 3/4 ise, vuramama olasılığı P(B') = 1 - 3/4 = 1/4'tür.\n\nHedefin \"tam olarak bir kez\" vurulması iki farklı şekilde olabilir:\n1. Ali vurur VE Berk vuramaz.\n2. Ali vuramaz VE Berk vurur.\n\nBu olaylar bağımsız olduğundan olasılıkları çarpılır.\n- Durum 1'in olasılığı: P(A ve B') = P(A) * P(B') = (2/3) * (1/4) = 2/12.\n- Durum 2'nin olasılığı: P(A' ve B) = P(A') * P(B) = (1/3) * (3/4) = 3/12.\n\nBu iki durum birbirinden ayrı (ayrık) olaylar olduğu için toplam olasılık bu iki durumun olasılıklarının toplamına eşittir.\nToplam Olasılık = 2/12 + 3/12 = 5/12.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522048439_9",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kişinin bir sınavda başarı oranı %75'tir. Bu kişi 4 kez sınava girerse, en az bir kez başarılı olma olasılığı nedir?",
-    "options": [
-      "0.3164",
-      "0.6875",
-      "0.75",
-      "0.9",
-      "0.95"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Başarısız olma olasılığı (1 - 0.75) = 0.25'tir. 4 kez başarısız olma olasılığı (0.25)^4 = 0.003906'tır. En az bir kez başarılı olma olasılığı 1 - 0.003906 ≈ 0.6875'tir.",
+    "explanation": "Yazı gelmeme olasılığı (her atışta tura gelmesi) 1/2'dir. Üç kez atıldığında, (1/2)^3 = 1/8 yazı gelmeme olasılığıdır. En az bir yazı gelme olasılığı 1 - 1/8 = 7/8'dir.",
     "difficulty": 3
   },
   {
@@ -192,74 +32,10 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764498148612_1",
+    "id": "ai_1764522048439_0",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "6 erkek ve 4 kız öğrencinin bulunduğu bir sınıftan rastgele 3 kişilik bir ekip oluşturulacaktır. Bu ekipte en az bir erkek ve en az bir kız öğrenci bulunma olasılığı kaçtır?",
-    "options": [
-      "1/5",
-      "2/3",
-      "3/4",
-      "4/5",
-      "5/6"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu soruyu çözerken tüm durumların olasılığından (1'den), istenmeyen durumların olasılığını çıkarmak daha kolaydır. \n\nİstenmeyen Durumlar:\n1. Ekibin tamamının erkeklerden oluşması.\n2. Ekibin tamamının kızlardan oluşması.\n\nÖncelikle tüm olası durumların sayısını (örnek uzayı) bulalım. Toplam 10 öğrenciden 3 kişilik bir ekip seçiyoruz.\nTüm Durumlar = C(10, 3) = (10 * 9 * 8) / (3 * 2 * 1) = 10 * 3 * 4 = 120\n\nŞimdi istenmeyen durumları hesaplayalım:\n1. Ekibin tamamının erkek olması: 6 erkek arasından 3 erkek seçilir.\n   C(6, 3) = (6 * 5 * 4) / (3 * 2 * 1) = 20\n2. Ekibin tamamının kız olması: 4 kız arasından 3 kız seçilir.\n   C(4, 3) = 4\n\nİstenmeyen durumların toplam sayısı = 20 + 4 = 24\nİstenmeyen durumların olasılığı = (İstenmeyen Durum Sayısı) / (Tüm Durum Sayısı) = 24 / 120 = 1/5\n\nİstenen durumun (en az bir erkek ve en az bir kız) olasılığı ise:\nP(İstenen Durum) = 1 - P(İstenmeyen Durum)\nP(İstenen Durum) = 1 - (1/5) = 4/5",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622993_12",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir sınıfta 15 öğrenci bulunmaktadır. Bu öğrencilerden 9'u başarıyla mezun olmuştur. Rastgele seçilen bir öğrencinin mezun olma olasılığı nedir?",
-    "options": [
-      "0.6",
-      "0.5",
-      "0.75",
-      "0.4",
-      "0.3"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Mezun olan öğrenci sayısı 9'dur. Olasılık = 9/15 = 0.6.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522048439_11",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, çift sayı gelme olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/3",
-      "1/2",
-      "2/3",
-      "5/6"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zarda 2, 4 ve 6 olmak üzere 3 çift sayı vardır. Dolayısıyla, olasılık 3/6 = 1/2'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622992_4",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir okulda 10 öğrenci var. Bu öğrencilerden rastgele seçilen birinin kız olma olasılığı 0.4 ise, erkek olma olasılığı nedir?",
-    "options": [
-      "0.4",
-      "0.6",
-      "0.5",
-      "0.3",
-      "0.2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Toplam olasılık 1 olduğuna göre, erkek olma olasılığı = 1 - 0.4 = 0.6.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622994_24",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, üst yüzeyde 2, 3 veya 4 gelme olasılığı nedir?",
+    "questionText": "Bir zar atıldığında, 3 gelme olasılığı nedir?",
     "options": [
       "1/6",
       "1/3",
@@ -267,200 +43,8 @@
       "1/4",
       "1/5"
     ],
-    "correctAnswer": 1,
-    "explanation": "Zardaki 2, 3 ve 4 sayıları 3'tür. Olasılık = 3/6 = 1/2.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520144916_2",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir sınıfta 12 öğrenci bulunmaktadır. Bu öğrencilerden rastgele seçilen bir öğrencinin kız olma olasılığı 1/4 ise, sınıfta kaç kız öğrenci vardır?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Eğer 12 öğrencinin 1/4'ü kız ise, bu durumda 12 * (1/4) = 3 kız öğrenci vardır. Doğru cevap 3'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622992_10",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir çift zar atıldığında, her iki zarın da 1 gelme olasılığı nedir?",
-    "options": [
-      "1/36",
-      "1/12",
-      "1/24",
-      "1/6",
-      "1/18"
-    ],
     "correctAnswer": 0,
-    "explanation": "Her zarın 1 gelme olasılığı 1/6'dır. İki zarın 1 gelme olasılığı = (1/6) * (1/6) = 1/36.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522048439_6",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında üst yüzeyin 4 olma olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/3",
-      "1/4",
-      "1/2",
-      "5/6"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir zarın 6 yüzü vardır ve her yüzün gelme olasılığı eşittir. 4 gelme olasılığı 1/6'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500868093_0",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir torbada 4 kırmızı ve 6 mavi top bulunmaktadır. Torbadan geri konulmamak şartıyla art arda iki top çekiliyor. Çekilen ikinci topun kırmızı olma olasılığı kaçtır?",
-    "options": [
-      "1/5",
-      "3/10",
-      "2/5",
-      "1/2",
-      "3/5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İkinci çekilen topun kırmızı olması iki durumda gerçekleşebilir:\n1. Birinci top kırmızı VE ikinci top kırmızı.\n2. Birinci top mavi VE ikinci top kırmızı.\n\nDurum 1'in olasılığı: P(1.K ve 2.K) = P(1.K) * P(2.K | 1.K) = (4/10) * (3/9) = 12/90\nDurum 2'nin olasılığı: P(1.M ve 2.K) = P(1.M) * P(2.K | 1.M) = (6/10) * (4/9) = 24/90\n\nToplam olasılık bu iki durumun olasılıklarının toplamıdır: 12/90 + 24/90 = 36/90.\nSadeleştirirsek: 36/90 = 4/10 = 2/5.\n\nAlternatif Çözüm: Çekiliş sırası, belirli bir sıradaki topun renginin olasılığını (diğer çekilişlerin sonucu bilinmiyorsa) etkilemez. Dolayısıyla ikinci topun kırmızı olma olasılığı, ilk topun kırmızı olma olasılığına eşittir. P(2. Kırmızı) = P(1. Kırmızı) = (Kırmızı Top Sayısı) / (Toplam Top Sayısı) = 4 / 10 = 2/5.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622992_2",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir çift zar atıldığında, toplamda 7 gelme olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/12",
-      "1/36",
-      "5/36",
-      "7/36"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Çift zar ile toplamda 7 gelmesi için 6 farklı kombinasyon vardır. Olasılık = 6/36 = 1/6.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622994_25",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kutuda 3 beyaz, 2 kırmızı ve 5 mavi top bulunmaktadır. Rastgele çekilen bir topun kırmızı olma olasılığı nedir?",
-    "options": [
-      "0.2",
-      "0.3",
-      "0.4",
-      "0.5",
-      "0.6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Toplam top sayısı 3 + 2 + 5 = 10'dur. Kırmızı topların sayısı 2'dir. Olasılık = 2/10 = 0.2.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622994_27",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir sınıfta 20 öğrenci bulunmaktadır. 12'si kız, 8'i erkektir. Rastgele seçilen bir öğrencinin kız olma olasılığı nedir?",
-    "options": [
-      "0.5",
-      "0.6",
-      "0.4",
-      "0.3",
-      "0.7"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kız öğrenci sayısı 12'dir. Olasılık = 12/20 = 0.6.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622994_21",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kutuda 7 kırmızı ve 5 mavi top bulunmaktadır. Rastgele çekilen bir topun kırmızı olma olasılığı nedir?",
-    "options": [
-      "0.5",
-      "0.6",
-      "0.4",
-      "0.3",
-      "0.7"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Toplam top sayısı 7 + 5 = 12'dir. Kırmızı topların sayısı 7'dir. Olasılık = 7/12 ≈ 0.583.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622993_16",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, üst yüzeyde 3'ten küçük bir sayı gelme olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/3",
-      "1/4",
-      "1/2",
-      "1/5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zardaki 3'ten küçük sayılar 1 ve 2'dir. Olasılık = 2/6 = 1/3.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522048439_5",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir torbada 4 kırmızı ve 6 beyaz top bulunmaktadır. Rastgele seçilen bir topun kırmızı olma olasılığı nedir?",
-    "options": [
-      "2/5",
-      "4/10",
-      "4/6",
-      "1/3",
-      "1/2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Topların toplam sayısı 10'dur. Kırmızı topların sayısı 4 olduğuna göre, olasılık 4/10 = 2/5'tir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622993_13",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kutuda 8 kırmızı, 4 mavi top bulunmaktadır. Rastgele çekilen bir topun mavi olma olasılığı nedir?",
-    "options": [
-      "0.4",
-      "0.2",
-      "0.5",
-      "0.1",
-      "0.3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Toplam top sayısı 8 + 4 = 12'dir. Mavi topların sayısı 4'tür. Olasılık = 4/12 = 1/3 ≈ 0.33.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522048439_13",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir madeni paranın 5 kez atılması durumunda, tam olarak 2 yazı gelme olasılığı nedir?",
-    "options": [
-      "10/32",
-      "5/16",
-      "15/32",
-      "1/4",
-      "1/2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu durum için binom dağılımı kullanılır. P(X=2) = C(5,2) * (1/2)^2 * (1/2)^3 = 10 * 1/4 * 1/8 = 10/32 = 5/16'dır.",
+    "explanation": "Bir zarın 6 yüzü vardır ve her yüzün gelme olasılığı eşittir. 3 gelme olasılığı 1/6'dır.",
     "difficulty": 3
   },
   {
@@ -480,100 +64,132 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764523622992_7",
+    "id": "ai_1764523622994_25",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir zar üzerinde 4'ten büyük bir sayı gelme olasılığı nedir?",
+    "questionText": "Bir kutuda 3 beyaz, 2 kırmızı ve 5 mavi top bulunmaktadır. Rastgele çekilen bir topun kırmızı olma olasılığı nedir?",
     "options": [
-      "1/6",
-      "1/4",
-      "1/3",
-      "1/2",
-      "1/5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zar üzerinde 5 ve 6 sayıları 4'ten büyüktür. Olasılık = 2/6 = 1/3.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523622993_14",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, üst yüzeyde çift bir sayı gelme olasılığı nedir?",
-    "options": [
-      "1/6",
-      "1/3",
-      "1/4",
-      "1/2",
-      "1/12"
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6"
     ],
     "correctAnswer": 1,
-    "explanation": "Zardaki çift sayılar 2, 4 ve 6'dır. Olasılık = 3/6 = 1/2.",
+    "explanation": "Toplam top sayısı 3 + 2 + 5 = 10'dur. Kırmızı topların sayısı 2'dir. Olasılık = 2/10 = 0.2.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764498148612_2",
+    "id": "ai_1764523622992_3",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir hedefi Ali'nin vurma olasılığı 2/3, Burak'ın vurma olasılığı ise 3/5'tir. İkisi de hedefe birer atış yaptığında hedefin vurulmuş olma olasılığı kaçtır?",
+    "questionText": "Bir kart destesinden rastgele bir kart çekildiğinde, bir kupa gelme olasılığı nedir?",
     "options": [
-      "2/15",
-      "2/5",
-      "7/15",
-      "13/15",
-      "19/15"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Hedefin vurulmuş olması, en az birinin hedefi vurması anlamına gelir. Bu tür 'en az bir' sorularında, tüm durumların olasılığından (1'den) istenmeyen durumun olasılığını çıkarmak genellikle daha basittir.\n\nİstenmeyen durum: Hedefin hiç vurulmaması, yani hem Ali'nin hem de Burak'ın hedefi vuramamasıdır.\n\n- Ali'nin hedefi vurma olasılığı P(A) = 2/3 ise, vuramama olasılığı P(A') = 1 - 2/3 = 1/3'tür.\n- Burak'ın hedefi vurma olasılığı P(B) = 3/5 ise, vuramama olasılığı P(B') = 1 - 3/5 = 2/5'tir.\n\nİkisinin de vuramama olasılığı (olaylar bağımsız olduğu için olasılıkları çarparız):\nP(A' ve B') = P(A') * P(B') = (1/3) * (2/5) = 2/15\n\nBu, hedefin hiç vurulmama olasılığıdır. Bizden istenen hedefin vurulmuş olma (en az bir kez vurulma) olasılığıdır. Bu nedenle:\nP(Hedefin Vurulması) = 1 - P(İkisinin de vuramaması)\nP(Hedefin Vurulması) = 1 - 2/15 = 15/15 - 2/15 = 13/15",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522048439_3",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir destede 52 kart bulunmaktadır. Rastgele seçilen bir kartın kupa olma olasılığı nedir?",
-    "options": [
+      "1/13",
+      "1/52",
       "1/4",
       "1/2",
-      "1/3",
-      "1/13",
-      "3/13"
+      "1/3"
     ],
     "correctAnswer": 0,
-    "explanation": "Destede 13 kupa kartı bulunmaktadır. Dolayısıyla, olasılık 13/52 = 1/4'tür.",
-    "difficulty": 3
+    "explanation": "Bir destede 52 kart bulunmaktadır ve 13 kupa kartı vardır. Olasılık = 13/52 = 1/4.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764522048439_1",
+    "id": "ai_1764523622994_23",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir torbada 5 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele bir top çekildiğinde mavi top gelme olasılığı nedir?",
+    "questionText": "Bir çantada 4 beyaz, 3 siyah ve 5 yeşil top bulunmaktadır. Rastgele seçilen bir topun beyaz olma olasılığı nedir?",
     "options": [
-      "1/10",
-      "3/10",
-      "3/5",
-      "1/3",
-      "1/5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Topların toplam sayısı 10'dur. Mavi topların sayısı 3 olduğuna göre, olasılık 3/10'dur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622994_18",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kutuda 5 yeşil, 3 kırmızı top bulunmaktadır. Rastgele çekilen bir topun yeşil olma olasılığı nedir?",
-    "options": [
-      "0.5",
       "0.4",
-      "0.6",
+      "0.5",
       "0.3",
+      "0.6",
       "0.2"
     ],
-    "correctAnswer": 0,
-    "explanation": "Toplam top sayısı 5 + 3 = 8'dir. Yeşil topların sayısı 5'tir. Olasılık = 5/8 ≈ 0.625.",
+    "correctAnswer": 1,
+    "explanation": "Toplam top sayısı 4 + 3 + 5 = 12'dir. Beyaz topların sayısı 4'tür. Olasılık = 4/12 = 1/3.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622992_2",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir çift zar atıldığında, toplamda 7 gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "5/36",
+      "7/36"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Çift zar ile toplamda 7 gelmesi için 6 farklı kombinasyon vardır. Olasılık = 6/36 = 1/6.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622994_24",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, üst yüzeyde 2, 3 veya 4 gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "1/4",
+      "1/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zardaki 2, 3 ve 4 sayıları 3'tür. Olasılık = 3/6 = 1/2.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764498148612_1",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "6 erkek ve 4 kız öğrencinin bulunduğu bir sınıftan rastgele 3 kişilik bir ekip oluşturulacaktır. Bu ekipte en az bir erkek ve en az bir kız öğrenci bulunma olasılığı kaçtır?",
+    "options": [
+      "1/5",
+      "2/3",
+      "3/4",
+      "4/5",
+      "5/6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu soruyu çözerken tüm durumların olasılığından (1'den), istenmeyen durumların olasılığını çıkarmak daha kolaydır. \n\nİstenmeyen Durumlar:\n1. Ekibin tamamının erkeklerden oluşması.\n2. Ekibin tamamının kızlardan oluşması.\n\nÖncelikle tüm olası durumların sayısını (örnek uzayı) bulalım. Toplam 10 öğrenciden 3 kişilik bir ekip seçiyoruz.\nTüm Durumlar = C(10, 3) = (10 * 9 * 8) / (3 * 2 * 1) = 10 * 3 * 4 = 120\n\nŞimdi istenmeyen durumları hesaplayalım:\n1. Ekibin tamamının erkek olması: 6 erkek arasından 3 erkek seçilir.\n   C(6, 3) = (6 * 5 * 4) / (3 * 2 * 1) = 20\n2. Ekibin tamamının kız olması: 4 kız arasından 3 kız seçilir.\n   C(4, 3) = 4\n\nİstenmeyen durumların toplam sayısı = 20 + 4 = 24\nİstenmeyen durumların olasılığı = (İstenmeyen Durum Sayısı) / (Tüm Durum Sayısı) = 24 / 120 = 1/5\n\nİstenen durumun (en az bir erkek ve en az bir kız) olasılığı ise:\nP(İstenen Durum) = 1 - P(İstenmeyen Durum)\nP(İstenen Durum) = 1 - (1/5) = 4/5",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526092334_0",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında 3 gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "1/4",
+      "1/5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir zarın 6 yüzü vardır ve bu yüzlerden sadece biri 3'tür. Dolayısıyla 3 gelme olasılığı 1/6'dır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764526092334_3",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir okulda 10 öğrenci var. Bu öğrencilerden rastgele seçilen 2 öğrencinin de kız olma olasılığı %20 ise, okulda kaç kız öğrenci vardır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yüzde 20, 1/5 olarak ifade edilebilir. Kız öğrencilerin sayısını x olarak alırsak, (x/10) * ((x-1)/9) = 1/5 olur. Bu denklemi çözdüğümüzde x = 3 bulunur.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764526092334_2",
@@ -592,35 +208,115 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764499500462_2",
+    "id": "ai_1764522048439_9",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Hileli bir madeni paranın tura gelme olasılığı, yazı gelme olasılığının 3 katıdır. Bu para art arda iki kez havaya atıldığında, en az bir kez tura gelme olasılığı kaçtır?",
+    "questionText": "Bir kişinin bir sınavda başarı oranı %75'tir. Bu kişi 4 kez sınava girerse, en az bir kez başarılı olma olasılığı nedir?",
     "options": [
-      "1/4",
-      "3/4",
-      "9/16",
-      "13/16",
-      "15/16"
+      "0.3164",
+      "0.6875",
+      "0.75",
+      "0.9",
+      "0.95"
     ],
-    "correctAnswer": 4,
-    "explanation": "Öncelikle paranın bir atışta tura ve yazı gelme olasılıklarını bulalım.\nP(Yazı) = p olsun. \nP(Tura) = 3p olur.\nBir olayın tüm olasılıklarının toplamı 1'dir. Dolayısıyla:\np + 3p = 1\n4p = 1\np = 1/4\n\nBu durumda, \nP(Yazı) = 1/4\nP(Tura) = 3/4\n\nSoruda 'en az bir kez tura gelme' olasılığı soruluyor. Bu durumun tümleyenini (tersini) hesaplamak daha kolaydır. Tümleyen durum, 'hiç tura gelmemesi' yani 'iki atışın da yazı gelmesi' durumudur.\n\nİki atışın da yazı gelme olasılığı:\nP(Yazı, Yazı) = P(Yazı) × P(Yazı) = (1/4) × (1/4) = 1/16\n\n'En az bir kez tura gelme' olasılığı, tüm durumların olasılığından (yani 1'den) istenmeyen durumun olasılığının çıkarılmasıyla bulunur:\nP(En az bir tura) = 1 - P(Yazı, Yazı) = 1 - 1/16 = 15/16",
+    "correctAnswer": 1,
+    "explanation": "Başarısız olma olasılığı (1 - 0.75) = 0.25'tir. 4 kez başarısız olma olasılığı (0.25)^4 = 0.003906'tır. En az bir kez başarılı olma olasılığı 1 - 0.003906 ≈ 0.6875'tir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764523622994_19",
+    "id": "ai_1764522048439_7",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, üst yüzeyde 5 veya 6 gelme olasılığı nedir?",
+    "questionText": "Bir sınıfta 20 öğrenci var. Bu öğrencilerden rastgele seçilen birinin 18 yaşından büyük olma olasılığı 0.6 ise, sınıfta kaç öğrenci 18 yaşından büyüktür?",
     "options": [
-      "1/6",
-      "1/4",
-      "1/3",
-      "1/2",
-      "1/12"
+      "8",
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eğer olasılık 0.6 ise, 20 öğrencinin %60'ı 18 yaşından büyük olmalıdır. Yani 20 x 0.6 = 12 öğrenci 18 yaşından büyüktür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522048439_2",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir sınıfta 12 öğrenci vardır. Bu öğrencilerden rastgele seçilen birinin erkek olma olasılığı 0.5 ise, sınıfta kaç erkek öğrenci bulunmaktadır?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eğer olasılık 0.5 ise, sınıftaki erkek öğrenci sayısı toplam öğrenci sayısının yarısıdır. Yani 12/2=6 erkek öğrenci vardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622994_21",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir kutuda 7 kırmızı ve 5 mavi top bulunmaktadır. Rastgele çekilen bir topun kırmızı olma olasılığı nedir?",
+    "options": [
+      "0.5",
+      "0.6",
+      "0.4",
+      "0.3",
+      "0.7"
     ],
     "correctAnswer": 1,
-    "explanation": "Zardaki 5 ve 6 sayıları 2'dir. Olasılık = 2/6 = 1/3.",
+    "explanation": "Toplam top sayısı 7 + 5 = 12'dir. Kırmızı topların sayısı 7'dir. Olasılık = 7/12 ≈ 0.583.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622993_13",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir kutuda 8 kırmızı, 4 mavi top bulunmaktadır. Rastgele çekilen bir topun mavi olma olasılığı nedir?",
+    "options": [
+      "0.4",
+      "0.2",
+      "0.5",
+      "0.1",
+      "0.3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Toplam top sayısı 8 + 4 = 12'dir. Mavi topların sayısı 4'tür. Olasılık = 4/12 = 1/3 ≈ 0.33.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622994_18",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir kutuda 5 yeşil, 3 kırmızı top bulunmaktadır. Rastgele çekilen bir topun yeşil olma olasılığı nedir?",
+    "options": [
+      "0.5",
+      "0.4",
+      "0.6",
+      "0.3",
+      "0.2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Toplam top sayısı 5 + 3 = 8'dir. Yeşil topların sayısı 5'tir. Olasılık = 5/8 ≈ 0.625.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622992_6",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir futbol takımında 11 oyuncu bulunmaktadır. 3 oyuncunun sakat olduğu biliniyor. Rastgele seçilen bir oyuncunun sağlıklı olma olasılığı nedir?",
+    "options": [
+      "0.27",
+      "0.43",
+      "0.73",
+      "0.5",
+      "0.33"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sağlıklı oyuncu sayısı 11 - 3 = 8'dir. Olasılık = 8/11 ≈ 0.73.",
     "difficulty": 5
   },
   {
@@ -640,67 +336,19 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764523622992_6",
+    "id": "ai_1764499500462_0",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir futbol takımında 11 oyuncu bulunmaktadır. 3 oyuncunun sakat olduğu biliniyor. Rastgele seçilen bir oyuncunun sağlıklı olma olasılığı nedir?",
-    "options": [
-      "0.27",
-      "0.43",
-      "0.73",
-      "0.5",
-      "0.33"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Sağlıklı oyuncu sayısı 11 - 3 = 8'dir. Olasılık = 8/11 ≈ 0.73.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520144916_1",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir torbada 5 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
-    "options": [
-      "1/10",
-      "1/5",
-      "3/10",
-      "3/5",
-      "1/2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Topların toplam sayısı 5 + 3 + 2 = 10'dur. Mavi topların sayısı 3 olduğuna göre, mavi top seçme olasılığı 3/10'dur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523622992_3",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "Bir kart destesinden rastgele bir kart çekildiğinde, bir kupa gelme olasılığı nedir?",
-    "options": [
-      "1/13",
-      "1/52",
-      "1/4",
-      "1/2",
-      "1/3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir destede 52 kart bulunmaktadır ve 13 kupa kartı vardır. Olasılık = 13/52 = 1/4.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500868094_1",
-    "subjectId": "mat",
-    "topic": "Olasılık",
-    "questionText": "\"KALEM\" kelimesinin harflerinin yerleri değiştirilerek oluşturulabilecek 5 harfli anlamlı ya da anlamsız kelimelerden rastgele biri seçiliyor. Seçilen bu kelimede sesli harflerin yan yana gelme olasılığı kaçtır?",
+    "questionText": "Bir torbada 4 kırmızı ve 6 mavi top bulunmaktadır. Torbadan geri konulmamak şartıyla art arda iki top çekiliyor. Çekilen ikinci topun kırmızı olma olasılığı kaçtır?",
     "options": [
       "1/5",
-      "1/4",
-      "3/10",
+      "1/3",
       "2/5",
-      "1/2"
+      "1/2",
+      "3/5"
     ],
-    "correctAnswer": 3,
-    "explanation": "Öncelikle tüm olası durumların sayısını bulalım.\n- Tüm Durumların Sayısı: \"KALEM\" kelimesi 5 farklı harften oluşmaktadır. Bu harflerin tüm farklı dizilişlerinin sayısı 5! (5 faktöriyel) kadardır. 5! = 5 * 4 * 3 * 2 * 1 = 120.\n\nŞimdi istenen durumun sayısını bulalım.\n- İstenen Durumun Sayısı: Sesli harflerin (A, E) yan yana olması isteniyor.\n1. Sesli harfleri (A, E) tek bir birim olarak düşünelim. Bu durumda { (A,E), K, L, M } olmak üzere 4 birimimiz olur.\n2. Bu 4 birimin kendi aralarında sıralanması 4! = 24 farklı şekilde olur.\n3. Ayrıca, tek birim olarak düşündüğümüz (A, E) harfleri kendi aralarında (A,E) ve (E,A) olarak 2! = 2 farklı şekilde sıralanabilir.\n4. Dolayısıyla, sesli harflerin yan yana olduğu toplam durum sayısı: 4! * 2! = 24 * 2 = 48'dir.\n\nOlasılık Hesabı: Olasılık = (İstenen Durum Sayısı) / (Tüm Durumların Sayısı) = 48 / 120.\nSadeleştirme: 48/120 = (24 * 2) / (24 * 5) = 2/5.",
+    "correctAnswer": 2,
+    "explanation": "İkinci topun kırmızı olması iki durumda gerçekleşebilir: \n1. Birinci top kırmızı VE ikinci top kırmızı olabilir. \n2. Birinci top mavi VE ikinci top kırmızı olabilir.\n\nDurum 1'in olasılığı: P(Kırmızı, Kırmızı) = (Birincinin kırmızı olma olasılığı) × (Birinci kırmızı iken ikincinin kırmızı olma olasılığı) = (4/10) × (3/9) = 12/90\n\nDurum 2'nin olasılığı: P(Mavi, Kırmızı) = (Birincinin mavi olma olasılığı) × (Birinci mavi iken ikincinin kırmızı olma olasılığı) = (6/10) × (4/9) = 24/90\n\nBu iki durum birbirini dışlayan olaylar olduğu için olasılıkları toplanır:\nToplam Olasılık = P(Kırmızı, Kırmızı) + P(Mavi, Kırmızı) = 12/90 + 24/90 = 36/90\n\nSonucu sadeleştirirsek: 36/90 = 4/10 = 2/5. \n\nİlginç bir not: Bu tür durumlarda, herhangi bir sıradaki topun belirli bir renkte olma olasılığı, başlangıçtaki olasılıkla aynıdır. Başlangıçta kırmızı çekme olasılığı 4/10 = 2/5 idi, ikinci topun kırmızı olma olasılığı da aynıdır.",
     "difficulty": 3
   },
   {
@@ -720,36 +368,36 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764519230491_0",
+    "id": "ai_1764523622993_12",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, üst yüzeyde 5 gelme olasılığı nedir?",
+    "questionText": "Bir sınıfta 15 öğrenci bulunmaktadır. Bu öğrencilerden 9'u başarıyla mezun olmuştur. Rastgele seçilen bir öğrencinin mezun olma olasılığı nedir?",
     "options": [
-      "1/6",
-      "1/3",
-      "1/2",
-      "1/5",
-      "1/4"
+      "0.6",
+      "0.5",
+      "0.75",
+      "0.4",
+      "0.3"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bir zarın üst yüzeyinde 6 farklı sayı bulunmaktadır. Her bir sayının gelme olasılığı eşit olduğundan, 5 sayısının gelme olasılığı 1/6'dır.",
-    "difficulty": 3
+    "correctAnswer": 2,
+    "explanation": "Mezun olan öğrenci sayısı 9'dur. Olasılık = 9/15 = 0.6.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764522048439_12",
+    "id": "ai_1764523622994_19",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir torbada 10 top bulunmaktadır. Bu toplardan 4'ü kırmızı, 3'ü mavi ve 3'ü yeşil. Rastgele çekilen bir topun yeşil olma olasılığı nedir?",
+    "questionText": "Bir zar atıldığında, üst yüzeyde 5 veya 6 gelme olasılığı nedir?",
     "options": [
-      "1/10",
-      "3/10",
-      "4/10",
-      "1/5",
-      "3/5"
+      "1/6",
+      "1/4",
+      "1/3",
+      "1/2",
+      "1/12"
     ],
     "correctAnswer": 1,
-    "explanation": "Topların toplam sayısı 10'dur. Yeşil topların sayısı 3 olduğuna göre, olasılık 3/10'dur.",
-    "difficulty": 3
+    "explanation": "Zardaki 5 ve 6 sayıları 2'dir. Olasılık = 2/6 = 1/3.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764499500462_1",
@@ -765,6 +413,150 @@
     ],
     "correctAnswer": 3,
     "explanation": "Bu soruyu çözmenin en kolay yolu, 'en az bir doktor bulunma' olayının tümleyenini (tersini) bulmaktır. Bu olayın tümleyeni, 'ekipte hiç doktor bulunmaması' yani 'ekibin tamamının hemşirelerden oluşması' durumudur.\n\nToplam kişi sayısı: 3 + 4 = 7 kişi.\n\nÖrnek Uzay (Tüm Durumlar): 7 kişiden 3 kişilik bir ekip seçme sayısı.\nC(7, 3) = 7! / (3! * 4!) = (7 × 6 × 5) / (3 × 2 × 1) = 35 farklı ekip oluşturulabilir.\n\nİstenmeyen Durum (Hiç doktor olmaması): Ekibin tamamının hemşirelerden seçilmesi. 4 hemşire arasından 3 hemşire seçme sayısı.\nC(4, 3) = 4! / (3! * 1!) = 4\n\nİstenmeyen Durumun Olasılığı = (Hiç doktor olmayan ekip sayısı) / (Toplam ekip sayısı) = 4/35\n\nİstenen Durumun Olasılığı (En az bir doktor bulunması) = 1 - (İstenmeyen Durumun Olasılığı)\n= 1 - 4/35 = 31/35",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622993_15",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir sınıfta 30 öğrenci bulunmaktadır. Bu öğrencilerden 18'i kız, 12'si erkektir. Rastgele seçilen bir öğrencinin kız olma olasılığı nedir?",
+    "options": [
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kız öğrenci sayısı 18'dir. Olasılık = 18/30 = 0.6.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500868093_0",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 4 kırmızı ve 6 mavi top bulunmaktadır. Torbadan geri konulmamak şartıyla art arda iki top çekiliyor. Çekilen ikinci topun kırmızı olma olasılığı kaçtır?",
+    "options": [
+      "1/5",
+      "3/10",
+      "2/5",
+      "1/2",
+      "3/5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İkinci çekilen topun kırmızı olması iki durumda gerçekleşebilir:\n1. Birinci top kırmızı VE ikinci top kırmızı.\n2. Birinci top mavi VE ikinci top kırmızı.\n\nDurum 1'in olasılığı: P(1.K ve 2.K) = P(1.K) * P(2.K | 1.K) = (4/10) * (3/9) = 12/90\nDurum 2'nin olasılığı: P(1.M ve 2.K) = P(1.M) * P(2.K | 1.M) = (6/10) * (4/9) = 24/90\n\nToplam olasılık bu iki durumun olasılıklarının toplamıdır: 12/90 + 24/90 = 36/90.\nSadeleştirirsek: 36/90 = 4/10 = 2/5.\n\nAlternatif Çözüm: Çekiliş sırası, belirli bir sıradaki topun renginin olasılığını (diğer çekilişlerin sonucu bilinmiyorsa) etkilemez. Dolayısıyla ikinci topun kırmızı olma olasılığı, ilk topun kırmızı olma olasılığına eşittir. P(2. Kırmızı) = P(1. Kırmızı) = (Kırmızı Top Sayısı) / (Toplam Top Sayısı) = 4 / 10 = 2/5.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520144916_2",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir sınıfta 12 öğrenci bulunmaktadır. Bu öğrencilerden rastgele seçilen bir öğrencinin kız olma olasılığı 1/4 ise, sınıfta kaç kız öğrenci vardır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eğer 12 öğrencinin 1/4'ü kız ise, bu durumda 12 * (1/4) = 3 kız öğrenci vardır. Doğru cevap 3'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499500462_2",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Hileli bir madeni paranın tura gelme olasılığı, yazı gelme olasılığının 3 katıdır. Bu para art arda iki kez havaya atıldığında, en az bir kez tura gelme olasılığı kaçtır?",
+    "options": [
+      "1/4",
+      "3/4",
+      "9/16",
+      "13/16",
+      "15/16"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Öncelikle paranın bir atışta tura ve yazı gelme olasılıklarını bulalım.\nP(Yazı) = p olsun. \nP(Tura) = 3p olur.\nBir olayın tüm olasılıklarının toplamı 1'dir. Dolayısıyla:\np + 3p = 1\n4p = 1\np = 1/4\n\nBu durumda, \nP(Yazı) = 1/4\nP(Tura) = 3/4\n\nSoruda 'en az bir kez tura gelme' olasılığı soruluyor. Bu durumun tümleyenini (tersini) hesaplamak daha kolaydır. Tümleyen durum, 'hiç tura gelmemesi' yani 'iki atışın da yazı gelmesi' durumudur.\n\nİki atışın da yazı gelme olasılığı:\nP(Yazı, Yazı) = P(Yazı) × P(Yazı) = (1/4) × (1/4) = 1/16\n\n'En az bir kez tura gelme' olasılığı, tüm durumların olasılığından (yani 1'den) istenmeyen durumun olasılığının çıkarılmasıyla bulunur:\nP(En az bir tura) = 1 - P(Yazı, Yazı) = 1 - 1/16 = 15/16",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622994_27",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir sınıfta 20 öğrenci bulunmaktadır. 12'si kız, 8'i erkektir. Rastgele seçilen bir öğrencinin kız olma olasılığı nedir?",
+    "options": [
+      "0.5",
+      "0.6",
+      "0.4",
+      "0.3",
+      "0.7"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kız öğrenci sayısı 12'dir. Olasılık = 12/20 = 0.6.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622993_14",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, üst yüzeyde çift bir sayı gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/4",
+      "1/2",
+      "1/12"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zardaki çift sayılar 2, 4 ve 6'dır. Olasılık = 3/6 = 1/2.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522048439_5",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 4 kırmızı ve 6 beyaz top bulunmaktadır. Rastgele seçilen bir topun kırmızı olma olasılığı nedir?",
+    "options": [
+      "2/5",
+      "4/10",
+      "4/6",
+      "1/3",
+      "1/2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Topların toplam sayısı 10'dur. Kırmızı topların sayısı 4 olduğuna göre, olasılık 4/10 = 2/5'tir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622992_4",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir okulda 10 öğrenci var. Bu öğrencilerden rastgele seçilen birinin kız olma olasılığı 0.4 ise, erkek olma olasılığı nedir?",
+    "options": [
+      "0.4",
+      "0.6",
+      "0.5",
+      "0.3",
+      "0.2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Toplam olasılık 1 olduğuna göre, erkek olma olasılığı = 1 - 0.4 = 0.6.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522048439_6",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında üst yüzeyin 4 olma olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/4",
+      "1/2",
+      "5/6"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir zarın 6 yüzü vardır ve her yüzün gelme olasılığı eşittir. 4 gelme olasılığı 1/6'dır.",
     "difficulty": 3
   },
   {
@@ -784,51 +576,147 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764526092334_0",
+    "id": "ai_1764498148612_2",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında 3 gelme olasılığı nedir?",
+    "questionText": "Bir hedefi Ali'nin vurma olasılığı 2/3, Burak'ın vurma olasılığı ise 3/5'tir. İkisi de hedefe birer atış yaptığında hedefin vurulmuş olma olasılığı kaçtır?",
+    "options": [
+      "2/15",
+      "2/5",
+      "7/15",
+      "13/15",
+      "19/15"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hedefin vurulmuş olması, en az birinin hedefi vurması anlamına gelir. Bu tür 'en az bir' sorularında, tüm durumların olasılığından (1'den) istenmeyen durumun olasılığını çıkarmak genellikle daha basittir.\n\nİstenmeyen durum: Hedefin hiç vurulmaması, yani hem Ali'nin hem de Burak'ın hedefi vuramamasıdır.\n\n- Ali'nin hedefi vurma olasılığı P(A) = 2/3 ise, vuramama olasılığı P(A') = 1 - 2/3 = 1/3'tür.\n- Burak'ın hedefi vurma olasılığı P(B) = 3/5 ise, vuramama olasılığı P(B') = 1 - 3/5 = 2/5'tir.\n\nİkisinin de vuramama olasılığı (olaylar bağımsız olduğu için olasılıkları çarparız):\nP(A' ve B') = P(A') * P(B') = (1/3) * (2/5) = 2/15\n\nBu, hedefin hiç vurulmama olasılığıdır. Bizden istenen hedefin vurulmuş olma (en az bir kez vurulma) olasılığıdır. Bu nedenle:\nP(Hedefin Vurulması) = 1 - P(İkisinin de vuramaması)\nP(Hedefin Vurulması) = 1 - 2/15 = 15/15 - 2/15 = 13/15",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520144916_1",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 5 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
+    "options": [
+      "1/10",
+      "1/5",
+      "3/10",
+      "3/5",
+      "1/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Topların toplam sayısı 5 + 3 + 2 = 10'dur. Mavi topların sayısı 3 olduğuna göre, mavi top seçme olasılığı 3/10'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764520144916_0",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, 3'ten büyük bir sayı gelme olasılığı nedir?",
     "options": [
       "1/6",
       "1/3",
       "1/2",
-      "1/4",
-      "1/5"
+      "2/3",
+      "5/6"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bir zarın 6 yüzü vardır ve bu yüzlerden sadece biri 3'tür. Dolayısıyla 3 gelme olasılığı 1/6'dır.",
-    "difficulty": 4
+    "correctAnswer": 3,
+    "explanation": "Zarın atılması sonucu elde edilebilecek sayılar 1, 2, 3, 4, 5, 6'dır. 3'ten büyük sayılar 4, 5 ve 6'dır. Bu durumda 3'ten büyük sayı gelme olasılığı 3/6 = 1/2'dir. Yani doğru cevap 2/3 değil, 1/2'dir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764523622994_23",
+    "id": "ai_1764523622992_0",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir çantada 4 beyaz, 3 siyah ve 5 yeşil top bulunmaktadır. Rastgele seçilen bir topun beyaz olma olasılığı nedir?",
+    "questionText": "Bir zar atıldığında, üst yüzeyde 1, 2, 3, 4, 5 veya 6 sayılarından birinin gelme olasılığı nedir?",
     "options": [
-      "0.4",
+      "0.1",
+      "0.2",
       "0.5",
-      "0.3",
-      "0.6",
-      "0.2"
+      "1",
+      "0.3"
     ],
-    "correctAnswer": 1,
-    "explanation": "Toplam top sayısı 4 + 3 + 5 = 12'dir. Beyaz topların sayısı 4'tür. Olasılık = 4/12 = 1/3.",
+    "correctAnswer": 3,
+    "explanation": "Bir zarın altı yüzü olduğu için, her bir sayının gelme olasılığı 1/6'dır. Toplamda 6 farklı sonuç vardır ve bunlardan herhangi biri gelme olasılığı 1'dir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764523622992_9",
+    "id": "ai_1764526092334_1",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir torbada 10 top vardır, bunlardan 4'ü sarı, 3'ü kırmızı ve 3'ü yeşildir. Rastgele çekilen bir topun sarı olma olasılığı nedir?",
+    "questionText": "Bir torbada 5 kırmızı, 3 mavi, 2 yeşil top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
     "options": [
-      "0.4",
-      "0.3",
+      "1/10",
+      "3/10",
+      "1/5",
+      "2/5",
+      "1/2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Topların toplam sayısı 10'dur (5 + 3 + 2). Mavi topların sayısı 3 olduğuna göre, mavi olma olasılığı 3/10'dur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522048439_1",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 5 kırmızı, 3 mavi ve 2 yeşil top bulunmaktadır. Rastgele bir top çekildiğinde mavi top gelme olasılığı nedir?",
+    "options": [
+      "1/10",
+      "3/10",
+      "3/5",
+      "1/3",
+      "1/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Topların toplam sayısı 10'dur. Mavi topların sayısı 3 olduğuna göre, olasılık 3/10'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622992_5",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir çantada 5 kırmızı ve 7 mavi top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
+    "options": [
+      "0.35",
       "0.5",
-      "0.6",
-      "0.7"
+      "0.58",
+      "0.7",
+      "0.45"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Toplam top sayısı 5 + 7 = 12'dir. Mavi topların sayısı 7'dir. Olasılık = 7/12 ≈ 0.58.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622993_16",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, üst yüzeyde 3'ten küçük bir sayı gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/4",
+      "1/2",
+      "1/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zardaki 3'ten küçük sayılar 1 ve 2'dir. Olasılık = 2/6 = 1/3.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622992_10",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir çift zar atıldığında, her iki zarın da 1 gelme olasılığı nedir?",
+    "options": [
+      "1/36",
+      "1/12",
+      "1/24",
+      "1/6",
+      "1/18"
     ],
     "correctAnswer": 0,
-    "explanation": "Sarı topların sayısı 4, toplam top sayısı 10'dur. Olasılık = 4/10 = 0.4.",
+    "explanation": "Her zarın 1 gelme olasılığı 1/6'dır. İki zarın 1 gelme olasılığı = (1/6) * (1/6) = 1/36.",
     "difficulty": 5
   },
   {
@@ -848,19 +736,99 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764522048439_2",
+    "id": "ai_1764522048439_3",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir sınıfta 12 öğrenci vardır. Bu öğrencilerden rastgele seçilen birinin erkek olma olasılığı 0.5 ise, sınıfta kaç erkek öğrenci bulunmaktadır?",
+    "questionText": "Bir destede 52 kart bulunmaktadır. Rastgele seçilen bir kartın kupa olma olasılığı nedir?",
     "options": [
-      "3",
-      "4",
-      "6",
-      "8",
-      "12"
+      "1/4",
+      "1/2",
+      "1/3",
+      "1/13",
+      "3/13"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Destede 13 kupa kartı bulunmaktadır. Dolayısıyla, olasılık 13/52 = 1/4'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522048439_11",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, çift sayı gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3",
+      "5/6"
     ],
     "correctAnswer": 2,
-    "explanation": "Eğer olasılık 0.5 ise, sınıftaki erkek öğrenci sayısı toplam öğrenci sayısının yarısıdır. Yani 12/2=6 erkek öğrenci vardır.",
+    "explanation": "Zarda 2, 4 ve 6 olmak üzere 3 çift sayı vardır. Dolayısıyla, olasılık 3/6 = 1/2'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622994_20",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir sınıfta 25 öğrenci bulunmaktadır. Bu öğrencilerin 15'i kızdır. Rastgele seçilen bir öğrencinin erkek olma olasılığı nedir?",
+    "options": [
+      "0.6",
+      "0.5",
+      "0.4",
+      "0.3",
+      "0.2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Erkek öğrenci sayısı 25 - 15 = 10'dur. Olasılık = 10/25 = 0.4.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522048439_13",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir madeni paranın 5 kez atılması durumunda, tam olarak 2 yazı gelme olasılığı nedir?",
+    "options": [
+      "10/32",
+      "5/16",
+      "15/32",
+      "1/4",
+      "1/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu durum için binom dağılımı kullanılır. P(X=2) = C(5,2) * (1/2)^2 * (1/2)^3 = 10 * 1/4 * 1/8 = 10/32 = 5/16'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500868094_2",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir hedefi Ali'nin vurma olasılığı 2/3, Berk'in vurma olasılığı ise 3/4'tür. İkisi hedefe aynı anda birer atış yaptıklarında, hedefin tam olarak bir kez vurulmuş olma olasılığı kaçtır?",
+    "options": [
+      "1/4",
+      "1/3",
+      "5/12",
+      "1/2",
+      "7/12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ali'nin hedefi vurma olasılığı P(A) = 2/3 ise, vuramama olasılığı P(A') = 1 - 2/3 = 1/3'tür.\nBerk'in hedefi vurma olasılığı P(B) = 3/4 ise, vuramama olasılığı P(B') = 1 - 3/4 = 1/4'tür.\n\nHedefin \"tam olarak bir kez\" vurulması iki farklı şekilde olabilir:\n1. Ali vurur VE Berk vuramaz.\n2. Ali vuramaz VE Berk vurur.\n\nBu olaylar bağımsız olduğundan olasılıkları çarpılır.\n- Durum 1'in olasılığı: P(A ve B') = P(A) * P(B') = (2/3) * (1/4) = 2/12.\n- Durum 2'nin olasılığı: P(A' ve B) = P(A') * P(B) = (1/3) * (3/4) = 3/12.\n\nBu iki durum birbirinden ayrı (ayrık) olaylar olduğu için toplam olasılık bu iki durumun olasılıklarının toplamına eşittir.\nToplam Olasılık = 2/12 + 3/12 = 5/12.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522048439_10",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir kutuda 2 beyaz, 2 siyah ve 2 kırmızı top bulunmaktadır. Rastgele çekilen bir topun beyaz olma olasılığı nedir?",
+    "options": [
+      "1/3",
+      "1/6",
+      "1/2",
+      "1/4",
+      "1/5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Topların toplam sayısı 6'dır. Beyaz topların sayısı 2 olduğuna göre, olasılık 2/6 = 1/3'tir.",
     "difficulty": 3
   },
   {
@@ -880,10 +848,122 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764522048439_0",
+    "id": "ai_1764522048439_14",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir zar atıldığında, 3 gelme olasılığı nedir?",
+    "questionText": "Bir sınıfta 30 öğrenci var. Bu öğrencilerden rastgele seçilen birinin 20 yaşından küçük olma olasılığı %40 ise, sınıfta kaç öğrenci 20 yaşından küçüktür?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eğer olasılık %40 ise, 30 öğrencinin %40'ı 20 yaşından küçük olmalıdır. Yani 30 x 0.4 = 12 öğrenci 20 yaşından küçüktür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622992_9",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 10 top vardır, bunlardan 4'ü sarı, 3'ü kırmızı ve 3'ü yeşildir. Rastgele çekilen bir topun sarı olma olasılığı nedir?",
+    "options": [
+      "0.4",
+      "0.3",
+      "0.5",
+      "0.6",
+      "0.7"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sarı topların sayısı 4, toplam top sayısı 10'dur. Olasılık = 4/10 = 0.4.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519230491_0",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, üst yüzeyde 5 gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "1/5",
+      "1/4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir zarın üst yüzeyinde 6 farklı sayı bulunmaktadır. Her bir sayının gelme olasılığı eşit olduğundan, 5 sayısının gelme olasılığı 1/6'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500868094_1",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "\"KALEM\" kelimesinin harflerinin yerleri değiştirilerek oluşturulabilecek 5 harfli anlamlı ya da anlamsız kelimelerden rastgele biri seçiliyor. Seçilen bu kelimede sesli harflerin yan yana gelme olasılığı kaçtır?",
+    "options": [
+      "1/5",
+      "1/4",
+      "3/10",
+      "2/5",
+      "1/2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Öncelikle tüm olası durumların sayısını bulalım.\n- Tüm Durumların Sayısı: \"KALEM\" kelimesi 5 farklı harften oluşmaktadır. Bu harflerin tüm farklı dizilişlerinin sayısı 5! (5 faktöriyel) kadardır. 5! = 5 * 4 * 3 * 2 * 1 = 120.\n\nŞimdi istenen durumun sayısını bulalım.\n- İstenen Durumun Sayısı: Sesli harflerin (A, E) yan yana olması isteniyor.\n1. Sesli harfleri (A, E) tek bir birim olarak düşünelim. Bu durumda { (A,E), K, L, M } olmak üzere 4 birimimiz olur.\n2. Bu 4 birimin kendi aralarında sıralanması 4! = 24 farklı şekilde olur.\n3. Ayrıca, tek birim olarak düşündüğümüz (A, E) harfleri kendi aralarında (A,E) ve (E,A) olarak 2! = 2 farklı şekilde sıralanabilir.\n4. Dolayısıyla, sesli harflerin yan yana olduğu toplam durum sayısı: 4! * 2! = 24 * 2 = 48'dir.\n\nOlasılık Hesabı: Olasılık = (İstenen Durum Sayısı) / (Tüm Durumların Sayısı) = 48 / 120.\nSadeleştirme: 48/120 = (24 * 2) / (24 * 5) = 2/5.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522048439_12",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 10 top bulunmaktadır. Bu toplardan 4'ü kırmızı, 3'ü mavi ve 3'ü yeşil. Rastgele çekilen bir topun yeşil olma olasılığı nedir?",
+    "options": [
+      "1/10",
+      "3/10",
+      "4/10",
+      "1/5",
+      "3/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Topların toplam sayısı 10'dur. Yeşil topların sayısı 3 olduğuna göre, olasılık 3/10'dur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523622992_7",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar üzerinde 4'ten büyük bir sayı gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/4",
+      "1/3",
+      "1/2",
+      "1/5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zar üzerinde 5 ve 6 sayıları 4'ten büyüktür. Olasılık = 2/6 = 1/3.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523622994_22",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında, 1 veya 2 gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/4",
+      "1/2",
+      "1/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zardaki 1 ve 2 sayıları 2'dir. Olasılık = 2/6 = 1/3.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575369431_0",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında 3 gelme olasılığı nedir?",
     "options": [
       "1/6",
       "1/3",
@@ -892,71 +972,151 @@
       "1/5"
     ],
     "correctAnswer": 0,
-    "explanation": "Bir zarın 6 yüzü vardır ve her yüzün gelme olasılığı eşittir. 3 gelme olasılığı 1/6'dır.",
-    "difficulty": 3
+    "explanation": "Zarda 6 yüz vardır ve sadece bir tanesinde 3 yazılıdır. Dolayısıyla, 3 gelme olasılığı 1/6'dır.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764522048439_4",
+    "id": "ai_1764575369431_1",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir madeni para 3 kez atıldığında, en az bir kez yazı gelme olasılığı nedir?",
+    "questionText": "Bir torbada 4 kırmızı, 6 mavi top bulunmaktadır. Rastgele bir top çekildiğinde mavi top çekme olasılığı nedir?",
     "options": [
-      "1/8",
-      "1/4",
-      "3/8",
-      "7/8",
-      "1/2"
+      "2/5",
+      "3/5",
+      "1/3",
+      "1/2",
+      "1/4"
     ],
-    "correctAnswer": 3,
-    "explanation": "Yazı gelmeme olasılığı (her atışta tura gelmesi) 1/2'dir. Üç kez atıldığında, (1/2)^3 = 1/8 yazı gelmeme olasılığıdır. En az bir yazı gelme olasılığı 1 - 1/8 = 7/8'dir.",
-    "difficulty": 3
+    "correctAnswer": 1,
+    "explanation": "Topların toplamı 10'dur. Mavi top sayısı 6 olduğuna göre, mavi top çekme olasılığı 6/10 = 3/5'tir.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764526092334_1",
+    "id": "ai_1764575369431_2",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir torbada 5 kırmızı, 3 mavi, 2 yeşil top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
+    "questionText": "Bir deste karttan rastgele bir kart çekildiğinde, kupa kartı çekme olasılığı nedir?",
     "options": [
-      "1/10",
-      "3/10",
+      "1/4",
+      "1/2",
+      "1/3",
+      "1/13",
+      "1/52"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir destede toplam 52 kart vardır ve 13 tanesi kupa kartıdır. Dolayısıyla, kupa kartı çekme olasılığı 13/52 = 1/4'tür.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575369431_3",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir madeni para atıldığında yazı gelme olasılığı nedir?",
+    "options": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "1/5",
+      "1/6"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Madeni paranın iki yüzü vardır: yazı ve tura. Yazı gelme olasılığı 1/2'dir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575369431_4",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir sınıfta 10 öğrenci bulunmaktadır. Rastgele bir öğrencinin kız olma olasılığı eğer 4 kız öğrenci varsa nedir?",
+    "options": [
       "1/5",
       "2/5",
+      "3/5",
+      "1/4",
       "1/2"
     ],
     "correctAnswer": 1,
-    "explanation": "Topların toplam sayısı 10'dur (5 + 3 + 2). Mavi topların sayısı 3 olduğuna göre, mavi olma olasılığı 3/10'dur.",
-    "difficulty": 4
+    "explanation": "Toplam öğrenci sayısı 10 ve kız öğrenci sayısı 4 olduğuna göre, kız olma olasılığı 4/10 = 2/5'tir.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764523622993_15",
+    "id": "ai_1764575369431_5",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir sınıfta 30 öğrenci bulunmaktadır. Bu öğrencilerden 18'i kız, 12'si erkektir. Rastgele seçilen bir öğrencinin kız olma olasılığı nedir?",
+    "questionText": "Bir kutuda 5 beyaz ve 3 siyah top bulunmaktadır. Rastgele bir top çekildiğinde beyaz top çekme olasılığı nedir?",
     "options": [
-      "0.4",
-      "0.5",
-      "0.6",
-      "0.7",
-      "0.3"
+      "3/8",
+      "5/8",
+      "1/2",
+      "1/3",
+      "1/4"
     ],
-    "correctAnswer": 2,
-    "explanation": "Kız öğrenci sayısı 18'dir. Olasılık = 18/30 = 0.6.",
-    "difficulty": 5
+    "correctAnswer": 1,
+    "explanation": "Topların toplamı 8'dir. Beyaz top sayısı 5 olduğuna göre, beyaz top çekme olasılığı 5/8'dir.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764523622992_5",
+    "id": "ai_1764575369431_6",
     "subjectId": "mat",
     "topic": "Olasılık",
-    "questionText": "Bir çantada 5 kırmızı ve 7 mavi top bulunmaktadır. Rastgele seçilen bir topun mavi olma olasılığı nedir?",
+    "questionText": "Bir zarda 2 gelme olasılığı nedir?",
     "options": [
-      "0.35",
-      "0.5",
-      "0.58",
-      "0.7",
-      "0.45"
+      "1/6",
+      "1/5",
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarda 6 yüz vardır ve sadece bir tanesinde 2 yazılıdır. Dolayısıyla, 2 gelme olasılığı 1/6'dır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575369431_7",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir çantada 3 kırmızı, 2 mavi ve 5 yeşil top bulunmaktadır. Rastgele bir top çekildiğinde yeşil top çekme olasılığı nedir?",
+    "options": [
+      "1/5",
+      "1/3",
+      "1/2",
+      "5/10",
+      "5/10"
     ],
     "correctAnswer": 3,
-    "explanation": "Toplam top sayısı 5 + 7 = 12'dir. Mavi topların sayısı 7'dir. Olasılık = 7/12 ≈ 0.58.",
-    "difficulty": 5
+    "explanation": "Topların toplamı 10'dur. Yeşil top sayısı 5 olduğuna göre, yeşil top çekme olasılığı 5/10 = 1/2'dir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575369431_8",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir zar atıldığında 4 veya daha büyük bir sayı gelme olasılığı nedir?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "1/4",
+      "1/5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zarda 4, 5 ve 6 olmak üzere 3 yüz vardır. Olasılık 3/6 = 1/2'dir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575369431_9",
+    "subjectId": "mat",
+    "topic": "Olasılık",
+    "questionText": "Bir torbada 7 yeşil ve 3 mavi top var. Rastgele bir top çekildiğinde mavi top çekme olasılığı nedir?",
+    "options": [
+      "1/10",
+      "1/5",
+      "3/10",
+      "1/2",
+      "1/3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Topların toplamı 10'dur. Mavi top sayısı 3 olduğuna göre, mavi top çekme olasılığı 3/10'dur.",
+    "difficulty": 1
   }
 ]
