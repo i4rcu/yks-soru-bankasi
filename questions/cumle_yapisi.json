@@ -1,773 +1,5 @@
 [
   {
-    "id": "ai_1764525186938_30",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak geçmektedir?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okudu",
-      "ve",
-      "bugün"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali sözcüğü özne olarak geçmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522318494_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi birleşik cümledir?",
-    "options": [
-      "Ali dışarı çıktı.",
-      "Ayşe evde kaldı.",
-      "Merve sinemaya gitti ve film izledi.",
-      "Ahmet kitap okuyor.",
-      "Selin çalışıyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Merve sinemaya gitti ve film izledi cümlesi iki bağımsız cümleden oluşan birleşik bir cümledir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764498972829_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "(I) Sabahın erken saatlerinde uyanıp pencereden dışarıya baktı. (II) Gökyüzü, pamuk tarlalarını andıran bulutlarla kaplıydı. (III) Uzaklardan gelen bir motor sesi, sessizliği bozuyordu. (IV) Her şey derin bir sessizliğin içindeydi. (V) Birazdan başlayacak olan koşuşturmacanın habercisiydi bu anlar.\n\nBu parçadaki numaralanmış cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
-    "options": [
-      "A) I",
-      "B) II",
-      "C) III",
-      "D) IV",
-      "E) V"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlelerin yapılarını incelediğimizde:\nI. cümlede 'uyanıp' zarf-fiili bulunduğu için girişik birleşik cümledir.\nII. cümlede 'andıran' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIII. cümlede 'gelen' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIV. cümlede tek bir yüklem ('içindeydi') vardır ve içinde fiilimsi bulunmaz. Bu nedenle yapıca basit bir cümledir.\nV. cümlede 'başlayacak olan' sıfat-fiil grubu bulunduğu için girişik birleşik cümledir.\nDört cümle girişik birleşik yapıdayken IV. cümle basit yapıda olduğu için diğerlerinden farklıdır. Bu nedenle doğru cevap D şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529542765_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi devrik bir cümledir?",
-    "options": [
-      "Güneş doğdu.",
-      "Kedi bahçede oynuyor.",
-      "Güzel bir gün bu, yarın pikniğe gideceğiz.",
-      "Çok güzel bir film izledik.",
-      "Hızla koşuyor çocuklar."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Devrik cümle, özne veya yüklemi yer değiştirerek kurulan cümledir. 'Güzel bir gün bu, yarın pikniğe gideceğiz.' cümlesi devrik bir yapıya sahiptir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575920279_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük yüklem olarak kullanılmıştır?",
-    "options": [
-      "Kitap",
-      "Okuyorum",
-      "Güzel",
-      "Ali",
-      "Dışarıda"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yüklem, cümlede iş veya oluşu bildiren sözcüktür. Bu cümlede 'Okuyorum' yüklem olarak kullanılmıştır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764529048502_22",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
-    "options": [
-      "ve",
-      "ben",
-      "okul",
-      "güzel",
-      "Ali"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaç, cümlede iki ögeyi veya cümleyi birleştiren kelimedir. 'Ve' burada bir bağlaçtır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_28",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Hangi cümle olumsuz bir cümledir?",
-    "options": [
-      "Ali gelmedi.",
-      "Ayşe gitti.",
-      "Kediler uyuyor.",
-      "O çiçek açtı.",
-      "Bizimle gel."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali gelmedi. cümlesi olumsuz bir yapıya sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764520408939_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
-    "options": [
-      "Güzel",
-      "Koşuyor",
-      "Çiçek",
-      "Hızla",
-      "Kedi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577070433_8",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf-fiil olarak kullanılmıştır?",
-    "options": [
-      "Koşarak",
-      "Ali",
-      "Hızlı",
-      "Evde",
-      "Okudu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zarf-fiil, fiilin özelliğini belirten kelimedir. 'Koşarak' kelimesi burada zarf-fiil olarak kullanılmıştır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764519434741_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinde özne ve yüklem arasında bir uyumsuzluk bulunmaktadır?",
-    "options": [
-      "Çocuklar parka gitti.",
-      "Kediler bahçede oynuyor.",
-      "Kitaplar masanın üzerinde duruyor.",
-      "Ali ve Ayşe sinemaya gitmek istiyorlar.",
-      "Araba hızlı gidiyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede 'Kitaplar' (çoğul özne) ile 'duruyor' (tekil yüklem) arasında uyumsuzluk vardır. Doğru yüklem 'duruyorlar' olmalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764579240846_24",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
-    "options": [
-      "ve",
-      "ama",
-      "çünkü",
-      "ya da",
-      "her ikisi de"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bağlaç, cümleleri veya kelimeleri birbirine bağlayan kelimedir. 've', 'ama', 'çünkü', 'ya da' hepsi bağlaçtır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575920279_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük nesne olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "Kitap",
-      "Okuyor",
-      "Yazıyor",
-      "Sınıfta"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nesne, yükleme etki eden ögedir. 'Kitap' burada nesne olarak kullanılmıştır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764529048502_10",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi terim yüklemin zamanını belirtir?",
-    "options": [
-      "Ali",
-      "bugün",
-      "okudu",
-      "hızla",
-      "ve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zaman zarfı, yüklemin zamanını belirtir. 'Bugün' burada yüklemin zamanını belirtmektedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okulda",
-      "gitti",
-      "kitap"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sıfat, isimleri nitelendiren veya belirten kelimedir. 'güzel' kelimesi sıfattır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_31",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime fiil olarak kullanılmıştır?",
-    "options": [
-      "güzel",
-      "Ali",
-      "okudu",
-      "kitap",
-      "hızla"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Fiil, bir eylemi, durumu veya oluşu ifade eden kelimedir. 'Okudu' burada fiil olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_23",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
-    "options": [
-      "hızla",
-      "yavaşça",
-      "Ali",
-      "güzelce",
-      "sakin"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zarf, fiilin nasıl yapıldığını belirten kelimedir. 'Ali' kelimesi zarf değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520408939_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinde özne ile yüklem arasında anlamca bir ilişki yoktur?",
-    "options": [
-      "Ali kitap okuyor.",
-      "Kediler genelde uykuyu sever.",
-      "Bu akşam dışarı çıkmak istemiyorum.",
-      "Hava soğuyunca üşürüm.",
-      "Sıcak çay döküldü."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Son cümlede 'Sıcak çay döküldü.' ifadesinde özne (çay) ile yüklem (döküldü) arasında doğrudan bir anlam ilişkisi yoktur. Diğer cümlelerde özne ve yüklem arasında anlamca bir bağ vardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525186937_18",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime durum zarfıdır?",
-    "options": [
-      "hızla",
-      "güzel",
-      "Ali",
-      "bugün",
-      "okudu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hızla sözcüğü cümlede durum zarfıdır ve eylemi nitelendirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522318494_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarfıdır?",
-    "options": [
-      "Hızlı",
-      "Kısa",
-      "Hemen",
-      "Güzel",
-      "Büyük"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hemen kelimesi zarf olarak kullanılmıştır. Diğerleri sıfatlardır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522318495_18",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmaktadır?",
-    "options": [
-      "Ali",
-      "elmayı",
-      "yedi",
-      "gitti",
-      "geliyor"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Elmayı kelimesi nesne olarak kullanılmıştır. Diğerleri nesne olamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529048502_21",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
-    "options": [
-      "Ali",
-      "okuyor",
-      "kitap",
-      "güzel",
-      "ve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yüklem, cümlede öznenin ne yaptığı veya ne durumda olduğunu belirten kelimedir. 'Okuyor' yüklemdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577070433_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi bileşik cümledir?",
-    "options": [
-      "Ali okula gitti.",
-      "Ali ve Ayşe sinemaya gitti.",
-      "Ali okula gitti ve ders çalıştı.",
-      "Ali kitap okuyordu.",
-      "Ali, Ayşe'yi aradı."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bileşik cümle, en az iki cümleciğin bir araya gelmesiyle oluşur. 'Ali okula gitti ve ders çalıştı.' cümlesi iki bağımsız cümleciği birleştirir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529048502_11",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nitelik belirten bir sıfattır?",
-    "options": [
-      "büyük",
-      "Ali",
-      "okul",
-      "gitti",
-      "ve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıfat, isimleri niteleyen kelimedir. 'Büyük' burada nitelik belirten bir sıfattır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575920279_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
-    "options": [
-      "Ali geldi.",
-      "Ayşe gelmedi.",
-      "Onlar oyun oynuyor.",
-      "Ben kitap okuyorum.",
-      "Hava güneşli."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Olumsuz cümle, 'değil' veya 'ma' ekleriyle oluşturulur. 'Ayşe gelmedi' cümlesi olumsuzdur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764579240846_22",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okudu",
-      "sınıfta",
-      "kitap"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüklem, cümlede özneyi tanımlayan veya ona bir eylem atfeden kelimedir. 'okudu' kelimesi yüklemdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_20",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "okula",
-      "gitti",
-      "çünkü",
-      "yağmur"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dolaylı tümleç, yükleme yön veya yer bildiren kelimedir. 'okula' kelimesi dolaylı tümleçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük sıfat olarak kullanılmıştır?",
-    "options": [
-      "Hızla",
-      "güzel",
-      "Ali",
-      "okudu",
-      "büyük"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Güzel sözcüğü cümlede sıfat olarak kullanılmıştır ve isimleri nitelendirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525186937_15",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Hangi cümle birleşik cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ayşe kitap okudu.",
-      "Ben geliyorum ve sen de gel.",
-      "Kedim uyudu.",
-      "O, ders çalışıyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ben geliyorum ve sen de gel. cümlesi iki bağımsız cümleyi birleştiren bir cümledir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_26",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zamirdir?",
-    "options": [
-      "o",
-      "Ali",
-      "kitap",
-      "güzel",
-      "ve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zamir, isimlerin yerini tutan kelimelerdir. 'O' burada bir zamirdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_14",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime cümleye anlam katmaktadır?",
-    "options": [
-      "Ali",
-      "evde",
-      "okudu",
-      "güzel",
-      "kitap"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cümlede anlamı pekiştiren veya belirten kelime sıfat veya zarf olabilir. 'güzel' kelimesi cümleye anlam katmaktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_9",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıralı cümleleri bağlayan bir bağlaçtır?",
-    "options": [
-      "ve",
-      "ama",
-      "çünkü",
-      "ya da",
-      "fakat"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıralı cümleleri bağlayan bağlaçlar, cümleleri birbirine ekler. 've' kelimesi bu bağlamda kullanılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764498972830_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerin hangisi yapıca sıralı, yükleminin türüne göre fiil, anlamına göre olumlu ve öge dizilişine göre kurallı bir cümledir?",
-    "options": [
-      "A) Hava çok güzeldi, herkes mutluydu.",
-      "B) Uzun süre bekledi ama kimse gelmedi.",
-      "C) Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.",
-      "D) Annesini görünce çok sevindi çocuk.",
-      "E) Ne arayan vardı ne de soran."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Soruda bir cümlenin dört özelliğe sahip olması istenmektedir: sıralı, fiil, olumlu, kurallı.\nA) 'Hava çok güzeldi, herkes mutluydu.' cümlesi sıralı, olumlu ve kurallıdır fakat yüklemleri ('güzeldi', 'mutluydu') isim soylu olduğu için isim cümlesidir.\nB) 'Uzun süre bekledi ama kimse gelmedi.' cümlesi 'ama' bağlacıyla bağlandığı için bağlı cümledir, sıralı değil. Ayrıca 'gelmedi' yüklemi olumsuzdur.\nC) 'Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.' cümlesi, birden çok yüklemi virgülle ayrıldığı için yapıca sıralıdır. Tüm yüklemleri ('kalktı', 'yıkadı', 'yaptı') fiil olduğu için fiil cümlesidir. Yargılar olumlu olduğu için anlamca olumludur. Tüm yüklemler sonda olduğu için öge dizilişine göre kurallıdır. Bu şık, istenen bütün özellikleri taşımaktadır.\nD) 'Annesini görünce çok sevindi çocuk.' cümlesi tek yüklemli olduğu için sıralı değildir ve yüklem sonda olmadığı için devriktir.\nE) 'Ne arayan vardı ne de soran.' cümlesi 'ne... ne...' bağlacıyla kurulduğu için bağlı cümledir. Anlamca olumsuzdur ('arayan ve soran yoktu' anlamı taşır) ve yüklemi ('vardı') isim soylu olduğu için isim cümlesidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529048502_8",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi terim özne ile yüklem arasında bir bağ kurar?",
-    "options": [
-      "ve",
-      "ama",
-      "fakat",
-      "veya",
-      "çünkü"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaçlar, iki öge arasında bağ kurar. 'Ve' burada özne ile yüklem arasında bağ kuran bir terimdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522318494_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne görevindedir?",
-    "options": [
-      "Kedi",
-      "Evin",
-      "Kapısı",
-      "Açık",
-      "Güzel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kedi kelimesi özne görevindedir. Diğerleri cümlede özne olamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764579240846_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
-    "options": [
-      "Ali",
-      "okudu",
-      "kitap",
-      "güzel",
-      "sınıfta"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nesne, cümlede yükleme etki eden veya yüklemden etkilenen kelimedir. 'kitap' kelimesi nesnedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_23",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak geçmektedir?",
-    "options": [
-      "Ali",
-      "hızla",
-      "okudu",
-      "güzel",
-      "bugün"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hızla sözcüğü cümlede zarf olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525186937_16",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okudu",
-      "ve",
-      "bugün"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali sözcüğü cümlede özne olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048501_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük özne olarak kullanılmıştır?",
-    "options": [
-      "Ben",
-      "severim",
-      "kitap",
-      "okumayı",
-      "çok"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Özne, cümlede yükleme bağlı olarak hareket eden ya da durumunu belirten ögedir. 'Ben' cümlede özne olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
-    "options": [
-      "Güzel",
-      "Ali",
-      "okul",
-      "gitti",
-      "kitap"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıfat, isimleri niteleyen veya belirten kelimedir. 'Güzel' burada sıfat olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048501_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
-    "options": [
-      "Ali",
-      "okul",
-      "kitap",
-      "gitti",
-      "hızlı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nesne, yükleme bağlı olarak öznenin hareketinin yöneldiği ögedir. Bu cümlede 'kitap' nesnedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "okula",
-      "gitti",
-      "çünkü",
-      "yağmur"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dolaylı tümleç, yükleme yön veya yer bildiren kelimedir. 'okula' kelimesi dolaylı tümleçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
-    "options": [
-      "hızla",
-      "yavaşça",
-      "Ali",
-      "güzelce",
-      "sakin"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zarf, fiilin nasıl yapıldığını belirten kelimedir. 'Ali' kelimesi zarf değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi zarf cümlesi içerir?",
-    "options": [
-      "Hızla koşuyordu.",
-      "Yarın sinemaya gideceğiz.",
-      "Dün yağmur yağdı.",
-      "Onlar çok çalışkan.",
-      "Kediler uyuyor."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hızla koşuyordu. cümlesinde 'hızla' zarf fiildir ve cümlede zarf cümlesi oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_14",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemle özne arasında bir ilişki kurar?",
-    "options": [
-      "ve",
-      "ama",
-      "fakat",
-      "veya",
-      "çünkü"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaçlar, iki öge arasında bağ kurar. 'Ve' burada özne ile yüklem arasında ilişki kurar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_10",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük zaman zarfıdır?",
-    "options": [
-      "Yarın",
-      "hızla",
-      "güzel",
-      "Ali",
-      "okudu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yarın sözcüğü cümlede zaman zarfı olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_27",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemle özne arasında bir bağ kurar?",
-    "options": [
-      "ve",
-      "ama",
-      "fakat",
-      "veya",
-      "çünkü"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaçlar, iki öge arasında bağ kurar. 'Ve' burada özne ile yüklem arasında bağ kuran bir terimdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764500335419_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Uzak diyarlardan gelen bu eski mektubu, yıllardır kimsenin açmadığı o sandıkta buldum dün akşam.\n\nBu cümleyle ilgili aşağıdaki yargılardan hangisi doğrudur?",
-    "options": [
-      "Yüklemin türüne göre isim, öge dizilişine göre kurallı bir cümledir.",
-      "Yapısına göre basit, anlamına göre olumlu bir cümledir.",
-      "Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.",
-      "Yapısına göre sıralı, anlamına göre olumlu bir cümledir.",
-      "Yüklemin türüne göre fiil, öge dizilişine göre kurallı bir cümledir."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümleyi inceleyelim:\n1. **Yüklem:** \"buldum\" kelimesi bir fiil olduğu için cümle \"fiil cümlesi\"dir.\n2. **Öge Dizilişi:** Yüklem olan \"buldum\" kelimesi cümlenin sonunda yer almadığı için cümle \"devrik cümle\"dir.\n3. **Yapısı:** Cümlenin tek bir yüklemi (\"buldum\") olmasına rağmen içinde \"gelen\" (sıfat-fiil) ve \"açmadığı\" (sıfat-fiil) gibi fiilimsiler bulunmaktadır. İçinde fiilimsi bulunan ve tek yüklemi olan cümleler \"birleşik cümle\"dir.\n4. **Anlamı:** Bulma eylemi gerçekleştiği için cümle \"olumlu cümle\"dir.\nBu bilgilere göre, C seçeneğindeki \"Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.\" ifadesi doğrudur. Diğer şıklar yanlıştır çünkü A'da \"isim\" ve \"kurallı\", B'de \"basit\", D'de \"sıralı\", E'de ise \"kurallı\" ifadeleri hatalıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522318495_14",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı tümleç içermektedir?",
-    "options": [
-      "Ali evde.",
-      "Ayşe ona gitti.",
-      "Merve kitap okuyor.",
-      "Ahmet çalışıyor.",
-      "Selin gel."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ayşe ona gitti cümlesinde 'ona' kelimesi dolaylı tümleçtir. Diğerleri dolaylı tümleç içermez.",
-    "difficulty": 3
-  },
-  {
     "id": "ai_1764522318494_10",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
@@ -782,38 +14,6 @@
     "correctAnswer": 1,
     "explanation": "Merve kitap okudu cümlesi basit bir cümledir. Diğerleri birleşik veya karmaşık cümlelerdir.",
     "difficulty": 3
-  },
-  {
-    "id": "ai_1764525186937_17",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bileşik fiil oluşturur?",
-    "options": [
-      "Ali okuyor",
-      "Ayşe geldi",
-      "Koşmak",
-      "Giderek",
-      "Okuyarak"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Giderek sözcüğü, fiilin bileşikleşmesine örnek teşkil eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764579240846_11",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ali sinemaya gitmedi.",
-      "Ali sinemada film izliyor.",
-      "Ali sinemaya gidecek.",
-      "Ali sinemaya gidebilir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Olumsuz cümle, yüklemde olumsuzluk eki bulunan cümledir. 'Ali sinemaya gitmedi.' cümlesi olumsuzdur.",
-    "difficulty": 4
   },
   {
     "id": "ai_1764577070433_1",
@@ -832,1124 +32,36 @@
     "difficulty": 2
   },
   {
-    "id": "ai_1764579240846_16",
+    "id": "ai_1764582024557_29",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfat-fiil kullanılmıştır?",
-    "options": [
-      "okuyacak",
-      "okudu",
-      "güzel",
-      "Ali",
-      "evde"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıfat-fiil, isimlere nitelik katan ve fiil bildiren kelimedir. 'okuyacak' kelimesi sıfat-fiildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048501_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi eksik bir cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ahmet kitabını okuyor.",
-      "Güzeldi.",
-      "Bugün hava çok sıcak.",
-      "Eve döndüm."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Eksik cümle, anlamını tamamlamayan cümledir. 'Güzeldi.' cümlesi özne veya yüklem içermediği için eksiktir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_14",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemle özne arasındadır?",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümlecidir?",
     "options": [
       "Ali",
-      "koşuyor",
-      "hızla",
-      "ve",
-      "bugün"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hızla sözcüğü yüklem ile özne arasında zarf olarak yer alır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529542765_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük gereksiz bir şekilde tekrarlanmıştır?",
-    "options": [
-      "Çocuklar, çocuklar parka gitti.",
-      "Bugün hava çok güzel.",
-      "Ali kitap okuyor.",
-      "Ayşe resim yapıyor.",
-      "Dışarıda yağmur yağıyor."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede 'çocuklar' kelimesi iki kez tekrar edilmiştir, bu da gereksiz bir tekrar oluşturur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_18",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime fiil olarak kullanılmıştır?",
-    "options": [
-      "güzel",
-      "Ali",
-      "okudu",
-      "kitap",
-      "hızla"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Fiil, bir eylemi, durumu veya oluşu ifade eden kelimedir. 'Okudu' burada fiil olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522318495_15",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne ile yüklem arasında ilişki kurmaktadır?",
-    "options": [
-      "ve",
-      "ama",
-      "çünkü",
-      "yada",
-      "fakat"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ve bağlacı özne ile yüklem arasında ilişki kurar. Diğerleri de bağlaçtır ama farklı anlamlar taşır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577070433_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümle yapısı açısından hangisi yanlıştır?",
-    "options": [
-      "Basit cümle: Ali uyuyor.",
-      "Bileşik cümle: Ali gelirse, biz de gideriz.",
-      "Sıralı cümle: Ali geldi, Ayşe de geldi.",
-      "Bağlı cümle: Hava güzel ama ben dışarı çıkmak istemiyorum.",
-      "Cümlede özne yok."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cümlede özne bulunmaması, cümlenin anlamını bozar. Diğer seçeneklerdeki cümle yapıları doğrudur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529048502_30",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
-    "options": [
-      "bugün",
-      "Ali",
-      "hızla",
-      "okudu",
-      "kitap"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zaman zarfı, yüklemin zamanını belirtir. 'Bugün' burada zaman zarfıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529542767_8",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "kitap",
-      "okudu",
-      "güzel",
-      "sinemada"
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Kitap' kelimesi, yüklemdeki eylemi etkileyen nesne rolündedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_12",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümle hangisi soru cümlesidir?",
-    "options": [
-      "O nerede?",
-      "Ben gideceğim.",
-      "Ali geldi.",
-      "Çiçekler açtı.",
-      "Ayşe sinemada."
-    ],
-    "correctAnswer": 0,
-    "explanation": "O nerede? cümlesi soru cümlesi olarak yapılandırılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525186937_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Hangi cümlede bağlaç kullanılmıştır?",
-    "options": [
-      "Ben sinemaya gideceğim.",
-      "Ali ve Ayşe parka gitti.",
-      "Hava yağmurlu.",
-      "Kedim uyuyor.",
-      "O kitabı okudu."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ali ve Ayşe parka gitti. cümlesinde 've' bağlacı kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764579240846_10",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi cümle yan cümledir?",
-    "options": [
-      "Ali okula gitti.",
-      "Yağmur yağıyor.",
-      "Ödevim var, bu yüzden çalışmalıyım.",
-      "Ali, sinemada film izledi çünkü çok sevdi.",
-      "Sinemaya gitti."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yan cümle, ana cümleye bağlı olarak anlam kazanır. 'Ali, sinemada film izledi çünkü çok sevdi.' cümlesi yan cümledir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577070433_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük sıfat olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "Güzel",
-      "Koşuyor",
-      "Evde",
-      "Hızla"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sıfat, isimleri niteleyen veya belirten kelimedir. 'Güzel' kelimesi burada sıfat olarak kullanılmıştır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529048501_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi yapı doğrudur?",
-    "options": [
-      "O, kitap okuyor.",
-      "O kitap okuyor.",
-      "O kitap okuyor mu?",
-      "Okuyor O kitap.",
-      "Kitap O okuyor."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Doğru cümle yapısı, özne ve yüklemin doğru bir biçimde sıralanmasıdır. 'O kitap okuyor.' cümlesi doğru yapıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_19",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
-    "options": [
-      "Ali",
-      "kitap",
-      "okudu",
-      "sınıfta",
-      "güzel"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nesne, yükleme etki eden veya yüklemden etkilenen kelimedir. 'kitap' kelimesi nesnedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522318494_12",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi bağlaç içermektedir?",
-    "options": [
-      "Ali geldi.",
-      "Ayşe gitti.",
-      "Merve sinemaya gitti ve film izledi.",
-      "Ahmet çalışıyor.",
-      "Selin uyuyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Merve sinemaya gitti ve film izledi cümlesinde 've' bağlacı kullanılmıştır. Diğerlerinde bağlaç yoktur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764500335419_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Güneşin batışını izlerken, gökyüzünün kızıla boyanmasıyla birlikte içimde tarifsiz bir hüzün belirdi.\n\nBu cümlenin yapısı aşağıdakilerden hangisidir?",
-    "options": [
-      "Basit Cümle",
-      "Sıralı Cümle",
-      "Girişik Birleşik Cümle",
-      "Bağlı Cümle",
-      "Şartlı Birleşik Cümle"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu cümle, tek bir temel yargı (yüklem: belirdi) içerdiği ve bu temel yargıya bağlı fiilimsi (zarf-fiil: izlerken) barındırdığı için yapıca \"Girişik Birleşik Cümle\"dir. Cümlenin tek bir yüklemi vardır, bu nedenle basit cümle değildir. Birden fazla cümlenin virgül veya noktalı virgülle bağlanmaması nedeniyle sıralı cümle, bağlaçla bağlanmaması nedeniyle de bağlı cümle değildir. İçinde şart anlamı taşıyan bir ek (-se/-sa) bulunmadığı için şartlı birleşik cümle de olamaz. Cümledeki \"izlerken\" zarf-fiili, yan cümlecik kurarak cümleyi birleşik yapılı hale getirmiştir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522318495_16",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi karmaşık cümledir?",
-    "options": [
-      "Ali geldi.",
-      "Ayşe elma yiyor.",
-      "Merve sinemaya gitti ve film izledi.",
-      "Ahmet, Selin uyuduğu için dışarı çıkmadı.",
-      "Selin çalışıyor."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ahmet, Selin uyuduğu için dışarı çıkmadı cümlesi karmaşık bir cümledir. Diğerleri ya basit ya da birleşiktir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764579240846_21",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfat değildir?",
-    "options": [
-      "güzel",
-      "büyük",
-      "kırmızı",
-      "Ali",
-      "hızlı"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Sıfat, isimleri nitelendiren kelimedir. 'Ali' kelimesi sıfat değildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_15",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf-fiil kullanılmıştır?",
-    "options": [
-      "Ali",
-      "okulda",
-      "güzelce",
-      "okudu",
-      "sadece"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Zarf-fiil, eylemi nitelendiren ve fiil bildiren kelimedir. 'güzelce' kelimesi zarf-fiildir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_8",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır?",
-    "options": [
-      "Hızla",
-      "Ali",
-      "okudu",
-      "güzel",
-      "bugün"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hızla sözcüğü cümlede zarf olarak kullanılmıştır ve eylemi nitelendirir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_12",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime belirtili nesnedir?",
-    "options": [
-      "Ali",
-      "kitap",
-      "okudu",
-      "sarı",
-      "ve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Belirtili nesne, yükleme bağlı olarak öznenin hareketinin yöneldiği ve belirli bir nesneyi gösteren ögedir. 'Kitap' burada belirtili nesnedir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577070433_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
-    "options": [
-      "Ali",
-      "Kitap",
-      "Okudu",
-      "Hızlıca",
-      "Evde"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nesne, yükleme neyi, kimi soruları sorularak bulunur. 'Kitap' kelimesi burada nesne olarak kullanılmıştır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764519434741_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinin yapısı doğrudur?",
-    "options": [
-      "Ali evde kitap okuyor.",
-      "Ayşe ve Fatma sinemaya gitmek istemiyor.",
-      "Kedim bahçede oynuyor.",
-      "Bizim köpek çok havlıyor.",
-      "Hepsi doğrudur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Verilen tüm cümleler doğru yapıda olup, özne ile yüklem arasında uyum vardır. Bu nedenle 'Hepsi doğrudur.' şıkkı doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580082757_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisinde cümle yapısı açısından bir bozukluk vardır?",
-    "options": [
-      "Ali, kitap okudu ve müzik dinledi.",
-      "Öğrenciler, sınavdan yüksek not alabilmek için çok çalıştılar.",
-      "Dün, yağmur yağdığı için parka gitmedim.",
-      "Kedim mavi gözlü ve çok sevimli bir kedi.",
-      "Oyun oynamak çok eğlenceli, ama ders çalışmayı da unutmamalıyız."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Dördüncü seçenek olan 'Kedim mavi gözlü ve çok sevimli bir kedi.' cümlesinde, iki sıfat 'mavi gözlü' ve 'çok sevimli' arasına bağlaç konulmamış. Bu nedenle cümle yapısı açısından bir bozukluk söz konusudur. Diğer seçenekler ise doğru yapıdadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_20",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük öznedir?",
-    "options": [
-      "Ali",
-      "okudu",
-      "evde",
-      "ve",
-      "güzel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Özne, cümlede yükleme bağlı olarak hareket eden ya da durumunu belirten ögedir. 'Ali' burada özne olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_24",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "okudu",
-      "kütüphaneden",
-      "güzel",
-      "ve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Kütüphaneden' dolaylı tümleçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577070433_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
-    "options": [
-      "Ama",
-      "Ali",
-      "Okudu",
-      "Güzel",
-      "Kütüphane"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaç, iki cümle veya cümleciği birbirine bağlayan kelimedir. 'Ama' kelimesi burada bağlaç olarak kullanılmıştır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764525186937_22",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okudu",
-      "kitap",
-      "bugün"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kitap sözcüğü nesne olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575920279_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi eksik bir cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ayşe kitap okuyor.",
-      "Çok güzel bir film.",
-      "Müzik dinliyorum.",
-      "Dışarıda yağmur yağıyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çok güzel bir film cümlesi özne veya yüklem içermediği için eksik bir cümledir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764529542768_9",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi soru cümlesidir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ali sinemaya gidecek mi?",
-      "Bugün hava çok sıcak.",
-      "Ali kitap okuyor.",
-      "Ali sinemada arkadaşlarıyla buluştu."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Soru cümleleri genellikle soru kelimeleri veya 'mi' eki ile oluşur. 'Ali sinemaya gidecek mi?' cümlesi bir soru cümlesidir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522318494_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
-    "options": [
-      "Hızla",
-      "Dikkatlice",
-      "Yavaşça",
-      "Dün",
-      "Her zaman"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Dün kelimesi zaman zarfıdır. Diğerleri durum zarfıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529048502_25",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfat olarak kullanılmıştır?",
-    "options": [
-      "güzel",
-      "Ali",
-      "okul",
-      "gitti",
-      "ve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıfat, isimleri niteleyen kelimedir. 'Güzel' burada sıfat olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre tamamlanmamıştır?",
-    "options": [
-      "Ali kitap okuyor.",
-      "Ayşe sinemaya gitti.",
-      "Ben bu filmi seviyorum.",
-      "Kediler mırlamayı sever.",
-      "Hava çok güzel."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hava çok güzel. cümlesinde yüklem eksik kalmış, 'Hava çok güzel.' cümlesi bağımsız bir yüklem içermiyor.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525186937_19",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklem ile özne arasında yer alır?",
-    "options": [
-      "Ali",
-      "okudu",
-      "kitap",
-      "ve",
-      "güzel"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kitap sözcüğü yüklem ile özne arasında yer alarak nesne görevi görmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764525186937_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümle hangisi olumsuz bir cümledir?",
-    "options": [
-      "Ali geldi.",
-      "Ayşe gitmedi.",
-      "Kediler uyuyor.",
-      "O ders çalışıyor.",
-      "Biz sinemaya gidiyoruz."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ayşe gitmedi. cümlesi olumsuz bir yapıya sahiptir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529542767_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi sık kullanılan bir deyim içerir?",
-    "options": [
-      "Ali, yolda yürüyordu.",
-      "Ali, aklında bir soru ile kaldı.",
-      "Ali, işini gücünü bıraktı.",
-      "Ali, işten sonra kahve içti.",
-      "Ali, bu konuyu daha önce konuşmuştuk."
-    ],
-    "correctAnswer": 1,
-    "explanation": "'Aklında bir soru ile kaldı' ifadesi bir deyimdir ve mecazi anlam taşır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
-    "options": [
-      "kitap",
-      "okudu",
-      "Ali",
-      "güzel",
-      "sınıfta"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede özne, yükleme neyin, kimin veya hangi nesnenin verildiğini belirtir. 'Ali' kelimesi özne durumundadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi bileşik cümledir?",
-    "options": [
-      "Ali okula gitti.",
-      "Ali ve Ayşe sinemaya gitti.",
-      "Ali, sinemada film izledi.",
-      "Ali okula gitti çünkü yağmur yağıyordu.",
-      "Ali sinemaya gitmek istemedi."
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bileşik cümle, en az iki bağımsız cümleden oluşur. 'Ali okula gitti çünkü yağmur yağıyordu.' cümlesi, bir bağımsız cümle ve bir neden-sonuç ilişkisi kuran yan cümle içerir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük yüklem görevi görmektedir?",
-    "options": [
-      "Kediler",
-      "mırladı",
-      "çok",
-      "güzel",
-      "yavaşça"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mırladı sözcüğü cümlede yüklem görevi görmektedir ve eylemi belirtir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577070433_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak kullanılmıştır?",
-    "options": [
-      "Hızla",
-      "Ali",
-      "Kitap",
-      "Güzel",
-      "Okudu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zarf, fiil veya sıfatı niteleyen kelimedir. 'Hızla' kelimesi burada zarf olarak kullanılmıştır.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764525186937_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük özne görevindedir?",
-    "options": [
-      "Koşmak",
-      "Ali",
-      "gitti",
       "sinemaya",
-      "bugün"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ali sözcüğü cümlede özne görevindedir çünkü eylemi gerçekleştiren kişiyi belirtir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_19",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfat olarak kullanılmıştır?",
-    "options": [
-      "güzel",
-      "Ali",
-      "okul",
       "gitti",
-      "ve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sıfat, isimleri niteleyen kelimedir. 'Güzel' burada sıfat olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümle yapılarından hangisi doğrudur?",
-    "options": [
-      "Onlar sinemaya gitti.",
-      "Sinemaya gitti onlar.",
-      "Gitti sinemaya onlar.",
-      "Onlar gitti sinemaya.",
-      "Gitti onlar sinemaya."
-    ],
-    "correctAnswer": 0,
-    "explanation": "Doğru cümle yapısı, özne ve yüklemin doğru bir biçimde sıralanmasıdır. 'Onlar sinemaya gitti.' cümlesi doğrudur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_25",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre tamamlanmamıştır?",
-    "options": [
-      "Ali sinemaya gidiyor.",
-      "Ayşe kitap okuyor.",
-      "Kediler mırlıyor.",
-      "Ben bu filmi seviyorum.",
-      "Hava çok güzel."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Hava çok güzel. cümlesinde yüklem eksik kalmış, 'Hava çok güzel.' cümlesi bağımsız bir yüklem içermiyor.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764579240846_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
-    "options": [
-      "Ali",
-      "sınıfta",
-      "okudu",
-      "güzel",
-      "kitap"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüklem, cümlede özneyi tanımlayan veya ona bir eylem atfeden kelimedir. 'okudu' kelimesi yüklemdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529542767_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede özne nedir?",
-    "options": [
-      "Ali",
-      "okulda",
-      "gitti",
-      "güzel",
-      "sinemaya"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cümlede 'Ali' kelimesi özne rolündedir çünkü cümledeki eylemi gerçekleştiren kişiyi ifade eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_15",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "okudu",
-      "okuldan",
-      "güzel",
-      "ve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Okuldan' dolaylı tümleçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümle hangisi nesne almaz?",
-    "options": [
-      "Ben kitabı okudum.",
-      "O, elmayı yedi.",
-      "Kedi uyudu.",
-      "Ayşe resim yaptı.",
-      "Ali çiçek suladı."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kedi uyudu. cümlesi nesne almayan bir cümledir, çünkü 'kedi' özne, 'uyudu' ise yüklemdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575920279_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümle hangisi birleşik cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ayşe ve Fatma parka gitti.",
-      "Hava çok sıcak.",
-      "Ben de geliyorum.",
-      "O, kitap okudu ve müzik dinledi."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Birleşik cümle, en az iki bağımsız cümle veya cümleciğin bir araya gelmesiyle oluşur. 'O, kitap okudu ve müzik dinledi' birleşik bir cümledir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764522318495_19",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi geniş zaman kipinde değildir?",
-    "options": [
-      "Ali kitap okur.",
-      "Ayşe çalışıyor.",
-      "Merve sinemaya gidiyor.",
-      "Ahmet ders çalışır.",
-      "Selin yemek yapar."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ayşe çalışıyor cümlesi geniş zaman kipi değil, şimdiki zaman kipindedir. Diğerleri geniş zamandadır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522318494_13",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne görevindedir?",
-    "options": [
-      "Ali",
-      "elma",
-      "yedi",
-      "gitti",
+      "hızlıca",
       "geliyor"
     ],
     "correctAnswer": 1,
-    "explanation": "Elma kelimesi nesne görevindedir. Diğerleri nesne olamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525186937_29",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "hızla",
-      "okudu",
-      "güzel",
-      "bugün"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Hızla sözcüğü zarf olarak kullanılmıştır.",
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Sinemaya' burada dolaylı tümleçtir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764579240846_18",
+    "id": "ai_1764575920279_7",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "questionText": "Aşağıdaki cümlede hangi sözcük nesne olarak kullanılmıştır?",
     "options": [
-      "ve",
-      "ama",
-      "çünkü",
-      "ya da",
-      "her ikisi de"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bağlaç, cümleleri veya kelimeleri birbirine bağlayan kelimedir. 've', 'ama', 'çünkü', 'ya da' hepsi bağlaçtır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_11",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime tamlayandır?",
-    "options": [
-      "Ali",
-      "kitap",
-      "okuyor",
-      "güzel",
-      "bugün"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kitap sözcüğü, özneyi nitelendiren bir tamlayandır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575920279_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır?",
-    "options": [
-      "Hızlı",
       "Ali",
       "Kitap",
-      "Okuyorum",
-      "Güzel"
+      "Okuyor",
+      "Yazıyor",
+      "Sınıfta"
     ],
-    "correctAnswer": 0,
-    "explanation": "Zarf, eylemi, durumu veya başka bir zarfi niteleyen sözcüktür. 'Hızlı' burada zarf olarak kullanılmıştır.",
+    "correctAnswer": 1,
+    "explanation": "Nesne, yükleme etki eden ögedir. 'Kitap' burada nesne olarak kullanılmıştır.",
     "difficulty": 1
-  },
-  {
-    "id": "ai_1764529048502_28",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "okudu",
-      "okuldan",
-      "güzel",
-      "ve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Okuldan' dolaylı tümleçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764501620898_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
-    "options": [
-      "Uzun zamandır görmediği arkadaşıyla karşılaşınca ayaküstü sohbet etmeye başladı.",
-      "Adam yavaşça koltuğundan kalktı, pencereye doğru sakince yürüdü.",
-      "Yazar, okurlarına yeni bir dünyanın kapılarını aralayan eserler kaleme almayı hedefliyordu.",
-      "Sınav sonuçları açıklandığında istediği bölümü kazandığını öğrenen genç, sevinçten havalara uçtu.",
-      "Sorunları görmezden gelerek hiçbir yere varılamayacağını hepimiz biliyoruz."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümleler yapılarına göre basit, birleşik, sıralı ve bağlı olmak üzere dörde ayrılır. Bir cümlenin yapısını belirlerken temel olarak yüklem sayısına ve cümle içinde fiilimsi bulunup bulunmadığına bakılır.\n\n*   **A seçeneğinde;** \"başladı\" tek yüklemdir. Cümlede \"görmediği\", \"karşılaşınca\", \"etmeye\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **C seçeneğinde;** \"hedefliyordu\" tek yüklemdir. Cümlede \"aralayan\" ve \"almayı\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **D seçeneğinde;** \"uçtu\" tek yüklemdir. Cümlede \"açıklandığında\", \"istediği\", \"kazandığını\", \"öğrenen\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **E seçeneğinde;** \"biliyoruz\" tek yüklemdir. Cümlede \"gelerek\" ve \"varılamayacağını\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **B seçeneğinde ise;** \"kalktı\" ve \"yürüdü\" olmak üzere iki ayrı yüklem bulunmaktadır. Bu iki yargı (cümle) birbirine virgülle bağlanmıştır. Birden fazla yüklemi olan ve bu yüklemlerin birbirine virgül veya noktalı virgülle bağlandığı cümlelere \"sıralı cümle\" denir. \n\nDolayısıyla A, C, D ve E seçenekleri yapıca \"birleşik\" iken, B seçeneği \"sıralı\" bir cümledir. Bu nedenle doğru cevap B'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764579240846_13",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime belirteçtir?",
-    "options": [
-      "hızla",
-      "Ali",
-      "güzel",
-      "sadece",
-      "okulda"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Belirteç, fiilin veya sıfatın anlamını pekiştiren kelimedir. 'sadece' kelimesi belirteçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_17",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
-    "options": [
-      "bugün",
-      "Ali",
-      "okulda",
-      "güzel",
-      "kitap"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zaman zarfı, eylemin ne zaman yapıldığını belirten kelimedir. 'bugün' kelimesi zaman zarfıdır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520408939_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi birleşik cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Elma taze ve lezzetli.",
-      "Hava güzel ama rüzgarlı.",
-      "Kitap okuyorum.",
-      "Sokakta çocuklar oynuyor."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Birleşik cümle, iki veya daha fazla cümleciğin bir araya gelmesiyle oluşur. 'Hava güzel ama rüzgarlı.' cümlesi, 'ama' bağlacı ile iki cümleciği birleştirdiği için birleşik cümledir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764529048501_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük yüklemdir?",
-    "options": [
-      "Güzel",
-      "Kedi",
-      "Uyuyor",
-      "Bahçede",
-      "Hızla"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüklem, cümlede öznenin ne yaptığı veya ne durumda olduğunu belirten kelimedir. Bu cümlede 'uyuyor' yüklemdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522318494_9",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime tamamlayıcıdır?",
-    "options": [
-      "Eve",
-      "Gideceğim",
-      "Seni",
-      "Görmek",
-      "Zaman"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Görmek kelimesi cümlede tamamlayıcıdır. Diğerleri tamamlayıcı değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525186937_20",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "kitap",
-      "okudu",
-      "hızla",
-      "ve"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ali cümlede özne olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764522318495_17",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
-    "options": [
-      "Ali",
-      "güzel",
-      "elma",
-      "yemek",
-      "ve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Güzel kelimesi sıfattır. Diğerleri sıfat olamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764522318494_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
-    "options": [
-      "Ali geldi.",
-      "Ayşe gidecek.",
-      "Merve sinemaya gitmedi.",
-      "Ahmet çalışıyor.",
-      "Selin yazar."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Merve sinemaya gitmedi cümlesi olumsuz bir cümledir. Diğerleri olumlu cümlelerdir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575920279_0",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi doğru bir cümle yapısına sahiptir?",
-    "options": [
-      "Güzel bir gün.",
-      "Hava çok sıcak, dışarı çıkmak istemiyorum.",
-      "Kitap okuyorum, müzik dinliyorum.",
-      "Yemek yaptım, sonra dinlendim.",
-      "Hepsi."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Tüm verilen cümleler doğru bir cümle yapısına sahiptir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764522318494_11",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
-    "options": [
-      "Ali",
-      "okuyor",
-      "kitap",
-      "ve",
-      "sınıf"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Okuyor kelimesi cümlede yüklem görevindedir. Diğerleri yüklem olamaz.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575920279_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük özne olarak kullanılmıştır?",
-    "options": [
-      "Yemek",
-      "Güzel",
-      "Ali",
-      "Koşuyor",
-      "Hızlı"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede özne, eylemi gerçekleştiren kişi veya nesnedir. Bu cümlede 'Ali' özne olarak kullanılmıştır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764579240846_12",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zamirdir?",
-    "options": [
-      "Ali",
-      "ben",
-      "güzel",
-      "okulda",
-      "kitap"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zamir, isimlerin yerini tutan kelimedir. 'ben' kelimesi zamirdir.",
-    "difficulty": 4
   },
   {
     "id": "ai_1764522318494_0",
@@ -1968,52 +80,132 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764522318494_8",
+    "id": "ai_1764529048502_6",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi soru cümlesidir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
     "options": [
-      "Ali nerede?",
-      "Ayşe evde.",
-      "Merve gitti.",
-      "Ahmet geldi.",
-      "Selin çalışıyor."
+      "Güzel",
+      "Ali",
+      "okul",
+      "gitti",
+      "kitap"
     ],
     "correctAnswer": 0,
-    "explanation": "Ali nerede? cümlesi soru cümlesidir. Diğerleri değildir.",
+    "explanation": "Sıfat, isimleri niteleyen veya belirten kelimedir. 'Güzel' burada sıfat olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_27",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
+    "options": [
+      "hızlıca",
+      "sürekli",
+      "Ali",
+      "güzel",
+      "dışarıda"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zarf, fiilin nasıl yapıldığını belirtir. 'Ali' özne olduğu için zarf değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük yüklem görevi görmektedir?",
+    "options": [
+      "Kediler",
+      "mırladı",
+      "çok",
+      "güzel",
+      "yavaşça"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mırladı sözcüğü cümlede yüklem görevi görmektedir ve eylemi belirtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_17",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
+    "options": [
+      "bugün",
+      "Ali",
+      "okulda",
+      "güzel",
+      "kitap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zaman zarfı, eylemin ne zaman yapıldığını belirten kelimedir. 'bugün' kelimesi zaman zarfıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_27",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemle özne arasında bir bağ kurar?",
+    "options": [
+      "ve",
+      "ama",
+      "fakat",
+      "veya",
+      "çünkü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaçlar, iki öge arasında bağ kurar. 'Ve' burada özne ile yüklem arasında bağ kuran bir terimdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318495_17",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "elma",
+      "yemek",
+      "ve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Güzel kelimesi sıfattır. Diğerleri sıfat olamaz.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764577070433_2",
+    "id": "ai_1764579240846_11",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
     "options": [
-      "Kitap",
-      "Güzel",
-      "Okumak",
-      "Ali",
-      "Sınıfta"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüklem, cümlede özne hakkında bir eylem veya durumu belirtir. 'Okumak' kelimesi burada yüklemdir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764529542767_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük yüklemdir?",
-    "options": [
-      "Ali",
-      "gitti",
-      "sinemaya",
-      "bugün",
-      "arkadaşlarıyla"
+      "Ali sinemaya gitti.",
+      "Ali sinemaya gitmedi.",
+      "Ali sinemada film izliyor.",
+      "Ali sinemaya gidecek.",
+      "Ali sinemaya gidebilir."
     ],
     "correctAnswer": 1,
-    "explanation": "'Gitti' kelimesi cümledeki eylemi ifade eden yüklemdir.",
+    "explanation": "Olumsuz cümle, yüklemde olumsuzluk eki bulunan cümledir. 'Ali sinemaya gitmedi.' cümlesi olumsuzdur.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764575920279_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük özne olarak kullanılmıştır?",
+    "options": [
+      "Yemek",
+      "Güzel",
+      "Ali",
+      "Koşuyor",
+      "Hızlı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede özne, eylemi gerçekleştiren kişi veya nesnedir. Bu cümlede 'Ali' özne olarak kullanılmıştır.",
+    "difficulty": 1
   },
   {
     "id": "ai_1764575920279_8",
@@ -2032,6 +224,134 @@
     "difficulty": 1
   },
   {
+    "id": "ai_1764525186937_25",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre tamamlanmamıştır?",
+    "options": [
+      "Ali sinemaya gidiyor.",
+      "Ayşe kitap okuyor.",
+      "Kediler mırlıyor.",
+      "Ben bu filmi seviyorum.",
+      "Hava çok güzel."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hava çok güzel. cümlesinde yüklem eksik kalmış, 'Hava çok güzel.' cümlesi bağımsız bir yüklem içermiyor.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529048502_30",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
+    "options": [
+      "bugün",
+      "Ali",
+      "hızla",
+      "okudu",
+      "kitap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zaman zarfı, yüklemin zamanını belirtir. 'Bugün' burada zaman zarfıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024556_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne değildir?",
+    "options": [
+      "Kedim",
+      "sürekli",
+      "miyavlıyor",
+      "güzel",
+      "çok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede özne 'kedim'dir. 'Miyavlıyor' yüklem, 'sürekli', 'güzel' ve 'çok' ise sıfat ya da zarf olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529048501_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük yüklemdir?",
+    "options": [
+      "Güzel",
+      "Kedi",
+      "Uyuyor",
+      "Bahçede",
+      "Hızla"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüklem, cümlede öznenin ne yaptığı veya ne durumda olduğunu belirten kelimedir. Bu cümlede 'uyuyor' yüklemdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024556_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerde hangisi birleşik cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ali geldi ve kitap okudu.",
+      "Ali okudu.",
+      "Ali dışarı çıktı.",
+      "Ali sinemaya gitti."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Birleşik cümle, iki ya da daha fazla cümlenin bir araya gelmesiyle oluşur. 'Ali geldi ve kitap okudu.' cümlesi iki cümle içerir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_13",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi bölüm dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "sinemaya",
+      "gitti",
+      "hızlıca",
+      "kitabı"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Sinemaya' burada dolaylı tümleçtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime fiildir?",
+    "options": [
+      "Ali",
+      "okuyor",
+      "güzel",
+      "sinemaya",
+      "çok"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fiil, cümlede öznenin yaptığı eylemi belirtir. 'Okuyor' burada fiildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529542767_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük yüklemdir?",
+    "options": [
+      "Ali",
+      "gitti",
+      "sinemaya",
+      "bugün",
+      "arkadaşlarıyla"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Gitti' kelimesi cümledeki eylemi ifade eden yüklemdir.",
+    "difficulty": 4
+  },
+  {
     "id": "ai_1764529048502_16",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
@@ -2045,214 +365,6 @@
     ],
     "correctAnswer": 0,
     "explanation": "Özne, cümlede yükleme bağlı olarak hareket eden ya da durumunu belirten ögedir. 'Ali' burada özne olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764579240846_8",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi cümle bağlamında doğru bir şekilde kullanılmıştır?",
-    "options": [
-      "Çünkü yağmur yağıyordu.",
-      "Ali ve Ayşe geldi, yağmur yağıyor.",
-      "Yağmur yağdı, dışarı çıkmadık.",
-      "Yağmur yağarsa dışarı çıkacağım.",
-      "Dışarı çıkmadım çünkü yağmur."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cümle bağlamında gerekçenin doğru ifade edilmesi önemlidir. 'Dışarı çıkmadım çünkü yağmur.' cümlesi doğru bir bağlamda kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529542767_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
-    "options": [
-      "Ali sinemaya gitmek istiyor.",
-      "Ali sinemaya gitmiyor.",
-      "Ali sinemaya gitti.",
-      "Ali sinemaya gidiyor.",
-      "Ali sinemaya gidecek."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Olumsuz cümleler, olumsuzluk eki (değil, -ma, -me) ile oluşturulur. 'Ali sinemaya gitmiyor.' cümlesi bu kurala uyar.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_27",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklem olarak kullanılmıştır?",
-    "options": [
-      "Ali",
-      "güzel",
-      "koşuyor",
-      "ve",
-      "bugün"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Koşuyor sözcüğü cümlede yüklem olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048501_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır?",
-    "options": [
-      "Hızla",
-      "gitti",
-      "okul",
-      "Ali",
-      "yazdı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zarf, fiil, sıfat veya başka bir zarfı niteleyen kelimedir. 'Hızla' burada zarf olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529542767_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak kullanılmıştır?",
-    "options": [
-      "Hızla",
-      "güzel",
-      "Ali",
-      "kitap",
-      "okudu"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Hızla' kelimesi, eylemin nasıl yapıldığını belirtir ve bu nedenle zarf olarak kullanılmıştır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764525186937_9",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi öge yüklem ile özne arasında yer alır?",
-    "options": [
-      "Ali",
-      "okudu",
-      "kitap",
-      "güzel",
-      "hızla"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kitap sözcüğü, yüklem ile özne arasında yer alan nesne durumundadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764529048502_9",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "kitap",
-      "kütüphaneden",
-      "okudu",
-      "hızla"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Kütüphaneden' dolaylı tümleçtir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529542786_10",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi bağlaç kullanılmıştır?",
-    "options": [
-      "ve",
-      "ama",
-      "çünkü",
-      "ya da",
-      "her iki seçenek de"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'Ve' kelimesi cümlelerde iki unsuru birbirine bağlamak için kullanılan bir bağlaçtır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764529048502_13",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zamirdir?",
-    "options": [
-      "Ali",
-      "o",
-      "kitap",
-      "güzel",
-      "hızla"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zamir, isimlerin yerini tutan kelimelerdir. 'O' burada bir zamirdir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764522318494_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre olumlu bir cümledir?",
-    "options": [
-      "Ali gelmedi.",
-      "Ayşe üzgün.",
-      "Merve gülüyor.",
-      "Ahmet gitmedi.",
-      "Selin yormadı."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Merve gülüyor cümlesi olumlu bir yükleme sahiptir. Diğerleri olumsuz yüklemelidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764525186937_26",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "kitap",
-      "arkadaşına",
-      "okudu",
-      "güzel"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Arkadaşına sözcüğü dolaylı tümleç durumundadır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519434741_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi tam cümle değildir?",
-    "options": [
-      "Hava çok sıcak.",
-      "Sinemaya gitmeyi düşünüyorum.",
-      "Yemek yapmayı seviyorum",
-      "Yarın hava yağmurlu olacak.",
-      "Elma ve armut."
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cümle 'Elma ve armut' sadece iki isimden oluşmakta ve yüklem içermemektedir. Bu nedenle tam bir cümle değildir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764579240846_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
-    "options": [
-      "bugün",
-      "Ali",
-      "okulda",
-      "gitti",
-      "güzel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zaman zarfı, eylemin ne zaman yapıldığını belirten kelimedir. 'bugün' kelimesi zaman zarfıdır.",
     "difficulty": 4
   },
   {
@@ -2272,10 +384,506 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764525186937_24",
+    "id": "ai_1764582024557_24",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfat olarak kullanılmıştır?",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "options": [
+      "ama",
+      "Ali",
+      "geliyor",
+      "okur",
+      "sınıfta"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaç, cümlede ögeleri birleştiren kelimedir. 'Ama' burada bağlaçtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575920279_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi doğru bir cümle yapısına sahiptir?",
+    "options": [
+      "Güzel bir gün.",
+      "Hava çok sıcak, dışarı çıkmak istemiyorum.",
+      "Kitap okuyorum, müzik dinliyorum.",
+      "Yemek yaptım, sonra dinlendim.",
+      "Hepsi."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tüm verilen cümleler doğru bir cümle yapısına sahiptir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764582024556_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi bölüm zarf tümlecidir?",
+    "options": [
+      "Ali",
+      "hızlıca",
+      "okudu",
+      "sinemaya",
+      "gitti"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zarf tümleci, fiilin nasıl yapıldığını belirtir. 'Hızlıca' burada zarf tümlecidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529542765_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük gereksiz bir şekilde tekrarlanmıştır?",
+    "options": [
+      "Çocuklar, çocuklar parka gitti.",
+      "Bugün hava çok güzel.",
+      "Ali kitap okuyor.",
+      "Ayşe resim yapıyor.",
+      "Dışarıda yağmur yağıyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede 'çocuklar' kelimesi iki kez tekrar edilmiştir, bu da gereksiz bir tekrar oluşturur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "okudu",
+      "okuldan",
+      "güzel",
+      "ve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Okuldan' dolaylı tümleçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_22",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okudu",
+      "sınıfta",
+      "kitap"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüklem, cümlede özneyi tanımlayan veya ona bir eylem atfeden kelimedir. 'okudu' kelimesi yüklemdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_20",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "hızla",
+      "ve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali cümlede özne olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_21",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat değildir?",
+    "options": [
+      "güzel",
+      "büyük",
+      "kırmızı",
+      "Ali",
+      "hızlı"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sıfat, isimleri nitelendiren kelimedir. 'Ali' kelimesi sıfat değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_9",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "kitap",
+      "kütüphaneden",
+      "okudu",
+      "hızla"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Kütüphaneden' dolaylı tümleçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi terim özne ile yüklem arasında bir bağ kurar?",
+    "options": [
+      "ve",
+      "ama",
+      "fakat",
+      "veya",
+      "çünkü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaçlar, iki öge arasında bağ kurar. 'Ve' burada özne ile yüklem arasında bağ kuran bir terimdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_26",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "evde",
+      "çok"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nesne, yükleme doğrudan etki eden kelimedir. 'Kitap' burada nesnedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_11",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özneyi belirtmektedir?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okur",
+      "evde",
+      "sinemaya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Özne, cümlede yüklemi gerçekleştiren kişi veya şeydir. 'Ali' burada özneyi belirtmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_13",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümlecidir?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "arkadaşına",
+      "güzel"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Arkadaşına sözcüğü dolaylı tümleç görevindedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575920279_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi eksik bir cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Ayşe kitap okuyor.",
+      "Çok güzel bir film.",
+      "Müzik dinliyorum.",
+      "Dışarıda yağmur yağıyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çok güzel bir film cümlesi özne veya yüklem içermediği için eksik bir cümledir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764522318494_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
+    "options": [
+      "Hızla",
+      "Dikkatlice",
+      "Yavaşça",
+      "Dün",
+      "Her zaman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dün kelimesi zaman zarfıdır. Diğerleri durum zarfıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764582024557_22",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak kullanılmıştır?",
+    "options": [
+      "Koşuyor",
+      "Ali",
+      "sinemada",
+      "güzel",
+      "çok"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Özne, cümlede yüklemi gerçekleştiren kişi veya şeydir. 'Ali' burada özne olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_20",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi bölüm dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "okulda",
+      "kitap",
+      "okuyor",
+      "geliyor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Okulda' burada dolaylı tümleçtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519434741_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisinde özne ve yüklem arasında bir uyumsuzluk bulunmaktadır?",
+    "options": [
+      "Çocuklar parka gitti.",
+      "Kediler bahçede oynuyor.",
+      "Kitaplar masanın üzerinde duruyor.",
+      "Ali ve Ayşe sinemaya gitmek istiyorlar.",
+      "Araba hızlı gidiyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede 'Kitaplar' (çoğul özne) ile 'duruyor' (tekil yüklem) arasında uyumsuzluk vardır. Doğru yüklem 'duruyorlar' olmalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529542767_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali sinemaya gitmek istiyor.",
+      "Ali sinemaya gitmiyor.",
+      "Ali sinemaya gitti.",
+      "Ali sinemaya gidiyor.",
+      "Ali sinemaya gidecek."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olumsuz cümleler, olumsuzluk eki (değil, -ma, -me) ile oluşturulur. 'Ali sinemaya gitmiyor.' cümlesi bu kurala uyar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318494_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi birleşik cümledir?",
+    "options": [
+      "Ali dışarı çıktı.",
+      "Ayşe evde kaldı.",
+      "Merve sinemaya gitti ve film izledi.",
+      "Ahmet kitap okuyor.",
+      "Selin çalışıyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve sinemaya gitti ve film izledi cümlesi iki bağımsız cümleden oluşan birleşik bir cümledir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529048502_31",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime fiil olarak kullanılmıştır?",
+    "options": [
+      "güzel",
+      "Ali",
+      "okudu",
+      "kitap",
+      "hızla"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fiil, bir eylemi, durumu veya oluşu ifade eden kelimedir. 'Okudu' burada fiil olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_13",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zamirdir?",
+    "options": [
+      "Ali",
+      "o",
+      "kitap",
+      "güzel",
+      "hızla"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zamir, isimlerin yerini tutan kelimelerdir. 'O' burada bir zamirdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır?",
+    "options": [
+      "Hızla",
+      "Ali",
+      "okudu",
+      "güzel",
+      "bugün"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hızla sözcüğü cümlede zarf olarak kullanılmıştır ve eylemi nitelendirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529048502_26",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zamirdir?",
+    "options": [
+      "o",
+      "Ali",
+      "kitap",
+      "güzel",
+      "ve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zamir, isimlerin yerini tutan kelimelerdir. 'O' burada bir zamirdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_10",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi terim yüklemin zamanını belirtir?",
+    "options": [
+      "Ali",
+      "bugün",
+      "okudu",
+      "hızla",
+      "ve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zaman zarfı, yüklemin zamanını belirtir. 'Bugün' burada yüklemin zamanını belirtmektedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_27",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "koşuyor",
+      "ve",
+      "bugün"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Koşuyor sözcüğü cümlede yüklem olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümle hangisi nesne almaz?",
+    "options": [
+      "Ben kitabı okudum.",
+      "O, elmayı yedi.",
+      "Kedi uyudu.",
+      "Ayşe resim yaptı.",
+      "Ali çiçek suladı."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kedi uyudu. cümlesi nesne almayan bir cümledir, çünkü 'kedi' özne, 'uyudu' ise yüklemdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024556_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "okulda",
+      "gitti",
+      "çok",
+      "kitap"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüklem, cümlede öznenin ne yaptığını belirten fiildir. Burada 'gitti' yüklemdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_12",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümle hangisi soru cümlesidir?",
+    "options": [
+      "O nerede?",
+      "Ben gideceğim.",
+      "Ali geldi.",
+      "Çiçekler açtı.",
+      "Ayşe sinemada."
+    ],
+    "correctAnswer": 0,
+    "explanation": "O nerede? cümlesi soru cümlesi olarak yapılandırılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522318495_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne ile yüklem arasında ilişki kurmaktadır?",
+    "options": [
+      "ve",
+      "ama",
+      "çünkü",
+      "yada",
+      "fakat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ve bağlacı özne ile yüklem arasında ilişki kurar. Diğerleri de bağlaçtır ama farklı anlamlar taşır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764582024556_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
+    "options": [
+      "Ali",
+      "kitabı",
+      "okudu",
+      "çok",
+      "sinemaya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlede nesne, yükleme doğrudan etki eden kelimedir. 'Kitabı' burada nesnedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_16",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak kullanılmıştır?",
     "options": [
       "Ali",
       "güzel",
@@ -2283,8 +891,696 @@
       "ve",
       "bugün"
     ],
+    "correctAnswer": 0,
+    "explanation": "Ali sözcüğü cümlede özne olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575920279_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe gelmedi.",
+      "Onlar oyun oynuyor.",
+      "Ben kitap okuyorum.",
+      "Hava güneşli."
+    ],
     "correctAnswer": 1,
-    "explanation": "Güzel sözcüğü cümlede sıfat olarak kullanılmıştır.",
+    "explanation": "Olumsuz cümle, 'değil' veya 'ma' ekleriyle oluşturulur. 'Ayşe gelmedi' cümlesi olumsuzdur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764529048501_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük özne olarak kullanılmıştır?",
+    "options": [
+      "Ben",
+      "severim",
+      "kitap",
+      "okumayı",
+      "çok"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Özne, cümlede yükleme bağlı olarak hareket eden ya da durumunu belirten ögedir. 'Ben' cümlede özne olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577070433_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Kitap",
+      "Güzel",
+      "Okumak",
+      "Ali",
+      "Sınıfta"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüklem, cümlede özne hakkında bir eylem veya durumu belirtir. 'Okumak' kelimesi burada yüklemdir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764582024557_23",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumlu bir cümledir?",
+    "options": [
+      "Ali sinemaya gitmedi.",
+      "Ali sinemaya gitmek istemiyor.",
+      "Ali sinemaya gitti.",
+      "Ali dışarı çıkmadı.",
+      "Ali evde oturmuyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Olumlu cümleler, eylemin gerçekleştiğini belirtir. 'Ali sinemaya gitti.' olumlu bir cümledir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529048502_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemle özne arasında bir ilişki kurar?",
+    "options": [
+      "ve",
+      "ama",
+      "fakat",
+      "veya",
+      "çünkü"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaçlar, iki öge arasında bağ kurar. 'Ve' burada özne ile yüklem arasında ilişki kurar.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
+    "options": [
+      "kitap",
+      "okudu",
+      "Ali",
+      "güzel",
+      "sınıfta"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümlede özne, yükleme neyin, kimin veya hangi nesnenin verildiğini belirtir. 'Ali' kelimesi özne durumundadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime cümleye anlam katmaktadır?",
+    "options": [
+      "Ali",
+      "evde",
+      "okudu",
+      "güzel",
+      "kitap"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede anlamı pekiştiren veya belirten kelime sıfat veya zarf olabilir. 'güzel' kelimesi cümleye anlam katmaktadır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318494_12",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi bağlaç içermektedir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe gitti.",
+      "Merve sinemaya gitti ve film izledi.",
+      "Ahmet çalışıyor.",
+      "Selin uyuyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve sinemaya gitti ve film izledi cümlesinde 've' bağlacı kullanılmıştır. Diğerlerinde bağlaç yoktur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764582024556_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı tümleç içermektedir?",
+    "options": [
+      "Ali evde oturuyor.",
+      "Ali kitabı okudu.",
+      "Ali sinemaya gitti.",
+      "Ali hızlı koşuyor.",
+      "Ali dışarı çıktı."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Ali sinemaya gitti.' cümlesi dolaylı tümleç içerir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_16",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat-fiil kullanılmıştır?",
+    "options": [
+      "okuyacak",
+      "okudu",
+      "güzel",
+      "Ali",
+      "evde"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sıfat-fiil, isimlere nitelik katan ve fiil bildiren kelimedir. 'okuyacak' kelimesi sıfat-fiildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "sınıfta",
+      "okudu",
+      "güzel",
+      "kitap"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüklem, cümlede özneyi tanımlayan veya ona bir eylem atfeden kelimedir. 'okudu' kelimesi yüklemdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318495_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı tümleç içermektedir?",
+    "options": [
+      "Ali evde.",
+      "Ayşe ona gitti.",
+      "Merve kitap okuyor.",
+      "Ahmet çalışıyor.",
+      "Selin gel."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayşe ona gitti cümlesinde 'ona' kelimesi dolaylı tümleçtir. Diğerleri dolaylı tümleç içermez.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519434741_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi tam cümle değildir?",
+    "options": [
+      "Hava çok sıcak.",
+      "Sinemaya gitmeyi düşünüyorum.",
+      "Yemek yapmayı seviyorum",
+      "Yarın hava yağmurlu olacak.",
+      "Elma ve armut."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cümle 'Elma ve armut' sadece iki isimden oluşmakta ve yüklem içermemektedir. Bu nedenle tam bir cümle değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580082757_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisinde cümle yapısı açısından bir bozukluk vardır?",
+    "options": [
+      "Ali, kitap okudu ve müzik dinledi.",
+      "Öğrenciler, sınavdan yüksek not alabilmek için çok çalıştılar.",
+      "Dün, yağmur yağdığı için parka gitmedim.",
+      "Kedim mavi gözlü ve çok sevimli bir kedi.",
+      "Oyun oynamak çok eğlenceli, ama ders çalışmayı da unutmamalıyız."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dördüncü seçenek olan 'Kedim mavi gözlü ve çok sevimli bir kedi.' cümlesinde, iki sıfat 'mavi gözlü' ve 'çok sevimli' arasına bağlaç konulmamış. Bu nedenle cümle yapısı açısından bir bozukluk söz konusudur. Diğer seçenekler ise doğru yapıdadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_12",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zamirdir?",
+    "options": [
+      "Ali",
+      "ben",
+      "güzel",
+      "okulda",
+      "kitap"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zamir, isimlerin yerini tutan kelimedir. 'ben' kelimesi zamirdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük sıfat olarak kullanılmıştır?",
+    "options": [
+      "Hızla",
+      "güzel",
+      "Ali",
+      "okudu",
+      "büyük"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Güzel sözcüğü cümlede sıfat olarak kullanılmıştır ve isimleri nitelendirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522318494_9",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime tamamlayıcıdır?",
+    "options": [
+      "Eve",
+      "Gideceğim",
+      "Seni",
+      "Görmek",
+      "Zaman"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Görmek kelimesi cümlede tamamlayıcıdır. Diğerleri tamamlayıcı değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarfıdır?",
+    "options": [
+      "Hızlı",
+      "Kısa",
+      "Hemen",
+      "Güzel",
+      "Büyük"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hemen kelimesi zarf olarak kullanılmıştır. Diğerleri sıfatlardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764582024557_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
+    "options": [
+      "hızlıca",
+      "sürekli",
+      "güzel",
+      "dışarıda",
+      "koşarak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zarf, fiilin nasıl yapıldığını belirtir. 'Güzel' burada sıfat olarak kullanılmıştır, zarf değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522318494_13",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne görevindedir?",
+    "options": [
+      "Ali",
+      "elma",
+      "yedi",
+      "gitti",
+      "geliyor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elma kelimesi nesne görevindedir. Diğerleri nesne olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318495_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi geniş zaman kipinde değildir?",
+    "options": [
+      "Ali kitap okur.",
+      "Ayşe çalışıyor.",
+      "Merve sinemaya gidiyor.",
+      "Ahmet ders çalışır.",
+      "Selin yemek yapar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayşe çalışıyor cümlesi geniş zaman kipi değil, şimdiki zaman kipindedir. Diğerleri geniş zamandadır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529048501_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
+    "options": [
+      "Ali",
+      "okul",
+      "kitap",
+      "gitti",
+      "hızlı"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nesne, yükleme bağlı olarak öznenin hareketinin yöneldiği ögedir. Bu cümlede 'kitap' nesnedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_25",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "gitti",
+      "sinemada",
+      "çok",
+      "güzel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yüklem, cümlede öznenin ne yaptığını belirten fiildir. Burada 'gitti' yüklemdir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_17",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne değildir?",
+    "options": [
+      "Kitap",
+      "Ali",
+      "okuyor",
+      "sınıfta",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Özne, cümlede yüklemi gerçekleştiren kişi veya şeydir. 'Kitap' özne değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529542765_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi devrik bir cümledir?",
+    "options": [
+      "Güneş doğdu.",
+      "Kedi bahçede oynuyor.",
+      "Güzel bir gün bu, yarın pikniğe gideceğiz.",
+      "Çok güzel bir film izledik.",
+      "Hızla koşuyor çocuklar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Devrik cümle, özne veya yüklemi yer değiştirerek kurulan cümledir. 'Güzel bir gün bu, yarın pikniğe gideceğiz.' cümlesi devrik bir yapıya sahiptir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Hangi cümlede bağlaç kullanılmıştır?",
+    "options": [
+      "Ben sinemaya gideceğim.",
+      "Ali ve Ayşe parka gitti.",
+      "Hava yağmurlu.",
+      "Kedim uyuyor.",
+      "O kitabı okudu."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ali ve Ayşe parka gitti. cümlesinde 've' bağlacı kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_28",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelimeler özne-yüklem uyumunu sağlamaktadır?",
+    "options": [
+      "Kediler güzel.",
+      "Kedi güzel.",
+      "Kediler hızlı.",
+      "Kediler koşuyor.",
+      "Kedi koşuyor."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Özne (kediler) çoğuldur ve yüklem (koşuyor) de çoğul olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem ile özne arasında yer alır?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kitap",
+      "ve",
+      "güzel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kitap sözcüğü yüklem ile özne arasında yer alarak nesne görevi görmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_21",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Hangi cümlede belirteç kullanılmıştır?",
+    "options": [
+      "Ben yavaşça yürüdüm.",
+      "Ali geldi.",
+      "Ayşe sinemaya gitti.",
+      "Kediler uyuyor.",
+      "O ders çalışıyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ben yavaşça yürüdüm. cümlesinde 'yavaşça' belirteç olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575920279_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır?",
+    "options": [
+      "Hızlı",
+      "Ali",
+      "Kitap",
+      "Okuyorum",
+      "Güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf, eylemi, durumu veya başka bir zarfi niteleyen sözcüktür. 'Hızlı' burada zarf olarak kullanılmıştır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764577070433_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi bileşik cümledir?",
+    "options": [
+      "Ali okula gitti.",
+      "Ali ve Ayşe sinemaya gitti.",
+      "Ali okula gitti ve ders çalıştı.",
+      "Ali kitap okuyordu.",
+      "Ali, Ayşe'yi aradı."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bileşik cümle, en az iki cümleciğin bir araya gelmesiyle oluşur. 'Ali okula gitti ve ders çalıştı.' cümlesi iki bağımsız cümleciği birleştirir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764577070433_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük sıfat olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "Güzel",
+      "Koşuyor",
+      "Evde",
+      "Hızla"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimleri niteleyen veya belirten kelimedir. 'Güzel' kelimesi burada sıfat olarak kullanılmıştır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529048502_25",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat olarak kullanılmıştır?",
+    "options": [
+      "güzel",
+      "Ali",
+      "okul",
+      "gitti",
+      "ve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sıfat, isimleri niteleyen kelimedir. 'Güzel' burada sıfat olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318494_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre olumlu bir cümledir?",
+    "options": [
+      "Ali gelmedi.",
+      "Ayşe üzgün.",
+      "Merve gülüyor.",
+      "Ahmet gitmedi.",
+      "Selin yormadı."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve gülüyor cümlesi olumlu bir yükleme sahiptir. Diğerleri olumsuz yüklemelidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764522318494_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe gidecek.",
+      "Merve sinemaya gitmedi.",
+      "Ahmet çalışıyor.",
+      "Selin yazar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Merve sinemaya gitmedi cümlesi olumsuz bir cümledir. Diğerleri olumlu cümlelerdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579240846_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zaman zarfıdır?",
+    "options": [
+      "bugün",
+      "Ali",
+      "okulda",
+      "gitti",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zaman zarfı, eylemin ne zaman yapıldığını belirten kelimedir. 'bugün' kelimesi zaman zarfıdır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577070433_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümle yapısı açısından hangisi yanlıştır?",
+    "options": [
+      "Basit cümle: Ali uyuyor.",
+      "Bileşik cümle: Ali gelirse, biz de gideriz.",
+      "Sıralı cümle: Ali geldi, Ayşe de geldi.",
+      "Bağlı cümle: Hava güzel ama ben dışarı çıkmak istemiyorum.",
+      "Cümlede özne yok."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cümlede özne bulunmaması, cümlenin anlamını bozar. Diğer seçeneklerdeki cümle yapıları doğrudur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764575920279_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümle hangisi birleşik cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Ayşe ve Fatma parka gitti.",
+      "Hava çok sıcak.",
+      "Ben de geliyorum.",
+      "O, kitap okudu ve müzik dinledi."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Birleşik cümle, en az iki bağımsız cümle veya cümleciğin bir araya gelmesiyle oluşur. 'O, kitap okudu ve müzik dinledi' birleşik bir cümledir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764525186938_30",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak geçmektedir?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okudu",
+      "ve",
+      "bugün"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali sözcüğü özne olarak geçmektedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520408939_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem görevindedir?",
+    "options": [
+      "Güzel",
+      "Koşuyor",
+      "Çiçek",
+      "Hızla",
+      "Kedi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümlenin yüklemi, özne hakkında bir eylemi bildiren kelimedir. 'Koşuyor' kelimesi, bir eylemi ifade ettiği için yüklem görevindedir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525186937_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi zarf cümlesi içerir?",
+    "options": [
+      "Hızla koşuyordu.",
+      "Yarın sinemaya gideceğiz.",
+      "Dün yağmur yağdı.",
+      "Onlar çok çalışkan.",
+      "Kediler uyuyor."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hızla koşuyordu. cümlesinde 'hızla' zarf fiildir ve cümlede zarf cümlesi oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
+    "options": [
+      "hızla",
+      "yavaşça",
+      "Ali",
+      "güzelce",
+      "sakin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zarf, fiilin nasıl yapıldığını belirten kelimedir. 'Ali' kelimesi zarf değildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_10",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem değildir?",
+    "options": [
+      "Ali",
+      "geliyor",
+      "sinemaya",
+      "çok",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yüklem, öznenin ne yaptığını belirtir. 'Ali' özne olduğu için yüklem değildir.",
     "difficulty": 5
   },
   {
@@ -2304,19 +1600,339 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764525186937_13",
+    "id": "ai_1764582024557_16",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümlecidir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf tümlecidir?",
+    "options": [
+      "Ali",
+      "okuyor",
+      "hızlıca",
+      "sinemaya",
+      "geliyor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zarf tümleci, fiilin nasıl yapıldığını belirtir. 'Hızlıca' burada zarf tümlecidir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "options": [
+      "ve",
+      "ama",
+      "çünkü",
+      "ya da",
+      "her ikisi de"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bağlaç, cümleleri veya kelimeleri birbirine bağlayan kelimedir. 've', 'ama', 'çünkü', 'ya da' hepsi bağlaçtır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük özne görevindedir?",
+    "options": [
+      "Koşmak",
+      "Ali",
+      "gitti",
+      "sinemaya",
+      "bugün"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ali sözcüğü cümlede özne görevindedir çünkü eylemi gerçekleştiren kişiyi belirtir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522318494_11",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "okuyor",
+      "kitap",
+      "ve",
+      "sınıf"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Okuyor kelimesi cümlede yüklem görevindedir. Diğerleri yüklem olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519434741_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisinin yapısı doğrudur?",
+    "options": [
+      "Ali evde kitap okuyor.",
+      "Ayşe ve Fatma sinemaya gitmek istemiyor.",
+      "Kedim bahçede oynuyor.",
+      "Bizim köpek çok havlıyor.",
+      "Hepsi doğrudur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Verilen tüm cümleler doğru yapıda olup, özne ile yüklem arasında uyum vardır. Bu nedenle 'Hepsi doğrudur.' şıkkı doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529048501_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi eksik bir cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Ahmet kitabını okuyor.",
+      "Güzeldi.",
+      "Bugün hava çok sıcak.",
+      "Eve döndüm."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Eksik cümle, anlamını tamamlamayan cümledir. 'Güzeldi.' cümlesi özne veya yüklem içermediği için eksiktir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_9",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi öge yüklem ile özne arasında yer alır?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kitap",
+      "güzel",
+      "hızla"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kitap sözcüğü, yüklem ile özne arasında yer alan nesne durumundadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kitap",
+      "güzel",
+      "sınıfta"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nesne, cümlede yükleme etki eden veya yüklemden etkilenen kelimedir. 'kitap' kelimesi nesnedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime durum zarfıdır?",
+    "options": [
+      "hızla",
+      "güzel",
+      "Ali",
+      "bugün",
+      "okudu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hızla sözcüğü cümlede durum zarfıdır ve eylemi nitelendirir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582024557_12",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "options": [
+      "ve",
+      "Ali",
+      "gitti",
+      "hızlı",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaç, cümlede ögeleri birleştiren kelimedir. 'Ve' burada bağlaçtır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_29",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "hızla",
+      "okudu",
+      "güzel",
+      "bugün"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hızla sözcüğü zarf olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529048502_21",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "options": [
+      "Ali",
+      "okuyor",
+      "kitap",
+      "güzel",
+      "ve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yüklem, cümlede öznenin ne yaptığı veya ne durumda olduğunu belirten kelimedir. 'Okuyor' yüklemdir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_20",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük öznedir?",
+    "options": [
+      "Ali",
+      "okudu",
+      "evde",
+      "ve",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Özne, cümlede yükleme bağlı olarak hareket eden ya da durumunu belirten ögedir. 'Ali' burada özne olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne değildir?",
     "options": [
       "Ali",
       "kitap",
       "okudu",
-      "arkadaşına",
-      "güzel"
+      "güzel",
+      "sınıf"
     ],
     "correctAnswer": 3,
-    "explanation": "Arkadaşına sözcüğü dolaylı tümleç görevindedir.",
+    "explanation": "Nesne, yükleme doğrudan etki eden kelimedir. 'Güzel' burada nesne değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_11",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime tamlayandır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okuyor",
+      "güzel",
+      "bugün"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kitap sözcüğü, özneyi nitelendiren bir tamlayandır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_22",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okudu",
+      "kitap",
+      "bugün"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kitap sözcüğü nesne olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520408939_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisinde özne ile yüklem arasında anlamca bir ilişki yoktur?",
+    "options": [
+      "Ali kitap okuyor.",
+      "Kediler genelde uykuyu sever.",
+      "Bu akşam dışarı çıkmak istemiyorum.",
+      "Hava soğuyunca üşürüm.",
+      "Sıcak çay döküldü."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Son cümlede 'Sıcak çay döküldü.' ifadesinde özne (çay) ile yüklem (döküldü) arasında doğrudan bir anlam ilişkisi yoktur. Diğer cümlelerde özne ve yüklem arasında anlamca bir bağ vardır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529048502_28",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "okudu",
+      "okuldan",
+      "güzel",
+      "ve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Okuldan' dolaylı tümleçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318495_16",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi karmaşık cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe elma yiyor.",
+      "Merve sinemaya gitti ve film izledi.",
+      "Ahmet, Selin uyuduğu için dışarı çıkmadı.",
+      "Selin çalışıyor."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ahmet, Selin uyuduğu için dışarı çıkmadı cümlesi karmaşık bir cümledir. Diğerleri ya basit ya da birleşiktir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525186937_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümle hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali geldi.",
+      "Ayşe gitmedi.",
+      "Kediler uyuyor.",
+      "O ders çalışıyor.",
+      "Biz sinemaya gidiyoruz."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ayşe gitmedi. cümlesi olumsuz bir yapıya sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Hangi cümle birleşik cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Ayşe kitap okudu.",
+      "Ben geliyorum ve sen de gel.",
+      "Kedim uyudu.",
+      "O, ders çalışıyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ben geliyorum ve sen de gel. cümlesi iki bağımsız cümleyi birleştiren bir cümledir.",
     "difficulty": 5
   },
   {
@@ -2352,20 +1968,596 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764529542765_0",
+    "id": "ai_1764529542768_9",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi bir bileşik cümledir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi soru cümlesidir?",
     "options": [
       "Ali sinemaya gitti.",
-      "Ali ve Ayşe sinemaya gitti.",
-      "Ali sinemaya gitti ve film izledi.",
-      "Ali sinema biletini aldı.",
+      "Ali sinemaya gidecek mi?",
+      "Bugün hava çok sıcak.",
+      "Ali kitap okuyor.",
       "Ali sinemada arkadaşlarıyla buluştu."
     ],
-    "correctAnswer": 2,
-    "explanation": "Bileşik cümle, en az iki bağımsız cümleden oluşur. 'Ali sinemaya gitti ve film izledi.' cümlesi iki bağımsız cümleyi 've' bağlacı ile birleştirerek oluşmuştur.",
+    "correctAnswer": 1,
+    "explanation": "Soru cümleleri genellikle soru kelimeleri veya 'mi' eki ile oluşur. 'Ali sinemaya gidecek mi?' cümlesi bir soru cümlesidir.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi bölüm yüklem değildir?",
+    "options": [
+      "Ali",
+      "geliyor",
+      "çok",
+      "sinemaya",
+      "gitti"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yüklem, öznenin ne yaptığını belirtir. 'Ali' özne olduğu için yüklem değildir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_10",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi cümle yan cümledir?",
+    "options": [
+      "Ali okula gitti.",
+      "Yağmur yağıyor.",
+      "Ödevim var, bu yüzden çalışmalıyım.",
+      "Ali, sinemada film izledi çünkü çok sevdi.",
+      "Sinemaya gitti."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yan cümle, ana cümleye bağlı olarak anlam kazanır. 'Ali, sinemada film izledi çünkü çok sevdi.' cümlesi yan cümledir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764500335419_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Uzak diyarlardan gelen bu eski mektubu, yıllardır kimsenin açmadığı o sandıkta buldum dün akşam.\n\nBu cümleyle ilgili aşağıdaki yargılardan hangisi doğrudur?",
+    "options": [
+      "Yüklemin türüne göre isim, öge dizilişine göre kurallı bir cümledir.",
+      "Yapısına göre basit, anlamına göre olumlu bir cümledir.",
+      "Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.",
+      "Yapısına göre sıralı, anlamına göre olumlu bir cümledir.",
+      "Yüklemin türüne göre fiil, öge dizilişine göre kurallı bir cümledir."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cümleyi inceleyelim:\n1. **Yüklem:** \"buldum\" kelimesi bir fiil olduğu için cümle \"fiil cümlesi\"dir.\n2. **Öge Dizilişi:** Yüklem olan \"buldum\" kelimesi cümlenin sonunda yer almadığı için cümle \"devrik cümle\"dir.\n3. **Yapısı:** Cümlenin tek bir yüklemi (\"buldum\") olmasına rağmen içinde \"gelen\" (sıfat-fiil) ve \"açmadığı\" (sıfat-fiil) gibi fiilimsiler bulunmaktadır. İçinde fiilimsi bulunan ve tek yüklemi olan cümleler \"birleşik cümle\"dir.\n4. **Anlamı:** Bulma eylemi gerçekleştiği için cümle \"olumlu cümle\"dir.\nBu bilgilere göre, C seçeneğindeki \"Öge dizilişine göre devrik, yapısına göre birleşik bir cümledir.\" ifadesi doğrudur. Diğer şıklar yanlıştır çünkü A'da \"isim\" ve \"kurallı\", B'de \"basit\", D'de \"sıralı\", E'de ise \"kurallı\" ifadeleri hatalıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525186937_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklemle özne arasındadır?",
+    "options": [
+      "Ali",
+      "koşuyor",
+      "hızla",
+      "ve",
+      "bugün"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hızla sözcüğü yüklem ile özne arasında zarf olarak yer alır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579240846_13",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime belirteçtir?",
+    "options": [
+      "hızla",
+      "Ali",
+      "güzel",
+      "sadece",
+      "okulda"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Belirteç, fiilin veya sıfatın anlamını pekiştiren kelimedir. 'sadece' kelimesi belirteçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "okula",
+      "gitti",
+      "çünkü",
+      "yağmur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, yükleme yön veya yer bildiren kelimedir. 'okula' kelimesi dolaylı tümleçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime fiil olarak kullanılmıştır?",
+    "options": [
+      "güzel",
+      "Ali",
+      "okudu",
+      "kitap",
+      "hızla"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fiil, bir eylemi, durumu veya oluşu ifade eden kelimedir. 'Okudu' burada fiil olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_11",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nitelik belirten bir sıfattır?",
+    "options": [
+      "büyük",
+      "Ali",
+      "okul",
+      "gitti",
+      "ve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sıfat, isimleri niteleyen kelimedir. 'Büyük' burada nitelik belirten bir sıfattır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575920279_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük yüklem olarak kullanılmıştır?",
+    "options": [
+      "Kitap",
+      "Okuyorum",
+      "Güzel",
+      "Ali",
+      "Dışarıda"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yüklem, cümlede iş veya oluşu bildiren sözcüktür. Bu cümlede 'Okuyorum' yüklem olarak kullanılmıştır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764529542786_10",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi bağlaç kullanılmıştır?",
+    "options": [
+      "ve",
+      "ama",
+      "çünkü",
+      "ya da",
+      "her iki seçenek de"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Ve' kelimesi cümlelerde iki unsuru birbirine bağlamak için kullanılan bir bağlaçtır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048502_22",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "options": [
+      "ve",
+      "ben",
+      "okul",
+      "güzel",
+      "Ali"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaç, cümlede iki ögeyi veya cümleyi birleştiren kelimedir. 'Ve' burada bir bağlaçtır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577070433_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak kullanılmıştır?",
+    "options": [
+      "Hızla",
+      "Ali",
+      "Kitap",
+      "Güzel",
+      "Okudu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf, fiil veya sıfatı niteleyen kelimedir. 'Hızla' kelimesi burada zarf olarak kullanılmıştır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529542767_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi sık kullanılan bir deyim içerir?",
+    "options": [
+      "Ali, yolda yürüyordu.",
+      "Ali, aklında bir soru ile kaldı.",
+      "Ali, işini gücünü bıraktı.",
+      "Ali, işten sonra kahve içti.",
+      "Ali, bu konuyu daha önce konuşmuştuk."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Aklında bir soru ile kaldı' ifadesi bir deyimdir ve mecazi anlam taşır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529542767_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede özne nedir?",
+    "options": [
+      "Ali",
+      "okulda",
+      "gitti",
+      "güzel",
+      "sinemaya"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede 'Ali' kelimesi özne rolündedir çünkü cümledeki eylemi gerçekleştiren kişiyi ifade eder.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577070433_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf-fiil olarak kullanılmıştır?",
+    "options": [
+      "Koşarak",
+      "Ali",
+      "Hızlı",
+      "Evde",
+      "Okudu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf-fiil, fiilin özelliğini belirten kelimedir. 'Koşarak' kelimesi burada zarf-fiil olarak kullanılmıştır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529542767_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak kullanılmıştır?",
+    "options": [
+      "Hızla",
+      "güzel",
+      "Ali",
+      "kitap",
+      "okudu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Hızla' kelimesi, eylemin nasıl yapıldığını belirtir ve bu nedenle zarf olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf-fiil kullanılmıştır?",
+    "options": [
+      "Ali",
+      "okulda",
+      "güzelce",
+      "okudu",
+      "sadece"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Zarf-fiil, eylemi nitelendiren ve fiil bildiren kelimedir. 'güzelce' kelimesi zarf-fiildir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_28",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Hangi cümle olumsuz bir cümledir?",
+    "options": [
+      "Ali gelmedi.",
+      "Ayşe gitti.",
+      "Kediler uyuyor.",
+      "O çiçek açtı.",
+      "Bizimle gel."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ali gelmedi. cümlesi olumsuz bir yapıya sahiptir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577070433_3",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
+    "options": [
+      "Ali",
+      "Kitap",
+      "Okudu",
+      "Hızlıca",
+      "Evde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nesne, yükleme neyi, kimi soruları sorularak bulunur. 'Kitap' kelimesi burada nesne olarak kullanılmıştır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764582024556_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Ali sinemaya gitmedi.",
+      "Ali okula gitti.",
+      "Ali evde kaldı.",
+      "Ali kitap okudu."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olumsuz cümleler, 'değil' veya 'ma' eki ile oluşturulur. 'Ali sinemaya gitmedi.' cümlesi olumsuzdur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764520408939_2",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi birleşik cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Elma taze ve lezzetli.",
+      "Hava güzel ama rüzgarlı.",
+      "Kitap okuyorum.",
+      "Sokakta çocuklar oynuyor."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Birleşik cümle, iki veya daha fazla cümleciğin bir araya gelmesiyle oluşur. 'Hava güzel ama rüzgarlı.' cümlesi, 'ama' bağlacı ile iki cümleciği birleştirdiği için birleşik cümledir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764498972829_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "(I) Sabahın erken saatlerinde uyanıp pencereden dışarıya baktı. (II) Gökyüzü, pamuk tarlalarını andıran bulutlarla kaplıydı. (III) Uzaklardan gelen bir motor sesi, sessizliği bozuyordu. (IV) Her şey derin bir sessizliğin içindeydi. (V) Birazdan başlayacak olan koşuşturmacanın habercisiydi bu anlar.\n\nBu parçadaki numaralanmış cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "options": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlelerin yapılarını incelediğimizde:\nI. cümlede 'uyanıp' zarf-fiili bulunduğu için girişik birleşik cümledir.\nII. cümlede 'andıran' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIII. cümlede 'gelen' sıfat-fiili bulunduğu için girişik birleşik cümledir.\nIV. cümlede tek bir yüklem ('içindeydi') vardır ve içinde fiilimsi bulunmaz. Bu nedenle yapıca basit bir cümledir.\nV. cümlede 'başlayacak olan' sıfat-fiil grubu bulunduğu için girişik birleşik cümledir.\nDört cümle girişik birleşik yapıdayken IV. cümle basit yapıda olduğu için diğerlerinden farklıdır. Bu nedenle doğru cevap D şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579240846_20",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "okula",
+      "gitti",
+      "çünkü",
+      "yağmur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, yükleme yön veya yer bildiren kelimedir. 'okula' kelimesi dolaylı tümleçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi cümle bağlamında doğru bir şekilde kullanılmıştır?",
+    "options": [
+      "Çünkü yağmur yağıyordu.",
+      "Ali ve Ayşe geldi, yağmur yağıyor.",
+      "Yağmur yağdı, dışarı çıkmadık.",
+      "Yağmur yağarsa dışarı çıkacağım.",
+      "Dışarı çıkmadım çünkü yağmur."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cümle bağlamında gerekçenin doğru ifade edilmesi önemlidir. 'Dışarı çıkmadım çünkü yağmur.' cümlesi doğru bir bağlamda kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764501620898_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "options": [
+      "Uzun zamandır görmediği arkadaşıyla karşılaşınca ayaküstü sohbet etmeye başladı.",
+      "Adam yavaşça koltuğundan kalktı, pencereye doğru sakince yürüdü.",
+      "Yazar, okurlarına yeni bir dünyanın kapılarını aralayan eserler kaleme almayı hedefliyordu.",
+      "Sınav sonuçları açıklandığında istediği bölümü kazandığını öğrenen genç, sevinçten havalara uçtu.",
+      "Sorunları görmezden gelerek hiçbir yere varılamayacağını hepimiz biliyoruz."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cümleler yapılarına göre basit, birleşik, sıralı ve bağlı olmak üzere dörde ayrılır. Bir cümlenin yapısını belirlerken temel olarak yüklem sayısına ve cümle içinde fiilimsi bulunup bulunmadığına bakılır.\n\n*   **A seçeneğinde;** \"başladı\" tek yüklemdir. Cümlede \"görmediği\", \"karşılaşınca\", \"etmeye\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **C seçeneğinde;** \"hedefliyordu\" tek yüklemdir. Cümlede \"aralayan\" ve \"almayı\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **D seçeneğinde;** \"uçtu\" tek yüklemdir. Cümlede \"açıklandığında\", \"istediği\", \"kazandığını\", \"öğrenen\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **E seçeneğinde;** \"biliyoruz\" tek yüklemdir. Cümlede \"gelerek\" ve \"varılamayacağını\" fiilimsileri bulunduğu için bu cümle, girişik birleşik bir cümledir.\n*   **B seçeneğinde ise;** \"kalktı\" ve \"yürüdü\" olmak üzere iki ayrı yüklem bulunmaktadır. Bu iki yargı (cümle) birbirine virgülle bağlanmıştır. Birden fazla yüklemi olan ve bu yüklemlerin birbirine virgül veya noktalı virgülle bağlandığı cümlelere \"sıralı cümle\" denir. \n\nDolayısıyla A, C, D ve E seçenekleri yapıca \"birleşik\" iken, B seçeneği \"sıralı\" bir cümledir. Bu nedenle doğru cevap B'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764579240846_9",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıralı cümleleri bağlayan bir bağlaçtır?",
+    "options": [
+      "ve",
+      "ama",
+      "çünkü",
+      "ya da",
+      "fakat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sıralı cümleleri bağlayan bağlaçlar, cümleleri birbirine ekler. 've' kelimesi bu bağlamda kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_24",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "options": [
+      "ve",
+      "ama",
+      "çünkü",
+      "ya da",
+      "her ikisi de"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bağlaç, cümleleri veya kelimeleri birbirine bağlayan kelimedir. 've', 'ama', 'çünkü', 'ya da' hepsi bağlaçtır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529048501_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük zarf olarak kullanılmıştır?",
+    "options": [
+      "Hızla",
+      "gitti",
+      "okul",
+      "Ali",
+      "yazdı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf, fiil, sıfat veya başka bir zarfı niteleyen kelimedir. 'Hızla' burada zarf olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi bileşik cümledir?",
+    "options": [
+      "Ali okula gitti.",
+      "Ali ve Ayşe sinemaya gitti.",
+      "Ali, sinemada film izledi.",
+      "Ali okula gitti çünkü yağmur yağıyordu.",
+      "Ali sinemaya gitmek istemedi."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bileşik cümle, en az iki bağımsız cümleden oluşur. 'Ali okula gitti çünkü yağmur yağıyordu.' cümlesi, bir bağımsız cümle ve bir neden-sonuç ilişkisi kuran yan cümle içerir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_24",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okudu",
+      "ve",
+      "bugün"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Güzel sözcüğü cümlede sıfat olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529048502_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümle yapılarından hangisi doğrudur?",
+    "options": [
+      "Onlar sinemaya gitti.",
+      "Sinemaya gitti onlar.",
+      "Gitti sinemaya onlar.",
+      "Onlar gitti sinemaya.",
+      "Gitti onlar sinemaya."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Doğru cümle yapısı, özne ve yüklemin doğru bir biçimde sıralanmasıdır. 'Onlar sinemaya gitti.' cümlesi doğrudur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "sınıfta",
+      "güzel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nesne, yükleme etki eden veya yüklemden etkilenen kelimedir. 'kitap' kelimesi nesnedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498972830_1",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerin hangisi yapıca sıralı, yükleminin türüne göre fiil, anlamına göre olumlu ve öge dizilişine göre kurallı bir cümledir?",
+    "options": [
+      "A) Hava çok güzeldi, herkes mutluydu.",
+      "B) Uzun süre bekledi ama kimse gelmedi.",
+      "C) Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.",
+      "D) Annesini görünce çok sevindi çocuk.",
+      "E) Ne arayan vardı ne de soran."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Soruda bir cümlenin dört özelliğe sahip olması istenmektedir: sıralı, fiil, olumlu, kurallı.\nA) 'Hava çok güzeldi, herkes mutluydu.' cümlesi sıralı, olumlu ve kurallıdır fakat yüklemleri ('güzeldi', 'mutluydu') isim soylu olduğu için isim cümlesidir.\nB) 'Uzun süre bekledi ama kimse gelmedi.' cümlesi 'ama' bağlacıyla bağlandığı için bağlı cümledir, sıralı değil. Ayrıca 'gelmedi' yüklemi olumsuzdur.\nC) 'Sabah erkenden kalktı, yüzünü yıkadı, kahvaltısını yaptı.' cümlesi, birden çok yüklemi virgülle ayrıldığı için yapıca sıralıdır. Tüm yüklemleri ('kalktı', 'yıkadı', 'yaptı') fiil olduğu için fiil cümlesidir. Yargılar olumlu olduğu için anlamca olumludur. Tüm yüklemler sonda olduğu için öge dizilişine göre kurallıdır. Bu şık, istenen bütün özellikleri taşımaktadır.\nD) 'Annesini görünce çok sevindi çocuk.' cümlesi tek yüklemli olduğu için sıralı değildir ve yüklem sonda olmadığı için devriktir.\nE) 'Ne arayan vardı ne de soran.' cümlesi 'ne... ne...' bağlacıyla kurulduğu için bağlı cümledir. Anlamca olumsuzdur ('arayan ve soran yoktu' anlamı taşır) ve yüklemi ('vardı') isim soylu olduğu için isim cümlesidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529048502_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat olarak kullanılmıştır?",
+    "options": [
+      "güzel",
+      "Ali",
+      "okul",
+      "gitti",
+      "ve"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sıfat, isimleri niteleyen kelimedir. 'Güzel' burada sıfat olarak kullanılmıştır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi yüklemine göre tamamlanmamıştır?",
+    "options": [
+      "Ali kitap okuyor.",
+      "Ayşe sinemaya gitti.",
+      "Ben bu filmi seviyorum.",
+      "Kediler mırlamayı sever.",
+      "Hava çok güzel."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hava çok güzel. cümlesinde yüklem eksik kalmış, 'Hava çok güzel.' cümlesi bağımsız bir yüklem içermiyor.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764522318495_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmaktadır?",
+    "options": [
+      "Ali",
+      "elmayı",
+      "yedi",
+      "gitti",
+      "geliyor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elmayı kelimesi nesne olarak kullanılmıştır. Diğerleri nesne olamaz.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764529048502_17",
@@ -2384,19 +2576,211 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764525186937_21",
+    "id": "ai_1764522318494_8",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Hangi cümlede belirteç kullanılmıştır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi soru cümlesidir?",
     "options": [
-      "Ben yavaşça yürüdüm.",
-      "Ali geldi.",
-      "Ayşe sinemaya gitti.",
-      "Kediler uyuyor.",
-      "O ders çalışıyor."
+      "Ali nerede?",
+      "Ayşe evde.",
+      "Merve gitti.",
+      "Ahmet geldi.",
+      "Selin çalışıyor."
     ],
     "correctAnswer": 0,
-    "explanation": "Ben yavaşça yürüdüm. cümlesinde 'yavaşça' belirteç olarak kullanılmıştır.",
+    "explanation": "Ali nerede? cümlesi soru cümlesidir. Diğerleri değildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764525186937_23",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf olarak geçmektedir?",
+    "options": [
+      "Ali",
+      "hızla",
+      "okudu",
+      "güzel",
+      "bugün"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hızla sözcüğü cümlede zarf olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_10",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi sözcük zaman zarfıdır?",
+    "options": [
+      "Yarın",
+      "hızla",
+      "güzel",
+      "Ali",
+      "okudu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yarın sözcüğü cümlede zaman zarfı olarak kullanılmıştır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577070433_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "options": [
+      "Ama",
+      "Ali",
+      "Okudu",
+      "Güzel",
+      "Kütüphane"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bağlaç, iki cümle veya cümleciği birbirine bağlayan kelimedir. 'Ama' kelimesi burada bağlaç olarak kullanılmıştır.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764529048502_12",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime belirtili nesnedir?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "sarı",
+      "ve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Belirtili nesne, yükleme bağlı olarak öznenin hareketinin yöneldiği ve belirli bir nesneyi gösteren ögedir. 'Kitap' burada belirtili nesnedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764529542765_0",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir bileşik cümledir?",
+    "options": [
+      "Ali sinemaya gitti.",
+      "Ali ve Ayşe sinemaya gitti.",
+      "Ali sinemaya gitti ve film izledi.",
+      "Ali sinema biletini aldı.",
+      "Ali sinemada arkadaşlarıyla buluştu."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bileşik cümle, en az iki bağımsız cümleden oluşur. 'Ali sinemaya gitti ve film izledi.' cümlesi iki bağımsız cümleyi 've' bağlacı ile birleştirerek oluşmuştur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764579240846_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okulda",
+      "gitti",
+      "kitap"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimleri nitelendiren veya belirten kelimedir. 'güzel' kelimesi sıfattır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764522318494_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne görevindedir?",
+    "options": [
+      "Kedi",
+      "Evin",
+      "Kapısı",
+      "Açık",
+      "Güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kedi kelimesi özne görevindedir. Diğerleri cümlede özne olamaz.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764529048502_24",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kütüphaneden",
+      "güzel",
+      "ve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dolaylı tümleç, fiilin yöneldiği yeri veya durumu belirtir. 'Kütüphaneden' dolaylı tümleçtir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764525186937_26",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleçtir?",
+    "options": [
+      "Ali",
+      "kitap",
+      "arkadaşına",
+      "okudu",
+      "güzel"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Arkadaşına sözcüğü dolaylı tümleç durumundadır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764525186937_17",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bileşik fiil oluşturur?",
+    "options": [
+      "Ali okuyor",
+      "Ayşe geldi",
+      "Koşmak",
+      "Giderek",
+      "Okuyarak"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Giderek sözcüğü, fiilin bileşikleşmesine örnek teşkil eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764529542767_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmıştır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "güzel",
+      "sinemada"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Kitap' kelimesi, yüklemdeki eylemi etkileyen nesne rolündedir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582024557_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
+    "options": [
+      "Ali",
+      "güzel",
+      "okuyor",
+      "evde",
+      "geldi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimleri niteleyen veya belirten kelimedir. 'Güzel' burada sıfattır.",
     "difficulty": 5
   },
   {
@@ -2416,134 +2800,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764582024556_1",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
-    "options": [
-      "Ali",
-      "okulda",
-      "gitti",
-      "çok",
-      "kitap"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yüklem, cümlede öznenin ne yaptığını belirten fiildir. Burada 'gitti' yüklemdir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024556_2",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne değildir?",
-    "options": [
-      "Kedim",
-      "sürekli",
-      "miyavlıyor",
-      "güzel",
-      "çok"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cümlede özne 'kedim'dir. 'Miyavlıyor' yüklem, 'sürekli', 'güzel' ve 'çok' ise sıfat ya da zarf olarak kullanılmıştır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024556_3",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerde hangisi birleşik cümledir?",
-    "options": [
-      "Ali geldi.",
-      "Ali geldi ve kitap okudu.",
-      "Ali okudu.",
-      "Ali dışarı çıktı.",
-      "Ali sinemaya gitti."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Birleşik cümle, iki ya da daha fazla cümlenin bir araya gelmesiyle oluşur. 'Ali geldi ve kitap okudu.' cümlesi iki cümle içerir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024556_4",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
-    "options": [
-      "Ali sinemaya gitti.",
-      "Ali sinemaya gitmedi.",
-      "Ali okula gitti.",
-      "Ali evde kaldı.",
-      "Ali kitap okudu."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Olumsuz cümleler, 'değil' veya 'ma' eki ile oluşturulur. 'Ali sinemaya gitmedi.' cümlesi olumsuzdur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024556_5",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesnedir?",
-    "options": [
-      "Ali",
-      "kitabı",
-      "okudu",
-      "çok",
-      "sinemaya"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cümlede nesne, yükleme doğrudan etki eden kelimedir. 'Kitabı' burada nesnedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024556_6",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi bölüm zarf tümlecidir?",
-    "options": [
-      "Ali",
-      "hızlıca",
-      "okudu",
-      "sinemaya",
-      "gitti"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Zarf tümleci, fiilin nasıl yapıldığını belirtir. 'Hızlıca' burada zarf tümlecidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024556_7",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi dolaylı tümleç içermektedir?",
-    "options": [
-      "Ali evde oturuyor.",
-      "Ali kitabı okudu.",
-      "Ali sinemaya gitti.",
-      "Ali hızlı koşuyor.",
-      "Ali dışarı çıktı."
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Ali sinemaya gitti.' cümlesi dolaylı tümleç içerir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_8",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime sıfattır?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okuyor",
-      "evde",
-      "geldi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sıfat, isimleri niteleyen veya belirten kelimedir. 'Güzel' burada sıfattır.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764582024557_9",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
@@ -2560,180 +2816,36 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764582024557_10",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklem değildir?",
-    "options": [
-      "Ali",
-      "geliyor",
-      "sinemaya",
-      "çok",
-      "güzel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yüklem, öznenin ne yaptığını belirtir. 'Ali' özne olduğu için yüklem değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_11",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özneyi belirtmektedir?",
-    "options": [
-      "Ali",
-      "güzel",
-      "okur",
-      "evde",
-      "sinemaya"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Özne, cümlede yüklemi gerçekleştiren kişi veya şeydir. 'Ali' burada özneyi belirtmektedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_12",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
-    "options": [
-      "ve",
-      "Ali",
-      "gitti",
-      "hızlı",
-      "güzel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaç, cümlede ögeleri birleştiren kelimedir. 'Ve' burada bağlaçtır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_13",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi bölüm dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "sinemaya",
-      "gitti",
-      "hızlıca",
-      "kitabı"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Sinemaya' burada dolaylı tümleçtir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_14",
+    "id": "ai_1764579240846_23",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
     "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
     "options": [
-      "hızlıca",
-      "sürekli",
-      "güzel",
-      "dışarıda",
-      "koşarak"
+      "hızla",
+      "yavaşça",
+      "Ali",
+      "güzelce",
+      "sakin"
     ],
     "correctAnswer": 2,
-    "explanation": "Zarf, fiilin nasıl yapıldığını belirtir. 'Güzel' burada sıfat olarak kullanılmıştır, zarf değildir.",
-    "difficulty": 5
+    "explanation": "Zarf, fiilin nasıl yapıldığını belirten kelimedir. 'Ali' kelimesi zarf değildir.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764582024557_15",
+    "id": "ai_1764500335419_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime fiildir?",
+    "questionText": "Güneşin batışını izlerken, gökyüzünün kızıla boyanmasıyla birlikte içimde tarifsiz bir hüzün belirdi.\n\nBu cümlenin yapısı aşağıdakilerden hangisidir?",
     "options": [
-      "Ali",
-      "okuyor",
-      "güzel",
-      "sinemaya",
-      "çok"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Fiil, cümlede öznenin yaptığı eylemi belirtir. 'Okuyor' burada fiildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_16",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf tümlecidir?",
-    "options": [
-      "Ali",
-      "okuyor",
-      "hızlıca",
-      "sinemaya",
-      "geliyor"
+      "Basit Cümle",
+      "Sıralı Cümle",
+      "Girişik Birleşik Cümle",
+      "Bağlı Cümle",
+      "Şartlı Birleşik Cümle"
     ],
     "correctAnswer": 2,
-    "explanation": "Zarf tümleci, fiilin nasıl yapıldığını belirtir. 'Hızlıca' burada zarf tümlecidir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_17",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne değildir?",
-    "options": [
-      "Kitap",
-      "Ali",
-      "okuyor",
-      "sınıfta",
-      "güzel"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Özne, cümlede yüklemi gerçekleştiren kişi veya şeydir. 'Kitap' özne değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_18",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi bölüm yüklem değildir?",
-    "options": [
-      "Ali",
-      "geliyor",
-      "çok",
-      "sinemaya",
-      "gitti"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Yüklem, öznenin ne yaptığını belirtir. 'Ali' özne olduğu için yüklem değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_19",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne değildir?",
-    "options": [
-      "Ali",
-      "kitap",
-      "okudu",
-      "güzel",
-      "sınıf"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nesne, yükleme doğrudan etki eden kelimedir. 'Güzel' burada nesne değildir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764582024557_20",
-    "subjectId": "tur",
-    "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi bölüm dolaylı tümleçtir?",
-    "options": [
-      "Ali",
-      "okulda",
-      "kitap",
-      "okuyor",
-      "geliyor"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Okulda' burada dolaylı tümleçtir.",
-    "difficulty": 5
+    "explanation": "Bu cümle, tek bir temel yargı (yüklem: belirdi) içerdiği ve bu temel yargıya bağlı fiilimsi (zarf-fiil: izlerken) barındırdığı için yapıca \"Girişik Birleşik Cümle\"dir. Cümlenin tek bir yüklemi vardır, bu nedenle basit cümle değildir. Birden fazla cümlenin virgül veya noktalı virgülle bağlanmaması nedeniyle sıralı cümle, bağlaçla bağlanmaması nedeniyle de bağlı cümle değildir. İçinde şart anlamı taşıyan bir ek (-se/-sa) bulunmadığı için şartlı birleşik cümle de olamaz. Cümledeki \"izlerken\" zarf-fiili, yan cümlecik kurarak cümleyi birleşik yapılı hale getirmiştir.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764582024557_21",
@@ -2752,131 +2864,611 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764582024557_22",
+    "id": "ai_1764529048501_4",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime özne olarak kullanılmıştır?",
+    "questionText": "Aşağıdaki cümlede hangi yapı doğrudur?",
     "options": [
-      "Koşuyor",
-      "Ali",
-      "sinemada",
-      "güzel",
-      "çok"
+      "O, kitap okuyor.",
+      "O kitap okuyor.",
+      "O kitap okuyor mu?",
+      "Okuyor O kitap.",
+      "Kitap O okuyor."
     ],
     "correctAnswer": 1,
-    "explanation": "Özne, cümlede yüklemi gerçekleştiren kişi veya şeydir. 'Ali' burada özne olarak kullanılmıştır.",
-    "difficulty": 5
+    "explanation": "Doğru cümle yapısı, özne ve yüklemin doğru bir biçimde sıralanmasıdır. 'O kitap okuyor.' cümlesi doğru yapıdır.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764582024557_23",
+    "id": "ai_1764583346977_0",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlelerden hangisi olumlu bir cümledir?",
+    "questionText": "Aşağıdaki cümlelerden hangisi bileşik bir cümledir?",
     "options": [
-      "Ali sinemaya gitmedi.",
-      "Ali sinemaya gitmek istemiyor.",
-      "Ali sinemaya gitti.",
-      "Ali dışarı çıkmadı.",
-      "Ali evde oturmuyor."
+      "Hava çok sıcak.",
+      "Ali evde oturuyor.",
+      "Ayşe sinemaya gitti ve film izledi.",
+      "Kedim mavi gözlü.",
+      "Kütüphanede kitap okumayı seviyorum."
     ],
     "correctAnswer": 2,
-    "explanation": "Olumlu cümleler, eylemin gerçekleştiğini belirtir. 'Ali sinemaya gitti.' olumlu bir cümledir.",
-    "difficulty": 5
+    "explanation": "Bileşik cümle, iki ya da daha fazla bağımsız cümlenin bir araya gelmesiyle oluşur. 'Ayşe sinemaya gitti ve film izledi.' cümlesi bu tanıma uyar.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764582024557_24",
+    "id": "ai_1764583346977_1",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime bağlaçtır?",
+    "questionText": "Aşağıdaki cümlelerden hangisi basit bir cümledir?",
     "options": [
-      "ama",
-      "Ali",
-      "geliyor",
-      "okur",
-      "sınıfta"
+      "Hava yağmurlu olduğu için dışarı çıkmadım.",
+      "Kitap okumak eğlencelidir.",
+      "Ali sinemaya gitti, Ayşe ise evde kaldı.",
+      "Yarın hava güzel olacak, pikniğe gideceğiz.",
+      "Kedim mavi gözlü ve çok sevimli."
     ],
-    "correctAnswer": 0,
-    "explanation": "Bağlaç, cümlede ögeleri birleştiren kelimedir. 'Ama' burada bağlaçtır.",
-    "difficulty": 5
+    "correctAnswer": 1,
+    "explanation": "Basit cümle, yalnızca bir yüklem içeren cümledir. 'Kitap okumak eğlencelidir.' cümlesi basit bir cümledir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764582024557_25",
+    "id": "ai_1764583346977_2",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime yüklemdir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
     "options": [
       "Ali",
       "gitti",
-      "sinemada",
-      "çok",
-      "güzel"
+      "sinemaya",
+      "film",
+      "izledi"
     ],
-    "correctAnswer": 1,
-    "explanation": "Yüklem, cümlede öznenin ne yaptığını belirten fiildir. Burada 'gitti' yüklemdir.",
-    "difficulty": 5
+    "correctAnswer": 0,
+    "explanation": "Cümlede özne, eylemi gerçekleştiren ya da cümlede bahsedilen kişiyi veya nesneyi belirtir. 'Ali' kelimesi özne olarak kullanılmıştır.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764582024557_26",
+    "id": "ai_1764583346977_3",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime nesne olarak kullanılmıştır?",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem durumundadır?",
+    "options": [
+      "Kedim",
+      "çok",
+      "yemek",
+      "yiyor",
+      "şimdi"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cümlede yüklem, öznenin eylemini veya durumunu ifade eden kelimedir. 'Yiyor' kelimesi yüklemdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_4",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi bir soru cümlesidir?",
+    "options": [
+      "Bugün hava çok güzel.",
+      "Sen nereye gidiyorsun?",
+      "Ali futbol oynuyor.",
+      "Kedim uyuyor.",
+      "Ders çalışmayı unuttum."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Soru cümlesi, bir bilgi edinmek amacıyla kurulan cümledir. 'Sen nereye gidiyorsun?' cümlesi soru cümlesidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_5",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okuyor",
+      "saat",
+      "evde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nesne, cümlede yüklemin etkilediği kişi veya nesneyi ifade eder. 'Kitap' kelimesi nesne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_6",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlelerden hangisi olumsuz bir cümledir?",
+    "options": [
+      "Ali sinemaya gitmek istemiyor.",
+      "Bugün hava çok sıcak.",
+      "Ayşe kitap okuyor.",
+      "Kedim oyun oynuyor.",
+      "Biz pikniğe gitmek istiyoruz."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Olumsuz cümle, eylemin gerçekleşmediğini ifade eder. 'Ali sinemaya gitmek istemiyor.' cümlesi olumsuz bir cümledir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_7",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf durumundadır?",
+    "options": [
+      "Hızla",
+      "Ali",
+      "evde",
+      "okuyor",
+      "kitap"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf, fiilin nasıl yapıldığını, ne zaman yapıldığını ya da ne kadar yapıldığını belirtir. 'Hızla' kelimesi zarf olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_8",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat durumundadır?",
+    "options": [
+      "Kedi",
+      "mavi",
+      "yemek",
+      "yiyor",
+      "şimdi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimlerin özelliklerini belirtir. 'Mavi' kelimesi burada sıfat olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_9",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleç durumundadır?",
     "options": [
       "Ali",
       "kitap",
       "okudu",
-      "evde",
-      "çok"
+      "okulda",
+      "bana"
     ],
-    "correctAnswer": 1,
-    "explanation": "Nesne, yükleme doğrudan etki eden kelimedir. 'Kitap' burada nesnedir.",
-    "difficulty": 5
+    "correctAnswer": 4,
+    "explanation": "Dolaylı tümleç, eylemin yöneldiği yeri, aracı ya da kişiyi belirtir. 'Bana' kelimesi dolaylı tümleç olarak kullanılmıştır.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764582024557_27",
+    "id": "ai_1764583346977_10",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime zarf değildir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaç durumundadır?",
     "options": [
-      "hızlıca",
-      "sürekli",
       "Ali",
-      "güzel",
-      "dışarıda"
+      "ve",
+      "kitap",
+      "okuyor",
+      "sinemaya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bağlaç, cümledeki kelimeleri, cümleleri veya sözcük gruplarını birleştiren kelimedir. 'Ve' kelimesi bağlaçtır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_11",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem durumundadır?",
+    "options": [
+      "Kedim",
+      "şimdi",
+      "uyuyor",
+      "çok",
+      "tatlı"
     ],
     "correctAnswer": 2,
-    "explanation": "Zarf, fiilin nasıl yapıldığını belirtir. 'Ali' özne olduğu için zarf değildir.",
-    "difficulty": 5
+    "explanation": "Yüklem, cümlede öznenin eylemini ifade eden kelimedir. 'Uyuyor' kelimesi yüklemdir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764582024557_28",
+    "id": "ai_1764583346977_12",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelimeler özne-yüklem uyumunu sağlamaktadır?",
+    "questionText": "Aşağıdaki cümlede hangi yapı yardımcı fiil içermektedir?",
     "options": [
-      "Kediler güzel.",
-      "Kedi güzel.",
-      "Kediler hızlı.",
-      "Kediler koşuyor.",
-      "Kedi koşuyor."
+      "Ali evde kaldı.",
+      "Ayşe kitap okuyor.",
+      "Kedim uyumak istiyor.",
+      "Bugün hava güzel.",
+      "Biz sinemaya gideceğiz."
     ],
-    "correctAnswer": 3,
-    "explanation": "Özne (kediler) çoğuldur ve yüklem (koşuyor) de çoğul olarak kullanılmıştır.",
-    "difficulty": 5
+    "correctAnswer": 2,
+    "explanation": "Yardımcı fiil, ana fiilin anlamını pekiştiren veya zamanını belirten fiildir. 'Uymak istiyor' ifadesinde 'istiyor' yardımcı fiildir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764582024557_29",
+    "id": "ai_1764583346977_13",
     "subjectId": "tur",
     "topic": "Cümle Yapısı",
-    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümlecidir?",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
+    "options": [
+      "Ben",
+      "güzel",
+      "bir",
+      "kitap",
+      "okudum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede özne, eylemi gerçekleştiren ya da cümlede bahsedilen kişiyi veya nesneyi belirtir. 'Ben' kelimesi özne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_14",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
     "options": [
       "Ali",
-      "sinemaya",
-      "gitti",
-      "hızlıca",
-      "geliyor"
+      "evde",
+      "saat",
+      "okudu",
+      "kitabı"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Nesne, cümlede yüklemin etkilediği kişi veya nesneyi ifade eder. 'Kitabı' kelimesi nesne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_15",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleç durumundadır?",
+    "options": [
+      "Ali",
+      "kitap",
+      "okudu",
+      "bana",
+      "evde"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dolaylı tümleç, eylemin yöneldiği yeri, aracı ya da kişiyi belirtir. 'Bana' kelimesi dolaylı tümleç olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_16",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaç durumundadır?",
+    "options": [
+      "Ali",
+      "ve",
+      "güzel",
+      "bir",
+      "kitap"
     ],
     "correctAnswer": 1,
-    "explanation": "Dolaylı tümleç, fiilin yöneldiği yerdir. 'Sinemaya' burada dolaylı tümleçtir.",
-    "difficulty": 5
+    "explanation": "Bağlaç, cümledeki kelimeleri, cümleleri veya sözcük gruplarını birleştiren kelimedir. 'Ve' kelimesi bağlaçtır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_17",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf durumundadır?",
+    "options": [
+      "Ali",
+      "çabuk",
+      "okudu",
+      "kitap",
+      "sabah"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zarf, fiilin nasıl yapıldığını, ne zaman yapıldığını ya da ne kadar yapıldığını belirtir. 'Çabuk' kelimesi zarf olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_18",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat durumundadır?",
+    "options": [
+      "Ali",
+      "sevimli",
+      "kedi",
+      "güzel",
+      "yemek"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimlerin özelliklerini belirtir. 'Sevimli' kelimesi burada sıfat olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_19",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime yüklem durumundadır?",
+    "options": [
+      "Ali",
+      "şimdi",
+      "geliyor",
+      "okulda",
+      "evde"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yüklem, cümlede öznenin eylemini ifade eden kelimedir. 'Geliyor' kelimesi yüklemdir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_20",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
+    "options": [
+      "Kedim",
+      "çok",
+      "sevimli",
+      "ama",
+      "uyuyor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede özne, eylemi gerçekleştiren ya da cümlede bahsedilen kişiyi veya nesneyi belirtir. 'Kedim' kelimesi özne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_21",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kitabı",
+      "güzel",
+      "çok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nesne, cümlede yüklemin etkilediği kişi veya nesneyi ifade eder. 'Kitabı' kelimesi nesne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_22",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleç durumundadır?",
+    "options": [
+      "Ben",
+      "sana",
+      "bir",
+      "hediye",
+      "aldım"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, eylemin yöneldiği yeri, aracı ya da kişiyi belirtir. 'Sana' kelimesi dolaylı tümleç olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346977_23",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaç durumundadır?",
+    "options": [
+      "Ali",
+      "ve",
+      "Ayşe",
+      "okulda",
+      "evde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bağlaç, cümledeki kelimeleri, cümleleri veya sözcük gruplarını birleştiren kelimedir. 'Ve' kelimesi bağlaçtır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_24",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf durumundadır?",
+    "options": [
+      "Hızla",
+      "Ali",
+      "geliyor",
+      "okulda",
+      "sınıfta"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf, fiilin nasıl yapıldığını, ne zaman yapıldığını ya da ne kadar yapıldığını belirtir. 'Hızla' kelimesi zarf olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_25",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat durumundadır?",
+    "options": [
+      "Ali",
+      "büyük",
+      "ev",
+      "çok",
+      "güzel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimlerin özelliklerini belirtir. 'Büyük' kelimesi burada sıfat olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_26",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi yapı yardımcı fiil içermektedir?",
+    "options": [
+      "Ali evde kaldı.",
+      "Ayşe kitap okuyor.",
+      "Kedim uyumak istemiyor.",
+      "Bugün hava güzel.",
+      "Biz sinemaya gideceğiz."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yardımcı fiil, ana fiilin anlamını pekiştiren veya zamanını belirten fiildir. 'Uymak istemiyor' ifadesinde 'istemek' yardımcı fiildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_27",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
+    "options": [
+      "Ayşe",
+      "sarı",
+      "çiçek",
+      "çok",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede özne, eylemi gerçekleştiren ya da cümlede bahsedilen kişiyi veya nesneyi belirtir. 'Ayşe' kelimesi özne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_28",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kitabı",
+      "güzel",
+      "çok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nesne, cümlede yüklemin etkilediği kişi veya nesneyi ifade eder. 'Kitabı' kelimesi nesne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_29",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleç durumundadır?",
+    "options": [
+      "Ben",
+      "sana",
+      "bir",
+      "hediye",
+      "aldım"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, eylemin yöneldiği yeri, aracı ya da kişiyi belirtir. 'Sana' kelimesi dolaylı tümleç olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_30",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime bağlaç durumundadır?",
+    "options": [
+      "Ali",
+      "ve",
+      "Ayşe",
+      "okulda",
+      "evde"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bağlaç, cümledeki kelimeleri, cümleleri veya sözcük gruplarını birleştiren kelimedir. 'Ve' kelimesi bağlaçtır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_31",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime zarf durumundadır?",
+    "options": [
+      "Hızla",
+      "Ali",
+      "geliyor",
+      "okulda",
+      "sınıfta"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zarf, fiilin nasıl yapıldığını, ne zaman yapıldığını ya da ne kadar yapıldığını belirtir. 'Hızla' kelimesi zarf olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_32",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime sıfat durumundadır?",
+    "options": [
+      "Ali",
+      "büyük",
+      "ev",
+      "çok",
+      "güzel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sıfat, isimlerin özelliklerini belirtir. 'Büyük' kelimesi burada sıfat olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_33",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi yapı yardımcı fiil içermektedir?",
+    "options": [
+      "Ali evde kaldı.",
+      "Ayşe kitap okuyor.",
+      "Kedim uyumak istemedi.",
+      "Bugün hava güzel.",
+      "Biz sinemaya gideceğiz."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yardımcı fiil, ana fiilin anlamını pekiştiren veya zamanını belirten fiildir. 'Uymak istemedi' ifadesinde 'istemek' yardımcı fiildir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_34",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime özne durumundadır?",
+    "options": [
+      "Ayşe",
+      "yeşil",
+      "elma",
+      "çok",
+      "güzel"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cümlede özne, eylemi gerçekleştiren ya da cümlede bahsedilen kişiyi veya nesneyi belirtir. 'Ayşe' kelimesi özne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346978_35",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime nesne durumundadır?",
+    "options": [
+      "Ali",
+      "okudu",
+      "kitabı",
+      "güzel",
+      "çok"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nesne, cümlede yüklemin etkilediği kişi veya nesneyi ifade eder. 'Kitabı' kelimesi nesne olarak kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764583346979_36",
+    "subjectId": "tur",
+    "topic": "Cümle Yapısı",
+    "questionText": "Aşağıdaki cümlede hangi kelime dolaylı tümleç durumundadır?",
+    "options": [
+      "Ben",
+      "sana",
+      "bir",
+      "hediye",
+      "aldım"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dolaylı tümleç, eylemin yöneldiği yeri, aracı ya da kişiyi belirtir. 'Sana' kelimesi dolaylı tümleç olarak kullanılmıştır.",
+    "difficulty": 3
   }
 ]
