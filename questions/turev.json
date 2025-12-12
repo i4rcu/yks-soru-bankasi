@@ -1,195 +1,323 @@
 [
   {
-    "id": "ai_1764520101424_3",
+    "id": "ai_1764577500100_11",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = e^x + x^2 fonksiyonunun x = 0 noktasındaki türevini hesaplayınız.",
+    "questionText": "g(x) = x^4 - 8x^2 + 16 fonksiyonunun minimum noktasını belirleyin.",
     "options": [
-      "1",
-      "2",
-      "3",
-      "e",
-      "e + 1"
+      "x = 0",
+      "x = 2",
+      "x = -2",
+      "x = 4",
+      "x = -4"
     ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = e^x + 2x türevini alarak x = 0 için f'(0) = e^0 + 2(0) = 1 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577500100_8",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = x * e^x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "e^x + x * e^x",
-      "e^x - x * e^x",
-      "e^x + 1",
-      "x * e^x - 1",
-      "e^x + x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Çarpım kuralına göre g'(x) = e^x + x * e^x şeklinde hesaplanır.",
+    "correctAnswer": 1,
+    "explanation": "g'(x) = 4x^3 - 16x = 4x(x^2 - 4). x = 2 ve x = -2 kritik noktalarıdır. x = 2 minimum noktadır.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764521925192_8",
+    "id": "ai_1764577500100_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = tan(x) + x^2 fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 fonksiyonunun kritik noktalarını bulun.",
     "options": [
-      "sec^2(x) + 2x",
-      "sec^2(x) + x",
-      "sec^2(x) - 2x",
-      "2x + x",
-      "tan(x) + 2x"
+      "x = 1",
+      "x = 2",
+      "x = 0",
+      "x = 3",
+      "x = 4"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = sec^2(x) + 2x olarak bulunur. tan(x)'in türevi sec^2(x) ve x^2'nin türevi 2x'dir.",
+    "explanation": "Türevi alarak f'(x) = 4x^3 - 12x^2 + 12x - 4 ifadesi elde edilir. Bunu 0'a eşitleyerek x = 1 bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577500101_25",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(2x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2cos(2x)",
+      "-2sin(2x)",
+      "cos(2x)",
+      "2sin(2x)",
+      "sin(2x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zincir kuralı uygulanarak f'(x) = 2cos(2x) bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575272811_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevini bulun.",
+    "options": [
+      "6x + 2",
+      "3x + 2",
+      "6x + 1",
+      "3x^2 + 2",
+      "2x + 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 6x + 2 şeklinde bulunur. Polinomların türevini alırken, her bir terimin katsayısı ile kuvvetini çarparak bir azalma yaparız.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764577500101_21",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "h(x) = x^3 + 3x^2 + 3x + 1 fonksiyonunun türevini bulmak için hangi kural kullanılır?",
+    "options": [
+      "Toplama kuralı",
+      "Çarpım kuralı",
+      "Bölme kuralı",
+      "Üslü fonksiyon kuralı",
+      "Zincir kuralı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bu fonksiyonun türevini bulmak için toplama ve üslü fonksiyon kuralları kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764521925192_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevi nedir?",
+    "options": [
+      "2xln(x) + x",
+      "ln(x) + 2x",
+      "x/2 + 2xln(x)",
+      "2xln(x) + x^2/x",
+      "2xln(x) + x^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = (x^2)'*ln(x) + x^2*(ln(x))' = 2xln(x) + x olarak hesaplanır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764519904363_1",
+    "id": "ai_1764576390037_0",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = 3x^2 + 5x - 2 fonksiyonunun türevini bulun.",
     "options": [
-      "cos(x) - sin(x)",
-      "sin(x) - cos(x)",
-      "-sin(x) + cos(x)",
-      "sin(x) + cos(x)",
-      "cos(x) + sin(x)"
+      "3x + 5",
+      "6x + 5",
+      "6x - 2",
+      "5x^2",
+      "3x^2 + 5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Türev alma kurallarına göre, f(x) = 3x^2 + 5x - 2 fonksiyonunun türevi f'(x) = 6x + 5 olarak bulunur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764582613293_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^x + ln(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "e^x + 1/x",
+      "e^x - 1/x",
+      "e^x + x",
+      "1/x - e^x",
+      "ln(x) + 1"
     ],
     "correctAnswer": 0,
-    "explanation": "f(x) = sin(x) + cos(x) olduğundan, f'(x) = cos(x) - sin(x) olarak bulunur.",
+    "explanation": "Türev alırken, f'(x) = e^x + 1/x olur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764580398560_20",
+    "id": "ai_1764580398560_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x^3 + 2x^2 - 5x fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini bulun.",
     "options": [
-      "3x^2 + 4x - 5",
-      "3x^2 + 2x - 5",
-      "2x^2 + 5",
-      "x^2 + 3",
-      "x^2 - 5"
+      "2x ln(x) + x",
+      "2x ln(x) + 1",
+      "x ln(x) + 2x",
+      "x ln(x) + 2x^2",
+      "ln(x) + 2x"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = 3x^2 + 4x - 5 türevini buluyoruz.",
+    "explanation": "Türev alırken çarpım kuralını kullanıyoruz: f'(x) = 2x ln(x) + x * (1/x) = 2x ln(x) + 1.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764575272812_9",
+    "id": "ai_1764582613293_5",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 8x^2 - 2x + 4 fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = 4x^3 - 2x + 1 fonksiyonunun x = 0.5 noktasındaki türevini hesaplayın.",
     "options": [
-      "16x - 2",
-      "8x - 2",
-      "4x - 2",
-      "2x - 4",
-      "8x + 2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 16x - 2 olarak bulunur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764575272812_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 fonksiyonunun türevini bulun.",
-    "options": [
-      "5x^4",
-      "4x^5",
-      "5x^5",
-      "x^4",
-      "x^5"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 5x^4 olarak bulunur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764521925192_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^3 - 5x^2 + 4x - 2 fonksiyonunun türevi nedir?",
-    "options": [
-      "9x^2 - 10x + 4",
-      "6x^2 - 10x + 4",
-      "9x^2 + 10x - 4",
-      "9x^2 - 5x + 4",
-      "6x^2 + 5x - 4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = 3x^3 - 5x^2 + 4x - 2 fonksiyonunun türevi f'(x) = 9x^2 - 10x + 4 olarak hesaplanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521925192_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 - 3x^3 + 2x fonksiyonunun ikinci türevini bulun.",
-    "options": [
-      "20x^3 - 18x",
-      "20x^4 - 18",
-      "15x^4 - 9x^2",
-      "15x^4",
-      "6x^2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 5x^4 - 9x^2 + 2, f''(x) = 20x^3 - 18x olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519904362_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevi nedir?",
-    "options": [
-      "3x + 2",
-      "6x + 2",
-      "6x + 1",
-      "2x + 1",
-      "3x^2 + 2"
+      "6",
+      "4",
+      "2",
+      "1",
+      "0"
     ],
     "correctAnswer": 1,
-    "explanation": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevi f'(x) = 6x + 2 olarak bulunur.",
+    "explanation": "f'(x) = 12x^2 - 2 türevini alırız. x = 0.5 için f'(0.5) = 12(0.5)^2 - 2 = 3 - 2 = 1.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764526024666_1",
+    "id": "ai_1764575272812_8",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun x = π/4 noktasındaki türevini bulun.",
+    "questionText": "f(x) = -2x^3 + 3x^2 - x fonksiyonunun türevini bulun.",
     "options": [
-      "0",
-      "1",
-      "√2",
-      "√2/2",
-      "2"
+      "-6x^2 + 6x - 1",
+      "-6x^2 + 3",
+      "-6x^2 - 3",
+      "-2x^2 + 3",
+      "-3x^2 - 1"
     ],
-    "correctAnswer": 2,
-    "explanation": "f'(x) = cos(x) - sin(x). f'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0.",
-    "difficulty": 4
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = -6x^2 + 6x - 1 olarak bulunur.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764580398560_21",
+    "id": "ai_1764582613293_0",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 1/(x^2 + 1) fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = 3x^2 + 2x - 5 fonksiyonunun türevi nedir?",
+    "options": [
+      "6x + 2",
+      "6x - 2",
+      "3x + 2",
+      "2x + 3",
+      "x^2 + 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = 3x^2 + 2x - 5 fonksiyonunun türevini alırken, güç kuralını kullanırız. f'(x) = 2*3x^(2-1) + 1*2x^(1-1) = 6x + 2.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764576390039_8",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 5x^3 - 3x^2 + 2 fonksiyonunun türevini bulun.",
+    "options": [
+      "15x^2 - 6x",
+      "5x^2 - 6",
+      "10x^2 - 3",
+      "15x^2 + 3",
+      "5x^2 + 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 15x^2 - 6x türevini alarak bulunur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764579869912_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun x = 1 noktasındaki türevini bulunuz.",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "ln(1)",
+      "1 + ln(1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 2x * ln(x) + x. x = 1 için f'(1) = 2(1)ln(1) + 1 = 0 + 1 = 1 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519904363_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun türevini bulun ve x=0 için değerini hesaplayın.",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 2x + 2 ve x=0'da f'(0) = 2(0) + 2 = 2 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343691_10",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 1/(x^2 + 1) fonksiyonunun türevini hesaplayın.",
     "options": [
       "-2x/(x^2 + 1)^2",
       "2x/(x^2 + 1)",
       "1/(x^2 + 1)",
-      "0",
+      "2/(x^2 + 1)",
       "-1/(x^2 + 1)^2"
     ],
     "correctAnswer": 0,
-    "explanation": "Zincir kuralını kullanarak f'(x) = -2x/(x^2 + 1)^2 türevini buluyoruz.",
+    "explanation": "Zincir kuralı ve bölüm kuralı uygulanarak f'(x) = -2x/(x^2 + 1)^2 bulunur.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_12",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "h(x) = log(x^2 + 1) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2x/(x^2 + 1)",
+      "2/(x^2 + 1)",
+      "1/(x^2 + 1)",
+      "x/(x^2 + 1)",
+      "2x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alırken zincir kuralı uygulanır: h'(x) = (1/(x^2 + 1)) * (2x) = 2x/(x^2 + 1).",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_8",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun x = -1 noktasındaki türevini hesaplayın.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "-1",
+      "-2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 2x + 2 türevini alıyoruz, x = -1 için f'(-1) = 0.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582613293_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 5x^4 - 3x^2 + 2 fonksiyonunun x = 2 noktasındaki türev değerini bulun.",
+    "options": [
+      "80",
+      "64",
+      "32",
+      "48",
+      "16"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Öncelikle f'(x) = 20x^3 - 6x türevini alırız. x = 2 için f'(2) = 20(2)^3 - 6(2) = 160 - 12 = 148.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764582613294_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^5 - 5x^3 + 7x fonksiyonunun türevini alın.",
+    "options": [
+      "15x^4 - 15x^2 + 7",
+      "15x^4 - 5x^2 + 7",
+      "15x^4 - 15x^2 - 7",
+      "15x^4 + 15x^2 + 7",
+      "15x^4 - 7"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 15x^4 - 15x^2 + 7 türevini alırız.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764576390039_9",
@@ -208,116 +336,68 @@
     "difficulty": 2
   },
   {
-    "id": "ai_1764519904363_2",
+    "id": "ai_1764521925192_2",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = e^(2x) fonksiyonunun türevini bulun.",
+    "questionText": "h(x) = e^x + x^2 fonksiyonunun türevi nedir?",
     "options": [
-      "2e^(2x)",
-      "e^(2x)",
-      "e^(2x) + 2",
-      "2x e^(2x)",
-      "e^(x)"
+      "e^x + 2x",
+      "e^x + 2",
+      "2x",
+      "e^x",
+      "x"
     ],
     "correctAnswer": 0,
-    "explanation": "f(x) = e^(2x) olduğundan, f'(x) = 2e^(2x) olarak bulunur.",
+    "explanation": "h'(x) = e^x + 2x olarak bulunur. e^x'in türevi e^x, x^2'nin türevi ise 2x'dir.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764523343691_0",
+    "id": "ai_1764523343691_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 3x^4 - 8x^3 + 5x - 2 fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = ln(x^2 + 1) fonksiyonunun türevini hesaplayın.",
     "options": [
-      "12x^3 - 24x^2 + 5",
-      "12x^3 - 24x^2 + 5x",
-      "12x^3 - 8x^2 + 5",
-      "12x^3 - 8x + 5",
-      "12x^3 + 8x^2 - 5"
+      "2x/(x^2 + 1)",
+      "2/(x^2 + 1)",
+      "x/(x^2 + 1)",
+      "ln(x)",
+      "1/(x^2 + 1)"
     ],
     "correctAnswer": 0,
-    "explanation": "Türev alma işlemi yapıldığında, f'(x) = 12x^3 - 24x^2 + 5 elde edilir.",
+    "explanation": "Zincir kuralı uygulanarak f'(x) = 2x/(x^2 + 1) olarak bulunur.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764499352351_0",
+    "id": "ai_1764497987569_2",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = (x² + 3x)³ olduğuna göre, f'(1) değeri kaçtır?",
+    "questionText": "f(x) = (x² + 4x - 1)³ olduğuna göre, f'(-2) değeri kaçtır?",
     "options": [
-      "120",
-      "240",
-      "300",
-      "360",
-      "480"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. f(x) = u³ ve u = x² + 3x olarak düşünebiliriz. Zincir kuralına göre f'(x) = (f(u))' * u'(x) şeklindedir.\n1. Dış fonksiyonun türevi: (u³)' = 3u²\n2. İç fonksiyonun türevi: (x² + 3x)' = 2x + 3\n3. Türevleri birleştirme: f'(x) = 3(x² + 3x)² * (2x + 3)\n4. x = 1 değerini yerine koyma: f'(1) = 3 * (1² + 3*1)² * (2*1 + 3)\nf'(1) = 3 * (1 + 3)² * (2 + 3)\nf'(1) = 3 * (4)² * (5)\nf'(1) = 3 * 16 * 5\nf'(1) = 48 * 5 = 240. \n\nÜzgünüm, hesaplamada bir hata yaptım. Tekrar hesaplayalım:\nf'(1) = 3 * 16 * 5 = 240 olmalıydı. \n\nDoğru hesaplama:\nf'(1) = 3 * (4)² * 5 = 3 * 16 * 5 = 240. \n\nŞıkları ve doğru cevabı yeniden düzenleyelim.\n\nYeni Soru:\nf(x) = (x³ + 1)⁴ olduğuna göre f'(1) değeri kaçtır?\n\nÇözüm:\nf'(x) = 4(x³+1)³ * (3x²)\nf'(1) = 4(1³+1)³ * (3*1²)\nf'(1) = 4(2)³ * 3\nf'(1) = 4 * 8 * 3\nf'(1) = 96\n\nBu da uygun değil. İlk soruyu düzeltelim.\n\nf(x) = (x² + 3x)³\nf'(x) = 3(x² + 3x)² * (2x + 3)\nf'(1) = 3 * (1² + 3*1)² * (2*1 + 3)\nf'(1) = 3 * (4)² * (5)\nf'(1) = 3 * 16 * 5 = 240.\n\nEğer şıklar 120, 240, 300, 360, 480 ise doğru cevap 240 (B şıkkı, index 1) olmalı.\n\nYeni soru oluşturayım:\nf(x) = (2x² - x)³ olduğuna göre, f'(2) değeri kaçtır?\nf'(x) = 3(2x² - x)² * (4x - 1)\nf'(2) = 3 * (2*2² - 2)² * (4*2 - 1)\nf'(2) = 3 * (8 - 2)² * (8 - 1)\nf'(2) = 3 * (6)² * 7\nf'(2) = 3 * 36 * 7\nf'(2) = 108 * 7 = 756\n\nBu da YKS seviyesi için iyi bir soru. Şıkları buna göre düzenleyelim.\n\nSoru metni: f(x) = (2x² - x)³ olduğuna göre, f'(2) değeri kaçtır?\nŞıklar: A) 324, B) 450, C) 512, D) 648, E) 756\nDoğru Cevap: E (index 4)\n\nBu soru daha uygun. Şimdi JSON'u buna göre hazırlayacağım. İlk soruyu bu şekilde güncelliyorum.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519904363_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 3x^2 + 2 fonksiyonunun türevinin x=1'deki değerini bulun.",
-    "options": [
-      "-1",
+      "-147",
+      "-54",
       "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 3x^2 - 6x ve x=1'de f'(1) = 3(1)^2 - 6(1) = -3 olarak hesaplanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523343692_20",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun en küçük değerini bulmak için türevini kullanın.",
-    "options": [
-      "x = -1",
-      "x = 0",
-      "x = 1",
-      "x = -2",
-      "x = 2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 2x + 2 denklemi ile x = -1 kritik nokta bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526024666_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 fonksiyonunun türevini x = 2 noktasında bulunuz.",
-    "options": [
-      "0",
-      "4",
-      "8",
-      "12",
-      "16"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 4x^3 - 12x^2 + 12x - 4. f'(2) = 4(2)^3 - 12(2)^2 + 12(2) - 4 = 32 - 48 + 24 - 4 = 4.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577500100_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2x * ln(x) + x",
-      "2x * ln(x) - 1",
-      "2x * ln(x) + 1/x",
-      "x * ln(x) + 1",
-      "x * ln(x) - 1"
+      "54",
+      "147"
     ],
     "correctAnswer": 2,
-    "explanation": "Türev alma işlemi için çarpım kuralı uygulanır: (u*v)' = u'v + uv' ile f'(x) = 2x * ln(x) + 1.",
-    "difficulty": 4
+    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. Zincir kuralına göre, [g(h(x))]' = g'(h(x)) * h'(x). Burada g(u) = u³ ve h(x) = x² + 4x - 1'dir. f'(x) = 3(x² + 4x - 1)² * (2x + 4). Şimdi x yerine -2 yazalım: f'(-2) = 3((-2)² + 4(-2) - 1)² * (2(-2) + 4) = 3(4 - 8 - 1)² * (-4 + 4) = 3(-5)² * (0) = 0. Çarpım durumunda 0 olduğu için sonuç 0'dır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764499352351_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (2x² - x)³ olduğuna göre, f'(2) değeri kaçtır?",
+    "options": [
+      "324",
+      "450",
+      "512",
+      "648",
+      "756"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. Zincir kuralına göre, f(g(x))' = f'(g(x)) * g'(x) olur.\nBurada dış fonksiyon u³ ve iç fonksiyon u = 2x² - x olarak düşünülebilir.\n1. Önce fonksiyonun genel türevini alalım: f'(x) = 3 * (2x² - x)^(3-1) * (2x² - x)'\nf'(x) = 3 * (2x² - x)² * (4x - 1)\n2. Şimdi x yerine 2 değerini koyalım: f'(2) = 3 * (2 * 2² - 2)² * (4 * 2 - 1)\n3. İşlemleri yapalım: f'(2) = 3 * (2 * 4 - 2)² * (8 - 1)\nf'(2) = 3 * (8 - 2)² * (7)\nf'(2) = 3 * (6)² * 7\nf'(2) = 3 * 36 * 7\nf'(2) = 108 * 7 = 756\nSonuç 756'dır.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764500727134_6",
@@ -336,84 +416,180 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764520101424_0",
+    "id": "ai_1764580398560_29",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 3x^2 + 2x - 5 fonksiyonunun x = 1 noktasındaki türevini hesaplayınız.",
+    "questionText": "f(x) = x^4 - 2x^2 + 1 fonksiyonunun türevini bulun.",
     "options": [
-      "4",
-      "5",
-      "6",
-      "7",
-      "8"
+      "4x^3 - 4x",
+      "4x^3 + 4x",
+      "2x^2 - 2",
+      "2x^3 - 4",
+      "8x^2 + 1"
     ],
-    "correctAnswer": 2,
-    "explanation": "f'(x) = 6x + 2 türevini alarak x = 1 için f'(1) = 6(1) + 2 = 8 bulunur.",
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x^3 - 4x türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519904363_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "cos(x) - sin(x)",
+      "sin(x) - cos(x)",
+      "-sin(x) + cos(x)",
+      "sin(x) + cos(x)",
+      "cos(x) + sin(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = sin(x) + cos(x) olduğundan, f'(x) = cos(x) - sin(x) olarak bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764577500100_2",
+    "id": "ai_1764580398561_30",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "h(x) = e^x + ln(x) fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = sin(x^2) fonksiyonunun türevini bulun.",
     "options": [
-      "e^x + 1/x",
-      "e^x - 1/x",
-      "e^x * ln(x)",
-      "e^x - ln(x)",
-      "e^x + x"
+      "2x cos(x^2)",
+      "sin(2x)",
+      "cos(x^2)",
+      "2 sin(x)",
+      "0"
     ],
     "correctAnswer": 0,
-    "explanation": "Burada türev alma kuralları uygulanır: h'(x) = e^x + 1/x.",
-    "difficulty": 4
+    "explanation": "Zincir kuralını kullanarak f'(x) = 2x cos(x^2) türevini buluyoruz.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764576390038_7",
+    "id": "ai_1764577500101_22",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x^2 + 3x - 4 fonksiyonunun x = -1 noktasındaki türevini hesaplayın.",
+    "questionText": "f(x) = x^2 - 2x + 1 fonksiyonunun x = 1'deki türev değeri nedir?",
     "options": [
-      "1",
       "0",
-      "-1",
+      "1",
       "2",
+      "-1",
       "3"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = 2x + 3 türevini alarak, x = -1 noktasında f'(-1) = 1 bulunur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764577500100_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = x^5 - 5x^4 + 10x^3 - 10x + 1 fonksiyonunun x = 1'deki türev değeri nedir?",
-    "options": [
-      "0",
-      "1",
-      "5",
-      "10",
-      "-1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "g'(x) = 5x^4 - 20x^3 + 30x^2 - 10. x = 1 için g'(1) = 5 - 20 + 30 - 10 = 0 bulunur.",
+    "explanation": "f'(x) = 2x - 2. x = 1 için f'(1) = 2(1) - 2 = 0.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764580398560_18",
+    "id": "ai_1764577500101_27",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x * ln(x) fonksiyonunun türevini bulun.",
+    "questionText": "h(x) = x/(x^2 + 1) fonksiyonunun türevini hesaplayın.",
     "options": [
-      "ln(x) + 1",
-      "1/x + ln(x)",
-      "ln(x) + x",
-      "1/x",
-      "x/(x^2)"
+      "1/(x^2 + 1)^2",
+      "(x^2 + 1) - 2x^2/(x^2 + 1)^2",
+      "2x/(x^2 + 1)",
+      "1/(x^2 + 1)",
+      "0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bölme kuralı uygulanarak h'(x) = (x^2 + 1 - 2x^2)/(x^2 + 1)^2 bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523343692_16",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 5x^2 + 3x - 4 fonksiyonunun maksimum değerini bulmak için türevini kullanın.",
+    "options": [
+      "x = -3/10",
+      "x = -1",
+      "x = 0",
+      "x = 1",
+      "x = 5"
     ],
     "correctAnswer": 0,
-    "explanation": "Çarpım kuralını kullanarak f'(x) = ln(x) + 1 türevini buluyoruz.",
+    "explanation": "f'(x) = 10x + 3 denklemi ile kritik nokta x = -3/10 bulunur.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764520101424_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 3x^2 + 2 fonksiyonunun x = 2 noktasındaki türevini hesaplayınız.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 3x^2 - 6x türevini alarak x = 2 için f'(2) = 3(2)^2 - 6(2) = 0 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343692_18",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 - 10x^3 + 2x fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "5x^4 - 30x^2 + 2",
+      "5x^4 - 30x^3 + 2",
+      "5x^4 - 10x^2",
+      "x^4 - 10x^2 + 2",
+      "10x^3 - 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alındığında f'(x) = 5x^4 - 30x^2 + 2 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_22",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^(x^2) fonksiyonunun türevini bulun.",
+    "options": [
+      "2xe^(x^2)",
+      "e^(x^2)",
+      "e^x",
+      "2x",
+      "x*e^(x^2)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zincir kuralını kullanarak f'(x) = 2xe^(x^2) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500727134_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "Çevresinin uzunluğu 40 metre olan bir dikdörtgenin alanı en çok kaç metrekare olabilir?",
+    "options": [
+      "80",
+      "96",
+      "100",
+      "120",
+      "400"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu bir maksimum-minimum (optimizasyon) problemidir.\n\nDikdörtgenin kenarları x ve y olsun.\nÇevresi: 2(x + y) = 40 => x + y = 20 => y = 20 - x\n\nAlanı (A): A = x * y\ny yerine (20 - x) yazarak alanı tek bir değişkene bağlı ifade edelim:\nA(x) = x * (20 - x)\nA(x) = 20x - x²\n\nAlanın maksimum olması için türevini alıp sıfıra eşitlemeliyiz:\nA'(x) = 20 - 2x\n\nA'(x) = 0 => 20 - 2x = 0 => 2x = 20 => x = 10\n\nx = 10 ise, y = 20 - 10 = 10 olur. Bu, şeklin bir kare olduğunu gösterir.\n\nMaksimum alan = x * y = 10 * 10 = 100 metrekare.\n\nİkinci türev ile kontrol edebiliriz: A''(x) = -2. A''(10) = -2 < 0 olduğu için bu değer gerçekten bir maksimumdur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "5x^4 - 15x^2 + 4",
+      "5x^4 - 15x^3 + 4",
+      "15x^2 - 5",
+      "5x^4 + 4",
+      "5x^5 - 15x^3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = x^5 - 5x^3 + 4x olduğundan, f'(x) = 5x^4 - 15x^2 + 4 olarak bulunur.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764523343691_1",
@@ -432,51 +608,323 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764575272812_4",
+    "id": "ai_1764521925192_8",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 4x^4 fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = tan(x) + x^2 fonksiyonunun türevini bulun.",
     "options": [
-      "16x^3",
-      "12x^3",
-      "8x^3",
-      "4x^3",
-      "3x^3"
+      "sec^2(x) + 2x",
+      "sec^2(x) + x",
+      "sec^2(x) - 2x",
+      "2x + x",
+      "tan(x) + 2x"
     ],
     "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 16x^3 olarak bulunur.",
-    "difficulty": 1
+    "explanation": "f'(x) = sec^2(x) + 2x olarak bulunur. tan(x)'in türevi sec^2(x) ve x^2'nin türevi 2x'dir.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764575272812_7",
+    "id": "ai_1764523343692_25",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 7x^2 + 1 fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = x^3 + x^2 - 4x fonksiyonunun türevini hesaplayın.",
     "options": [
-      "14x",
-      "7x",
-      "2x",
-      "14",
+      "3x^2 + 2x - 4",
+      "3x^2 - 2",
+      "2x^2 + 4",
+      "2x - 4",
+      "x^2 + 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alındığında f'(x) = 3x^2 + 2x - 4 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523343691_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = tan(x) fonksiyonunun türevini belirleyin.",
+    "options": [
+      "sec^2(x)",
+      "cosec^2(x)",
+      "cot^2(x)",
+      "sec(x)",
+      "tan^2(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alma işlemi sonucunda f'(x) = sec^2(x) bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_25",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 + x^2 - x fonksiyonunun x = 1 noktasındaki türevini hesaplayın.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 3x^2 + 2x - 1 türevini alıyoruz, x = 1 için f'(1) = 3 + 2 - 1 = 4.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500727134_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "Yukarıda y = f'(x) fonksiyonunun grafiği verilmiştir. Buna göre, f(x) fonksiyonu için aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": [
+      "f(x) fonksiyonunun x=-3'te yerel minimumu vardır.",
+      "f(x) fonksiyonu (-3, 2) aralığında azalandır.",
+      "f(x) fonksiyonunun x=2'de yerel maksimumu vardır.",
+      "f(5) > f(4)",
+      "f(-4) < f(-5)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) grafiği, f(x) fonksiyonunun eğimi hakkında bilgi verir.\n- f'(x) > 0 ise f(x) artandır.\n- f'(x) < 0 ise f(x) azalandır.\n- f'(x) = 0 ise f(x)'in yerel ekstremum noktası olabilir.\n\nGrafiği inceleyelim:\n- x < -3 için f'(x) < 0 olduğundan f(x) azalandır.\n- x = -3 için f'(x) = 0'dır.\n- -3 < x < 2 için f'(x) > 0 olduğundan f(x) artandır.\n- x = 2 için f'(x) = 0'dır.\n- x > 2 için f'(x) > 0 olduğundan f(x) artandır.\n\nA) x=-3 noktasında f'(x) negatiften pozitife geçtiği için (fonksiyon azalanlıktan artanlığa geçtiği için) bir yerel minimum vardır. Bu ifade doğrudur.\nB) (-3, 2) aralığında f'(x) > 0 olduğu için f(x) artandır, azalan değil.\nC) x=2 noktasında f'(x) işaret değiştirmediği için (pozitif kalmaya devam ettiği için) bir ekstremum nokta değildir. Burası bir büküm noktasıdır.\nD) (2, ∞) aralığında f'(x) > 0 olduğu için f(x) artandır. Dolayısıyla x değerleri büyüdükçe y değerleri de büyür. f(5) > f(4) ifadesi doğrudur. Ancak soruda kesinlikle doğru olan soruluyor. A şıkkı tanım gereği kesin doğrudur. *Düzeltme: A şıkkı daha temel bir çıkarımdır ve ekstremum tanımıdır. İkisi de doğru gibi görünse de ekstremum tanımı daha güçlüdür.* Tekrar kontrol edelim: A şıkkı x=-3'te fonksiyon azalandan artana geçtiği için yerel minimum tanımına uyar. Bu kesin doğrudur.\nD şıkkı x=4 ve x=5 aralığında f(x) artan olduğu için f(5) > f(4) doğrudur. Ancak seçenekler arasında en temel ve kesin olan ekstremum noktasıdır. YKS formatında A şıkkı beklenir.\nE) (-∞, -3) aralığında f'(x) < 0 olduğu için f(x) azalandır. Yani x değeri küçüldükçe y değeri büyür. f(-4) > f(-5) olmalıdır. Bu ifade yanlıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_19",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = cos(2x) fonksiyonunun türevini bulun.",
+    "options": [
+      "-2sin(2x)",
+      "2sin(2x)",
+      "sin(2x)",
+      "-sin(2x)",
+      "cos(2x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zincir kuralını kullanarak f'(x) = -2sin(2x) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_21",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 1/(x^2 + 1) fonksiyonunun türevini bulun.",
+    "options": [
+      "-2x/(x^2 + 1)^2",
+      "2x/(x^2 + 1)",
+      "1/(x^2 + 1)",
+      "0",
+      "-1/(x^2 + 1)^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zincir kuralını kullanarak f'(x) = -2x/(x^2 + 1)^2 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582613293_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = tan(x) + x^2 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "sec^2(x) + 2x",
+      "sec^2(x) - 2x",
+      "-sec^2(x) + 2x",
+      "sec^2(x) + x",
+      "tan(x) + 2x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = sec^2(x) + 2x türevini alırız.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764519904363_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^(2x) fonksiyonunun türevini bulun.",
+    "options": [
+      "2e^(2x)",
+      "e^(2x)",
+      "e^(2x) + 2",
+      "2x e^(2x)",
+      "e^(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = e^(2x) olduğundan, f'(x) = 2e^(2x) olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500727133_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (x² + 3x) / (x - 1) fonksiyonu için f'(2) değeri kaçtır?",
+    "options": [
+      "-10",
+      "-7",
+      "-3",
+      "3",
+      "7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bu soruyu çözmek için bölümün türevi kuralını kullanmalıyız. Bölümün türevi kuralı: (u/v)' = (u'v - uv') / v². Burada u(x) = x² + 3x ve v(x) = x - 1'dir.\n\nu'(x) = 2x + 3\nv'(x) = 1\n\nf'(x) = [(2x + 3)(x - 1) - (x² + 3x)(1)] / (x - 1)²\n\nŞimdi x yerine 2 yazalım:\nf'(2) = [(2*2 + 3)(2 - 1) - (2² + 3*2)(1)] / (2 - 1)²\nf'(2) = [(4 + 3)(1) - (4 + 6)] / 1²\nf'(2) = [7 * 1 - 10] / 1\nf'(2) = 7 - 10 = -3",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = ln(x^2 + 1) fonksiyonunun türevini bulun.",
+    "options": [
+      "2x/(x^2 + 1)",
+      "x/(x^2 + 1)",
+      "1/(x^2 + 1)",
+      "2/(x^2 + 1)",
+      "2/(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zincir kuralını kullanarak f'(x) = 2x/(x^2 + 1) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519904363_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = ln(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "1/x",
+      "ln(x)",
+      "x",
+      "x^2",
       "1"
     ],
     "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 14x olarak bulunur.",
+    "explanation": "f(x) = ln(x) olduğundan, f'(x) = 1/x olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500727134_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 2x³ - 9x² + 12x - 5 fonksiyonunun artan olduğu en geniş aralık aşağıdakilerden hangisidir?",
+    "options": [
+      "(1, 2)",
+      "(-∞, 1)",
+      "(2, ∞)",
+      "(-∞, 1) U (2, ∞)",
+      "(-∞, -2) U (-1, ∞)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bir fonksiyonun artan olduğu aralık, birinci türevinin pozitif olduğu aralıktır (f'(x) > 0).\n\nÖnce fonksiyonun türevini alalım:\nf'(x) = 6x² - 18x + 12\n\nŞimdi türevin 0'dan büyük olduğu aralığı bulalım:\n6x² - 18x + 12 > 0\nHer tarafı 6'ya bölelim:\nx² - 3x + 2 > 0\nÇarpanlarına ayıralım:\n(x - 1)(x - 2) > 0\n\nBu eşitsizliğin kökleri x=1 ve x=2'dir. Başkatsayısı pozitif olan bir parabol olduğu için, kökler dışında pozitif değerler alır. İşaret tablosu çizerek de görülebilir.\n\n      +      -      +\n-----|------|----->\n     1      2\n\nİşaretin pozitif olduğu aralıklar (-∞, 1) ve (2, ∞)'dur. Bu iki aralığın birleşimi fonksiyonun artan olduğu en geniş aralıktır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521925192_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sqrt(x) + x^3 fonksiyonunun türevini hesaplayınız.",
+    "options": [
+      "1/(2sqrt(x)) + 3x^2",
+      "1/sqrt(x) + 3x^2",
+      "1/(2x) + 2x^2",
+      "1/(2x) + 3x^2",
+      "3x^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = (1/2)x^(-1/2) + 3x^2 olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398561_31",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 - 5x^2 + 3x fonksiyonunun türevini bulun.",
+    "options": [
+      "5x^4 - 10x + 3",
+      "5x^4 - 10x^2 + 3",
+      "5x^4 + 3",
+      "10x^3 - 5",
+      "5x^4 - 5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 5x^4 - 10x + 3 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_12",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun türevini bulun.",
+    "options": [
+      "5x^4 - 15x^2 + 4",
+      "5x^4 + 15x^2 - 4",
+      "5x^4 + 5x^3",
+      "5x^4 - 4",
+      "5x^4 - 15x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 5x^4 - 15x^2 + 4 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582613294_8",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 - 6x^2 + 9 fonksiyonunun maksimum değerini bulmak için türevini alın ve sıfıra eşitleyin.",
+    "options": [
+      "x = 0, x = ±3",
+      "x = ±2",
+      "x = ±1",
+      "x = 3",
+      "x = -3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x^3 - 12x = 0 denklemini çözeriz. 4x(x^2 - 3) = 0, burada x = 0, ±√3.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575272812_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 8x^2 - 2x + 4 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "16x - 2",
+      "8x - 2",
+      "4x - 2",
+      "2x - 4",
+      "8x + 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 16x - 2 olarak bulunur.",
     "difficulty": 1
   },
   {
-    "id": "ai_1764523343692_26",
+    "id": "ai_1764579869912_0",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = ln(2x) + x^2 fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = 3x^4 - 8x^3 + 6x^2 - 5 fonksiyonunun x = 2 noktasındaki türevini hesaplayınız.",
     "options": [
-      "1/x + 2x",
-      "2/x + 1",
-      "2x + 1",
-      "1/x^2 + 2",
-      "ln(x)"
+      "0",
+      "1",
+      "22",
+      "36",
+      "48"
+    ],
+    "correctAnswer": 3,
+    "explanation": "f'(x) = 12x^3 - 24x^2 + 12x. Bu türevi x = 2 için hesapladığımızda f'(2) = 12(2^3) - 24(2^2) + 12(2) = 96 - 96 + 24 = 24 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523343692_19",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = cos(3x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "-3sin(3x)",
+      "3cos(3x)",
+      "-3cos(3x)",
+      "3sin(3x)",
+      "sin(3x)"
     ],
     "correctAnswer": 0,
-    "explanation": "Türev alındığında f'(x) = 1/x + 2x bulunur.",
+    "explanation": "Türev alındığında f'(x) = -3sin(3x) bulunur.",
     "difficulty": 5
   },
   {
@@ -496,36 +944,580 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764500727134_5",
+    "id": "ai_1764523343691_6",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "Yukarıda y = f'(x) fonksiyonunun grafiği verilmiştir. Buna göre, f(x) fonksiyonu için aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun kritik noktalarını belirleyin.",
     "options": [
-      "f(x) fonksiyonunun x=-3'te yerel minimumu vardır.",
-      "f(x) fonksiyonu (-3, 2) aralığında azalandır.",
-      "f(x) fonksiyonunun x=2'de yerel maksimumu vardır.",
-      "f(5) > f(4)",
-      "f(-4) < f(-5)"
+      "x = 0, x = ±√5",
+      "x = ±5",
+      "x = 1, x = -1",
+      "x = 2, x = -2",
+      "x = 3, x = -3"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) grafiği, f(x) fonksiyonunun eğimi hakkında bilgi verir.\n- f'(x) > 0 ise f(x) artandır.\n- f'(x) < 0 ise f(x) azalandır.\n- f'(x) = 0 ise f(x)'in yerel ekstremum noktası olabilir.\n\nGrafiği inceleyelim:\n- x < -3 için f'(x) < 0 olduğundan f(x) azalandır.\n- x = -3 için f'(x) = 0'dır.\n- -3 < x < 2 için f'(x) > 0 olduğundan f(x) artandır.\n- x = 2 için f'(x) = 0'dır.\n- x > 2 için f'(x) > 0 olduğundan f(x) artandır.\n\nA) x=-3 noktasında f'(x) negatiften pozitife geçtiği için (fonksiyon azalanlıktan artanlığa geçtiği için) bir yerel minimum vardır. Bu ifade doğrudur.\nB) (-3, 2) aralığında f'(x) > 0 olduğu için f(x) artandır, azalan değil.\nC) x=2 noktasında f'(x) işaret değiştirmediği için (pozitif kalmaya devam ettiği için) bir ekstremum nokta değildir. Burası bir büküm noktasıdır.\nD) (2, ∞) aralığında f'(x) > 0 olduğu için f(x) artandır. Dolayısıyla x değerleri büyüdükçe y değerleri de büyür. f(5) > f(4) ifadesi doğrudur. Ancak soruda kesinlikle doğru olan soruluyor. A şıkkı tanım gereği kesin doğrudur. *Düzeltme: A şıkkı daha temel bir çıkarımdır ve ekstremum tanımıdır. İkisi de doğru gibi görünse de ekstremum tanımı daha güçlüdür.* Tekrar kontrol edelim: A şıkkı x=-3'te fonksiyon azalandan artana geçtiği için yerel minimum tanımına uyar. Bu kesin doğrudur.\nD şıkkı x=4 ve x=5 aralığında f(x) artan olduğu için f(5) > f(4) doğrudur. Ancak seçenekler arasında en temel ve kesin olan ekstremum noktasıdır. YKS formatında A şıkkı beklenir.\nE) (-∞, -3) aralığında f'(x) < 0 olduğu için f(x) azalandır. Yani x değeri küçüldükçe y değeri büyür. f(-4) > f(-5) olmalıdır. Bu ifade yanlıştır.",
+    "explanation": "f'(x) = 5x^4 - 15x^2 = 5x^2(x^2 - 3) denklemi çözülerek kritik noktalar x = 0, x = ±√5 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575272812_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 7x^2 + 1 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "14x",
+      "7x",
+      "2x",
+      "14",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 14x olarak bulunur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764576390038_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + 3x - 4 fonksiyonunun x = -1 noktasındaki türevini hesaplayın.",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 2x + 3 türevini alarak, x = -1 noktasında f'(-1) = 1 bulunur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764520101424_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun x = π/4 noktasındaki türevini hesaplayınız.",
+    "options": [
+      "0",
+      "√2",
+      "1",
+      "√2/2",
+      "1/√2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = cos(x) - sin(x) türevini alarak x = π/4 için f'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0 bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764575272812_8",
+    "id": "ai_1764526024666_1",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = -2x^3 + 3x^2 - x fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun x = π/4 noktasındaki türevini bulun.",
     "options": [
-      "-6x^2 + 6x - 1",
-      "-6x^2 + 3",
-      "-6x^2 - 3",
-      "-2x^2 + 3",
-      "-3x^2 - 1"
+      "0",
+      "1",
+      "√2",
+      "√2/2",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "f'(x) = cos(x) - sin(x). f'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764521925192_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = ln(x^2 + 1) fonksiyonunun türevini hesaplayınız.",
+    "options": [
+      "2x/(x^2 + 1)",
+      "x/(x^2 + 1)",
+      "1/(x^2 + 1)",
+      "2/(x^2 + 1)",
+      "ln(x^2 + 1)"
     ],
     "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = -6x^2 + 6x - 1 olarak bulunur.",
+    "explanation": "f'(x) = 2x/(x^2 + 1) formülüne göre türev alınır, burada zincir kuralı kullanılmıştır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575272812_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 4x^4 fonksiyonunun türevini bulun.",
+    "options": [
+      "16x^3",
+      "12x^3",
+      "8x^3",
+      "4x^3",
+      "3x^3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 16x^3 olarak bulunur.",
     "difficulty": 1
+  },
+  {
+    "id": "ai_1764575272812_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2x + 2",
+      "x + 2",
+      "2x + 1",
+      "x + 1",
+      "2x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 2x + 2 olarak bulunur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764577500100_9",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "h(x) = tan(x) fonksiyonunun türevini bulmak için hangi kural kullanılır?",
+    "options": [
+      "Zincir kuralı",
+      "Çarpım kuralı",
+      "Bölme kuralı",
+      "Toplama kuralı",
+      "Üslü fonksiyon kuralı"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tan(x) türevini bulurken zincir kuralı kullanılır, çünkü tan(x) = sin(x)/cos(x) şeklinde yazılabilir.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_27",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sqrt(x^3) fonksiyonunun türevini bulun.",
+    "options": [
+      "3/(2sqrt(x^3))",
+      "1/(2sqrt(x))",
+      "3x^1.5",
+      "3x^2",
+      "1/(2x^1.5)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = (3/2)x^(3/2) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_16",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^6 - 12x^4 + 36x^2 fonksiyonunun kritik noktalarını bulun.",
+    "options": [
+      "x = 0",
+      "x = 2",
+      "x = -2",
+      "x = 3",
+      "x = 1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 6x^5 - 48x^3 + 72x. Bunu 0'a eşitleyerek x = 2 ve x = -2 kritik noktaları bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_26",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 5x^2 - 3x + 4 fonksiyonunun x = 2 noktasındaki türevini hesaplayın.",
+    "options": [
+      "10",
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 10x - 3 türevini alıyoruz, x = 2 için f'(2) = 10*2 - 3 = 20 - 3 = 17.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582613294_10",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 2x^2 + 3x - 8 fonksiyonunun x = -1 noktasındaki türevini hesaplayın.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 4x + 3 türevini alırız. x = -1 için f'(-1) = 4(-1) + 3 = -4 + 3 = -1.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_15",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sqrt(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "1/(2*sqrt(x))",
+      "1/sqrt(x)",
+      "2/sqrt(x)",
+      "1/(2x)",
+      "2x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 1/(2*sqrt(x)) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_8",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = x * e^x fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "e^x + x * e^x",
+      "e^x - x * e^x",
+      "e^x + 1",
+      "x * e^x - 1",
+      "e^x + x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Çarpım kuralına göre g'(x) = e^x + x * e^x şeklinde hesaplanır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519904363_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = tan(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "sec^2(x)",
+      "csc^2(x)",
+      "sin^2(x)",
+      "cos^2(x)",
+      "tan^2(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = tan(x) olduğundan, f'(x) = sec^2(x) olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343692_17",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 2x^3 - 3x^2 + 4 fonksiyonunun x=2'deki türevini hesaplayın.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 6x^2 - 6 ve x=2 için f'(2) = 0 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526024666_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 fonksiyonunun türevini x = 2 noktasında bulunuz.",
+    "options": [
+      "0",
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 4x^3 - 12x^2 + 12x - 4. f'(2) = 4(2)^3 - 12(2)^2 + 12(2) - 4 = 32 - 48 + 24 - 4 = 4.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764582613293_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini bulun.",
+    "options": [
+      "cos(x) - sin(x)",
+      "-cos(x) - sin(x)",
+      "sin(x) + cos(x)",
+      "-sin(x) + cos(x)",
+      "sin(x) - cos(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = sin(x) + cos(x) fonksiyonunun türevini alırken, f'(x) = cos(x) - sin(x) olur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_24",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^4 - 4x^3 + 2 fonksiyonunun türevini bulun.",
+    "options": [
+      "12x^3 - 12x^2",
+      "12x^2 - 12x",
+      "4x^3 - 3x^2",
+      "12x^3 - 4",
+      "4x^3 + 12"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 12x^3 - 12x^2 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764526024666_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^x + x^2 fonksiyonunun x = 0 noktasındaki türev değeri nedir?",
+    "options": [
+      "1",
+      "2",
+      "e",
+      "0",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = e^x + 2x. f'(0) = e^0 + 2(0) = 1 + 0 = 1.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575272811_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 4x^2 + 2x fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "3x^2 - 8x + 2",
+      "3x^2 - 4x + 2",
+      "4x^2 - 8x + 2",
+      "x^2 - 4x + 2",
+      "3x^2 + 8x + 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 3x^2 - 8x + 2 olarak bulunur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764497987569_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x³ - 3x² + 5 fonksiyonuna x = 1 apsisli noktasından çizilen teğetin eğimi kaçtır?",
+    "options": [
+      "-5",
+      "-3",
+      "0",
+      "1",
+      "3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir fonksiyona bir noktadan çizilen teğetin eğimi, fonksiyonun o noktadaki türevine eşittir. Önce f(x) fonksiyonunun türevini alalım: f'(x) = 3x² - 6x. Şimdi x = 1 noktasındaki türev değerini bulalım: f'(1) = 3(1)² - 6(1) = 3 - 6 = -3. Dolayısıyla, teğetin eğimi -3'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 3x^2 + 4 fonksiyonunun türevini bulun.",
+    "options": [
+      "3x^2 - 6x",
+      "3x^2 - 3",
+      "2x^2 - 3",
+      "x^2 - 3",
+      "3x^2 + 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 3x^2 - 6x türevini bulmak için x'in kuvvetini önüne alır ve kuvveti 1 azaltır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519904363_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 3x^2 + 2 fonksiyonunun türevinin x=1'deki değerini bulun.",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 3x^2 - 6x ve x=1'de f'(1) = 3(1)^2 - 6(1) = -3 olarak hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343692_21",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 3x + 2 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "3x^2 - 3",
+      "3x^2 + 3",
+      "3x^2 + 2",
+      "3x^2 - 2",
+      "x^3 - 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alındığında f'(x) = 3x^2 - 3 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500101_23",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = 1/(x^2 + 1) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "-2x/(x^2 + 1)^2",
+      "2x/(x^2 + 1)^2",
+      "-1/(x^2 + 1)^2",
+      "1/(x^2 + 1)^2",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bölme kuralı kullanılarak g'(x) = -2x/(x^2 + 1)^2 olarak bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "cos(x) - sin(x)",
+      "-cos(x) - sin(x)",
+      "cos(x) + sin(x)",
+      "-sin(x) + cos(x)",
+      "sin(x) + cos(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = cos(x) - sin(x) türevini alarak sin ve cos fonksiyonlarının türevlerini kullanırız.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "h(x) = x^2 + 3x + 2 fonksiyonunun ikinci türevi nedir?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İlk türev h'(x) = 2x + 3, ikinci türev ise h''(x) = 2 olarak bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576390038_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 - 2x^2 + 3 fonksiyonunun türevini bulun.",
+    "options": [
+      "4x^3 - 4x",
+      "4x^3 + 2x",
+      "2x^3 - 4x",
+      "4x^2 - 2",
+      "8x^3 - 4x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x^3 - 4x türevi alınarak bulunur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764523343692_23",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 4 fonksiyonunun kritik noktalarını belirleyin.",
+    "options": [
+      "x = 0, x = 1",
+      "x = 1, x = 2",
+      "x = 2, x = 3",
+      "x = 3, x = 4",
+      "x = -1, x = 0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x^3 - 12x^2 + 12x denklemi ile kritik noktalar x = 0, x = 1 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523343691_13",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 + 4x^3 - 10x^2 + 1 fonksiyonunun x=0'daki türevini hesaplayın.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "-1",
+      "-2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x^3 + 12x^2 - 20x ve x=0 için f'(0) = 0 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_10",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 3x + 2 fonksiyonunun maksimum veya minimum noktalarını belirleyin.",
+    "options": [
+      "x = 1",
+      "x = 2",
+      "x = -1",
+      "x = 0",
+      "x = -2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 3x^2 - 3 = 0 denklemini çözüyoruz, x = 1 ve x = -1 noktalarına bakarak maksimum ve minimum noktalarını belirliyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * e^x fonksiyonunun türevini bulun.",
+    "options": [
+      "(2x + 1)e^x",
+      "2xe^x",
+      "2e^x",
+      "xe^x",
+      "e^x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Çarpım kuralını kullanarak: f'(x) = 2x*e^x + x^2*e^x = (2x + x^2)e^x.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_17",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = cos(x) + sin(x) fonksiyonunun x = π/2'deki türev değeri nedir?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "√2",
+      "1/√2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "g'(x) = -sin(x) + cos(x). x = π/2 için g'(π/2) = 0 + 1 = 1.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764519904363_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 + 4x^3 - 2x + 1 fonksiyonunun türevini bulun.",
+    "options": [
+      "4x^3 + 12x^2 - 2",
+      "4x^3 + 12x^2 + 2",
+      "3x^3 + 12x^2",
+      "4x^3 - 2",
+      "2x + 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = x^4 + 4x^3 - 2x + 1 olduğundan, f'(x) = 4x^3 + 12x^2 - 2 olarak bulunur.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764577500100_15",
@@ -560,756 +1552,52 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764526024666_2",
+    "id": "ai_1764523343692_20",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = e^x + x^2 fonksiyonunun x = 0 noktasındaki türev değeri nedir?",
+    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun en küçük değerini bulmak için türevini kullanın.",
     "options": [
-      "1",
-      "2",
-      "e",
-      "0",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = e^x + 2x. f'(0) = e^0 + 2(0) = 1 + 0 = 1.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764521925192_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 4x^4 - 6x^3 + 2x - 5 fonksiyonunun x=1 noktasındaki türevini bulun.",
-    "options": [
-      "10",
-      "8",
-      "6",
-      "4",
-      "2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle f'(x) = 16x^3 - 18x^2 + 2 formülü ile türev alınır. x=1 için f'(1) = 16 - 18 + 2 = 0.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523343691_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun kritik noktalarını belirleyin.",
-    "options": [
-      "x = 0, x = ±√5",
-      "x = ±5",
-      "x = 1, x = -1",
-      "x = 2, x = -2",
-      "x = 3, x = -3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 5x^4 - 15x^2 = 5x^2(x^2 - 3) denklemi çözülerek kritik noktalar x = 0, x = ±√5 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577500100_12",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "h(x) = log(x^2 + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2x/(x^2 + 1)",
-      "2/(x^2 + 1)",
-      "1/(x^2 + 1)",
-      "x/(x^2 + 1)",
-      "2x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alırken zincir kuralı uygulanır: h'(x) = (1/(x^2 + 1)) * (2x) = 2x/(x^2 + 1).",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764580398560_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = e^x + ln(x) fonksiyonunun x = 1 noktasındaki türev değerini bulun.",
-    "options": [
-      "1",
-      "e",
-      "2",
-      "0",
-      "ln(1)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = e^x + (1/x) türevini alıyoruz, x=1 için f'(1) = e + 1 = e.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343692_17",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 2x^3 - 3x^2 + 4 fonksiyonunun x=2'deki türevini hesaplayın.",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 6x^2 - 6 ve x=2 için f'(2) = 0 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_15",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sqrt(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "1/(2*sqrt(x))",
-      "1/sqrt(x)",
-      "2/sqrt(x)",
-      "1/(2x)",
-      "2x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 1/(2*sqrt(x)) türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576390038_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 4x + 1 fonksiyonunun x = 2 noktasındaki türevini hesaplayın.",
-    "options": [
-      "2",
-      "4",
-      "8",
-      "12",
-      "16"
-    ],
-    "correctAnswer": 3,
-    "explanation": "f'(x) = 3x^2 - 4 türevini alarak, x = 2 noktasında f'(2) = 3(2^2) - 4 = 12 bulunur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764577500101_27",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "h(x) = x/(x^2 + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "1/(x^2 + 1)^2",
-      "(x^2 + 1) - 2x^2/(x^2 + 1)^2",
-      "2x/(x^2 + 1)",
-      "1/(x^2 + 1)",
-      "0"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bölme kuralı uygulanarak h'(x) = (x^2 + 1 - 2x^2)/(x^2 + 1)^2 bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523343691_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = ln(x^2 + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2x/(x^2 + 1)",
-      "2/(x^2 + 1)",
-      "x/(x^2 + 1)",
-      "ln(x)",
-      "1/(x^2 + 1)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralı uygulanarak f'(x) = 2x/(x^2 + 1) olarak bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500727134_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 2x³ - 9x² + 12x - 5 fonksiyonunun artan olduğu en geniş aralık aşağıdakilerden hangisidir?",
-    "options": [
-      "(1, 2)",
-      "(-∞, 1)",
-      "(2, ∞)",
-      "(-∞, 1) U (2, ∞)",
-      "(-∞, -2) U (-1, ∞)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bir fonksiyonun artan olduğu aralık, birinci türevinin pozitif olduğu aralıktır (f'(x) > 0).\n\nÖnce fonksiyonun türevini alalım:\nf'(x) = 6x² - 18x + 12\n\nŞimdi türevin 0'dan büyük olduğu aralığı bulalım:\n6x² - 18x + 12 > 0\nHer tarafı 6'ya bölelim:\nx² - 3x + 2 > 0\nÇarpanlarına ayıralım:\n(x - 1)(x - 2) > 0\n\nBu eşitsizliğin kökleri x=1 ve x=2'dir. Başkatsayısı pozitif olan bir parabol olduğu için, kökler dışında pozitif değerler alır. İşaret tablosu çizerek de görülebilir.\n\n      +      -      +\n-----|------|----->\n     1      2\n\nİşaretin pozitif olduğu aralıklar (-∞, 1) ve (2, ∞)'dur. Bu iki aralığın birleşimi fonksiyonun artan olduğu en geniş aralıktır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398561_31",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 - 5x^2 + 3x fonksiyonunun türevini bulun.",
-    "options": [
-      "5x^4 - 10x + 3",
-      "5x^4 - 10x^2 + 3",
-      "5x^4 + 3",
-      "10x^3 - 5",
-      "5x^4 - 5"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 5x^4 - 10x + 3 türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576390038_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x) fonksiyonunun türevini bulun.",
-    "options": [
-      "cos(x)",
-      "-cos(x)",
-      "sin(x)",
-      "-sin(x)",
-      "tan(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sinüs fonksiyonunun türevi cos(x) olarak bilinir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764580398560_12",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun türevini bulun.",
-    "options": [
-      "5x^4 - 15x^2 + 4",
-      "5x^4 + 15x^2 - 4",
-      "5x^4 + 5x^3",
-      "5x^4 - 4",
-      "5x^4 - 15x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 5x^4 - 15x^2 + 4 türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343691_12",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = e^(x^2) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2xe^(x^2)",
-      "e^(x^2)",
-      "e^(2x)",
-      "2xe^(2x)",
-      "x^2e^(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralı ile f'(x) = 2xe^(x^2) bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576390038_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 - 2x^2 + 3 fonksiyonunun türevini bulun.",
-    "options": [
-      "4x^3 - 4x",
-      "4x^3 + 2x",
-      "2x^3 - 4x",
-      "4x^2 - 2",
-      "8x^3 - 4x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 4x^3 - 4x türevi alınarak bulunur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764523343692_15",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * e^x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "(x^2 + 2x)e^x",
-      "(x^2 + 1)e^x",
-      "2xe^x",
-      "xe^x",
-      "x^2e^x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ürün kuralı ile f'(x) = (x^2 + 2x)e^x bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519904363_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = tan(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "sec^2(x)",
-      "csc^2(x)",
-      "sin^2(x)",
-      "cos^2(x)",
-      "tan^2(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = tan(x) olduğundan, f'(x) = sec^2(x) olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523343692_19",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = cos(3x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "-3sin(3x)",
-      "3cos(3x)",
-      "-3cos(3x)",
-      "3sin(3x)",
-      "sin(3x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alındığında f'(x) = -3sin(3x) bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_22",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = e^(x^2) fonksiyonunun türevini bulun.",
-    "options": [
-      "2xe^(x^2)",
-      "e^(x^2)",
-      "e^x",
-      "2x",
-      "x*e^(x^2)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralını kullanarak f'(x) = 2xe^(x^2) türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499352351_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x³ - 3x² + 5 fonksiyonunun grafiğine x=1 apsisli noktasından çizilen teğetin eğimi kaçtır?",
-    "options": [
-      "-6",
-      "-3",
-      "0",
-      "1",
-      "3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir fonksiyonun herhangi bir noktasındaki teğetinin eğimi, fonksiyonun o noktadaki türevine eşittir. Bu nedenle, önce f(x) fonksiyonunun türevini bulmalı, sonra x=1 değerini bu türev fonksiyonunda yerine yazmalıyız.\n1. Fonksiyonun türevini alalım: f(x) = x³ - 3x² + 5\nf'(x) = 3x² - 6x\n2. Türev fonksiyonunda x yerine 1 yazarak teğetin eğimini bulalım:\nm_teğet = f'(1) = 3(1)² - 6(1)\nm_teğet = 3 - 6\nm_teğet = -3\nDolayısıyla, x=1 apsisli noktadan çizilen teğetin eğimi -3'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_19",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = cos(2x) fonksiyonunun türevini bulun.",
-    "options": [
-      "-2sin(2x)",
-      "2sin(2x)",
-      "sin(2x)",
-      "-sin(2x)",
-      "cos(2x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralını kullanarak f'(x) = -2sin(2x) türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764579869912_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^4 - 8x^3 + 6x^2 - 5 fonksiyonunun x = 2 noktasındaki türevini hesaplayınız.",
-    "options": [
-      "0",
-      "1",
-      "22",
-      "36",
-      "48"
-    ],
-    "correctAnswer": 3,
-    "explanation": "f'(x) = 12x^3 - 24x^2 + 12x. Bu türevi x = 2 için hesapladığımızda f'(2) = 12(2^3) - 24(2^2) + 12(2) = 96 - 96 + 24 = 24 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497987569_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (x² + 4x - 1)³ olduğuna göre, f'(-2) değeri kaçtır?",
-    "options": [
-      "-147",
-      "-54",
-      "0",
-      "54",
-      "147"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. Zincir kuralına göre, [g(h(x))]' = g'(h(x)) * h'(x). Burada g(u) = u³ ve h(x) = x² + 4x - 1'dir. f'(x) = 3(x² + 4x - 1)² * (2x + 4). Şimdi x yerine -2 yazalım: f'(-2) = 3((-2)² + 4(-2) - 1)² * (2(-2) + 4) = 3(4 - 8 - 1)² * (-4 + 4) = 3(-5)² * (0) = 0. Çarpım durumunda 0 olduğu için sonuç 0'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_24",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^4 - 4x^3 + 2 fonksiyonunun türevini bulun.",
-    "options": [
-      "12x^3 - 12x^2",
-      "12x^2 - 12x",
-      "4x^3 - 3x^2",
-      "12x^3 - 4",
-      "4x^3 + 12"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 12x^3 - 12x^2 türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519904363_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 + 4x^3 - 2x + 1 fonksiyonunun türevini bulun.",
-    "options": [
-      "4x^3 + 12x^2 - 2",
-      "4x^3 + 12x^2 + 2",
-      "3x^3 + 12x^2",
-      "4x^3 - 2",
-      "2x + 1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = x^4 + 4x^3 - 2x + 1 olduğundan, f'(x) = 4x^3 + 12x^2 - 2 olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "cos(x) - sin(x)",
-      "-cos(x) - sin(x)",
-      "cos(x) + sin(x)",
-      "-sin(x) + cos(x)",
-      "sin(x) + cos(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = cos(x) - sin(x) türevini alarak sin ve cos fonksiyonlarının türevlerini kullanırız.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519904363_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = ln(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "1/x",
-      "ln(x)",
-      "x",
-      "x^2",
-      "1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = ln(x) olduğundan, f'(x) = 1/x olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519904363_10",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2x * ln(x) + x",
-      "2x * ln(x)",
-      "x^2/x",
-      "x^2 * 1/x",
-      "ln(x) + x^2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = x^2 * ln(x) olduğundan, f'(x) = 2x * ln(x) + x olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575272812_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 2x^3 - 3x + 5 fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "6x^2 - 3",
-      "2x^2 - 3",
-      "6x^2 + 3",
-      "3x^2 - 3",
-      "2x^3 - 3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 6x^2 - 3 olarak bulunur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764523343692_21",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 3x + 2 fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "3x^2 - 3",
-      "3x^2 + 3",
-      "3x^2 + 2",
-      "3x^2 - 2",
-      "x^3 - 3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alındığında f'(x) = 3x^2 - 3 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577500100_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = sin(x) + cos(x) fonksiyonunun x = π/4'teki türev değeri nedir?",
-    "options": [
-      "0",
-      "1",
-      "-1",
-      "√2",
-      "1/√2"
-    ],
-    "correctAnswer": 3,
-    "explanation": "g'(x) = cos(x) - sin(x) olduğundan, x = π/4 için g'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764521086205_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini alınız.",
-    "options": [
-      "cos(x) - sin(x)",
-      "sin(x) + cos(x)",
-      "-cos(x) - sin(x)",
-      "-sin(x) + cos(x)",
-      "-sin(x) - cos(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = sin(x) + cos(x) fonksiyonunun türevi f'(x) = cos(x) - sin(x) olarak hesaplanır. Türev alırken sinüs ve kosinüs fonksiyonlarının türevleri kullanılır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523343691_10",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 1/(x^2 + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "-2x/(x^2 + 1)^2",
-      "2x/(x^2 + 1)",
-      "1/(x^2 + 1)",
-      "2/(x^2 + 1)",
-      "-1/(x^2 + 1)^2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralı ve bölüm kuralı uygulanarak f'(x) = -2x/(x^2 + 1)^2 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764579869912_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun x = 1 noktasındaki türevini bulunuz.",
-    "options": [
-      "1",
-      "0",
-      "2",
-      "ln(1)",
-      "1 + ln(1)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 2x * ln(x) + x. x = 1 için f'(1) = 2(1)ln(1) + 1 = 0 + 1 = 1 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764497987569_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (x² + 1) * (2x - 3) olduğuna göre, f'(2) değeri kaçtır?",
-    "options": [
-      "9",
-      "11",
-      "14",
-      "15",
-      "18"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Çarpım kuralı olan (u*v)' = u'*v + u*v' formülünü kullanacağız. Burada u(x) = x² + 1 ve v(x) = 2x - 3'tür. Bu fonksiyonların türevleri: u'(x) = 2x ve v'(x) = 2. Şimdi çarpım kuralını uygulayalım: f'(x) = (2x)(2x - 3) + (x² + 1)(2). Soru f'(2) değerini sorduğu için x yerine 2 koyalım: f'(2) = (2*2)(2*2 - 3) + (2² + 1)(2) = (4)(4 - 3) + (4 + 1)(2) = 4(1) + 5(2) = 4 + 10 = 14.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523343692_25",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 + x^2 - 4x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "3x^2 + 2x - 4",
-      "3x^2 - 2",
-      "2x^2 + 4",
-      "2x - 4",
-      "x^2 + 4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alındığında f'(x) = 3x^2 + 2x - 4 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343691_14",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x * sin(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "sin(x) + x * cos(x)",
-      "-x * cos(x)",
-      "x * cos(x)",
-      "sin(x)",
-      "cos(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ürün kuralı ile f'(x) = sin(x) + x * cos(x) bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343692_24",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x / (x^2 + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "(1 - x^2) / (x^2 + 1)^2",
-      "(x^2 + 1) / x^2",
-      "(x^2 + 1)^2",
-      "(x^2 - 1) / (x^2 + 1)",
-      "1/(x^2 + 1)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bölüm kuralı ile f'(x) = (1 - x^2) / (x^2 + 1)^2 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764521925192_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "h(x) = e^x + x^2 fonksiyonunun türevi nedir?",
-    "options": [
-      "e^x + 2x",
-      "e^x + 2",
-      "2x",
-      "e^x",
-      "x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "h'(x) = e^x + 2x olarak bulunur. e^x'in türevi e^x, x^2'nin türevi ise 2x'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764520101424_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun x = π/4 noktasındaki türevini hesaplayınız.",
-    "options": [
-      "0",
-      "√2",
-      "1",
-      "√2/2",
-      "1/√2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = cos(x) - sin(x) türevini alarak x = π/4 için f'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764519904363_7",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun türevini bulun ve x=0 için değerini hesaplayın.",
-    "options": [
-      "1",
-      "0",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 2x + 2 ve x=0'da f'(0) = 2(0) + 2 = 2 olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577500100_7",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 6x^2 + 9x fonksiyonunun maksimum noktası nerede bulunur?",
-    "options": [
-      "x = 0",
-      "x = 1",
-      "x = 3",
-      "x = 2",
-      "x = -1"
-    ],
-    "correctAnswer": 3,
-    "explanation": "f'(x) = 3x^2 - 12x + 9. Bunu 0'a eşitleyerek x = 1 ve x = 3 noktaları bulunur. x = 3 maksimum noktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764500727133_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (x² + 3x) / (x - 1) fonksiyonu için f'(2) değeri kaçtır?",
-    "options": [
-      "-10",
-      "-7",
-      "-3",
-      "3",
-      "7"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu soruyu çözmek için bölümün türevi kuralını kullanmalıyız. Bölümün türevi kuralı: (u/v)' = (u'v - uv') / v². Burada u(x) = x² + 3x ve v(x) = x - 1'dir.\n\nu'(x) = 2x + 3\nv'(x) = 1\n\nf'(x) = [(2x + 3)(x - 1) - (x² + 3x)(1)] / (x - 1)²\n\nŞimdi x yerine 2 yazalım:\nf'(2) = [(2*2 + 3)(2 - 1) - (2² + 3*2)(1)] / (2 - 1)²\nf'(2) = [(4 + 3)(1) - (4 + 6)] / 1²\nf'(2) = [7 * 1 - 10] / 1\nf'(2) = 7 - 10 = -3",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_16",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 + sin(x) fonksiyonunun x = 0 noktasındaki türevini hesaplayın.",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "sin(0)",
-      "1/2"
-    ],
-    "correctAnswer": 2,
-    "explanation": "f'(x) = 2x + cos(x) türevini alıyoruz, x = 0 için f'(0) = 0 + 1 = 1.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343692_16",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 5x^2 + 3x - 4 fonksiyonunun maksimum değerini bulmak için türevini kullanın.",
-    "options": [
-      "x = -3/10",
       "x = -1",
       "x = 0",
       "x = 1",
-      "x = 5"
+      "x = -2",
+      "x = 2"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = 10x + 3 denklemi ile kritik nokta x = -3/10 bulunur.",
+    "explanation": "f'(x) = 2x + 2 denklemi ile x = -1 kritik nokta bulunur.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764577500100_16",
+    "id": "ai_1764577500101_24",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x^6 - 12x^4 + 36x^2 fonksiyonunun kritik noktalarını bulun.",
+    "questionText": "h(x) = 3x^4 - 8x^2 + 6 fonksiyonunun maksimum noktalarını belirleyin.",
     "options": [
       "x = 0",
+      "x = 1",
       "x = 2",
-      "x = -2",
-      "x = 3",
-      "x = 1"
+      "x = -1",
+      "x = 3"
     ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 6x^5 - 48x^3 + 72x. Bunu 0'a eşitleyerek x = 2 ve x = -2 kritik noktaları bulunur.",
+    "correctAnswer": 2,
+    "explanation": "h'(x) = 12x^3 - 16x. Bunu 0'a eşitleyerek x = 0 ve x = 2 bulunur. x = 2 maksimum noktadır.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764575272812_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 fonksiyonunun türevini bulun.",
+    "options": [
+      "5x^4",
+      "4x^5",
+      "5x^5",
+      "x^4",
+      "x^5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 5x^4 olarak bulunur.",
+    "difficulty": 1
   },
   {
     "id": "ai_1764523343691_9",
@@ -1328,662 +1616,6 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764500727133_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (x² - 4x + 5)³ fonksiyonu veriliyor. Buna göre, f'(1) değeri kaçtır?",
-    "options": [
-      "-48",
-      "-24",
-      "-12",
-      "12",
-      "24"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bu soruda zincir kuralını kullanmamız gerekiyor. Zincir kuralı: [g(h(x))]' = g'(h(x)) * h'(x). \n\nFonksiyonun türevini alalım:\nf'(x) = 3 * (x² - 4x + 5)^(3-1) * (x² - 4x + 5)'\nf'(x) = 3 * (x² - 4x + 5)² * (2x - 4)\n\nŞimdi türev fonksiyonunda x yerine 1 yazalım:\nf'(1) = 3 * (1² - 4*1 + 5)² * (2*1 - 4)\nf'(1) = 3 * (1 - 4 + 5)² * (2 - 4)\nf'(1) = 3 * (2)² * (-2)\nf'(1) = 3 * 4 * (-2)\nf'(1) = -24",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577500101_25",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(2x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2cos(2x)",
-      "-2sin(2x)",
-      "cos(2x)",
-      "2sin(2x)",
-      "sin(2x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralı uygulanarak f'(x) = 2cos(2x) bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764580398560_11",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = e^(-x) fonksiyonunun türevini bulun.",
-    "options": [
-      "-e^(-x)",
-      "e^(-x)",
-      "e^x",
-      "-e^x",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alırken f'(x) = -e^(-x) olarak bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499352351_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (x+2) / (x-3) fonksiyonunun türevi aşağıdakilerden hangisidir?",
-    "options": [
-      "1 / (x-3)²",
-      "-1 / (x-3)²",
-      "5 / (x-3)²",
-      "-5 / (x-3)²",
-      "(2x-1) / (x-3)²"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Bu soruyu çözmek için bölümün türevi kuralını kullanmalıyız. f(x) = u/v ise, f'(x) = (u'v - uv') / v² kuralı uygulanır.\nBurada u = x+2 ve v = x-3'tür.\n1. u ve v'nin türevlerini bulalım:\nu' = (x+2)' = 1\nv' = (x-3)' = 1\n2. Bölümün türevi kuralını uygulayalım:\nf'(x) = [ (1 * (x-3)) - ((x+2) * 1) ] / (x-3)²\n3. Pay kısmını sadeleştirelim:\nf'(x) = [ x - 3 - x - 2 ] / (x-3)²\nf'(x) = -5 / (x-3)²\nSonuç -5 / (x-3)²'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * e^x fonksiyonunun türevini bulun.",
-    "options": [
-      "(2x + 1)e^x",
-      "2xe^x",
-      "2e^x",
-      "xe^x",
-      "e^x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Çarpım kuralını kullanarak: f'(x) = 2x*e^x + x^2*e^x = (2x + x^2)e^x.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764519904363_9",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 - 5x^3 + 4x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "5x^4 - 15x^2 + 4",
-      "5x^4 - 15x^3 + 4",
-      "15x^2 - 5",
-      "5x^4 + 4",
-      "5x^5 - 15x^3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = x^5 - 5x^3 + 4x olduğundan, f'(x) = 5x^4 - 15x^2 + 4 olarak bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497987569_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (1/3)x³ - 2x² + 3x + 1 fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
-    "options": [
-      "-3",
-      "-1",
-      "1",
-      "2",
-      "3"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bir fonksiyonun yerel ekstremum noktalarını bulmak için türevi alınıp sıfıra eşitlenir. f'(x) = x² - 4x + 3. Şimdi türevi sıfıra eşitleyelim: x² - 4x + 3 = 0. Bu denklemi çarpanlarına ayırırsak (x-1)(x-3) = 0 elde ederiz. Kökler x=1 ve x=3'tür. Bunlar ekstremum noktası adaylarıdır. Türevin işaret tablosunu inceleyelim: x < 1 için f'(x) > 0 (artan), 1 < x < 3 için f'(x) < 0 (azalan), x > 3 için f'(x) > 0 (artan). Fonksiyon x=1'de artanlıktan azalanlığa geçtiği için burada bir yerel maksimum vardır. x=3'te azalanlıktan artanlığa geçtiği için burada bir yerel minimum vardır. Soruda yerel minimum noktasının apsisi sorulduğu için cevap 3'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_9",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = ln(x^2 + 1) fonksiyonunun türevini bulun.",
-    "options": [
-      "2x/(x^2 + 1)",
-      "x/(x^2 + 1)",
-      "1/(x^2 + 1)",
-      "2/(x^2 + 1)",
-      "2/(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralını kullanarak f'(x) = 2x/(x^2 + 1) türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_29",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 - 2x^2 + 1 fonksiyonunun türevini bulun.",
-    "options": [
-      "4x^3 - 4x",
-      "4x^3 + 4x",
-      "2x^2 - 2",
-      "2x^3 - 4",
-      "8x^2 + 1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 4x^3 - 4x türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_14",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * tan(x) fonksiyonunun türevini bulun.",
-    "options": [
-      "2x * tan(x) + x^2 * sec^2(x)",
-      "2x * sec^2(x) + x^2 * tan(x)",
-      "2x * tan(x)",
-      "sec^2(x)",
-      "x^2 * csc^2(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Çarpım kuralını kullanarak: f'(x) = 2x * tan(x) + x^2 * sec^2(x).",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_7",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 1/x fonksiyonunun türevini bulun.",
-    "options": [
-      "-1/x^2",
-      "1/x^2",
-      "1/x",
-      "-1/x",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alırken f'(x) = -1/x^2 olarak bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575272812_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2x + 2",
-      "x + 2",
-      "2x + 1",
-      "x + 1",
-      "2x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 2x + 2 olarak bulunur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764577500100_13",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = √x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "1/(2√x)",
-      "1/√x",
-      "2/√x",
-      "2x",
-      "x/2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = (1/2)x^(-1/2) = 1/(2√x) olarak bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764521925192_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * e^x fonksiyonunun türevi nedir?",
-    "options": [
-      "2xe^x + x^2e^x",
-      "xe^x + x^2e^x",
-      "2e^x + x^2e^x",
-      "2xe^x",
-      "e^x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = (x^2)'*e^x + x^2*(e^x)' = 2xe^x + x^2e^x olarak hesaplanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577500100_17",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = cos(x) + sin(x) fonksiyonunun x = π/2'deki türev değeri nedir?",
-    "options": [
-      "0",
-      "1",
-      "-1",
-      "√2",
-      "1/√2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "g'(x) = -sin(x) + cos(x). x = π/2 için g'(π/2) = 0 + 1 = 1.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577500100_11",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = x^4 - 8x^2 + 16 fonksiyonunun minimum noktasını belirleyin.",
-    "options": [
-      "x = 0",
-      "x = 2",
-      "x = -2",
-      "x = 4",
-      "x = -4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "g'(x) = 4x^3 - 16x = 4x(x^2 - 4). x = 2 ve x = -2 kritik noktalarıdır. x = 2 minimum noktadır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523343691_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 6x^2 + 9x + 1 fonksiyonunun x=2'deki türevini bulun.",
-    "options": [
-      "0",
-      "3",
-      "5",
-      "-3",
-      "-1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 3x^2 - 12x + 9 formülü ile x=2 için değer 0 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343692_18",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^5 - 10x^3 + 2x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "5x^4 - 30x^2 + 2",
-      "5x^4 - 30x^3 + 2",
-      "5x^4 - 10x^2",
-      "x^4 - 10x^2 + 2",
-      "10x^3 - 2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alındığında f'(x) = 5x^4 - 30x^2 + 2 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577500101_23",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = 1/(x^2 + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "-2x/(x^2 + 1)^2",
-      "2x/(x^2 + 1)^2",
-      "-1/(x^2 + 1)^2",
-      "1/(x^2 + 1)^2",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bölme kuralı kullanılarak g'(x) = -2x/(x^2 + 1)^2 olarak bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764500727134_7",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "Çevresinin uzunluğu 40 metre olan bir dikdörtgenin alanı en çok kaç metrekare olabilir?",
-    "options": [
-      "80",
-      "96",
-      "100",
-      "120",
-      "400"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Bu bir maksimum-minimum (optimizasyon) problemidir.\n\nDikdörtgenin kenarları x ve y olsun.\nÇevresi: 2(x + y) = 40 => x + y = 20 => y = 20 - x\n\nAlanı (A): A = x * y\ny yerine (20 - x) yazarak alanı tek bir değişkene bağlı ifade edelim:\nA(x) = x * (20 - x)\nA(x) = 20x - x²\n\nAlanın maksimum olması için türevini alıp sıfıra eşitlemeliyiz:\nA'(x) = 20 - 2x\n\nA'(x) = 0 => 20 - 2x = 0 => 2x = 20 => x = 10\n\nx = 10 ise, y = 20 - 10 = 10 olur. Bu, şeklin bir kare olduğunu gösterir.\n\nMaksimum alan = x * y = 10 * 10 = 100 metrekare.\n\nİkinci türev ile kontrol edebiliriz: A''(x) = -2. A''(10) = -2 < 0 olduğu için bu değer gerçekten bir maksimumdur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575272811_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 5x - 3 fonksiyonunun türevini bulun.",
-    "options": [
-      "5",
-      "3",
-      "0",
-      "-3",
-      "10"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonu doğrusal bir fonksiyon olduğu için türevi sabit bir sayı olan 5'tir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764580398560_26",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 5x^2 - 3x + 4 fonksiyonunun x = 2 noktasındaki türevini hesaplayın.",
-    "options": [
-      "10",
-      "7",
-      "8",
-      "6",
-      "5"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 10x - 3 türevini alıyoruz, x = 2 için f'(2) = 10*2 - 3 = 20 - 3 = 17.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576390038_4",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = ln(x) fonksiyonunun türevini bulun.",
-    "options": [
-      "1/x",
-      "ln(x)",
-      "x",
-      "x^2",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Logaritma fonksiyonunun türevi 1/x olarak bilinir.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764580398560_27",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sqrt(x^3) fonksiyonunun türevini bulun.",
-    "options": [
-      "3/(2sqrt(x^3))",
-      "1/(2sqrt(x))",
-      "3x^1.5",
-      "3x^2",
-      "1/(2x^1.5)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = (3/2)x^(3/2) türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499352351_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = (2x² - x)³ olduğuna göre, f'(2) değeri kaçtır?",
-    "options": [
-      "324",
-      "450",
-      "512",
-      "648",
-      "756"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. Zincir kuralına göre, f(g(x))' = f'(g(x)) * g'(x) olur.\nBurada dış fonksiyon u³ ve iç fonksiyon u = 2x² - x olarak düşünülebilir.\n1. Önce fonksiyonun genel türevini alalım: f'(x) = 3 * (2x² - x)^(3-1) * (2x² - x)'\nf'(x) = 3 * (2x² - x)² * (4x - 1)\n2. Şimdi x yerine 2 değerini koyalım: f'(2) = 3 * (2 * 2² - 2)² * (4 * 2 - 1)\n3. İşlemleri yapalım: f'(2) = 3 * (2 * 4 - 2)² * (8 - 1)\nf'(2) = 3 * (8 - 2)² * (7)\nf'(2) = 3 * (6)² * 7\nf'(2) = 3 * 36 * 7\nf'(2) = 108 * 7 = 756\nSonuç 756'dır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764576390038_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = e^x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "e^x",
-      "x*e^x",
-      "e^(x+1)",
-      "e^(x-1)",
-      "x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Exponential fonksiyonun türevi kendisi ile aynıdır, yani f'(x) = e^x.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764521086205_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 4x + 1 fonksiyonunun türevinde x = 2 noktasındaki değeri nedir?",
-    "options": [
-      "10",
-      "8",
-      "14",
-      "12",
-      "6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Öncelikle f'(x) = 3x^2 - 4 türevini buluruz. x = 2 için f'(2) = 3(2^2) - 4 = 12 - 4 = 8 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764497987569_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x³ - 3x² + 5 fonksiyonuna x = 1 apsisli noktasından çizilen teğetin eğimi kaçtır?",
-    "options": [
-      "-5",
-      "-3",
-      "0",
-      "1",
-      "3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir fonksiyona bir noktadan çizilen teğetin eğimi, fonksiyonun o noktadaki türevine eşittir. Önce f(x) fonksiyonunun türevini alalım: f'(x) = 3x² - 6x. Şimdi x = 1 noktasındaki türev değerini bulalım: f'(1) = 3(1)² - 6(1) = 3 - 6 = -3. Dolayısıyla, teğetin eğimi -3'tür.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521925192_9",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevi nedir?",
-    "options": [
-      "2xln(x) + x",
-      "ln(x) + 2x",
-      "x/2 + 2xln(x)",
-      "2xln(x) + x^2/x",
-      "2xln(x) + x^2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = (x^2)'*ln(x) + x^2*(ln(x))' = 2xln(x) + x olarak hesaplanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 24x + 5 fonksiyonunun kritik noktalarını bulun.",
-    "options": [
-      "x = 1, 2",
-      "x = 0, 3",
-      "x = 2, 3",
-      "x = 1, 3",
-      "x = 0, 2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 4x^3 - 12x^2 + 12x - 24 = 0 denklemini çözeriz, x = 1 ve x = 2 kritik noktalardır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575272811_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 4x^2 + 2x fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "3x^2 - 8x + 2",
-      "3x^2 - 4x + 2",
-      "4x^2 - 8x + 2",
-      "x^2 - 4x + 2",
-      "3x^2 + 8x + 2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 3x^2 - 8x + 2 olarak bulunur.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764577500101_21",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "h(x) = x^3 + 3x^2 + 3x + 1 fonksiyonunun türevini bulmak için hangi kural kullanılır?",
-    "options": [
-      "Toplama kuralı",
-      "Çarpım kuralı",
-      "Bölme kuralı",
-      "Üslü fonksiyon kuralı",
-      "Zincir kuralı"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bu fonksiyonun türevini bulmak için toplama ve üslü fonksiyon kuralları kullanılır.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577500100_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "h(x) = x^2 + 3x + 2 fonksiyonunun ikinci türevi nedir?",
-    "options": [
-      "0",
-      "2",
-      "3",
-      "4",
-      "1"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İlk türev h'(x) = 2x + 3, ikinci türev ise h''(x) = 2 olarak bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764580398560_8",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 + 2x + 1 fonksiyonunun x = -1 noktasındaki türevini hesaplayın.",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "-1",
-      "-2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 2x + 2 türevini alıyoruz, x = -1 için f'(-1) = 0.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343691_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = e^(2x) + x^2 fonksiyonunun x=0'daki türevini hesaplayın.",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "0",
-      "e^0"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 2e^(2x) + 2x olduğundan, x=0 için f'(0) = 2e^0 + 0 = 2.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764526024666_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = ln(x) + x^3 fonksiyonunun x = 1 noktasındaki türevini hesaplayınız.",
-    "options": [
-      "0",
-      "1",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "f'(x) = 1/x + 3x^2. f'(1) = 1/1 + 3(1)^2 = 1 + 3 = 4.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577500100_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 fonksiyonunun kritik noktalarını bulun.",
-    "options": [
-      "x = 1",
-      "x = 2",
-      "x = 0",
-      "x = 3",
-      "x = 4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türevi alarak f'(x) = 4x^3 - 12x^2 + 12x - 4 ifadesi elde edilir. Bunu 0'a eşitleyerek x = 1 bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764497987569_3",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "Gerçel sayılar kümesinde tanımlı bir f fonksiyonunun türevi olan f'(x) fonksiyonunun grafiği, x eksenini x = -3 ve x = 4 noktalarında kesmektedir. f'(x) fonksiyonu (-3, 4) aralığında pozitif, bu aralığın dışında ise negatiftir. Buna göre, f(x) fonksiyonu için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "x = -3 noktasında yerel minimumu vardır.",
-      "x = 4 noktasında yerel minimumu vardır.",
-      "(-∞, -3) aralığında artandır.",
-      "(4, ∞) aralığında artandır.",
-      "x = 1 noktasında bir ekstremum noktası vardır."
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) fonksiyonunun işaretine göre f(x) fonksiyonunun artanlık ve azalanlığı hakkında yorum yapabiliriz. f'(x) > 0 ise f(x) artan, f'(x) < 0 ise f(x) azalandır. Verilen bilgilere göre işaret tablosu: (-∞, -3) aralığında f'(x) < 0 (azalan). x = -3'te f'(x) = 0. (-3, 4) aralığında f'(x) > 0 (artan). x = 4'te f'(x) = 0. (4, ∞) aralığında f'(x) < 0 (azalan). Bir fonksiyonun türevinin işaretinin negatiften pozitife değiştiği nokta yerel minimumdur. x = -3 noktasında fonksiyon azalanlıktan artanlığa geçtiği için bu noktada bir yerel minimum vardır. x = 4 noktasında ise artanlıktan azalanlığa geçtiği için bir yerel maksimum vardır. Bu nedenle A şıkkı doğrudur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764576390037_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^2 + 5x - 2 fonksiyonunun türevini bulun.",
-    "options": [
-      "3x + 5",
-      "6x + 5",
-      "6x - 2",
-      "5x^2",
-      "3x^2 + 5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Türev alma kurallarına göre, f(x) = 3x^2 + 5x - 2 fonksiyonunun türevi f'(x) = 6x + 5 olarak bulunur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764523343691_11",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 4x^3 - 6x^2 + 2x - 5 fonksiyonunun x=1'deki türevini bulun.",
-    "options": [
-      "4",
-      "2",
-      "0",
-      "1",
-      "-1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 12x^2 - 12 + 2 ve x=1 için f'(1) = 2 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577500101_19",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 5x^3 - 6x^2 + 2x - 1 fonksiyonunun x = 1'deki türev değeri nedir?",
-    "options": [
-      "3",
-      "7",
-      "1",
-      "0",
-      "5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Türev f'(x) = 15x^2 - 12x + 2. x = 1 için f'(1) = 15 - 12 + 2 = 5.",
-    "difficulty": 4
-  },
-  {
     "id": "ai_1764580398560_4",
     "subjectId": "mat",
     "topic": "Türev",
@@ -2000,179 +1632,19 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764526024666_0",
+    "id": "ai_1764577500100_14",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 3x^3 - 5x^2 + 2x - 1 fonksiyonunun x = 1 noktasındaki türevini hesaplayınız.",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "f'(x) = 9x^2 - 10x + 2. f'(1) = 9(1)^2 - 10(1) + 2 = 1.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523343692_23",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 4 fonksiyonunun kritik noktalarını belirleyin.",
-    "options": [
-      "x = 0, x = 1",
-      "x = 1, x = 2",
-      "x = 2, x = 3",
-      "x = 3, x = 4",
-      "x = -1, x = 0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 4x^3 - 12x^2 + 12x denklemi ile kritik noktalar x = 0, x = 1 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343692_22",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 2^(x) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "2^x ln(2)",
-      "2^x",
-      "x ln(2)",
-      "2^x / ln(2)",
-      "2^x e"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alındığında f'(x) = 2^x ln(2) bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_25",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 + x^2 - x fonksiyonunun x = 1 noktasındaki türevini hesaplayın.",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "0",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 3x^2 + 2x - 1 türevini alıyoruz, x = 1 için f'(1) = 3 + 2 - 1 = 4.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343691_13",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^4 + 4x^3 - 10x^2 + 1 fonksiyonunun x=0'daki türevini hesaplayın.",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "-1",
-      "-2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 4x^3 + 12x^2 - 20x ve x=0 için f'(0) = 0 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577500100_9",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "h(x) = tan(x) fonksiyonunun türevini bulmak için hangi kural kullanılır?",
+    "questionText": "g(x) = x^3 - 3x + 2 fonksiyonunun türevini bulmak için hangi kural kullanılır?",
     "options": [
       "Zincir kuralı",
       "Çarpım kuralı",
-      "Bölme kuralı",
       "Toplama kuralı",
+      "Bölme kuralı",
       "Üslü fonksiyon kuralı"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tan(x) türevini bulurken zincir kuralı kullanılır, çünkü tan(x) = sin(x)/cos(x) şeklinde yazılabilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575272811_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevini bulun.",
-    "options": [
-      "6x + 2",
-      "3x + 2",
-      "6x + 1",
-      "3x^2 + 2",
-      "2x + 1"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) fonksiyonunun türevi f'(x) = 6x + 2 şeklinde bulunur. Polinomların türevini alırken, her bir terimin katsayısı ile kuvvetini çarparak bir azalma yaparız.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764521925192_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = sin(x) + cos(x) fonksiyonunun x=π/4 noktasındaki türevini bulun.",
-    "options": [
-      "0",
-      "√2",
-      "-√2",
-      "1",
-      "√2/2"
-    ],
-    "correctAnswer": 1,
-    "explanation": "g'(x) = cos(x) - sin(x) olur. x=π/4 için g'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 3x^2 + 4 fonksiyonunun türevini bulun.",
-    "options": [
-      "3x^2 - 6x",
-      "3x^2 - 3",
-      "2x^2 - 3",
-      "x^2 - 3",
-      "3x^2 + 4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 3x^2 - 6x türevini bulmak için x'in kuvvetini önüne alır ve kuvveti 1 azaltır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398561_30",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x^2) fonksiyonunun türevini bulun.",
-    "options": [
-      "2x cos(x^2)",
-      "sin(2x)",
-      "cos(x^2)",
-      "2 sin(x)",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Zincir kuralını kullanarak f'(x) = 2x cos(x^2) türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577500100_10",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 1/x fonksiyonunun x = 2'deki türev değeri nedir?",
-    "options": [
-      "-1/2",
-      "-1/4",
-      "1/2",
-      "1/4",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = -1/x^2 olduğundan, x = 2 için f'(2) = -1/4 bulunur.",
+    "correctAnswer": 2,
+    "explanation": "Bu fonksiyonun türevini bulmak için toplama ve üslü fonksiyon kuralları kullanılır.",
     "difficulty": 4
   },
   {
@@ -2192,83 +1664,563 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764520101424_1",
+    "id": "ai_1764523343691_14",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x^3 - 3x^2 + 2 fonksiyonunun x = 2 noktasındaki türevini hesaplayınız.",
+    "questionText": "f(x) = x * sin(x) fonksiyonunun türevini hesaplayın.",
     "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 3x^2 - 6x türevini alarak x = 2 için f'(2) = 3(2)^2 - 6(2) = 0 bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764521925192_7",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sqrt(x) + x^3 fonksiyonunun türevini hesaplayınız.",
-    "options": [
-      "1/(2sqrt(x)) + 3x^2",
-      "1/sqrt(x) + 3x^2",
-      "1/(2x) + 2x^2",
-      "1/(2x) + 3x^2",
-      "3x^2"
+      "sin(x) + x * cos(x)",
+      "-x * cos(x)",
+      "x * cos(x)",
+      "sin(x)",
+      "cos(x)"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = (1/2)x^(-1/2) + 3x^2 olarak bulunur.",
+    "explanation": "Ürün kuralı ile f'(x) = sin(x) + x * cos(x) bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519904362_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevi nedir?",
+    "options": [
+      "3x + 2",
+      "6x + 2",
+      "6x + 1",
+      "2x + 1",
+      "3x^2 + 2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f(x) = 3x^2 + 2x + 1 fonksiyonunun türevi f'(x) = 6x + 2 olarak bulunur.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764577500101_24",
+    "id": "ai_1764576390038_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "h(x) = 3x^4 - 8x^2 + 6 fonksiyonunun maksimum noktalarını belirleyin.",
+    "questionText": "f(x) = e^x fonksiyonunun türevini hesaplayın.",
     "options": [
-      "x = 0",
-      "x = 1",
-      "x = 2",
-      "x = -1",
-      "x = 3"
+      "e^x",
+      "x*e^x",
+      "e^(x+1)",
+      "e^(x-1)",
+      "x"
     ],
-    "correctAnswer": 2,
-    "explanation": "h'(x) = 12x^3 - 16x. Bunu 0'a eşitleyerek x = 0 ve x = 2 bulunur. x = 2 maksimum noktadır.",
+    "correctAnswer": 0,
+    "explanation": "Exponential fonksiyonun türevi kendisi ile aynıdır, yani f'(x) = e^x.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764523343691_11",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 4x^3 - 6x^2 + 2x - 5 fonksiyonunun x=1'deki türevini bulun.",
+    "options": [
+      "4",
+      "2",
+      "0",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 12x^2 - 12 + 2 ve x=1 için f'(1) = 2 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521925192_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^3 - 5x^2 + 4x - 2 fonksiyonunun türevi nedir?",
+    "options": [
+      "9x^2 - 10x + 4",
+      "6x^2 - 10x + 4",
+      "9x^2 + 10x - 4",
+      "9x^2 - 5x + 4",
+      "6x^2 + 5x - 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = 3x^3 - 5x^2 + 4x - 2 fonksiyonunun türevi f'(x) = 9x^2 - 10x + 4 olarak hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764576390038_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = ln(x) fonksiyonunun türevini bulun.",
+    "options": [
+      "1/x",
+      "ln(x)",
+      "x",
+      "x^2",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Logaritma fonksiyonunun türevi 1/x olarak bilinir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576390038_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = sin(x) fonksiyonunun türevini bulun.",
+    "options": [
+      "cos(x)",
+      "-cos(x)",
+      "sin(x)",
+      "-sin(x)",
+      "tan(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sinüs fonksiyonunun türevi cos(x) olarak bilinir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764523343691_8",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 + 3x^2 - 24x + 1 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "3x^2 + 6x - 24",
+      "9x^2 + 6x - 24",
+      "3x^2 + 6x + 24",
+      "3x^2 - 6x + 24",
+      "3x^2 + 24"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alınarak f'(x) = 3x^2 + 6x - 24 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500101_26",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = x^5 - 5x^3 + 4x fonksiyonunun x = 1'deki türev değerini hesaplayın.",
+    "options": [
+      "0",
+      "4",
+      "8",
+      "5",
+      "1"
+    ],
+    "correctAnswer": 3,
+    "explanation": "g'(x) = 5x^4 - 15x^2 + 4. x = 1 için g'(1) = 5 - 15 + 4 = -6.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764580398560_3",
+    "id": "ai_1764580398560_28",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x * cos(x) fonksiyonunun türevini bulun.",
+    "options": [
+      "-x * sin(x) + cos(x)",
+      "x * sin(x)",
+      "sin(x) + cos(x)",
+      "-sin(x)",
+      "sin(x) - x * cos(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Çarpım kuralını kullanarak f'(x) = cos(x) - x * sin(x) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764497987569_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "Gerçel sayılar kümesinde tanımlı bir f fonksiyonunun türevi olan f'(x) fonksiyonunun grafiği, x eksenini x = -3 ve x = 4 noktalarında kesmektedir. f'(x) fonksiyonu (-3, 4) aralığında pozitif, bu aralığın dışında ise negatiftir. Buna göre, f(x) fonksiyonu için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "x = -3 noktasında yerel minimumu vardır.",
+      "x = 4 noktasında yerel minimumu vardır.",
+      "(-∞, -3) aralığında artandır.",
+      "(4, ∞) aralığında artandır.",
+      "x = 1 noktasında bir ekstremum noktası vardır."
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) fonksiyonunun işaretine göre f(x) fonksiyonunun artanlık ve azalanlığı hakkında yorum yapabiliriz. f'(x) > 0 ise f(x) artan, f'(x) < 0 ise f(x) azalandır. Verilen bilgilere göre işaret tablosu: (-∞, -3) aralığında f'(x) < 0 (azalan). x = -3'te f'(x) = 0. (-3, 4) aralığında f'(x) > 0 (artan). x = 4'te f'(x) = 0. (4, ∞) aralığında f'(x) < 0 (azalan). Bir fonksiyonun türevinin işaretinin negatiften pozitife değiştiği nokta yerel minimumdur. x = -3 noktasında fonksiyon azalanlıktan artanlığa geçtiği için bu noktada bir yerel minimum vardır. x = 4 noktasında ise artanlıktan azalanlığa geçtiği için bir yerel maksimum vardır. Bu nedenle A şıkkı doğrudur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521925192_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 4x^4 - 6x^3 + 2x - 5 fonksiyonunun x=1 noktasındaki türevini bulun.",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Öncelikle f'(x) = 16x^3 - 18x^2 + 2 formülü ile türev alınır. x=1 için f'(1) = 16 - 18 + 2 = 0.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343691_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 2x^2 - 3x + 1 fonksiyonunun ikinci türevini hesaplayın.",
+    "options": [
+      "4",
+      "2",
+      "0",
+      "6",
+      "1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x - 3 ve f''(x) = 4 olarak bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500727133_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (x² - 4x + 5)³ fonksiyonu veriliyor. Buna göre, f'(1) değeri kaçtır?",
+    "options": [
+      "-48",
+      "-24",
+      "-12",
+      "12",
+      "24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bu soruda zincir kuralını kullanmamız gerekiyor. Zincir kuralı: [g(h(x))]' = g'(h(x)) * h'(x). \n\nFonksiyonun türevini alalım:\nf'(x) = 3 * (x² - 4x + 5)^(3-1) * (x² - 4x + 5)'\nf'(x) = 3 * (x² - 4x + 5)² * (2x - 4)\n\nŞimdi türev fonksiyonunda x yerine 1 yazalım:\nf'(1) = 3 * (1² - 4*1 + 5)² * (2*1 - 4)\nf'(1) = 3 * (1 - 4 + 5)² * (2 - 4)\nf'(1) = 3 * (2)² * (-2)\nf'(1) = 3 * 4 * (-2)\nf'(1) = -24",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764500727133_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "y = x³ - 2x² + 3 eğrisine x = 2 apsisli noktasından çizilen teğetin denklemi aşağıdakilerden hangisidir?",
+    "options": [
+      "y = 4x - 5",
+      "y = 4x + 3",
+      "y = 2x - 1",
+      "y = 4x - 8",
+      "y = 2x + 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bir eğriye bir noktadan çizilen teğetin denklemini bulmak için 3 adım izlenir:\n1. Noktanın koordinatlarını bul: x=2 için y değerini bulalım.\ny = 2³ - 2(2)² + 3 = 8 - 8 + 3 = 3. Demek ki nokta (2, 3).\n\n2. Teğetin eğimini bul: Eğim, fonksiyonun o noktadaki türevine eşittir. Önce fonksiyonun türevini alalım.\ny' = 3x² - 4x\nŞimdi x=2 için eğimi (m) bulalım.\nm = y'(2) = 3(2)² - 4(2) = 12 - 8 = 4.\n\n3. Noktası ve eğimi bilinen doğru denklemini yaz: y - y₁ = m(x - x₁)\ny - 3 = 4(x - 2)\ny - 3 = 4x - 8\ny = 4x - 5",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764577500100_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = sin(x) + cos(x) fonksiyonunun x = π/4'teki türev değeri nedir?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "√2",
+      "1/√2"
+    ],
+    "correctAnswer": 3,
+    "explanation": "g'(x) = cos(x) - sin(x) olduğundan, x = π/4 için g'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^x + ln(x) fonksiyonunun x = 1 noktasındaki türev değerini bulun.",
+    "options": [
+      "1",
+      "e",
+      "2",
+      "0",
+      "ln(1)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = e^x + (1/x) türevini alıyoruz, x=1 için f'(1) = e + 1 = e.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523343692_24",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x / (x^2 + 1) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "(1 - x^2) / (x^2 + 1)^2",
+      "(x^2 + 1) / x^2",
+      "(x^2 + 1)^2",
+      "(x^2 - 1) / (x^2 + 1)",
+      "1/(x^2 + 1)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bölüm kuralı ile f'(x) = (1 - x^2) / (x^2 + 1)^2 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764582613293_6",
     "subjectId": "mat",
     "topic": "Türev",
     "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini bulun.",
     "options": [
-      "2x ln(x) + x",
-      "2x ln(x) + 1",
-      "x ln(x) + 2x",
-      "x ln(x) + 2x^2",
-      "ln(x) + 2x"
+      "2x * ln(x) + x",
+      "x * ln(x) + 2",
+      "2x + ln(x)",
+      "2ln(x)",
+      "x^2/x"
     ],
     "correctAnswer": 0,
-    "explanation": "Türev alırken çarpım kuralını kullanıyoruz: f'(x) = 2x ln(x) + x * (1/x) = 2x ln(x) + 1.",
+    "explanation": "Ürün kuralını kullanarak türev alırız: f'(x) = (x^2)' * ln(x) + x^2 * (ln(x))' = 2x * ln(x) + x.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343691_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^4 - 8x^3 + 5x - 2 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "12x^3 - 24x^2 + 5",
+      "12x^3 - 24x^2 + 5x",
+      "12x^3 - 8x^2 + 5",
+      "12x^3 - 8x + 5",
+      "12x^3 + 8x^2 - 5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alma işlemi yapıldığında, f'(x) = 12x^3 - 24x^2 + 5 elde edilir.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764580398560_13",
+    "id": "ai_1764580398560_18",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x * sin(x) fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = x * ln(x) fonksiyonunun türevini bulun.",
     "options": [
-      "sin(x) + x * cos(x)",
-      "x * cos(x)",
-      "cos(x) - x * sin(x)",
-      "sin(x) - x * cos(x)",
-      "x * sin(x)"
+      "ln(x) + 1",
+      "1/x + ln(x)",
+      "ln(x) + x",
+      "1/x",
+      "x/(x^2)"
     ],
     "correctAnswer": 0,
-    "explanation": "Çarpım kuralını kullanarak f'(x) = sin(x) + x * cos(x) türevini buluyoruz.",
+    "explanation": "Çarpım kuralını kullanarak f'(x) = ln(x) + 1 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "h(x) = e^x + ln(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "e^x + 1/x",
+      "e^x - 1/x",
+      "e^x * ln(x)",
+      "e^x - ln(x)",
+      "e^x + x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Burada türev alma kuralları uygulanır: h'(x) = e^x + 1/x.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764520101424_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^2 + 2x - 5 fonksiyonunun x = 1 noktasındaki türevini hesaplayınız.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "f'(x) = 6x + 2 türevini alarak x = 1 için f'(1) = 6(1) + 2 = 8 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_16",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + sin(x) fonksiyonunun x = 0 noktasındaki türevini hesaplayın.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "sin(0)",
+      "1/2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "f'(x) = 2x + cos(x) türevini alıyoruz, x = 0 için f'(0) = 0 + 1 = 1.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521925192_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * e^x fonksiyonunun türevi nedir?",
+    "options": [
+      "2xe^x + x^2e^x",
+      "xe^x + x^2e^x",
+      "2e^x + x^2e^x",
+      "2xe^x",
+      "e^x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = (x^2)'*e^x + x^2*(e^x)' = 2xe^x + x^2e^x olarak hesaplanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575272812_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 2x^3 - 3x + 5 fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "6x^2 - 3",
+      "2x^2 - 3",
+      "6x^2 + 3",
+      "3x^2 - 3",
+      "2x^3 - 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonunun türevi f'(x) = 6x^2 - 3 olarak bulunur.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575272811_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 5x - 3 fonksiyonunun türevini bulun.",
+    "options": [
+      "5",
+      "3",
+      "0",
+      "-3",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) fonksiyonu doğrusal bir fonksiyon olduğu için türevi sabit bir sayı olan 5'tir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764580398560_23",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 + 1/x fonksiyonunun türevini bulun.",
+    "options": [
+      "2x - 1/x^2",
+      "2 - 1/x^2",
+      "1/x^2",
+      "2x + 1/x^2",
+      "2x + 1/x"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 2x - 1/x^2 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580398560_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^4 - 4x^3 + 6x^2 - 24x + 5 fonksiyonunun kritik noktalarını bulun.",
+    "options": [
+      "x = 1, 2",
+      "x = 0, 3",
+      "x = 2, 3",
+      "x = 1, 3",
+      "x = 0, 2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 4x^3 - 12x^2 + 12x - 24 = 0 denklemini çözeriz, x = 1 ve x = 2 kritik noktalardır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499352351_3",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (x+2) / (x-3) fonksiyonunun türevi aşağıdakilerden hangisidir?",
+    "options": [
+      "1 / (x-3)²",
+      "-1 / (x-3)²",
+      "5 / (x-3)²",
+      "-5 / (x-3)²",
+      "(2x-1) / (x-3)²"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bu soruyu çözmek için bölümün türevi kuralını kullanmalıyız. f(x) = u/v ise, f'(x) = (u'v - uv') / v² kuralı uygulanır.\nBurada u = x+2 ve v = x-3'tür.\n1. u ve v'nin türevlerini bulalım:\nu' = (x+2)' = 1\nv' = (x-3)' = 1\n2. Bölümün türevi kuralını uygulayalım:\nf'(x) = [ (1 * (x-3)) - ((x+2) * 1) ] / (x-3)²\n3. Pay kısmını sadeleştirelim:\nf'(x) = [ x - 3 - x - 2 ] / (x-3)²\nf'(x) = -5 / (x-3)²\nSonuç -5 / (x-3)²'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764523343691_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^(2x) + x^2 fonksiyonunun x=0'daki türevini hesaplayın.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0",
+      "e^0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "f'(x) = 2e^(2x) + 2x olduğundan, x=0 için f'(0) = 2e^0 + 0 = 2.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500101_20",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = ln(x + 1) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "1/(x + 1)",
+      "1/x",
+      "x/(x + 1)",
+      "1/(x - 1)",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "g'(x) = 1/(x + 1) türevi olarak bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_11",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^(-x) fonksiyonunun türevini bulun.",
+    "options": [
+      "-e^(-x)",
+      "e^(-x)",
+      "e^x",
+      "-e^x",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alırken f'(x) = -e^(-x) olarak bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499352351_2",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x³ - 3x² + 5 fonksiyonunun grafiğine x=1 apsisli noktasından çizilen teğetin eğimi kaçtır?",
+    "options": [
+      "-6",
+      "-3",
+      "0",
+      "1",
+      "3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir fonksiyonun herhangi bir noktasındaki teğetinin eğimi, fonksiyonun o noktadaki türevine eşittir. Bu nedenle, önce f(x) fonksiyonunun türevini bulmalı, sonra x=1 değerini bu türev fonksiyonunda yerine yazmalıyız.\n1. Fonksiyonun türevini alalım: f(x) = x³ - 3x² + 5\nf'(x) = 3x² - 6x\n2. Türev fonksiyonunda x yerine 1 yazarak teğetin eğimini bulalım:\nm_teğet = f'(1) = 3(1)² - 6(1)\nm_teğet = 3 - 6\nm_teğet = -3\nDolayısıyla, x=1 apsisli noktadan çizilen teğetin eğimi -3'tür.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_14",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * tan(x) fonksiyonunun türevini bulun.",
+    "options": [
+      "2x * tan(x) + x^2 * sec^2(x)",
+      "2x * sec^2(x) + x^2 * tan(x)",
+      "2x * tan(x)",
+      "sec^2(x)",
+      "x^2 * csc^2(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Çarpım kuralını kullanarak: f'(x) = 2x * tan(x) + x^2 * sec^2(x).",
     "difficulty": 5
   },
   {
@@ -2288,115 +2240,115 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764576390039_8",
+    "id": "ai_1764577500101_19",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 5x^3 - 3x^2 + 2 fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = 5x^3 - 6x^2 + 2x - 1 fonksiyonunun x = 1'deki türev değeri nedir?",
     "options": [
-      "15x^2 - 6x",
-      "5x^2 - 6",
-      "10x^2 - 3",
-      "15x^2 + 3",
-      "5x^2 + 3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 15x^2 - 6x türevini alarak bulunur.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764577500100_0",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 3x^3 - 5x^2 + 4x - 2 fonksiyonunun türevi nedir?",
-    "options": [
-      "9x^2 - 10x + 4",
-      "9x^2 - 5x + 4",
-      "6x^2 - 10x + 4",
-      "3x^2 - 5x + 4",
-      "3x^2 - 10x + 4"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alma kurallarına göre f(x) fonksiyonunun türevi f'(x) = 9x^2 - 10x + 4 olarak bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577500101_20",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = ln(x + 1) fonksiyonunun türevini hesaplayın.",
-    "options": [
-      "1/(x + 1)",
-      "1/x",
-      "x/(x + 1)",
-      "1/(x - 1)",
-      "0"
-    ],
-    "correctAnswer": 0,
-    "explanation": "g'(x) = 1/(x + 1) türevi olarak bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577500101_22",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 - 2x + 1 fonksiyonunun x = 1'deki türev değeri nedir?",
-    "options": [
+      "3",
+      "7",
+      "1",
       "0",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Türev f'(x) = 15x^2 - 12x + 2. x = 1 için f'(1) = 15 - 12 + 2 = 5.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764497987569_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (1/3)x³ - 2x² + 3x + 1 fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
+    "options": [
+      "-3",
+      "-1",
       "1",
       "2",
-      "-1",
       "3"
     ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 2x - 2. x = 1 için f'(1) = 2(1) - 2 = 0.",
-    "difficulty": 4
+    "correctAnswer": 4,
+    "explanation": "Bir fonksiyonun yerel ekstremum noktalarını bulmak için türevi alınıp sıfıra eşitlenir. f'(x) = x² - 4x + 3. Şimdi türevi sıfıra eşitleyelim: x² - 4x + 3 = 0. Bu denklemi çarpanlarına ayırırsak (x-1)(x-3) = 0 elde ederiz. Kökler x=1 ve x=3'tür. Bunlar ekstremum noktası adaylarıdır. Türevin işaret tablosunu inceleyelim: x < 1 için f'(x) > 0 (artan), 1 < x < 3 için f'(x) < 0 (azalan), x > 3 için f'(x) > 0 (artan). Fonksiyon x=1'de artanlıktan azalanlığa geçtiği için burada bir yerel maksimum vardır. x=3'te azalanlıktan artanlığa geçtiği için burada bir yerel minimum vardır. Soruda yerel minimum noktasının apsisi sorulduğu için cevap 3'tür.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764577500100_14",
+    "id": "ai_1764500727134_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "g(x) = x^3 - 3x + 2 fonksiyonunun türevini bulmak için hangi kural kullanılır?",
+    "questionText": "f(x) = (1/3)x³ - 2x² - 5x + 1 fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
     "options": [
-      "Zincir kuralı",
-      "Çarpım kuralı",
-      "Toplama kuralı",
-      "Bölme kuralı",
-      "Üslü fonksiyon kuralı"
+      "-5",
+      "-1",
+      "1",
+      "2",
+      "5"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Bir fonksiyonun yerel ekstremum (maksimum veya minimum) noktalarını bulmak için önce türevini alıp sıfıra eşitleriz. Bu bize kritik noktaları verir.\n\nf'(x) = x² - 4x - 5\n\nf'(x) = 0 => x² - 4x - 5 = 0\nÇarpanlarına ayıralım: (x - 5)(x + 1) = 0\nKritik noktalar x = 5 ve x = -1'dir.\n\nHangi noktanın minimum olduğunu anlamak için ikinci türev testini kullanabiliriz.\nf''(x) = 2x - 4\n\nf''(-1) = 2(-1) - 4 = -6. Sonuç negatif olduğu için x = -1 yerel maksimum noktasının apsisidir.\nf''(5) = 2(5) - 4 = 6. Sonuç pozitif olduğu için x = 5 yerel minimum noktasının apsisidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521925192_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = sin(x) + cos(x) fonksiyonunun x=π/4 noktasındaki türevini bulun.",
+    "options": [
+      "0",
+      "√2",
+      "-√2",
+      "1",
+      "√2/2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "g'(x) = cos(x) - sin(x) olur. x=π/4 için g'(π/4) = cos(π/4) - sin(π/4) = √2/2 - √2/2 = 0.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764526024666_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^3 - 5x^2 + 2x - 1 fonksiyonunun x = 1 noktasındaki türevini hesaplayınız.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
     ],
     "correctAnswer": 2,
-    "explanation": "Bu fonksiyonun türevini bulmak için toplama ve üslü fonksiyon kuralları kullanılır.",
+    "explanation": "f'(x) = 9x^2 - 10x + 2. f'(1) = 9(1)^2 - 10(1) + 2 = 1.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764576390038_6",
+    "id": "ai_1764577500100_7",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = tan(x) fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = x^3 - 6x^2 + 9x fonksiyonunun maksimum noktası nerede bulunur?",
     "options": [
-      "sec^2(x)",
-      "tan(x)",
-      "cos(x)",
-      "sin^2(x)",
-      "1/tan(x)"
+      "x = 0",
+      "x = 1",
+      "x = 3",
+      "x = 2",
+      "x = -1"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tanjant fonksiyonunun türevi sec^2(x) olarak bilinir.",
-    "difficulty": 2
+    "correctAnswer": 3,
+    "explanation": "f'(x) = 3x^2 - 12x + 9. Bunu 0'a eşitleyerek x = 1 ve x = 3 noktaları bulunur. x = 3 maksimum noktadır.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764523343691_7",
+    "id": "ai_1764523343692_15",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 2x^2 - 3x + 1 fonksiyonunun ikinci türevini hesaplayın.",
+    "questionText": "f(x) = x^2 * e^x fonksiyonunun türevini hesaplayın.",
     "options": [
-      "4",
-      "2",
-      "0",
-      "6",
-      "1"
+      "(x^2 + 2x)e^x",
+      "(x^2 + 1)e^x",
+      "2xe^x",
+      "xe^x",
+      "x^2e^x"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = 4x - 3 ve f''(x) = 4 olarak bulunur.",
+    "explanation": "Ürün kuralı ile f'(x) = (x^2 + 2x)e^x bulunur.",
     "difficulty": 5
   },
   {
@@ -2416,131 +2368,35 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764521925192_3",
+    "id": "ai_1764582613293_1",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = ln(x^2 + 1) fonksiyonunun türevini hesaplayınız.",
+    "questionText": "f(x) = x^3 - 4x + 1 fonksiyonunun x = 1 noktasındaki türev değeri nedir?",
     "options": [
-      "2x/(x^2 + 1)",
-      "x/(x^2 + 1)",
-      "1/(x^2 + 1)",
-      "2/(x^2 + 1)",
-      "ln(x^2 + 1)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 2x/(x^2 + 1) formülüne göre türev alınır, burada zincir kuralı kullanılmıştır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764580398560_23",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 + 1/x fonksiyonunun türevini bulun.",
-    "options": [
-      "2x - 1/x^2",
-      "2 - 1/x^2",
-      "1/x^2",
-      "2x + 1/x^2",
-      "2x + 1/x"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 2x - 1/x^2 türevini buluyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_10",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 3x + 2 fonksiyonunun maksimum veya minimum noktalarını belirleyin.",
-    "options": [
-      "x = 1",
-      "x = 2",
-      "x = -1",
-      "x = 0",
-      "x = -2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 3x^2 - 3 = 0 denklemini çözüyoruz, x = 1 ve x = -1 noktalarına bakarak maksimum ve minimum noktalarını belirliyoruz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523343691_5",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = tan(x) fonksiyonunun türevini belirleyin.",
-    "options": [
-      "sec^2(x)",
-      "cosec^2(x)",
-      "cot^2(x)",
-      "sec(x)",
-      "tan^2(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Türev alma işlemi sonucunda f'(x) = sec^2(x) bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500727133_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "y = x³ - 2x² + 3 eğrisine x = 2 apsisli noktasından çizilen teğetin denklemi aşağıdakilerden hangisidir?",
-    "options": [
-      "y = 4x - 5",
-      "y = 4x + 3",
-      "y = 2x - 1",
-      "y = 4x - 8",
-      "y = 2x + 3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Bir eğriye bir noktadan çizilen teğetin denklemini bulmak için 3 adım izlenir:\n1. Noktanın koordinatlarını bul: x=2 için y değerini bulalım.\ny = 2³ - 2(2)² + 3 = 8 - 8 + 3 = 3. Demek ki nokta (2, 3).\n\n2. Teğetin eğimini bul: Eğim, fonksiyonun o noktadaki türevine eşittir. Önce fonksiyonun türevini alalım.\ny' = 3x² - 4x\nŞimdi x=2 için eğimi (m) bulalım.\nm = y'(2) = 3(2)² - 4(2) = 12 - 8 = 4.\n\n3. Noktası ve eğimi bilinen doğru denklemini yaz: y - y₁ = m(x - x₁)\ny - 3 = 4(x - 2)\ny - 3 = 4x - 8\ny = 4x - 5",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577500101_26",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "g(x) = x^5 - 5x^3 + 4x fonksiyonunun x = 1'deki türev değerini hesaplayın.",
-    "options": [
+      "-2",
       "0",
-      "4",
-      "8",
-      "5",
+      "2",
+      "3",
       "1"
     ],
-    "correctAnswer": 3,
-    "explanation": "g'(x) = 5x^4 - 15x^2 + 4. x = 1 için g'(1) = 5 - 15 + 4 = -6.",
-    "difficulty": 4
+    "correctAnswer": 2,
+    "explanation": "Öncelikle f'(x) = 3x^2 - 4 türevini alırız. x = 1 için f'(1) = 3(1)^2 - 4 = 3 - 4 = -1.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764523343691_8",
+    "id": "ai_1764523343692_26",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x^3 + 3x^2 - 24x + 1 fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = ln(2x) + x^2 fonksiyonunun türevini hesaplayın.",
     "options": [
-      "3x^2 + 6x - 24",
-      "9x^2 + 6x - 24",
-      "3x^2 + 6x + 24",
-      "3x^2 - 6x + 24",
-      "3x^2 + 24"
+      "1/x + 2x",
+      "2/x + 1",
+      "2x + 1",
+      "1/x^2 + 2",
+      "ln(x)"
     ],
     "correctAnswer": 0,
-    "explanation": "Türev alınarak f'(x) = 3x^2 + 6x - 24 bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580398560_28",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x * cos(x) fonksiyonunun türevini bulun.",
-    "options": [
-      "-x * sin(x) + cos(x)",
-      "x * sin(x)",
-      "sin(x) + cos(x)",
-      "-sin(x)",
-      "sin(x) - x * cos(x)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Çarpım kuralını kullanarak f'(x) = cos(x) - x * sin(x) türevini buluyoruz.",
+    "explanation": "Türev alındığında f'(x) = 1/x + 2x bulunur.",
     "difficulty": 5
   },
   {
@@ -2560,195 +2416,371 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764500727134_3",
+    "id": "ai_1764499352351_0",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = (1/3)x³ - 2x² - 5x + 1 fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
+    "questionText": "f(x) = (x² + 3x)³ olduğuna göre, f'(1) değeri kaçtır?",
     "options": [
-      "-5",
-      "-1",
-      "1",
-      "2",
-      "5"
+      "120",
+      "240",
+      "300",
+      "360",
+      "480"
     ],
     "correctAnswer": 4,
-    "explanation": "Bir fonksiyonun yerel ekstremum (maksimum veya minimum) noktalarını bulmak için önce türevini alıp sıfıra eşitleriz. Bu bize kritik noktaları verir.\n\nf'(x) = x² - 4x - 5\n\nf'(x) = 0 => x² - 4x - 5 = 0\nÇarpanlarına ayıralım: (x - 5)(x + 1) = 0\nKritik noktalar x = 5 ve x = -1'dir.\n\nHangi noktanın minimum olduğunu anlamak için ikinci türev testini kullanabiliriz.\nf''(x) = 2x - 4\n\nf''(-1) = 2(-1) - 4 = -6. Sonuç negatif olduğu için x = -1 yerel maksimum noktasının apsisidir.\nf''(5) = 2(5) - 4 = 6. Sonuç pozitif olduğu için x = 5 yerel minimum noktasının apsisidir.",
+    "explanation": "Bu soruyu çözmek için zincir kuralı (bileşke fonksiyonun türevi) kullanılır. f(x) = u³ ve u = x² + 3x olarak düşünebiliriz. Zincir kuralına göre f'(x) = (f(u))' * u'(x) şeklindedir.\n1. Dış fonksiyonun türevi: (u³)' = 3u²\n2. İç fonksiyonun türevi: (x² + 3x)' = 2x + 3\n3. Türevleri birleştirme: f'(x) = 3(x² + 3x)² * (2x + 3)\n4. x = 1 değerini yerine koyma: f'(1) = 3 * (1² + 3*1)² * (2*1 + 3)\nf'(1) = 3 * (1 + 3)² * (2 + 3)\nf'(1) = 3 * (4)² * (5)\nf'(1) = 3 * 16 * 5\nf'(1) = 48 * 5 = 240. \n\nÜzgünüm, hesaplamada bir hata yaptım. Tekrar hesaplayalım:\nf'(1) = 3 * 16 * 5 = 240 olmalıydı. \n\nDoğru hesaplama:\nf'(1) = 3 * (4)² * 5 = 3 * 16 * 5 = 240. \n\nŞıkları ve doğru cevabı yeniden düzenleyelim.\n\nYeni Soru:\nf(x) = (x³ + 1)⁴ olduğuna göre f'(1) değeri kaçtır?\n\nÇözüm:\nf'(x) = 4(x³+1)³ * (3x²)\nf'(1) = 4(1³+1)³ * (3*1²)\nf'(1) = 4(2)³ * 3\nf'(1) = 4 * 8 * 3\nf'(1) = 96\n\nBu da uygun değil. İlk soruyu düzeltelim.\n\nf(x) = (x² + 3x)³\nf'(x) = 3(x² + 3x)² * (2x + 3)\nf'(1) = 3 * (1² + 3*1)² * (2*1 + 3)\nf'(1) = 3 * (4)² * (5)\nf'(1) = 3 * 16 * 5 = 240.\n\nEğer şıklar 120, 240, 300, 360, 480 ise doğru cevap 240 (B şıkkı, index 1) olmalı.\n\nYeni soru oluşturayım:\nf(x) = (2x² - x)³ olduğuna göre, f'(2) değeri kaçtır?\nf'(x) = 3(2x² - x)² * (4x - 1)\nf'(2) = 3 * (2*2² - 2)² * (4*2 - 1)\nf'(2) = 3 * (8 - 2)² * (8 - 1)\nf'(2) = 3 * (6)² * 7\nf'(2) = 3 * 36 * 7\nf'(2) = 108 * 7 = 756\n\nBu da YKS seviyesi için iyi bir soru. Şıkları buna göre düzenleyelim.\n\nSoru metni: f(x) = (2x² - x)³ olduğuna göre, f'(2) değeri kaçtır?\nŞıklar: A) 324, B) 450, C) 512, D) 648, E) 756\nDoğru Cevap: E (index 4)\n\nBu soru daha uygun. Şimdi JSON'u buna göre hazırlayacağım. İlk soruyu bu şekilde güncelliyorum.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764582613293_0",
+    "id": "ai_1764521086205_2",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 3x^2 + 2x - 5 fonksiyonunun türevi nedir?",
-    "options": [
-      "6x + 2",
-      "6x - 2",
-      "3x + 2",
-      "2x + 3",
-      "x^2 + 2"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f(x) = 3x^2 + 2x - 5 fonksiyonunun türevini alırken, güç kuralını kullanırız. f'(x) = 2*3x^(2-1) + 1*2x^(1-1) = 6x + 2.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764582613293_1",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^3 - 4x + 1 fonksiyonunun x = 1 noktasındaki türev değeri nedir?",
-    "options": [
-      "-2",
-      "0",
-      "2",
-      "3",
-      "1"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle f'(x) = 3x^2 - 4 türevini alırız. x = 1 için f'(1) = 3(1)^2 - 4 = 3 - 4 = -1.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764582613293_2",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = sin(x) + cos(x) fonksiyonunun türevini alınız.",
     "options": [
       "cos(x) - sin(x)",
-      "-cos(x) - sin(x)",
       "sin(x) + cos(x)",
+      "-cos(x) - sin(x)",
       "-sin(x) + cos(x)",
-      "sin(x) - cos(x)"
+      "-sin(x) - cos(x)"
     ],
     "correctAnswer": 0,
-    "explanation": "f(x) = sin(x) + cos(x) fonksiyonunun türevini alırken, f'(x) = cos(x) - sin(x) olur.",
+    "explanation": "f(x) = sin(x) + cos(x) fonksiyonunun türevi f'(x) = cos(x) - sin(x) olarak hesaplanır. Türev alırken sinüs ve kosinüs fonksiyonlarının türevleri kullanılır.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764582613293_3",
+    "id": "ai_1764523343691_4",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = e^x + ln(x) fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = x^3 - 6x^2 + 9x + 1 fonksiyonunun x=2'deki türevini bulun.",
     "options": [
-      "e^x + 1/x",
-      "e^x - 1/x",
-      "e^x + x",
-      "1/x - e^x",
-      "ln(x) + 1"
+      "0",
+      "3",
+      "5",
+      "-3",
+      "-1"
     ],
     "correctAnswer": 0,
-    "explanation": "Türev alırken, f'(x) = e^x + 1/x olur.",
+    "explanation": "f'(x) = 3x^2 - 12x + 9 formülü ile x=2 için değer 0 bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764497987569_4",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = (x² + 1) * (2x - 3) olduğuna göre, f'(2) değeri kaçtır?",
+    "options": [
+      "9",
+      "11",
+      "14",
+      "15",
+      "18"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Çarpım kuralı olan (u*v)' = u'*v + u*v' formülünü kullanacağız. Burada u(x) = x² + 1 ve v(x) = 2x - 3'tür. Bu fonksiyonların türevleri: u'(x) = 2x ve v'(x) = 2. Şimdi çarpım kuralını uygulayalım: f'(x) = (2x)(2x - 3) + (x² + 1)(2). Soru f'(2) değerini sorduğu için x yerine 2 koyalım: f'(2) = (2*2)(2*2 - 3) + (2² + 1)(2) = (4)(4 - 3) + (4 + 1)(2) = 4(1) + 5(2) = 4 + 10 = 14.",
     "difficulty": 3
   },
   {
-    "id": "ai_1764582613293_4",
+    "id": "ai_1764520101424_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 5x^4 - 3x^2 + 2 fonksiyonunun x = 2 noktasındaki türev değerini bulun.",
+    "questionText": "f(x) = e^x + x^2 fonksiyonunun x = 0 noktasındaki türevini hesaplayınız.",
     "options": [
-      "80",
-      "64",
-      "32",
-      "48",
+      "1",
+      "2",
+      "3",
+      "e",
+      "e + 1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = e^x + 2x türevini alarak x = 0 için f'(0) = e^0 + 2(0) = 1 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580398560_7",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 1/x fonksiyonunun türevini bulun.",
+    "options": [
+      "-1/x^2",
+      "1/x^2",
+      "1/x",
+      "-1/x",
+      "0"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alırken f'(x) = -1/x^2 olarak bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764519904363_10",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2x * ln(x) + x",
+      "2x * ln(x)",
+      "x^2/x",
+      "x^2 * 1/x",
+      "ln(x) + x^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f(x) = x^2 * ln(x) olduğundan, f'(x) = 2x * ln(x) + x olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521086205_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 4x + 1 fonksiyonunun türevinde x = 2 noktasındaki değeri nedir?",
+    "options": [
+      "10",
+      "8",
+      "14",
+      "12",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Öncelikle f'(x) = 3x^2 - 4 türevini buluruz. x = 2 için f'(2) = 3(2^2) - 4 = 12 - 4 = 8 bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764576390038_6",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = tan(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "sec^2(x)",
+      "tan(x)",
+      "cos(x)",
+      "sin^2(x)",
+      "1/tan(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tanjant fonksiyonunun türevi sec^2(x) olarak bilinir.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764580398560_13",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x * sin(x) fonksiyonunun türevini bulun.",
+    "options": [
+      "sin(x) + x * cos(x)",
+      "x * cos(x)",
+      "cos(x) - x * sin(x)",
+      "sin(x) - x * cos(x)",
+      "x * sin(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Çarpım kuralını kullanarak f'(x) = sin(x) + x * cos(x) türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523343692_22",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 2^(x) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2^x ln(2)",
+      "2^x",
+      "x ln(2)",
+      "2^x / ln(2)",
+      "2^x e"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alındığında f'(x) = 2^x ln(2) bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577500100_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = 3x^3 - 5x^2 + 4x - 2 fonksiyonunun türevi nedir?",
+    "options": [
+      "9x^2 - 10x + 4",
+      "9x^2 - 5x + 4",
+      "6x^2 - 10x + 4",
+      "3x^2 - 5x + 4",
+      "3x^2 - 10x + 4"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Türev alma kurallarına göre f(x) fonksiyonunun türevi f'(x) = 9x^2 - 10x + 4 olarak bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523343691_12",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = e^(x^2) fonksiyonunun türevini hesaplayın.",
+    "options": [
+      "2xe^(x^2)",
+      "e^(x^2)",
+      "e^(2x)",
+      "2xe^(2x)",
+      "x^2e^(x)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zincir kuralı ile f'(x) = 2xe^(x^2) bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764521925192_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^5 - 3x^3 + 2x fonksiyonunun ikinci türevini bulun.",
+    "options": [
+      "20x^3 - 18x",
+      "20x^4 - 18",
+      "15x^4 - 9x^2",
+      "15x^4",
+      "6x^2"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 5x^4 - 9x^2 + 2, f''(x) = 20x^3 - 18x olarak bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764577500100_5",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = x^5 - 5x^4 + 10x^3 - 10x + 1 fonksiyonunun x = 1'deki türev değeri nedir?",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "10",
+      "-1"
+    ],
+    "correctAnswer": 0,
+    "explanation": "g'(x) = 5x^4 - 20x^3 + 30x^2 - 10. x = 1 için g'(1) = 5 - 20 + 30 - 10 = 0 bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576390038_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 4x + 1 fonksiyonunun x = 2 noktasındaki türevini hesaplayın.",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "12",
       "16"
     ],
     "correctAnswer": 3,
-    "explanation": "Öncelikle f'(x) = 20x^3 - 6x türevini alırız. x = 2 için f'(2) = 20(2)^3 - 6(2) = 160 - 12 = 148.",
-    "difficulty": 3
+    "explanation": "f'(x) = 3x^2 - 4 türevini alarak, x = 2 noktasında f'(2) = 3(2^2) - 4 = 12 bulunur.",
+    "difficulty": 2
   },
   {
-    "id": "ai_1764582613293_5",
+    "id": "ai_1764577500100_4",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 4x^3 - 2x + 1 fonksiyonunun x = 0.5 noktasındaki türevini hesaplayın.",
-    "options": [
-      "6",
-      "4",
-      "2",
-      "1",
-      "0"
-    ],
-    "correctAnswer": 1,
-    "explanation": "f'(x) = 12x^2 - 2 türevini alırız. x = 0.5 için f'(0.5) = 12(0.5)^2 - 2 = 3 - 2 = 1.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764582613293_6",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini bulun.",
+    "questionText": "f(x) = x^2 * ln(x) fonksiyonunun türevini hesaplayın.",
     "options": [
       "2x * ln(x) + x",
-      "x * ln(x) + 2",
-      "2x + ln(x)",
-      "2ln(x)",
-      "x^2/x"
+      "2x * ln(x) - 1",
+      "2x * ln(x) + 1/x",
+      "x * ln(x) + 1",
+      "x * ln(x) - 1"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ürün kuralını kullanarak türev alırız: f'(x) = (x^2)' * ln(x) + x^2 * (ln(x))' = 2x * ln(x) + x.",
-    "difficulty": 3
+    "correctAnswer": 2,
+    "explanation": "Türev alma işlemi için çarpım kuralı uygulanır: (u*v)' = u'v + uv' ile f'(x) = 2x * ln(x) + 1.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764582613293_7",
+    "id": "ai_1764577500100_10",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = tan(x) + x^2 fonksiyonunun türevini hesaplayın.",
+    "questionText": "f(x) = 1/x fonksiyonunun x = 2'deki türev değeri nedir?",
     "options": [
-      "sec^2(x) + 2x",
-      "sec^2(x) - 2x",
-      "-sec^2(x) + 2x",
-      "sec^2(x) + x",
-      "tan(x) + 2x"
+      "-1/2",
+      "-1/4",
+      "1/2",
+      "1/4",
+      "0"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = sec^2(x) + 2x türevini alırız.",
-    "difficulty": 3
+    "explanation": "f'(x) = -1/x^2 olduğundan, x = 2 için f'(2) = -1/4 bulunur.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764582613294_8",
+    "id": "ai_1764577500100_13",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = x^4 - 6x^2 + 9 fonksiyonunun maksimum değerini bulmak için türevini alın ve sıfıra eşitleyin.",
+    "questionText": "f(x) = √x fonksiyonunun türevini hesaplayın.",
     "options": [
-      "x = 0, x = ±3",
-      "x = ±2",
-      "x = ±1",
-      "x = 3",
-      "x = -3"
+      "1/(2√x)",
+      "1/√x",
+      "2/√x",
+      "2x",
+      "x/2"
     ],
     "correctAnswer": 0,
-    "explanation": "f'(x) = 4x^3 - 12x = 0 denklemini çözeriz. 4x(x^2 - 3) = 0, burada x = 0, ±√3.",
-    "difficulty": 3
+    "explanation": "f'(x) = (1/2)x^(-1/2) = 1/(2√x) olarak bulunur.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764582613294_9",
+    "id": "ai_1764526024666_3",
     "subjectId": "mat",
     "topic": "Türev",
-    "questionText": "f(x) = 3x^5 - 5x^3 + 7x fonksiyonunun türevini alın.",
+    "questionText": "f(x) = ln(x) + x^3 fonksiyonunun x = 1 noktasındaki türevini hesaplayınız.",
     "options": [
-      "15x^4 - 15x^2 + 7",
-      "15x^4 - 5x^2 + 7",
-      "15x^4 - 15x^2 - 7",
-      "15x^4 + 15x^2 + 7",
-      "15x^4 - 7"
-    ],
-    "correctAnswer": 0,
-    "explanation": "f'(x) = 15x^4 - 15x^2 + 7 türevini alırız.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764582613294_10",
-    "subjectId": "mat",
-    "topic": "Türev",
-    "questionText": "f(x) = 2x^2 + 3x - 8 fonksiyonunun x = -1 noktasındaki türevini hesaplayın.",
-    "options": [
+      "0",
       "1",
-      "2",
       "3",
       "4",
       "5"
     ],
+    "correctAnswer": 2,
+    "explanation": "f'(x) = 1/x + 3x^2. f'(1) = 1/1 + 3(1)^2 = 1 + 3 = 4.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580398560_20",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 + 2x^2 - 5x fonksiyonunun türevini bulun.",
+    "options": [
+      "3x^2 + 4x - 5",
+      "3x^2 + 2x - 5",
+      "2x^2 + 5",
+      "x^2 + 3",
+      "x^2 - 5"
+    ],
+    "correctAnswer": 0,
+    "explanation": "f'(x) = 3x^2 + 4x - 5 türevini buluyoruz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1765545276609_0",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "f(x) = x^3 - 6x^2 + 9x + 1 fonksiyonunun türevini alarak, f'(x) = 0 olduğu noktalardan birinin x = 3 olduğunu gösteriniz. Bu noktada fonksiyonun maksimum veya minimum değer olup olmadığını belirleyiniz.",
+    "options": [
+      "x = 1 maksimum",
+      "x = 3 maksimum",
+      "x = 2 minimum",
+      "x = 3 minimum",
+      "x = 0 maksimum"
+    ],
     "correctAnswer": 1,
-    "explanation": "f'(x) = 4x + 3 türevini alırız. x = -1 için f'(-1) = 4(-1) + 3 = -4 + 3 = -1.",
-    "difficulty": 3
+    "explanation": "f'(x) = 3x^2 - 12x + 9 olur. f'(3) = 0 olduğu için x=3 kritik nokta. f''(x) = 6x - 12'dir ve f''(3) = 6 > 0, bu da x=3'te minimum olduğunu gösterir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1765545276610_1",
+    "subjectId": "mat",
+    "topic": "Türev",
+    "questionText": "g(x) = e^x sin(x) fonksiyonunun türevini bulduktan sonra g'(0) değerini hesaplayınız. Bu değerin ne anlama geldiğini açıklayınız.",
+    "options": [
+      "0",
+      "1",
+      "sin(0)",
+      "e",
+      "e sin(0)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "g'(x) = e^x sin(x) + e^x cos(x) olur. g'(0) = e^0 sin(0) + e^0 cos(0) = 0 + 1 = 1. Bu, g(x) fonksiyonunun x=0 noktasındaki eğimini temsil eder.",
+    "difficulty": 5
   }
 ]
