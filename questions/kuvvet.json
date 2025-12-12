@@ -1,261 +1,5 @@
 [
   {
-    "id": "ai_1764523835303_10",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan kuvvetler 10 N sağa ve 5 N sola ise, cisme etki eden net kuvvet nedir?",
-    "options": [
-      "5 N sağ",
-      "5 N sol",
-      "10 N sağ",
-      "15 N sağ",
-      "Sıfır"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet, sağa uygulanan kuvvetten sola uygulanan kuvvetin çıkarılmasıyla bulunur: 10 N - 5 N = 5 N sağ.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577918696_24",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 25 N'lik bir kuvvet uygulandığında eğer cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 25 N / 5 kg = 5 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_19",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 5 kg kütleye sahipse ve 15 N'lik bir kuvvetle itiliyorsa, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 15 N / 5 kg = 3 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_20",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 84 N kuvvet uygulanıyor ve kütlesi 21 kg ise, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 84 N / 21 kg = 4 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_13",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi etkileyen toplam kuvvet 25 N ise ve cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 25 N / 5 kg = 5 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_32",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 70 N kuvvet uygulanıyor ve kütlesi 14 kg ise, ivmesi nedir?",
-    "options": [
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²",
-      "8 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 70 N / 14 kg = 5 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_18",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 12 N'lik bir kuvvetle yukarı doğru çekiliyorsa ve 6 N'lik bir ağırlığı varsa, cismin ivmesi nedir?",
-    "options": [
-      "0 m/s²",
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet = 12 N - 6 N = 6 N. Kütle = ağırlık / g = 6 N / 9.8 m/s² ≈ 0.61 kg. İvme = 6 N / 0.61 kg ≈ 9.84 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764500964126_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme 18 N büyüklüğünde yatay bir kuvvet uygulandığında cisme etki eden sürtünme kuvvetinin büyüklüğü kaç N olur? (g = 10 m/s²)",
-    "options": [
-      "0",
-      "16",
-      "18",
-      "20",
-      "22"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Uygulanan kuvvet (F = 18 N), maksimum statik sürtünme kuvvetinden (20 N) küçüktür. Bu nedenle cisim hareket etmez. Cisim hareket etmediği için, cisme etki eden statik sürtünme kuvveti, uygulanan kuvvete eşit büyüklükte ve zıt yönde olur. Dolayısıyla sürtünme kuvveti 18 N'dur. Kinetik sürtünme katsayısı, cisim harekete geçtikten sonra kullanılacağı için bu soruda bir çeldiricidir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764575446128_8",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Dinamometre nedir?",
-    "options": [
-      "Kütle ölçen alet",
-      "Hız ölçen alet",
-      "Kuvvet ölçen alet",
-      "Enerji ölçen alet",
-      "Basınç ölçen alet"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Dinamometre, kuvvet ölçen bir alettir. Genellikle bir cismin ağırlığını ölçmek için kullanılır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764523835303_8",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden toplam kuvvet 0 N ise, cisim hangi durumda olabilir?",
-    "options": [
-      "Sabit hızda hareket ediyor",
-      "Durağan",
-      "Yavaşlıyor",
-      "Hızlanıyor",
-      "Sadece yukarıda hareket ediyor"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Toplam kuvvet sıfır olduğunda cisim sabit hızda hareket ediyor veya durağandır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575446128_5",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan kuvvetler toplamı 50 N ve cisim 10 kg ise, cisim ne kadar ivme kazanır?",
-    "options": [
-      "2 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "10 m/s²",
-      "20 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Newton'un ikinci yasasına göre a = F/m formülüne göre a = 50 N / 10 kg = 5 m/s².",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764576597706_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden net kuvvet 50 N ve cisim 5 kg ise, cismin ivmesi nedir?",
-    "options": [
-      "5 m/s²",
-      "10 m/s²",
-      "15 m/s²",
-      "20 m/s²",
-      "25 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Newton'un ikinci yasasına göre, F = m x a; a = F/m = 50 N / 5 kg = 10 m/s².",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764521092961_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 15 N'lik bir kuvvetle sürüklendiğinde, 3 m'lik bir mesafe katetmektedir. Kuvvetin yaptığı iş nedir?",
-    "options": [
-      "10 J",
-      "45 J",
-      "30 J",
-      "50 J",
-      "20 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yine iş, kuvvet ile mesafenin çarpımı ile bulunur: İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577918696_20",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden kuvvetler arasında hangi durumda cisim dengede kalır?",
-    "options": [
-      "Net kuvvet 0 N ise",
-      "Yalnızca bir kuvvet varsa",
-      "İvme varsa",
-      "Sadece kuvvet yoksa",
-      "Ağırlık kuvveti yoksa"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cismin dengede kalması için üzerine etki eden net kuvvetin 0 N olması gerekir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_12",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 12 N'lik bir kuvvetle 4 kg kütleye sahipse, cismin ivmesi kaçtır?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme = net kuvvet / kütle = 12 N / 4 kg = 3 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835303_13",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N kuvvetle yukarı kaldırıldığında, eğer yer çekimi ivmesi 10 m/s² ise, cisimdeki kütle nedir?",
-    "options": [
-      "1 kg",
-      "5 kg",
-      "10 kg",
-      "15 kg",
-      "20 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Yukarı kaldırma kuvveti yer çekimi kuvvetine eşit olmalıdır: 10 N = m * 10 m/s² ise m = 1 kg bulunur.",
-    "difficulty": 5
-  },
-  {
     "id": "ai_1764527476567_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
@@ -269,902 +13,6 @@
     ],
     "correctAnswer": 1,
     "explanation": "Newton'un 2. yasasına göre F = m * a formülünden m = F/a olarak bulunur. Burada F = 10 N ve a = 5 m/s². Dolayısıyla m = 10 N / 5 m/s² = 2 kg.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835303_3",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 5 N'luk bir kuvvetle sağa itildiğinde, eğer 3 N'luk bir kuvvetle sola itilirse, net kuvvet nedir?",
-    "options": [
-      "8 N sağ",
-      "2 N sağ",
-      "2 N sol",
-      "5 N sol",
-      "5 N sağ"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sağa uygulanan 5 N kuvvet ile sola uygulanan 3 N kuvvet karşılaştırıldığında, net kuvvet 5 N - 3 N = 2 N sağ yönündedir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476568_14",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 12 kg kütleye ve 60 N kuvvetle itiliyorsa, ivmesi nedir?",
-    "options": [
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
-    ],
-    "correctAnswer": 3,
-    "explanation": "a = F/m formülü ile a = 60 N / 12 kg = 5 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576597707_8",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Cisme etki eden 30 N'lik bir kuvvet, 10 kg'lık bir cismin ivmesini nasıl etkiler?",
-    "options": [
-      "0 m/s²",
-      "1 m/s²",
-      "3 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 3,
-    "explanation": "F = m x a formülünden, a = F/m = 30 N / 10 kg = 3 m/s².",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764523835304_24",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi 5 N kuvvetle sağa itmekteyiz. Eğer cisim 2 m/s² ivme alıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "1 kg",
-      "2.5 kg",
-      "5 kg",
-      "10 kg",
-      "20 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kütle m, F/a formülü ile: m = 5 N / 2 m/s² = 2.5 kg bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523835303_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan kuvvet, cismin hızını nasıl değiştirir?",
-    "options": [
-      "Yavaşlatır",
-      "Hızlandırır",
-      "Durdurur",
-      "Yavaşlatır veya hızlandırır",
-      "Hızını değiştirmez"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Uygulanan kuvvet, cismin hızını artırabilir, azaltabilir veya sabit tutabilir. Dolayısıyla kuvvet, cismin hızında değişiklik yapabilir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764577918696_7",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi 25 N'lik bir kuvvetle itiyorsunuz. Cisim 10 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "2.5 m/s²",
-      "3 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme = net kuvvet / kütle = 25 N / 10 kg = 2.5 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_23",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 45 N kuvvet uygulanıyor ve cismin kütlesi 15 kg ise, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 45 N / 15 kg = 3 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_13",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 40 N kuvvet uygulanıyor ve cisim 10 kg kütleye sahipse, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile a = 40 N / 10 kg = 4 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_8",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 80 N kuvvet uygulanıyor ve cismin kütlesi 20 kg ise, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 0,
-    "explanation": "a = F/m formülü ile ivmeyi buluruz. F = 80 N ve m = 20 kg. Dolayısıyla a = 80 N / 20 kg = 4 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835304_25",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 50 N kuvvet uygulanıyor ve bu cisim 5 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "5 kg",
-      "10 kg",
-      "15 kg",
-      "20 kg",
-      "25 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 50 N / 5 m/s² = 10 kg.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764579938821_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi 5 N kuvvetle 3 metre iten bir kişi, cisme uyguladığı kuvvetin yaptığı iş nedir?",
-    "options": [
-      "15 J",
-      "5 J",
-      "10 J",
-      "20 J",
-      "30 J"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İş, kuvvet ile yolun çarpımı ile hesaplanır. İş = Kuvvet x Mesafe formülü ile: İş = 5 N x 3 m = 15 J. Bu nedenle doğru cevap 15 J'dir.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476567_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 3 N'lik bir kuvvet ile sağa doğru itiliyor. Eğer cisim 3 m/s²'lik bir ivme kazanıyorsa, cismin kütlesi kaç kilogramdır?",
-    "options": [
-      "1 kg",
-      "2 kg",
-      "3 kg",
-      "4 kg",
-      "5 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "F = m * a formülünü kullanarak m = F/a olarak buluruz. Burada F = 3 N ve a = 3 m/s². Dolayısıyla m = 3 N / 3 m/s² = 1 kg.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_23",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N'lik bir kuvvetle yukarı çekiliyor ve 5 N'lik bir ağırlığı varsa, cismin ivmesi nedir?",
-    "options": [
-      "0 m/s²",
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Net kuvvet = 10 N - 5 N = 5 N. Kütle = ağırlık / g = 5 N / 9.8 m/s² ≈ 0.51 kg. İvme = 5 N / 0.51 kg ≈ 9.80 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476567_3",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim, 12 N kuvvet ile 2 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "4 kg",
-      "5 kg",
-      "6 kg",
-      "7 kg",
-      "8 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Newton'un 2. yasasına göre F = m * a formülünden m = F/a olarak hesaplanır. Burada F = 12 N ve a = 2 m/s². Dolayısıyla m = 12 N / 2 m/s² = 6 kg.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_9",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulanırken, cisim 2 kg kütleye sahipse, cismin ivmesi kaçtır?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İvme = net kuvvet / kütle = 10 N / 2 kg = 5 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476567_6",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 50 N kuvvetle itiliyor ve 10 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile ivmeyi buluruz. F = 50 N ve m = 10 kg. Dolayısıyla a = 50 N / 10 kg = 5 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835303_4",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 10 kg ve ivmesi 2 m/s² olduğuna göre, cisme etki eden net kuvvet nedir?",
-    "options": [
-      "5 N",
-      "10 N",
-      "20 N",
-      "15 N",
-      "25 N"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Newton'un ikinci yasasına göre, net kuvvet F=ma formülü ile hesaplanır: F = 10 kg * 2 m/s² = 20 N.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576597707_7",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 25 N kuvvet uygulanıyor ve cisim 5 m ilerliyorsa, yapılan iş nedir?",
-    "options": [
-      "100 J",
-      "125 J",
-      "150 J",
-      "175 J",
-      "200 J"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İş = Kuvvet x Mesafe = 25 N x 5 m = 125 J.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764498244238_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme yatay doğrultuda, büyüklüğü yavaş yavaş artırılan bir F kuvveti uygulanıyor. F kuvvetinin büyüklüğü 25 N olduğunda cisme etki eden net kuvvet kaç N olur? (g = 10 m/s²)",
-    "options": [
-      "0",
-      "5",
-      "9",
-      "16",
-      "20"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini ve kinetik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Kinetik sürtünme kuvveti (fk) = μk * N = 0,4 * 40 N = 16 N. Uygulanan kuvvet F = 25 N, maksimum statik sürtünme kuvveti olan 20 N'dan büyük olduğu için cisim harekete geçer. Cisim hareket halindeyken ona etki eden sürtünme kuvveti, kinetik sürtünme kuvvetidir (fk = 16 N). Newton'un ikinci hareket yasasına göre net kuvvet (Fnet), uygulanan kuvvet ile kinetik sürtünme kuvvetinin farkıdır: Fnet = F - fk = 25 N - 16 N = 9 N.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764527476568_12",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 25 N kuvvetle itiliyor, cismin kütlesi 5 kg. Cisim kaç m/s² ivme kazanır?",
-    "options": [
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile a = 25 N / 5 kg = 5 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_17",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 30 N'lik bir kuvvetle hareket ettiriliyor ve cisim 10 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 30 N / 10 kg = 3 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764575446128_3",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden kuvvetler dengeliyse, cisim nasıl bir hareket yapar?",
-    "options": [
-      "Hızlanır",
-      "Yavaşlar",
-      "Dönmeye başlar",
-      "Sabit kalır",
-      "Durur"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Dengeli kuvvetler cismi sabit bir durumda tutar, yani cisim sabit kalır.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764523835304_27",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 100 N'luk bir kuvvet uygulandığında ve cismin ivmesi 20 m/s² ise, cismin kütlesi nedir?",
-    "options": [
-      "2 kg",
-      "4 kg",
-      "5 kg",
-      "10 kg",
-      "15 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 100 N / 20 m/s² = 5 kg.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764499617668_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Yatay bir zemin üzerinde durmakta olan bir cisme, yatay doğrultuda büyüklüğü sıfırdan başlayarak düzgün şekilde artırılan bir F kuvveti uygulanıyor. Cisim harekete başlayana kadar geçen sürede cisme etki eden sürtünme kuvveti (fs) ve cisim sabit hızla hareket ederken etki eden sürtünme kuvveti (fk) için aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "fs sabittir; fk ise F kuvvetiyle birlikte artar.",
-      "fs, F kuvvetiyle birlikte artar; fk sabittir.",
-      "fs ve fk her zaman uygulanan F kuvvetine eşittir.",
-      "fs her zaman F kuvvetinden büyüktür; fk ise F kuvvetine eşittir.",
-      "fs ve fk daima sabittir ve birbirine eşittir."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bir cisim duruyorken cisme etki eden sürtünme kuvveti statik sürtünme kuvvetidir (fs). Statik sürtünme kuvvetinin büyüklüğü, cismi harekete zorlayan kuvvete eşittir ve bu kuvvetle birlikte artar. Ancak bu artışın bir maksimum değeri vardır (fs_max = μs * N). Cisim bu maksimum değer aşıldığında harekete başlar. Cisim harekete geçtikten sonra ise cisme etki eden sürtünme kuvveti kinetik sürtünme kuvvetidir (fk). Kinetik sürtünme kuvveti (fk = μk * N) genellikle statik sürtünmenin maksimum değerinden daha küçüktür ve cismin hızı (çok yüksek hızlar hariç) değişmediği sürece sabit bir değere sahiptir. Bu nedenle, cisim dururken fs, F ile birlikte artar; cisim hareket ederken fk ise sabit kalır. Doğru cevap B şıkkıdır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523835304_26",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim üzerine etki eden kuvvetler 15 N sağa ve 10 N sola ise, net kuvvet nedir?",
-    "options": [
-      "5 N sağ",
-      "5 N sol",
-      "10 N sağ",
-      "10 N sol",
-      "Sıfır"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet, 15 N - 10 N = 5 N sağ yönünde bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764521092961_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m'lik bir mesafe kat ediyor. Bu durumda cisme yapılan iş nedir?",
-    "options": [
-      "5 J",
-      "10 J",
-      "20 J",
-      "15 J",
-      "25 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İş, kuvvet ile mesafenin çarpımı ile hesaplanır: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764527476569_24",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 30 N kuvvet uygulanıyor ve kütlesi 10 kg ise, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile a = 30 N / 10 kg = 3 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764520178392_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan 10 N'lik bir kuvvet, cismi 5 m/s² ivme ile hızlandırıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "2 kg",
-      "5 kg",
-      "10 kg",
-      "15 kg",
-      "20 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kuvvet = Kütle x İvme formülünden yola çıkarak, Kütle = Kuvvet / İvme = 10 N / 5 m/s² = 2 kg bulunur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764577918696_11",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N'lik bir kuvvetle yukarı doğru çekildiğinde, 4 N'lik bir ağırlığı varsa, cismin ivmesi nedir?",
-    "options": [
-      "0 m/s²",
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet = 10 N - 4 N = 6 N. Kütle = ağırlık / g = 4 N / 9.8 m/s² ≈ 0.41 kg. İvme = 6 N / 0.41 kg ≈ 14.6 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576597707_6",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden 20 N'lik bir kuvvet, cismi 2 m hareket ettiriyorsa, iş nedir?",
-    "options": [
-      "20 J",
-      "30 J",
-      "40 J",
-      "50 J",
-      "60 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İş = Kuvvet x Mesafe = 20 N x 2 m = 40 J.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764523835304_22",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 15 N kuvvetle yukarı kaldırıldığında, eğer yer çekimi kuvveti 15 N ise, cisim ne yapar?",
-    "options": [
-      "Yukarıda kalır",
-      "Aşağı düşer",
-      "Sabit kalır",
-      "Hızlanır",
-      "Yavaşlar"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Uygulanan kuvvet yer çekimi kuvvetine eşit olduğundan, cisim sabit kalır.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476567_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 20 N kuvvet uygulanıyor ve cisim 4 m/s² ivme kazanıyor. Cismin kütlesi nedir?",
-    "options": [
-      "5 kg",
-      "10 kg",
-      "15 kg",
-      "20 kg",
-      "25 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Newton'un 2. yasasına göre F = m * a formülünden m = F/a olarak bulunur. Burada F = 20 N ve a = 4 m/s². Dolayısıyla m = 20 N / 4 m/s² = 5 kg.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_8",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden kuvvetler toplamı 0 N ise, cisim hakkında hangi yargı doğrudur?",
-    "options": [
-      "Hareket ediyor",
-      "Dengede",
-      "İvmesi var",
-      "Hareketsiz",
-      "Her ikisi de olabilir"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cisme etki eden kuvvetler toplamı 0 N olduğunda, cisim dengededir veya sabit hızla hareket ediyordur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_21",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N'lik bir kuvvetle sağa itiliyor ve 3 N'lik bir direnç kuvveti varsa, cismin net kuvveti nedir?",
-    "options": [
-      "7 N sağa",
-      "10 N sağa",
-      "3 N sola",
-      "0 N",
-      "3 N sağa"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet = itme kuvveti - direnç kuvveti = 10 N - 3 N = 7 N sağa.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835303_9",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Aynı yönde hareket eden 2 cism üzerine etki eden kuvvetlerin toplamı nedir?",
-    "options": [
-      "İki kuvvetin toplamı",
-      "İki kuvvetin farkı",
-      "Sıfır",
-      "Cisimlerin kütleleri",
-      "Yalnızca daha büyük olan kuvvet"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Aynı yönde hareket eden cisimlere etki eden kuvvetler toplanarak net kuvveti oluşturur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764575446128_7",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden 3 kuvvet aşağıdaki gibidir: 10 N sağ, 10 N sol ve 5 N yukarı. Net kuvvet nedir?",
-    "options": [
-      "0 N",
-      "5 N yukarı",
-      "5 N sağ",
-      "10 N yukarı",
-      "10 N sağ"
-    ],
-    "correctAnswer": 0,
-    "explanation": "10 N sağ ve 10 N sol kuvvetleri birbirini dengeler, sadece 5 N yukarı kuvvet kalır. Ancak net kuvvet 0 N olarak kabul edilir.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764575446128_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden net kuvvet 0 N ise, cisim hangi durumda olur?",
-    "options": [
-      "Hareketsiz",
-      "Sabit hızla hareket ediyor",
-      "Durdurulmuş",
-      "Yavaşlıyor",
-      "Hızlanıyor"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet sıfırsa, cisim ya hareketsizdir ya da sabit hızla hareket etmektedir. Bu durumda cisim sabit hızla hareket ediyor.",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764521092961_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 5 kg ve üzerine etki eden kuvvet 30 N'dir. Cisim hangi ivmeyi kazanır?",
-    "options": [
-      "3 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "2 m/s²",
-      "4 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Newton'un ikinci yasasına göre, F = m x a olduğundan, a = F/m = 30 N / 5 kg = 6 m/s².",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523835303_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismin üzerindeki net kuvvet sıfır ise cisim ne yapar?",
-    "options": [
-      "Hızlanır",
-      "Yavaşlar",
-      "Dönmeye başlar",
-      "Durağan kalır",
-      "Yavaşlar veya hızlanır"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Eğer cisme etki eden net kuvvet sıfırsa, cisim ya durağandır ya da sabit hızla hareket eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764498244238_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir asansörün tabanında bulunan baskülün üzerinde 60 kg kütleli bir kişi durmaktadır. Asansör yukarı yönde 2 m/s²'lik ivme ile hızlanırken baskülün gösterdiği değer kaç N olur? (g = 10 m/s²)",
-    "options": [
-      "120",
-      "480",
-      "600",
-      "720",
-      "800"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Baskül, üzerine uygulanan normal kuvveti (tepki kuvvetini) ölçer. Asansör yukarı yönde ivmelendiğinde, kişiye etki eden net kuvvet yukarı yönde olmalıdır. Newton'un ikinci hareket yasasına (F_net = m*a) göre, kişiye etki eden kuvvetleri yazalım. Yukarı yönde normal kuvvet (N) ve aşağı yönde ağırlık (G = m*g) vardır. Net kuvvet, F_net = N - G'dir. Bu durumda, N - G = m*a olur. N'i bulmak için denklemi düzenlersek: N = G + m*a = m*g + m*a = m*(g+a). Verilen değerleri yerine koyarsak: N = 60 kg * (10 m/s² + 2 m/s²) = 60 kg * 12 m/s² = 720 N. Dolayısıyla baskül 720 N değerini gösterir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764527476569_27",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 80 N kuvvet uygulanıyor ve kütlesi 20 kg ise, ivmesi nedir?",
-    "options": [
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile a = 80 N / 20 kg = 4 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576597707_9",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan kuvvet 40 N ve bu kuvvet cismi 4 m hareket ettiriyorsa, iş nedir?",
-    "options": [
-      "100 J",
-      "120 J",
-      "140 J",
-      "160 J",
-      "180 J"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İş = Kuvvet x Mesafe = 40 N x 4 m = 160 J.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764527476567_4",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 30 N kuvvet uygulanıyor ve cisim 10 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "1 kg",
-      "2 kg",
-      "3 kg",
-      "4 kg",
-      "5 kg"
-    ],
-    "correctAnswer": 1,
-    "explanation": "F = m * a formülünden m = F/a olarak bulunur. Burada F = 30 N ve a = 10 m/s². Dolayısıyla m = 30 N / 10 m/s² = 3 kg.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_37",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 100 N kuvvet uygulanıyor ve kütlesi 50 kg ise, ivmesi nedir?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 100 N / 50 kg = 2 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_28",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 90 N kuvvet uygulanıyor ve kütlesi 30 kg ise, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 90 N / 30 kg = 3 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_36",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 75 N kuvvet uygulanıyor ve kütlesi 25 kg ise, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 3,
-    "explanation": "a = F/m formülü ile a = 75 N / 25 kg = 3 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_29",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 45 N kuvvet ile itiliyorsa ve kütlesi 9 kg ise, ivmesi ne olur?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 45 N / 9 kg = 5 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835303_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Newton'un ikinci yasası, hangi ifadeyi içerir?",
-    "options": [
-      "F=m*g",
-      "F=ma",
-      "F=mv",
-      "F=ma²",
-      "F=mg²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Newton'un ikinci yasası, net kuvvetin cisme uygulanan kütle ile ivme çarpımına eşit olduğunu belirtir: F=ma.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500964126_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Yatay bir yolda hareket eden bir araba aniden fren yaptığında, sürücünün öne doğru savrulması olayı Newton'un hareket yasalarından hangisi ile en iyi açıklanır?",
-    "options": [
-      "Etki-Tepki Prensibi (III. Yasa)",
-      "Eylemsizlik Prensibi (I. Yasa)",
-      "Dinamik Prensibi (II. Yasa)",
-      "Kütle Çekim Yasası",
-      "Enerjinin Korunumu Yasası"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Newton'un birinci hareket yasası olan Eylemsizlik Prensibi, bir cisme etki eden net kuvvet sıfır ise cismin hareket durumunu (durgunsa durgunluğunu, hareketliyse sabit hızlı hareketini) koruyacağını belirtir. Araba fren yaptığında, araba ve koltuk yavaşlar, ancak sürücünün vücudu eylemsizlik nedeniyle o anki hareket durumunu, yani ileriye doğru olan hızını koruma eğilimindedir. Bu nedenle, araba yavaşlarken sürücü öne doğru savrulur. Bu durum doğrudan eylemsizlik prensibi ile açıklanır.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523835304_23",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 30 N kuvvet uygulandığında ve cisim 3 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "5 kg",
-      "8 kg",
-      "10 kg",
-      "12 kg",
-      "15 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 30 N / 3 m/s² = 10 kg.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764500964126_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Kütlesi m olan bir cisim, yatay düzlemle 37° açı yapan sürtünmesiz bir eğik düzlem üzerinde serbest bırakılıyor. Cismin ivmesinin büyüklüğü kaç m/s² olur? (g = 10 m/s²; sin37° = 0,6; cos37° = 0,8)",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "8",
-      "10"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Newton'un ikinci hareket yasası F_net = m * a'dır. Sürtünmesiz eğik düzlemde cismi hareket ettiren net kuvvet, ağırlığın eğik düzleme paralel olan bileşenidir. Ağırlık G = m * g'dir. Ağırlığın eğik düzleme paralel bileşeni G_paralel = G * sin(37°) = m * g * sin(37°)'dir. Bu kuvvet net kuvvete eşittir. F_net = m * g * sin(37°). Şimdi Newton'un ikinci yasasını yazalım: m * a = m * g * sin(37°). Eşitliğin her iki tarafındaki 'm' kütleleri sadeleşir. a = g * sin(37°). Verilen değerleri yerine koyarsak: a = 10 m/s² * 0,6 = 6 m/s². Cismin ivmesi 6 m/s²'dir.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523835303_19",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Eğer bir cisme 40 N kuvvet uygulanıyorsa ve bu cisim 8 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "2.5 kg",
-      "3 kg",
-      "5 kg",
-      "7.5 kg",
-      "10 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 40 N / 8 m/s² = 5 kg.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476567_7",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 60 N kuvvet uygulanıyor ve cisim 15 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "3 kg",
-      "4 kg",
-      "5 kg",
-      "6 kg",
-      "7 kg"
-    ],
-    "correctAnswer": 0,
-    "explanation": "m = F/a formülüne göre m = 60 N / 15 m/s² = 4 kg bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_34",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan 16 N kuvvet, 4 kg kütleli bir cismin ivmesini ne olur?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 0,
-    "explanation": "a = F/m formülü ile a = 16 N / 4 kg = 4 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_18",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 72 N kuvvet uygulanıyor ve cisim 12 kg kütleye sahipse, ivmesi nedir?",
-    "options": [
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²",
-      "8 m/s²",
-      "9 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 72 N / 12 kg = 6 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N'lik bir kuvvetle sağa doğru itilmekte ve 5 N'lik bir direnç kuvveti sola etki ediyorsa, cismin net kuvveti nedir?",
-    "options": [
-      "5 N sağa",
-      "5 N sola",
-      "10 N sağa",
-      "15 N sağa",
-      "0 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet, itme kuvveti ile direnç kuvveti arasındaki farktır. 10 N - 5 N = 5 N sağa.",
     "difficulty": 4
   },
   {
@@ -1184,10 +32,202 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764527476569_33",
+    "id": "ai_1764527476568_17",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 24 N kuvvet uygulanıyor ve kütlesi 8 kg ise, ivmesi nedir?",
+    "questionText": "Cismin kütlesi 25 kg ve üzerine 100 N kuvvet uygulanıyorsa, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "a = F/m formülü ile a = 100 N / 25 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793960_18",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N'lik kuvvetle sağa doğru itiliyor ve 3 N'lik bir kuvvetle sola doğru çekiliyorsa, net kuvvet nedir?",
+    "options": [
+      "7 N sağa",
+      "7 N sola",
+      "10 N sağa",
+      "10 N sola",
+      "0 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet = 10 N (sağa) - 3 N (sola) = 7 N sağa.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835304_23",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 30 N kuvvet uygulandığında ve cisim 3 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "5 kg",
+      "8 kg",
+      "10 kg",
+      "12 kg",
+      "15 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 30 N / 3 m/s² = 10 kg.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Newton'un ikinci yasası, hangi ifadeyi içerir?",
+    "options": [
+      "F=m*g",
+      "F=ma",
+      "F=mv",
+      "F=ma²",
+      "F=mg²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton'un ikinci yasası, net kuvvetin cisme uygulanan kütle ile ivme çarpımına eşit olduğunu belirtir: F=ma.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476569_28",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 90 N kuvvet uygulanıyor ve kütlesi 30 kg ise, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 90 N / 30 kg = 3 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764521092961_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 5 kg ve üzerine etki eden kuvvet 30 N'dir. Cisim hangi ivmeyi kazanır?",
+    "options": [
+      "3 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "2 m/s²",
+      "4 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Newton'un ikinci yasasına göre, F = m x a olduğundan, a = F/m = 30 N / 5 kg = 6 m/s².",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527476568_21",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N kuvvet ile itiliyorsa ve kütlesi 5 kg ise, ivmesi ne olur?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 10 N / 5 kg = 2 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764499617668_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Yatay bir zemin üzerinde durmakta olan bir cisme, yatay doğrultuda büyüklüğü sıfırdan başlayarak düzgün şekilde artırılan bir F kuvveti uygulanıyor. Cisim harekete başlayana kadar geçen sürede cisme etki eden sürtünme kuvveti (fs) ve cisim sabit hızla hareket ederken etki eden sürtünme kuvveti (fk) için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "fs sabittir; fk ise F kuvvetiyle birlikte artar.",
+      "fs, F kuvvetiyle birlikte artar; fk sabittir.",
+      "fs ve fk her zaman uygulanan F kuvvetine eşittir.",
+      "fs her zaman F kuvvetinden büyüktür; fk ise F kuvvetine eşittir.",
+      "fs ve fk daima sabittir ve birbirine eşittir."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bir cisim duruyorken cisme etki eden sürtünme kuvveti statik sürtünme kuvvetidir (fs). Statik sürtünme kuvvetinin büyüklüğü, cismi harekete zorlayan kuvvete eşittir ve bu kuvvetle birlikte artar. Ancak bu artışın bir maksimum değeri vardır (fs_max = μs * N). Cisim bu maksimum değer aşıldığında harekete başlar. Cisim harekete geçtikten sonra ise cisme etki eden sürtünme kuvveti kinetik sürtünme kuvvetidir (fk). Kinetik sürtünme kuvveti (fk = μk * N) genellikle statik sürtünmenin maksimum değerinden daha küçüktür ve cismin hızı (çok yüksek hızlar hariç) değişmediği sürece sabit bir değere sahiptir. Bu nedenle, cisim dururken fs, F ile birlikte artar; cisim hareket ederken fk ise sabit kalır. Doğru cevap B şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764575446128_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Aşağıdakilerden hangisi bir kuvvet birimi değildir?",
+    "options": [
+      "Newton",
+      "Düzen",
+      "Kilogram",
+      "Dinamometre",
+      "Pound"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Düzen, kuvvet birimi değildir. Newton ve pound kuvvet birimidir, kilogram ise kütle birimidir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764527476569_30",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 36 N kuvvet uygulanıyor ve kütlesi 9 kg ise, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 36 N / 9 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476567_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 20 N kuvvet uygulanıyor ve cisim 4 m/s² ivme kazanıyor. Cismin kütlesi nedir?",
+    "options": [
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg",
+      "25 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton'un 2. yasasına göre F = m * a formülünden m = F/a olarak bulunur. Burada F = 20 N ve a = 4 m/s². Dolayısıyla m = 20 N / 4 m/s² = 5 kg.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577918696_16",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 20 N'lik bir kuvvetle itildiğinde, cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "8 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme = net kuvvet / kütle = 20 N / 5 kg = 4 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577918696_19",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 5 kg kütleye sahipse ve 15 N'lik bir kuvvetle itiliyorsa, cismin ivmesi nedir?",
     "options": [
       "2 m/s²",
       "3 m/s²",
@@ -1196,23 +236,647 @@
       "6 m/s²"
     ],
     "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile a = 24 N / 8 kg = 3 m/s² bulunur.",
+    "explanation": "İvme = net kuvvet / kütle = 15 N / 5 kg = 3 m/s².",
     "difficulty": 4
   },
   {
-    "id": "ai_1764575446128_6",
+    "id": "ai_1764580793959_9",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim x yönünde 30 N kuvvetle itiliyorsa, bu cisme etki eden kuvvetin yönü nedir?",
+    "questionText": "Bir cisim 5 N'lik kuvvetle sağa doğru itiliyor. Eğer cisim 2 kg ise, sağa doğru ivmesi nedir?",
     "options": [
-      "Yukarı",
-      "Aşağı",
-      "Sağa",
-      "Sola",
-      "X yönünde"
+      "2.5 m/s²",
+      "5 m/s²",
+      "20 m/s²",
+      "10 m/s²",
+      "15 m/s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İvme a = F/m = 5 N / 2 kg = 2.5 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_5",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden kuvvetler arasındaki denge durumunu belirlemek için hangi maddeyi kullanmalıyız?",
+    "options": [
+      "Fiziksel model",
+      "Serbest cisim diyagramı",
+      "Kütle merkezi",
+      "İvme hesaplaması",
+      "Newton yasaları"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Serbest cisim diyagramı, bir cisme etki eden tüm kuvvetlerin gösterildiği bir diyagramdır ve denge durumunu belirlemek için kullanılır.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835303_17",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Özgül ağırlığı 10 N/kg olan bir cisim, yer çekimi alanında ne kadar kuvvetle etkilenir?",
+    "options": [
+      "10 N",
+      "20 N",
+      "50 N",
+      "100 N",
+      "200 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cismin ağırlığı ağırlık = özgül ağırlık * kütle formülü ile hesaplanır. Özgül ağırlık 10 N/kg ise, 10 N/kilogram * 1 kg = 10 N.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476568_18",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 72 N kuvvet uygulanıyor ve cisim 12 kg kütleye sahipse, ivmesi nedir?",
+    "options": [
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²",
+      "8 m/s²",
+      "9 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 72 N / 12 kg = 6 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764576597706_3",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Aynı yönde hareket eden 2 kuvvet (10 N ve 15 N) cisme uygulanırsa, net kuvvet nedir?",
+    "options": [
+      "5 N",
+      "10 N",
+      "15 N",
+      "25 N",
+      "30 N"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aynı yönde hareket eden kuvvetler toplandığı için net kuvvet 10 N + 15 N = 25 N olur.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764577918696_25",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden kuvvetler toplamı 15 N ve cisim 3 kg kütleye sahipse, cismin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme = net kuvvet / kütle = 15 N / 3 kg = 5 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835303_4",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 10 kg ve ivmesi 2 m/s² olduğuna göre, cisme etki eden net kuvvet nedir?",
+    "options": [
+      "5 N",
+      "10 N",
+      "20 N",
+      "15 N",
+      "25 N"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Newton'un ikinci yasasına göre, net kuvvet F=ma formülü ile hesaplanır: F = 10 kg * 2 m/s² = 20 N.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764579938821_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 5 N kuvvetle 3 metre iten bir kişi, cisme uyguladığı kuvvetin yaptığı iş nedir?",
+    "options": [
+      "15 J",
+      "5 J",
+      "10 J",
+      "20 J",
+      "30 J"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İş, kuvvet ile yolun çarpımı ile hesaplanır. İş = Kuvvet x Mesafe formülü ile: İş = 5 N x 3 m = 15 J. Bu nedenle doğru cevap 15 J'dir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793960_24",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 4 kg'dır ve 12 N'lik bir kuvvet uygulanıyorsa, bu cisim hangi ivmeyi kazanır?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme a = F/m = 12 N / 4 kg = 3 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476569_31",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 50 N kuvvet uygulanıyor ve kütlesi 10 kg ise, ivmesi nedir?",
+    "options": [
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²",
+      "8 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 50 N / 10 kg = 5 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793959_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden net kuvvet 0 N olduğunda, cismin hareket durumu hakkında ne söylenebilir?",
+    "options": [
+      "Cisim durur",
+      "Cisim sabit hızla hareket eder",
+      "Cisim hızlanır",
+      "Cisim yavaşlar",
+      "Cisim yön değiştirir"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net kuvvet 0 N olduğunda, cisim ya durur ya da sabit hızla hareket eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500964126_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Kütlesi m olan bir cisim, yatay düzlemle 37° açı yapan sürtünmesiz bir eğik düzlem üzerinde serbest bırakılıyor. Cismin ivmesinin büyüklüğü kaç m/s² olur? (g = 10 m/s²; sin37° = 0,6; cos37° = 0,8)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Newton'un ikinci hareket yasası F_net = m * a'dır. Sürtünmesiz eğik düzlemde cismi hareket ettiren net kuvvet, ağırlığın eğik düzleme paralel olan bileşenidir. Ağırlık G = m * g'dir. Ağırlığın eğik düzleme paralel bileşeni G_paralel = G * sin(37°) = m * g * sin(37°)'dir. Bu kuvvet net kuvvete eşittir. F_net = m * g * sin(37°). Şimdi Newton'un ikinci yasasını yazalım: m * a = m * g * sin(37°). Eşitliğin her iki tarafındaki 'm' kütleleri sadeleşir. a = g * sin(37°). Verilen değerleri yerine koyarsak: a = 10 m/s² * 0,6 = 6 m/s². Cismin ivmesi 6 m/s²'dir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527476568_15",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Cismin kütlesi 11 kg ve üzerine 22 N kuvvet uygulanıyorsa, cismin ivmesi nedir?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 22 N / 11 kg = 2 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835303_11",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Cismin kütlesi 4 kg ve ivmesi 3 m/s² olduğuna göre, cisme etki eden kuvvet nedir?",
+    "options": [
+      "4 N",
+      "7 N",
+      "10 N",
+      "12 N",
+      "15 N"
+    ],
+    "correctAnswer": 3,
+    "explanation": "F = m*a formülü ile hesaplayarak: F = 4 kg * 3 m/s² = 12 N bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793960_22",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 10 kg ve üzerinde 50 N'lik bir kuvvet varsa, cismin ivmesi ne kadardır?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 3,
+    "explanation": "İvme a = F/m = 50 N / 10 kg = 5 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576597707_6",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden 20 N'lik bir kuvvet, cismi 2 m hareket ettiriyorsa, iş nedir?",
+    "options": [
+      "20 J",
+      "30 J",
+      "40 J",
+      "50 J",
+      "60 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İş = Kuvvet x Mesafe = 20 N x 2 m = 40 J.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764580793959_12",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 15 N'lik bir kuvvet etki ediyorsa ve cisim 3 kg ise, cisme etki eden ivme nedir?",
+    "options": [
+      "1 m/s²",
+      "3 m/s²",
+      "5 m/s²",
+      "15 m/s²",
+      "0.5 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme a = F/m = 15 N / 3 kg = 5 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_8",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden toplam kuvvet 0 N ise, cisim hangi durumda olabilir?",
+    "options": [
+      "Sabit hızda hareket ediyor",
+      "Durağan",
+      "Yavaşlıyor",
+      "Hızlanıyor",
+      "Sadece yukarıda hareket ediyor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Toplam kuvvet sıfır olduğunda cisim sabit hızda hareket ediyor veya durağandır.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_12",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 20 N kuvvet uygulandığında, ivmesi 4 m/s² oluyor. Cismin kütlesi nedir?",
+    "options": [
+      "4 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cismin kütlesi F = ma formülünden bulunur: m = F/a = 20 N / 4 m/s² = 5 kg.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_8",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden kuvvetler toplamı 0 N ise, cisim hakkında hangi yargı doğrudur?",
+    "options": [
+      "Hareket ediyor",
+      "Dengede",
+      "İvmesi var",
+      "Hareketsiz",
+      "Her ikisi de olabilir"
     ],
     "correctAnswer": 4,
-    "explanation": "Cismin x yönünde itildiği belirtilmiş, bu nedenle kuvvetin yönü x yönündedir.",
+    "explanation": "Cisme etki eden kuvvetler toplamı 0 N olduğunda, cisim dengededir veya sabit hızla hareket ediyordur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476568_8",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 80 N kuvvet uygulanıyor ve cismin kütlesi 20 kg ise, cismin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "a = F/m formülü ile ivmeyi buluruz. F = 80 N ve m = 20 kg. Dolayısıyla a = 80 N / 20 kg = 4 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476567_5",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 8 kg ve üzerine 32 N kuvvet uygulanıyorsa, cismin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "F = m * a formülünden a = F/m olarak hesaplanır. Burada F = 32 N ve m = 8 kg. Dolayısıyla a = 32 N / 8 kg = 4 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575446128_8",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Dinamometre nedir?",
+    "options": [
+      "Kütle ölçen alet",
+      "Hız ölçen alet",
+      "Kuvvet ölçen alet",
+      "Enerji ölçen alet",
+      "Basınç ölçen alet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dinamometre, kuvvet ölçen bir alettir. Genellikle bir cismin ağırlığını ölçmek için kullanılır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764576597706_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 3 N'lik bir kuvvetle 4 m iten bir kişi, ne kadar iş yapar?",
+    "options": [
+      "6 J",
+      "10 J",
+      "12 J",
+      "15 J",
+      "18 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İş = Kuvvet x Mesafe = 3 N x 4 m = 12 J.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764527476569_26",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 60 N kuvvetle itiyorsanız ve kütlesi 15 kg ise, ivmesi nedir?",
+    "options": [
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "a = F/m formülü ile a = 60 N / 15 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835303_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin üzerindeki net kuvvet sıfır ise cisim ne yapar?",
+    "options": [
+      "Hızlanır",
+      "Yavaşlar",
+      "Dönmeye başlar",
+      "Durağan kalır",
+      "Yavaşlar veya hızlanır"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Eğer cisme etki eden net kuvvet sıfırsa, cisim ya durağandır ya da sabit hızla hareket eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_6",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan kuvvetler dengelendiğinde, cisim ne yapar?",
+    "options": [
+      "Hızlanır",
+      "Dönmeye başlar",
+      "Durağan kalır",
+      "Yavaşlar",
+      "Hızını artırır"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dengelenmiş kuvvetler, cismin hareket durumunu değiştirmez, dolayısıyla cisim durağan kalır veya sabit hızla hareket eder.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476567_7",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 60 N kuvvet uygulanıyor ve cisim 15 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "3 kg",
+      "4 kg",
+      "5 kg",
+      "6 kg",
+      "7 kg"
+    ],
+    "correctAnswer": 0,
+    "explanation": "m = F/a formülüne göre m = 60 N / 15 m/s² = 4 kg bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577918696_22",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 40 N'lik bir kuvvetle hareket ettiriliyor ve cisim 8 kg kütleye sahipse, cismin ivmesi kaçtır?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme = net kuvvet / kütle = 40 N / 8 kg = 5 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476568_14",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 12 kg kütleye ve 60 N kuvvetle itiliyorsa, ivmesi nedir?",
+    "options": [
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²"
+    ],
+    "correctAnswer": 3,
+    "explanation": "a = F/m formülü ile a = 60 N / 12 kg = 5 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764498244238_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir asansörün tabanında bulunan baskülün üzerinde 60 kg kütleli bir kişi durmaktadır. Asansör yukarı yönde 2 m/s²'lik ivme ile hızlanırken baskülün gösterdiği değer kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "120",
+      "480",
+      "600",
+      "720",
+      "800"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Baskül, üzerine uygulanan normal kuvveti (tepki kuvvetini) ölçer. Asansör yukarı yönde ivmelendiğinde, kişiye etki eden net kuvvet yukarı yönde olmalıdır. Newton'un ikinci hareket yasasına (F_net = m*a) göre, kişiye etki eden kuvvetleri yazalım. Yukarı yönde normal kuvvet (N) ve aşağı yönde ağırlık (G = m*g) vardır. Net kuvvet, F_net = N - G'dir. Bu durumda, N - G = m*a olur. N'i bulmak için denklemi düzenlersek: N = G + m*a = m*g + m*a = m*(g+a). Verilen değerleri yerine koyarsak: N = 60 kg * (10 m/s² + 2 m/s²) = 60 kg * 12 m/s² = 720 N. Dolayısıyla baskül 720 N değerini gösterir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764576597707_5",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 15 N kuvvet ile çeken bir kişi, cismi 3 m hareket ettirirse ne kadar iş yapar?",
+    "options": [
+      "30 J",
+      "45 J",
+      "60 J",
+      "75 J",
+      "90 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764580793960_21",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 18 N'lik bir kuvvetle 6 kg'lık bir cisim üzerinde ivme kazanıyorsa, ivme ne kadardır?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme a = F/m = 18 N / 6 kg = 3 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_18",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 4 N kuvvetle sağa itiyorsak ve 6 N kuvvetle sola itiyorsak, net kuvvet nedir?",
+    "options": [
+      "2 N sağ",
+      "2 N sol",
+      "10 N sağ",
+      "10 N sol",
+      "Sıfır"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net kuvvet, sağa itme kuvvetinden sola itme kuvvetinin çıkarılmasıyla bulunur: 4 N - 6 N = 2 N sol.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576597707_8",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Cisme etki eden 30 N'lik bir kuvvet, 10 kg'lık bir cismin ivmesini nasıl etkiler?",
+    "options": [
+      "0 m/s²",
+      "1 m/s²",
+      "3 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 3,
+    "explanation": "F = m x a formülünden, a = F/m = 30 N / 10 kg = 3 m/s².",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764576597707_9",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan kuvvet 40 N ve bu kuvvet cismi 4 m hareket ettiriyorsa, iş nedir?",
+    "options": [
+      "100 J",
+      "120 J",
+      "140 J",
+      "160 J",
+      "180 J"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İş = Kuvvet x Mesafe = 40 N x 4 m = 160 J.",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764523835303_20",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden kuvvet 12 N ve kütlesi 3 kg ise, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme a, F/m formülü ile hesaplanır: a = 12 N / 3 kg = 4 m/s².",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476568_13",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 40 N kuvvet uygulanıyor ve cisim 10 kg kütleye sahipse, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "a = F/m formülü ile a = 40 N / 10 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793960_16",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 8 N'lik kuvvetle 2 kg'lık bir cisim üzerinde ivme kazanıyorsa, ivme ne kadardır?",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "10 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme a = F/m = 8 N / 2 kg = 4 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575446128_7",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden 3 kuvvet aşağıdaki gibidir: 10 N sağ, 10 N sol ve 5 N yukarı. Net kuvvet nedir?",
+    "options": [
+      "0 N",
+      "5 N yukarı",
+      "5 N sağ",
+      "10 N yukarı",
+      "10 N sağ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "10 N sağ ve 10 N sol kuvvetleri birbirini dengeler, sadece 5 N yukarı kuvvet kalır. Ancak net kuvvet 0 N olarak kabul edilir.",
     "difficulty": 1
   },
   {
@@ -1232,10 +896,26 @@
     "difficulty": 1
   },
   {
-    "id": "ai_1764527476568_9",
+    "id": "ai_1764577918696_15",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 7 kg kütleye ve 21 N kuvvete sahip. Cisim üzerinde uygulanan kuvvetin ivmesi nedir?",
+    "questionText": "Bir cisim 6 N'lik kuvvetle itilirken, 4 N'lik bir direnç kuvveti varsa, cismin net kuvveti nedir?",
+    "options": [
+      "0 N",
+      "2 N",
+      "4 N",
+      "6 N",
+      "10 N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net kuvvet = itme kuvveti - direnç kuvveti = 6 N - 4 N = 2 N.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577918696_12",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 12 N'lik bir kuvvetle 4 kg kütleye sahipse, cismin ivmesi kaçtır?",
     "options": [
       "2 m/s²",
       "3 m/s²",
@@ -1244,110 +924,126 @@
       "6 m/s²"
     ],
     "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile ivmeyi buluruz. F = 21 N ve m = 7 kg. Dolayısıyla a = 21 N / 7 kg = 3 m/s².",
+    "explanation": "İvme = net kuvvet / kütle = 12 N / 4 kg = 3 m/s².",
     "difficulty": 4
   },
   {
-    "id": "ai_1764577918696_5",
+    "id": "ai_1764577918696_21",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden kuvvetler arasındaki denge durumunu belirlemek için hangi maddeyi kullanmalıyız?",
+    "questionText": "Bir cisim 10 N'lik bir kuvvetle sağa itiliyor ve 3 N'lik bir direnç kuvveti varsa, cismin net kuvveti nedir?",
     "options": [
-      "Fiziksel model",
-      "Serbest cisim diyagramı",
-      "Kütle merkezi",
-      "İvme hesaplaması",
-      "Newton yasaları"
+      "7 N sağa",
+      "10 N sağa",
+      "3 N sola",
+      "0 N",
+      "3 N sağa"
     ],
-    "correctAnswer": 1,
-    "explanation": "Serbest cisim diyagramı, bir cisme etki eden tüm kuvvetlerin gösterildiği bir diyagramdır ve denge durumunu belirlemek için kullanılır.",
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet = itme kuvveti - direnç kuvveti = 10 N - 3 N = 7 N sağa.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764575446128_4",
+    "id": "ai_1764523835303_16",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Yer çekimi kuvveti, cisimlerin kütlelerine ve aralarındaki mesafeye bağlı olarak nasıl değişir?",
+    "questionText": "Bir cisme 50 N kuvvet uygulandığında, eğer bu cisim 10 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
     "options": [
-      "Kütle ile ters orantılı",
-      "Mesafe ile doğru orantılı",
-      "Mesafe ile ters orantılı",
-      "Kütle ile doğru orantılı",
-      "Hiçbiri"
+      "2 kg",
+      "4 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg"
     ],
-    "correctAnswer": 3,
-    "explanation": "Yer çekimi kuvveti, cisimlerin kütlesi ile doğru orantılı, mesafe ile ise ters orantılıdır.",
-    "difficulty": 1
+    "correctAnswer": 2,
+    "explanation": "Kütle m = F/a formülü kullanılarak hesaplanır: m = 50 N / 10 m/s² = 5 kg.",
+    "difficulty": 5
   },
   {
-    "id": "ai_1764577918696_16",
+    "id": "ai_1764521092961_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 20 N'lik bir kuvvetle itildiğinde, cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
+    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m'lik bir mesafe kat ediyor. Bu durumda cisme yapılan iş nedir?",
+    "options": [
+      "5 J",
+      "10 J",
+      "20 J",
+      "15 J",
+      "25 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İş, kuvvet ile mesafenin çarpımı ile hesaplanır: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764527476569_23",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 45 N kuvvet uygulanıyor ve cismin kütlesi 15 kg ise, ivmesi nedir?",
     "options": [
       "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 45 N / 15 kg = 3 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793960_17",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 12 N'lik bir kuvvet ile yukarı çekildiğinde, cisim 3 kg ise, cisimdeki ivme ne olur?",
+    "options": [
+      "0 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ağırlık = m*g = 3 kg * 9.8 m/s² = 29.4 N. Net kuvvet: 12 N - 29.4 N < 0 olduğu için ivme hesaplanamaz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793959_5",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 4 N'lik kuvvet ile itiyoruz ve sürtünme kuvveti 1 N. Cisme etki eden net kuvvet nedir?",
+    "options": [
+      "3 N",
+      "4 N",
+      "1 N",
+      "5 N",
+      "0 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet = Uygulanan kuvvet - Sürtünme kuvveti = 4 N - 1 N = 3 N.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476569_32",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 70 N kuvvet uygulanıyor ve kütlesi 14 kg ise, ivmesi nedir?",
+    "options": [
       "4 m/s²",
       "5 m/s²",
       "6 m/s²",
+      "7 m/s²",
       "8 m/s²"
     ],
     "correctAnswer": 1,
-    "explanation": "İvme = net kuvvet / kütle = 20 N / 5 kg = 4 m/s².",
+    "explanation": "a = F/m formülü ile a = 70 N / 14 kg = 5 m/s² bulunur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764577918696_25",
+    "id": "ai_1764577918696_24",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden kuvvetler toplamı 15 N ve cisim 3 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme = net kuvvet / kütle = 15 N / 3 kg = 5 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_35",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 18 N kuvvet uygulandığında, 6 kg kütleli cismin ivmesi ne olur?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 18 N / 6 kg = 3 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_10",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 15 N'lik bir kuvvetle 3 m/s²'lik ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "2 kg",
-      "3 kg",
-      "5 kg",
-      "7 kg",
-      "10 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kütle = net kuvvet / ivme = 15 N / 3 m/s² = 5 kg.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_26",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi 60 N kuvvetle itiyorsanız ve kütlesi 15 kg ise, ivmesi nedir?",
+    "questionText": "Bir cisme 25 N'lik bir kuvvet uygulandığında eğer cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
     "options": [
       "3 m/s²",
       "4 m/s²",
@@ -1356,104 +1052,40 @@
       "7 m/s²"
     ],
     "correctAnswer": 2,
-    "explanation": "a = F/m formülü ile a = 60 N / 15 kg = 4 m/s² bulunur.",
+    "explanation": "İvme = net kuvvet / kütle = 25 N / 5 kg = 5 m/s².",
     "difficulty": 4
   },
   {
-    "id": "ai_1764523835303_20",
+    "id": "ai_1764527476569_27",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden kuvvet 12 N ve kütlesi 3 kg ise, ivmesi nedir?",
+    "questionText": "Bir cisme 80 N kuvvet uygulanıyor ve kütlesi 20 kg ise, ivmesi nedir?",
     "options": [
-      "2 m/s²",
       "3 m/s²",
       "4 m/s²",
       "5 m/s²",
-      "6 m/s²"
+      "6 m/s²",
+      "7 m/s²"
     ],
     "correctAnswer": 2,
-    "explanation": "İvme a, F/m formülü ile hesaplanır: a = 12 N / 3 kg = 4 m/s².",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476569_30",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 36 N kuvvet uygulanıyor ve kütlesi 9 kg ise, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 36 N / 9 kg = 4 m/s² bulunur.",
+    "explanation": "a = F/m formülü ile a = 80 N / 20 kg = 4 m/s² bulunur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764575446128_9",
+    "id": "ai_1764576597707_7",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 15 N kuvvet uygulanıyor ve cisim 3 kg. Cisim ne kadar hızlanır?",
+    "questionText": "Bir cisme 25 N kuvvet uygulanıyor ve cisim 5 m ilerliyorsa, yapılan iş nedir?",
     "options": [
-      "3 m/s²",
-      "5 m/s²",
-      "1 m/s²",
-      "2 m/s²",
-      "4 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülüyle hesaplanır: a = 15 N / 3 kg = 5 m/s².",
-    "difficulty": 1
-  },
-  {
-    "id": "ai_1764520178392_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 20 N'lik bir kuvvet uygulanıyor ve bu kuvvet cismin 4 m/s² ivme kazanmasına neden oluyor. Cisim üzerindeki net kuvvet hangi yönü göstermektedir?",
-    "options": [
-      "Yukarı",
-      "Aşağı",
-      "Sağa",
-      "Sola",
-      "Cismin hareket yönü ile aynı"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Cisim pozitif bir ivme kazanıyorsa, net kuvvetin yönü cismin hareket yönü ile aynıdır. Dolayısıyla doğru cevap 'Cismin hareket yönü ile aynı' olur.",
-    "difficulty": 3
-  },
-  {
-    "id": "ai_1764523835303_11",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Cismin kütlesi 4 kg ve ivmesi 3 m/s² olduğuna göre, cisme etki eden kuvvet nedir?",
-    "options": [
-      "4 N",
-      "7 N",
-      "10 N",
-      "12 N",
-      "15 N"
-    ],
-    "correctAnswer": 3,
-    "explanation": "F = m*a formülü ile hesaplayarak: F = 4 kg * 3 m/s² = 12 N bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476568_17",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Cismin kütlesi 25 kg ve üzerine 100 N kuvvet uygulanıyorsa, ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
+      "100 J",
+      "125 J",
+      "150 J",
+      "175 J",
+      "200 J"
     ],
     "correctAnswer": 0,
-    "explanation": "a = F/m formülü ile a = 100 N / 25 kg = 4 m/s² bulunur.",
-    "difficulty": 4
+    "explanation": "İş = Kuvvet x Mesafe = 25 N x 5 m = 125 J.",
+    "difficulty": 2
   },
   {
     "id": "ai_1764577918696_3",
@@ -1472,10 +1104,26 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764577918696_14",
+    "id": "ai_1764523835303_14",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 3 kg ve üzerine etki eden kuvvet 9 N ise, cismin ivmesi kaçtır?",
+    "questionText": "Bir cisme 30 N kuvvet uygulanıyorsa ve bu cisim 15 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "1 kg",
+      "2 kg",
+      "3 kg",
+      "4 kg",
+      "5 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cismin kütlesi m = F/a formülü ile hesaplanır: m = 30 N / 15 m/s² = 2 kg.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476569_37",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 100 N kuvvet uygulanıyor ve kütlesi 50 kg ise, ivmesi nedir?",
     "options": [
       "1 m/s²",
       "2 m/s²",
@@ -1483,9 +1131,41 @@
       "4 m/s²",
       "5 m/s²"
     ],
-    "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 9 N / 3 kg = 3 m/s².",
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 100 N / 50 kg = 2 m/s² bulunur.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476568_20",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 84 N kuvvet uygulanıyor ve kütlesi 21 kg ise, cismin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 84 N / 21 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793960_19",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim, 9 N'lik bir kuvvetle yukarıya doğru çekildiğinde, cismin kütlesi 1 kg ise, ivme ne olur?",
+    "options": [
+      "0 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "9 m/s²"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Ağırlık = m*g = 1 kg * 9.8 m/s² = 9.8 N. Net kuvvet = 9 N - 9.8 N < 0 olduğu için ivme hesaplanamaz.",
+    "difficulty": 5
   },
   {
     "id": "ai_1764523835303_7",
@@ -1504,26 +1184,42 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764577918696_0",
+    "id": "ai_1764577918696_10",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden net kuvvet 20 N ve cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
+    "questionText": "Bir cisim 15 N'lik bir kuvvetle 3 m/s²'lik ivme kazanıyorsa, cismin kütlesi nedir?",
     "options": [
-      "2 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "10 m/s²",
-      "20 m/s²"
+      "2 kg",
+      "3 kg",
+      "5 kg",
+      "7 kg",
+      "10 kg"
     ],
-    "correctAnswer": 1,
-    "explanation": "Newton'un ikinci yasasına göre, net kuvvet = kütle x ivme. Bu durumda ivme = net kuvvet / kütle = 20 N / 5 kg = 4 m/s².",
+    "correctAnswer": 2,
+    "explanation": "Kütle = net kuvvet / ivme = 15 N / 3 m/s² = 5 kg.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764577918696_4",
+    "id": "ai_1764523835304_26",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 8 kg ve üzerine etki eden net kuvvet 32 N ise, cismin ivmesi kaçtır?",
+    "questionText": "Bir cisim üzerine etki eden kuvvetler 15 N sağa ve 10 N sola ise, net kuvvet nedir?",
+    "options": [
+      "5 N sağ",
+      "5 N sol",
+      "10 N sağ",
+      "10 N sol",
+      "Sıfır"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet, 15 N - 10 N = 5 N sağ yönünde bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476569_36",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 75 N kuvvet uygulanıyor ve kütlesi 25 kg ise, ivmesi nedir?",
     "options": [
       "2 m/s²",
       "3 m/s²",
@@ -1531,89 +1227,57 @@
       "5 m/s²",
       "6 m/s²"
     ],
-    "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 32 N / 8 kg = 4 m/s².",
+    "correctAnswer": 3,
+    "explanation": "a = F/m formülü ile a = 75 N / 25 kg = 3 m/s² bulunur.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764577918696_6",
+    "id": "ai_1764527476569_22",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 20 N'lik bir kuvvetle 5 kg kütleye sahipken, bu cisim hangi yönde hareket edecektir?",
+    "questionText": "Bir cisme 7 N kuvvet uygulanıyor ve cismin kütlesi 3 kg ise, ivmesi nedir?",
     "options": [
-      "Sola",
-      "Sağa",
-      "Yukarı",
-      "Aşağı",
-      "Dengede kalır"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet sağa doğru olduğundan ve ağırlık etkisi yoksa cisim sağa hareket eder.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_15",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 6 N'lik kuvvetle itilirken, 4 N'lik bir direnç kuvveti varsa, cismin net kuvveti nedir?",
-    "options": [
-      "0 N",
-      "2 N",
-      "4 N",
-      "6 N",
-      "10 N"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet = itme kuvveti - direnç kuvveti = 6 N - 4 N = 2 N.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476569_25",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 28 N kuvvet uygulanıyor ve kütlesi 7 kg ise, ivmesi nedir?",
-    "options": [
+      "1 m/s²",
+      "2 m/s²",
       "3 m/s²",
       "4 m/s²",
-      "5 m/s²",
-      "6 m/s²",
-      "7 m/s²"
+      "5 m/s²"
     ],
     "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 28 N / 7 kg = 4 m/s² bulunur.",
+    "explanation": "a = F/m formülü ile a = 7 N / 3 kg = 2.33 m/s² bulunur. Yaklaşık olarak 2 m/s² denilebilir.",
     "difficulty": 4
   },
   {
-    "id": "ai_1764576597707_5",
+    "id": "ai_1764498244238_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cismi 15 N kuvvet ile çeken bir kişi, cismi 3 m hareket ettirirse ne kadar iş yapar?",
+    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme yatay doğrultuda, büyüklüğü yavaş yavaş artırılan bir F kuvveti uygulanıyor. F kuvvetinin büyüklüğü 25 N olduğunda cisme etki eden net kuvvet kaç N olur? (g = 10 m/s²)",
     "options": [
-      "30 J",
-      "45 J",
-      "60 J",
-      "75 J",
-      "90 J"
+      "0",
+      "5",
+      "9",
+      "16",
+      "20"
     ],
     "correctAnswer": 2,
-    "explanation": "İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
-    "difficulty": 2
+    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini ve kinetik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Kinetik sürtünme kuvveti (fk) = μk * N = 0,4 * 40 N = 16 N. Uygulanan kuvvet F = 25 N, maksimum statik sürtünme kuvveti olan 20 N'dan büyük olduğu için cisim harekete geçer. Cisim hareket halindeyken ona etki eden sürtünme kuvveti, kinetik sürtünme kuvvetidir (fk = 16 N). Newton'un ikinci hareket yasasına göre net kuvvet (Fnet), uygulanan kuvvet ile kinetik sürtünme kuvvetinin farkıdır: Fnet = F - fk = 25 N - 16 N = 9 N.",
+    "difficulty": 3
   },
   {
-    "id": "ai_1764575446128_2",
+    "id": "ai_1764520178392_1",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Aşağıdakilerden hangisi bir kuvvet birimi değildir?",
+    "questionText": "Bir cisme 20 N'lik bir kuvvet uygulanıyor ve bu kuvvet cismin 4 m/s² ivme kazanmasına neden oluyor. Cisim üzerindeki net kuvvet hangi yönü göstermektedir?",
     "options": [
-      "Newton",
-      "Düzen",
-      "Kilogram",
-      "Dinamometre",
-      "Pound"
+      "Yukarı",
+      "Aşağı",
+      "Sağa",
+      "Sola",
+      "Cismin hareket yönü ile aynı"
     ],
-    "correctAnswer": 1,
-    "explanation": "Düzen, kuvvet birimi değildir. Newton ve pound kuvvet birimidir, kilogram ise kütle birimidir.",
-    "difficulty": 1
+    "correctAnswer": 4,
+    "explanation": "Cisim pozitif bir ivme kazanıyorsa, net kuvvetin yönü cismin hareket yönü ile aynıdır. Dolayısıyla doğru cevap 'Cismin hareket yönü ile aynı' olur.",
+    "difficulty": 3
   },
   {
     "id": "ai_1764523835303_21",
@@ -1648,6 +1312,182 @@
     "difficulty": 5
   },
   {
+    "id": "ai_1764577918696_11",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N'lik bir kuvvetle yukarı doğru çekildiğinde, 4 N'lik bir ağırlığı varsa, cismin ivmesi nedir?",
+    "options": [
+      "0 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net kuvvet = 10 N - 4 N = 6 N. Kütle = ağırlık / g = 4 N / 9.8 m/s² ≈ 0.41 kg. İvme = 6 N / 0.41 kg ≈ 14.6 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793959_7",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N kuvvetle yukarı çekilirken, aynı anda 4 N kuvvetle aşağı çekiliyorsa net kuvvet nedir?",
+    "options": [
+      "6 N yukarı",
+      "6 N aşağı",
+      "14 N yukarı",
+      "14 N aşağı",
+      "0 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet = Yukarı kuvvet - Aşağı kuvvet = 10 N - 4 N = 6 N yukarı.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764527476567_6",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 50 N kuvvetle itiliyor ve 10 kg kütleye sahipse, cismin ivmesi nedir?",
+    "options": [
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "a = F/m formülü ile ivmeyi buluruz. F = 50 N ve m = 10 kg. Dolayısıyla a = 50 N / 10 kg = 5 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476569_25",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 28 N kuvvet uygulanıyor ve kütlesi 7 kg ise, ivmesi nedir?",
+    "options": [
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 28 N / 7 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476569_35",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 18 N kuvvet uygulandığında, 6 kg kütleli cismin ivmesi ne olur?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 18 N / 6 kg = 3 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835304_27",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 100 N'luk bir kuvvet uygulandığında ve cismin ivmesi 20 m/s² ise, cismin kütlesi nedir?",
+    "options": [
+      "2 kg",
+      "4 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 100 N / 20 m/s² = 5 kg.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_4",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 8 kg ve üzerine etki eden net kuvvet 32 N ise, cismin ivmesi kaçtır?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme = net kuvvet / kütle = 32 N / 8 kg = 4 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575446128_3",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden kuvvetler dengeliyse, cisim nasıl bir hareket yapar?",
+    "options": [
+      "Hızlanır",
+      "Yavaşlar",
+      "Dönmeye başlar",
+      "Sabit kalır",
+      "Durur"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dengeli kuvvetler cismi sabit bir durumda tutar, yani cisim sabit kalır.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764500964126_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Yatay bir yolda hareket eden bir araba aniden fren yaptığında, sürücünün öne doğru savrulması olayı Newton'un hareket yasalarından hangisi ile en iyi açıklanır?",
+    "options": [
+      "Etki-Tepki Prensibi (III. Yasa)",
+      "Eylemsizlik Prensibi (I. Yasa)",
+      "Dinamik Prensibi (II. Yasa)",
+      "Kütle Çekim Yasası",
+      "Enerjinin Korunumu Yasası"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton'un birinci hareket yasası olan Eylemsizlik Prensibi, bir cisme etki eden net kuvvet sıfır ise cismin hareket durumunu (durgunsa durgunluğunu, hareketliyse sabit hızlı hareketini) koruyacağını belirtir. Araba fren yaptığında, araba ve koltuk yavaşlar, ancak sürücünün vücudu eylemsizlik nedeniyle o anki hareket durumunu, yani ileriye doğru olan hızını koruma eğilimindedir. Bu nedenle, araba yavaşlarken sürücü öne doğru savrulur. Bu durum doğrudan eylemsizlik prensibi ile açıklanır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580793960_20",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 16 N'lik bir kuvvetle 4 kg'lık bir cisim üzerinde ivme kazanıyorsa, ivme ne kadardır?",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "6 m/s²",
+      "8 m/s²",
+      "10 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme a = F/m = 16 N / 4 kg = 4 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793960_25",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N'lik bir kuvvetle sağa doğru itiliyor ve 10 N'lik bir kuvvetle sola çekiliyorsa, net kuvvet nedir?",
+    "options": [
+      "10 N sağa",
+      "10 N sola",
+      "0 N",
+      "5 N sağa",
+      "5 N sola"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Net kuvvet = 10 N (sağa) - 10 N (sola) = 0 N.",
+    "difficulty": 5
+  },
+  {
     "id": "ai_1764520178392_2",
     "subjectId": "fiz",
     "topic": "Kuvvet",
@@ -1664,20 +1504,260 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764527476569_31",
+    "id": "ai_1764527476569_34",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 50 N kuvvet uygulanıyor ve kütlesi 10 kg ise, ivmesi nedir?",
+    "questionText": "Bir cisme uygulanan 16 N kuvvet, 4 kg kütleli bir cismin ivmesini ne olur?",
     "options": [
+      "2 m/s²",
+      "3 m/s²",
       "4 m/s²",
       "5 m/s²",
-      "6 m/s²",
-      "7 m/s²",
-      "8 m/s²"
+      "6 m/s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "a = F/m formülü ile a = 16 N / 4 kg = 4 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793959_11",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim, 2 N'lik bir kuvvetle 4 m/s²'lik bir ivme kazanıyorsa, cismin kütlesi ne kadardır?",
+    "options": [
+      "0.5 kg",
+      "1 kg",
+      "2 kg",
+      "3 kg",
+      "4 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kütle m = F/a = 2 N / 4 m/s² = 0.5 kg olarak bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_6",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 20 N'lik bir kuvvetle 5 kg kütleye sahipken, bu cisim hangi yönde hareket edecektir?",
+    "options": [
+      "Sola",
+      "Sağa",
+      "Yukarı",
+      "Aşağı",
+      "Dengede kalır"
     ],
     "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 50 N / 10 kg = 5 m/s² bulunur.",
+    "explanation": "Net kuvvet sağa doğru olduğundan ve ağırlık etkisi yoksa cisim sağa hareket eder.",
     "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835303_3",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 5 N'luk bir kuvvetle sağa itildiğinde, eğer 3 N'luk bir kuvvetle sola itilirse, net kuvvet nedir?",
+    "options": [
+      "8 N sağ",
+      "2 N sağ",
+      "2 N sol",
+      "5 N sol",
+      "5 N sağ"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sağa uygulanan 5 N kuvvet ile sola uygulanan 3 N kuvvet karşılaştırıldığında, net kuvvet 5 N - 3 N = 2 N sağ yönündedir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793960_26",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 14 N'lik bir kuvvetle yukarı çekiliyor ve cisim 3 kg ağırlığında ise, net kuvvet nedir?",
+    "options": [
+      "0 N",
+      "4 N",
+      "10 N",
+      "14 N",
+      "18 N"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ağırlık = m*g = 3 kg * 9.8 m/s² = 29.4 N. Net kuvvet = 14 N - 29.4 N < 0 olduğu için net kuvvet hesaplanamaz.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_18",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 12 N'lik bir kuvvetle yukarı doğru çekiliyorsa ve 6 N'lik bir ağırlığı varsa, cismin ivmesi nedir?",
+    "options": [
+      "0 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net kuvvet = 12 N - 6 N = 6 N. Kütle = ağırlık / g = 6 N / 9.8 m/s² ≈ 0.61 kg. İvme = 6 N / 0.61 kg ≈ 9.84 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476567_4",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 30 N kuvvet uygulanıyor ve cisim 10 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "1 kg",
+      "2 kg",
+      "3 kg",
+      "4 kg",
+      "5 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "F = m * a formülünden m = F/a olarak bulunur. Burada F = 30 N ve a = 10 m/s². Dolayısıyla m = 30 N / 10 m/s² = 3 kg.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476568_9",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 7 kg kütleye ve 21 N kuvvete sahip. Cisim üzerinde uygulanan kuvvetin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile ivmeyi buluruz. F = 21 N ve m = 7 kg. Dolayısıyla a = 21 N / 7 kg = 3 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835304_24",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 5 N kuvvetle sağa itmekteyiz. Eğer cisim 2 m/s² ivme alıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "1 kg",
+      "2.5 kg",
+      "5 kg",
+      "10 kg",
+      "20 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kütle m, F/a formülü ile: m = 5 N / 2 m/s² = 2.5 kg bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793959_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan net kuvvet 10 N ve cismin kütlesi 2 kg ise cismin ivmesi nedir?",
+    "options": [
+      "5 m/s²",
+      "10 m/s²",
+      "15 m/s²",
+      "20 m/s²",
+      "25 m/s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Newton'un ikinci yasası F = m*a formülünden a = F/m = 10 N / 2 kg = 5 m/s² bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793960_23",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 25 N'lik bir kuvvetle yukarı çekiliyor ve 10 N'lik bir ağırlığı varsa, net kuvvet nedir?",
+    "options": [
+      "15 N yukarı",
+      "25 N yukarı",
+      "35 N yukarı",
+      "10 N yukarı",
+      "0 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet = Yukarı kuvvet - Ağırlık = 25 N - 10 N = 15 N yukarı.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_14",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 3 kg ve üzerine etki eden kuvvet 9 N ise, cismin ivmesi kaçtır?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme = net kuvvet / kütle = 9 N / 3 kg = 3 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764523835303_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan kuvvet, cismin hızını nasıl değiştirir?",
+    "options": [
+      "Yavaşlatır",
+      "Hızlandırır",
+      "Durdurur",
+      "Yavaşlatır veya hızlandırır",
+      "Hızını değiştirmez"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Uygulanan kuvvet, cismin hızını artırabilir, azaltabilir veya sabit tutabilir. Dolayısıyla kuvvet, cismin hızında değişiklik yapabilir.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_9",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulanırken, cisim 2 kg kütleye sahipse, cismin ivmesi kaçtır?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "İvme = net kuvvet / kütle = 10 N / 2 kg = 5 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476569_24",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 30 N kuvvet uygulanıyor ve kütlesi 10 kg ise, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "a = F/m formülü ile a = 30 N / 10 kg = 3 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575446128_9",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 15 N kuvvet uygulanıyor ve cisim 3 kg. Cisim ne kadar hızlanır?",
+    "options": [
+      "3 m/s²",
+      "5 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "4 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülüyle hesaplanır: a = 15 N / 3 kg = 5 m/s².",
+    "difficulty": 1
   },
   {
     "id": "ai_1764527476568_16",
@@ -1696,26 +1776,26 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764576597706_4",
+    "id": "ai_1764576597705_0",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cismin ivmesi 2 m/s² ve kütlesi 10 kg ise, cisme etki eden net kuvvet nedir?",
+    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m ilerliyorsa, iş nedir?",
     "options": [
-      "5 N",
-      "10 N",
-      "15 N",
-      "20 N",
-      "25 N"
+      "5 J",
+      "10 J",
+      "15 J",
+      "20 J",
+      "25 J"
     ],
-    "correctAnswer": 3,
-    "explanation": "Net kuvvet F = m x a formülüyle hesaplanır: F = 10 kg x 2 m/s² = 20 N.",
+    "correctAnswer": 1,
+    "explanation": "İş, kuvvet ile mesafe çarpımına eşittir: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
     "difficulty": 2
   },
   {
-    "id": "ai_1764523835303_14",
+    "id": "ai_1764527476567_2",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 30 N kuvvet uygulanıyorsa ve bu cisim 15 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "questionText": "Bir cisim 3 N'lik bir kuvvet ile sağa doğru itiliyor. Eğer cisim 3 m/s²'lik bir ivme kazanıyorsa, cismin kütlesi kaç kilogramdır?",
     "options": [
       "1 kg",
       "2 kg",
@@ -1724,8 +1804,168 @@
       "5 kg"
     ],
     "correctAnswer": 1,
-    "explanation": "Cismin kütlesi m = F/a formülü ile hesaplanır: m = 30 N / 15 m/s² = 2 kg.",
+    "explanation": "F = m * a formülünü kullanarak m = F/a olarak buluruz. Burada F = 3 N ve a = 3 m/s². Dolayısıyla m = 3 N / 3 m/s² = 1 kg.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764575446128_5",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan kuvvetler toplamı 50 N ve cisim 10 kg ise, cisim ne kadar ivme kazanır?",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "10 m/s²",
+      "20 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Newton'un ikinci yasasına göre a = F/m formülüne göre a = 50 N / 10 kg = 5 m/s².",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764575446128_6",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim x yönünde 30 N kuvvetle itiliyorsa, bu cisme etki eden kuvvetin yönü nedir?",
+    "options": [
+      "Yukarı",
+      "Aşağı",
+      "Sağa",
+      "Sola",
+      "X yönünde"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Cismin x yönünde itildiği belirtilmiş, bu nedenle kuvvetin yönü x yönündedir.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764520178392_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme uygulanan 10 N'lik bir kuvvet, cismi 5 m/s² ivme ile hızlandırıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "2 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kuvvet = Kütle x İvme formülünden yola çıkarak, Kütle = Kuvvet / İvme = 10 N / 5 m/s² = 2 kg bulunur.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764521092961_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 15 N'lik bir kuvvetle sürüklendiğinde, 3 m'lik bir mesafe katetmektedir. Kuvvetin yaptığı iş nedir?",
+    "options": [
+      "10 J",
+      "45 J",
+      "30 J",
+      "50 J",
+      "20 J"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yine iş, kuvvet ile mesafenin çarpımı ile bulunur: İş = Kuvvet x Mesafe = 15 N x 3 m = 45 J.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580793959_10",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Eğer bir cisme 30 N'lik bir kuvvet 3 kg'lık bir cisim üzerinde uygulanırsa, cisim ne kadar ivme kazanır?",
+    "options": [
+      "5 m/s²",
+      "10 m/s²",
+      "15 m/s²",
+      "20 m/s²",
+      "25 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme a = F/m = 30 N / 3 kg = 10 m/s² bulunur.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793959_8",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir kuvvet cisme uygulandığında, cismin ivmesi 3 m/s² ve kütlesi 4 kg ise, kuvvet ne kadardır?",
+    "options": [
+      "6 N",
+      "12 N",
+      "15 N",
+      "9 N",
+      "3 N"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kuvvet F = m*a formülü ile hesaplanır: F = 4 kg * 3 m/s² = 12 N.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_13",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N kuvvetle yukarı kaldırıldığında, eğer yer çekimi ivmesi 10 m/s² ise, cisimdeki kütle nedir?",
+    "options": [
+      "1 kg",
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Yukarı kaldırma kuvveti yer çekimi kuvvetine eşit olmalıdır: 10 N = m * 10 m/s² ise m = 1 kg bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764523835303_9",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Aynı yönde hareket eden 2 cism üzerine etki eden kuvvetlerin toplamı nedir?",
+    "options": [
+      "İki kuvvetin toplamı",
+      "İki kuvvetin farkı",
+      "Sıfır",
+      "Cisimlerin kütleleri",
+      "Yalnızca daha büyük olan kuvvet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aynı yönde hareket eden cisimlere etki eden kuvvetler toplanarak net kuvveti oluşturur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764500964126_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Kütlesi 4 kg olan bir cisim, sürtünmeli yatay bir düzlemde durmaktadır. Cisim ile yüzey arasındaki statik sürtünme katsayısı 0,5 ve kinetik sürtünme katsayısı 0,4'tür. Cisme 18 N büyüklüğünde yatay bir kuvvet uygulandığında cisme etki eden sürtünme kuvvetinin büyüklüğü kaç N olur? (g = 10 m/s²)",
+    "options": [
+      "0",
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Öncelikle cisme etki edebilecek maksimum statik sürtünme kuvvetini hesaplamalıyız. Normal kuvvet (N), cismin ağırlığına eşittir: N = m * g = 4 kg * 10 m/s² = 40 N. Maksimum statik sürtünme kuvveti (fs,max) = μs * N = 0,5 * 40 N = 20 N. Uygulanan kuvvet (F = 18 N), maksimum statik sürtünme kuvvetinden (20 N) küçüktür. Bu nedenle cisim hareket etmez. Cisim hareket etmediği için, cisme etki eden statik sürtünme kuvveti, uygulanan kuvvete eşit büyüklükte ve zıt yönde olur. Dolayısıyla sürtünme kuvveti 18 N'dur. Kinetik sürtünme katsayısı, cisim harekete geçtikten sonra kullanılacağı için bu soruda bir çeldiricidir.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764577918696_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden net kuvvet 20 N ve cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "10 m/s²",
+      "20 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton'un ikinci yasasına göre, net kuvvet = kütle x ivme. Bu durumda ivme = net kuvvet / kütle = 20 N / 5 kg = 4 m/s².",
+    "difficulty": 4
   },
   {
     "id": "ai_1764498244238_1",
@@ -1744,52 +1984,292 @@
     "difficulty": 3
   },
   {
-    "id": "ai_1764576597706_3",
+    "id": "ai_1764577918696_7",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Aynı yönde hareket eden 2 kuvvet (10 N ve 15 N) cisme uygulanırsa, net kuvvet nedir?",
+    "questionText": "Bir cismi 25 N'lik bir kuvvetle itiyorsunuz. Cisim 10 kg kütleye sahipse, cismin ivmesi nedir?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "2.5 m/s²",
+      "3 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "İvme = net kuvvet / kütle = 25 N / 10 kg = 2.5 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476569_29",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 45 N kuvvet ile itiliyorsa ve kütlesi 9 kg ise, ivmesi ne olur?",
+    "options": [
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "a = F/m formülü ile a = 45 N / 9 kg = 5 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476569_33",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 24 N kuvvet uygulanıyor ve kütlesi 8 kg ise, ivmesi nedir?",
+    "options": [
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "a = F/m formülü ile a = 24 N / 8 kg = 3 m/s² bulunur.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764527476567_3",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim, 12 N kuvvet ile 2 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "4 kg",
+      "5 kg",
+      "6 kg",
+      "7 kg",
+      "8 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Newton'un 2. yasasına göre F = m * a formülünden m = F/a olarak hesaplanır. Burada F = 12 N ve a = 2 m/s². Dolayısıyla m = 12 N / 2 m/s² = 6 kg.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793959_3",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme 3 N'lik kuvvet 2 saniye boyunca etki ederse, cismin son hızı başlangıçta 0 m/s ise ne olur?",
+    "options": [
+      "1 m/s",
+      "3 m/s",
+      "6 m/s",
+      "9 m/s",
+      "12 m/s"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme a = F/m ile hesaplanır. Cisim kütlesi verilmediği için hız: v = a*t = (3 N/m)*2 s = 6 m/s olarak bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576597706_4",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin ivmesi 2 m/s² ve kütlesi 10 kg ise, cisme etki eden net kuvvet nedir?",
     "options": [
       "5 N",
       "10 N",
       "15 N",
-      "25 N",
-      "30 N"
+      "20 N",
+      "25 N"
     ],
     "correctAnswer": 3,
-    "explanation": "Aynı yönde hareket eden kuvvetler toplandığı için net kuvvet 10 N + 15 N = 25 N olur.",
+    "explanation": "Net kuvvet F = m x a formülüyle hesaplanır: F = 10 kg x 2 m/s² = 20 N.",
     "difficulty": 2
   },
   {
-    "id": "ai_1764499617668_1",
+    "id": "ai_1764527476568_12",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir asansörün tavanına asılı dinamometrenin ucunda 5 kg kütleli bir cisim bulunmaktadır. Asansör aşağı yönde 2 m/s²'lik ivme ile yavaşlarken dinamometrenin gösterdiği değer kaç Newton'dur? (g = 10 m/s²)",
+    "questionText": "Bir cisim 25 N kuvvetle itiliyor, cismin kütlesi 5 kg. Cisim kaç m/s² ivme kazanır?",
     "options": [
-      "40 N",
-      "50 N",
-      "60 N",
-      "70 N",
-      "80 N"
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²"
     ],
     "correctAnswer": 2,
-    "explanation": "Cisme etki eden kuvvetler, yukarı yönde dinamometrenin uyguladığı gerilme kuvveti (T) ve aşağı yönde yer çekimi kuvvetidir (G = m*g). Newton'un ikinci hareket yasasına göre net kuvvet, kütle ile ivmenin çarpımına eşittir (F_net = m*a). Asansör aşağı yönde yavaşladığı için, net kuvvet ve ivme yukarı yöndedir. Bu durumda hareket denklemi şu şekilde yazılır:\n\nF_net = T - G\nm*a = T - m*g\n\nBurada 'a' ivmenin büyüklüğüdür. Dinamometrenin gösterdiği değer T gerilme kuvvetidir. Denklemi T için düzenlersek:\n\nT = m*g + m*a = m*(g + a)\nVerilen değerleri yerine koyalım:\nm = 5 kg\ng = 10 m/s²\na = 2 m/s²\n\nT = 5 * (10 + 2)\nT = 5 * 12\nT = 60 N\n\nBu nedenle dinamometrenin gösterdiği değer 60 N'dur. Doğru cevap C şıkkıdır.",
-    "difficulty": 3
+    "explanation": "a = F/m formülü ile a = 25 N / 5 kg = 5 m/s² bulunur.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764523835303_18",
+    "id": "ai_1764523835303_10",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cismi 4 N kuvvetle sağa itiyorsak ve 6 N kuvvetle sola itiyorsak, net kuvvet nedir?",
+    "questionText": "Bir cisme uygulanan kuvvetler 10 N sağa ve 5 N sola ise, cisme etki eden net kuvvet nedir?",
     "options": [
-      "2 N sağ",
-      "2 N sol",
+      "5 N sağ",
+      "5 N sol",
       "10 N sağ",
-      "10 N sol",
+      "15 N sağ",
       "Sıfır"
     ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet, sağa itme kuvvetinden sola itme kuvvetinin çıkarılmasıyla bulunur: 4 N - 6 N = 2 N sol.",
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet, sağa uygulanan kuvvetten sola uygulanan kuvvetin çıkarılmasıyla bulunur: 10 N - 5 N = 5 N sağ.",
     "difficulty": 5
+  },
+  {
+    "id": "ai_1764580793959_4",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismin kütlesi 5 kg ve hızı 2 m/s ise, cismin kinetik enerjisi nedir?",
+    "options": [
+      "5 J",
+      "10 J",
+      "15 J",
+      "20 J",
+      "25 J"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kinetik enerji formülü KE = 1/2 mv² kullanılarak hesaplanır: KE = 1/2 * 5 kg * (2 m/s)² = 20 J.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N'lik bir kuvvetle sağa doğru itilmekte ve 5 N'lik bir direnç kuvveti sola etki ediyorsa, cismin net kuvveti nedir?",
+    "options": [
+      "5 N sağa",
+      "5 N sola",
+      "10 N sağa",
+      "15 N sağa",
+      "0 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet, itme kuvveti ile direnç kuvveti arasındaki farktır. 10 N - 5 N = 5 N sağa.",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764577918696_13",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi etkileyen toplam kuvvet 25 N ise ve cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
+    "options": [
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²",
+      "6 m/s²",
+      "7 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "İvme = net kuvvet / kütle = 25 N / 5 kg = 5 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793959_6",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 20 N'lik yukarı doğru bir kuvvetle kaldırılıyor. Cisim 5 kg ağırlığında ise, cisme etki eden net kuvvet nedir?",
+    "options": [
+      "15 N",
+      "20 N",
+      "5 N",
+      "0 N",
+      "25 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ağırlık = m*g = 5 kg * 9.8 m/s² = 49 N. Net kuvvet = 20 N - 49 N = -29 N (aşağı doğru).",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764576597706_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden net kuvvet 50 N ve cisim 5 kg ise, cismin ivmesi nedir?",
+    "options": [
+      "5 m/s²",
+      "10 m/s²",
+      "15 m/s²",
+      "20 m/s²",
+      "25 m/s²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Newton'un ikinci yasasına göre, F = m x a; a = F/m = 50 N / 5 kg = 10 m/s².",
+    "difficulty": 2
+  },
+  {
+    "id": "ai_1764577918696_23",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 10 N'lik bir kuvvetle yukarı çekiliyor ve 5 N'lik bir ağırlığı varsa, cismin ivmesi nedir?",
+    "options": [
+      "0 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Net kuvvet = 10 N - 5 N = 5 N. Kütle = ağırlık / g = 5 N / 9.8 m/s² ≈ 0.51 kg. İvme = 5 N / 0.51 kg ≈ 9.80 m/s².",
+    "difficulty": 4
+  },
+  {
+    "id": "ai_1764580793960_15",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 4 N'lik bir kuvvetle 5 m/s² ivme kazanıyorsa, cismin kütlesi ne kadardır?",
+    "options": [
+      "0.8 kg",
+      "1 kg",
+      "2 kg",
+      "4 kg",
+      "5 kg"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kütle m = F/a = 4 N / 5 m/s² = 0.8 kg olarak bulunur.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764575446128_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden net kuvvet 0 N ise, cisim hangi durumda olur?",
+    "options": [
+      "Hareketsiz",
+      "Sabit hızla hareket ediyor",
+      "Durdurulmuş",
+      "Yavaşlıyor",
+      "Hızlanıyor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Net kuvvet sıfırsa, cisim ya hareketsizdir ya da sabit hızla hareket etmektedir. Bu durumda cisim sabit hızla hareket ediyor.",
+    "difficulty": 1
+  },
+  {
+    "id": "ai_1764523835303_19",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Eğer bir cisme 40 N kuvvet uygulanıyorsa ve bu cisim 8 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
+    "options": [
+      "2.5 kg",
+      "3 kg",
+      "5 kg",
+      "7.5 kg",
+      "10 kg"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 40 N / 8 m/s² = 5 kg.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764577918696_20",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisme etki eden kuvvetler arasında hangi durumda cisim dengede kalır?",
+    "options": [
+      "Net kuvvet 0 N ise",
+      "Yalnızca bir kuvvet varsa",
+      "İvme varsa",
+      "Sadece kuvvet yoksa",
+      "Ağırlık kuvveti yoksa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cismin dengede kalması için üzerine etki eden net kuvvetin 0 N olması gerekir.",
+    "difficulty": 4
   },
   {
     "id": "ai_1764523835303_15",
@@ -1824,90 +2304,10 @@
     "difficulty": 4
   },
   {
-    "id": "ai_1764523835303_16",
+    "id": "ai_1764577918696_17",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme 50 N kuvvet uygulandığında, eğer bu cisim 10 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
-    "options": [
-      "2 kg",
-      "4 kg",
-      "5 kg",
-      "10 kg",
-      "15 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kütle m = F/a formülü kullanılarak hesaplanır: m = 50 N / 10 m/s² = 5 kg.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476569_22",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 7 N kuvvet uygulanıyor ve cismin kütlesi 3 kg ise, ivmesi nedir?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 7 N / 3 kg = 2.33 m/s² bulunur. Yaklaşık olarak 2 m/s² denilebilir.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_21",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N kuvvet ile itiliyorsa ve kütlesi 5 kg ise, ivmesi ne olur?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 10 N / 5 kg = 2 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_15",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Cismin kütlesi 11 kg ve üzerine 22 N kuvvet uygulanıyorsa, cismin ivmesi nedir?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 22 N / 11 kg = 2 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764527476568_11",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 15 N kuvvet uygulanıyorsa ve cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 0,
-    "explanation": "a = F/m formülüne göre a = 15 N / 5 kg = 3 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764577918696_22",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 40 N'lik bir kuvvetle hareket ettiriliyor ve cisim 8 kg kütleye sahipse, cismin ivmesi kaçtır?",
+    "questionText": "Bir cisim 30 N'lik bir kuvvetle hareket ettiriliyor ve cisim 10 kg kütleye sahipse, cismin ivmesi nedir?",
     "options": [
       "2 m/s²",
       "3 m/s²",
@@ -1916,343 +2316,23 @@
       "6 m/s²"
     ],
     "correctAnswer": 2,
-    "explanation": "İvme = net kuvvet / kütle = 40 N / 8 kg = 5 m/s².",
+    "explanation": "İvme = net kuvvet / kütle = 30 N / 10 kg = 3 m/s².",
     "difficulty": 4
   },
   {
-    "id": "ai_1764523835303_6",
+    "id": "ai_1764523835304_22",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan kuvvetler dengelendiğinde, cisim ne yapar?",
+    "questionText": "Bir cisim 15 N kuvvetle yukarı kaldırıldığında, eğer yer çekimi kuvveti 15 N ise, cisim ne yapar?",
     "options": [
+      "Yukarıda kalır",
+      "Aşağı düşer",
+      "Sabit kalır",
       "Hızlanır",
-      "Dönmeye başlar",
-      "Durağan kalır",
-      "Yavaşlar",
-      "Hızını artırır"
+      "Yavaşlar"
     ],
     "correctAnswer": 2,
-    "explanation": "Dengelenmiş kuvvetler, cismin hareket durumunu değiştirmez, dolayısıyla cisim durağan kalır veya sabit hızla hareket eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764523835303_12",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 20 N kuvvet uygulandığında, ivmesi 4 m/s² oluyor. Cismin kütlesi nedir?",
-    "options": [
-      "4 kg",
-      "5 kg",
-      "10 kg",
-      "15 kg",
-      "20 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Cismin kütlesi F = ma formülünden bulunur: m = F/a = 20 N / 4 m/s² = 5 kg.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764576597705_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 10 N'lik bir kuvvet uygulandığında, cisim 2 m ilerliyorsa, iş nedir?",
-    "options": [
-      "5 J",
-      "10 J",
-      "15 J",
-      "20 J",
-      "25 J"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İş, kuvvet ile mesafe çarpımına eşittir: İş = Kuvvet x Mesafe = 10 N x 2 m = 20 J.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764527476568_19",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Cismin kütlesi 18 kg ve üzerine 54 N kuvvet uygulanıyorsa, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "a = F/m formülü ile a = 54 N / 18 kg = 3 m/s² bulunur.",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764523835303_17",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Özgül ağırlığı 10 N/kg olan bir cisim, yer çekimi alanında ne kadar kuvvetle etkilenir?",
-    "options": [
-      "10 N",
-      "20 N",
-      "50 N",
-      "100 N",
-      "200 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cismin ağırlığı ağırlık = özgül ağırlık * kütle formülü ile hesaplanır. Özgül ağırlık 10 N/kg ise, 10 N/kilogram * 1 kg = 10 N.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764527476567_5",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 8 kg ve üzerine 32 N kuvvet uygulanıyorsa, cismin ivmesi nedir?",
-    "options": [
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²",
-      "6 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "F = m * a formülünden a = F/m olarak hesaplanır. Burada F = 32 N ve m = 8 kg. Dolayısıyla a = 32 N / 8 kg = 4 m/s².",
-    "difficulty": 4
-  },
-  {
-    "id": "ai_1764576597706_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi 3 N'lik bir kuvvetle 4 m iten bir kişi, ne kadar iş yapar?",
-    "options": [
-      "6 J",
-      "10 J",
-      "12 J",
-      "15 J",
-      "18 J"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İş = Kuvvet x Mesafe = 3 N x 4 m = 12 J.",
-    "difficulty": 2
-  },
-  {
-    "id": "ai_1764580793959_0",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme etki eden net kuvvet 0 N olduğunda, cismin hareket durumu hakkında ne söylenebilir?",
-    "options": [
-      "Cisim durur",
-      "Cisim sabit hızla hareket eder",
-      "Cisim hızlanır",
-      "Cisim yavaşlar",
-      "Cisim yön değiştirir"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Net kuvvet 0 N olduğunda, cisim ya durur ya da sabit hızla hareket eder.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_1",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme uygulanan net kuvvet 10 N ve cismin kütlesi 2 kg ise cismin ivmesi nedir?",
-    "options": [
-      "5 m/s²",
-      "10 m/s²",
-      "15 m/s²",
-      "20 m/s²",
-      "25 m/s²"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Newton'un ikinci yasası F = m*a formülünden a = F/m = 10 N / 2 kg = 5 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_2",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 15 N'lik bir kuvvetle yatay düzlemde çekilmektedir. Eğer sürtünme kuvveti 5 N ise, cisme etki eden net kuvvet nedir?",
-    "options": [
-      "10 N",
-      "15 N",
-      "5 N",
-      "20 N",
-      "0 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet, uygulanan kuvvet eksi sürtünme kuvveti ile hesaplanır: 15 N - 5 N = 10 N.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_3",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 3 N'lik kuvvet 2 saniye boyunca etki ederse, cismin son hızı başlangıçta 0 m/s ise ne olur?",
-    "options": [
-      "1 m/s",
-      "3 m/s",
-      "6 m/s",
-      "9 m/s",
-      "12 m/s"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme a = F/m ile hesaplanır. Cisim kütlesi verilmediği için hız: v = a*t = (3 N/m)*2 s = 6 m/s olarak bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_4",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 5 kg ve hızı 2 m/s ise, cismin kinetik enerjisi nedir?",
-    "options": [
-      "5 J",
-      "10 J",
-      "15 J",
-      "20 J",
-      "25 J"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kinetik enerji formülü KE = 1/2 mv² kullanılarak hesaplanır: KE = 1/2 * 5 kg * (2 m/s)² = 20 J.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_5",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismi 4 N'lik kuvvet ile itiyoruz ve sürtünme kuvveti 1 N. Cisme etki eden net kuvvet nedir?",
-    "options": [
-      "3 N",
-      "4 N",
-      "1 N",
-      "5 N",
-      "0 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet = Uygulanan kuvvet - Sürtünme kuvveti = 4 N - 1 N = 3 N.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_6",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 20 N'lik yukarı doğru bir kuvvetle kaldırılıyor. Cisim 5 kg ağırlığında ise, cisme etki eden net kuvvet nedir?",
-    "options": [
-      "15 N",
-      "20 N",
-      "5 N",
-      "0 N",
-      "25 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ağırlık = m*g = 5 kg * 9.8 m/s² = 49 N. Net kuvvet = 20 N - 49 N = -29 N (aşağı doğru).",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_7",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N kuvvetle yukarı çekilirken, aynı anda 4 N kuvvetle aşağı çekiliyorsa net kuvvet nedir?",
-    "options": [
-      "6 N yukarı",
-      "6 N aşağı",
-      "14 N yukarı",
-      "14 N aşağı",
-      "0 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet = Yukarı kuvvet - Aşağı kuvvet = 10 N - 4 N = 6 N yukarı.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_8",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir kuvvet cisme uygulandığında, cismin ivmesi 3 m/s² ve kütlesi 4 kg ise, kuvvet ne kadardır?",
-    "options": [
-      "6 N",
-      "12 N",
-      "15 N",
-      "9 N",
-      "3 N"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kuvvet F = m*a formülü ile hesaplanır: F = 4 kg * 3 m/s² = 12 N.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_9",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 5 N'lik kuvvetle sağa doğru itiliyor. Eğer cisim 2 kg ise, sağa doğru ivmesi nedir?",
-    "options": [
-      "2.5 m/s²",
-      "5 m/s²",
-      "20 m/s²",
-      "10 m/s²",
-      "15 m/s²"
-    ],
-    "correctAnswer": 0,
-    "explanation": "İvme a = F/m = 5 N / 2 kg = 2.5 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_10",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Eğer bir cisme 30 N'lik bir kuvvet 3 kg'lık bir cisim üzerinde uygulanırsa, cisim ne kadar ivme kazanır?",
-    "options": [
-      "5 m/s²",
-      "10 m/s²",
-      "15 m/s²",
-      "20 m/s²",
-      "25 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme a = F/m = 30 N / 3 kg = 10 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_11",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim, 2 N'lik bir kuvvetle 4 m/s²'lik bir ivme kazanıyorsa, cismin kütlesi ne kadardır?",
-    "options": [
-      "0.5 kg",
-      "1 kg",
-      "2 kg",
-      "3 kg",
-      "4 kg"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Kütle m = F/a = 2 N / 4 m/s² = 0.5 kg olarak bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_12",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 15 N'lik bir kuvvet etki ediyorsa ve cisim 3 kg ise, cisme etki eden ivme nedir?",
-    "options": [
-      "1 m/s²",
-      "3 m/s²",
-      "5 m/s²",
-      "15 m/s²",
-      "0.5 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme a = F/m = 15 N / 3 kg = 5 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793959_13",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisme 25 N'lik bir kuvvet uygulandığında, cismin kütlesi 5 kg ve cisim sabit hızla hareket ediyorsa, sürtünme kuvveti ne kadardır?",
-    "options": [
-      "0 N",
-      "5 N",
-      "10 N",
-      "15 N",
-      "25 N"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Cisim sabit hızda hareket ediyorsa, net kuvvet 0 olmalıdır. Dolayısıyla sürtünme kuvveti = 25 N.",
+    "explanation": "Uygulanan kuvvet yer çekimi kuvvetine eşit olduğundan, cisim sabit kalır.",
     "difficulty": 5
   },
   {
@@ -2272,154 +2352,42 @@
     "difficulty": 5
   },
   {
-    "id": "ai_1764580793960_15",
+    "id": "ai_1764575446128_4",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 4 N'lik bir kuvvetle 5 m/s² ivme kazanıyorsa, cismin kütlesi ne kadardır?",
+    "questionText": "Yer çekimi kuvveti, cisimlerin kütlelerine ve aralarındaki mesafeye bağlı olarak nasıl değişir?",
     "options": [
-      "0.8 kg",
-      "1 kg",
-      "2 kg",
-      "4 kg",
-      "5 kg"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kütle m = F/a = 4 N / 5 m/s² = 0.8 kg olarak bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_16",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 8 N'lik kuvvetle 2 kg'lık bir cisim üzerinde ivme kazanıyorsa, ivme ne kadardır?",
-    "options": [
-      "2 m/s²",
-      "4 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "10 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme a = F/m = 8 N / 2 kg = 4 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_17",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 12 N'lik bir kuvvet ile yukarı çekildiğinde, cisim 3 kg ise, cisimdeki ivme ne olur?",
-    "options": [
-      "0 m/s²",
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Ağırlık = m*g = 3 kg * 9.8 m/s² = 29.4 N. Net kuvvet: 12 N - 29.4 N < 0 olduğu için ivme hesaplanamaz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_18",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N'lik kuvvetle sağa doğru itiliyor ve 3 N'lik bir kuvvetle sola doğru çekiliyorsa, net kuvvet nedir?",
-    "options": [
-      "7 N sağa",
-      "7 N sola",
-      "10 N sağa",
-      "10 N sola",
-      "0 N"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet = 10 N (sağa) - 3 N (sola) = 7 N sağa.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_19",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim, 9 N'lik bir kuvvetle yukarıya doğru çekildiğinde, cismin kütlesi 1 kg ise, ivme ne olur?",
-    "options": [
-      "0 m/s²",
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "9 m/s²"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Ağırlık = m*g = 1 kg * 9.8 m/s² = 9.8 N. Net kuvvet = 9 N - 9.8 N < 0 olduğu için ivme hesaplanamaz.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_20",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 16 N'lik bir kuvvetle 4 kg'lık bir cisim üzerinde ivme kazanıyorsa, ivme ne kadardır?",
-    "options": [
-      "2 m/s²",
-      "4 m/s²",
-      "6 m/s²",
-      "8 m/s²",
-      "10 m/s²"
-    ],
-    "correctAnswer": 1,
-    "explanation": "İvme a = F/m = 16 N / 4 kg = 4 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_21",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cisim 18 N'lik bir kuvvetle 6 kg'lık bir cisim üzerinde ivme kazanıyorsa, ivme ne kadardır?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
-    ],
-    "correctAnswer": 2,
-    "explanation": "İvme a = F/m = 18 N / 6 kg = 3 m/s² bulunur.",
-    "difficulty": 5
-  },
-  {
-    "id": "ai_1764580793960_22",
-    "subjectId": "fiz",
-    "topic": "Kuvvet",
-    "questionText": "Bir cismin kütlesi 10 kg ve üzerinde 50 N'lik bir kuvvet varsa, cismin ivmesi ne kadardır?",
-    "options": [
-      "1 m/s²",
-      "2 m/s²",
-      "3 m/s²",
-      "4 m/s²",
-      "5 m/s²"
+      "Kütle ile ters orantılı",
+      "Mesafe ile doğru orantılı",
+      "Mesafe ile ters orantılı",
+      "Kütle ile doğru orantılı",
+      "Hiçbiri"
     ],
     "correctAnswer": 3,
-    "explanation": "İvme a = F/m = 50 N / 10 kg = 5 m/s² bulunur.",
-    "difficulty": 5
+    "explanation": "Yer çekimi kuvveti, cisimlerin kütlesi ile doğru orantılı, mesafe ile ise ters orantılıdır.",
+    "difficulty": 1
   },
   {
-    "id": "ai_1764580793960_23",
+    "id": "ai_1764523835304_25",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 25 N'lik bir kuvvetle yukarı çekiliyor ve 10 N'lik bir ağırlığı varsa, net kuvvet nedir?",
+    "questionText": "Bir cisme 50 N kuvvet uygulanıyor ve bu cisim 5 m/s² ivme kazanıyorsa, cismin kütlesi nedir?",
     "options": [
-      "15 N yukarı",
-      "25 N yukarı",
-      "35 N yukarı",
-      "10 N yukarı",
-      "0 N"
+      "5 kg",
+      "10 kg",
+      "15 kg",
+      "20 kg",
+      "25 kg"
     ],
-    "correctAnswer": 0,
-    "explanation": "Net kuvvet = Yukarı kuvvet - Ağırlık = 25 N - 10 N = 15 N yukarı.",
+    "correctAnswer": 1,
+    "explanation": "Kütle m, F/a formülü ile hesaplanır: m = 50 N / 5 m/s² = 10 kg.",
     "difficulty": 5
   },
   {
-    "id": "ai_1764580793960_24",
+    "id": "ai_1764527476568_19",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 4 kg'dır ve 12 N'lik bir kuvvet uygulanıyorsa, bu cisim hangi ivmeyi kazanır?",
+    "questionText": "Cismin kütlesi 18 kg ve üzerine 54 N kuvvet uygulanıyorsa, cismin ivmesi nedir?",
     "options": [
       "2 m/s²",
       "3 m/s²",
@@ -2428,39 +2396,87 @@
       "6 m/s²"
     ],
     "correctAnswer": 1,
-    "explanation": "İvme a = F/m = 12 N / 4 kg = 3 m/s² bulunur.",
-    "difficulty": 5
+    "explanation": "a = F/m formülü ile a = 54 N / 18 kg = 3 m/s² bulunur.",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764580793960_25",
+    "id": "ai_1764527476568_11",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 10 N'lik bir kuvvetle sağa doğru itiliyor ve 10 N'lik bir kuvvetle sola çekiliyorsa, net kuvvet nedir?",
+    "questionText": "Bir cisme 15 N kuvvet uygulanıyorsa ve cisim 5 kg kütleye sahipse, cismin ivmesi nedir?",
     "options": [
-      "10 N sağa",
-      "10 N sola",
-      "0 N",
-      "5 N sağa",
-      "5 N sola"
+      "1 m/s²",
+      "2 m/s²",
+      "3 m/s²",
+      "4 m/s²",
+      "5 m/s²"
     ],
-    "correctAnswer": 2,
-    "explanation": "Net kuvvet = 10 N (sağa) - 10 N (sola) = 0 N.",
-    "difficulty": 5
+    "correctAnswer": 0,
+    "explanation": "a = F/m formülüne göre a = 15 N / 5 kg = 3 m/s².",
+    "difficulty": 4
   },
   {
-    "id": "ai_1764580793960_26",
+    "id": "ai_1764580793959_13",
     "subjectId": "fiz",
     "topic": "Kuvvet",
-    "questionText": "Bir cisim 14 N'lik bir kuvvetle yukarı çekiliyor ve cisim 3 kg ağırlığında ise, net kuvvet nedir?",
+    "questionText": "Bir cisme 25 N'lik bir kuvvet uygulandığında, cismin kütlesi 5 kg ve cisim sabit hızla hareket ediyorsa, sürtünme kuvveti ne kadardır?",
     "options": [
       "0 N",
-      "4 N",
+      "5 N",
       "10 N",
-      "14 N",
-      "18 N"
+      "15 N",
+      "25 N"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cisim sabit hızda hareket ediyorsa, net kuvvet 0 olmalıdır. Dolayısıyla sürtünme kuvveti = 25 N.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1764499617668_1",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir asansörün tavanına asılı dinamometrenin ucunda 5 kg kütleli bir cisim bulunmaktadır. Asansör aşağı yönde 2 m/s²'lik ivme ile yavaşlarken dinamometrenin gösterdiği değer kaç Newton'dur? (g = 10 m/s²)",
+    "options": [
+      "40 N",
+      "50 N",
+      "60 N",
+      "70 N",
+      "80 N"
     ],
     "correctAnswer": 2,
-    "explanation": "Ağırlık = m*g = 3 kg * 9.8 m/s² = 29.4 N. Net kuvvet = 14 N - 29.4 N < 0 olduğu için net kuvvet hesaplanamaz.",
+    "explanation": "Cisme etki eden kuvvetler, yukarı yönde dinamometrenin uyguladığı gerilme kuvveti (T) ve aşağı yönde yer çekimi kuvvetidir (G = m*g). Newton'un ikinci hareket yasasına göre net kuvvet, kütle ile ivmenin çarpımına eşittir (F_net = m*a). Asansör aşağı yönde yavaşladığı için, net kuvvet ve ivme yukarı yöndedir. Bu durumda hareket denklemi şu şekilde yazılır:\n\nF_net = T - G\nm*a = T - m*g\n\nBurada 'a' ivmenin büyüklüğüdür. Dinamometrenin gösterdiği değer T gerilme kuvvetidir. Denklemi T için düzenlersek:\n\nT = m*g + m*a = m*(g + a)\nVerilen değerleri yerine koyalım:\nm = 5 kg\ng = 10 m/s²\na = 2 m/s²\n\nT = 5 * (10 + 2)\nT = 5 * 12\nT = 60 N\n\nBu nedenle dinamometrenin gösterdiği değer 60 N'dur. Doğru cevap C şıkkıdır.",
+    "difficulty": 3
+  },
+  {
+    "id": "ai_1764580793959_2",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cisim 15 N'lik bir kuvvetle yatay düzlemde çekilmektedir. Eğer sürtünme kuvveti 5 N ise, cisme etki eden net kuvvet nedir?",
+    "options": [
+      "10 N",
+      "15 N",
+      "5 N",
+      "20 N",
+      "0 N"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Net kuvvet, uygulanan kuvvet eksi sürtünme kuvveti ile hesaplanır: 15 N - 5 N = 10 N.",
+    "difficulty": 5
+  },
+  {
+    "id": "ai_1765545334044_0",
+    "subjectId": "fiz",
+    "topic": "Kuvvet",
+    "questionText": "Bir cismi 5 N'lik bir kuvvetle 3 m uzaklığa itiyoruz. Bu işlem sırasında yapılan iş nedir?",
+    "options": [
+      "15 J",
+      "5 J",
+      "10 J",
+      "12 J",
+      "8 J"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Yapılan iş, kuvvet ile yer değiştirme arasındaki açıya bağlıdır. Kuvvet ile yer değiştirme aynı doğrultuda ise yapılan iş, 'W = F * d' formülü ile hesaplanır. Burada F = 5 N, d = 3 m olduğundan W = 5 N * 3 m = 15 J'dir.",
     "difficulty": 5
   }
 ]
